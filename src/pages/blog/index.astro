@@ -1,0 +1,64 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+// Get all blog posts and sort by date
+const posts = await getCollection('blogs');
+const sortedPosts = posts;
+---
+
+<Layout title="Blog - Cool Name Maker | Naming Tips & Insights" description="Explore our blog for expert tips on naming, branding insights, and creative inspiration for finding the perfect name for your business, product, or project.">
+        <main class="container mx-auto px-4 py-12">
+            <!-- Blog Header Section -->
+            <section class="text-center mb-16">
+                <h1 class="text-2xl font-bold mb-12 text-center bg-gradient-to-r from-purple-600 via-blue-500 to-purple-600 bg-clip-text text-transparent">
+                    Naming Insights & Resources
+                </h1>
+            </section>
+
+            <!-- Blog Posts Grid -->
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                {sortedPosts.map((post) => (
+                    <article class="bg-white rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-all duration-300 overflow-hidden group ">
+                        <a href={`/blog/${post.slug}`} class="block flex flex-col h-full">
+                            <div class="p-6">
+                                <h2 class="text-xl font-bold mb-4 group-hover:text-blue-600 transition-colors">
+                                    {post.data.title}
+                                </h2>
+                                <div class="flex items-center text-gray-500 text-sm mb-4">
+                                    <span>
+                                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                                        </svg>
+                                        5 min read
+                                    </span>
+                                </div>
+                                <p class="text-gray-600 line-clamp-3">
+{post.body}
+                                </p>
+                            </div>
+                            <div class="flex-grow"></div>
+                            <div class="px-6 pb-6">
+                                <span class="text-blue-600 font-semibold inline-flex items-center group-hover:translate-x-2 transition-transform">
+                                    Read More 
+
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                                    </svg>
+                                </span>
+                            </div>
+                        </a>
+                    </article>
+                ))}
+            </div>
+        </main>
+
+
+
+        {sortedPosts.length === 0 && (
+            <div class="text-center py-12">
+                <p class="text-gray-600">No blog posts available yet. Check back soon!</p>
+            </div>
+        )}
+    </main>
+</Layout>

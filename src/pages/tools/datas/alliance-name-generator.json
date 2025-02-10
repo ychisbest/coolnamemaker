@@ -1,0 +1,83 @@
+{
+  "name": "Alliance Name Generator",
+  "description": "Struggling to find the perfect name for your epic alliance? Fear not, brave adventurer! Our Alliance Name Generator will forge legendary titles worthy of your fellowship. Prepare for glory!",
+  "slug": "alliance-name-generator",
+  "icon": "\ud83d\udee1\ufe0f",
+  "introduction": "In the realm of collaboration and shared purpose, a powerful name resonates. It defines your identity, inspires loyalty, and strikes fear into the hearts of your rivals. Whether you're uniting to conquer kingdoms, build thriving communities, or simply dominate the leaderboard, a strong alliance name is paramount. Let our generator be your guide to naming greatness!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the birth of awesome alliance names!",
+    "Feeling picky? Keep clicking until you find the *perfect* name that screams 'This is us!'",
+    "Want to get creative? Mix and match prefixes and suffixes to craft a truly unique and unforgettable alliance name.",
+    "Share your newfound alliance name with your comrades and prepare to conquer the world (or at least your game server)!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe that everyone deserves a cool alliance name, regardless of their budget. So go forth and generate, free of charge!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we encourage creativity, please be mindful of existing trademarks. Use your best judgement and ensure your chosen name doesn't infringe on anyone else's intellectual property."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! Generate until you find the one that makes your soul sing (or at least makes your alliance members nod in approval)."
+    },
+    {
+      "question": "Are the generated names truly unique?",
+      "answer": "We strive for uniqueness, but with millions of potential alliances out there, some overlap is possible. We recommend checking if your chosen name is already in use before committing to it."
+    },
+    {
+      "question": "Can I suggest new prefixes and suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions, and we might just add them to our ever-expanding database of awesome name components."
+    },
+    {
+      "question": "Why does my generated name sound weird?",
+      "answer": "Sometimes, the combination of words might not be perfect! Keep generating, or try manually combining different prefixes and suffixes until you find a name that resonates with you."
+    }
+  ],
+  "prefixes": [
+    "Eternal",
+    "Shadow",
+    "Crimson",
+    "Iron",
+    "Mystic",
+    "Silent",
+    "Golden",
+    "Storm",
+    "Dragon",
+    "Phoenix",
+    "Celestial",
+    "Abyssal",
+    "Rune",
+    "Solar",
+    "Lunar",
+    "Frost",
+    "Blaze",
+    "Echo",
+    "Titan",
+    "Nova"
+  ],
+  "suffixes": [
+    "Guardians",
+    "Legion",
+    "Order",
+    "Brotherhood",
+    "Sisterhood",
+    "Empire",
+    "Kingdom",
+    "Dynasty",
+    "Council",
+    "Alliance",
+    "Federation",
+    "Dominion",
+    "Ascension",
+    "Conquest",
+    "Rebellion",
+    "Sanctuary",
+    "Enclave",
+    "Collective",
+    "Syndicate",
+    "Vanguard"
+  ]
+}

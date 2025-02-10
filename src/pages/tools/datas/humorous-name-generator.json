@@ -1,0 +1,64 @@
+{
+  "name": "Humorous Name Generator",
+  "description": "Stuck in a rut with boring names? Unleash your inner comedian with our Humorous Name Generator! We'll conjure up side-splitting names that are guaranteed to get a laugh. Perfect for characters, projects, or just plain goofing around.",
+  "slug": "humorous-name-generator",
+  "icon": "\ud83e\udd23",
+  "introduction": "Ready to tickle some funny bones? Our Humorous Name Generator is your one-stop shop for names that are so absurd, they're genius! We've got a whole arsenal of wacky words and silly sounds just waiting to be unleashed. Prepare to be amused!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! We'll whip up a random humorous name just for you.",
+    "Don't like the first one? No problem! Click again and again until you find a name that makes you snort with laughter.",
+    "Feeling creative? Use the generated names as inspiration to craft your own unique and hilarious concoctions.",
+    "Share your favorite finds with friends and spread the joy (and the absurdity!).",
+    "Remember, the goal is to have fun! So, embrace the silliness and let your imagination run wild."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "We specialize in names that are funny, quirky, and often a little bit ridiculous. Think puns, wordplay, and unexpected combinations!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once the name is generated, it's yours to use as you please. Go forth and create something hilarious!"
+    },
+    {
+      "question": "Is the generator truly random?",
+      "answer": "We use a sophisticated (and slightly chaotic) algorithm to ensure that each name is unique and unpredictable. Prepare for the unexpected!"
+    },
+    {
+      "question": "Will I find a *good* name using this generator?",
+      "answer": "Define 'good'! If you're looking for something serious and sophisticated, you might be in the wrong place. But if you're after a name that will make people smile (or scratch their heads in confusion), you're in luck!"
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly adding new words and phrases to our database to keep the humor fresh and exciting. Check back often for new surprises!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions and we'll consider adding them to our ever-growing collection of humorous elements."
+    }
+  ],
+  "prefixes": [
+    "Sir Fartsalot",
+    "Professor Snuggles",
+    "Captain Underpants",
+    "The Great Kazoo",
+    "Baron Von Fluffington",
+    "Supreme Overlord Dingbat",
+    "Madame Giggles",
+    "Doctor Noodle",
+    "General Chaos",
+    "Reverend Sillypants"
+  ],
+  "suffixes": [
+    "the Magnificent",
+    "the Hilarious",
+    "the Goofball",
+    "the Wacky",
+    "the Absurd",
+    "the Ridiculous",
+    "the Comical",
+    "the Zany",
+    "the Loony",
+    "the Nutty"
+  ]
+}

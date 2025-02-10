@@ -1,0 +1,115 @@
+{
+  "name": "Lake Name Generator",
+  "description": "Struggling to find the perfect name for your serene lakeside retreat, fantasy novel's mystical lake, or even just your Minecraft masterpiece?  Look no further! Our Lake Name Generator is here to conjure up names that are as captivating and refreshing as a cool breeze off the water.  Dive in and discover names that evoke tranquility, adventure, and everything in between!",
+  "slug": "lake-name-generator",
+  "icon": "\ud83c\udfde\ufe0f",
+  "introduction": "Welcome, water wanderers!  Whether you're naming a real-world lake, creating a fictional paradise, or just brainstorming for fun, this generator is your trusty paddle.  We'll help you navigate the waters of nomenclature and land on the perfect appellation.  Get ready to unleash your inner explorer and discover names that are deep, dazzling, and downright unforgettable.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magical names that appear!",
+    "Don't like what you see? No problem! Click 'Generate' again for a fresh batch of lakeside loveliness.",
+    "Feeling picky?  That's okay, we get it. Keep clicking until you find the *one* that makes your heart sing (or, you know, your boat float).",
+    "Once you've found the perfect name, copy it and paste it wherever your lake needs a label.  Easy peasy, lemon squeezy!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we provide these names for inspiration and fun, we don't guarantee their originality.  It's always a good idea to do a thorough trademark search before using a name commercially to avoid any potential conflicts."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes and no! The names are based on a combination of prefixes and suffixes related to lakes, nature, and mythology, so there's a bit of thematic consistency.  But the combinations themselves are random, ensuring a wide variety of options."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas!  Send us your suggestions through our contact form, and we'll consider adding them to the generator's repertoire.  The more, the merrier (and the more diverse the names!)."
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart desires. We want you to find the *perfect* name, even if it takes a thousand tries. Consider it a naming quest!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "That's perfectly fine! Naming is subjective. Maybe try adjusting your mental image of the lake, or think about the specific feeling you want the name to evoke.  And of course, you can always browse other name generators on our site for more inspiration!"
+    },
+    {
+      "question": "Can I use these names for other bodies of water, like rivers or ponds?",
+      "answer": "Absolutely! While the generator is tailored for lakes, many of the names could easily be adapted for rivers, ponds, or even oceans. Get creative and see what works for you!"
+    }
+  ],
+  "prefixes": [
+    "Clear",
+    "Crystal",
+    "Emerald",
+    "Serene",
+    "Whispering",
+    "Mystic",
+    "Azure",
+    "Tranquil",
+    "Shadow",
+    "Silver",
+    "Golden",
+    "Deep",
+    "Still",
+    "Ancient",
+    "Lost",
+    "Hidden",
+    "Echo",
+    "Moon",
+    "Sun",
+    "Willow",
+    "Pine",
+    "Cedar",
+    "Starlight",
+    "Sunrise",
+    "Sunset",
+    "Storm",
+    "North",
+    "South",
+    "East",
+    "West",
+    "Great",
+    "Little",
+    "Big",
+    "Old",
+    "New",
+    "Green",
+    "Blue",
+    "Red",
+    "White",
+    "Black"
+  ],
+  "suffixes": [
+    "Lake",
+    "Pond",
+    "Mere",
+    "Waters",
+    "Haven",
+    "Glade",
+    "Cove",
+    "Bay",
+    "Lagoon",
+    "Pool",
+    "Reservoir",
+    "Spring",
+    "Brook",
+    "Falls",
+    "View",
+    "Forest",
+    "Mountain",
+    "Valley",
+    "Gorge",
+    "Dell",
+    "Creek",
+    "Shore",
+    "Bank",
+    "Point",
+    "Isle",
+    "Land",
+    "Moor",
+    "Sea",
+    "Glimmer",
+    "Refuge",
+    "Retreat",
+    "Sanctuary"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Tauren Name Generator",
+  "description": "Struggling to find the perfect name for your mighty Tauren character? Look no further! Our Tauren Name Generator crafts authentic-sounding and totally cool names that'll make your Tauren stand out from the herd.",
+  "slug": "tauren-name-generator",
+  "icon": "\ud83d\udc02",
+  "introduction": "Welcome, brave adventurer! Naming your Tauren is serious business. It needs to resonate with the strength of the earth, the wisdom of the ancestors, and, of course, sound totally awesome. This generator blends traditional Tauren naming conventions with a touch of modern cool, ensuring your character has a name worthy of legend.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new Tauren name, forged in the fires of creativity, will appear.",
+    "Don't like the first result? No problem! Keep clicking until you find the name that speaks to your Tauren soul (or just sounds the coolest).",
+    "Feeling adventurous? Mix and match prefixes and suffixes from different generations to create something truly unique. The possibilities are endless!",
+    "Once you've found the perfect name, copy it and paste it into your game. Your Tauren is now officially ready to roam the plains!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names lore-accurate?",
+      "answer": "We've done our best to incorporate elements of Tauren naming conventions, drawing inspiration from existing characters and lore. While we strive for authenticity, remember that creativity is key! Feel free to use these names as a starting point and customize them to your liking."
+    },
+    {
+      "question": "Can I use these names for other races or characters?",
+      "answer": "While these names are designed with Tauren in mind, you're welcome to use them however you see fit! Just keep in mind that they might sound a bit out of place on a gnome or a blood elf."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as you want! Our generator is tireless. Keep clicking until you find the perfect name."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "The names are generated using a combination of curated prefixes and suffixes, ensuring a consistent and believable Tauren feel. We're not just throwing random letters together!"
+    },
+    {
+      "question": "I found a name I love, but it's already taken! What do I do?",
+      "answer": "Oh no! That's the worst. Try adding a slight variation to the name, like an extra vowel or a different suffix. Or, generate some more names \u2013 your perfect name is out there waiting to be discovered!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "Absolutely! We're always looking for ways to improve our generator. Feel free to contact us with your suggestions and we'll consider adding them in a future update."
+    }
+  ],
+  "prefixes": [
+    "Brave",
+    "Swift",
+    "Stone",
+    "Wind",
+    "Thunder",
+    "Sky",
+    "Earth",
+    "Sun",
+    "Moon",
+    "River",
+    "Long",
+    "Sharp",
+    "Great",
+    "Dark",
+    "Wise",
+    "Silent",
+    "Iron",
+    "Blood",
+    "Shadow",
+    "Spirit"
+  ],
+  "suffixes": [
+    "hoof",
+    "horn",
+    "mane",
+    "walker",
+    "speaker",
+    "runner",
+    "claw",
+    "eye",
+    "heart",
+    "song",
+    "wind",
+    "stone",
+    "sky",
+    "earth",
+    "spirit",
+    "shadow",
+    "blood",
+    "iron",
+    "whisper",
+    "strider"
+  ]
+}

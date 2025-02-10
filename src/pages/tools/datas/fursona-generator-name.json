@@ -1,0 +1,83 @@
+{
+  "name": "Fursona Name Generator",
+  "description": "Unleash your inner beast! Need a killer name for your fursona? Look no further! This generator crafts the purr-fect moniker that'll have everyone howling with envy.",
+  "slug": "fursona-name-generator",
+  "icon": "\ud83d\udc3e",
+  "introduction": "Tired of generic names that blend into the crowd? Your fursona deserves a name as unique and vibrant as they are. Our Fursona Name Generator combines a dash of wild creativity with a sprinkle of fantasy to conjure up names that are both memorable and meaningful. Get ready to unleash your true animal spirit!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! Witness the magic happen.",
+    "Don't like the first result? Keep clicking! We've got a whole zoo of names waiting to be discovered.",
+    "Feeling picky? Mix and match prefixes and suffixes to create a name that's truly YOU-nique. It's like a name buffet!",
+    "Once you find a name that resonates, pounce on it! It's yours to claim and flaunt."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Fursona Name Generator is 100% free to use. No hidden fees, no sneaky subscriptions, just pure naming joy."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we encourage creativity, it's your responsibility to ensure the name isn't already trademarked or in use by someone else for similar purposes. We provide the inspiration; you handle the legalities!"
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! There's no limit to the number of names you can generate. Keep clicking until you find a name that makes you want to howl at the moon."
+    },
+    {
+      "question": "The names are a bit... weird. Is that intentional?",
+      "answer": "Totally! We aim for unique and memorable. If you're looking for something super conventional, you might be in the wrong jungle! Embrace the weirdness; it's what makes your fursona special."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We're always looking for fresh inspiration! Send us your wildest prefix and suffix suggestions. If they're awesome enough, we might just add them to the mix!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "That's okay! Naming is a personal journey. Keep experimenting, try different combinations, or use the generator as a springboard for your own creativity. The perfect name is out there waiting for you!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Storm",
+    "Crimson",
+    "Lunar",
+    "Mystic",
+    "Echo",
+    "Silver",
+    "Golden",
+    "Electric",
+    "Frost",
+    "Wild",
+    "Swift",
+    "Night",
+    "Dawn",
+    "Iron",
+    "Steel",
+    "Rune",
+    "Nova",
+    "Blaze",
+    "Aqua"
+  ],
+  "suffixes": [
+    "claw",
+    "fang",
+    "whisper",
+    "shade",
+    "strike",
+    "song",
+    "runner",
+    "heart",
+    "wind",
+    "fire",
+    "frost",
+    "thorn",
+    "moon",
+    "sun",
+    "blade",
+    "shield",
+    "dream",
+    "spirit",
+    "storm",
+    "wave"
+  ]
+}

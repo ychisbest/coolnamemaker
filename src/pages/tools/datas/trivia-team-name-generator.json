@@ -1,0 +1,87 @@
+{
+  "name": "Trivia Team Name Generator",
+  "description": "Struggling to come up with a killer name for your trivia team? Fear no more! Our Trivia Team Name Generator is here to rescue you from the depths of name-related despair. Get ready to dominate trivia night with a name so cool, it's almost unfair.",
+  "slug": "trivia-team-name-generator",
+  "icon": "\ud83e\udde0",
+  "introduction": "Let's face it, winning trivia is about more than just knowing the answers. It's about having a name that strikes fear into the hearts of your opponents (or at least makes them chuckle). Our generator combines wit, knowledge, and a dash of absurdity to deliver the perfect moniker for your brainy bunch.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic!",
+    "Feeling adventurous? Tweak the prefixes and suffixes to create your own unique blend of brilliance.",
+    "Found a name you love? Copy it and share it with your team. Prepare for glory!",
+    "If you're not feeling the current suggestion, click again! We have tons of combinations."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to help me win trivia?",
+      "answer": "While we can't guarantee victory (that's up to your vast knowledge!), a great name will definitely give you a psychological edge. Plus, you'll look awesome doing it."
+    },
+    {
+      "question": "Can I use these names for other things besides trivia teams?",
+      "answer": "Absolutely! Use them for fantasy football leagues, book clubs, secret societies, or anything else that requires a touch of cleverness."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes and no. We use a combination of curated prefixes and suffixes designed to sound witty and relevant to trivia. So, random with a purpose!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! We've got a vast library of options. Or, get inspired and create your own using our prefixes and suffixes as a starting point."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You bet! Use it as much as you like. Consider it our gift to the trivia-loving community. Now go forth and conquer!"
+    },
+    {
+      "question": "Can I submit my own prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! While we don't have a direct submission form, feel free to contact us with your suggestions. If they're awesome, we might just add them!"
+    }
+  ],
+  "prefixes": [
+    "The Quiz",
+    "Brainy",
+    "Trivial",
+    "Know-It-All",
+    "Cerebral",
+    "Super",
+    "Master",
+    "Elite",
+    "Ultimate",
+    "Epic",
+    "Intellectual",
+    "Smarty",
+    "Wise",
+    "Erudite",
+    "Sage",
+    "The Thinking",
+    "The Fact",
+    "The Trivia",
+    "Questionable",
+    "Smart Alec",
+    "The Answer"
+  ],
+  "suffixes": [
+    "Heads",
+    "Masters",
+    "Minds",
+    "Force",
+    "League",
+    "Squad",
+    "Team",
+    "Crew",
+    "Posse",
+    "Avengers",
+    "Titans",
+    "Experts",
+    "Ninjas",
+    "Wizards",
+    "Genius",
+    "Consortium",
+    "Collective",
+    "Society",
+    "Cabal",
+    "Association",
+    "Union",
+    "Brigade",
+    "Battalion"
+  ]
+}

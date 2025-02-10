@@ -1,0 +1,81 @@
+{
+  "name": "Bowling Team Name Generator",
+  "description": "Stuck in the gutter when it comes to naming your bowling team? Don't strike out before you even hit the lanes! Our Bowling Team Name Generator will help you roll into action with a name that's right up your alley. Guaranteed to bowl over the competition (or at least make them chuckle).",
+  "slug": "bowling-team-name-generator",
+  "icon": "\ud83c\udfb3",
+  "introduction": "Finding the perfect name for your bowling team can be harder than a 7-10 split! It needs to be catchy, memorable, and maybe a little bit intimidating. Whether you're aiming for hilarious, pun-tastic, or downright awesome, our generator is here to give you a strike of inspiration. Get ready to dominate the league with a name that's both cool and competitive!",
+  "howToUse": [
+    "Simply click the 'Generate' button to conjure up a random bowling team name.",
+    "Don't like what you see? No sweat! Hit the button again for a fresh batch of ideas.",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own unique masterpiece.",
+    "Once you've found the perfect name, share it with your team and get ready to roll!"
+  ],
+  "faqs": [
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! Keep clicking until you find the name that perfectly captures your team's spirit (or lack thereof)."
+    },
+    {
+      "question": "Can I use these names for anything else besides bowling teams?",
+      "answer": "Absolutely! While designed for bowling, these names could work for pub quizzes, fantasy leagues, or even naming your pet rock collection. The possibilities are endless (almost)!"
+    },
+    {
+      "question": "Are the names generated unique?",
+      "answer": "While we aim for originality, with so many possibilities, duplicates are possible. If a name strikes your fancy, grab it before someone else does!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You betcha! Our Bowling Team Name Generator is 100% free to use. We're all about spreading the joy of bowling (and clever names) far and wide."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always looking for ways to improve! Feel free to send us your suggestions \u2013 we might just add them to the generator."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "No problem! Just keep generating! Or, get inspired by the names and create your own. The point is to get those creative juices flowing!"
+    }
+  ],
+  "prefixes": [
+    "Alley",
+    "Strike",
+    "Spare",
+    "Gutter",
+    "Pin",
+    "Lane",
+    "Rolling",
+    "Bowling",
+    "Turbo",
+    "Wildcat",
+    "Phantom",
+    "Renegade",
+    "Lucky",
+    "Ten-Pin",
+    "Power",
+    "Cosmic",
+    "Atomic",
+    "Blazing",
+    "Thunder"
+  ],
+  "suffixes": [
+    "Strikers",
+    "Rollers",
+    "Pins",
+    "Kings",
+    "Queens",
+    "Masters",
+    "Demons",
+    "Warriors",
+    "Avengers",
+    "Ninjas",
+    "Dynamos",
+    "Bombers",
+    "Titans",
+    "Legends",
+    "Maniax",
+    "Addicts",
+    "Wizards",
+    "Express",
+    "Force"
+  ]
+}

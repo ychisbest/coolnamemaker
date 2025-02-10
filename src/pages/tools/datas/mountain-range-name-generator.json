@@ -1,0 +1,83 @@
+{
+  "name": "Mountain Range Name Generator",
+  "description": "Struggling to find the perfect name for your epic mountain range in your fantasy world? Look no further! This generator crafts majestic and evocative names that will make your readers feel the chill of the high peaks and the thrill of adventure.",
+  "slug": "mountain-range-name-generator",
+  "icon": "\u26f0\ufe0f",
+  "introduction": "From the jagged peaks of the Dragon's Teeth to the serene slopes of the Whispering Mountains, a good name can make all the difference. Our Mountain Range Name Generator blends geological inspiration with a touch of fantasy, creating names that are both believable and breathtaking. Whether you're a novelist, game developer, or worldbuilder, get ready to elevate your creations!",
+  "howToUse": [
+    "Simply hit the 'Generate' button and behold the awesome names that materialize!",
+    "Don't like the first result? Keep clicking! We've got a mountain of possibilities.",
+    "Feeling creative? Tweak the results! Mix and match prefixes and suffixes to forge your own unique range name.",
+    "Share your favorite names with your friends and bask in their envy."
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! These names are generated for your creative enjoyment. Feel free to use them in your books, games, or any other project you can dream up."
+    },
+    {
+      "question": "Are the generated names completely random?",
+      "answer": "While there's an element of randomness, we've carefully curated the prefixes and suffixes to ensure the results are generally evocative and fitting for mountain ranges. No 'Fluffy Bunny Hills' here (unless you *really* want them!)."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through the contact form on our site. We're always looking to expand our vocabulary of awesome."
+    },
+    {
+      "question": "Is this generator suitable for naming individual mountains within a range?",
+      "answer": "While primarily designed for ranges, many generated names can be adapted for individual peaks or features within a range. Experiment and see what fits!"
+    },
+    {
+      "question": "Why are some names longer than others?",
+      "answer": "We include a variety of name structures to provide diverse options. Some ranges are known for their single, powerful names, while others have more descriptive or complex titles. Variety is the spice of the mountains!"
+    },
+    {
+      "question": "Will this generator help me conquer my fear of heights?",
+      "answer": "While we can't promise that, immersing yourself in the majesty of mountain names might just inspire you to face your fears and reach new heights (metaphorically, of course... unless you're into that sort of thing)."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Frost",
+    "Crimson",
+    "Whispering",
+    "Dragon's",
+    "Serpent's",
+    "Iron",
+    "Crystal",
+    "Thunder",
+    "Silent",
+    "Emerald",
+    "Obsidian",
+    "Azure",
+    "Granite",
+    "Silver",
+    "Golden",
+    "Stone",
+    "Wind",
+    "Cloud",
+    "Star"
+  ],
+  "suffixes": [
+    "Peaks",
+    "Mountains",
+    "Ridge",
+    "Range",
+    "Spire",
+    "Crest",
+    "Hills",
+    "Cliffs",
+    "Divide",
+    "Escarpment",
+    "Highlands",
+    "Plateau",
+    "Summit",
+    "Crown",
+    "Teeth",
+    "Fangs",
+    "Spines",
+    "Reach",
+    "Wall",
+    "Gate"
+  ]
+}

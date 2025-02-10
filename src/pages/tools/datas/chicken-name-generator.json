@@ -1,0 +1,72 @@
+{
+  "name": "Chicken Name Generator",
+  "description": "Cluck yeah! Need a name for your feathered friend? Our Chicken Name Generator is here to hatch the perfect moniker. Whether it's for a prize-winning hen, a quirky rooster, or just a backyard buddy, we've got names that are egg-cellent!",
+  "slug": "chicken-name-generator",
+  "icon": "\ud83d\udc14",
+  "introduction": "Forget pecking around for the right name! This generator mixes and matches prefixes and suffixes to create a coop-full of cluck-tastic names. Get ready to giggle and find the perfect identity for your chick!",
+  "howToUse": [
+    "Simply hit the 'Generate' button and watch the magic happen! We'll whip up a name faster than you can say 'Bok bok!'",
+    "Don't like the first egg-sample? No problem! Click again for a fresh, farm-fresh name.",
+    "Found 'the one'? Copy it and share the poultry power with your friends!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names suitable for all types of chickens?",
+      "answer": "Absolutely! From bantams to brahmas, our names are designed to fit any breed of chicken with any personality."
+    },
+    {
+      "question": "Can I use these names for other birds, like ducks or geese?",
+      "answer": "While primarily designed for chickens, many names could work for other fowl! Use your best judgment and see if the name fits the bird."
+    },
+    {
+      "question": "Is the Chicken Name Generator free to use?",
+      "answer": "Yes, it's completely free! Cluck to your heart's content and generate as many names as you need."
+    },
+    {
+      "question": "Will the names generated guarantee my chicken wins a prize?",
+      "answer": "While we can't guarantee your chicken will win any awards, a great name is a great start! It's all about confidence, baby!"
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form, and we'll consider adding them to the mix."
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! Feel free to use the names however you like. They're all yours to cluck with!"
+    }
+  ],
+  "prefixes": [
+    "Clucky",
+    "Bok",
+    "Feather",
+    "Egg",
+    "Nugget",
+    "Rooster",
+    "Henny",
+    "Chicky",
+    "Pekish",
+    "Corn",
+    "Scratch",
+    "Pecky",
+    "Sunny",
+    "Golden",
+    "Dusty"
+  ],
+  "suffixes": [
+    "McNugget",
+    "Doodle",
+    "Cluckington",
+    "Featherbottom",
+    "Boksworth",
+    "Henway",
+    "Pecker",
+    "Cornelius",
+    "Scratchmore",
+    "Plume",
+    "Goldfeather",
+    "Beakman",
+    "Redcomb",
+    "SunnySide",
+    "Barnaby"
+  ]
+}

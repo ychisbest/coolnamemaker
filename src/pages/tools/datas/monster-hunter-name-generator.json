@@ -1,0 +1,83 @@
+{
+  "name": "Monster Hunter Name Generator",
+  "description": "Unleash your inner beast! Forge a legendary moniker worthy of a seasoned Monster Hunter with our epic name generator. No more vanilla usernames \u2013 only names that strike fear into the hearts of Rathalos and make even Elder Dragons tremble!",
+  "slug": "monster-hunter-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Tired of generic names that wouldn't scare a Jagras? Yearning for a title that echoes through the Ancient Forest and beyond? You've stumbled upon the ultimate Monster Hunter name forge! Whether you're a Hammer-wielding hero, a Bowgun-blasting badass, or a Dual Blades-dancing demon, we've got the perfect name to match your hunting style. Get ready to carve your legend!",
+  "howToUse": [
+    "Click that tantalizing 'Generate' button. Go on, you know you want to!",
+    "Behold! A name so epic, so fearsome, it'll make your Palico purr with pride.",
+    "Not quite feeling it? Mash that button again! We've got more names than there are monsters in the New World.",
+    "Found THE ONE? Copy that bad boy and paste it into your Monster Hunter character creation screen. BAM! Instant legend."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to make me a better Monster Hunter?",
+      "answer": "While we can't guarantee you'll suddenly be speedrunning Alatreon, a killer name *will* give you a +10 to intimidation. And that's gotta count for something, right?"
+    },
+    {
+      "question": "Can I use these names for other games or even\u2026 *gasp*\u2026 real life?",
+      "answer": "Absolutely! Go wild! Just don't blame us if people start bowing before you in the grocery store."
+    },
+    {
+      "question": "Are the generated names actually lore-friendly?",
+      "answer": "We've done our best to capture the spirit of Monster Hunter, but remember, it's all about having fun! Feel free to tweak and adjust to your heart's content."
+    },
+    {
+      "question": "I generated a name that's already taken! What do I do?",
+      "answer": "Keep generating! Or, get creative and add a personal touch. Maybe slap a 'The' or a 'Jr.' on there. The possibilities are endless!"
+    },
+    {
+      "question": "Will this generator help me find my soulmate?",
+      "answer": "Okay, we're good, but we're not *magic*. However, a cool name definitely increases your chances of attracting like-minded monster-slaying companions!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Completely! Enjoy the fruits of our labor, and go forth and hunt with an awesome name!"
+    }
+  ],
+  "prefixes": [
+    "Grim",
+    "Shadow",
+    "Storm",
+    "Blood",
+    "Iron",
+    "Silent",
+    "Swift",
+    "Dark",
+    "Flame",
+    "Frost",
+    "Ancient",
+    "Obsidian",
+    "Crimson",
+    "Azure",
+    "Silver",
+    "Golden",
+    "Emerald",
+    "Raging",
+    "Whispering",
+    "Burning"
+  ],
+  "suffixes": [
+    "Hunter",
+    "Slayer",
+    "Blade",
+    "Fang",
+    "Claw",
+    "Scale",
+    "Heart",
+    "Soul",
+    "Hand",
+    "Eye",
+    "Bringer",
+    "Weaver",
+    "Strider",
+    "Guard",
+    "Whisper",
+    "Fury",
+    "Valor",
+    "Justice",
+    "Revenant",
+    "Doom"
+  ]
+}

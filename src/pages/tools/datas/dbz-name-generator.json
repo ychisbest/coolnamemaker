@@ -1,0 +1,104 @@
+{
+  "name": "DBZ Name Generator",
+  "description": "Unleash your inner Super Saiyan! Get a totally rad Dragon Ball Z inspired name, perfect for online games, fan fiction, or just for kicks. Time to power up your persona!",
+  "slug": "dbz-name-generator",
+  "icon": "\ud83d\udc09",
+  "introduction": "Ever dreamt of being a Saiyan warrior, a Namekian strategist, or maybe even a powerful Android? Our DBZ Name Generator is here to make those dreams a reality! We've combined iconic DBZ elements with a dash of creativity to forge epic names worthy of the Dragon Balls themselves. Prepare for transformation!",
+  "howToUse": [
+    "First, brace yourself for the sheer awesomeness that's about to be unleashed!",
+    "Click the 'Generate' button. (It's the one that looks like it's about to go Super Saiyan.)",
+    "Behold! Your new DBZ name appears, ready to conquer galaxies and defeat Frieza. (Results may vary; Frieza might just be annoying.)",
+    "Not feeling it? Hit 'Generate' again! We've got more combinations than there are Dragon Balls scattered across the universe.",
+    "Copy your chosen name and use it to dominate your favorite games, write fanfics that'll make Akira Toriyama proud, or just impress your friends. (Warning: May cause excessive power levels and spontaneous yelling of 'Kamehameha!')"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually endorsed by Akira Toriyama?",
+      "answer": "While we'd love to say yes (and have him over for tea), the answer is no. This is a fan-made creation fueled by pure, unadulterated DBZ love. We're just huge fans!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "The names generated are for fun and personal use. Using them for commercial projects might get you a visit from Capsule Corp's legal team. (Just kidding... mostly.)"
+    },
+    {
+      "question": "Will these names grant me actual Super Saiyan powers?",
+      "answer": "We wish! Sadly, no. But you *will* feel incredibly cool, and that's almost as good, right? (Disclaimer: We are not responsible for any attempts to go Super Saiyan in real life.)"
+    },
+    {
+      "question": "What if I don't like the name I get?",
+      "answer": "No problem! Just keep hitting 'Generate' until you find a name that resonates with your inner warrior. We've got tons of combinations!"
+    },
+    {
+      "question": "Are the names based on existing DBZ characters?",
+      "answer": "Some elements are inspired by existing characters, but most of the names are completely original creations designed to capture the essence of the Dragon Ball universe."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "Absolutely! We're always looking for ways to improve. Send your suggestions our way, and we'll see if we can incorporate them. The more the merrier!"
+    }
+  ],
+  "prefixes": [
+    "Super",
+    "Ultra",
+    "Hyper",
+    "Neo",
+    "Omega",
+    "Shadow",
+    "Cosmic",
+    "Galactic",
+    "Mystic",
+    "Crimson",
+    "Azure",
+    "Iron",
+    "Steel",
+    "Golden",
+    "Silver",
+    "Dark",
+    "Light",
+    "Thunder",
+    "Blaze",
+    "Frost",
+    "Zenith",
+    "Void",
+    "Nova",
+    "Solar",
+    "Lunar",
+    "Kai",
+    "Shin",
+    "Grand",
+    "Perfect",
+    "Final"
+  ],
+  "suffixes": [
+    "Z",
+    "X",
+    "Omega",
+    "Saiyan",
+    "Warrior",
+    "Fighter",
+    "God",
+    "Angel",
+    "Demon",
+    "Beast",
+    "Blade",
+    "Fist",
+    "Strike",
+    "Blast",
+    "Aura",
+    "Force",
+    "Energy",
+    "Power",
+    "Might",
+    "Fury",
+    "Rage",
+    "Vanguard",
+    "Guardian",
+    "Hero",
+    "Legend",
+    "Master",
+    "Sage",
+    "Titan",
+    "Colossus",
+    "Zen"
+  ]
+}

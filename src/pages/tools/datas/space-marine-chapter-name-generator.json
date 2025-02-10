@@ -1,0 +1,102 @@
+{
+  "name": "Space Marine Chapter Name Generator",
+  "description": "Forge a legend among the stars! Our Space Marine Chapter Name Generator will conjure epic names worthy of the Imperium's finest warriors. Prepare for glory!",
+  "slug": "space-marine-chapter-name-generator",
+  "icon": "\ud83d\ude80",
+  "introduction": "In the grim darkness of the far future, there is only war... and the need for a truly awesome Space Marine Chapter name! Whether you're crafting a new army for the tabletop, writing fan fiction, or just daydreaming about galactic conquest, our generator will provide the perfect moniker to strike fear into the hearts of your enemies and inspire your loyal troops.",
+  "howToUse": [
+    "Click the 'Generate' button. Simple, right? Even a Primaris Lieutenant can handle it.",
+    "Marvel at the awesomeness of the name that appears. Seriously, some of these are *chef's kiss*.",
+    "If you're not feeling the first result (unlikely, but we understand you're picky), hit 'Generate' again! Infinite possibilities await!",
+    "Copy and paste your chosen name into your army list, story, or anywhere else you need a dose of Space Marine epicness.",
+    "Go forth and conquer! For the Emperor!"
+  ],
+  "faqs": [
+    {
+      "question": "Will this generator guarantee victory on the tabletop?",
+      "answer": "While we can't promise victory (dice gods are fickle!), a truly epic name will certainly intimidate your opponents and boost your morale. So, practically yes."
+    },
+    {
+      "question": "Can I use these names for my Warhammer 40,000 fan fiction?",
+      "answer": "Absolutely! That's what it's here for. Feel free to unleash your creativity and let these names inspire tales of heroism and carnage."
+    },
+    {
+      "question": "Are these names lore-accurate?",
+      "answer": "We've strived to create names that feel authentic to the Warhammer 40,000 universe, drawing inspiration from existing Chapters and themes. However, feel free to tweak them to fit your own vision!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! With countless combinations, you're bound to find a name that resonates with your inner Space Marine Commander. Or, combine elements from different names to create something truly unique!"
+    },
+    {
+      "question": "Is this generator sanctioned by the Adeptus Administratum?",
+      "answer": "While we haven't received official approval (yet!), we're confident that the Emperor would approve of our efforts to spread the glory of the Imperium through awesome Chapter names."
+    },
+    {
+      "question": "Can I use these names for things other than Warhammer 40k?",
+      "answer": "Of course! While designed with Space Marines in mind, these names can be adapted for any sci-fi setting, fantasy world, or even your pet hamster. The possibilities are endless!"
+    }
+  ],
+  "prefixes": [
+    "Crimson",
+    "Iron",
+    "Silver",
+    "Golden",
+    "Black",
+    "White",
+    "Storm",
+    "Star",
+    "Void",
+    "Celestial",
+    "Empyrean",
+    "Aurora",
+    "Shadow",
+    "Blood",
+    "Raging",
+    "Silent",
+    "Vengeful",
+    "Eternal",
+    "Dark",
+    "Light",
+    "Nova",
+    "Omega",
+    "Ghost",
+    "Phantom",
+    "Seraphim",
+    "Angels of",
+    "Lords of",
+    "Knights of",
+    "Sons of",
+    "Daughters of"
+  ],
+  "suffixes": [
+    "Fists",
+    "Lances",
+    "Swords",
+    "Guardians",
+    "Sentinels",
+    "Hunters",
+    "Reapers",
+    "Crusaders",
+    "Legion",
+    "Keepers",
+    "Watchers",
+    "Stalkers",
+    "Avengers",
+    "Redeemers",
+    "Wardens",
+    "Praetors",
+    "Paladins",
+    "Vindicators",
+    "Destroyers",
+    "Angels",
+    "Lords",
+    "Knights",
+    "Sons",
+    "Daughters",
+    "Scions",
+    "Host",
+    "Brotherhood",
+    "Chapter"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Arab Name Generator",
+  "description": "Struggling to find the perfect Arab name? Look no further! Our generator conjures up authentic and evocative names, perfect for characters, stories, or simply exploring cultural heritage. Discover a name that resonates with history and meaning. \ud83c\udf19",
+  "slug": "arab-name-generator",
+  "icon": "\ud83d\udd4c",
+  "introduction": "Unearth a treasure trove of captivating Arab names with our easy-to-use generator! Whether you're seeking a strong, traditional moniker or a modern, unique appellation, we've got you covered. Let the magic of the Middle East inspire you!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! \u2728",
+    "Don't like the first result? No worries! Keep clicking until you find the name that speaks to your soul. \ud83d\udc96",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a truly personalized name. \ud83c\udfa8",
+    "Share your amazing finds with friends and family \u2013 let them in on the naming fun! \ud83c\udf89",
+    "Remember, the best name is one that feels right to *you*. Trust your instincts!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names authentic?",
+      "answer": "Absolutely! We've curated a list of common and historical Arab names, drawing from various regions and traditions. While we strive for accuracy, remember that names can have different meanings and pronunciations depending on the specific dialect or origin."
+    },
+    {
+      "question": "Can I use these names for my baby?",
+      "answer": "Of course! However, we always recommend researching the name's meaning and cultural significance to ensure it aligns with your values and beliefs. Consult with family or cultural experts for further guidance."
+    },
+    {
+      "question": "Are the names only for people?",
+      "answer": "Nope! You can use them for characters in your stories, pets, businesses \u2013 anything that needs a touch of Arabian flair! \ud83d\udc2b"
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're always striving to improve and expand our database! Expect regular updates with new names and features to keep things fresh and exciting. Stay tuned! \ud83d\udce2"
+    },
+    {
+      "question": "Is the generator free to use?",
+      "answer": "You bet! Our Arab Name Generator is completely free for everyone to enjoy. Spread the word and let the naming adventures begin! \ud83c\udf81"
+    },
+    {
+      "question": "Can I suggest names to be added?",
+      "answer": "We love hearing from our users! Please feel free to send us your suggestions through our contact form. We appreciate your contributions to making our generator even better! \ud83d\udc4d"
+    }
+  ],
+  "prefixes": [
+    "Abdul",
+    "Ahmad",
+    "Ali",
+    "Omar",
+    "Yusuf",
+    "Layla",
+    "Fatima",
+    "Aisha",
+    "Zahra",
+    "Hala",
+    "Samir",
+    "Karim",
+    "Nadia",
+    "Salma",
+    "Hassan",
+    "Jafar",
+    "Jamal",
+    "Khalid",
+    "Kamil",
+    "Lina",
+    "Maha",
+    "Malik",
+    "Mariam",
+    "Nabil",
+    "Rania"
+  ],
+  "suffixes": [
+    "lah",
+    "din",
+    "el",
+    "i",
+    "a",
+    "ah",
+    "an",
+    "een",
+    "iya",
+    "ya",
+    "ad",
+    "id",
+    "em",
+    "ar",
+    "ir",
+    "ina",
+    "isa",
+    "oun",
+    "ous",
+    "im",
+    "ala",
+    "ama",
+    "ora",
+    "ella",
+    "ara"
+  ]
+}

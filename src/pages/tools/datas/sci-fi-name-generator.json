@@ -1,40 +1,39 @@
 {
   "name": "Sci-Fi Name Generator",
-  "description": "Blast off into the cosmos with our Sci-Fi Name Generator! Discover names that sound like they were ripped from the pages of your favorite space opera. Perfect for characters, spaceships, planets, or even your next online handle. Prepare for hyperdrive!",
+  "description": "Blast off into the cosmos with a name that's out of this world! Create your own futuristic identity, perfect for your next sci-fi character, game avatar, or even just a cool nickname.",
   "slug": "sci-fi-name-generator",
   "icon": "\ud83d\ude80",
-  "introduction": "Ready to name your intergalactic empire, a daring space pirate, or a futuristic gadget? Look no further! Our Sci-Fi Name Generator is your portal to a universe of captivating and imaginative names. Forget the ordinary; embrace the extraordinary!",
+  "introduction": "Tired of ordinary names? Yearning for a moniker that screams 'intergalactic adventurer' or 'cyberpunk rebel'? Look no further! Our Sci-Fi Name Generator is your portal to a universe of awesome, technologically-infused names. Prepare to be amazed!",
   "howToUse": [
-    "Simply hit the 'Generate' button and watch the magic happen! A brand new, totally rad sci-fi name will appear.",
-    "Not feeling that name? No sweat! Click 'Generate' again for infinite possibilities. Seriously, infinite. We checked.",
-    "Want to get even more creative? Mix and match prefixes and suffixes to craft your ultimate sci-fi moniker.",
-    "Found the perfect name? Copy it and paste it into your novel, game, or whatever your heart desires! Go forth and conquer the galaxy!",
-    "Remember to share your awesome finds with your friends! They'll be green with envy (especially if their skin is already green)."
+    "Simply click the 'Generate' button and witness the magic unfold!",
+    "Don't like the first result? No worries! Keep clicking until you find a name that resonates with your inner space explorer.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a truly unique sci-fi name.",
+    "Pro Tip: Say the name out loud! Make sure it sounds as epic as it looks."
   ],
   "faqs": [
     {
       "question": "Is this generator really free?",
-      "answer": "Absolutely! We believe everyone deserves a stellar sci-fi name, without having to sell their spaceship to get it."
+      "answer": "Absolutely! We believe everyone deserves a stellar sci-fi name, without breaking the bank."
     },
     {
       "question": "Can I use these names for commercial purposes?",
-      "answer": "You bet! Once you generate a name, it's all yours. Use it for your book, game, band, or even your pet space slug. The universe is your oyster!"
+      "answer": "Go for it! Once a name is generated, it's yours to use as you see fit. Create that bestselling novel or dominate the gaming world!"
     },
     {
-      "question": "How does the generator create these names?",
-      "answer": "We've harnessed the power of advanced algorithms and a dash of cosmic dust to create a name-generating engine unlike any other. It's basically magic, but with more science."
+      "question": "How are the names generated?",
+      "answer": "Our advanced algorithms combine a vast database of sci-fi-inspired words, prefixes, and suffixes to create unique and imaginative names. It's science...fiction!"
     },
     {
-      "question": "Will the generator ever run out of names?",
-      "answer": "Not in this lifetime! With our vast database of prefixes and suffixes, the possibilities are virtually endless. Prepare for a lifetime of sci-fi naming goodness."
+      "question": "Will I find the perfect name on my first try?",
+      "answer": "Maybe! But part of the fun is exploring the possibilities. Keep experimenting, and you're bound to discover a name that's perfect for you."
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! The generated names are unique combinations, and you are free to use them. However, checking for existing trademarks is always a good idea if you plan on using the name for a business or product."
     },
     {
       "question": "Can I suggest new prefixes or suffixes?",
-      "answer": "We'd love to hear your ideas! Send them our way and we might just add them to the generator. Together, we can conquer the galaxy, one name at a time!"
-    },
-    {
-      "question": "Is it possible to get a name that already exists?",
-      "answer": "While unlikely, it's theoretically possible. The universe is vast, and coincidences happen. If it does occur, consider it a sign of cosmic alignment!"
+      "answer": "We'd love to hear your ideas! Send your suggestions through our contact form and we'll consider adding them to our database."
     }
   ],
   "prefixes": [
@@ -42,33 +41,33 @@
     "Cyber",
     "Nova",
     "Quantum",
-    "Stellar",
-    "Galactic",
-    "Mechano",
-    "Chrono",
-    "Bio",
-    "Terra",
+    "Mech",
     "Xeno",
     "Hyper",
-    "Void",
-    "Plasma",
-    "Nebula"
+    "Galacti",
+    "Terra",
+    "Infini",
+    "Chrono",
+    "Stellar",
+    "Bio",
+    "Techno",
+    "Void"
   ],
   "suffixes": [
-    "Tech",
-    "Corp",
-    "Dyne",
-    "Tron",
-    "Xion",
-    "Star",
-    "Wing",
-    "Drive",
-    "Force",
-    "Com",
-    "Ware",
-    "Naut",
-    "Pulse",
-    "Core",
-    "Max"
+    "tron",
+    "dyne",
+    "tech",
+    "naut",
+    "borg",
+    "rex",
+    "star",
+    "pulse",
+    "storm",
+    "wing",
+    "blade",
+    "genesis",
+    "prime",
+    "force",
+    "shift"
   ]
 }

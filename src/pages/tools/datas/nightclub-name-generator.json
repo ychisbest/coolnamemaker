@@ -1,0 +1,74 @@
+{
+  "name": "Nightclub Name Generator",
+  "description": "Ready to throw the hottest party in town? But wait... your nightclub needs a name that screams 'good times' and 'unforgettable nights'! Our generator is here to drop some seriously cool names that'll have people lining up around the block.",
+  "slug": "nightclub-name-generator",
+  "icon": "\ud83c\udf03",
+  "introduction": "Forget brainstorming sessions that lead nowhere! This generator mixes edgy vibes, catchy rhythms, and a dash of mystery to create nightclub names that are pure gold. We're talking names that'll look amazing on a marquee and sound even better when whispered in the DJ booth.",
+  "howToUse": [
+    "First, ditch the boring name ideas you already have. (Seriously, trust us on this one.)",
+    "Next, hit that 'Generate' button like you're dropping the beat! \ud83e\udd41",
+    "Browse through the list of ridiculously cool names. Feel free to hit 'Generate' again and again until you find 'the one'.",
+    "Once you've found a name that makes you want to dance, write it down! (Or, you know, copy and paste it. We're not judging.)",
+    "Now go forth and create the nightclub of your dreams! \ud83c\udf89"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to give me good names?",
+      "answer": "Are you kidding? We're not just throwing words together! We've got a secret formula that combines coolness, memorability, and a hint of the unexpected. Prepare to be amazed. \ud83d\ude09"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once you find a name you love, it's yours to use for your nightclub, branding, and world domination. (Okay, maybe not world domination, but definitely nightclub domination.)"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Then you're probably a robot. But seriously, keep hitting that 'Generate' button! We've got thousands of combinations, so you're bound to find something that clicks. Or, tweak a name you almost like to make it perfect. \ud83d\udee0\ufe0f"
+    },
+    {
+      "question": "Will using one of these names guarantee my nightclub's success?",
+      "answer": "While we can't guarantee success (that's up to your killer cocktails and awesome music!), a great name is definitely a step in the right direction. It's the first impression, the hook, the thing that gets people talking. So choose wisely! \u2728"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Heck yes! We're all about spreading the love (and the cool names). Use it as much as you want, no strings attached. Just promise us you'll throw a killer party. \ud83e\udd73"
+    },
+    {
+      "question": "Can I suggest words to add to the generator?",
+      "answer": "We're always looking for ways to improve! Send us your suggestions, and we might just add them to our database of awesome words. The more, the merrier! \u270d\ufe0f"
+    }
+  ],
+  "prefixes": [
+    "Electric",
+    "Velvet",
+    "Neon",
+    "Midnight",
+    "Pulse",
+    "Rhythm",
+    "Shadow",
+    "Secret",
+    "Starlight",
+    "Urban",
+    "The",
+    "Lost",
+    "Hidden",
+    "Apex",
+    "Zenith"
+  ],
+  "suffixes": [
+    "Room",
+    "Lounge",
+    "Club",
+    "Bar",
+    "House",
+    "District",
+    "Society",
+    "Studio",
+    "Sanctuary",
+    "Garden",
+    "Factory",
+    "Den",
+    "Vault",
+    "Arcade",
+    "Empire"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Wu-Tang Rap Name Generator",
+  "description": "Yo, ready to discover your true Wu-Tang Clan rap name? This generator will unleash your inner MC, dropping rhymes and beats that would make RZA proud. Enter the chamber and find your destiny!",
+  "slug": "wu-tang-rap-name-generator",
+  "icon": "\ud83c\udfa4",
+  "introduction": "In the realm of hip-hop legends, the Wu-Tang Clan stands tall. Their lyrical prowess and unique style have inspired generations. Now, it's your turn to join the ranks. This generator will forge your persona, blending powerful prefixes and suffixes to create a name worthy of the Shaolin shadowboxing and sword-style.",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! Witness the birth of your Wu-Tang alter ego.",
+    "Feeling picky? Hit 'Generate' again for a fresh moniker. Keep going until you find the name that resonates with your lyrical soul.",
+    "Share your Wu-Tang name with the world! Let everyone know you're ready to bring da ruckus.",
+    "Remember, your Wu-Tang name is a reflection of your inner warrior poet. Wear it with pride!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator affiliated with the Wu-Tang Clan?",
+      "answer": "While we're huge fans, this generator is purely a tribute and not officially endorsed by the Wu-Tang Clan. But hey, maybe they'll see your dope name and invite you to join!"
+    },
+    {
+      "question": "Can I use the generated name for commercial purposes?",
+      "answer": "The names are generated for fun! If you're planning on using it for something serious, you might want to double-check trademark laws. We're not responsible for any lyrical lawsuits!"
+    },
+    {
+      "question": "How accurate is this generator in capturing the Wu-Tang vibe?",
+      "answer": "We've poured over Wu-Tang lyrics and interviews to capture the essence of their naming style. It's as close as you can get without actually being blessed by the Abbot himself!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added?",
+      "answer": "We're always open to suggestions! Drop us a line with your ideas. If they're funky enough, we might just add them to the mix. Peace!"
+    },
+    {
+      "question": "What if I don't like the name I get?",
+      "answer": "No worries! Just hit 'Generate' again. We've got an endless supply of Wu-Tang-inspired names waiting to be discovered. Keep spinning until you find your perfect match."
+    },
+    {
+      "question": "Will this generator make me a better rapper?",
+      "answer": "While we can't guarantee instant lyrical genius, having a killer Wu-Tang name is definitely a step in the right direction. Now go forth and conquer the mic!"
+    }
+  ],
+  "prefixes": [
+    "Iron",
+    "Shadow",
+    "Ghostface",
+    "Golden",
+    "Mystic",
+    "Silent",
+    "Crimson",
+    "Jade",
+    "Mad",
+    "Rebel",
+    "Dirty",
+    "Ol'",
+    "GZA",
+    "Inspectah",
+    "Masta",
+    "U-God",
+    "Raekwon",
+    "Method",
+    "Cappadonna",
+    "Bronze",
+    "Divine",
+    "RZA",
+    "Street",
+    "Supreme"
+  ],
+  "suffixes": [
+    "Killer",
+    "Assassin",
+    "Destroyer",
+    "Warrior",
+    "Monk",
+    "Samurai",
+    "Blade",
+    "Fist",
+    "Master",
+    "Prophet",
+    "Angel",
+    "Devil",
+    "Disciple",
+    "Spectre",
+    "Tiger",
+    "Dragon",
+    "Viper",
+    "King",
+    "Prince",
+    "Ruler",
+    "Ghost",
+    "Ninja",
+    "General",
+    "Genius"
+  ]
+}

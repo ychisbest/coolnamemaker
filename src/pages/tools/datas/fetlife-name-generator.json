@@ -1,0 +1,83 @@
+{
+  "name": "FetLife Name Generator",
+  "description": "Spice up your FetLife profile with a name that's as unique and intriguing as you are! Ditch the dull and embrace the daring \u2013 find a moniker that truly reflects your passions and personality.",
+  "slug": "fetlife-name-generator",
+  "icon": "\ud83d\ude08",
+  "introduction": "Tired of the same old usernames? Ready to unleash your inner kinkster with a name that screams 'YOU'? Our FetLife Name Generator is here to ignite your imagination and provide you with a selection of names that are playful, provocative, and perfectly suited for the FetLife community. Let's find you a name that's unforgettable!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic! We'll conjure up a list of naughty-but-nice names just for you.",
+    "Don't like what you see? No sweat! Hit that button again and again until you find 'The One'.",
+    "Once you've discovered your perfect FetLife alter ego, copy it and paste it directly into your profile. Get ready for the attention!",
+    "Feeling creative? Mix and match your favorite prefixes and suffixes to create a truly bespoke name that's 100% you."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! It's our little gift to the FetLife community. Enjoy!"
+    },
+    {
+      "question": "Will these names get me banned from FetLife?",
+      "answer": "We've designed the generator to be playful and suggestive, but not explicitly offensive. However, it's always best to use your own judgement and abide by FetLife's community guidelines."
+    },
+    {
+      "question": "Can I use these names for other platforms?",
+      "answer": "We've designed the generator to be playful and suggestive, but not explicitly offensive. However, it's always best to use your own judgement and abide by FetLife's community guidelines."
+    },
+    {
+      "question": "Are the generated names unique?",
+      "answer": "We strive to create a wide variety of names, but there's always a chance someone else might have a similar one. If you want to be truly unique, try combining elements from different generated names!"
+    },
+    {
+      "question": "Does the generator save my generated names?",
+      "answer": "Nope! Your generated names are completely private and are not stored anywhere. What happens in the generator, stays in the generator."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form."
+    }
+  ],
+  "prefixes": [
+    "Leather",
+    "Lace",
+    "Velvet",
+    "Silk",
+    "Steel",
+    "Shadow",
+    "Crimson",
+    "Midnight",
+    "Electric",
+    "Submissive",
+    "Dominant",
+    "Kinky",
+    "Playful",
+    "Mystic",
+    "Erotic",
+    "Rope",
+    "Spank",
+    "Bondage",
+    "Cuffed",
+    "Masked"
+  ],
+  "suffixes": [
+    "Mistress",
+    "Master",
+    "Doll",
+    "Fox",
+    "Angel",
+    "Devil",
+    "Dream",
+    "Desire",
+    "Whisper",
+    "Temptress",
+    "Sinner",
+    "Saint",
+    "Kitten",
+    "Puppy",
+    "Shadow",
+    "Flame",
+    "Lover",
+    "Muse",
+    "Phantom",
+    "Enigma"
+  ]
+}

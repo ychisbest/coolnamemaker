@@ -1,0 +1,94 @@
+{
+  "name": "Hospital Name Generator",
+  "description": "Struggling to find the perfect moniker for your clinic, practice, or medical marvel? Look no further! Our Hospital Name Generator is here to prescribe you a dose of creativity, crafting names that are both professional and memorable.",
+  "slug": "hospital-name-generator",
+  "icon": "\ud83c\udfe5",
+  "introduction": "Welcome, future healthcare mogul! Naming your hospital is a crucial step in building trust and recognition. A great name can convey professionalism, compassion, and innovation. Our generator combines medical terminology, location cues, and a dash of linguistic flair to deliver names that resonate with your target audience and set you apart from the competition.",
+  "howToUse": [
+    "1. Prepare for some naming magic! No actual surgery required.",
+    "2. Click the 'Generate' button. (It's much less scary than an actual defibrillator, we promise!)",
+    "3. Behold a selection of freshly-minted hospital names, ready for your discerning gaze.",
+    "4. Feeling picky? Keep clicking! We've got more names than there are germs in a petri dish. (Okay, maybe not *that* many, but you get the idea.)",
+    "5. Found 'the one'? Congratulations! Now go register that name and start saving lives!",
+    "6. If you want to provide some keywords related to your city or your specialty, just input them at the top. Our AI will make corresponding hospital names."
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for real?",
+      "answer": "Absolutely! Once you find a name you love, you're free to use it for your hospital, clinic, or medical practice. However, we strongly recommend checking for trademark availability before you commit."
+    },
+    {
+      "question": "Are the generated names medically accurate?",
+      "answer": "While we strive for accuracy, our generator is primarily designed for creative inspiration. Always consult with medical professionals and legal counsel to ensure the name aligns with your specific services and regulatory requirements."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always open to suggestions! Feel free to contact us with your ideas, and we'll consider adding them to our database to make the generator even better."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! Our Hospital Name Generator is completely free to use. We believe that everyone should have access to creative tools, especially those dedicated to improving healthcare."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Don't worry! Keep generating! The beauty of our tool is its endless possibilities. You can also try combining elements from different names or using them as inspiration to create your own unique masterpiece. And remember, a terrible name is just a stepping stone to a great one!"
+    },
+    {
+      "question": "How does the generator come up with these names?",
+      "answer": "Our generator uses a sophisticated algorithm that combines medical terminology, location-based keywords, and creative linguistic patterns. It's like a tiny digital brain that's obsessed with naming hospitals!"
+    }
+  ],
+  "prefixes": [
+    "Medi",
+    "Health",
+    "Care",
+    "Saint",
+    "Mount",
+    "River",
+    "Grand",
+    "United",
+    "Community",
+    "Global",
+    "Premier",
+    "Elite",
+    "Apex",
+    "Vision",
+    "Sunrise",
+    "West",
+    "East",
+    "North",
+    "South",
+    "Central",
+    "Metro",
+    "City",
+    "Park",
+    "Lake",
+    "Valley"
+  ],
+  "suffixes": [
+    "Hospital",
+    "Medical Center",
+    "Clinic",
+    "Health System",
+    "Healthcare",
+    "Institute",
+    "Center",
+    "Group",
+    "Foundation",
+    "Associates",
+    "Partners",
+    "Solutions",
+    "Wellness",
+    "Care",
+    "Medical",
+    "Health",
+    "Regional",
+    "General",
+    "Emergency",
+    "Trauma",
+    "Specialty",
+    "Children's",
+    "Women's",
+    "Rehabilitation"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "name": "Borg Name Generator",
+  "description": "Resistance is futile! But finding the perfect Borg designation? That's where we come in. Generate a designation worthy of the Collective!",
+  "slug": "borg-name-generator",
+  "icon": "\u2699\ufe0f",
+  "introduction": "Prepare to be assimilated! This generator crafts designations that'll have you fitting right in with the Borg Collective. Whether you're looking for a cool username, a unique character name, or just want to sound like a cybernetic organism, we've got you covered. Embrace the logic, shed your individuality, and generate your Borg designation now!",
+  "howToUse": [
+    "Click the 'Generate' button. Like, duh.",
+    "Behold your new Borg designation! (Try not to let it go to your head).",
+    "If you're not feeling it, hit 'Generate' again. We have endless combinations, just like the Collective.",
+    "Copy and paste your designation wherever you need it. Resistance is futile, remember?",
+    "Share your awesome Borg designation with your friends... if you still have any."
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* a Borg designation?",
+      "answer": "It's the name the Borg Collective assigns to its drones. Think of it as your official serial number... but cooler."
+    },
+    {
+      "question": "Will using this generator actually assimilate me into the Borg Collective?",
+      "answer": "Probably not. But we take no responsibility if a cube suddenly appears in your backyard."
+    },
+    {
+      "question": "Can I use this for my Star Trek fan fiction?",
+      "answer": "Absolutely! In fact, we encourage it. Just be sure to give us a shout-out in the credits!"
+    },
+    {
+      "question": "Are the generated names actually random?",
+      "answer": "As random as our algorithms allow! We've blended logical prefixes and suffixes to create a truly unique (yet Borg-like) naming system."
+    },
+    {
+      "question": "I don't like my Borg designation! What do I do?",
+      "answer": "Generate another one! Keep going until you find one that resonates with your inner drone. Or, you know, just resist. We're not *actually* forcing you."
+    },
+    {
+      "question": "Help! I think I'm starting to crave cybernetic implants!",
+      "answer": "That's... concerning. Maybe step away from the generator and watch a nice, relaxing episode of Deep Space Nine."
+    }
+  ],
+  "prefixes": [
+    "Seven",
+    "Nine",
+    "One",
+    "Four",
+    "Three",
+    "Delta",
+    "Gamma",
+    "Omega",
+    "Theta",
+    "Beta",
+    "Alpha",
+    "Sigma",
+    "Epsilon",
+    "Iota",
+    "Lambda",
+    "Mu",
+    "Nu",
+    "Xi",
+    "Pi",
+    "Rho",
+    "Tau",
+    "Upsilon",
+    "Phi",
+    "Chi",
+    "Psi",
+    "Zero",
+    "Double",
+    "Triple",
+    "Prime",
+    "Secondary"
+  ],
+  "suffixes": [
+    "of Nine",
+    "of Twelve",
+    "of Seven",
+    "of Five",
+    "Tertiary Adjunct",
+    "Unimatrix Zero",
+    "Designation Three",
+    "Unit 01",
+    "Directive 10",
+    "Node 747",
+    "Primary Linkage",
+    "of Borg",
+    "of Unimatrix",
+    "of the Collective",
+    "of Resistance",
+    "of Assimilation",
+    "of Termination",
+    "of Locutus",
+    "of Picard",
+    "of the Queen",
+    "of the Cube",
+    "of Sector 001",
+    "of Tactical",
+    "of Engineering",
+    "of Science"
+  ]
+}

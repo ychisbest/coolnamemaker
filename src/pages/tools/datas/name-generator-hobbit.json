@@ -1,0 +1,79 @@
+{
+  "name": "Hobbit Name Generator",
+  "description": "Ready to discover your inner Hobbit? Unearth a name worthy of the Shire with our enchanting Hobbit Name Generator! Perfect for fantasy writers, role-playing gamers, or anyone who's ever dreamed of second breakfast.",
+  "slug": "hobbit-name-generator",
+  "icon": "\ud83e\udddd",
+  "introduction": "Welcome, friend, to the most delightful corner of the internet! If you've ever felt a kinship with the Shire, a longing for rolling hills and cozy hobbit holes, then you're in the right place. Our Hobbit Name Generator is your portal to Middle-earth, crafting authentic and whimsical names perfect for your next character, story, or even just a bit of fun. So, grab a pipe, settle in, and let's find you a name that's as unique and charming as a hobbit's second breakfast!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand-new, perfectly Hobbit-ish name will magically appear.",
+    "Not quite right? No worries! Keep clicking until you find the name that resonates with your inner Frodo (or Bilbo, or Sam...).",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own unique Hobbit moniker.",
+    "Share your awesome Hobbit name with your friends and family, and let the adventures begin!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names *actually* Hobbit names?",
+      "answer": "Well, we can't promise they're straight from Tolkien's desk, but they're crafted with the same spirit and linguistic flavor! Think of them as 'Hobbit-inspired' \u2013 perfect for any Middle-earth adventure."
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! Our Hobbit names are fantastic for adding a touch of whimsy and authenticity to your role-playing games. Just be prepared for your party to ask about second breakfast... a lot."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You bet! Our Hobbit Name Generator is completely free. Use it as much as you like, and share the Shire-y goodness with everyone!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form, and we'll consider adding them to the generator. The more Hobbit-y, the better!"
+    },
+    {
+      "question": "What if I don't like the name it generates?",
+      "answer": "Keep clicking! The beauty of our generator is that you can generate endless names until you find the perfect one. Think of it as trying on different hobbit-sized shoes until you find the pair that fits just right."
+    },
+    {
+      "question": "Will using this generator make me crave second breakfast?",
+      "answer": "Highly likely. We are not responsible for any sudden urges to consume copious amounts of food at odd hours of the day. Blame the Hobbits!"
+    }
+  ],
+  "prefixes": [
+    "Bilb",
+    "Frod",
+    "Samwis",
+    "Meriadoc",
+    "Peregrin",
+    "Rose",
+    "Gold",
+    "Whit",
+    "Bagg",
+    "Took",
+    "Brandy",
+    "Under",
+    "Over",
+    "Hill",
+    "Barrow",
+    "Gard",
+    "Old",
+    "Fair",
+    "Proud",
+    "Green"
+  ],
+  "suffixes": [
+    "o Baggins",
+    "a Took",
+    "wise Gamgee",
+    "doc Brandybuck",
+    "grin Took",
+    "y Cotton",
+    "berry Goodbody",
+    "foot Smallburrow",
+    "brush Greenhill",
+    "gather Proudfoot",
+    "fall Underhill",
+    "burrow Sandheaver",
+    "wise Gardner",
+    "lock Fairbairn",
+    "gard Hilltopple",
+    "bold Tunnelly"
+  ]
+}

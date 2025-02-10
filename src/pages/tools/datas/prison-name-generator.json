@@ -1,0 +1,93 @@
+{
+  "name": "Prison Name Generator",
+  "description": "Stuck behind bars and need a new identity? Our Prison Name Generator will craft the perfect alias to maintain your mystique, whether you're running the yard or just trying to blend in. Get a name that commands respect (or at least avoids unwanted attention).",
+  "slug": "prison-name-generator",
+  "icon": "\u26d3\ufe0f",
+  "introduction": "So, you're looking for a new name, huh? Maybe you're writing a gritty novel, designing a video game character, or... well, let's just say you need a pseudonym for 'reasons.' Our Prison Name Generator is here to help! We'll whip up a moniker that's tough, memorable, and maybe even a little intimidating. Prepare to be reborn with a name that screams 'don't mess with me!'",
+  "howToUse": [
+    "Click the 'Generate' button. (It's kinda hard to miss.)",
+    "Admire the awesomeness of your new prison-worthy name.",
+    "Repeat until you find the name that perfectly embodies your inner tough guy (or gal).",
+    "Use your new name wisely. We're not responsible for any trouble you get into... or out of."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually useful if I'm, you know, *in* prison?",
+      "answer": "Probably not. Access to the internet might be a bit limited. But hey, maybe you can memorize a few names and impress your cellmates later."
+    },
+    {
+      "question": "Can I use these names for my Dungeons & Dragons character?",
+      "answer": "Absolutely! A hardened criminal background can add some serious depth to your rogue or fighter. Just be prepared to explain your character's... unique skill set."
+    },
+    {
+      "question": "Will these names help me avoid getting shanked?",
+      "answer": "We can't guarantee that. A cool name is a good start, but you might need to work on your intimidation tactics and situational awareness too."
+    },
+    {
+      "question": "Are these names based on real criminals?",
+      "answer": "Nope! They're purely fictional creations, inspired by the tropes and stereotypes of prison life. Any resemblance to actual persons, living or dead, is purely coincidental... and slightly concerning."
+    },
+    {
+      "question": "My generated name is 'Fluffy Bunny.' Is the generator broken?",
+      "answer": "It's not broken, just...surprising. Sometimes the toughest guys have the most unexpected nicknames. Embrace the irony! Or, you know, just generate another one."
+    },
+    {
+      "question": "Can I trademark the name that I generate?",
+      "answer": "While we encourage creativity, we make no guarantees about the uniqueness or trademarkability of the generated names. Use at your own risk!"
+    }
+  ],
+  "prefixes": [
+    "Razor",
+    "Knuckles",
+    "Ice",
+    "Shadow",
+    "Brick",
+    "Steel",
+    "Venom",
+    "Grim",
+    "Silent",
+    "Chaos",
+    "Wrench",
+    "The Hammer",
+    "Whiskey",
+    "Diesel",
+    "Cobra",
+    "Viper",
+    "Tank",
+    "Bruiser",
+    "Joker",
+    "Night",
+    "Iron",
+    "Mad",
+    "Skull",
+    "Bone",
+    "The Butcher"
+  ],
+  "suffixes": [
+    "Fist",
+    "Blade",
+    "Jaw",
+    "Grinder",
+    "Breaker",
+    "Face",
+    "Reaper",
+    "Ripper",
+    "Stabber",
+    "Chains",
+    "Knuckles",
+    "Sledge",
+    "Shot",
+    "Engine",
+    "Fang",
+    "Strike",
+    "Crusher",
+    "Brawler",
+    "Smile",
+    "Hawk",
+    "Hide",
+    "Dog",
+    "Crusher",
+    "Hand",
+    "Maker"
+  ]
+}

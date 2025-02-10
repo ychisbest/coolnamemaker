@@ -1,0 +1,82 @@
+{
+  "name": "Dune Name Generator",
+  "description": "Spice up your life with a name fit for Arrakis! Discover your destiny in the Dune universe with our awesome name generator. From noble houses to Fremen warriors, find the perfect moniker that resonates with the sands of time.",
+  "slug": "dune-name-generator",
+  "icon": "\ud83c\udfdc\ufe0f",
+  "introduction": "Ever wondered what your name would be if you were born on Arrakis? Yearning to join House Atreides or House Harkonnen? Our Dune Name Generator is your personal gateway to the epic world of Frank Herbert's Dune. Prepare to be amazed as you unearth a name that captures the essence of spice, sandworms, and interstellar intrigue!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand-new, Dune-worthy name will appear before your very eyes. It's like magic, but with more spice.",
+    "Not feeling the first result? No problem! Keep clicking until you find a name that truly resonates with your inner Fremen (or noble, we don't judge).",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a truly unique Dune-inspired name. The possibilities are as vast as the desert itself!",
+    "Share your amazing Dune name with your friends and family! Let them know which Great House you belong to (or which sandworm you're secretly befriending)."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually endorsed by Frank Herbert's estate?",
+      "answer": "While we'd love to say 'Yes!', unfortunately, we're just huge fans who wanted to create something fun. So, no official endorsement, but tons of love for Dune!"
+    },
+    {
+      "question": "Can I use these names for my Dune fan fiction?",
+      "answer": "Absolutely! Feel free to use any name you generate for your creative projects. Just give us a shout-out if your story becomes a bestseller!"
+    },
+    {
+      "question": "Will this generator tell me my destiny in the Dune universe?",
+      "answer": "Sadly, no. But it *will* give you a cool name, which is a pretty good start, right? Your destiny is up to you (and maybe a giant sandworm or two)."
+    },
+    {
+      "question": "What if I don't like the name I get?",
+      "answer": "Keep generating! There are countless possibilities waiting to be discovered. Plus, you can always mix and match prefixes and suffixes to create something truly unique."
+    },
+    {
+      "question": "Is the spice melange included with my generated name?",
+      "answer": "We wish! Unfortunately, the spice melange is not included. You'll have to find that on Arrakis yourself. Good luck avoiding the sandworms!"
+    },
+    {
+      "question": "How accurate are these names to the actual naming conventions in Dune?",
+      "answer": "We've tried to capture the essence of Dune's naming style, but ultimately, this is for fun! Some names might sound perfectly authentic, while others might be a bit more\u2026creative. Embrace the spice!"
+    }
+  ],
+  "prefixes": [
+    "Muad",
+    "Paul",
+    "Jessica",
+    "Leto",
+    "Chani",
+    "Gurney",
+    "Duncan",
+    "Alia",
+    "Feyd",
+    "Vladimir",
+    "Irulan",
+    "Stilgar",
+    "Shaddam",
+    "Harq",
+    "Otheym",
+    "Thufir",
+    "Rabban",
+    "Fenring",
+    "Gaius"
+  ],
+  "suffixes": [
+    "Atreides",
+    "Harkonnen",
+    "Fremen",
+    "Melange",
+    "Sandworm",
+    "Arrakis",
+    "Spice",
+    "Bene Gesserit",
+    "Mentat",
+    "Guild",
+    "Sardaukar",
+    "Corrino",
+    "Ixian",
+    "Tleilaxu",
+    "Kwisatz Haderach",
+    "Mahdi",
+    "Usul",
+    "Sayyadina",
+    "Shai-Hulud",
+    "Crysknife"
+  ]
+}

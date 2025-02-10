@@ -1,0 +1,91 @@
+{
+  "name": "Ambigram Generator: Two Names Edition",
+  "description": "Craft mind-bending ambigrams! Enter two names and behold the magic where they transform into one stunning, symmetrical design. Perfect for tattoos, logos, or just blowing people's minds.",
+  "slug": "free-ambigram-generator-two-names",
+  "icon": "\ud83d\udd04",
+  "introduction": "Unleash your inner artist with our Ambigram Generator! This isn't just any name generator; it's a portal to creating visual illusions. Input two names, and our tool will conjure ambigrams \u2013 designs that read differently when viewed from different orientations. Whether you're seeking a unique tattoo idea, a striking logo, or simply want to astound your friends, prepare to be amazed by the fusion of artistry and technology.",
+  "howToUse": [
+    "First, bravely enter your first name in the first box. Don't be shy!",
+    "Next, carefully input the second name in the second box. Double-check your spelling; magic hates typos.",
+    "Brace yourself! Click the 'Generate' button and witness the alchemical transformation into a glorious ambigram.",
+    "Marvel at the result! Download your ambigram and prepare to astound the world with your newfound design prowess. (We accept gratitude in the form of sharing!)"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* an ambigram?",
+      "answer": "An ambigram is a visual word that retains meaning when viewed from a different perspective, often when rotated 180 degrees. Think of it as wordplay meets optical illusion!"
+    },
+    {
+      "question": "Can I use these ambigrams for commercial purposes?",
+      "answer": "Absolutely! Once generated, the ambigram is yours to use as you see fit \u2013 for logos, branding, or even selling merchandise. Get creative and make bank (or at least a few bucks)!"
+    },
+    {
+      "question": "What if the generator says it can't create an ambigram for my names?",
+      "answer": "Ambigram creation is a complex art! Some name combinations are simply too challenging. Try variations of the names, nicknames, or shorter versions. Experimentation is key!"
+    },
+    {
+      "question": "Can I customize the style or font of the ambigram?",
+      "answer": "Currently, the generator offers a default style. However, we're always working on improvements! Stay tuned for future updates that may include customization options. In the meantime, download your ambigram and use image editing software to tweak it to your heart's content!"
+    },
+    {
+      "question": "How do I download my ambigram?",
+      "answer": "Once the ambigram is generated, you'll see a 'Download' button. Click it, and your ambigram will be saved as a high-resolution image file. Easy peasy!"
+    }
+  ],
+  "prefixes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "U",
+    "V",
+    "W",
+    "X",
+    "Y",
+    "Z"
+  ],
+  "suffixes": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z"
+  ]
+}

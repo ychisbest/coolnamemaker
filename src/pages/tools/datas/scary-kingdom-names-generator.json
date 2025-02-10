@@ -1,0 +1,84 @@
+{
+  "name": "Scary Kingdom Names Generator",
+  "description": "Unleash your inner dark lord! Generate bone-chilling kingdom names that will make your rivals tremble and your peasants whisper in fear. Perfect for fantasy novels, RPG campaigns, or just adding a touch of spooky flair to your world.",
+  "slug": "scary-kingdom-names-generator",
+  "icon": "\ud83c\udff0",
+  "introduction": "Dare to dream of empires forged in shadow and ruled by fear? Our Scary Kingdom Names Generator is your gateway to a realm of dread! Forget flowery meadows and sun-drenched castles \u2013 we're talking about kingdoms steeped in ancient curses, haunted forests, and the chilling echoes of forgotten gods. Get ready to name your domain with a moniker that screams power and inspires nightmares!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Witness the birth of a terrifying kingdom name. (Prepare to be spooked!)",
+    "Don't like the name? Click again! (We've got a whole crypt full of them.)",
+    "Copy your favorite scary kingdom name and unleash it upon the world. (Mwahahaha!)",
+    "Use it for your next DnD campaign, video game, or just to creep out your friends. (Bonus points for dramatic readings!)"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "We specialize in names that evoke feelings of dread, fear, and ancient evil. Think gothic castles, haunted forests, and kingdoms ruled by tyrannical sorcerers."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! All generated names are free for you to use as you see fit. Create your next bestselling fantasy novel, design a terrifying video game, or even name your pet hamster 'The Shadowlands of Snuggles' (we won't judge)."
+    },
+    {
+      "question": "Are the names truly random?",
+      "answer": "As random as a raven's caw in the dead of night! We use a sophisticated algorithm (okay, maybe not *that* sophisticated) to ensure a wide variety of terrifying possibilities."
+    },
+    {
+      "question": "Will these names summon actual demons?",
+      "answer": "We can't guarantee that. But if they do, please don't blame us. Maybe offer them a nice cup of tea and a biscuit. Politeness goes a long way, even in the underworld."
+    },
+    {
+      "question": "I'm not feeling very scary today. Can I use this generator for something else?",
+      "answer": "Sure! You could use it to name your Halloween decorations, your metal band, or even your particularly grumpy cat. The possibilities are endless (and potentially terrifying)."
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We are constantly adding new and terrifying names to our database. Check back regularly for fresh doses of dread!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Night",
+    "Doom",
+    "Gloom",
+    "Blood",
+    "Bone",
+    "Grim",
+    "Dark",
+    "Cursed",
+    "Silent",
+    "Whispering",
+    "Frozen",
+    "Desolate",
+    "Forgotten",
+    "Raven",
+    "Serpent",
+    "Skull",
+    "Ghoul",
+    "Wretched",
+    "Mournful"
+  ],
+  "suffixes": [
+    "wood",
+    "shire",
+    "heim",
+    "gard",
+    "fell",
+    "vale",
+    "hold",
+    "reach",
+    "lands",
+    "realm",
+    "domain",
+    "kingdom",
+    "empire",
+    "citadel",
+    "fortress",
+    "spire",
+    "gate",
+    "keep",
+    "watch",
+    "glen"
+  ]
+}

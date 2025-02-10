@@ -1,0 +1,74 @@
+{
+  "name": "MLP Pony Name Generator",
+  "description": "Gallop into creativity! Unleash your inner Brony with our magical MLP Pony Name Generator. Find the perfect moniker for your OC or fanfic character. Neigh problem!",
+  "slug": "mlp-pony-name-generator",
+  "icon": "\ud83d\udc34",
+  "introduction": "Ever dreamed of naming your own My Little Pony character? Or maybe you're writing a fanfic and need the perfect pony name? Look no further! Our MLP Pony Name Generator combines whimsical prefixes and suffixes to create names that sparkle with friendship and magic. Get ready to trot into a world of endless naming possibilities!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the awesomeness of the randomly generated pony name.",
+    "If you don't like it (which is unlikely), click 'Generate' again. Repeat until pony perfection is achieved.",
+    "Copy and paste your new pony name into your fanfic, OC bio, or anywhere else your pony heart desires!",
+    "Share your amazing pony name with your Brony/Pegasister friends. Spread the magic!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually magical?",
+      "answer": "While we can't *guarantee* actual magic, we *can* guarantee a whole lot of fun and creatively generated names!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "These names are randomly generated for fun. We advise checking trademark laws before using any name commercially."
+    },
+    {
+      "question": "Are the names gender-specific?",
+      "answer": "Nope! The names are designed to be gender-neutral. A fabulous name is a fabulous name, regardless of gender!"
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're constantly adding new prefixes and suffixes to keep the names fresh and exciting! Check back often for new possibilities."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! With so many combinations, you're bound to find a name that sparks joy. Or, get inspired and tweak a generated name to make it your own!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "Absolutely! We love hearing from our users. Send your suggestions our way, and we might just add them to the generator!"
+    }
+  ],
+  "prefixes": [
+    "Rainbow",
+    "Sparkle",
+    "Flutter",
+    "Apple",
+    "Twilight",
+    "Pinkie",
+    "Shadow",
+    "Crystal",
+    "Star",
+    "Moon",
+    "Sunny",
+    "Daring",
+    "Whisper",
+    "Shimmer",
+    "Blossom"
+  ],
+  "suffixes": [
+    "Shine",
+    "Dash",
+    "Fly",
+    "Bloom",
+    "Pie",
+    "Glimmer",
+    "Heart",
+    "Wing",
+    "Song",
+    "Dream",
+    "Light",
+    "Do",
+    "Spark",
+    "Twirl",
+    "Petal"
+  ]
+}

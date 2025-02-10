@@ -1,0 +1,93 @@
+{
+  "name": "Robot Name Generator",
+  "description": "Unleash the power of creativity and generate awesome robot names that will make your bots stand out from the crowd! Perfect for games, stories, or just plain fun!",
+  "slug": "robot-name-generator",
+  "icon": "\ud83e\udd16",
+  "introduction": "Ready to give your robot a name that screams awesome? Our Robot Name Generator is here to help! We'll cook up some seriously cool names that are perfect for everything from friendly helpers to menacing machines. Get ready to power up your imagination!",
+  "howToUse": [
+    "First, take a deep breath and prepare for awesomeness.",
+    "Next, simply click the 'Generate' button. (It's super easy, even a toaster could do it!)",
+    "Behold! A list of amazing robot names will appear before your very eyes.",
+    "If you don't like the names, just keep hitting that button until you find the perfect one. We won't judge. We promise. (Okay, maybe a little.)",
+    "Copy and paste your favorite robot name into your project. Now go forth and conquer! (Or just have some fun. Whatever.)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe that awesome robot names should be accessible to everyone, regardless of their budget. So, generate away, my friend!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You bet! All the names generated here are free for you to use in your games, stories, or whatever creative project you have in mind. Just go for it!"
+    },
+    {
+      "question": "How many robot names can I generate?",
+      "answer": "As many as your heart desires! There's no limit. Keep generating until you find the perfect name that makes your robot shine."
+    },
+    {
+      "question": "Are the robot names generated randomly?",
+      "answer": "Yep! We use a complex algorithm (aka a bunch of fancy code) to create unique and interesting robot names every time you hit that 'Generate' button."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "No worries! Just keep generating! With so many possible combinations, you're bound to find the perfect name eventually. And hey, sometimes the weirdest names are the coolest!"
+    },
+    {
+      "question": "Can I contribute to the list of prefixes and suffixes?",
+      "answer": "We're always open to suggestions! Feel free to reach out to us with your ideas for prefixes and suffixes. Who knows, maybe your suggestion will be the next big thing in robot naming!"
+    }
+  ],
+  "prefixes": [
+    "Astro",
+    "Cyber",
+    "Mega",
+    "Nano",
+    "Robo",
+    "Steel",
+    "Titan",
+    "Volt",
+    "Alpha",
+    "Beta",
+    "Delta",
+    "Echo",
+    "Nova",
+    "Zenith",
+    "Quantum",
+    "Binary",
+    "Logic",
+    "Circuit",
+    "Vector",
+    "Syntho",
+    "Mech",
+    "Droid",
+    "Gizmo",
+    "Techno"
+  ],
+  "suffixes": [
+    "Tron",
+    "Bot",
+    "X",
+    "Prime",
+    "Max",
+    "Force",
+    "Guard",
+    "Tech",
+    "Unit",
+    "Core",
+    "Byte",
+    "Code",
+    "Drive",
+    "Link",
+    "Matic",
+    "Nator",
+    "Ware",
+    "Wing",
+    "Eye",
+    "Claw",
+    "Hammer",
+    "Blade",
+    "Shield",
+    "Storm",
+    "Spark"
+  ]
+}

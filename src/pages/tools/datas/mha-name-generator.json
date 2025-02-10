@@ -1,0 +1,89 @@
+{
+  "name": "MHA Name Generator",
+  "description": "Unleash your inner hero! Get a super-powered name worthy of U.A. High with our MHA Name Generator. It's like getting your own personalized Quirk!",
+  "slug": "mha-name-generator",
+  "icon": "\ud83e\uddb8",
+  "introduction": "Ready to join the ranks of Deku, Bakugo, and Todoroki? This generator combines powerful prefixes and suffixes inspired by the My Hero Academia universe to forge a hero name that screams 'Plus Ultra!' Whether you're writing fanfiction, creating a character for a tabletop RPG, or just curious what your hero alias would be, we've got you covered. Get ready to discover your destiny!",
+  "howToUse": [
+    "Simply hit the 'Generate' button and BAM! A brand-new, totally awesome MHA-inspired name will appear!",
+    "Don't like what you see? No problem! Just smash that button again until a name resonates with your heroic soul.",
+    "Feeling creative? Mix and match prefixes and suffixes from the generated names to create a truly unique alias. Go wild!",
+    "Share your awesome hero name with your friends and see what kind of epic team-ups you can create!"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly is an MHA Name Generator?",
+      "answer": "It's a super-cool tool that creates hero names based on the world of My Hero Academia! Think of it as a personalized Quirk for generating awesome aliases."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yep! We use a combination of prefixes and suffixes inspired by the series to create unique and (hopefully) epic names. Prepare for the unexpected!"
+    },
+    {
+      "question": "Can I use these names for my fanfiction or original characters?",
+      "answer": "Absolutely! That's what it's for! Go ahead, unleash your creativity and give your characters the heroic names they deserve."
+    },
+    {
+      "question": "Will the generator give me the same name twice?",
+      "answer": "It's possible, but highly unlikely! With the number of combinations we have, the chances of getting the exact same name twice are pretty slim. But hey, if it happens, maybe that's your destiny!"
+    },
+    {
+      "question": "Is this generator endorsed by Kohei Horikoshi or the official My Hero Academia team?",
+      "answer": "Nope! This is purely a fan-made project created with love for the series. We're just here to help you unleash your inner hero!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions and we'll see if we can incorporate them into the generator. The more, the merrier!"
+    }
+  ],
+  "prefixes": [
+    "Crimson",
+    "Shadow",
+    "Thunder",
+    "Aqua",
+    "Solar",
+    "Lunar",
+    "Steel",
+    "Venom",
+    "Nova",
+    "Phantom",
+    "Blaze",
+    "Frost",
+    "Cosmic",
+    "Titan",
+    "Rapid",
+    "Static",
+    "Ember",
+    "Mystic",
+    "Zenith",
+    "Omega",
+    "Delta",
+    "Alpha",
+    "Gamma"
+  ],
+  "suffixes": [
+    "Strike",
+    "Claw",
+    "Shield",
+    "Bolt",
+    "Flare",
+    "Moon",
+    "Guard",
+    "Fang",
+    "Star",
+    "Wraith",
+    "Fire",
+    "Freeze",
+    "Knight",
+    "Smash",
+    "Rush",
+    "Surge",
+    "Burn",
+    "Sage",
+    "Apex",
+    "Force",
+    "Blade",
+    "Fist",
+    "Wing"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Letter-Perfect Name Generator",
+  "description": "Struggling to find the *right* name?  Our Letter-Perfect Name Generator conjures up cool, catchy names using the power of the alphabet! Ditch the generic, embrace the unique!",
+  "slug": "letter-perfect-name-generator",
+  "icon": "\ud83d\udd24",
+  "introduction": "Forget brainstorming sessions that lead nowhere! This generator is your secret weapon for instantly creating awesome names. Whether it's for a character, a project, or just plain fun, we've got you covered. Get ready to be amazed!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen!",
+    "Don't like the first result? No problem! Hit 'Generate' again for a fresh, brand-new name.",
+    "Feeling adventurous?  Experiment with different prefix and suffix combinations to create something truly unique!",
+    "Copy your favorite name and share it with the world \u2013 or keep it your little secret. \ud83d\ude09"
+  ],
+  "faqs": [
+    {
+      "question": "How does the generator actually *work*?",
+      "answer": "We use a super-secret (not really, it's just a cool algorithm) combination of prefixes and suffixes, blended with a dash of randomness, to create names that are both catchy and memorable."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once you generate a name you love, it's all yours (but do check for existing trademarks just to be safe!)."
+    },
+    {
+      "question": "Are the names *really* unique?",
+      "answer": "We strive for uniqueness, but with billions of possibilities, there's always a *tiny* chance of a duplicate. However, we think our algorithm is pretty darn good at avoiding that!"
+    },
+    {
+      "question": "Will this generator help me become famous?",
+      "answer": "We can't guarantee fame, but a killer name is definitely a great start! Think of it as your first step on the road to superstardom. \u2728"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You betcha! Use it as much as you like. We just want to help you find the perfect name. If you love it, share it!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send them our way through the contact form on our website. We're always looking for ways to improve!"
+    }
+  ],
+  "prefixes": [
+    "Alpha",
+    "Beta",
+    "Cosmo",
+    "Nova",
+    "Zenith",
+    "Echo",
+    "Vanguard",
+    "Celestial",
+    "Quantum",
+    "Mystic"
+  ],
+  "suffixes": [
+    "Tech",
+    "Corp",
+    "Solutions",
+    "Dynamics",
+    "Ventures",
+    "Innovations",
+    "Labs",
+    "Systems",
+    "Group",
+    "United"
+  ]
+}

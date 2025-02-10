@@ -1,0 +1,91 @@
+{
+  "name": "Discord Server Name Generator",
+  "description": "Struggling to find the perfect name for your Discord server? Our generator crafts cool, catchy, and unforgettable names that will make your server the talk of the town! Say goodbye to boring names and hello to server stardom! \u2728",
+  "slug": "discord-server-name-generator",
+  "icon": "\ud83d\udcac",
+  "introduction": "Your Discord server is your digital clubhouse, and it deserves a name that reflects its unique vibe! Whether you're building a gaming community, a study group, or a hangout spot for friends, a killer name is essential. Our Discord Server Name Generator is here to spark your creativity and help you find the perfect moniker. Get ready to unleash your server's potential!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! We'll conjure up a list of awesome Discord server names.",
+    "Don't like what you see? No problem! Keep clicking until you find the name that resonates with your soul (or at least your server's theme).",
+    "Found a gem? Copy and paste it directly into your Discord server settings. Boom! You're a naming genius!",
+    "Pro-tip: Think about your server's focus and target audience. Are you hardcore gamers? A book club? Let that guide your choice!"
+  ],
+  "faqs": [
+    {
+      "question": "How does this generator actually *work*?",
+      "answer": "We use a secret blend of linguistic algorithms, a dash of internet trends, and a sprinkle of pure inspiration to create unique and awesome names. It's basically magic, but with code!"
+    },
+    {
+      "question": "Can I use these names for other things besides Discord servers?",
+      "answer": "Absolutely! Feel free to use them for anything: podcasts, bands, your pet goldfish... We won't judge!"
+    },
+    {
+      "question": "Are the generated names actually any good?",
+      "answer": "We think so! But taste is subjective. If you don't like them, just keep generating! We've got plenty more where that came from."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! Our Discord Server Name Generator is 100% free. Use it as much as you like, no strings attached. We just want to help you create an awesome online community."
+    },
+    {
+      "question": "Will the names be completely unique?",
+      "answer": "We strive to generate unique names, but with millions of servers out there, some overlap is possible. We recommend checking Discord to ensure your chosen name isn't already taken."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We're always looking for ways to improve! Feel free to send us your suggestions. We might just add them to our ever-growing list!"
+    }
+  ],
+  "prefixes": [
+    "The",
+    "Official",
+    "Elite",
+    "Ultimate",
+    "Legendary",
+    "Epic",
+    "Mystic",
+    "Shadow",
+    "Crimson",
+    "Golden",
+    "Silver",
+    "Diamond",
+    "Pixel",
+    "Retro",
+    "Future",
+    "Cosmic",
+    "Galactic",
+    "Virtual",
+    "Digital",
+    "United",
+    "Supreme",
+    "Celestial",
+    "Arcane",
+    "Forgotten"
+  ],
+  "suffixes": [
+    "Squad",
+    "Crew",
+    "Guild",
+    "Team",
+    "Community",
+    "HQ",
+    "Lounge",
+    "Den",
+    "Sanctuary",
+    "Haven",
+    "Nexus",
+    "Domain",
+    "Kingdom",
+    "Empire",
+    "Republic",
+    "Federation",
+    "Collective",
+    "Order",
+    "Legion",
+    "Society",
+    "Circle",
+    "Alliance",
+    "Syndicate",
+    "Network"
+  ]
+}

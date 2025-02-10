@@ -1,0 +1,92 @@
+{
+  "name": "Race Name Generator",
+  "description": "Struggling to find the perfect name for your next race? Look no further! Our Race Name Generator will conjure up thrilling, memorable, and downright awesome names that'll have participants lining up at the starting line. Get ready to unleash your inner speed demon!",
+  "slug": "race-name-generator",
+  "icon": "\ud83c\udfc1",
+  "introduction": "Tired of generic race names that blend into the background? We've got you covered. Our generator combines a dash of adrenaline, a sprinkle of creativity, and a whole lot of speed to produce race names that are guaranteed to turn heads and boost participation. Whether it's a marathon, a fun run, or an obstacle course, we'll help you find the perfect moniker.",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen!",
+    "Don't like the first result? No sweat! Keep clicking until you find a name that makes your heart race (pun intended!).",
+    "Feeling creative? Mix and match prefixes and suffixes to craft your own unique race name masterpiece.",
+    "Share your favorite race names with your friends and colleagues to get their feedback. After all, a great race name deserves to be celebrated!",
+    "Prepare for the flood of registrations once you unveil your epic new race name. You're welcome \ud83d\ude09"
+  ],
+  "faqs": [
+    {
+      "question": "Is the Race Name Generator really free?",
+      "answer": "Absolutely! Use it as much as you want. We believe that great race names should be accessible to everyone, regardless of budget."
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "You bet! All the generated names are free to use for your races, events, and marketing materials. Go forth and conquer!"
+    },
+    {
+      "question": "How does the Race Name Generator work?",
+      "answer": "It uses a sophisticated algorithm (aka a really cool list of prefixes and suffixes) to combine words and create unique and memorable race names. It's like magic, but with code!"
+    },
+    {
+      "question": "Will the Race Name Generator guarantee my race's success?",
+      "answer": "While we can't guarantee victory, a killer race name is a crucial first step. It'll definitely grab attention and get people talking! (The rest is up to you and a well-organized event, of course.)"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form, and we'll consider adding them to our ever-expanding database of race-tastic words."
+    },
+    {
+      "question": "Are the generated names trademarked?",
+      "answer": "We do our best to generate unique names, but it's always a good idea to do a quick trademark search before you commit to a name, just to be on the safe side."
+    }
+  ],
+  "prefixes": [
+    "Ultra",
+    "Mega",
+    "Epic",
+    "Rapid",
+    "Turbo",
+    "Sonic",
+    "Midnight",
+    "Crimson",
+    "Iron",
+    "Steel",
+    "Blazing",
+    "Frozen",
+    "Summit",
+    "Valley",
+    "Coastal",
+    "Desert",
+    "Lunar",
+    "Solar",
+    "Quantum",
+    "Galactic",
+    "Legendary",
+    "Mythic",
+    "Vanguard",
+    "Phoenix"
+  ],
+  "suffixes": [
+    "Run",
+    "Marathon",
+    "Dash",
+    "Sprint",
+    "Challenge",
+    "Quest",
+    "Odyssey",
+    "Gauntlet",
+    "Pursuit",
+    "Rally",
+    "Blitz",
+    "Assault",
+    "Crusade",
+    "Voyage",
+    "Conquest",
+    "Expedition",
+    "Showdown",
+    "Faceoff",
+    "Triumph",
+    "Victory",
+    "Inferno",
+    "Frostbite",
+    "Ascent",
+    "Descent"
+  ]
+}

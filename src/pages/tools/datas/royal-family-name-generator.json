@@ -1,0 +1,84 @@
+{
+  "name": "Royal Family Name Generator",
+  "description": "Ever dreamt of being royalty? Find your regal title with our Royal Family Name Generator! Unleash your inner king, queen, prince, or princess. Perfect for fantasy stories, role-playing games, or just a bit of fun!",
+  "slug": "royal-family-name-generator",
+  "icon": "\ud83d\udc51",
+  "introduction": "Tired of your mundane moniker? Want to add a touch of majesty to your life? Look no further! Our Royal Family Name Generator is here to bestow upon you a title worthy of a crown. Simply click, and discover your destiny as a ruler of the realm!",
+  "howToUse": [
+    "Behold! The process is simpler than inheriting a kingdom (probably).",
+    "Just click the 'Generate' button. It's that shiny one, you can't miss it!",
+    "Marvel at the generated royal name. Is it befitting your future reign?",
+    "If not, fear not! Click again! The generator holds endless possibilities, more than a royal treasury!",
+    "Share your newfound royal title with your court (aka your friends) and bask in their awe."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to make me a real royal?",
+      "answer": "While we'd love to grant you a kingdom, this generator is purely for entertainment purposes. Sorry to burst your bubble, future monarch!"
+    },
+    {
+      "question": "Can I use these names for my book/game/role-playing character?",
+      "answer": "Absolutely! Go forth and create! We encourage you to use these names to add a touch of regal flair to your creative endeavors."
+    },
+    {
+      "question": "Are the generated names historically accurate?",
+      "answer": "While we've drawn inspiration from royal history, the names are primarily designed to sound cool and majestic, not necessarily historically accurate. Think fantasy royalty, not necessarily historical royalty."
+    },
+    {
+      "question": "How many royal names can I generate?",
+      "answer": "As many as your heart desires! There's no limit to the number of royal identities you can adopt. Become the monarch of many realms!"
+    },
+    {
+      "question": "What if I don't like the name the generator gives me?",
+      "answer": "Don't fret! Simply click the 'Generate' button again. With countless combinations, you're bound to find a royal name that suits your fancy. Persistence is key to finding your perfect title!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, absolutely! Our Royal Family Name Generator is free for everyone to enjoy. Spread the word and let everyone discover their inner royal!"
+    }
+  ],
+  "prefixes": [
+    "King",
+    "Queen",
+    "Prince",
+    "Princess",
+    "Duke",
+    "Duchess",
+    "Lord",
+    "Lady",
+    "Tsar",
+    "Tsaria",
+    "Emperor",
+    "Empress",
+    "Grand Duke",
+    "Grand Duchess",
+    "Archduke",
+    "Archduchess",
+    "Sultan",
+    "Sultana",
+    "High King",
+    "High Queen"
+  ],
+  "suffixes": [
+    "the Great",
+    "the Bold",
+    "the Wise",
+    "the Just",
+    "the Magnificent",
+    "the Benevolent",
+    "the Conqueror",
+    "the Peaceful",
+    "the Dragon",
+    "the Lionheart",
+    "the Kind",
+    "the Strong",
+    "the Steadfast",
+    "the Courageous",
+    "the Protector",
+    "the Defender",
+    "the Illustrious",
+    "the Noble",
+    "the Righteous",
+    "the Unyielding"
+  ]
+}

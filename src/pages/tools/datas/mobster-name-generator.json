@@ -1,0 +1,63 @@
+{
+  "name": "Mobster Name Generator",
+  "description": "Looking for a name that screams 'Don't mess with me'? Our Mobster Name Generator will craft the perfect moniker to strike fear (or at least mild discomfort) into the hearts of your rivals. Get ready to rule the underworld... or at least your next costume party!",
+  "slug": "mobster-name-generator",
+  "icon": "\ud83c\udfa9",
+  "introduction": "Ever wondered what your mobster alias would be? This generator combines gritty prefixes and tough-sounding suffixes to create names worthy of a spot in the history books...or at least a good crime novel. Whether you're writing a screenplay, role-playing, or just having a laugh, get your personalized mobster name now!",
+  "howToUse": [
+    "Simply click the 'Generate' button. We'll do the dirty work.",
+    "Don't like the name? Hit 'Generate' again! We've got more aliases than a two-bit snitch.",
+    "Found the perfect name? Use it wisely... or at least creatively!",
+    "Share your new, intimidating identity with your friends (or enemies). Let them know who's boss."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to get me involved in organized crime?",
+      "answer": "Absolutely not! This is purely for entertainment purposes. We are not responsible for any unexpected visits from 'associates'. (Just kidding... mostly.)"
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Of course! While technically mobsters, a little creative license never hurt. Just imagine the backstory!"
+    },
+    {
+      "question": "Are the names generated offensive?",
+      "answer": "We aim for tough and gritty, not offensive. However, some names might evoke images of old-school gangster stereotypes. Use your best judgment!"
+    },
+    {
+      "question": "Can I trademark the name generated?",
+      "answer": "While we encourage ambition, we make no guarantees about the originality or trademarkability of the generated names. Consult a lawyer if you're serious about going legit... or as legit as a mobster can be."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart (or your criminal empire) desires! We won't stop you until the coppers do."
+    },
+    {
+      "question": "Is the generator free to use?",
+      "answer": "Yes, it's absolutely free! Just like a 'favor' from a friend...no strings attached (we promise)."
+    }
+  ],
+  "prefixes": [
+    "Tommy 'The",
+    "Vinny 'Knuckles",
+    "Big Tony",
+    "Frankie 'The Hammer",
+    "Joey 'Ice Pick",
+    "Sal 'The Butcher",
+    "Little Mikey",
+    "Jimmy 'Two Times",
+    "Anthony 'No Nose",
+    "Benny 'The Bat"
+  ],
+  "suffixes": [
+    "Fingers",
+    "The Enforcer",
+    "The Fixer",
+    "The Squealer",
+    "The Shadow",
+    "The Wrench",
+    "The Brick",
+    "The Lip",
+    "The Silent",
+    "The Ghost"
+  ]
+}

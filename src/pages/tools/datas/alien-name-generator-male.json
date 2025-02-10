@@ -1,0 +1,74 @@
+{
+  "name": "Alien Name Generator (Male)",
+  "description": "Beam yourself up a brand new, out-of-this-world moniker! Ditch the earthly 'John' and 'Michael' \u2013 our generator crafts alien names that scream intergalactic coolness. Perfect for sci-fi characters, gaming avatars, or just giving your life a cosmic upgrade. Prepare for names that are truly\u2026 alien.",
+  "slug": "alien-name-generator-male",
+  "icon": "\ud83d\udc7d",
+  "introduction": "Tired of the same old terrestrial names? Yearning for a title that reflects your otherworldly spirit? Look no further! This generator is your portal to a universe of unique and compelling male alien names. Whether you're writing a sci-fi epic, creating a new online persona, or just want to stand out from the crowd, we've got you covered. Prepare to be amazed by the sheer variety and creativity of names that are simply\u2026 not of this Earth.",
+  "howToUse": [
+    "First, steel your nerves for the sheer awesomeness you're about to unleash.",
+    "Click the 'Generate' button. (It's the one that doesn't require a spaceship.)",
+    "Behold! A brand new, totally alien name appears before your very eyes.",
+    "Don't like it? No problem! Just click again. We've got more names than there are stars in the galaxy.",
+    "Found the perfect alien name? Copy it, cherish it, and unleash it upon the world!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names *really* alien?",
+      "answer": "Well, we haven't actually *met* any aliens to confirm. But they sound pretty darn alien, don't they? We use a complex algorithm (and a healthy dose of imagination) to create names that are unlike anything you've heard before on Earth."
+    },
+    {
+      "question": "Can I use these names for my sci-fi book/game/etc.?",
+      "answer": "Absolutely! That's what they're for! Feel free to use them as inspiration or take them as is. Just promise to credit coolnamemaker.com when you become a famous sci-fi author. \ud83d\ude09"
+    },
+    {
+      "question": "Are the names generated randomly?",
+      "answer": "Yes, they are generated using a random combination of prefixes and suffixes. This ensures a unique and unpredictable result every time you click the button."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep clicking! We have thousands of possible combinations. You're bound to find something that tickles your fancy. Or... perhaps your alien antennas. "
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes?",
+      "answer": "We're always open to suggestions! Send us your ideas through our contact form, and we might just add them to the generator. Help us make the universe of alien names even bigger and better!"
+    },
+    {
+      "question": "Will using an alien name make me cooler?",
+      "answer": "Unequivocally, YES. Prepare for a dramatic increase in coolness, charisma, and overall intergalactic appeal. Side effects may include increased attention from government agencies and a sudden urge to build a spaceship."
+    }
+  ],
+  "prefixes": [
+    "Zorgon",
+    "Kryll",
+    "Xylar",
+    "Glarth",
+    "Vortax",
+    "Zenith",
+    "Ragnar",
+    "Jax",
+    "Kael",
+    "Torvin",
+    "Vorlag",
+    "Zaltar",
+    "Gromak",
+    "Baelar",
+    "Xandar"
+  ],
+  "suffixes": [
+    "on",
+    "ax",
+    "ar",
+    "oth",
+    "ix",
+    "us",
+    "ek",
+    "or",
+    "an",
+    "ok",
+    "ak",
+    "ek",
+    "ark",
+    "orn",
+    "oth"
+  ]
+}

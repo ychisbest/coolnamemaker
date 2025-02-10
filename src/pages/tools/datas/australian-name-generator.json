@@ -1,0 +1,72 @@
+{
+  "name": "Aussie Name Generator",
+  "description": "G'day, mate! Strewth, are you looking for a bonza Aussie name? Crack open a cold one and let this ripper generator chuck out some fair dinkum names for your next character, pet, or even yourself! No worries, she'll be right!",
+  "slug": "australian-name-generator",
+  "icon": "\ud83e\udd98",
+  "introduction": "Crikey! Need a name that screams 'Australia'? From the outback to the coast, this generator is packed with names inspired by Aussie culture, slang, and legends. Whether you're writing a story set Down Under or just want a unique moniker, you've come to the right place. Get ready to throw a shrimp on the barbie and discover your true blue Aussie name!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! We'll whip up a name that's more Aussie than a kangaroo boxing a crocodile.",
+    "Don't like the first result? No worries! Keep clicking until you find a name that makes you say 'Good on ya!'",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own unique Aussie masterpiece. Just don't blame us if it's too good!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "This generator creates names inspired by Australian culture, slang, place names, and even a bit of Aussie humour. You'll find names that sound both traditional and uniquely Australian."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once generated, the name is yours to use as you see fit. Write a book, start a business, name your pet \u2013 the possibilities are endless!"
+    },
+    {
+      "question": "Is this generator really free?",
+      "answer": "You betcha! This generator is 100% free to use. We just want to spread the Aussie spirit (and maybe sell a few more shrimp on the barbie)."
+    },
+    {
+      "question": "Are the names generated offensive?",
+      "answer": "We strive to ensure all generated names are respectful and avoid cultural appropriation. However, language evolves, so if you find a name offensive, please let us know so we can improve the generator."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "G'day, yes! We love hearing from our users. If you have any suggestions for new prefixes or suffixes, please send them our way. We're always looking to expand our Aussie vocabulary!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "No wucking furries! Just keep hitting that generate button. You're bound to find a fair dinkum name eventually. Or, you can try combining parts of different names to make your own unique Aussie creation!"
+    }
+  ],
+  "prefixes": [
+    "Woolly",
+    "Dingo",
+    "Boomerang",
+    "Kookaburra",
+    "G'day",
+    "Outback",
+    "Billabong",
+    "Bondi",
+    "Shearer",
+    "Croc",
+    "Bluey",
+    "Cobber",
+    "Sheila",
+    "Fair Dinkum",
+    "True Blue"
+  ],
+  "suffixes": [
+    "Smith",
+    "Jones",
+    "O'Reilly",
+    "Brown",
+    "Wilson",
+    "Taylor",
+    "Walker",
+    "White",
+    "Green",
+    "Davis",
+    "-ton",
+    "-ville",
+    "-ley",
+    "-by",
+    "-roo"
+  ]
+}

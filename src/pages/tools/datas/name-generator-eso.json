@@ -1,0 +1,96 @@
+{
+  "name": "ESO Name Generator",
+  "description": "Struggling to come up with the perfect name for your Elder Scrolls Online character? Fear not, adventurer! Our ESO Name Generator will forge epic monikers worthy of Tamriel's greatest heroes (and villains!).",
+  "slug": "eso-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Dive into the world of Elder Scrolls Online with a name that truly embodies your character. Whether you're a noble High Elf, a cunning Khajiit, or a stoic Nord, a great name sets the stage for your adventures. Stop staring blankly at the character creation screen \u2013 let our generator spark your imagination and craft a name whispered in taverns across Tamriel!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A glorious ESO-inspired name will appear.",
+    "Don't like the first result? No problem! Click again for another legendary moniker.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create a truly unique name that reflects your character's personality.",
+    "Once you find the perfect name, copy it and paste it into the game. Now go forth and conquer!",
+    "Pro Tip: Say the name out loud a few times. Does it sound cool? Does it strike fear into the hearts of your enemies? If so, you've found a winner!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "Our generator creates names inspired by the various races and lore of the Elder Scrolls Online universe. Expect to see names that sound like they belong to High Elves, Dark Elves, Nords, Khajiit, Argonians, and more!"
+    },
+    {
+      "question": "Can I use these names in the actual Elder Scrolls Online game?",
+      "answer": "Absolutely! That's what they're for! Feel free to use any name generated here for your in-game character. Just make sure it adheres to the game's naming policies."
+    },
+    {
+      "question": "Are the generated names unique?",
+      "answer": "While we strive to create a wide variety of names, there's always a chance of overlap. However, the combination of prefixes and suffixes offers a vast number of possibilities, increasing the likelihood of finding a unique name."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We're always open to suggestions! Feel free to reach out to us with your ideas. We love hearing from the ESO community!"
+    },
+    {
+      "question": "Is this generator affiliated with Bethesda Softworks or Zenimax Online Studios?",
+      "answer": "No, this generator is an independent creation. It's a fan-made tool designed to help fellow ESO players come up with awesome names for their characters. We have no official connection to Bethesda or Zenimax."
+    },
+    {
+      "question": "Why are some names better than others?",
+      "answer": "Beauty is in the eye of the beholder, adventurer! Some names might resonate with you more than others, depending on your character concept and personal preferences. Keep generating until you find the perfect fit!"
+    }
+  ],
+  "prefixes": [
+    "Aer",
+    "Bel",
+    "Cra",
+    "Dra",
+    "El",
+    "Fal",
+    "Gra",
+    "Hal",
+    "Iri",
+    "Jor",
+    "Kal",
+    "Lor",
+    "Mor",
+    "Nar",
+    "Ora",
+    "Pra",
+    "Qal",
+    "Rha",
+    "Sal",
+    "Tra",
+    "Uri",
+    "Val",
+    "Wra",
+    "Xa",
+    "Yar",
+    "Zel"
+  ],
+  "suffixes": [
+    "ador",
+    "anor",
+    "bard",
+    "dar",
+    "elas",
+    "far",
+    "grim",
+    "hiel",
+    "ion",
+    "jar",
+    "kas",
+    "lor",
+    "mar",
+    "nor",
+    "on",
+    "par",
+    "qar",
+    "ras",
+    "sar",
+    "tor",
+    "us",
+    "var",
+    "wrath",
+    "xan",
+    "yar",
+    "zel"
+  ]
+}

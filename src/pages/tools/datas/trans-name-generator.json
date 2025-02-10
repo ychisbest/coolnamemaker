@@ -1,0 +1,84 @@
+{
+  "name": "Trans Name Generator",
+  "description": "Struggling to find the perfect name to match your awesome self? Look no further! Our Trans Name Generator is here to spark inspiration and help you discover a name that truly resonates with who you are. Let's find the name that feels like *you*!",
+  "slug": "trans-name-generator",
+  "icon": "\u26a7\ufe0f",
+  "introduction": "Choosing a name is a big deal! It's a reflection of your identity and a way to express yourself to the world. This generator offers a playful way to explore different name combinations, blending classic vibes with modern twists. Think of it as a brainstorming buddy, helping you uncover the perfect name that feels authentically *you*.",
+  "howToUse": [
+    "Ready to get started? Simply hit the 'Generate' button and watch the magic happen!",
+    "Don't like the first result? No sweat! Keep clicking until you find a name that makes your heart sing.",
+    "Feeling creative? Use the prefixes and suffixes as inspiration to create your own unique blend. Mix and match to your heart's content!",
+    "Once you find a name you adore, write it down! Say it out loud! See how it feels. This is *your* name, after all. You get to choose what feels right!",
+    "Remember, this generator is just a starting point. Feel free to tweak, modify, or completely ignore the suggestions. The most important thing is that you find a name that makes you happy and confident."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator only for transgender people?",
+      "answer": "While designed with transgender folks in mind, anyone looking for name inspiration is welcome to use it! Names are for everyone."
+    },
+    {
+      "question": "Will this generator give me a 'perfect' name?",
+      "answer": "We can't guarantee perfection (what even *is* perfect, anyway?), but we *can* promise a plethora of possibilities to get your creative juices flowing. Ultimately, the 'perfect' name is the one that feels right to *you*."
+    },
+    {
+      "question": "Can I use multiple names?",
+      "answer": "Absolutely! Some people choose to have multiple names for different contexts. It's entirely up to you and what feels most comfortable."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "That's totally okay! This generator is just a tool to spark ideas. Consider using the prefixes and suffixes to build your own name, or browse baby name websites for even more inspiration."
+    },
+    {
+      "question": "Is it okay to change my name multiple times?",
+      "answer": "Of course! Your identity is a journey, and your name can evolve with you. There are no rules! Change it as many times as you need to until you find the one (or ones!) that truly resonate."
+    },
+    {
+      "question": "Does changing my name legally cost money?",
+      "answer": "In most jurisdictions, legally changing your name does involve some fees for paperwork and court processing. The exact cost varies depending on where you live, so it's a good idea to research the requirements in your area."
+    }
+  ],
+  "prefixes": [
+    "Alex",
+    "Sam",
+    "Riley",
+    "Jordan",
+    "Taylor",
+    "Kai",
+    "Rowan",
+    "Jamie",
+    "Cameron",
+    "Morgan",
+    "Skyler",
+    "Avery",
+    "Blake",
+    "Reese",
+    "Quinn",
+    "Phoenix",
+    "River",
+    "Sage",
+    "Indigo",
+    "Zen"
+  ],
+  "suffixes": [
+    "ander",
+    "is",
+    "on",
+    "en",
+    "ie",
+    "ey",
+    "er",
+    "yn",
+    "ett",
+    "al",
+    "el",
+    "ay",
+    "ex",
+    "ix",
+    "ox",
+    "ux",
+    "ynn",
+    "ett",
+    "elle",
+    "ett"
+  ]
+}

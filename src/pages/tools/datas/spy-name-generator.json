@@ -1,0 +1,75 @@
+{
+  "name": "Spy Name Generator",
+  "description": "Need a top-secret alias? Our Spy Name Generator crafts the perfect cover identity, blending intrigue and coolness. Get ready to go undercover!",
+  "slug": "spy-name-generator",
+  "icon": "\ud83d\udd75\ufe0f",
+  "introduction": "So, you're about to embark on a covert mission, are you? Or maybe you just want to feel like James Bond while ordering a latte. Either way, you need a name that screams 'mystery' and 'danger' (but also sounds really cool). Our Spy Name Generator is here to equip you with the perfect alias. Prepare to be amazed by the sheer coolness of your new identity!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand-spankin' new spy name will appear before your very eyes.",
+    "Don't like the first one? No problem! Keep clicking until you find the perfect alias that resonates with your inner secret agent.",
+    "Once you've found 'the one', memorize it! Write it down! Tattoo it on your arm! (Okay, maybe not the tattoo part... unless you're *really* committed.)",
+    "Now go forth and infiltrate! Just kidding... mostly. But seriously, have fun with your new spy identity!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to make me a real spy?",
+      "answer": "While we can't guarantee you'll be dodging lasers and decoding secret messages, we *can* promise you'll have a killer name for your next game of Clue."
+    },
+    {
+      "question": "Can I use these names for my novel/game/pet hamster?",
+      "answer": "Absolutely! These names are 100% royalty-free and ready for all your creative endeavors. Name that hamster 'Agent Fluffington' and watch him conquer the world!"
+    },
+    {
+      "question": "Are the names generated truly random?",
+      "answer": "As random as we can make them! We've mixed up a whole bunch of cool words and phrases to create unique and unpredictable results. No two spies are ever quite the same."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep generating! We have countless combinations. If you're still not happy, try tweaking the prefixes and suffixes for a personalized touch."
+    },
+    {
+      "question": "Will using this generator attract unwanted attention from shadowy organizations?",
+      "answer": "Highly unlikely... but if it does, tell them we sent you! (Just kidding... please don't do that.)"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send them our way, and who knows, you might just inspire the next generation of secret agent names."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Phantom",
+    "Night",
+    "Crimson",
+    "Steel",
+    "Whisper",
+    "Silent",
+    "Spectre",
+    "Apex",
+    "Renegade",
+    "Viper",
+    "Omega",
+    "Black",
+    "Ghost",
+    "Zero",
+    "Iron"
+  ],
+  "suffixes": [
+    "Hawk",
+    "Blade",
+    "Strike",
+    "Fox",
+    "Hunter",
+    "Claw",
+    "Shield",
+    "Storm",
+    "Knight",
+    "Guard",
+    "Arrow",
+    "Specter",
+    "Raven",
+    "Wolf",
+    "Shadow",
+    "X"
+  ]
+}

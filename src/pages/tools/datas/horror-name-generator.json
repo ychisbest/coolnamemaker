@@ -1,0 +1,73 @@
+{
+  "name": "Horror Name Generator",
+  "description": "Unleash your inner ghoul! Need a spine-chilling name for your next horror character, story, or even just to spook your friends? This generator conjures up terrifying monikers that'll make the hairs on the back of your neck stand up.",
+  "slug": "horror-name-generator",
+  "icon": "\ud83d\udc7b",
+  "introduction": "Dare to delve into the darkness? Our Horror Name Generator is your portal to a realm of terrifying titles. Whether you're crafting a villainous mastermind, a haunted house, or a chilling board game, we've got the perfect name to send shivers down your spine. Get ready to embrace the macabre!",
+  "howToUse": [
+    "Click the 'Generate' button (if you dare!).",
+    "Prepare to be horrified...or maybe just mildly spooked. Results may vary depending on your tolerance for the creepy.",
+    "If you don't like the first name that crawls out of the abyss, keep clicking! There are plenty more where that came from.",
+    "Copy and paste your new, terrifying name wherever it's needed. Don't blame us if strange things start happening afterward..."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually haunted?",
+      "answer": "We can neither confirm nor deny the presence of supernatural entities influencing the name generation process. Use at your own risk!"
+    },
+    {
+      "question": "Can I use these names for my horror novel?",
+      "answer": "Absolutely! That's what it's here for. Just give us a shout-out in the acknowledgements...or else. (Just kidding...mostly.)"
+    },
+    {
+      "question": "What if I don't like the names it generates?",
+      "answer": "Keep clicking! The generator draws from a vast pool of horrifying possibilities. You're bound to find something that fits your dark vision."
+    },
+    {
+      "question": "Are the names copyright free?",
+      "answer": "While we strive to create unique combinations, we recommend checking for existing trademarks or copyrights before using a name commercially. Better safe than sued by a vengeful spirit (or lawyer)."
+    },
+    {
+      "question": "Will using these names summon demons?",
+      "answer": "Probably not. But if you *do* happen to summon a demon, please let us know! We'd love to add that as a feature to the generator."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always looking for new ways to terrify! Send your suggestions our way. The darker, the better."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Crimson",
+    "Whispering",
+    "Ghastly",
+    "Night",
+    "Blood",
+    "Pale",
+    "Rotting",
+    "Silent",
+    "Dread",
+    "Cursed",
+    "Eternal",
+    "Frozen",
+    "Twisted",
+    "Wailing"
+  ],
+  "suffixes": [
+    "wood",
+    "gorge",
+    "shade",
+    "moor",
+    "creek",
+    "hollow",
+    "gate",
+    "mire",
+    "brook",
+    "end",
+    "fall",
+    "grave",
+    "stone",
+    "wind",
+    "well"
+  ]
+}

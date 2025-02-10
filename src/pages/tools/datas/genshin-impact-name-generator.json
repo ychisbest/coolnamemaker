@@ -1,0 +1,83 @@
+{
+  "name": "Genshin Impact Name Generator",
+  "description": "Struggling to find the perfect name for your Traveler in Teyvat? Or maybe you're crafting a fanfic and need some authentically Genshin-esque character names? Look no further! This generator will whisk you away to a world of elemental powers and captivating lore with names that sound like they were ripped straight from the game itself. Prepare for adventure!",
+  "slug": "genshin-impact-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Welcome, Traveler! This generator is your trusty guide to forging a name worthy of Teyvat. Whether you seek a name echoing the stoic strength of Mondstadt or the enigmatic allure of Liyue, you'll find inspiration here. Get ready to embark on a naming quest!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new, Genshin-inspired name will appear.",
+    "Don't like the first result? Keep clicking! There are countless possibilities waiting to be discovered.",
+    "Feeling creative? Mix and match prefixes and suffixes to create a truly unique name that resonates with your character's personality.",
+    "Pro-tip: Say the name aloud! Does it sound good? Does it *feel* like Genshin Impact? Trust your gut!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually used in Genshin Impact?",
+      "answer": "While we can't guarantee an exact match (copyright, you know!), these names are crafted to *sound* like they belong in the world of Teyvat, drawing inspiration from existing characters and lore."
+    },
+    {
+      "question": "Can I use these names for my fanfiction or roleplaying games?",
+      "answer": "Absolutely! That's what this generator is here for. Unleash your creativity and let these names inspire your storytelling."
+    },
+    {
+      "question": "How does the generator create these names?",
+      "answer": "We use a sophisticated (okay, maybe not *that* sophisticated) algorithm that combines carefully selected prefixes and suffixes, designed to evoke the unique naming conventions of Genshin Impact."
+    },
+    {
+      "question": "Will I find a name that perfectly matches my character's personality?",
+      "answer": "That's the goal! Experiment with different combinations until you find a name that truly resonates with your character's backstory, abilities, and overall vibe."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You betcha! Use it as much as your heart desires! We just want to help you on your journey to becoming a legend in Teyvat (or at least having a really cool name)."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions and we'll consider adding them to the generator. Help us make it even better!"
+    }
+  ],
+  "prefixes": [
+    "Aether",
+    "Lumine",
+    "Xiao",
+    "Ganyu",
+    "Zhongli",
+    "Raiden",
+    "Venti",
+    "Klee",
+    "Albedo",
+    "Eula",
+    "Ayaka",
+    "Itto",
+    "Yae",
+    "Nahida",
+    "Neuvillette",
+    "Furina",
+    "Clori",
+    "Navia",
+    "Lyney",
+    "Lynette"
+  ],
+  "suffixes": [
+    "Star",
+    "Wind",
+    "Dawn",
+    "Hope",
+    "Dream",
+    "Song",
+    "Cloud",
+    "Moon",
+    "River",
+    "Vale",
+    "Bloom",
+    "Azure",
+    "Crimson",
+    "Jade",
+    "Amber",
+    "Breeze",
+    "Whisper",
+    "Echo",
+    "Gale",
+    "Serene"
+  ]
+}

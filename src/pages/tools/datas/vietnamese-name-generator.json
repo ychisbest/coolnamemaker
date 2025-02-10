@@ -1,0 +1,71 @@
+{
+  "name": "Vietnamese Name Generator",
+  "description": "Struggling to find the perfect Vietnamese name? Let our generator weave a tapestry of cultural richness and melodic sounds to discover a name that resonates with tradition and individuality. Embrace the beauty of Vietnamese nomenclature!",
+  "slug": "vietnamese-name-generator",
+  "icon": "\ud83c\uddfb\ud83c\uddf3",
+  "introduction": "Xin ch\u00e0o! (Hello!) Ready to dive into the vibrant world of Vietnamese names? Whether you're writing a novel, naming a character in your RPG, or simply curious about Vietnamese culture, our generator is here to help. We blend traditional elements with a touch of modern flair to conjure names that are both authentic and captivating. Get ready to be inspired!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! We'll conjure up a unique Vietnamese name just for you.",
+    "Feeling picky? Keep clicking! We've got a treasure trove of names waiting to be discovered.",
+    "Want to get creative? Mix and match different prefixes and suffixes to create your own custom name.",
+    "Don't forget to share your favorite names with friends and family. Spread the cultural love!"
+  ],
+  "faqs": [
+    {
+      "question": "Are the names generated authentic Vietnamese names?",
+      "answer": "Absolutely! We've consulted with native speakers and cultural experts to ensure our names are rooted in Vietnamese tradition and reflect common naming conventions."
+    },
+    {
+      "question": "Can I use these names for characters in my story or game?",
+      "answer": "Of course! Feel free to use our generated names for any creative project. We hope they add depth and authenticity to your work."
+    },
+    {
+      "question": "How does the generator create the names?",
+      "answer": "Our generator combines a database of common Vietnamese family names (prefixes) with popular middle and given names (suffixes), adhering to typical Vietnamese naming structures. We also incorporate variations in tone marks to add further authenticity."
+    },
+    {
+      "question": "Why are some names longer than others?",
+      "answer": "Vietnamese names often consist of three parts: family name, middle name, and given name. The length can vary depending on the combination and whether a middle name is included."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes to be added to the generator?",
+      "answer": "We'd love to hear from you! Please send your suggestions through our contact form. We're always looking to improve and expand our database."
+    },
+    {
+      "question": "Is it okay to use these names for non-Vietnamese characters?",
+      "answer": "While you *can*, consider the implications! Using a name from a different culture for a character can be a powerful choice, but it's important to do so respectfully and with intention. Research the name's meaning and cultural significance to avoid unintentional misrepresentation."
+    }
+  ],
+  "prefixes": [
+    "Nguy\u1ec5n",
+    "Tr\u1ea7n",
+    "L\u00ea",
+    "Ph\u1ea1m",
+    "Hu\u1ef3nh",
+    "V\u00f5",
+    "\u0110\u1eb7ng",
+    "B\u00f9i",
+    "\u0110\u1ed7",
+    "H\u1ed3"
+  ],
+  "suffixes": [
+    "An",
+    "B\u00ecnh",
+    "D\u01b0\u01a1ng",
+    "Giang",
+    "H\u00e0",
+    "H\u1ea3i",
+    "Lan",
+    "Linh",
+    "Mai",
+    "Nam",
+    "Ng\u1ecdc",
+    "Ph\u01b0\u01a1ng",
+    "Qu\u00e2n",
+    "Th\u1ea3o",
+    "Trang",
+    "T\u00fa",
+    "Vi\u1ec7t",
+    "Y\u1ebfn"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Human Name Generator Wow",
+  "description": "Struggling to name your next character, story, or even yourself (we don't judge!)? Our Human Name Generator Wow is here to conjure up the perfect moniker, bursting with personality and pizzazz. Ditch the dull and dive into a world of names that pop!",
+  "slug": "human-name-generator-wow",
+  "icon": "\ud83e\uddd9",
+  "introduction": "Forget endless brainstorming sessions and name regret! This generator blends classic and contemporary naming conventions with a touch of the unexpected. Whether you're looking for something strong and stoic, whimsical and wonderful, or downright wacky, we've got you covered. Get ready to meet your match... name-wise, of course!",
+  "howToUse": [
+    "First, brace yourself for awesomeness! (It's coming, we promise.)",
+    "Next, simply click the 'Generate' button. That's it! Seriously.",
+    "Observe the magical name that appears before your very eyes. Is it 'the one'? If not...",
+    "Smash that 'Generate' button again! Keep going until you find a name that makes your heart sing (or at least doesn't make you cringe).",
+    "Copy and paste your newfound treasure wherever it needs to go. Bask in the glory of your perfectly named creation!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Naming magic should be available to everyone, regardless of budget. Consider it our gift to the creatively challenged (and the creatively abundant!)."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Go for it! Once a name is generated, it's yours to use as you see fit. Create a character, name a company, or christen your pet hamster... the possibilities are endless!"
+    },
+    {
+      "question": "Are the names generated unique?",
+      "answer": "While we strive for variety, some names might pop up more than once. If you're looking for guaranteed uniqueness, try combining a generated name with a middle name or surname of your own creation."
+    },
+    {
+      "question": "Does the generator support different ethnicities or cultural backgrounds?",
+      "answer": "This generator primarily focuses on names common in Western cultures. However, we're always working to expand our database and offer more diverse naming options in the future!"
+    },
+    {
+      "question": "Help! I'm overwhelmed by the sheer number of amazing names. How do I choose?",
+      "answer": "Don't panic! Consider the personality or characteristics of what you're naming. Does the name sound strong and dependable? Mysterious and alluring? Silly and fun? Trust your gut, and go with the name that resonates most with you!"
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love to hear your suggestions! While we can't guarantee every name will be added, we're always looking for ways to improve and expand our database. Send your ideas our way!"
+    }
+  ],
+  "prefixes": [
+    "Alex",
+    "Chris",
+    "Sam",
+    "Taylor",
+    "Jordan",
+    "Blake",
+    "Jamie",
+    "Morgan",
+    "Casey",
+    "Riley",
+    "Drew",
+    "Avery",
+    "Skyler",
+    "Parker",
+    "Quinn"
+  ],
+  "suffixes": [
+    "Smith",
+    "Jones",
+    "Williams",
+    "Brown",
+    "Davis",
+    "Miller",
+    "Wilson",
+    "Moore",
+    "Taylor",
+    "Anderson",
+    "Thomas",
+    "Jackson",
+    "White",
+    "Harris",
+    "Martin"
+  ]
+}

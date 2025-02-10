@@ -1,0 +1,82 @@
+{
+  "name": "Lindwyrm Name Generator",
+  "description": "Unleash your inner dragon! Get a truly epic Lindwyrm name fit for a legendary beast, or just a really cool pet.",
+  "slug": "lindwyrm-name-generator",
+  "icon": "\ud83d\udc09",
+  "introduction": "Ever wondered what your Lindwyrm name would be? Or maybe you're writing a fantasy novel and need a unique moniker for your scaled protagonist? Look no further! Our Lindwyrm Name Generator conjures up names that are both fearsome and fabulous, blending ancient lore with a touch of modern flair. Prepare to be amazed!",
+  "howToUse": [
+    "Simply click the 'Generate' button to receive a brand-spanking-new Lindwyrm name!",
+    "Don't like what you see? No problem! Mash that button again until a name roars into existence that truly resonates with your draconic soul.",
+    "Feeling creative? Use the generated names as inspiration to craft your own unique Lindwyrm identity. The possibilities are as vast as a dragon's hoard!",
+    "Share your awesome Lindwyrm name with your friends and brag about how cool you are!"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly is a Lindwyrm?",
+      "answer": "A Lindwyrm, also known as a lindworm, is a mythical serpent-like creature, often depicted as wingless dragons with two legs. They're known for their cunning, strength, and sometimes, their hoard of treasure!"
+    },
+    {
+      "question": "Are these names actually good for anything?",
+      "answer": "Absolutely! Use them for character names in your stories, game avatars, D&D campaigns, or even just to impress your friends with your knowledge of obscure mythical beasts."
+    },
+    {
+      "question": "Can I use these names commercially?",
+      "answer": "While we encourage creativity, please be mindful of potential trademark issues if you plan to use these names for commercial purposes. We're here to inspire, not to give legal advice!"
+    },
+    {
+      "question": "How are these Lindwyrm names generated?",
+      "answer": "Our algorithm combines a vast database of draconic lore, ancient languages, and a sprinkle of pure magic to create names that are both believable and utterly unforgettable."
+    },
+    {
+      "question": "Will the Lindwyrm Name Generator steal my soul?",
+      "answer": "Only if your soul is made of gold and sparkles. Just kidding! (Mostly.) This generator is perfectly safe and soul-theft-free. Enjoy!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form, and we'll consider adding them to our ever-expanding database of draconic awesomeness."
+    }
+  ],
+  "prefixes": [
+    "Grim",
+    "Wyrm",
+    "Scale",
+    "Fang",
+    "Claw",
+    "Burn",
+    "Ash",
+    "Shadow",
+    "Night",
+    "Rune",
+    "Stone",
+    "Iron",
+    "Gold",
+    "Silver",
+    "Storm",
+    "Frost",
+    "Venom",
+    "Doom",
+    "Blood",
+    "Void"
+  ],
+  "suffixes": [
+    "scale",
+    "fang",
+    "claw",
+    "tail",
+    "eye",
+    "heart",
+    "breath",
+    "wing",
+    "bane",
+    "bringer",
+    "slayer",
+    "guard",
+    "lord",
+    "king",
+    "queen",
+    "watcher",
+    "weaver",
+    "walker",
+    "binder"
+  ]
+}

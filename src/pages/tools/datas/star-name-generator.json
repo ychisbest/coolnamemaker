@@ -1,0 +1,73 @@
+{
+  "name": "Star Name Generator",
+  "description": "Unleash your inner cosmic rockstar! \u2728 Need a stellar stage name? Craving a catchy title for your sci-fi masterpiece? Our Star Name Generator is here to launch your creativity into orbit!",
+  "slug": "star-name-generator",
+  "icon": "\ud83c\udf1f",
+  "introduction": "Forget boring, earthbound names! This generator conjures up dazzling names inspired by constellations, nebulae, and the sheer, unadulterated awesomeness of space. Get ready to shine brighter than a supernova!",
+  "howToUse": [
+    "Simply click the 'Generate' button. Prepare to be amazed!",
+    "Don't like the first result? Keep clicking! We've got a galaxy of names waiting to be discovered.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create your own unique stellar moniker. Go wild!",
+    "Once you've found the perfect name, shout it from the rooftops (or at least post it on social media). Let the world know you've arrived!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe everyone deserves a chance to have a star-studded name, without spending a single cosmic credit."
+    },
+    {
+      "question": "Can I use these names for my business?",
+      "answer": "You bet! Feel free to use these names for your band, your brand, your pet alien, whatever your heart desires. Just remember to check for trademark availability, okay?"
+    },
+    {
+      "question": "Are the names generated random?",
+      "answer": "Mostly! We use a sophisticated (but secretly chaotic) algorithm to combine prefixes and suffixes in unexpected and delightful ways."
+    },
+    {
+      "question": "Will this generator make me famous?",
+      "answer": "We can't guarantee fame, but a killer name is definitely a step in the right direction! Plus, you'll have a great story to tell."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep generating! There are literally billions of potential combinations. And hey, maybe you'll get inspired to come up with your own stellar creation!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send them our way. Who knows, maybe your suggestion will become the next big thing in cosmic nomenclature!"
+    }
+  ],
+  "prefixes": [
+    "Astro",
+    "Nova",
+    "Cosmo",
+    "Star",
+    "Gala",
+    "Nebula",
+    "Quasar",
+    "Comet",
+    "Orbit",
+    "Zenith",
+    "Lumina",
+    "Celestia",
+    "Ethereal",
+    "Voyager",
+    "Andromeda"
+  ],
+  "suffixes": [
+    "X",
+    "Prime",
+    "Spark",
+    "Shine",
+    "Blast",
+    "Wave",
+    "Wing",
+    "Core",
+    "Light",
+    "Surge",
+    "Nova",
+    "Stellar",
+    "Aura",
+    "Zen",
+    "Force"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Spider-Man Name Generator",
+  "description": "Feeling a bit...spidery? Unleash your inner web-slinger with our Spider-Man Name Generator! Get ready to crawl walls and crack jokes with a name that's truly amazing.",
+  "slug": "spider-man-name-generator",
+  "icon": "\ud83d\udd77\ufe0f",
+  "introduction": "Ever wondered what your Spider-Verse alias would be? Stop dreaming and start generating! Whether you're a seasoned superhero or just starting your web-slinging journey, our generator will craft the perfect Spider-Man name that's uniquely YOU. Get ready to swing into action!",
+  "howToUse": [
+    "1. Stare intensely at a spider (optional, but highly encouraged for inspiration).",
+    "2. Click the 'Generate' button. (It's the one that doesn't shoot webs...usually).",
+    "3. Behold! Your brand-new, totally awesome Spider-Man name appears!",
+    "4. If you don't like it? Hit the button again, you'll get more choices!",
+    "5. Go forth and fight crime (or just look cool)! Don't forget to practice your one-liners."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually endorsed by Marvel?",
+      "answer": "While we'd love to say yes (imagine the bragging rights!), this generator is purely for fun. No official Spidey stamp of approval here, just pure, unadulterated fan-made awesome."
+    },
+    {
+      "question": "Can I use these names for my fan fiction?",
+      "answer": "Absolutely! Go wild! We encourage creativity and web-slinging adventures. Just remember to credit us (kidding...mostly!)."
+    },
+    {
+      "question": "What if I don't like the name the generator gives me?",
+      "answer": "No problem! Just hit the 'Generate' button again. We've got enough name combinations to make even Doctor Octopus dizzy."
+    },
+    {
+      "question": "Will this generator give me spider powers?",
+      "answer": "Sadly, no. We're experts in names, not genetic engineering. You'll have to find your own radioactive spider for that. But hey, at least you'll have a cool name while you're waiting!"
+    },
+    {
+      "question": "Are the names trademarked?",
+      "answer": "Nope! The names generated are original and for creative use. You're free to use them for your own purposes without worrying about copyright issues."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We're always looking for ways to improve! Feel free to send us your suggestions. If we like them, we might just add them to the generator!"
+    }
+  ],
+  "prefixes": [
+    "Web",
+    "Spider",
+    "Crimson",
+    "Shadow",
+    "Steel",
+    "Iron",
+    "Night",
+    "Ghost",
+    "Cyber",
+    "Cosmic",
+    "Velocity",
+    "Specter",
+    "Phantom",
+    "Mystic",
+    "Emerald",
+    "Granite",
+    "Venom",
+    "Scarlet"
+  ],
+  "suffixes": [
+    "Slinger",
+    "Weaver",
+    "Crawler",
+    "Knight",
+    "Hunter",
+    "Spectre",
+    "Phantom",
+    "Striker",
+    "Claw",
+    "Venom",
+    "Byte",
+    "Glider",
+    "Dart",
+    "Hawk",
+    "Quake",
+    "Comet",
+    "Bolt",
+    "Shield"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "name": "WiFi Name Generator",
+  "description": "Tired of the same old boring WiFi name? Let's spice things up! Generate a funny, creative, or downright weird WiFi name that will have your neighbors scratching their heads and wondering what's going on at your place. Get ready to unleash your inner WiFi artist!",
+  "slug": "wifi-name-generator",
+  "icon": "\ud83d\udce1",
+  "introduction": "Your WiFi network is more than just a connection to the internet \u2013 it's a statement! Ditch the generic names and embrace the power of a truly memorable WiFi moniker. Whether you're aiming for a chuckle, a head-scratch, or a full-blown belly laugh, our WiFi Name Generator is here to help you broadcast your personality to the digital world.",
+  "howToUse": [
+    "First, take a deep breath and prepare for awesomeness.",
+    "Click the 'Generate' button and behold the magic!",
+    "If you're not vibing with the first result, keep clicking! We've got a treasure trove of WiFi names just waiting to be discovered.",
+    "Once you find the perfect name, copy it and paste it into your router settings. Boom! You're officially a WiFi naming wizard.",
+    "Now, sit back and enjoy the reactions of your neighbors as they try to figure out your WiFi's secret identity."
+  ],
+  "faqs": [
+    {
+      "question": "Will a funny WiFi name actually make my internet faster?",
+      "answer": "Sadly, no. But it WILL make your internet more entertaining, and that's almost as good, right?"
+    },
+    {
+      "question": "Is it safe to use a weird WiFi name?",
+      "answer": "Absolutely! Just avoid including any personal information like your address or social security number. Keep it fun, not revealing!"
+    },
+    {
+      "question": "My neighbor copied my WiFi name! What should I do?",
+      "answer": "Consider it a compliment! Or, generate an even crazier name to reclaim your title as the neighborhood WiFi guru."
+    },
+    {
+      "question": "Can I use these WiFi names for my business?",
+      "answer": "Definitely! Just make sure the name aligns with your brand's image. A funeral home probably shouldn't use 'LOLMyWiFiIsFast'. Just sayin'."
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly adding fresh and hilarious WiFi names to keep things interesting. Check back often for the latest and greatest!"
+    },
+    {
+      "question": "What kind of names should I avoid?",
+      "answer": "Avoid using anything offensive, hateful, or that could potentially attract unwanted attention from authorities. Keep it light-hearted and fun!"
+    }
+  ],
+  "prefixes": [
+    "FBI Surveillance Van",
+    "Pretty Fly for a WiFi",
+    "Tell My WiFi Love Her",
+    "It Burns When IP",
+    "Bill Wi the Science Fi",
+    "Martin Router King",
+    "Lord of the Rings",
+    "The Promised LAN",
+    "Wu-Tang LAN",
+    "My Precious",
+    "Darth Router",
+    "Router? I hardly know her!",
+    "Abraham Linksys",
+    "Silence of the LANs"
+  ],
+  "suffixes": [
+    "of Doom",
+    "of Awesomeness",
+    "of Shenanigans",
+    "4 Peace",
+    "5G",
+    "6G",
+    "The Network",
+    "The Connection",
+    "Secure Access",
+    "Unsecured",
+    "Guest Network",
+    "Main Network",
+    "Home Edition",
+    "Pro Edition"
+  ]
+}

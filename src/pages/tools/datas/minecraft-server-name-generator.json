@@ -1,0 +1,92 @@
+{
+  "name": "Minecraft Server Name Generator",
+  "description": "Struggling to find the perfect name for your Minecraft server? Fear not, minecrafter! Our generator will conjure up names so cool, they'll make even creepers jealous. Get ready to attract players with a server name that screams awesome!",
+  "slug": "minecraft-server-name-generator",
+  "icon": "\u26cf\ufe0f",
+  "introduction": "Welcome, adventurer, to the ultimate Minecraft Server Name Generator! We understand the importance of a killer name. It's the first thing players see, the banner under which your community thrives. Whether you're building a survival haven, a creative kingdom, or a competitive arena, a great name will set you apart. So, ditch the generic and embrace the epic!",
+  "howToUse": [
+    "Ready to unleash the name-generating magic? Simply click the 'Generate' button. Like, seriously, that's it. We made it easy so you can get back to building!",
+    "Don't like the first name? Keep clicking! We've got more combinations than there are blocks in the Overworld.",
+    "Found a name you love? Awesome! Copy it and paste it into your server settings. Prepare for the hordes of new players drawn to your irresistible server name!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Minecraft Server Name Generator is free to use as many times as you like. Consider it our gift to the Minecraft community."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You're welcome to use the generated names for your server, even if you're monetizing it. However, we can't guarantee that the names are trademark-free, so it's always a good idea to do a quick search before you commit."
+    },
+    {
+      "question": "Will using a generated name guarantee a successful server?",
+      "answer": "While a cool name is a great start, it's just one piece of the puzzle. You'll also need a stable server, engaging gameplay, and a friendly community. But hey, a killer name definitely helps!"
+    },
+    {
+      "question": "Are the generated names actually any good?",
+      "answer": "We think so! We've crafted this generator with a mix of Minecraft-themed words, cool adjectives, and a dash of randomness to create names that are both unique and appealing. But ultimately, the best name is the one you love!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always looking for ways to improve! Send us your suggestions through the contact form on coolnamemaker.com. We appreciate your input!"
+    },
+    {
+      "question": "My generated name is too long, what do I do?",
+      "answer": "Minecraft servers often have character limits for their names. Try generating a few more times until you find a name that fits, or consider shortening a longer name yourself by removing a word or two."
+    }
+  ],
+  "prefixes": [
+    "Diamond",
+    "Emerald",
+    "Nether",
+    "Ender",
+    "Creeper",
+    "Zombie",
+    "Skeleton",
+    "Pixel",
+    "Block",
+    "Craft",
+    "Mine",
+    "Stone",
+    "Iron",
+    "Gold",
+    "Ancient",
+    "Lost",
+    "Hidden",
+    "Mystic",
+    "Silent",
+    "Royal",
+    "Epic",
+    "Legendary",
+    "Ultimate",
+    "Mega",
+    "Super"
+  ],
+  "suffixes": [
+    "Craft",
+    "Land",
+    "World",
+    "Realm",
+    "Zone",
+    "Hub",
+    "Network",
+    "Community",
+    "SMP",
+    "Survival",
+    "Creative",
+    "Arena",
+    "Kingdom",
+    "City",
+    "Village",
+    "Town",
+    "Isle",
+    "Valley",
+    "Caves",
+    "Clash",
+    "Wars",
+    "Quest",
+    "Adventures",
+    "Stories",
+    "Legends"
+  ]
+}

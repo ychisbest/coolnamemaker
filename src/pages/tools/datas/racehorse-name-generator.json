@@ -1,0 +1,83 @@
+{
+  "name": "Racehorse Name Generator",
+  "description": "Gallop into the winner's circle with the perfect name for your champion! Our Racehorse Name Generator crafts names that are as swift and majestic as the steeds themselves. Stop horsing around with boring names and discover a moniker that's a sure bet!",
+  "slug": "racehorse-name-generator",
+  "icon": "\ud83d\udc34",
+  "introduction": "Ready to name a racehorse that'll be the talk of the track? Whether you're breeding a future Kentucky Derby winner or just dreaming of equestrian glory, a great name is essential. Our generator combines classic racing terms, mythical creatures, and a touch of pure inspiration to deliver names that are both memorable and powerful. Let's find a name that's destined for the winner's circle!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! Our algorithm will conjure up a dazzling array of racehorse names.",
+    "Don't like the first result? No problem! Click again for a fresh batch of potential winners.",
+    "Found a name you love? Copy it and start dreaming of victory! (And maybe place a small bet...just kidding...mostly!)",
+    "Want to get even more creative? Play around with different combinations of prefixes and suffixes. The possibilities are endless!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the Racehorse Name Generator work?",
+      "answer": "Our generator uses a sophisticated blend of racing terminology, mythology, and a dash of pure imagination to create unique and memorable names. It's like a stable full of name ideas, all at your fingertips!"
+    },
+    {
+      "question": "Can I use these names for real racehorses?",
+      "answer": "Absolutely! While we can't guarantee your horse will win, we can guarantee they'll have a fantastic name. Just be sure to check with your racing authority for any naming regulations."
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! All the names generated are free for you to use. Consider them a gift from the racing gods (or our slightly-caffeinated programmers)."
+    },
+    {
+      "question": "Can I suggest words to be added to the generator?",
+      "answer": "We're always looking for ways to improve! Send us your suggestions, and if they're suitably equine-related, we might just add them to the mix."
+    },
+    {
+      "question": "Why is a good racehorse name important?",
+      "answer": "A great name can capture the spirit of the horse, attract attention, and even influence betting odds (maybe!). Plus, it just sounds cool when the announcer shouts it from the loudspeakers!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! We've got a whole herd of names waiting to be discovered. And remember, you can always mix and match prefixes and suffixes to create your own unique masterpiece."
+    }
+  ],
+  "prefixes": [
+    "Swift",
+    "Thunder",
+    "Crimson",
+    "Mystic",
+    "Golden",
+    "Silver",
+    "Iron",
+    "Royal",
+    "Star",
+    "Moon",
+    "Shadow",
+    "Whisper",
+    "Storm",
+    "Victory",
+    "Destiny",
+    "Legend",
+    "Empire",
+    "Noble",
+    "Majestic",
+    "Valiant"
+  ],
+  "suffixes": [
+    "Bolt",
+    "Flash",
+    "Wind",
+    "Fire",
+    "Storm",
+    "Glory",
+    "Dream",
+    "Knight",
+    "Prince",
+    "Princess",
+    "Arrow",
+    "Comet",
+    "Shadow",
+    "Whisper",
+    "Strike",
+    "Reign",
+    "Hope",
+    "Charm",
+    "Song",
+    "Dance"
+  ]
+}

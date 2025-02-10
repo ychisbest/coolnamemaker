@@ -1,0 +1,101 @@
+{
+  "name": "Lalafell Name Generator",
+  "description": "Struggling to find the *perfectly* petite moniker for your Lalafell adventurer? Look no further! Our Lalafell Name Generator conjures up charming and memorable names faster than you can say 'Tataru!' Get ready to embrace the adorable, and let's find a name that's just the right size.",
+  "slug": "lalafell-name-generator",
+  "icon": "\ud83e\udd54",
+  "introduction": "Welcome, fellow adventurer! Lalafells, the small but mighty denizens of Eorzea, deserve names as unique and captivating as they are. This generator blends lore-friendly elements with a dash of whimsy to produce names that will make your Lalafell stand out from the crowd. Whether you're a Plainsfolk or a Dunesfolk, we've got something special for you. Get ready to roll the dice and discover your Lalafell's destiny!",
+  "howToUse": [
+    "Simply click the 'Generate' button, and *poof*, a brand new Lalafell name appears!",
+    "Don't like the first result? Keep clicking! We've got more combinations than there are potatoes in Ul'dah.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft your own unique name masterpiece!",
+    "Remember to have fun! Naming your Lalafell should be as delightful as playing one."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names lore-friendly?",
+      "answer": "We've done our best to incorporate naming conventions based on Final Fantasy XIV lore, particularly for Lalafells. However, creativity is key, so feel free to tweak the results to your liking!"
+    },
+    {
+      "question": "Can I use these names for other races?",
+      "answer": "While these names are specifically designed for Lalafells, you're welcome to use them as inspiration for other races! Just keep in mind that naming conventions may differ."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as you like! The generator is designed to provide endless possibilities. Keep clicking until you find the perfect fit."
+    },
+    {
+      "question": "Are the generated names guaranteed to be unique?",
+      "answer": "While we strive to create unique names, there's always a chance someone else might have a similar idea. Consider adding a middle name or title to personalize your name further!"
+    },
+    {
+      "question": "Will this generator help me become a better Lalafell roleplayer?",
+      "answer": "A great name is a fantastic start! But remember, roleplaying is all about bringing your character to life. Let your name inspire your backstory, personality, and interactions with others. Now go forth and be adorably awesome!"
+    },
+    {
+      "question": "Can I use these names in my fanfiction or other creative works?",
+      "answer": "Absolutely! Feel free to use the generated names in your fanfiction, artwork, or any other creative projects. We're happy to inspire your imagination!"
+    }
+  ],
+  "prefixes": [
+    "Pip",
+    "Popo",
+    "Koko",
+    "Riri",
+    "Fifi",
+    "Gigi",
+    "Zuzu",
+    "Lala",
+    "Nono",
+    "Toto",
+    "Bibi",
+    "Yuyu",
+    "Dodo",
+    "Huhu",
+    "Momo",
+    "Pipi",
+    "Rara",
+    "Sisi",
+    "Titi",
+    "Vivi",
+    "Wawa",
+    "Xixi",
+    "Zizi",
+    "Aya",
+    "Eya",
+    "Iya",
+    "Oya",
+    "Uya"
+  ],
+  "suffixes": [
+    "pipi",
+    "popo",
+    "koko",
+    "riri",
+    "fifi",
+    "gigi",
+    "zuzu",
+    "lala",
+    "nono",
+    "toto",
+    "bibi",
+    "yuyu",
+    "dodo",
+    "huhu",
+    "momo",
+    "ru",
+    "ra",
+    "ri",
+    "ro",
+    "re",
+    "nu",
+    "na",
+    "ni",
+    "no",
+    "ne",
+    "mu",
+    "ma",
+    "mi",
+    "mo",
+    "me"
+  ]
+}

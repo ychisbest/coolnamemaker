@@ -1,0 +1,73 @@
+{
+  "name": "Program Name Generator",
+  "description": "Struggling to find the perfect name for your groundbreaking program? Fear no more! Our Program Name Generator is here to spark your creativity and conjure up names that are both cool and catchy.",
+  "slug": "program-name-generator",
+  "icon": "\ud83d\udcbb",
+  "introduction": "Let's face it, a great program deserves a name that's just as awesome. Whether you're building the next big social media platform, a revolutionary AI assistant, or a quirky indie game, the right name can make all the difference. Our generator combines a dash of wit, a sprinkle of tech jargon, and a whole lot of imagination to deliver names that will stick in people's minds.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic!",
+    "Don't like the first result? Keep clicking! We've got tons of combinations ready to roll.",
+    "Feeling picky? (We get it!) Save your favorites and mix and match until you find the one that sings to your soul.",
+    "Once you've found the perfect name, shout it from the rooftops! Or, you know, just use it for your program. \ud83d\ude09"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe that everyone deserves a cool name for their program, regardless of budget. So go wild and generate to your heart's content!"
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "You bet! Once you've found a name you love, it's all yours to use however you see fit. Go forth and conquer the tech world!"
+    },
+    {
+      "question": "Are the names generated unique?",
+      "answer": "We do our best to generate unique and interesting names. However, with the vastness of the internet, there's always a slight chance of overlap. We recommend doing a quick search to ensure your chosen name isn't already in use."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always looking for ways to improve! Feel free to send us your suggestions through our contact form. We appreciate your input!"
+    },
+    {
+      "question": "Help! I'm overwhelmed by the number of choices!",
+      "answer": "Take a deep breath! It's a good problem to have. Try focusing on the feeling you want your program to evoke, and then choose a name that aligns with that feeling. And remember, there's no such thing as a 'wrong' name \u2013 just different flavors of awesome."
+    },
+    {
+      "question": "Does this generator create names for specific programming languages?",
+      "answer": "Nope! Our generator is language-agnostic. It's designed to create cool names suitable for any program, regardless of the code it's written in."
+    }
+  ],
+  "prefixes": [
+    "Code",
+    "Byte",
+    "Alpha",
+    "Nova",
+    "Zenith",
+    "Quantum",
+    "Pixel",
+    "Cyber",
+    "Meta",
+    "Logic",
+    "Fusion",
+    "Echo",
+    "Vortex",
+    "Apex",
+    "Nexus"
+  ],
+  "suffixes": [
+    "ify",
+    "Tech",
+    "Soft",
+    "Ware",
+    "Core",
+    "AI",
+    "Labs",
+    "Solutions",
+    "Engine",
+    "Works",
+    "Verse",
+    "Stream",
+    "Hub",
+    "Craft",
+    "Forge"
+  ]
+}

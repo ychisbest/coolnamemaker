@@ -1,0 +1,94 @@
+{
+  "name": "Avatar Name Generator",
+  "description": "Stuck in the spirit world trying to find the perfect name for your online persona? Fear not, nimble nomad! Our Avatar Name Generator will bend the elements of language to forge a name worthy of a legend. Whether you're mastering airbending, waterbending, earthbending, or firebending (or just scrolling through social media), we've got you covered. Get ready to unlock your inner Avatar!",
+  "slug": "avatar-name-generator",
+  "icon": "\ud83e\ude83",
+  "introduction": "Welcome, Avatar enthusiast! This is your one-stop shop for crafting a name as unique and powerful as the Avatar themselves. Inspired by the rich world of bending and spiritual harmony, this generator will combine evocative prefixes and suffixes to create a name that resonates with your elemental spirit. Prepare to be amazed by the possibilities!",
+  "howToUse": [
+    "First, take a deep breath and channel your inner peace (or, you know, just relax).",
+    "Click the 'Generate' button. Watch as the elements align and a brand new Avatar-esque name appears!",
+    "Don't like what you see? No problem! Click 'Generate' again. We've got more combinations than Aang has faces in the Spirit World.",
+    "Found a name you love? Awesome! Copy and paste it wherever your Avatar self needs to shine \u2013 online games, forums, social media, you name it!",
+    "Remember, this generator is for fun! Embrace the creativity and let your Avatar spirit soar!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator officially affiliated with Avatar: The Last Airbender or The Legend of Korra?",
+      "answer": "Nope! We're just huge fans who wanted to create a fun tool for fellow Avatar enthusiasts. This is purely a fan-made project, so don't expect any official blessings from Republic City."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we can't stop you, these names are primarily intended for personal enjoyment. If you plan on using a generated name for something commercial, we recommend checking for trademark issues."
+    },
+    {
+      "question": "Will this generator create names that are already in the Avatar universe?",
+      "answer": "It's possible, but unlikely. We've tried to create a diverse range of options, but there's always a chance of serendipitous overlap. If you do get a name from the show, consider it a sign from the Spirit World!"
+    },
+    {
+      "question": "How many names can this generator create?",
+      "answer": "Technically, quite a lot! With the combinations of prefixes and suffixes, you're looking at hundreds, if not thousands, of potential names. Keep clicking until you find the perfect one!"
+    },
+    {
+      "question": "The generated names are weird, is the generator broken?",
+      "answer": "Not at all! The generator is designed to be creative and sometimes a little quirky. Embrace the weirdness! Remember, even the Avatar needs a little humor in their life. If you don't like a name, just generate another one!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to add to the generator?",
+      "answer": "We'd love to hear your ideas! Send them our way through our contact form on coolnamemaker.com. We're always looking for ways to improve the generator and make it even more awesome."
+    }
+  ],
+  "prefixes": [
+    "Agni",
+    "Korra",
+    "Zaofu",
+    "Kyoshi",
+    "Wan Shi",
+    "Ba Sing",
+    "Omashu",
+    "Jong Jong",
+    "Spirit",
+    "Harmonic",
+    "Balance",
+    "Elemental",
+    "Ancient",
+    "Future",
+    "New",
+    "Old",
+    "True",
+    "False",
+    "Zenith",
+    "Nadir",
+    "Azure",
+    "Crimson",
+    "Jade",
+    "Opal",
+    "Onyx"
+  ],
+  "suffixes": [
+    "Bender",
+    "Sage",
+    "Master",
+    "Guide",
+    "Warrior",
+    "Healer",
+    "Oracle",
+    "Visionary",
+    "Protector",
+    "Guardian",
+    "Seeker",
+    "Nomad",
+    "Acolyte",
+    "Initiate",
+    "Disciple",
+    "Virtuoso",
+    "Prodigy",
+    "Zen",
+    "Flow",
+    "Spark",
+    "Flame",
+    "Wave",
+    "Earth",
+    "Wind",
+    "Light"
+  ]
+}

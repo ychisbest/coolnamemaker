@@ -1,0 +1,87 @@
+{
+  "name": "Medieval Name Generator",
+  "description": "Unleash your inner knight or enchantress! This generator conjures up authentic-sounding medieval names, perfect for your next D&D campaign, historical fiction, or just for kicks. Prepare to be transported back to a time of castles, dragons, and epic quests!",
+  "slug": "medieval-name-generator",
+  "icon": "\ud83c\udff0",
+  "introduction": "Ever dreamt of being a noble lord or a cunning sorceress? Our Medieval Name Generator is your portal to a world of chivalry, magic, and adventure. Whether you're crafting a character for a role-playing game, writing a historical novel, or simply seeking a unique and memorable name, we've got you covered. Prepare to discover names that resonate with the echoes of a bygone era!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new medieval name will magically appear.",
+    "Not feeling the first result? No problem! Click again for an endless supply of noble and mystical monikers.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create your own custom medieval masterpiece.",
+    "Copy and paste your favorite names into your story, game, or even your daily life (we won't judge!).",
+    "Share your awesome finds with your friends and spread the medieval madness!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "Our generator crafts names inspired by medieval European history and fantasy literature. Expect a mix of noble, commoner, and even slightly fantastical names!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Feel free to use the generated names for your books, games, or any other creative projects, commercial or otherwise. They're yours to command!"
+    },
+    {
+      "question": "Are the names historically accurate?",
+      "answer": "While we strive for authenticity, some names may be slightly stylized for a more fantastical feel. Think of them as 'historically inspired' rather than strictly accurate."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! Our generator offers an unlimited supply of medieval names. Keep clicking until you find the perfect one (or ten!)."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send your suggestions our way, and we might just add them to the generator. Help us make it even more epic!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, absolutely free! Enjoy generating countless medieval names without spending a single gold coin."
+    }
+  ],
+  "prefixes": [
+    "Aethel",
+    "Bald",
+    "Cyn",
+    "Edel",
+    "God",
+    "Grim",
+    "Hilde",
+    "Os",
+    "Rein",
+    "Sig",
+    "Wil",
+    "Alaric",
+    "Beric",
+    "Cedric",
+    "Doran",
+    "Eldrin",
+    "Falk",
+    "Garrett",
+    "Hadrian",
+    "Isolde",
+    "Jorik",
+    "Kellan",
+    "Lysandra"
+  ],
+  "suffixes": [
+    "bert",
+    "gar",
+    "hard",
+    "mar",
+    "mund",
+    "rad",
+    "ric",
+    "wald",
+    "ward",
+    "wulf",
+    "wyn",
+    "ian",
+    "elle",
+    "lyn",
+    "on",
+    "or",
+    "and",
+    "yth",
+    "iel",
+    "wen"
+  ]
+}

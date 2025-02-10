@@ -1,0 +1,109 @@
+{
+  "name": "Nonbinary Name Generator",
+  "description": "Struggling to find the perfect nonbinary name? Unleash your inner awesome with our generator! Discover names that resonate with *you* and your unique identity. No more boring labels \u2013 just pure, unadulterated name magic!",
+  "slug": "nonbinary-names-generator",
+  "icon": "\u2728",
+  "introduction": "Hey there, fabulous human! Feeling stuck in the name game? Our Nonbinary Name Generator is here to help you explore a universe of possibilities. Whether you're looking for something totally unique, subtly androgynous, or just plain cool, we've got you covered. Ditch the societal norms and embrace a name that truly *fits*.",
+  "howToUse": [
+    "First, take a deep breath and release any name-related anxieties. This is supposed to be fun!",
+    "Simply click the 'Generate' button and watch the name magic unfold. Prepare to be amazed!",
+    "Don't settle for the first name you see! Keep clicking until you find one that makes your heart sing.",
+    "Feeling creative? Mix and match prefixes and suffixes to create a name that's 100% YOU.",
+    "Most importantly: trust your gut! The perfect name will feel right. If it doesn't, keep searching!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Nonbinary Name Generator is 100% free to use. We believe that finding the perfect name shouldn't cost a thing."
+    },
+    {
+      "question": "Will this generator give me a 'boy' or 'girl' name?",
+      "answer": "Nope! This generator is specifically designed to provide gender-neutral and nonbinary name suggestions. We're all about breaking down those binary barriers."
+    },
+    {
+      "question": "Can I use these names for my fictional characters?",
+      "answer": "You sure can! Use them for characters, pets, or even your next D&D adventure. The possibilities are endless!"
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly adding new names to our database to keep things fresh and exciting. Check back often for new inspiration!"
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "That's totally okay! Name preferences are super personal. Just keep generating until you find one that clicks. And remember, you can always mix and match prefixes and suffixes!"
+    },
+    {
+      "question": "Can I suggest a name to be added to the generator?",
+      "answer": "We'd love that! Please submit your name suggestions through our contact form. We appreciate your input!"
+    }
+  ],
+  "prefixes": [
+    "Alex",
+    "Sam",
+    "Riley",
+    "Jordan",
+    "Drew",
+    "Cameron",
+    "Skyler",
+    "Rowan",
+    "Quinn",
+    "Blake",
+    "Avery",
+    "Jamie",
+    "Casey",
+    "Morgan",
+    "Devon",
+    "Reese",
+    "Parker",
+    "Dakota",
+    "Taylor",
+    "River",
+    "Sage",
+    "Phoenix",
+    "Indigo",
+    "Cyan",
+    "Azure",
+    "Grey",
+    "Ash",
+    "Storm",
+    "Rain",
+    "Echo",
+    "Nova",
+    "Zen",
+    "Kai",
+    "Ren",
+    "Sky",
+    "Ray"
+  ],
+  "suffixes": [
+    "ie",
+    "er",
+    "yn",
+    "on",
+    "ex",
+    "ett",
+    "is",
+    "al",
+    "el",
+    "en",
+    "ix",
+    "ry",
+    "ay",
+    "ey",
+    "or",
+    "yr",
+    "an",
+    "lyn",
+    "am",
+    "ett",
+    "yx",
+    "il",
+    "ah",
+    "ae",
+    "aeon",
+    "yrie",
+    "yx",
+    "yth",
+    "ari"
+  ]
+}

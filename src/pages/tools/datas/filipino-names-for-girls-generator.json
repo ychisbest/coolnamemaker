@@ -1,0 +1,84 @@
+{
+  "name": "Filipino Girl Name Generator",
+  "description": "Struggling to find that *perfect* Filipino name for your little princess?  Don't stress! Our generator conjures up beautiful, meaningful, and unique names that are sure to make her stand out.  Get ready to be inspired!",
+  "slug": "filipino-girl-name-generator",
+  "icon": "\ud83c\uddf5\ud83c\udded",
+  "introduction": "Welcome to the Filipino Girl Name Generator!  Filipino names are rich in history and often blend indigenous, Spanish, and even English influences.  Whether you're looking for a traditional name, a modern twist, or just something utterly captivating, this tool is your starting point to discover a name as special as she is.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic!",
+    "Don't like what you see?  No problem! Click again for a fresh batch of names.",
+    "Found a few favorites?  Jot them down and share them with your family and friends for their opinions (but remember, it's YOUR decision!).",
+    "Consider the meaning and origin of each name to find one that resonates with you and your family's values.",
+    "Lastly, say the names out loud! Make sure it flows well and sounds beautiful. After all, you'll be saying it a lot!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names authentically Filipino?",
+      "answer": "Yes! We've curated a database of names with strong Filipino roots, drawing from various regions and influences within the Philippines."
+    },
+    {
+      "question": "Can I combine parts of different generated names?",
+      "answer": "Absolutely! Feel free to get creative and mix and match prefixes and suffixes to create a truly unique name. That's the beauty of this generator!"
+    },
+    {
+      "question": "Will these names be common?",
+      "answer": "Our generator offers a mix of both popular and less common Filipino names, so you have the opportunity to choose a name that's either familiar or uniquely distinctive."
+    },
+    {
+      "question": "Do the names have meanings associated with them?",
+      "answer": "Many Filipino names have rich meanings. We encourage you to research the origin and meaning of any name that catches your eye to learn more about its cultural significance."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! This generator is completely free for you to use as many times as you like. We hope it helps you find the perfect name!"
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love to hear your suggestions! Please contact us through the website with your name ideas and their origins. We're always looking to improve and expand our database."
+    }
+  ],
+  "prefixes": [
+    "Maria",
+    "Ana",
+    "Sofia",
+    "Isabella",
+    "Angelica",
+    "Samantha",
+    "Andrea",
+    "Bianca",
+    "Kathryn",
+    "Julia",
+    "Ysabela",
+    "Alessandra",
+    "Daniella",
+    "Gabriella",
+    "Elisha",
+    "Aaliyah",
+    "Cassandra",
+    "Therese",
+    "Bernadette",
+    "Celestine"
+  ],
+  "suffixes": [
+    "May",
+    "Grace",
+    "Belle",
+    "Rose",
+    "Laine",
+    "Lyn",
+    "Claire",
+    "Joy",
+    "Cel",
+    "Rhea",
+    "Nica",
+    "Marie",
+    "Sofia",
+    "Isabel",
+    "Liza",
+    "Bella",
+    "Angel",
+    "Mikaela",
+    "Yna",
+    "Trina"
+  ]
+}

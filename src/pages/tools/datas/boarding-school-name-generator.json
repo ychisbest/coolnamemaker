@@ -1,0 +1,84 @@
+{
+  "name": "Boarding School Name Generator",
+  "description": "Struggling to come up with the perfect, slightly ominous, and utterly unforgettable name for your boarding school in that novel you're writing? Or maybe you just need a cool name for your D&D campaign's elite academy? Look no further! Our Boarding School Name Generator is here to banish your writer's block and conjure up a school name that's both prestigious and a little bit\u2026 mysterious.",
+  "slug": "boarding-school-name-generator",
+  "icon": "\ud83c\udfeb",
+  "introduction": "Welcome, dear writer, gamer, or world-builder, to the ultimate source for boarding school names. Whether you're after a name that whispers of ancient traditions, hints at secret societies, or simply sounds impressive on a letterhead, we've got you covered. Prepare to be inspired!",
+  "howToUse": [
+    "Simply click the 'Generate' button. (It's the one that looks like it holds all the secrets).",
+    "Behold! A brand new, exquisitely crafted boarding school name shall appear before your very eyes.",
+    "Don't like the name? Click again! We've got enough combinations to keep you naming schools until the cows come home... or until the Headmaster calls curfew.",
+    "Copy and paste your favorite name into your story, game, or application to that exclusive institution you've been eyeing.",
+    "Pro Tip: Combine elements from different generated names to create something truly unique and unforgettable. Get creative!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Consider it our gift to the world of creative storytelling and gaming. No hidden fees, no secret societies demanding dues, just pure, unadulterated boarding school name goodness."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Yes, you are free to use the generated names in your books, games, or any other creative projects, even if they are for commercial use. Go forth and create!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "The names are generated using a combination of carefully curated prefixes and suffixes, designed to evoke the atmosphere and history of a classic boarding school. So, yes, they're random, but with a touch of class and a hint of intrigue."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With countless combinations, you're bound to find something that resonates with you. Or, use the generated names as inspiration to create your own masterpiece. The possibilities are endless!"
+    },
+    {
+      "question": "Will using a generated name make my story more popular?",
+      "answer": "While we can't guarantee fame and fortune, a great name can certainly add to the overall appeal and memorability of your story. Think of it as the cherry on top of your creative sundae!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions, and we might just include them in future updates to the generator. Help us make it even better!"
+    }
+  ],
+  "prefixes": [
+    "Blackwood",
+    "Ashworth",
+    "Northcliffe",
+    "Silverstream",
+    "Ravenwood",
+    "Oakbridge",
+    "Westbrook",
+    "Eldermere",
+    "Shadowbrook",
+    "St. Augustine's",
+    "Harrowgate",
+    "Wellington",
+    "Kingsley",
+    "Queen's",
+    "Fairfield",
+    "Rosemont",
+    "Crestwood",
+    "Brighton",
+    "Amberley",
+    "Willow Creek"
+  ],
+  "suffixes": [
+    "Academy",
+    "School",
+    "College",
+    "Hall",
+    "Institute",
+    "Preparatory",
+    "Grammar",
+    "Seminary",
+    "Lyceum",
+    "Conservatory",
+    "Manor",
+    "Grange",
+    "Abbey",
+    "Hill",
+    "House",
+    "Place",
+    "Gardens",
+    "Estate",
+    "Heights",
+    "Lodge"
+  ]
+}

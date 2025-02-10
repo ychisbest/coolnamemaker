@@ -1,0 +1,71 @@
+{
+  "name": "Hag Name Generator",
+  "description": "Unleash your inner crone! Need a name that screams 'ancient magic' and 'slightly terrifying'? Our Hag Name Generator is here to conjure up the perfect moniker. Whether you're roleplaying, writing a fantasy novel, or just feeling a bit witchy, we've got you covered. Get ready to embrace your hag-nificence!",
+  "slug": "hag-name-generator",
+  "icon": "\ud83e\uddd9\u200d\u2640\ufe0f",
+  "introduction": "Ever felt a strange pull towards the misty moors, the rustling leaves, and a cackle that echoes through the ages? Then you, my friend, are ready for a hag name! This generator blends folklore, a dash of dark humor, and a sprinkle of swamp gas to create names that are both captivating and creepy. Prepare to be bewitched!",
+  "howToUse": [
+    "Simply click the 'Generate' button. (It's way less complicated than brewing a potion, promise!)",
+    "Marvel at the hag-tastic name that appears. (Try not to scare the cat.)",
+    "If the name doesn't quite capture your inner swamp witch, click again! (We have endless names, unlike a hag's patience.)",
+    "Copy and paste your new name into your story, game, or cauldron. (Don't forget to credit us for the magic!)"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "We conjure up names that evoke images of ancient forests, bubbling cauldrons, and maybe a slightly moldy cottage. Think earthy, mystical, and a little bit unsettling."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Consider them a gift from the digital coven. Just maybe give us a shout-out if your hag character becomes a bestseller."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Mostly! We've carefully curated prefixes and suffixes to ensure each name has that authentic hag-like quality. But the combination is entirely up to chance (and a little bit of digital magic)."
+    },
+    {
+      "question": "Will this generator curse my computer?",
+      "answer": "Highly unlikely. We use only the safest, most digitally friendly spells. However, if you start seeing toads in your browser, we recommend contacting a qualified IT witch."
+    },
+    {
+      "question": "I don't feel like a hag. Can I still use this?",
+      "answer": "Of course! Maybe you're a wizard in disguise, or a very misunderstood fairy. Everyone deserves a cool, slightly spooky name."
+    },
+    {
+      "question": "My generated name is too scary! Help!",
+      "answer": "Embrace the fear! Or, you know, just click 'Generate' again. We have plenty of names that are only *mildly* terrifying."
+    }
+  ],
+  "prefixes": [
+    "Gnarled",
+    "Bog",
+    "Shadowfen",
+    "Crone's",
+    "Whisperwind",
+    "Hollow",
+    "Briar",
+    "Nightshade",
+    "Misty",
+    "Gloom",
+    "Old Mother",
+    "Swamp",
+    "Withered"
+  ],
+  "suffixes": [
+    "root",
+    "wick",
+    "bane",
+    "whisper",
+    "hag",
+    "shade",
+    "moon",
+    "bloom",
+    "mire",
+    "grim",
+    "thorn",
+    "claw",
+    "breath",
+    "spell",
+    "brew"
+  ]
+}

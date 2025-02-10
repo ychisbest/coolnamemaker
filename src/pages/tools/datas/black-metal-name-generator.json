@@ -1,0 +1,73 @@
+{
+  "name": "Black Metal Name Generator",
+  "description": "Unleash your inner darkness with our Black Metal Name Generator! Craft the perfect moniker for your band, your character, or just your blackened soul. Prepare to embrace the abyss!",
+  "slug": "black-metal-name-generator",
+  "icon": "\ud83e\udd18",
+  "introduction": "Dive into the frostbitten realms of black metal! This generator forges names that evoke the raw power, chilling atmosphere, and unholy majesty of the genre. Whether you're summoning demons or shredding riffs, find a name worthy of the darkest legions.",
+  "howToUse": [
+    "Click the 'Generate' button. Simple, right? Even a corpse-painted goblin could do it.",
+    "If the generated name doesn't make your blood run cold, hit 'Generate' again. We've got enough evil to go around.",
+    "Copy and paste your new, infernal name wherever it's needed: band flyers, forum posts, summoning circles...you get the idea.",
+    "Go forth and unleash sonic chaos! May your riffs be sharp, your vocals guttural, and your name legendary."
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my actual black metal band?",
+      "answer": "Absolutely! We encourage you to unleash these names upon the world and bring forth the sonic apocalypse. Just don't blame us if your parents disown you."
+    },
+    {
+      "question": "Are the names generated truly evil?",
+      "answer": "We strive to imbue each name with a potent blend of darkness and despair. Results may vary, but we guarantee they're at least metal as hell."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Then you clearly don't understand the true meaning of black metal. But fear not! Simply hit 'Generate' again until a name worthy of your unholy devotion appears."
+    },
+    {
+      "question": "Will using one of these names summon demons?",
+      "answer": "We can neither confirm nor deny any demonic activity resulting from the use of these names. Proceed with caution...and maybe have a pentagram handy."
+    },
+    {
+      "question": "Is this generator suitable for children?",
+      "answer": "If your children are already listening to black metal, then it's probably too late. Otherwise, parental discretion is advised. This generator contains traces of blasphemy and existential dread."
+    },
+    {
+      "question": "Can I trademark a name generated here?",
+      "answer": "While we provide the names, we don't offer legal advice. Consult with a lawyer specializing in corpse paint and copyright law for the best guidance."
+    }
+  ],
+  "prefixes": [
+    "Grim",
+    "Nocturnal",
+    "Frozen",
+    "Abyssal",
+    "Shadow",
+    "Eternal",
+    "Infernal",
+    "Blood",
+    "Dark",
+    "Serpent",
+    "Unholy",
+    "Necro",
+    "Frost",
+    "Black",
+    "Desolate"
+  ],
+  "suffixes": [
+    "void",
+    "Reign",
+    "Blade",
+    "Wrath",
+    "Doom",
+    "Curse",
+    "Throne",
+    "Storm",
+    "Ritual",
+    "Serpent",
+    "Cult",
+    "Legion",
+    "Empire",
+    "Winter",
+    "Flame"
+  ]
+}

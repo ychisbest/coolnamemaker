@@ -38,9 +38,10 @@
 
 <script>
     // 获取菜单按钮和移动菜单元素
-    const menuBtn = document.getElementById('menu-btn');
-    const mobileMenu = document.getElementById('mobile-menu');
-    const closeMenu = document.getElementById('close-menu');
+    const menuBtn = document.getElementById('menu-btn') as any;
+    const mobileMenu = document.getElementById('mobile-menu') as any;
+    const closeMenu = document.getElementById('close-menu') as any;
+
 
     // 点击菜单按钮时显示菜单
     menuBtn.addEventListener('click', () => {

@@ -1,0 +1,83 @@
+{
+  "name": "Werewolf Name Generator",
+  "description": "Unleash your inner beast! Generate bone-chilling, howl-at-the-moon worthy werewolf names that will send shivers down your spine. Perfect for characters, stories, or just embracing your wild side.",
+  "slug": "werewolf-names-generator",
+  "icon": "\ud83d\udc3a",
+  "introduction": "Feeling a bit\u2026furry? Ready to embrace the night? Our Werewolf Name Generator is here to help you find the perfect moniker for your lycanthropic alter ego. Whether you're role-playing, writing a horror novel, or simply curious about the darker side of names, we've got you covered. Prepare to be transformed!",
+  "howToUse": [
+    "Click the 'Generate' button. It's like howling at the moon, but less messy.",
+    "Behold! A brand new, terrifyingly awesome werewolf name appears before your very eyes.",
+    "Don't like it? No problem! Mash that 'Generate' button again until you find the perfect name that makes you want to run through the forest under the full moon.",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own unique werewolf legend!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really going to give me a *cool* werewolf name?",
+      "answer": "Cooler than a werewolf popsicle in the dead of winter! We've crafted our name list with care to ensure maximum awesomeness and a healthy dose of spooky."
+    },
+    {
+      "question": "Can I use these names for my Dungeons & Dragons character?",
+      "answer": "Absolutely! These names are perfect for any fantasy setting where werewolves roam. Just be prepared for your DM to be slightly terrified."
+    },
+    {
+      "question": "Are the names generated random?",
+      "answer": "Mostly! We use a combination of carefully curated prefixes and suffixes, combined with a touch of random magic, to conjure up the perfect name. It's like a werewolf potion, but less hairy."
+    },
+    {
+      "question": "I got a name I don't like. What do I do?",
+      "answer": "Keep generating! We've got tons of combinations, so you're bound to find one that resonates with your inner beast. Think of it as a werewolf lottery \u2013 keep playing until you win!"
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We're always open to suggestions! If you have a particularly awesome werewolf name in mind, send it our way. We might just add it to the pack!"
+    },
+    {
+      "question": "Will using this generator actually turn me into a werewolf?",
+      "answer": "While we can't guarantee a full transformation (sorry!), we can promise that you'll feel a whole lot more like a werewolf. Use responsibly and avoid silver cutlery."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Blood",
+    "Night",
+    "Moon",
+    "Grave",
+    "Iron",
+    "Stone",
+    "Dark",
+    "Storm",
+    "Frost",
+    "Rage",
+    "Fear",
+    "Whisper",
+    "Cinder",
+    "Savage",
+    "Dire",
+    "Grim",
+    "Silent",
+    "Crimson",
+    "Obsidian"
+  ],
+  "suffixes": [
+    "fang",
+    "claw",
+    "howl",
+    "shade",
+    "walker",
+    "hunter",
+    "bane",
+    "scar",
+    "heart",
+    "moon",
+    "night",
+    "fury",
+    "strike",
+    "tear",
+    "growl",
+    "blood",
+    "shadow",
+    "gaze",
+    "wind",
+    "voice"
+  ]
+}

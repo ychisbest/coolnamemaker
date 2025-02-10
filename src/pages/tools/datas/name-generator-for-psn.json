@@ -1,0 +1,83 @@
+{
+  "name": "PSN Name Generator",
+  "description": "Struggling to find the perfect, totally rad PSN name? Fear no more, friend! Our generator crafts names that are cooler than the other side of the pillow, guaranteed to make you stand out in the lobby.",
+  "slug": "psn-name-generator",
+  "icon": "\ud83c\udfae",
+  "introduction": "Let's face it, your PSN name is your digital identity. It's how you're known, how you're feared (or admired!), and how you express your inner gaming god. Ditch the boring default and unleash a name that screams 'legendary' with our PSN Name Generator. Get ready to dominate the leaderboards with a name that's as unique as you are!",
+  "howToUse": [
+    "Simply hit the 'Generate' button and watch the magic happen! We'll conjure up a list of awesome PSN names for your consideration.",
+    "Don't like what you see? No sweat! Just keep hitting 'Generate' until you find the name that perfectly embodies your gaming persona.",
+    "Feeling creative? Mix and match prefixes and suffixes from our list to create your own custom masterpiece. The possibilities are endless!",
+    "Once you've found the perfect name, copy it and head over to PlayStation Network to update your profile. Get ready to bask in the glory of your awesome new identity!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe everyone deserves a killer PSN name without breaking the bank. Consider it our gift to the gaming community."
+    },
+    {
+      "question": "Will the names generated be available on PSN?",
+      "answer": "We can't guarantee that every name will be available, as some might already be taken. But we generate a wide variety, so you're bound to find something that works!"
+    },
+    {
+      "question": "Can I use these names for other platforms besides PlayStation?",
+      "answer": "Of course! While it's designed for PSN, a cool name is a cool name, no matter where you use it. Feel free to unleash it on any platform you choose."
+    },
+    {
+      "question": "How often is the generator updated with new prefixes and suffixes?",
+      "answer": "We're constantly adding new and exciting options to keep the generator fresh and ensure you have the most cutting-edge names at your fingertips. Check back often!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! We've got a massive database of prefixes and suffixes, so you're bound to stumble upon a gem eventually. Or, get creative and mix and match to create your own unique masterpiece!"
+    },
+    {
+      "question": "Are the generated names offensive or inappropriate?",
+      "answer": "We strive to provide clean and appropriate names. However, we are not responsible for the interpretation of individual names. Please use your best judgment when selecting a name."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Crimson",
+    "Elite",
+    "Omega",
+    "Specter",
+    "Phantom",
+    "Apex",
+    "Nova",
+    "Rogue",
+    "Titan",
+    "Mystic",
+    "Venom",
+    "Frost",
+    "Inferno",
+    "Galactic",
+    "Iron",
+    "Steel",
+    "Silent",
+    "Dark",
+    "Lunar"
+  ],
+  "suffixes": [
+    "Slayer",
+    "Hunter",
+    "Warrior",
+    "Knight",
+    "Blade",
+    "Striker",
+    "Reaper",
+    "Storm",
+    "Fury",
+    "Gamer",
+    "Legend",
+    "Master",
+    "Zero",
+    "X",
+    "Pro",
+    "God",
+    "King",
+    "Ace",
+    "Wolf",
+    "Hawk"
+  ]
+}

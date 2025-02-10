@@ -1,0 +1,84 @@
+{
+  "name": "Racing Team Name Generator",
+  "description": "Stuck in the pits when it comes to naming your racing team? Rev up your engines! Our generator crafts names that are faster than a speeding bullet and cooler than a pit stop under the moonlight. Get ready to leave the competition in the dust!",
+  "slug": "racing-team-name-generator",
+  "icon": "\ud83c\udfce\ufe0f",
+  "introduction": "Every legendary racing team needs a name that screams speed, power, and a touch of danger. Whether you're tearing up the asphalt, dominating the dirt track, or conquering the digital world, a killer name is your first step to victory. Let our Racing Team Name Generator fuel your ambitions!",
+  "howToUse": [
+    "Feeling the need for speed? Just hit that 'Generate' button!",
+    "Not vibing with the first name? Keep clicking! We've got more horsepower than a Ferrari factory.",
+    "Found the perfect name? Awesome! Share it with your team and get ready to take the checkered flag.",
+    "Want something truly unique? Tweak the generated names or combine elements. The possibilities are endless!",
+    "Remember, a great name is half the race. So, buckle up and find the one that resonates with your team's spirit!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to make my team faster?",
+      "answer": "While we can't guarantee actual horsepower gains, a seriously cool name will definitely intimidate the competition. Think of it as psychological warfare!"
+    },
+    {
+      "question": "Can I use these names for professional racing?",
+      "answer": "Absolutely! Feel free to use these names for any racing league, from Formula 1 to go-karting to your epic Mario Kart showdowns."
+    },
+    {
+      "question": "Are the names copyrighted?",
+      "answer": "Nope! All names generated are free for you to use. Go forth and conquer!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! We've got thousands of combinations. If you're still not satisfied, try combining elements from different names or using them as inspiration to create your own masterpiece."
+    },
+    {
+      "question": "Will this generator help me win sponsors?",
+      "answer": "A memorable name is a HUGE step towards attracting sponsors. A catchy name is more likely to catch their eye (and their checkbooks!)."
+    },
+    {
+      "question": "Can I use these names for a fictional racing team in a book or game?",
+      "answer": "You bet! Unleash your creativity and use these names as inspiration for your characters and stories. Give 'em the racing name they deserve!"
+    }
+  ],
+  "prefixes": [
+    "Velocity",
+    "Apex",
+    "Torque",
+    "Nitro",
+    "Redline",
+    "Phoenix",
+    "Shadow",
+    "Ironclad",
+    "Renegade",
+    "Thunder",
+    "Midnight",
+    "Crimson",
+    "Viper",
+    "Ghost",
+    "Spectre",
+    "Quantum",
+    "Astral",
+    "Lunar",
+    "Solar",
+    "Cosmic"
+  ],
+  "suffixes": [
+    "Racers",
+    "Speedsters",
+    "Motorsports",
+    "Racing",
+    "Dynamics",
+    "Force",
+    "Syndicate",
+    "Alliance",
+    "Brigade",
+    "Squadron",
+    "Elite",
+    "Dominion",
+    "Revolution",
+    "Velocity",
+    "Ascension",
+    "Strike",
+    "Wolves",
+    "Eagles",
+    "Falcons",
+    "Lions"
+  ]
+}

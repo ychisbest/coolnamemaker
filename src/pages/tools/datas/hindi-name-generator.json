@@ -1,0 +1,80 @@
+{
+  "name": "Hindi Name Generator",
+  "description": "Unlock a treasure trove of cool and unique Hindi names! Whether you're naming a character, a business, or just looking for inspiration, this generator has you covered. Prepare to be amazed by the sheer variety and cultural richness!",
+  "slug": "hindi-name-generator",
+  "icon": "\ud83c\uddee\ud83c\uddf3",
+  "introduction": "Namaste! Dive into the vibrant world of Hindi names with our awesome generator. Forget boring name searches; we're serving up names that are dripping with history, meaning, and a whole lotta cool. Get ready to discover the perfect name that resonates with your soul!",
+  "howToUse": [
+    "First, take a deep breath and channel your inner Bollywood star. \ud83d\ude09",
+    "Click the 'Generate' button. (It's the one that looks like pure awesome!)",
+    "Feast your eyes on the amazing Hindi name that appears. Is it 'the one'? \u2728",
+    "If not, no worries! Hit 'Generate' again for a fresh dose of inspiration. Keep going until you find the name that makes your heart sing! \ud83c\udfb6",
+    "Once you've found the perfect name, write it down, share it with the world, and bask in its glory! You're a name-finding rockstar! \ud83c\udf1f"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "We're talking a dazzling array of Hindi names! From traditional to modern, strong to sweet, you'll find names reflecting the diverse tapestry of Indian culture."
+    },
+    {
+      "question": "Can I use these names for my business/project?",
+      "answer": "Absolutely! These names are perfect for characters, businesses, projects, or anything your creative heart desires. Just make sure to do your research on any cultural sensitivities associated with the name."
+    },
+    {
+      "question": "Are the generated names actually meaningful?",
+      "answer": "Many of the names have rich meanings rooted in Hindi language and culture. While the generator is designed for cool factor, we try to incorporate authentic elements where possible. Further research can help uncover deeper meanings."
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're always on the hunt for fresh and exciting names to add to our database! We update the generator periodically to keep things interesting and relevant."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Definitely! We love hearing from our users. If you have any cool Hindi name suggestions, feel free to reach out to us through our contact page. We're always looking for ways to improve and expand our name collection!"
+    }
+  ],
+  "prefixes": [
+    "Aditya",
+    "Aarav",
+    "Ishaan",
+    "Vivaan",
+    "Arjun",
+    "Riyaan",
+    "Kabir",
+    "Advik",
+    "Aryan",
+    "Vihaan",
+    "Anika",
+    "Diya",
+    "Aanya",
+    "Myra",
+    "Siya",
+    "Aaradhya",
+    "Kiara",
+    "Navya",
+    "Pari",
+    "Ira"
+  ],
+  "suffixes": [
+    "Raj",
+    "Kumar",
+    "Singh",
+    "Dev",
+    "Sharma",
+    "Verma",
+    "Gupta",
+    "Khan",
+    "Ali",
+    "Das",
+    "Devi",
+    "Bai",
+    "Kaur",
+    "Rani",
+    "Chowdhury",
+    "Nair",
+    "Reddy",
+    "Patel",
+    "Joshi",
+    "Bose"
+  ]
+}

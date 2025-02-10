@@ -1,0 +1,83 @@
+{
+  "name": "Portuguese Name Generator",
+  "description": "Struggling to find the perfect Portuguese name? Whether you're writing a novel, creating a character, or just curious about your potential Portuguese alter ego, our generator is here to sprinkle some linguistic magic! Discover a cascade of authentic and captivating Portuguese names with a single click. Get ready to be transported to the sun-drenched shores of Portugal with every name!",
+  "slug": "portuguese-name-generator",
+  "icon": "\ud83c\uddf5\ud83c\uddf9",
+  "introduction": "Ol\u00e1! Ready to dive into a world of beautiful Portuguese names? Our generator is your passport to a treasure trove of options, blending traditional charm with modern flair. From classic surnames to evocative first names, we've got the perfect blend to ignite your imagination. Forget endless Google searches \u2013 your ideal Portuguese name is just a click away!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic!",
+    "Keep clicking until a name whispers 'this is the one!' to your soul.",
+    "Feeling adventurous? Mix and match the generated first and last names for a truly unique creation.",
+    "Use your newfound Portuguese name to impress your friends, spice up your creative writing, or even order a caipirinha with extra flair. (Sa\u00fade!)"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually Portuguese?",
+      "answer": "Sim! (Yes!) We've curated a database of authentic Portuguese names, ensuring you get the real deal. We constantly update our list to reflect both traditional and contemporary trends."
+    },
+    {
+      "question": "Can I use these names for my characters in a book?",
+      "answer": "Absolutely! Feel free to unleash your creativity and use these names for your characters, stories, or any other creative project. Consider it our gift to your literary endeavors!"
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart desires. We encourage endless exploration until you find the perfect fit."
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love to hear from you! While we can't guarantee every suggestion will be added, we appreciate your input and are always looking to expand our collection. Send your suggestions our way!"
+    },
+    {
+      "question": "Will this generator help me learn Portuguese?",
+      "answer": "While it won't magically make you fluent, it's a great starting point! Familiarizing yourself with Portuguese names can spark curiosity and inspire you to delve deeper into the language and culture. Maybe your perfect Portuguese name is the first step on your journey to becoming a Portuguese speaker!"
+    },
+    {
+      "question": "Are the generated names gender-specific?",
+      "answer": "The generator provides a mix of male, female, and unisex names. Pay attention to the typical usage of each name to choose one that fits your needs."
+    }
+  ],
+  "prefixes": [
+    "Jo\u00e3o",
+    "Maria",
+    "Jos\u00e9",
+    "Ana",
+    "Ant\u00f3nio",
+    "Francisca",
+    "Manuel",
+    "Sofia",
+    "Carlos",
+    "Beatriz",
+    "Pedro",
+    "Margarida",
+    "Ricardo",
+    "In\u00eas",
+    "Tiago",
+    "Matilde",
+    "Lu\u00eds",
+    "Carolina",
+    "Miguel",
+    "Laura"
+  ],
+  "suffixes": [
+    "Silva",
+    "Santos",
+    "Ferreira",
+    "Pereira",
+    "Oliveira",
+    "Costa",
+    "Rodrigues",
+    "Martins",
+    "Carvalho",
+    "Gomes",
+    "Almeida",
+    "Ribeiro",
+    "Teixeira",
+    "Andrade",
+    "Barbosa",
+    "Pinto",
+    "Correia",
+    "Mendes",
+    "Moreira",
+    "Gon\u00e7alves"
+  ]
+}

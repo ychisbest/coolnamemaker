@@ -1,0 +1,83 @@
+{
+  "name": "Hobgoblin Name Generator",
+  "description": "Unleash your inner mischief with our Hobgoblin Name Generator! Perfect for tabletop RPGs, fantasy novels, or just embracing your chaotic side. Get a name that's as delightfully devious as you are.",
+  "slug": "hobgoblin-name-generator",
+  "icon": "\ud83e\uddcc",
+  "introduction": "Ever wondered what your hobgoblin alter ego would be called? Stop wondering and start generating! Our generator crafts names that are both fearsome and fun, capturing the essence of these mischievous creatures. Whether you're a seasoned dungeon master or just looking for a unique nickname, we've got you covered. Prepare for names that are gloriously goblin-y!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Feast your eyes on the awesomeness that appears.",
+    "If the name doesn't make you cackle with glee, hit 'Generate' again! We've got plenty more where that came from.",
+    "Copy your favorite name and unleash it upon the world! Use it in your games, stories, or even as your new online handle. The possibilities are endless!"
+  ],
+  "faqs": [
+    {
+      "question": "What makes a good hobgoblin name?",
+      "answer": "A good hobgoblin name should sound a little bit rough, a little bit silly, and a whole lot intimidating. Think guttural sounds, sharp consonants, and a touch of the absurd. Bonus points for names that hint at a mischievous personality!"
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! That's exactly what they're for. Go forth and create a hobgoblin character that will strike fear (and maybe a little laughter) into the hearts of your fellow players."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes, the names are generated using a combination of prefixes and suffixes, ensuring a wide variety of unique and unexpected results. Embrace the randomness!"
+    },
+    {
+      "question": "Will this generator help me become a better dungeon master?",
+      "answer": "While we can't guarantee it, a great name is a fantastic starting point for a memorable character. A well-named hobgoblin can add depth and personality to your game, making your players' experience even more immersive. So, yes, in a way... it might!"
+    },
+    {
+      "question": "I don't like the names. What do I do?",
+      "answer": "Keep hitting that 'Generate' button! We have a vast library of prefixes and suffixes, so you're bound to find a name that tickles your fancy eventually. If all else fails, you can always mix and match parts of different names to create your own masterpiece."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "The generated names are free for personal and non-commercial use. If you intend to use them for commercial purposes, please contact us for clarification on licensing."
+    }
+  ],
+  "prefixes": [
+    "Griz",
+    "Krag",
+    "Snag",
+    "Gnash",
+    "Skrag",
+    "Bor",
+    "Grol",
+    "Mog",
+    "Torg",
+    "Zog",
+    "Grim",
+    "Krim",
+    "Stink",
+    "Rot",
+    "Foul",
+    "Rancid",
+    "Rust",
+    "Blood",
+    "Bone",
+    "Iron"
+  ],
+  "suffixes": [
+    "fang",
+    "tooth",
+    "gut",
+    "shank",
+    "fist",
+    "eye",
+    "nose",
+    "ear",
+    "toe",
+    "finger",
+    "smasher",
+    "breaker",
+    "ripper",
+    "crusher",
+    "grinder",
+    "snapper",
+    "biter",
+    "claw",
+    "gore",
+    "skull"
+  ]
+}

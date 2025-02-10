@@ -1,0 +1,83 @@
+{
+  "name": "Mexican Wrestler Name Generator",
+  "description": "\u00a1\u00c1ndale! Need a name that screams Lucha Libre legend? Our generator crafts the perfect moniker for your masked marvel, guaranteed to strike fear (and maybe a little laughter) into the hearts of your opponents!",
+  "slug": "mexican-wrestler-name-generator",
+  "icon": "\ud83e\udd3c",
+  "introduction": "Step into the ring with a name that's as electrifying as your moves! Whether you're a high-flying t\u00e9cnico or a rule-breaking rudo, our Mexican Wrestler Name Generator will forge a name that's pure gold. Get ready to unleash your inner luchador!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the awesome power of Lucha Libre names!",
+    "Don't like the first result? Keep clicking! We've got enough names to fill the Arena M\u00e9xico!",
+    "Feeling creative? Mix and match prefixes and suffixes to create a truly unique identity.",
+    "Remember, a great name is only half the battle. Now go out there and wrestle like a champion!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to make me a better wrestler?",
+      "answer": "While we can't guarantee you'll be able to pull off a hurricanrana, a killer name is the first step to Lucha Libre glory!"
+    },
+    {
+      "question": "Can I use these names for other things besides wrestling?",
+      "answer": "Absolutely! Use them for characters in your stories, your fantasy football team, or even your pet iguana. The possibilities are endless!"
+    },
+    {
+      "question": "Are these names culturally sensitive?",
+      "answer": "We strive to create names that are fun and respectful of Lucha Libre culture. If you have any concerns, please let us know!"
+    },
+    {
+      "question": "What if I want a really, really long name?",
+      "answer": "Keep hitting that 'Generate' button! Sometimes the universe conspires to create a name of epic proportions. Embrace it!"
+    },
+    {
+      "question": "I'm already a famous luchador. Can I still use this?",
+      "answer": "Even legends need inspiration! Maybe you need an alter ego...or a name for your signature move!"
+    },
+    {
+      "question": "Will this generator help me choose a cool mask design?",
+      "answer": "While we don't generate mask designs (yet!), a great name will definitely inspire a fantastic mask. Think of it as the foundation for your masked masterpiece!"
+    }
+  ],
+  "prefixes": [
+    "El",
+    "La",
+    "Super",
+    "Gran",
+    "Mini",
+    "M\u00e1scara",
+    "Rey",
+    "Hijo del",
+    "Guerrero",
+    "\u00c1ngel",
+    "Demonio",
+    "Sombra",
+    "Tornado",
+    "Rel\u00e1mpago",
+    "Fuego",
+    "Pluma",
+    "Jaguar",
+    "Serpiente",
+    "Tigre",
+    "Fantasma"
+  ],
+  "suffixes": [
+    "Infernal",
+    "de Plata",
+    "de Oro",
+    "Jr.",
+    "Extremo",
+    "Volador",
+    "Salvaje",
+    "Gal\u00e1ctico",
+    "Enmascarado",
+    "del Ring",
+    "Latino",
+    "Azteca",
+    "Maya",
+    "Invencible",
+    "Justiciero",
+    "Sangriento",
+    "Rojo",
+    "Negro",
+    "Verde",
+    "Blanco"
+  ]
+}

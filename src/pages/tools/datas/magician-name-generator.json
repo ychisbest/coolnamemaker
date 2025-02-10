@@ -1,0 +1,88 @@
+{
+  "name": "Magician Name Generator",
+  "description": "Abracadabra! \u2728 Need a stage name that's as captivating as your illusions? Poof! You've come to the right place. Our Magician Name Generator conjures up the perfect moniker for your magical persona, guaranteed to leave your audience spellbound!",
+  "slug": "magician-name-generator",
+  "icon": "\ud83c\udfa9",
+  "introduction": "Ready to pull a rabbit out of a hat...or rather, a fantastic name out of thin air? Whether you're a seasoned illusionist or just starting your journey into the mystical arts, a memorable name is key to captivating your audience. Our generator blends classic charm with modern mystique to create names that are both enchanting and unforgettable. Prepare to be amazed!",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's like waving a magic wand, but without the wrist strain!",
+    "Don't like the first result? No problem! Keep clicking until a name appears that makes you say, 'Now THAT'S magic!'",
+    "Feeling inspired? Use the generated names as a starting point and tweak them to perfectly match your unique style and brand of wizardry.",
+    "Share your favorites with fellow magicians and gather feedback. Two heads (or wands) are better than one!",
+    "Once you've found 'the one,' practice saying it aloud. Make sure it rolls off the tongue as smoothly as a disappearing act."
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once you've found a name you love, it's all yours. Just be sure to check for trademark availability to avoid any unexpected legal illusions."
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! The generated names are original combinations, but they're not automatically copyrighted. If you want to protect your brand, consider registering a trademark."
+    },
+    {
+      "question": "Can I generate names for different types of magicians?",
+      "answer": "You bet! Whether you're a close-up artist, a stage illusionist, or a mentalist, our generator can create names that fit any magical specialty. Think of it as a versatile wand for your imagination."
+    },
+    {
+      "question": "How many times can I use the generator?",
+      "answer": "As many times as you like! There's no limit to the number of magical names you can conjure up. Keep clicking until you find the perfect fit."
+    },
+    {
+      "question": "Will the generator create the same name twice?",
+      "answer": "It's possible, but highly unlikely! The generator uses a vast database of prefixes and suffixes, creating countless unique combinations. But hey, if you get the same name twice, maybe it's a sign from the magical realm! Or, you know, just refresh and try again!"
+    },
+    {
+      "question": "Can I combine prefixes and suffixes from different generated names?",
+      "answer": "Of course! Feel free to mix and match to create a truly unique and personalized magician name. Experimentation is key to unlocking your inner wizard!"
+    }
+  ],
+  "prefixes": [
+    "Mystic",
+    "Grand",
+    "Amazing",
+    "Incredible",
+    "Wonderful",
+    "Professor",
+    "Doctor",
+    "Lord",
+    "Lady",
+    "Sir",
+    "Madame",
+    "The Great",
+    "Enchanting",
+    "Shadow",
+    "Phantom",
+    "Celestial",
+    "Cosmic",
+    "Arcane",
+    "Illusion",
+    "Miracle",
+    "Captivating",
+    "Charming"
+  ],
+  "suffixes": [
+    "Specter",
+    "Mystique",
+    "Miracle",
+    "Magus",
+    "Wizard",
+    "Illusionist",
+    "Enchanter",
+    "Deceiver",
+    "Sorcerer",
+    "Prestidigitator",
+    "Charm",
+    "Shadow",
+    "Phantom",
+    "Starlight",
+    "Moonbeam",
+    "Whisper",
+    "Dreamweaver",
+    "Spellbinder",
+    "Arcane",
+    "Wonder",
+    "Amaze",
+    "Supreme"
+  ]
+}

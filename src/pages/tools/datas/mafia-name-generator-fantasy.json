@@ -1,0 +1,83 @@
+{
+  "name": "Mafia Name Generator: Fantasy Edition",
+  "description": "Unleash your inner Don with a touch of fantasy! Craft the perfect moniker for your underworld character, blending gritty realism with mythical flair. Are you ready to rule the enchanted underworld?",
+  "slug": "mafia-name-generator-fantasy",
+  "icon": "\ud83d\udd2e",
+  "introduction": "Ever wondered what your name would be if you were a shadowy figure in a world of goblins, dragons, and enchanted turf wars? Our Mafia Name Generator: Fantasy Edition is here to answer that call. We'll transform your mundane identity into something worthy of a seat at the enchanted mob table. No more John Smith, hello 'Grimfang the Enforcer'!",
+  "howToUse": [
+    "First, bravely click that 'Generate' button. Don't worry, it doesn't bite... much.",
+    "Behold! A name worthy of a fantasy crime boss shall appear. (Prepare to be amazed.)",
+    "Not feeling it? Mash that 'Generate' button again! We've got more names than a dragon has gold.",
+    "Once you find the *perfect* name, claim it as your own! Go forth and rule your fantasy underworld!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! While designed for mafia fantasy characters, these names are versatile enough for any role-playing game, novel, or even your pet goblin."
+    },
+    {
+      "question": "Are the generated names actually good?",
+      "answer": "We think so! We've carefully curated prefixes and suffixes to ensure each name has that perfect blend of menace and magic. But hey, beauty (and terror) is in the eye of the beholder."
+    },
+    {
+      "question": "Will using a generated name make me a real-life mafia boss?",
+      "answer": "Highly unlikely. This is for entertainment purposes only. Please don't try to take over your local bakery with a name like 'Dreadmaw the Doughkneader'."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send them our way, and we might just add them to the generator. Who knows, you could be the one who coins the next great mafia fantasy name!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yes! Enjoy unlimited name generation without spending a single gold coin... or real-world currency."
+    },
+    {
+      "question": "My generated name is too long/short. Can I customize it?",
+      "answer": "While the generator provides ready-made names, feel free to tweak them to your liking! Shorten, lengthen, add a title - make it truly *yours*."
+    }
+  ],
+  "prefixes": [
+    "Grimfang",
+    "Shadowclaw",
+    "Ironfist",
+    "Bloodmoon",
+    "Whisperwind",
+    "Dreadmaw",
+    "Stoneheart",
+    "Nightshade",
+    "Viper",
+    "Gloom",
+    "Silas",
+    "Torvin",
+    "Zara",
+    "Kaelen",
+    "Morwen",
+    "Jaxx",
+    "Ragnar",
+    "Lysandra",
+    "Baelor",
+    "Seraphina"
+  ],
+  "suffixes": [
+    "the Enforcer",
+    "the Shadow",
+    "the Silent",
+    "the Cruel",
+    "the Wise",
+    "the Bloodthirsty",
+    "the Just",
+    "the Wicked",
+    "the Broker",
+    "the Collector",
+    "the Grinder",
+    "the Slicer",
+    "the Charmer",
+    "the Lucky",
+    "the Ripper",
+    "the Silent",
+    "the Cunning",
+    "the Dark",
+    "the Vile",
+    "the Swift"
+  ]
+}

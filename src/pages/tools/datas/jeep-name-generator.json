@@ -1,0 +1,84 @@
+{
+  "name": "Jeep Name Generator",
+  "description": "Stuck in the mud trying to name your trusty Jeep?  Crank up the cool factor with our Jeep Name Generator! We'll help you find the perfect moniker that screams adventure, ruggedness, and maybe just a little bit of 'I can conquer anything'. Let's get those creative juices flowing!",
+  "slug": "jeep-name-generator",
+  "icon": "\u26f0\ufe0f",
+  "introduction": "Your Jeep deserves a name as epic as its off-road capabilities.  Forget boring!  We're talking names that evoke images of conquering mountains, splashing through mud, and generally being a total badass on wheels. Whether you're looking for something tough, funny, or downright unique, we've got a name to match your Jeep's personality.  So, buckle up and let's find the perfect fit!",
+  "howToUse": [
+    "Simply click the 'Generate' button. Prepare to be amazed!",
+    "Keep clicking until a name jumps out at you. Trust your gut \u2013 your Jeep will thank you.",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own legendary Jeep name.",
+    "Once you've found 'The One',  write it on your Jeep (okay, maybe just a sticker).",
+    "Brag to your friends about how awesome your Jeep's name is.  You've earned it!"
+  ],
+  "faqs": [
+    {
+      "question": "Why does my Jeep need a name?",
+      "answer": "Why *doesn't* it?!  A name gives your Jeep character, makes it stand out from the crowd, and lets you bond with it on a deeper, more meaningful level.  Plus, it's just plain fun!"
+    },
+    {
+      "question": "Can I use the same name as someone else?",
+      "answer": "Technically, yes. But where's the originality in that?  We encourage you to find a name that's uniquely *you* (and your Jeep, of course)."
+    },
+    {
+      "question": "Are the names generated appropriate for all ages?",
+      "answer": "We strive to keep things family-friendly, but some names might lean towards the adventurous side. Use your best judgment! If you wouldn't shout it at a crowded playground, maybe reconsider."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! We have tons of combinations. Or, get inspired by the prefixes and suffixes and create your own masterpiece.  The possibilities are endless!"
+    },
+    {
+      "question": "Will naming my Jeep actually improve its off-road performance?",
+      "answer": "While we can't guarantee a performance boost, a great name will definitely improve your *confidence* behind the wheel. And that's half the battle, right?"
+    },
+    {
+      "question": "My Jeep is a total clunker. Will a cool name help?",
+      "answer": "Absolutely! A cool name can distract from any imperfections. Think of it as a stylish band-aid for your awesome, but slightly worn, adventure buddy."
+    }
+  ],
+  "prefixes": [
+    "Mud",
+    "Rock",
+    "Trail",
+    "Desert",
+    "Canyon",
+    "Iron",
+    "Steel",
+    "Shadow",
+    "Storm",
+    "Wild",
+    "Renegade",
+    "Outlaw",
+    "Rogue",
+    "Maverick",
+    "Freedom",
+    "Liberty",
+    "Titan",
+    "Grizzly",
+    "Wrangler",
+    "Mojave"
+  ],
+  "suffixes": [
+    "Crawler",
+    "Runner",
+    "Blazer",
+    "Conqueror",
+    "Warrior",
+    "Beast",
+    "King",
+    "Queen",
+    "Ripper",
+    "Stormer",
+    "Hawk",
+    "Wolf",
+    "Fox",
+    "Viper",
+    "Fury",
+    "Rebel",
+    "Spirit",
+    "Soul",
+    "Machine",
+    "Legend"
+  ]
+}

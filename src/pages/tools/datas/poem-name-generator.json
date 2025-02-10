@@ -1,0 +1,70 @@
+{
+  "name": "Poem Name Generator",
+  "description": "Unleash your inner Shakespeare! Need a catchy title for your masterpiece? Our Poem Name Generator conjures up evocative and unforgettable names that will make your words sing. Prepare to be inspired!",
+  "slug": "poem-name-generator",
+  "icon": "\ud83d\udcdc",
+  "introduction": "Staring at a blank page? Don't let the title be your stumbling block! This generator combines the power of language with a dash of poetic flair to create names that capture the essence of your poem. From the whimsical to the profound, we've got you covered. Get ready to name that poem!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic!",
+    "Not vibing with the first result? No worries! Click again for a fresh dose of inspiration.",
+    "Feeling adventurous? Tweak the prefixes and suffixes (if available) to craft a truly unique title.",
+    "Once you find a name that resonates, copy and paste it onto your poem and bask in the glory!"
+  ],
+  "faqs": [
+    {
+      "question": "How does this generator actually work?",
+      "answer": "We've got a secret sauce of carefully curated words and phrases, combined with a sprinkle of algorithmic wizardry. It's like having a tiny poet in your pocket, ready to brainstorm at a moment's notice!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once the name is generated, it's all yours. Use it for your book, blog, or even name your cat after it (we won't judge!)."
+    },
+    {
+      "question": "Are the names generated original?",
+      "answer": "We strive for originality, but with the vastness of language, some overlap is possible. We recommend doing a quick search to ensure your chosen title is unique in your specific context."
+    },
+    {
+      "question": "Will this generator make me a better poet?",
+      "answer": "The generated name will have a meaning, some names are meaningful, some are not, but it will definitely inspire you"
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate to your heart's content. We want you to find the perfect name, even if it takes a hundred tries."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We love suggestions! Feel free to reach out through our contact form with your ideas. We're always looking to expand our poetic vocabulary."
+    }
+  ],
+  "prefixes": [
+    "Whispers of",
+    "The Silent",
+    "Echoes of",
+    "A Crimson",
+    "Beneath the",
+    "Lost in",
+    "The Dance of",
+    "Ode to",
+    "Ephemeral",
+    "Celestial",
+    "Nocturnal",
+    "Forgotten",
+    "Serenade of"
+  ],
+  "suffixes": [
+    "Dreams",
+    "Shadows",
+    "Stars",
+    "Silence",
+    "Love",
+    "Despair",
+    "Hope",
+    "Memories",
+    "The Void",
+    "The Abyss",
+    "The Unseen",
+    "The Forgotten",
+    "The Dawn",
+    "The Dusk"
+  ]
+}

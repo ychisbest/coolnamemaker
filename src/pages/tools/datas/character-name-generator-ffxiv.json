@@ -1,0 +1,84 @@
+{
+  "name": "FFXIV Character Name Generator",
+  "description": "Stuck staring at the character creation screen in Final Fantasy XIV? Don't let name-picking paralysis ruin your adventure! Our FFXIV Character Name Generator will conjure up the perfect moniker for your Warrior of Light, so you can get back to saving Eorzea (or just crafting awesome gear).",
+  "slug": "character-name-generator-ffxiv",
+  "icon": "\u2728",
+  "introduction": "Welcome, adventurer! Crafting the perfect character in FFXIV starts with the perfect name. Whether you're aiming for lore-accurate immersion or something totally unique, our generator combines a vast database of FFXIV-inspired prefixes and suffixes to create names that sound like they belong in Eorzea. Get ready to roll a name as epic as your future adventures!",
+  "howToUse": [
+    "Simply click the 'Generate' button. We'll whip up a unique FFXIV-inspired character name for you.",
+    "Don't like what you see? Keep clicking! We've got plenty more names where that came from.",
+    "Found a name you adore? Copy it and paste it into the FFXIV character creation screen. Voila! You're ready to embark on your epic journey.",
+    "Feeling creative? Mix and match prefixes and suffixes from different generations to create something truly your own. Go wild, you magnificent being!",
+    "Remember, the best name is one that resonates with you. Have fun, and may your adventures in Eorzea be legendary!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names lore-accurate for FFXIV?",
+      "answer": "We've drawn inspiration from various FFXIV races and naming conventions, but our generator aims for creativity and uniqueness above strict lore adherence. Think of it as a springboard for your own imagination!"
+    },
+    {
+      "question": "Can I use these names in the actual FFXIV game?",
+      "answer": "Absolutely! That's what they're for. Just make sure the name adheres to Square Enix's naming policy."
+    },
+    {
+      "question": "Will the generator create duplicate names?",
+      "answer": "While we strive for uniqueness, the vast number of possible combinations means there's a tiny chance of duplicates. If it happens, just generate a new name!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added to the generator?",
+      "answer": "We'd love to hear your suggestions! Send them our way through our contact form. We're always looking to expand our name pool."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! Our FFXIV Character Name Generator is completely free. Go forth and name your Warrior of Light without spending a single gil!"
+    },
+    {
+      "question": "Does this generator create names for all FFXIV races?",
+      "answer": "We're always expanding, so check back regularly for updates and more race-specific options!"
+    }
+  ],
+  "prefixes": [
+    "Aether",
+    "Sol",
+    "Umbra",
+    "Crimson",
+    "Azure",
+    "Steel",
+    "Whisper",
+    "Shadow",
+    "Storm",
+    "Ember",
+    "Crystal",
+    "Void",
+    "Seraph",
+    "Dragon",
+    "Moon",
+    "Star",
+    "Night",
+    "Dawn",
+    "Sun",
+    "Frost"
+  ],
+  "suffixes": [
+    "bane",
+    "wind",
+    "strike",
+    "heart",
+    "shade",
+    "song",
+    "walker",
+    "seeker",
+    "guard",
+    "blade",
+    "weaver",
+    "caster",
+    "fist",
+    "eye",
+    "soul",
+    "dream",
+    "light",
+    "fire",
+    "storm",
+    "shield"
+  ]
+}

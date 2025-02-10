@@ -1,0 +1,84 @@
+{
+  "name": "Metal Name Generator",
+  "description": "Unleash your inner metal god! This generator crafts brutally awesome names perfect for your band, your character, or just your everyday life. Get ready to shred!",
+  "slug": "metal-name-generator",
+  "icon": "\ud83e\udd18",
+  "introduction": "Are you ready to forge a name that screams METAL? Look no further! Our Metal Name Generator is here to help you conjure up the most headbanging, face-melting, stage-diving worthy monikers this side of Valhalla. Whether you're forming a band, creating a character for your epic metal saga, or just need a dose of pure metal awesomeness, we've got you covered. Prepare to be baptized in the fires of creativity!",
+  "howToUse": [
+    "Click the 'Generate' button. Like, a lot. Seriously, click it until you find a name that makes your soul scream 'METAL!'",
+    "Mix and match prefixes and suffixes to create your ultimate metal masterpiece. Don't be afraid to get weird!",
+    "Scream the name out loud. If it doesn't make you want to smash a guitar, keep generating!",
+    "Share your awesome metal name with the world! (Or keep it a secret weapon, your call.)",
+    "Remember, the most metal name is the one that resonates with your inner metal beast. Now go forth and ROCK!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually metal?",
+      "answer": "Does a dragon hoard gold? Does a Viking raid villages? YES! This generator is infused with the very essence of metal. We're talking molten steel, thunderous drums, and screaming guitars, all distilled into name-generating awesomeness."
+    },
+    {
+      "question": "Can I use these names for my band?",
+      "answer": "Absolutely! That's what it's here for. Just be prepared for instant fame and legions of adoring fans. (We're not responsible for any sudden urges to grow long hair and wear leather.)"
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep generating! The perfect name is out there, waiting to be discovered. Or, try tweaking the prefixes and suffixes to create something truly unique. Don't give up on your metal dreams!"
+    },
+    {
+      "question": "Are these names copyrighted?",
+      "answer": "Nope! These names are generated on the fly, so you're free to use them as you please. Go forth and conquer the metal world!"
+    },
+    {
+      "question": "Will using a metal name generated here automatically make me a better musician?",
+      "answer": "While we can't guarantee instant musical prowess, having a truly metal name will definitely boost your confidence and inspire you to shred harder. Think of it as a +5 bonus to your metal skills!"
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Of course! Imagine a dwarf warrior named 'Ironfist Doomhammer' or an elven rogue known as 'Shadowbane Whisperwind.' The possibilities are endless! Let your metal name guide your character's destiny."
+    }
+  ],
+  "prefixes": [
+    "Iron",
+    "Steel",
+    "Blood",
+    "Shadow",
+    "Doom",
+    "Death",
+    "Night",
+    "Storm",
+    "Rage",
+    "Skull",
+    "Grim",
+    "Frost",
+    "Black",
+    "Infernal",
+    "Venom",
+    "Chaos",
+    "Stone",
+    "Void",
+    "Crimson",
+    "Phantom"
+  ],
+  "suffixes": [
+    "Hammer",
+    "Blade",
+    "Fist",
+    "Reaper",
+    "Bringer",
+    "Slayer",
+    "Lord",
+    "Queen",
+    "King",
+    "Ripper",
+    "Crusher",
+    "Grinder",
+    "Shredder",
+    "Howler",
+    "Strangler",
+    "Mangler",
+    "Witch",
+    "Sorcerer",
+    "Knight",
+    "Guard"
+  ]
+}

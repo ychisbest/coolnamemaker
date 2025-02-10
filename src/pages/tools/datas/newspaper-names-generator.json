@@ -1,0 +1,85 @@
+{
+  "name": "Newspaper Name Generator",
+  "description": "Struggling to come up with a catchy name for your groundbreaking news publication? Fear not, intrepid journalist! Our Newspaper Name Generator is here to unleash a torrent of brilliant and attention-grabbing titles. From the serious and sophisticated to the quirky and captivating, we've got a name to suit every journalistic endeavor. Get ready to print!",
+  "slug": "newspaper-names-generator",
+  "icon": "\ud83d\udcf0",
+  "introduction": "So, you're starting a newspaper? Awesome! But before you start chasing down scoops and printing headlines, you need a name that screams 'trustworthy,' 'informative,' and maybe just a little bit 'badass.' That's where we come in. Our generator combines classic journalistic vibes with a sprinkle of modern flair, ensuring your paper stands out from the digital din.",
+  "howToUse": [
+    "1. Gaze intensely at the 'Generate' button. (It's mesmerizing, isn't it?)",
+    "2. Click said button. Prepare to be amazed.",
+    "3. Keep clicking until you find a name that makes you shout, 'Extra! Extra! Read all about it!'",
+    "4. Check if the domain name is available. (Crucial step, folks.)",
+    "5. Start printing! (Or, you know, publishing online.)",
+    "Bonus: If you're feeling adventurous, mix and match prefixes and suffixes for truly unique results."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Newspaper Name Generator is 100% free to use. We believe that everyone deserves a killer newspaper name, regardless of budget."
+    },
+    {
+      "question": "Can I use these names for a blog or online magazine?",
+      "answer": "You bet! While it's designed for newspapers, the names generated are versatile enough for any news-related publication, online or offline."
+    },
+    {
+      "question": "Are the generated names trademarked?",
+      "answer": "Nope! These are just suggestions. You'll need to do your own trademark research before using any name commercially. We don't want you getting sued!"
+    },
+    {
+      "question": "How many times can I use the generator?",
+      "answer": "As many times as your little heart desires! Click away until you find the perfect moniker for your journalistic masterpiece."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep generating! Or, get creative and use the generator as inspiration. Sometimes, a spark is all you need to ignite your own naming genius."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions, and we might just add them to the generator. Help us make it even more awesome!"
+    }
+  ],
+  "prefixes": [
+    "The Daily",
+    "The Weekly",
+    "Global",
+    "Local",
+    "City",
+    "Metro",
+    "National",
+    "Community",
+    "Independent",
+    "Citizen",
+    "Public",
+    "Headline",
+    "Breaking",
+    "Truth",
+    "Liberty",
+    "Beacon",
+    "Chronicle",
+    "Gazette",
+    "Post",
+    "Times"
+  ],
+  "suffixes": [
+    "News",
+    "Report",
+    "Journal",
+    "Observer",
+    "Tribune",
+    "Dispatch",
+    "Bulletin",
+    "Review",
+    "Star",
+    "Sun",
+    "Mirror",
+    "Press",
+    "Inquirer",
+    "Advocate",
+    "Herald",
+    "Leader",
+    "Voice",
+    "World",
+    "Record",
+    "Digest"
+  ]
+}

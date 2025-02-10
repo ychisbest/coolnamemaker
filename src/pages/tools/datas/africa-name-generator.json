@@ -1,0 +1,67 @@
+{
+  "name": "Africa Name Generator",
+  "description": "Unleash the power of names! Discover cool, unique, and evocative African-inspired names with our generator. Perfect for characters, projects, or just plain fun!",
+  "slug": "africa-name-generator",
+  "icon": "\ud83c\udf0d",
+  "introduction": "Ready to tap into the rich tapestry of African culture and history to create unforgettable names? Our Africa Name Generator blends tradition with a modern twist, offering a diverse range of names that resonate with strength, beauty, and mystique. Forget generic placeholders \u2013 let's craft a name that truly stands out!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A cool African-inspired name appears.",
+    "Don't like the first one? No problem! Keep clicking until you find the PERFECT name that speaks to your soul (or your character's soul, at least).",
+    "Feeling creative? Mix and match prefixes and suffixes from our lists to create your own custom combinations. Go wild!",
+    "Copy and paste your favorite names into your project, story, or even your social media bio. Prepare for the compliments to roll in!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "Our generator creates names inspired by various African cultures and languages. You'll find a mix of traditional, modern, and completely unique names, all with a distinct African flair."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! The names generated here are free for you to use in your projects, whether they're personal or commercial. Go forth and create!"
+    },
+    {
+      "question": "Are the names culturally accurate?",
+      "answer": "We strive for cultural sensitivity and accuracy, drawing inspiration from diverse African sources. However, names are often reinterpreted and adapted over time. We encourage you to research the origins and meanings of any name you choose to ensure it aligns with your intentions."
+    },
+    {
+      "question": "Can I contribute to the generator?",
+      "answer": "We'd love that! If you have suggestions for prefixes, suffixes, or improvements to the generator, please reach out to us through our contact form. Your input helps us make it even better!"
+    },
+    {
+      "question": "Is this generator really free?",
+      "answer": "Yes, indeed! Our Africa Name Generator is completely free to use. We believe everyone should have access to creative tools without breaking the bank."
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're always working to improve and expand our name database! Expect updates with new prefixes, suffixes, and name variations regularly. Stay tuned!"
+    }
+  ],
+  "prefixes": [
+    "Ayo",
+    "Zola",
+    "Imani",
+    "Kofi",
+    "Nia",
+    "Sefu",
+    "Thando",
+    "Abim",
+    "Ekon",
+    "Zuberi",
+    "Nandi",
+    "Jengo"
+  ],
+  "suffixes": [
+    "la",
+    "yo",
+    "ni",
+    "fu",
+    "to",
+    "bi",
+    "ko",
+    "ri",
+    "ka",
+    "ma",
+    "si",
+    "we"
+  ]
+}

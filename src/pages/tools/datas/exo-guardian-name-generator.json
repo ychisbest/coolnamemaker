@@ -1,0 +1,99 @@
+{
+  "name": "Exo Guardian Name Generator",
+  "description": "Unleash your inner space protector with our Exo Guardian Name Generator! Craft a name that resonates with cosmic power and intergalactic heroism. Ready to become a legend among the stars?",
+  "slug": "exo-guardian-name-generator",
+  "icon": "\ud83d\udee1\ufe0f",
+  "introduction": "In a universe teeming with threats, guardians rise to defend the innocent. But every guardian needs a name, a moniker that strikes fear into the hearts of villains and inspires hope in the downtrodden. Our generator will forge that name for you, blending celestial grandeur with unwavering resolve. Prepare to be christened!",
+  "howToUse": [
+    "First, brace yourself for awesomeness. Seriously, it's gonna be epic.",
+    "Click the 'Generate' button. (Yep, that's it!)",
+    "Behold! Your personalized Exo Guardian name appears, radiating pure, unadulterated coolness.",
+    "Not feeling it? Hit 'Generate' again for a fresh, cosmic twist. Keep going until you find the name that screams 'YOU!'",
+    "Now go forth and protect the galaxy... or at least brag about your awesome name online."
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* an Exo Guardian?",
+      "answer": "Think of them as space knights, cosmic cops, or intergalactic superheroes. They're the protectors of the universe, battling threats beyond our wildest imaginations. And now, you can be one... in name, at least!"
+    },
+    {
+      "question": "Will this generator give me a *real* superhero name?",
+      "answer": "While we can't guarantee instant superpowers, we *can* guarantee a name so cool, people will *think* you have them. Use it wisely!"
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! All names generated are free for you to use as you wish. Create stories, games, or anything else you desire."
+    },
+    {
+      "question": "Can I suggest new prefixes and suffixes?",
+      "answer": "We'd love to hear your ideas! Send them our way, and we might just add them to the generator. Help us make it even more awesome!"
+    },
+    {
+      "question": "My generated name is *too* cool. What do I do?",
+      "answer": "Embrace it! Revel in its awesomeness! The universe has spoken, and you, my friend, are destined for greatness. Just try not to let it go to your head... too much."
+    }
+  ],
+  "prefixes": [
+    "Nova",
+    "Astro",
+    "Celestial",
+    "Quantum",
+    "Galactic",
+    "Nebula",
+    "Cosmic",
+    "Stellar",
+    "Void",
+    "Zenith",
+    "Hyper",
+    "Shadow",
+    "Phoenix",
+    "Titan",
+    "Omega",
+    "Alpha",
+    "Spectra",
+    "Ember",
+    "Frost",
+    "Echo",
+    "Rune",
+    "Sol",
+    "Lunar",
+    "Terra",
+    "Chrono",
+    "Aether",
+    "Zenith",
+    "Vanguard",
+    "Sentinel",
+    "Oracle"
+  ],
+  "suffixes": [
+    "Guard",
+    "Shield",
+    "Blazer",
+    "Striker",
+    "Wing",
+    "Knight",
+    "Rider",
+    "Hunter",
+    "Valkyrie",
+    "Storm",
+    "Walker",
+    "Slayer",
+    "Master",
+    "Ace",
+    "Specter",
+    "Prime",
+    "Force",
+    "Star",
+    "Flare",
+    "Bringer",
+    "Weaver",
+    "Sage",
+    "Mystic",
+    "Aegis",
+    "Enforcer",
+    "Warden",
+    "Paladin",
+    "Avenger",
+    "Savior"
+  ]
+}

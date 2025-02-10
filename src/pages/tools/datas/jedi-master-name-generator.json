@@ -1,0 +1,64 @@
+{
+  "name": "Jedi Master Name Generator",
+  "description": "Unleash your inner Force-wielder and discover your destiny with our Jedi Master Name Generator! Because let's face it, 'Dave' just doesn't cut it when you're battling the Dark Side.",
+  "slug": "jedi-master-name-generator",
+  "icon": "\u2728",
+  "introduction": "Ever dreamt of leading the Jedi Order? First step: a name that screams wisdom, power, and a deep connection to the Force. Our generator combines ancient lore and a touch of cosmic randomness to forge your legendary Jedi moniker. May the Force (and our algorithm) be with you!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the awesomeness of your new Jedi name.",
+    "Repeat until you find the perfect title that resonates with your inner Jedi.",
+    "Practice saying it in a deep, authoritative voice. (Optional, but highly encouraged.)",
+    "Go forth and bring balance to the Force...or at least impress your friends at the next Star Wars marathon."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator canon?",
+      "answer": "While we strive for authenticity, this generator is primarily for fun. Your official Jedi status is still pending approval from the Jedi Council (and Disney)."
+    },
+    {
+      "question": "Can I use this name in my Star Wars fan fiction?",
+      "answer": "Absolutely! Consider it a gift from the Force. Just promise to give us a shout-out when your story becomes a galactic bestseller."
+    },
+    {
+      "question": "What if I don't like the name I get?",
+      "answer": "Fear not, young Padawan! Simply regenerate until you find a name that suits your destiny. The Force works in mysterious ways... and so does our algorithm."
+    },
+    {
+      "question": "Are the names generated based on actual Star Wars characters?",
+      "answer": "We've drawn inspiration from the Star Wars universe, but the names are uniquely generated. You might find echoes of familiar sounds and styles, but your name will be all your own."
+    },
+    {
+      "question": "Will this generator help me develop my Force powers?",
+      "answer": "While we can't guarantee telekinesis or mind control, a great name is a powerful first step. Confidence is key, and a cool Jedi name can work wonders for your self-esteem... and your midichlorian count (maybe)."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, this generator is completely free to use. May the Force (and our free service) be with you always."
+    }
+  ],
+  "prefixes": [
+    "Master",
+    "Grand Master",
+    "Jedi Master",
+    "High Master",
+    "Supreme Master",
+    "Honorable Master",
+    "Sage Master",
+    "Ancient Master",
+    "Noble Master",
+    "Revered Master"
+  ],
+  "suffixes": [
+    "Windu",
+    "Kenobi",
+    "Yoda",
+    "Skywalker",
+    "Unduli",
+    "Plo Koon",
+    "Billaba",
+    "Even Piell",
+    "Ki-Adi-Mundi",
+    "Luminara"
+  ]
+}

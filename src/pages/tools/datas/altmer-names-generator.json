@@ -1,0 +1,68 @@
+{
+  "name": "Altmer Name Generator",
+  "description": "Craft the perfect, ethereal Altmer name with our generator! Channel the ancient magic and high elven elegance with a single click. Ready to sound like you belong in Summerset Isle?",
+  "slug": "altmer-name-generator",
+  "icon": "\ud83e\udddd",
+  "introduction": "Dive into the world of the Altmer, the High Elves of Tamriel! Known for their intelligence, grace, and long lifespans, the Altmer boast names that are as elegant and sophisticated as their culture. Whether you're creating a character for your next RPG campaign, writing a fantasy novel, or just curious about elven nomenclature, this generator will help you conjure the perfect name, imbued with the mystique of Summerset Isle.",
+  "howToUse": [
+    "Hit that 'Generate' button like you're casting a powerful spell!",
+    "Keep clicking until a name resonates with your inner elf.",
+    "Feeling adventurous? Mix and match prefixes and suffixes for a truly unique creation.",
+    "Don't be afraid to tweak the results \u2013 a little alteration can make a name perfect for *your* Altmer.",
+    "Share your awesome Altmer name with your friends and show off your elven creativity!"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *are* Altmer names based on?",
+      "answer": "Altmer names often reflect their noble lineage and connection to magic. They tend to be melodic and incorporate elements of their ancient language."
+    },
+    {
+      "question": "Can I use these names for my Elder Scrolls Online character?",
+      "answer": "Absolutely! These names are perfect for adding authenticity to your Altmer character in ESO or any other fantasy setting."
+    },
+    {
+      "question": "Are the generated names lore-accurate?",
+      "answer": "While we strive for authenticity, we also prioritize creativity. Some names may be inspired by lore but are ultimately designed to sound fitting and unique."
+    },
+    {
+      "question": "Can I combine parts of different generated names?",
+      "answer": "Definitely! Feel free to mix and match prefixes and suffixes to create a truly personalized Altmer name."
+    },
+    {
+      "question": "I don't like any of the generated names. What should I do?",
+      "answer": "Keep generating! The possibilities are nearly endless. Or, use the generated names as inspiration to craft your own unique creation. Think about what sounds elegant and powerful, then play around with different combinations."
+    },
+    {
+      "question": "Are these names gender-specific?",
+      "answer": "While some names might lean slightly masculine or feminine, many Altmer names are fairly gender-neutral. Feel free to choose whatever resonates best with your character!"
+    }
+  ],
+  "prefixes": [
+    "Ael",
+    "Ara",
+    "Elar",
+    "Fin",
+    "Lan",
+    "Mer",
+    "Naer",
+    "Quel",
+    "Riel",
+    "Sel",
+    "Val",
+    "Xan"
+  ],
+  "suffixes": [
+    "anor",
+    "dir",
+    "iel",
+    "ion",
+    "mir",
+    "niel",
+    "onar",
+    "quiel",
+    "riel",
+    "sil",
+    "thiel",
+    "vor"
+  ]
+}

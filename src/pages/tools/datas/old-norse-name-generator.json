@@ -1,0 +1,84 @@
+{
+  "name": "Old Norse Name Generator",
+  "description": "Unleash your inner Viking! Discover epic Old Norse names worthy of sagas and longboats. Perfect for characters, projects, or just finding your true, historically awesome self.",
+  "slug": "old-norse-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Ever dreamt of raiding coastlines, feasting in Valhalla, or wielding the power of the gods? It all starts with the right name! Our Old Norse Name Generator crafts authentic, historically-inspired names dripping with Norse mythology and Viking swagger. Prepare to be named... and conquered!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A name worthy of Odin himself will appear.",
+    "Feeling picky? Click again! We've got a whole horde of names waiting to be unleashed.",
+    "Want something truly unique? Tweak the prefixes and suffixes to forge your own legendary moniker. Be warned: ultimate power comes with ultimate responsibility (and maybe a little mead).",
+    "Copy your favorite name and share it with your friends! Let them know you've embraced your inner Viking (or shieldmaiden).",
+    "Use your new name for characters, stories, games, or even just to confuse your barista. The possibilities are as endless as the Bifrost!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names historically accurate?",
+      "answer": "Mostly! We draw inspiration from Old Norse literature, sagas, and historical records. While we can't guarantee your name was borne by a specific Viking, we strive for authenticity and a genuine Norse feel. Think of it as historically *inspired* rather than a strict historical database."
+    },
+    {
+      "question": "Can I use these names for my book/game/pet?",
+      "answer": "Absolutely! Go forth and conquer! These names are perfect for breathing life into characters, adding depth to your world-building, or giving your furry (or scaly) friend a truly epic title."
+    },
+    {
+      "question": "What do these names actually *mean*?",
+      "answer": "Many Old Norse names have meanings tied to strength, courage, gods, or nature. While we don't provide direct translations for *every* generated name (that would be a *lot* of research!), we encourage you to delve into the etymology. A little Google-fu can reveal fascinating insights into their origins and symbolism!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to add?",
+      "answer": "We're always open to suggestions! Send us your ideas and we'll consider adding them to the generator. Help us build the ultimate Norse name arsenal!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Aye, it is! Plunder and pillage names to your heart's content! We believe everyone deserves a name worthy of the gods (without having to sacrifice a goat... unless you're into that kind of thing)."
+    },
+    {
+      "question": "What if I don't like the name I get?",
+      "answer": "Then click again! We have countless combinations, and the Fates are fickle. Keep trying until you find a name that resonates with your inner Viking spirit."
+    }
+  ],
+  "prefixes": [
+    "Thor",
+    "Odin",
+    "Freya",
+    "Ragnar",
+    "Bjorn",
+    "Astrid",
+    "Solveig",
+    "Ivar",
+    "Gun",
+    "Hilda",
+    "Sig",
+    "Val",
+    "As",
+    "Ing",
+    "Liv",
+    "Grim",
+    "Hrafn",
+    "Egil",
+    "Ketil",
+    "Thord"
+  ],
+  "suffixes": [
+    "son",
+    "dottir",
+    "bjorn",
+    "dis",
+    "geir",
+    "hild",
+    "unn",
+    "brand",
+    "vald",
+    "stein",
+    "ar",
+    "mod",
+    "fast",
+    "gard",
+    "laug",
+    "frid",
+    "thor",
+    "olf",
+    "mund",
+    "grim"
+  ]
+}

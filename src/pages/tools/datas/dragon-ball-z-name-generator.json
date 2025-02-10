@@ -1,0 +1,82 @@
+{
+  "name": "Dragon Ball Z Name Generator",
+  "description": "Unleash your inner Saiyan! Get a totally rad Dragon Ball Z name that's more powerful than a Kamehameha!",
+  "slug": "dragon-ball-z-name-generator",
+  "icon": "\ud83d\udc09",
+  "introduction": "Ever wondered what your name would be if you were a Z Fighter or a fearsome villain in the Dragon Ball Z universe? Look no further! This generator will transform your ordinary moniker into something truly legendary. Prepare for awesome!",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's easier than powering up to Super Saiyan!",
+    "Don't like the name? Keep clicking! We've got more combinations than there are Dragon Balls.",
+    "Share your epic DBZ name with your friends and see who has the most powerful sounding alias!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually endorsed by Akira Toriyama?",
+      "answer": "While we wish it were, sadly no. This is just a fan-made tool for fun. But hey, maybe he'll use it someday!"
+    },
+    {
+      "question": "Can I use these names for my Dragon Ball Z fan fiction?",
+      "answer": "Absolutely! Go wild! Just remember to give credit where credit is due (to the awesome power of random name generation!)."
+    },
+    {
+      "question": "Will this generator give me a power level?",
+      "answer": "Unfortunately, no power levels are included. You'll have to sense that yourself, maybe try shouting really loud. (Results may vary.)"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! With so many combinations, you're bound to find a name that resonates with your inner Super Saiyan. Or, you know, just refresh the page and start again."
+    },
+    {
+      "question": "Is this generator compatible with my scouter?",
+      "answer": "Probably not, but it's definitely more stylish. Plus, it won't explode if someone's power level is too high. (Seriously, those things were unreliable.)"
+    },
+    {
+      "question": "Can I request specific prefixes or suffixes?",
+      "answer": "While we can't take individual requests, we're always looking for ways to improve the generator! Feel free to send us your suggestions!"
+    }
+  ],
+  "prefixes": [
+    "Super",
+    "Ultra",
+    "Hyper",
+    "Omega",
+    "Dark",
+    "Shadow",
+    "Burning",
+    "Cosmic",
+    "Galactic",
+    "Mystic",
+    "Saiyan",
+    "Frieza's",
+    "Perfect",
+    "Majin",
+    "Android",
+    "Ultimate",
+    "Future",
+    "Supreme",
+    "Elite",
+    "Legendary"
+  ],
+  "suffixes": [
+    "Blast",
+    "Strike",
+    "Fist",
+    "Wave",
+    "Aura",
+    "Power",
+    "Surge",
+    "Fury",
+    "Rage",
+    "Force",
+    "Buster",
+    "Smasher",
+    "Defender",
+    "Warrior",
+    "Hunter",
+    "Destroyer",
+    "Guardian",
+    "Avenger",
+    "Champion",
+    "God"
+  ]
+}

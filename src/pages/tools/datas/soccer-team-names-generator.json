@@ -1,0 +1,92 @@
+{
+  "name": "Soccer Team Name Generator",
+  "description": "Struggling to find the perfect name for your soccer team? Kick your brainstorming into high gear with our generator! We'll help you score a name that's both memorable and intimidating.",
+  "slug": "soccer-team-names-generator",
+  "icon": "\u26bd",
+  "introduction": "So, you've got the skills, the players, and the burning desire to dominate the field. But what's a team without a killer name? A team with a boring name, that's what! Don't settle for 'The Blue Whatevers.' Let our Soccer Team Name Generator unleash a torrent of awesome, creative, and downright hilarious names that will have your opponents shaking in their cleats. Get ready to become a legend, one perfectly-named goal at a time!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen!",
+    "Don't like the first result? Keep clicking! We've got a whole roster of names waiting to be discovered.",
+    "Feeling picky? Mix and match your favorite prefixes and suffixes to create a truly unique name that reflects your team's personality...or lack thereof.",
+    "Once you've found the perfect name, shout it from the rooftops! (Or at least share it with your teammates.)",
+    "And most importantly, go out there and win! Victory tastes even sweeter with a legendary name."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe that everyone deserves a cool soccer team name, regardless of their budget. Consider it our gift to the beautiful game."
+    },
+    {
+      "question": "Can I use the names generated for commercial purposes?",
+      "answer": "Sure thing! Once we generate the name, it's yours to use as you see fit. Build an empire, sell merchandise, conquer the world... it all starts with a great name!"
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep generating! We have countless combinations. Or get inspired and create your own based on the suggestions. The possibilities are as endless as the offside rule debates!"
+    },
+    {
+      "question": "Will using a cool name actually make my team better?",
+      "answer": "While we can't guarantee improved performance, we're pretty sure a fearsome name will intimidate your opponents and boost your team's morale. Think of it as psychological warfare... with better branding."
+    },
+    {
+      "question": "My team is terrible. Can this generator help?",
+      "answer": "Look, we're not miracle workers. But a great name might distract everyone from your losing streak. Plus, it'll give you something to laugh about during those tough losses. Silver linings, people, silver linings!"
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly adding fresh and exciting names to our database to keep things interesting! Check back regularly for new inspiration."
+    }
+  ],
+  "prefixes": [
+    "Atomic",
+    "Blazing",
+    "Crimson",
+    "Dynamic",
+    "Electric",
+    "Furious",
+    "Galactic",
+    "Hyper",
+    "Iron",
+    "Jungle",
+    "Lunar",
+    "Mystic",
+    "Neon",
+    "Omega",
+    "Phantom",
+    "Quantum",
+    "Rapid",
+    "Solar",
+    "Thunder",
+    "Ultimate",
+    "Venomous",
+    "Wild",
+    "Xtreme",
+    "Zenith"
+  ],
+  "suffixes": [
+    "Strikers",
+    "United",
+    "FC",
+    "Rovers",
+    "Warriors",
+    "Eagles",
+    "Sharks",
+    "Lions",
+    "Tigers",
+    "Panthers",
+    "Wolves",
+    "Falcons",
+    "Dragons",
+    "Vikings",
+    "Gladiators",
+    "Spartans",
+    "Rangers",
+    "Knights",
+    "Stars",
+    "Comets",
+    "Galaxy",
+    "Inferno",
+    "Storm",
+    "Dynamo"
+  ]
+}

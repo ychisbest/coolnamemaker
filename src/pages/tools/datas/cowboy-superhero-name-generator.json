@@ -1,0 +1,75 @@
+{
+  "name": "Cowboy Superhero Name Generator",
+  "description": "Saddle up, partner! Need a rootin' tootin' name that's both heroic and Wild West approved? This generator will lasso you the perfect moniker for your cowboy superhero alter ego. Get ready to ride off into the sunset with a name that's faster than a speeding bullet!",
+  "slug": "cowboy-superhero-name-generator",
+  "icon": "\ud83e\udd20",
+  "introduction": "Ever dreamt of being a superhero with a ten-gallon hat and a heart of gold? This is where your legend begins! Our Cowboy Superhero Name Generator combines the grit of the Wild West with the power of a superhero. Forget Clark Kent, say hello to Dusty Dynamo! Your adventure starts now...",
+  "howToUse": [
+    "First, take a deep breath and imagine yourself riding a horse into the sunset... or maybe flying over it, 'cause, you know, superhero.",
+    "Click the 'Generate' button and BAM! A name appears, forged in the heart of the Wild West and powered by superheroic awesomeness.",
+    "Don't like the first name? No sweat! Keep clicking until you find the one that makes you wanna shout 'Yeehaw!' and save the day.",
+    "Once you've got your perfect moniker, brand it on your heart (figuratively, of course) and get ready to fight crime, cowboy style!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my comic book character?",
+      "answer": "Absolutely! These names are yours to use for your comic book, novel, role-playing game, or any other creative project you can dream up. Go forth and create!"
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! These names are freshly generated and free for you to use. However, we recommend doing a quick search to ensure it's not already in use by a major superhero corporation."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep hitting that 'Generate' button! There are countless combinations, and we're confident you'll find a name that resonates with your inner cowboy superhero. Or, you know, tweak one to perfection!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes?",
+      "answer": "We're always open to suggestions! Feel free to send us your ideas through our contact form. Who knows, maybe your suggestion will become the next big thing in cowboy superhero names!"
+    },
+    {
+      "question": "Will this generator give me superpowers?",
+      "answer": "While we can't guarantee superpowers, we can guarantee a name that's so cool, it'll feel like you have them! The rest is up to you, partner."
+    },
+    {
+      "question": "Is this generator suitable for villains too?",
+      "answer": "The Wild West had its share of outlaws, and superheroes have their archenemies. If you're looking for a name for your cowboy supervillain, this generator can help with that too! Just imagine a name that strikes fear into the hearts of even the bravest cowboys."
+    }
+  ],
+  "prefixes": [
+    "Dusty",
+    "Blazing",
+    "Rattlesnake",
+    "Steel",
+    "Whispering",
+    "Lone",
+    "Cactus",
+    "Thunder",
+    "Quickdraw",
+    "Iron",
+    "Maverick",
+    "Wild",
+    "Renegade",
+    "Prairie",
+    "Canyon",
+    "Desperado"
+  ],
+  "suffixes": [
+    "Kid",
+    "Justice",
+    "Star",
+    "Dynamo",
+    "Ranger",
+    "Hawk",
+    "Marshal",
+    "Vigilante",
+    "Blaster",
+    "Slinger",
+    "Cyclone",
+    "Phantom",
+    "Outlaw",
+    "Striker",
+    "Warrior",
+    "Sentinel"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Bloodborne Name Generator",
+  "description": "Unleash your inner Hunter with our Bloodborne Name Generator! Craft the perfect moniker to strike fear into the hearts of beasts in Yharnam. Are you ready to face the Hunt?",
+  "slug": "bloodborne-name-generator",
+  "icon": "\ud83e\ude78",
+  "introduction": "Welcome, Hunter, to the Bloodborne Name Generator! Tired of being just another face in the crowd of hunters? Yearning for a name that echoes through the gothic streets of Yharnam? Look no further! This generator will forge a name worthy of your legend, steeped in the lore and dripping with the chilling atmosphere of Bloodborne. Prepare to embrace the hunt with a name that truly embodies your destiny.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the birth of your new, terrifyingly cool Bloodborne name!",
+    "Don't like the first result? Keep clicking! The hunt never ends, and neither does the flow of awesome names.",
+    "Feeling creative? Tweak the prefixes and suffixes to craft a name that's uniquely *you* (or at least, uniquely your Hunter).",
+    "Once you've found the perfect name, proudly proclaim it to the world! (Or at least, to your fellow Bloodborne players.)"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "This generator crafts names inspired by the dark, gothic world of Bloodborne. Expect names with a touch of the macabre, the mysterious, and the downright terrifying!"
+    },
+    {
+      "question": "Can I use these names for my Bloodborne character?",
+      "answer": "Absolutely! That's precisely what this generator is for. Go forth and give your Hunter a name that strikes fear into the hearts of the beasts!"
+    },
+    {
+      "question": "Are the names lore-friendly?",
+      "answer": "We've done our best to ensure the names fit the tone and style of Bloodborne. While not officially canon, they're designed to feel right at home in Yharnam."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always looking for ways to improve! Feel free to send your suggestions our way. If they're suitably spooky, we might just add them!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, absolutely! Unleash your inner Hunter and generate as many names as your heart desires. The hunt is on, and it's completely free!"
+    },
+    {
+      "question": "Will using this generator make me better at Bloodborne?",
+      "answer": "While we can't guarantee your skill will improve, having a cool name certainly *feels* like it gives you an edge. Plus, you'll look awesome while dying repeatedly!"
+    }
+  ],
+  "prefixes": [
+    "Blood-",
+    "Shadow-",
+    "Grim-",
+    "Pale-",
+    "Corpse-",
+    "Ashen-",
+    "Hunter's ",
+    "Beast's ",
+    "Nightmare ",
+    "Yharnam's ",
+    "Old ",
+    "Madman's ",
+    "Whispering ",
+    "Forgotten ",
+    "Cursed ",
+    "Silent ",
+    "Lost ",
+    "Doomed ",
+    "Eternal ",
+    "Crimson "
+  ],
+  "suffixes": [
+    "-fang",
+    "-claw",
+    "-bane",
+    "-shade",
+    "-walker",
+    "-slayer",
+    "-blood",
+    "-scourge",
+    "-watcher",
+    "-hand",
+    "-eye",
+    "-heart",
+    "-soul",
+    "-blade",
+    "-grim",
+    "-veil",
+    "-whisper",
+    "-doom",
+    "-king",
+    "-queen",
+    "-knight",
+    "-hunter"
+  ]
+}

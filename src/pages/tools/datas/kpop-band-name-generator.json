@@ -1,0 +1,83 @@
+{
+  "name": "K-Pop Band Name Generator",
+  "description": "Ready to debut, but your group's name is stuck in rehearsal? Our K-Pop Band Name Generator is here to sprinkle some stardust on your sound! Get ready to unleash a name that's as catchy as your next hit.",
+  "slug": "kpop-band-name-generator",
+  "icon": "\ud83c\udfa4",
+  "introduction": "So, you've got the vocals, the choreography, and the charisma. But what's a K-Pop sensation without a name that screams 'next big thing'? Our generator blends Korean inspiration with global appeal, crafting names that are as unique and unforgettable as your group. Get ready to top the charts!",
+  "howToUse": [
+    "Feeling uninspired? Just hit that 'Generate' button and watch the magic happen! We'll serve up a smorgasbord of K-Pop worthy names.",
+    "Don't like the first batch? No problem! Keep clicking until you find 'the one' \u2013 the name that resonates with your group's vibe and vision.",
+    "Got a favorite? Jot it down! Mix and match prefixes and suffixes to create a name that's totally, utterly YOU. Think of it as your own personal K-Pop naming lab!",
+    "Share your top picks with your bandmates and let the voting begin! May the best name win...and launch you to superstardom!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually Korean?",
+      "answer": "While we draw inspiration from Korean culture and language, the names are designed to resonate with a global audience. Think of it as K-Pop fusion for names!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once you find a name you love, it's yours to use for your band, your merchandise, and your world domination plans. Just be sure to check for trademark availability."
+    },
+    {
+      "question": "Will this generator guarantee my band's success?",
+      "answer": "While we can't promise chart-topping hits (that's up to your talent!), we can guarantee a killer name that will make you stand out from the crowd. Consider it a vital ingredient in your recipe for success."
+    },
+    {
+      "question": "Are the generated names random?",
+      "answer": "We've carefully curated prefixes and suffixes that evoke the spirit of K-Pop. So, while the combinations are random, the results are always on-trend and ready to slay."
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're constantly adding new prefixes and suffixes to keep the names fresh and exciting. Check back often to discover even more potential band names!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! We've got a virtually endless supply of combinations. Or, use the generator as a springboard for your own creativity. Sometimes, all it takes is a little spark to ignite a brilliant idea!"
+    }
+  ],
+  "prefixes": [
+    "Star",
+    "Moon",
+    "Dream",
+    "Nova",
+    "Echo",
+    "Soul",
+    "Crimson",
+    "Azure",
+    "Mystic",
+    "Neon",
+    "Silver",
+    "Golden",
+    "Royal",
+    "Eternal",
+    "Infinite",
+    "Vivid",
+    "Luminous",
+    "Chromatic",
+    "Zenith",
+    "Apex"
+  ],
+  "suffixes": [
+    "Wave",
+    "Pulse",
+    "Bloom",
+    "Shine",
+    "Rise",
+    "Beat",
+    "Code",
+    "Rush",
+    "Vibe",
+    "Flux",
+    "Storm",
+    "Light",
+    "Fire",
+    "Force",
+    "Crew",
+    "Xion",
+    "Verse",
+    "Nation",
+    "Era",
+    "Axis"
+  ]
+}

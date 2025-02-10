@@ -1,0 +1,92 @@
+{
+  "name": "Weapon Name Generator",
+  "description": "Craft legendary weapon names that strike fear into the hearts of your enemies! Unleash the power of imagination and forge names worthy of the mightiest blades, the deadliest bows, and the most devastating spells.",
+  "slug": "weapon-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Tired of calling your +5 Vorpal Sword 'Swordy'? Yearning for a name that truly captures the essence of your handcrafted plasma rifle? Our Weapon Name Generator is here to arm you with an arsenal of awesome titles! From fantasy epics to sci-fi showdowns, we've got the perfect moniker for your instrument of destruction. Prepare to unleash a torrent of creatively crafted weapon names that will leave your rivals trembling!",
+  "howToUse": [
+    "First, decide what kind of vibe you're going for. Do you want something epic and mythical, or sleek and futuristic?",
+    "Click the 'Generate' button and behold the magic! We'll conjure up a unique weapon name just for you.",
+    "Don't like what you see? No sweat! Just keep clicking until you find the perfect fit. It's like trying on enchanted gloves, but for names!",
+    "Copy your favorite name and bestow it upon your weapon. Then, go forth and conquer... or at least, win the next round of your favorite game."
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my fantasy novel?",
+      "answer": "Absolutely! These names are designed to spark your imagination and add flair to your creative projects. Feel free to use them as inspiration or adopt them outright. Just try not to name every sword 'Doomslayer', okay?"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes, the names are based on a combination of prefixes and suffixes, resulting in a wide variety of unique and unexpected combinations. Prepare for some seriously awesome (and occasionally hilarious) results!"
+    },
+    {
+      "question": "Can I submit my own prefixes and suffixes?",
+      "answer": "Not at the moment, but we're always looking for ways to improve! Stay tuned for future updates and features. In the meantime, feel free to send us your suggestions \u2013 we'd love to hear them!"
+    },
+    {
+      "question": "Will these names actually make my weapon more powerful?",
+      "answer": "While we can't guarantee any magical enhancements, a great name can certainly boost your confidence and intimidate your opponents. So, the answer is a resounding maybe! (Results may vary.)"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, it's completely free! Unleash your creativity without spending a single gold coin. Consider it our gift to the world of awesome weapon names."
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "Yes, you are free to use the generated names for commercial projects, such as games, books, or other creative works. However, please note that we do not guarantee the uniqueness or trademark availability of the generated names. It is your responsibility to ensure that the name you choose does not infringe on any existing trademarks or copyrights."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Storm",
+    "Dragon",
+    "Phoenix",
+    "Frost",
+    "Inferno",
+    "Void",
+    "Celestial",
+    "Crimson",
+    "Obsidian",
+    "Venom",
+    "Rune",
+    "Soul",
+    "Echo",
+    "Silent",
+    "Iron",
+    "Steel",
+    "Silver",
+    "Gold",
+    "Thunder",
+    "Night",
+    "Dawn",
+    "Blood",
+    "Grave"
+  ],
+  "suffixes": [
+    "Bringer",
+    "Blade",
+    "Scythe",
+    "Hammer",
+    "Bow",
+    "Staff",
+    "Edge",
+    "Strike",
+    "Claw",
+    "Fang",
+    "Whisper",
+    "Fury",
+    "Reaper",
+    "Caller",
+    "Weaver",
+    "Guard",
+    "Slayer",
+    "Breaker",
+    "Shredder",
+    "Brand",
+    "Justice",
+    "Doom",
+    "Vengeance",
+    "Despair",
+    "Torment"
+  ]
+}

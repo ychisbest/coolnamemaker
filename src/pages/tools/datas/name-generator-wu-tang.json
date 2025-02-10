@@ -1,0 +1,83 @@
+{
+  "name": "Wu-Tang Name Generator",
+  "description": "Enter the 36th Chamber of Name Creation! Find your Shaolin-approved moniker with our Wu-Tang Name Generator.  Protect ya neck... and your identity!",
+  "slug": "wu-tang-name-generator",
+  "icon": "\ud83c\udfa4",
+  "introduction": "Yo, check it! Ever wondered what RZA, GZA, or Ol' Dirty Bastard would call *you* if you were down with the Wu-Tang Clan?  This ain't no ordinary name generator; it's your express ticket to Staten Island, baby!  We're talking about crafting names so authentic, they'll have you spitting rhymes and rocking Timberlands in no time.  Get ready to unleash your inner Ghostface Killah!",
+  "howToUse": [
+    "First, close your eyes and channel your inner Kung Fu master. Think about what makes you unique \u2013 are you the brain, the muscle, or the wild card?",
+    "Next, smash that 'Generate' button like you're breaking through a brick wall with your bare hands! (Figuratively, please. We're not responsible for property damage.)",
+    "Behold! Your Wu-Tang name is revealed! Prepare to be amazed... or slightly confused. Either way, it's gonna be epic.",
+    "Don't like your first result? Keep generating! There are more combinations than there are verses on 'Enter the Wu-Tang (36 Chambers)'.",
+    "Finally, spread your Wu-Tang name far and wide! Update your social media, challenge your friends to a rap battle, and let the world know you're a force to be reckoned with."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually affiliated with the Wu-Tang Clan?",
+      "answer": "While we'd love to say we're tight with RZA, GZA, and the whole crew, this is just a fan-made project.  Consider it a tribute to their lyrical genius and undeniable style."
+    },
+    {
+      "question": "Will using this generator make me a better rapper?",
+      "answer": "We can't guarantee instant lyrical prowess, but having a killer Wu-Tang name is definitely a step in the right direction.  The rest is up to you, young grasshopper."
+    },
+    {
+      "question": "Can I use my generated name for business purposes?",
+      "answer": "Go for it!  Just imagine the street cred you'll get when you introduce yourself as 'Method Man Accounting' or 'Inspectah Deck Design'.  Just maybe clear it with your boss first."
+    },
+    {
+      "question": "What if I don't like the name the generator gives me?",
+      "answer": "No problem!  Just hit that 'Generate' button again.  There are countless possibilities, so you're bound to find a name that resonates with your inner Wu-Tang warrior."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Absolutely!  Our gift to you, the Wu-Tang faithful.  Now go forth and spread the Wu (names, that is)!"
+    },
+    {
+      "question": "Are the names generated culturally appropriate?",
+      "answer": "This generator is designed for fun and entertainment. While inspired by the Wu-Tang Clan's aesthetic and style, it does not aim to represent any specific cultural or ethnic group. We encourage users to be mindful and respectful when using the generated names."
+    }
+  ],
+  "prefixes": [
+    "Iron",
+    "Shadow",
+    "Silent",
+    "Ghostface",
+    "Inspectah",
+    "Method",
+    "Raekwon",
+    "U-God",
+    "Masta",
+    "Dirty",
+    "Killer",
+    "Rebel",
+    "Golden",
+    "Crimson",
+    "Grand",
+    "Supreme",
+    "Mystic",
+    "Dark",
+    "Deadly"
+  ],
+  "suffixes": [
+    "Killah",
+    "Assassin",
+    "Master",
+    "Warlock",
+    "Destroyer",
+    "Enforcer",
+    "Samurai",
+    "Ninja",
+    "Monk",
+    "Disciple",
+    "Warrior",
+    "Prophet",
+    "Sage",
+    "Titan",
+    "Phantom",
+    "Specter",
+    "Ruler",
+    "General",
+    "Commander",
+    "Vandal"
+  ]
+}

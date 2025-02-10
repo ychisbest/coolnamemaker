@@ -1,0 +1,83 @@
+{
+  "name": "Neopet Name Generator",
+  "description": "Struggling to name your new Neopet? Fear not, intrepid owner! Our generator conjures up the coolest, most unforgettable names this side of Neopia Central. Get ready for instant pet fame!",
+  "slug": "neopet-name-generator",
+  "icon": "\ud83d\udc3e",
+  "introduction": "So, you've just adopted a brand-new Neopet. Congratulations! Now comes the hard part: giving your fluffy, scaly, or robotic friend a name that's as unique and awesome as they are. Don't settle for 'Fluffy123' \u2013 unleash the power of our Neopet Name Generator and discover a moniker worthy of a champion!",
+  "howToUse": [
+    "Simply click the 'Generate' button. Prepare to be amazed!",
+    "Keep clicking until you find a name that makes your Neopet's little heart sing.",
+    "Once you've found 'the one,' copy and paste it into Neopets.com. Boom! Instant Neopian legend.",
+    "Share your awesome name with your friends. Bragging rights are totally included."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually magical?",
+      "answer": "While we can't *officially* confirm magic, the results are pretty darn close. We use a highly sophisticated algorithm (and maybe a sprinkle of fairy dust) to create unique names."
+    },
+    {
+      "question": "Can I use these names for other things besides Neopets?",
+      "answer": "Absolutely! Use them for your RPG characters, your pets in real life, or even your next indie band. The possibilities are endless!"
+    },
+    {
+      "question": "Are the generated names actually available on Neopets?",
+      "answer": "We can't guarantee that every single name is available (some lucky Neopians might have snatched them up already!), but we do our best to provide fresh and unique options. If your first choice is taken, just keep generating!"
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! There's no limit. Go wild and find the *perfect* name."
+    },
+    {
+      "question": "Will using this generator make my Neopet more popular?",
+      "answer": "A cool name is definitely a great start! While we can't guarantee instant fame, a memorable moniker will certainly help your Neopet stand out from the crowd."
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yep! Use it as much as you like, completely free. We just want to help you find the most EPIC name for your new Neopet!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Sparkle",
+    "Mystic",
+    "Glimmer",
+    "Crimson",
+    "Aqua",
+    "Lunar",
+    "Solar",
+    "Neon",
+    "Pixel",
+    "Byte",
+    "Glitch",
+    "Nova",
+    "Astro",
+    "Zenith",
+    "Echo",
+    "Rune",
+    "Storm",
+    "Frost",
+    "Ember"
+  ],
+  "suffixes": [
+    "claw",
+    "wing",
+    "fang",
+    "tail",
+    "eye",
+    "heart",
+    "soul",
+    "spirit",
+    "shade",
+    "bloom",
+    "flare",
+    "stream",
+    "wave",
+    "dust",
+    "spark",
+    "light",
+    "whisper",
+    "dream",
+    "song",
+    "gaze"
+  ]
+}

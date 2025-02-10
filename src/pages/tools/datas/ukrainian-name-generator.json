@@ -1,0 +1,83 @@
+{
+  "name": "Ukrainian Name Generator",
+  "description": "Unleash your inner Cossack! Need a name that resonates with the spirit of Ukraine? Look no further. Our generator crafts authentic-sounding Ukrainian names perfect for characters, stories, or just plain fun. Discover your Ukrainian alter ego today!",
+  "slug": "ukrainian-name-generator",
+  "icon": "\ud83c\uddfa\ud83c\udde6",
+  "introduction": "Dive into the rich tapestry of Ukrainian culture with our name generator! Whether you're writing a novel, developing a game, or simply curious about your heritage, we'll help you conjure up a name that's both evocative and undeniably Ukrainian. Get ready to embrace your inner Volodymyr or Olena!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new, totally awesome Ukrainian name appears!",
+    "Don't like the first result? No problem! Click again for endless possibilities. We've got more names than there are borscht recipes!",
+    "Feeling creative? Tweak the prefixes and suffixes to create a name that's uniquely YOU. It's like being a name alchemist, but with less bubbling and more brilliance!",
+    "Copy your favorite names and share them with your friends. Spread the Ukrainian love!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually Ukrainian?",
+      "answer": "Absolutely! We've consulted with Ukrainian linguists and historians to ensure the names are authentic and culturally relevant. We're not just making stuff up (though that would be fun too!)."
+    },
+    {
+      "question": "Can I use these names for my book/game/pet hamster?",
+      "answer": "Go for it! These names are free to use for any purpose you desire. Unleash your creativity and let the Ukrainian spirit guide you!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With our vast database of prefixes and suffixes, you're bound to find a name that resonates with you. Persistence is key, my friend! Think of it as a fun quest for the perfect moniker."
+    },
+    {
+      "question": "Do these names have specific meanings?",
+      "answer": "Some names have historical or cultural significance. We encourage you to research the names that catch your eye to learn more about their origins and meanings. Knowledge is power, and cool names are even more powerful!"
+    },
+    {
+      "question": "Can I contribute to the name database?",
+      "answer": "We'd love that! If you have any suggestions for prefixes or suffixes, please send them our way. We're always looking to expand our collection and make our generator even more awesome."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, absolutely! We believe that everyone should have access to cool Ukrainian names. So go ahead and generate to your heart's content, completely free of charge!"
+    }
+  ],
+  "prefixes": [
+    "Volodymyr",
+    "Olena",
+    "Mykola",
+    "Tetiana",
+    "Andriy",
+    "Natalia",
+    "Dmytro",
+    "Iryna",
+    "Bohdan",
+    "Svitlana",
+    "Yaroslav",
+    "Oksana",
+    "Pavlo",
+    "Halyna",
+    "Stepan",
+    "Lyudmyla",
+    "Oleksandr",
+    "Nadiya",
+    "Vasyl",
+    "Lesya"
+  ],
+  "suffixes": [
+    "ko",
+    "chuk",
+    "enko",
+    "iuk",
+    "yshyn",
+    "kevych",
+    "skyi",
+    "ska",
+    "chuk",
+    "yshyn",
+    "enko",
+    "enko",
+    "chuk",
+    "yshyn",
+    "kevych",
+    "skyi",
+    "ska",
+    "chuk",
+    "yshyn",
+    "enko"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Japanese Town Name Generator",
+  "description": "Craving a slice of digital Japan? This generator conjures up authentic-sounding Japanese town names, perfect for your next creative project, RPG campaign, or just plain daydreaming. Get ready to explore the virtual countryside!",
+  "slug": "japanese-town-name-generator",
+  "icon": "\u26e9\ufe0f",
+  "introduction": "Step into a world of cherry blossoms, ancient temples, and bustling markets \u2013 all starting with the perfect town name! Our Japanese Town Name Generator blends traditional elements with a touch of modern flair to create names that are both evocative and believable. Whether you're building a sprawling metropolis or a hidden mountain village, we've got the name to match.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new, handcrafted Japanese town name will appear before your very eyes.",
+    "Feeling picky? Keep clicking! There's an endless supply of names waiting to be discovered. It's like a digital lottery, but everyone wins!",
+    "Found a name you adore? Copy and paste it into your project, story, or anywhere else your imagination takes you.",
+    "Pro Tip: Mix and match elements from different generated names to create something truly unique. Become the ultimate town-naming sensei!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names real Japanese town names?",
+      "answer": "While some names might coincidentally resemble real places, most are creatively generated using Japanese linguistic patterns and common elements. Think of them as 'inspired by' rather than 'exact copies'."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Feel free to use these names for your games, books, websites, or any other project. No royalties or attribution required."
+    },
+    {
+      "question": "How does the generator work?",
+      "answer": "Our generator uses a combination of prefixes, suffixes, and root words commonly found in Japanese place names. It then blends them together in a way that sounds natural and authentic. A little bit of science, a little bit of magic!"
+    },
+    {
+      "question": "Will the generator ever run out of names?",
+      "answer": "Never! The possibilities are virtually endless. We're constantly expanding our database of elements to ensure a fresh and diverse selection of names."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We love hearing from our users! While we can't guarantee every suggestion will be implemented, we're always open to new ideas. Send your suggestions our way!"
+    },
+    {
+      "question": "Is this generator suitable for naming characters or businesses?",
+      "answer": "While designed for town names, feel free to get creative! Some names might work perfectly for characters or businesses, adding a touch of Japanese flair."
+    }
+  ],
+  "prefixes": [
+    "Shin",
+    "Kita",
+    "Minami",
+    "Higashi",
+    "Nishi",
+    "O",
+    "Ko",
+    "Dai",
+    "Fuji",
+    "Saku",
+    "Miya",
+    "Kawa",
+    "Yama",
+    "Iwa",
+    "Taka"
+  ],
+  "suffixes": [
+    "machi",
+    "shi",
+    "zawa",
+    "oka",
+    "yama",
+    "gawa",
+    "shima",
+    "saki",
+    "hara",
+    "bayashi",
+    "moto",
+    "da",
+    "no",
+    "tsu",
+    "cho"
+  ]
+}

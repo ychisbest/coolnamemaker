@@ -1,0 +1,73 @@
+{
+  "name": "Cleric Name Generator",
+  "description": "Struggling to find the perfect moniker for your holy warrior? Fear not, for the Cleric Name Generator bestows upon you divine inspiration! Craft names that resonate with power, piety, and perhaps a touch of righteous fury.",
+  "slug": "cleric-name-generator",
+  "icon": "\ud83d\udd4a\ufe0f",
+  "introduction": "Whether you're forging a character for your next tabletop RPG campaign, writing a fantasy novel, or simply seeking a cool handle for your online presence, our Cleric Name Generator is here to answer your prayers. We've channeled the ancient energies of forgotten deities and distilled them into a potent naming elixir. Prepare to be amazed!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the sacred names revealed!",
+    "Not feeling the divine vibe? Click again! The cosmos is vast, and the possibilities are endless.",
+    "Want something truly unique? Mix and match prefixes and suffixes to create a name that's all your own. Go wild, you magnificent heretic!",
+    "Remember, a great name is more than just words \u2013 it's a legend waiting to be written! Now go forth and smite evil... or at least look really cool while doing it."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator truly blessed by the gods?",
+      "answer": "While we can't guarantee divine intervention, we've put a lot of thought (and maybe a ritual or two) into making it awesome. Use at your own risk... of awesomeness!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once generated, the name is yours to command. Use it for your games, books, businesses, or whatever your heart desires. We just ask that you spread the word about our awesome generator!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! We have a vast library of names, and you're bound to find one that resonates with your inner cleric. And hey, sometimes the best names come from unexpected combinations."
+    },
+    {
+      "question": "Are these names suitable for all types of clerics?",
+      "answer": "We've tried to create a diverse range of names suitable for clerics of all alignments and domains. Whether you're a benevolent healer or a wrathful crusader, you'll find something to inspire you."
+    },
+    {
+      "question": "Can I suggest new prefixes and suffixes?",
+      "answer": "We'd love to hear your ideas! Please feel free to reach out to us with your suggestions. We're always looking for ways to improve our generator and make it even more epic."
+    },
+    {
+      "question": "Will using this generator make me more charismatic?",
+      "answer": "While we can't guarantee a boost to your Charisma score, having an awesome name is definitely a step in the right direction! Confidence is key, and a great name can certainly help with that."
+    }
+  ],
+  "prefixes": [
+    "Aether",
+    "Lum",
+    "Sol",
+    "Holy",
+    "Righteous",
+    "Pious",
+    "Seraph",
+    "Celest",
+    "Divin",
+    "Sacr",
+    "Verid",
+    "Templ",
+    "Arch",
+    "Eldritch",
+    "Hallow"
+  ],
+  "suffixes": [
+    "Light",
+    "Bringer",
+    "Shield",
+    "Guard",
+    "Healer",
+    "Song",
+    "Whisper",
+    "Blade",
+    "Hammer",
+    "Hope",
+    "Faith",
+    "Grace",
+    "Valor",
+    "Strife",
+    "Aegis"
+  ]
+}

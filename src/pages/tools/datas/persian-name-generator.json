@@ -1,0 +1,73 @@
+{
+  "name": "Persian Name Generator",
+  "description": "Looking for a name that's as captivating as a flying carpet ride? Our Persian Name Generator crafts monikers dripping with history, poetry, and a touch of mystique. Discover a name that resonates with the ancient spirit of Persia!",
+  "slug": "persian-name-generator",
+  "icon": "\ud83d\udd4c",
+  "introduction": "Unleash the power of ancient Persia with a name that echoes through the ages. Whether you're writing a fantasy epic, naming a beloved pet, or just looking for a unique handle, our generator conjures up names steeped in tradition and brimming with character. Get ready to be transported to a land of sultans, poets, and breathtaking beauty!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic unfold! We'll whisk you away to a world of enchanting Persian names.",
+    "Don't like the first result? No problem! Keep clicking until a name whispers to your soul.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create a truly bespoke Persian moniker.",
+    "Share your newfound name with the world! (Or keep it a secret, like a hidden treasure... shhh!)"
+  ],
+  "faqs": [
+    {
+      "question": "What makes these names 'Persian'?",
+      "answer": "Our algorithm draws inspiration from historical Persian names, mythology, and linguistic patterns. We've carefully curated elements that evoke the essence of Persian culture and heritage."
+    },
+    {
+      "question": "Can I use these names for characters in my book or game?",
+      "answer": "Absolutely! These names are perfect for adding authenticity and flair to your fictional worlds. Go forth and create epic tales!"
+    },
+    {
+      "question": "Are the generated names actually meaningful?",
+      "answer": "While we strive for authenticity, the combinations are randomly generated. Some may have direct translations, while others might evoke a feeling or association. Researching the individual components can reveal hidden gems!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! Our Persian Name Generator is completely free. Use it as many times as you like to find the perfect name."
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're always adding new prefixes and suffixes to keep the results fresh and exciting. Check back regularly for new naming possibilities!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We love suggestions! Please feel free to contact us with your ideas. We're always looking for ways to improve our generator."
+    }
+  ],
+  "prefixes": [
+    "Arda",
+    "Mehr",
+    "Shah",
+    "Dari",
+    "Far",
+    "Jam",
+    "Khos",
+    "Rox",
+    "Sor",
+    "Vis",
+    "Parv",
+    "Pir",
+    "Sim",
+    "Key",
+    "Hom"
+  ],
+  "suffixes": [
+    "zad",
+    "yar",
+    "shid",
+    "mand",
+    "nush",
+    "bad",
+    "zan",
+    "dokht",
+    "dad",
+    "far",
+    "var",
+    "din",
+    "ang",
+    "an",
+    "ush"
+  ]
+}

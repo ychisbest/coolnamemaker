@@ -1,0 +1,64 @@
+{
+  "name": "Middle Name Generator",
+  "description": "Stuck with a boring middle name? Unleash your inner rockstar with our Middle Name Generator! Find the perfect moniker to spice up your identity and make people say, 'Wow, that's a cool name!'",
+  "slug": "middle-name-generator",
+  "icon": "\ud83d\ude0e",
+  "introduction": "Let's face it, middle names often get the short end of the stick. They're either family traditions or something your parents just *thought* sounded good. But what if YOU could choose? Our Middle Name Generator is here to rescue you from middle-name mediocrity and inject some serious coolness into your full name. Prepare to be amazed!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A selection of awesome middle names will appear.",
+    "Don't like the first batch? No problem! Hit 'Generate' again for a fresh set of possibilities.",
+    "Found a name that resonates with your soul? Copy and paste it into your bio, your next novel, or even your legal documents (we're not responsible for any identity crises that may occur!).",
+    "Mix and match prefixes and suffixes to create a truly unique and unforgettable middle name.",
+    "Share your awesome new middle name with your friends and family and watch their jaws drop!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Middle Name Generator is 100% free to use. We believe everyone deserves a cool middle name, regardless of their budget."
+    },
+    {
+      "question": "Can I use these names for my business or brand?",
+      "answer": "You sure can! While the generator is primarily designed for personal use, feel free to use the generated names for your business, brand, or any other creative project. Just remember to check for trademark availability."
+    },
+    {
+      "question": "Are the generated names random?",
+      "answer": "Yes, the names are generated randomly from our extensive database of cool and unique middle name options. So, get ready for some unexpected surprises!"
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love to hear your suggestions! Send us your coolest middle name ideas through our contact form, and we'll consider adding them to our database."
+    },
+    {
+      "question": "Will using a cool middle name actually make me cooler?",
+      "answer": "While we can't guarantee instant coolness, a great middle name can definitely boost your confidence and make you stand out from the crowd. It's a small change that can have a big impact!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! We have a vast library of middle names, and we're confident you'll find one that's perfect for you. You can also try adjusting the prefixes and suffixes for even more customization."
+    }
+  ],
+  "prefixes": [
+    "Storm",
+    "Shadow",
+    "Phoenix",
+    "Mystic",
+    "Nova",
+    "Zenith",
+    "Echo",
+    "Crimson",
+    "Titan",
+    "Frost"
+  ],
+  "suffixes": [
+    "Blade",
+    "Ray",
+    "Heart",
+    "Stone",
+    "Flame",
+    "Song",
+    "Thorn",
+    "Wolf",
+    "Knight",
+    "Star"
+  ]
+}

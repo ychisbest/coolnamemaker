@@ -1,0 +1,77 @@
+{
+  "name": "Khajiit Name Generator",
+  "description": "Struggling to find the purr-fect name for your Khajiit character? Look no further! Our Khajiit Name Generator crafts authentic-sounding names straight from Elsweyr. No moon sugar required (but highly encouraged for inspiration!).",
+  "slug": "khajiit-names-generator",
+  "icon": "\ud83d\udc31",
+  "introduction": "J'zargo is busy experimenting, M'aiq is being mysterious... and you need a Khajiit name, *now*! Whether you're roleplaying a cunning thief, a wise mage, or a fearsome warrior, a great name is the first step. Our generator blends traditional Khajiit naming conventions with a touch of creative flair to give you a name that's both lore-friendly and unique. May your wares be plentiful, and your enemies few!",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's easier than picking a lock!",
+    "Keep clicking until you find a name that resonates with your Khajiit's spirit. Don't settle for anything less than purr-fection!",
+    "Feeling adventurous? Tweak the prefixes and suffixes to create a truly custom name. Just don't blame us if you accidentally invent a new Khajiit dialect!",
+    "Copy your chosen name and unleash your Khajiit upon the world! May your adventures be legendary!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names lore-accurate?",
+      "answer": "We've done our best to adhere to established Khajiit naming conventions. However, lore is always open to interpretation, so feel free to get creative!"
+    },
+    {
+      "question": "Can I use these names for characters in other games?",
+      "answer": "Absolutely! While inspired by the Elder Scrolls, these names can be adapted for any fantasy setting where you need a touch of feline mystique."
+    },
+    {
+      "question": "How are the names generated?",
+      "answer": "Our generator combines a database of common Khajiit prefixes and suffixes with a dash of randomness. It's like alchemy, but with names!"
+    },
+    {
+      "question": "Will I find the *perfect* name on the first try?",
+      "answer": "Maybe! But half the fun is exploring the possibilities. Keep experimenting, and you're bound to find a name that feels just right."
+    },
+    {
+      "question": "Is this generator powered by moon sugar?",
+      "answer": "While we appreciate the suggestion, no. It's powered by coffee, code, and a deep love for all things Khajiit."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "Yes, please! We're always looking to improve the generator. Send your suggestions our way!"
+    }
+  ],
+  "prefixes": [
+    "J'",
+    "M'",
+    "Ri'",
+    "Dro'",
+    "Ra'",
+    "Sha'",
+    "Ba'",
+    "Za'",
+    "Gra'",
+    "Jo'",
+    "Ma'",
+    "So'"
+  ],
+  "suffixes": [
+    "zargo",
+    "dar",
+    "jirr",
+    "jo",
+    "do",
+    "ra",
+    "sha",
+    "ba",
+    "za",
+    "gra",
+    "lana",
+    "mira",
+    "zin",
+    "go",
+    "far",
+    "reen",
+    "mar",
+    "shan",
+    "gar",
+    "lon",
+    "var",
+    "darr"
+  ]
+}

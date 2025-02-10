@@ -1,0 +1,84 @@
+{
+  "name": "Twitter Name Generator",
+  "description": "Stuck with a boring Twitter handle? Let our generator whip up something cool, catchy, and totally tweetable!",
+  "slug": "twitter-name-generator",
+  "icon": "\ud83d\udc26",
+  "introduction": "Your Twitter handle is your online identity. Don't let it be an afterthought!  Our Twitter Name Generator is here to spark your creativity and help you find the perfect name to represent your awesome self. Get ready to stand out from the crowd and attract followers like a magnet!",
+  "howToUse": [
+    "Feeling uninspired? Just hit that 'Generate' button and watch the magic happen. We'll conjure up a list of Twitter names just for you.",
+    "Don't like what you see? No problem! Keep clicking until you find a name that screams 'YOU'.",
+    "Found 'the one'?  Awesome!  Now, rush to Twitter and claim it before someone else does!",
+    "Pro Tip: Mix and match the prefixes and suffixes to create something truly unique. Go wild!",
+    "Another Pro Tip: Check if the username is available on other social platforms to keep your brand consistent!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely!  We believe everyone deserves a cool Twitter name without breaking the bank."
+    },
+    {
+      "question": "Will these names get me more followers?",
+      "answer": "A catchy name is a great start! While we can't guarantee instant fame, a memorable handle will definitely help you stand out and be more easily remembered."
+    },
+    {
+      "question": "Can I use these names for other social media platforms?",
+      "answer": "Of course! Feel free to use the generated names for any platform you like. Just make sure the username is available."
+    },
+    {
+      "question": "The generated names are weird! What gives?",
+      "answer": "Sometimes, the algorithm goes a little wild. Just keep generating!  The perfect name is out there, waiting to be discovered."
+    },
+    {
+      "question": "I found a name I love, but it's already taken. What should I do?",
+      "answer": "Bummer! Try adding underscores, numbers, or initials to the end of the name. Or, get creative and tweak the spelling slightly."
+    },
+    {
+      "question": "Are these names trademarked?",
+      "answer": "We do our best to generate unique names, but it's always a good idea to double-check for trademark conflicts before you commit to a name for your brand or business."
+    }
+  ],
+  "prefixes": [
+    "TheReal",
+    "Official",
+    "Tweet",
+    "Viral",
+    "Meta",
+    "Crypto",
+    "Alpha",
+    "Beta",
+    "Zen",
+    "Cool",
+    "Super",
+    "Ultra",
+    "Mega",
+    "Pro",
+    "Ninja",
+    "Guru",
+    "Savage",
+    "Epic",
+    "Legendary",
+    "Mystic"
+  ],
+  "suffixes": [
+    "Master",
+    "King",
+    "Queen",
+    "Lord",
+    "Lady",
+    "Slayer",
+    "Hunter",
+    "Addict",
+    "Fanatic",
+    "Lover",
+    "Hater",
+    "Insider",
+    "Expert",
+    "God",
+    "Goddess",
+    "Whisperer",
+    "Jedi",
+    "Maven",
+    "Vibes",
+    "Life"
+  ]
+}

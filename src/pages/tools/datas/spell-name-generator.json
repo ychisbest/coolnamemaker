@@ -1,0 +1,83 @@
+{
+  "name": "Spell Name Generator",
+  "description": "Unleash your inner wizard! Conjure up the most enchanting, powerful, and downright cool spell names this side of Hogwarts (or anywhere else, really). Perfect for writers, gamers, and anyone who needs a touch of magic in their life.",
+  "slug": "spell-name-generator",
+  "icon": "\u2728",
+  "introduction": "Tired of boring, predictable spell names? Yearning for incantations that truly *pop*? Our Spell Name Generator is here to save the day! Whether you're crafting a fantasy novel, designing a video game, or just want to impress your friends with your arcane knowledge, we've got you covered. Prepare to be spellbound!",
+  "howToUse": [
+    "Simply click the 'Generate' button and *poof*! A brand-new, totally awesome spell name appears before your very eyes.",
+    "Don't like the first one? Keep clicking! There's a whole universe of magical monikers just waiting to be discovered.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft your own custom spells. The possibilities are endless!",
+    "Share your favorite spell names with your fellow magic enthusiasts. Spread the enchantment!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe that everyone deserves a little magic in their lives, and that shouldn't cost a thing. Consider it our gift to the world of wizards and witches (and muggles who are secretly curious)."
+    },
+    {
+      "question": "Can I use these spell names for commercial purposes?",
+      "answer": "You bet! All the spell names generated here are free for you to use in your books, games, scripts, or any other creative project. Go forth and enchant the world!"
+    },
+    {
+      "question": "How does the generator come up with these names?",
+      "answer": "A little bit of magic, a dash of coding wizardry, and a whole lot of carefully curated prefixes and suffixes. We've poured our hearts (and brains) into creating a generator that consistently delivers awesome results."
+    },
+    {
+      "question": "Will the spell names always be unique?",
+      "answer": "While we strive to generate a wide variety of names, there's always a chance of a repeat, especially with frequent use. But hey, even the best wizards sometimes reuse a spell or two, right?"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form. We're always looking for ways to improve and expand our magical arsenal."
+    },
+    {
+      "question": "Is this generator powered by real magic?",
+      "answer": "Well... we can't reveal *all* our secrets. But let's just say we have a few friendly house elves helping out behind the scenes. \ud83d\ude09"
+    }
+  ],
+  "prefixes": [
+    "Aqua",
+    "Pyro",
+    "Chrono",
+    "Terra",
+    "Lumina",
+    "Umbra",
+    "Aero",
+    "Cryo",
+    "Electro",
+    "Sonus",
+    "Vita",
+    "Menta",
+    "Mortis",
+    "Tempus",
+    "Void",
+    "Astral",
+    "Celestial",
+    "Inferno",
+    "Abyssal",
+    "Arcane"
+  ],
+  "suffixes": [
+    "Blast",
+    "Bolt",
+    "Shield",
+    "Nova",
+    "Strike",
+    "Surge",
+    "Wave",
+    "Storm",
+    "Ray",
+    "Aura",
+    "Curse",
+    "Ward",
+    "Touch",
+    "Grasp",
+    "Bind",
+    "Prison",
+    "Drain",
+    "Siphon",
+    "Rift",
+    "Gate"
+  ]
+}

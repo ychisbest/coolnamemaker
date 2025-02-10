@@ -1,0 +1,73 @@
+{
+  "name": "Guild Name Generator",
+  "description": "Struggling to find the perfect name for your epic guild? Fear no more! Our Guild Name Generator will conjure up names worthy of legends. Get ready to rally your troops under a banner of pure awesomeness!",
+  "slug": "guild-name-generator",
+  "icon": "\ud83d\udee1\ufe0f",
+  "introduction": "Your guild deserves a name as legendary as its deeds! Whether you're conquering dungeons, dominating leaderboards, or just chilling in the tavern, a killer guild name sets the stage. Let our generator craft the perfect moniker for your band of heroes (or lovable rogues!).",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A glorious guild name appears before your very eyes.",
+    "Don't like what you see? Click again! We've got an endless supply of names just waiting to be unleashed.",
+    "Feeling creative? Mix and match prefixes and suffixes to forge your own unique guild title. The possibilities are as vast as your imagination!",
+    "Once you've found the perfect name, copy it and share it with your guildmates. Prepare for cheers, high-fives, and maybe even a celebratory quest!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe every guild deserves a fantastic name, regardless of their budget. Consider it our gift to the gaming community."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we provide these names for inspiration and fun, it's always a good idea to do a quick trademark search to ensure the name isn't already in use, especially if you're planning on using it for a business or product."
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly adding new and exciting names to our database! Check back regularly for fresh inspiration and even more epic possibilities."
+    },
+    {
+      "question": "I have a suggestion for a prefix or suffix. Can I submit it?",
+      "answer": "We'd love to hear your ideas! While we can't guarantee every submission will be added, we appreciate your contributions to making our generator even better. Send your suggestions our way!"
+    },
+    {
+      "question": "My guild name is already perfect. Why should I use this?",
+      "answer": "Even the most legendary guilds can use a little inspiration! Maybe you're creating a new branch, or perhaps you just want to see what cool names are out there. Plus, it's fun!"
+    },
+    {
+      "question": "Are the generated names suitable for all game genres?",
+      "answer": "We try to provide a diverse range of names suitable for fantasy, sci-fi, and even modern settings. However, it's up to you to decide if a particular name fits your guild's vibe!"
+    }
+  ],
+  "prefixes": [
+    "Crimson",
+    "Shadow",
+    "Celestial",
+    "Iron",
+    "Silent",
+    "Dragon",
+    "Phoenix",
+    "Eternal",
+    "Royal",
+    "Mystic",
+    "Storm",
+    "Frost",
+    "Blood",
+    "Stone",
+    "Golden"
+  ],
+  "suffixes": [
+    "Guardians",
+    "Order",
+    "Legion",
+    "Council",
+    "Brotherhood",
+    "Sisterhood",
+    "Alliance",
+    "Empire",
+    "Knights",
+    "Sentinels",
+    "Reapers",
+    "Wolves",
+    "Dragons",
+    "Hunters",
+    "Vanguard"
+  ]
+}

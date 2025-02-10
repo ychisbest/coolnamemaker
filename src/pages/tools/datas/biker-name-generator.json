@@ -1,0 +1,84 @@
+{
+  "name": "Biker Name Generator",
+  "description": "Rev up your engine and find the perfect outlaw moniker with our Biker Name Generator! Whether you're forming a motorcycle club or just need a tough-sounding alias, we've got the goods. Get ready to rumble!",
+  "slug": "biker-name-generator",
+  "icon": "\ud83c\udfcd\ufe0f",
+  "introduction": "Tired of being known as just 'Bob' when you're tearing up the asphalt? Our Biker Name Generator is here to christen you with a name that screams rebellion and horsepower! Ditch the ordinary and embrace your inner road warrior. It's time to find a name that's as wild as your ride.",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen!",
+    "Don't like the first result? No problem! Keep clicking until you find a name that makes you feel like you own the open road.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft your own unique biker identity.",
+    "Once you've found the perfect name, share it with your crew and let the good times roll! (Responsibly, of course.)",
+    "Remember: This generator is for fun! Don't go starting any real-life biker wars over name disputes, alright?"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my motorcycle club?",
+      "answer": "Absolutely! These names are perfect for adding some edge to your club's identity. Just make sure everyone agrees on the final choice!"
+    },
+    {
+      "question": "Are the names generated random?",
+      "answer": "Yep, completely random! We use a carefully curated list of prefixes and suffixes to create unique and badass biker names every time."
+    },
+    {
+      "question": "Will these names help me ride my motorcycle better?",
+      "answer": "While we can't guarantee improved riding skills, a cool biker name will definitely boost your confidence! Plus, you'll look awesome doing it."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We're always open to suggestions! Feel free to send us your ideas, and we might just add them to the mix."
+    },
+    {
+      "question": "Is it legal to change my name to one of these?",
+      "answer": "That depends on your local laws and regulations. We recommend checking with your local authorities if you're serious about making it official. But for online aliases, go wild!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! With countless combinations, you're bound to find a name that resonates with your inner biker spirit. Or, get creative and combine elements from different names!"
+    }
+  ],
+  "prefixes": [
+    "Road",
+    "Iron",
+    "Steel",
+    "Shadow",
+    "Night",
+    "Thunder",
+    "Wild",
+    "Renegade",
+    "Rebel",
+    "Viper",
+    "Ghost",
+    "Screaming",
+    "Black",
+    "Chrome",
+    "Dusty",
+    "Whispering",
+    "Lone",
+    "Mad",
+    "Silent",
+    "Twisted"
+  ],
+  "suffixes": [
+    "Rider",
+    "Hawk",
+    "Wolf",
+    "Snake",
+    "Demon",
+    "Angel",
+    "Reaper",
+    "Hammer",
+    "Blade",
+    "Fist",
+    "Skull",
+    "King",
+    "Queen",
+    "Jackal",
+    "Cyclone",
+    "Nitro",
+    "Storm",
+    "Raven",
+    "Nomad",
+    "Outlaw"
+  ]
+}

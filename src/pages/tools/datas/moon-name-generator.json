@@ -1,0 +1,73 @@
+{
+  "name": "Moon Name Generator",
+  "description": "Ready to shoot for the moon? Discover your stellar Moon Name and unlock a universe of cosmic cool! Perfect for writers, gamers, and anyone who wants a touch of lunar magic in their life.",
+  "slug": "moon-name-generator",
+  "icon": "\ud83c\udf19",
+  "introduction": "Ever wondered what your name would be if you were born on the moon? Or perhaps a character in a sci-fi epic set on a lunar colony? Our Moon Name Generator is here to whisk you away on a celestial adventure! Combining earthly charm with lunar mystique, we'll craft a name that's truly out of this world.",
+  "howToUse": [
+    "Simply click the 'Generate' button \u2013 it's like launching a rocket, but way easier!",
+    "Keep clicking until you find a Moon Name that resonates with your inner astronaut.",
+    "Feeling creative? Mix and match your favorite prefixes and suffixes for a truly unique lunar moniker.",
+    "Share your awesome Moon Name with your friends and watch their jaws drop (gravity is lower on the moon, after all!)."
+  ],
+  "faqs": [
+    {
+      "question": "Is my Moon Name legally binding?",
+      "answer": "Unfortunately, no. You can't use your Moon Name to, say, claim ownership of a lunar crater. But it's perfect for online personas, game characters, and adding a bit of cosmic flair to your life!"
+    },
+    {
+      "question": "Can I use my Moon Name in my sci-fi novel?",
+      "answer": "Absolutely! That's what it's here for! Go forth and create worlds filled with characters as cool as their Moon Names."
+    },
+    {
+      "question": "Are the generated names truly random?",
+      "answer": "As random as the alignment of the planets! We use a sophisticated algorithm (okay, it's not *that* sophisticated) to ensure a wide variety of awesome Moon Names."
+    },
+    {
+      "question": "Will my Moon Name change my destiny?",
+      "answer": "We can't guarantee that, but it'll definitely make you cooler. Plus, who knows what the universe has in store?"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to add?",
+      "answer": "We'd love to hear your ideas! Send them our way, and we might just incorporate them into the generator. The more lunar inspiration, the better!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! Enjoy your cosmic naming journey, completely free of charge. We just want to spread the lunar love!"
+    }
+  ],
+  "prefixes": [
+    "Luna",
+    "Astro",
+    "Selen",
+    "Moon",
+    "Star",
+    "Cosmo",
+    "Nova",
+    "Orbit",
+    "Titan",
+    "Aurora",
+    "Comet",
+    "Galaxy",
+    "Nebula",
+    "Eclipse",
+    "Quasar"
+  ],
+  "suffixes": [
+    "ar",
+    "a",
+    "is",
+    "os",
+    "ex",
+    "ix",
+    "yx",
+    "on",
+    "ite",
+    "ian",
+    "ius",
+    "ella",
+    "ina",
+    "eon",
+    "aria"
+  ]
+}

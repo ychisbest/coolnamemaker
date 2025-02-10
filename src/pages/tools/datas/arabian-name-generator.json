@@ -1,0 +1,83 @@
+{
+  "name": "Arabian Name Generator",
+  "description": "Struggling to find that perfect Arabian-inspired name? Let our generator whisk you away on a magic carpet ride to the ideal moniker! Perfect for characters, stories, or just plain fun!",
+  "slug": "arabian-name-generator",
+  "icon": "\ud83d\udc2a",
+  "introduction": "Ahlan wa sahlan! Welcome to the Arabian Name Generator, your oasis in the desert of name-searching. Whether you're crafting a fantastical tale set in ancient Arabia, need a fitting name for a character in your RPG campaign, or simply intrigued by the beauty and mystique of Arabian culture, we've got you covered. Prepare to be amazed by the sheer variety and richness of names this generator conjures!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! \u2728",
+    "Don't like the first result? No problem! Click again for a fresh, new name.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create your own unique Arabian-inspired name.",
+    "Copy and paste your favorite names into your project. Easy peasy, lemon squeezy!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names authentic Arabian names?",
+      "answer": "Our generator pulls from a wide range of Arabian names, both classic and modern, male and female. While we strive for accuracy, some names are inspired and creatively adapted to provide a diverse selection."
+    },
+    {
+      "question": "Can I use these names for my book/game/project?",
+      "answer": "Absolutely! These names are free for you to use in your creative endeavors. Consider it a gift from our digital oasis."
+    },
+    {
+      "question": "Will I find only male or female names?",
+      "answer": "Our generator provides both male and female names, as well as some gender-neutral options. Keep clicking to explore the full spectrum!"
+    },
+    {
+      "question": "Can I get the same name twice?",
+      "answer": "While we've implemented algorithms to minimize repetition, there's a slight chance you might see a name appear more than once. If that happens, just hit 'Generate' again!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, absolutely! Consider this our humble offering to the world of creativity. Enjoy, and may your name-finding journey be filled with delight!"
+    },
+    {
+      "question": "Does this tool use AI?",
+      "answer": "This tool uses a curated list of prefixes and suffixes to generate names. No AI is used."
+    }
+  ],
+  "prefixes": [
+    "Abdul",
+    "Aisha",
+    "Omar",
+    "Fatima",
+    "Khalid",
+    "Layla",
+    "Salim",
+    "Nadia",
+    "Rami",
+    "Zahra",
+    "Jamal",
+    "Samira",
+    "Hassan",
+    "Aaliyah",
+    "Yusuf",
+    "Amira",
+    "Karim",
+    "Lina",
+    "Tariq",
+    "Hala"
+  ],
+  "suffixes": [
+    "ah",
+    "i",
+    "ullah",
+    "din",
+    "al-Din",
+    "ali",
+    "a",
+    "iya",
+    "een",
+    "an",
+    "il",
+    "iya",
+    "id",
+    "ifa",
+    "im",
+    "ira",
+    "is",
+    "iya",
+    "iz",
+    "iya"
+  ]
+}

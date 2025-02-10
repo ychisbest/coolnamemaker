@@ -1,0 +1,117 @@
+{
+  "name": "Westeros Name Generator",
+  "description": "Struggling to find the perfect moniker for your Game of Thrones character? Fear not, future ruler of the Seven Kingdoms! Our Westeros Name Generator conjures up names fit for lords, ladies, and even the most cunning of schemers. Prepare to claim your destiny!",
+  "slug": "westeros-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Winter is coming, and so is the need for an epic Westeros name! Whether you're role-playing, writing fan fiction, or just daydreaming about sitting on the Iron Throne, a great name is essential. Let our generator forge a name worthy of a dragon rider, a master of whispers, or a valiant knight.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new Westeros-inspired name will appear before your very eyes.",
+    "Feeling picky? Keep clicking! We've got more names than the Wall has stones. Find one that resonates with your inner Stark, Lannister, or Targaryen.",
+    "Want to customize your experience? Explore the settings! Tweak the options to create names that are truly unique to your character.",
+    "Share your awesome name with your friends! Let them know who's about to conquer Westeros (or at least win the next trivia night)."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually magical?",
+      "answer": "While we can't promise sorcery, our algorithms are pretty darn clever! We've analyzed countless Westeros names to bring you authentic-sounding results."
+    },
+    {
+      "question": "Can I use these names in my fan fiction?",
+      "answer": "Absolutely! Consider it a gift from the Old Gods and the New. Just give us a shout-out if you become the next George R.R. Martin!"
+    },
+    {
+      "question": "Will this generator help me win the Iron Throne?",
+      "answer": "We can't guarantee political success, but a cool name is definitely a step in the right direction. Good luck with the backstabbing and dragon-taming!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "While there's an element of randomness, we've carefully curated the prefixes and suffixes to ensure that the names sound authentic and fit within the Westeros universe."
+    },
+    {
+      "question": "I got a really weird name. What gives?",
+      "answer": "Sometimes, the wheel lands on something unexpected! But hey, maybe that's the name of a long-lost house or a forgotten hero. Embrace the weirdness!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to add?",
+      "answer": "We're always looking for ways to improve! Feel free to send us your suggestions. Who knows, your idea might just become the next big thing in Westeros naming!"
+    }
+  ],
+  "prefixes": [
+    "Eddard",
+    "Lyanna",
+    "Robb",
+    "Sansa",
+    "Arya",
+    "Bran",
+    "Jon",
+    "Daenerys",
+    "Tyrion",
+    "Jaime",
+    "Cersei",
+    "Joffrey",
+    "Tywin",
+    "Oberyn",
+    "Ellaria",
+    "Theon",
+    "Yara",
+    "Euron",
+    "Stannis",
+    "Davos",
+    "Melisandre",
+    "Renly",
+    "Margaery",
+    "Loras",
+    "Aegon",
+    "Rhaegar",
+    "Viserys",
+    "Hoster",
+    "Catelyn",
+    "Petyr",
+    "Varys",
+    "Brienne",
+    "Samwell",
+    "Gilly",
+    "Jorah",
+    "Khal",
+    "Drogo",
+    "Missandei",
+    "Grey",
+    "Worm"
+  ],
+  "suffixes": [
+    "Stark",
+    "Lannister",
+    "Targaryen",
+    "Baratheon",
+    "Tyrell",
+    "Martell",
+    "Greyjoy",
+    "Arryn",
+    "Tully",
+    "Bolton",
+    "Frey",
+    "Mormont",
+    "Seaworth",
+    "Sand",
+    "Snow",
+    "Waters",
+    "Hill",
+    "Stone",
+    "Flowers",
+    "Pyke",
+    "Casterly",
+    "Dragon",
+    "King",
+    "Queen",
+    "Hand",
+    "Guard",
+    "Maester",
+    "Warrior",
+    "Master",
+    "Lord",
+    "Lady",
+    "Prince",
+    "Princess",
+    "Knight"
+  ]
+}

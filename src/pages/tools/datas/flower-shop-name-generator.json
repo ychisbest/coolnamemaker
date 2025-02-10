@@ -1,0 +1,93 @@
+{
+  "name": "Flower Shop Name Generator",
+  "description": "Stuck in a floral funk? Bloom with brilliance! Our Flower Shop Name Generator cultivates catchy, unforgettable names perfect for your blossoming business. Unearth the perfect title and watch your flower shop flourish!",
+  "slug": "flower-shop-name-generator",
+  "icon": "\ud83c\udf38",
+  "introduction": "Welcome to the petal-powered paradise of name creation! Naming your flower shop is more than just picking a word; it's about crafting an identity, a feeling, a promise of beauty and freshness. Whether you're aiming for classic elegance, whimsical charm, or modern chic, our generator is here to help you blossom with the perfect name.",
+  "howToUse": [
+    "1. Imagine your dream flower shop: What's the vibe? What kind of flowers do you specialize in? What makes you *different*?",
+    "2. Click the 'Generate' button and behold the floral frenzy of name suggestions!",
+    "3. Don't be afraid to mix and match prefixes and suffixes to create a truly unique bloom.",
+    "4. Found 'the one'? Snatch it up before someone else does! Check for domain name availability and social media handles ASAP!",
+    "5. If you're feeling adventurous, tweak the suggestions or use them as inspiration to create something entirely new. Let your creativity blossom!"
+  ],
+  "faqs": [
+    {
+      "question": "Why do I need a catchy name for my flower shop?",
+      "answer": "A catchy name is your first impression! It grabs attention, sticks in people's minds, and sets the tone for your brand. It's the scent that lures customers into your floral haven."
+    },
+    {
+      "question": "How do I choose the *right* name from the generated suggestions?",
+      "answer": "Consider your target audience, your shop's style, and the overall message you want to convey. Does the name feel authentic to your brand? Does it roll off the tongue? Does it sound inviting and memorable?"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "No worries! Use the suggestions as a starting point. Tweak them, combine them, or let them inspire entirely new ideas. The generator is just a tool to spark your creativity!"
+    },
+    {
+      "question": "Should I include my own name in the flower shop name?",
+      "answer": "It depends! Personal names can add a touch of warmth and authenticity, especially for family-owned businesses. However, consider whether it limits your brand's potential for growth or expansion."
+    },
+    {
+      "question": "Is it important to check if the name is available as a domain and social media handle?",
+      "answer": "Absolutely! Before settling on a name, make sure you can secure a matching domain name and social media handles. This helps maintain a consistent brand identity and makes it easier for customers to find you online."
+    },
+    {
+      "question": "Can I use these names for other types of businesses?",
+      "answer": "While these names are tailored for flower shops, feel free to adapt them for related businesses like nurseries, garden centers, or event planning services. Let your imagination run wild!"
+    }
+  ],
+  "prefixes": [
+    "Blooming",
+    "Petal",
+    "Rose",
+    "Lily",
+    "Daisy",
+    "Floral",
+    "Garden",
+    "Blossom",
+    "Evergreen",
+    "Botanical",
+    "The Flower",
+    "Enchanted",
+    "Secret",
+    "Wild",
+    "Urban",
+    "Vintage",
+    "Chic",
+    "Modern",
+    "Fresh",
+    "Sweet",
+    "Divine",
+    "Graceful",
+    "Rustic",
+    "Country",
+    "Golden"
+  ],
+  "suffixes": [
+    "Boutique",
+    "Studio",
+    "Shop",
+    "Designs",
+    "Creations",
+    "Arrangements",
+    "Emporium",
+    "Gallery",
+    "Market",
+    "Garden",
+    "Bloom",
+    "Petals",
+    "Flowers",
+    "Florist",
+    "Co.",
+    "& Co.",
+    "and More",
+    "Dreams",
+    "Whispers",
+    "Apothecary",
+    "Corner",
+    "House",
+    "Lane",
+    "Place"
+  ]
+}

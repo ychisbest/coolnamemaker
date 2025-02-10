@@ -1,0 +1,94 @@
+{
+  "name": "Iranian Name Generator",
+  "description": "Unleash your inner Persian royalty! Need a cool, authentic Iranian name for your character, business, or just for fun? Our generator crafts unique names steeped in history and culture. Get ready to be amazed!",
+  "slug": "iranian-name-generator",
+  "icon": "\ud83c\uddee\ud83c\uddf7",
+  "introduction": "Dive into the rich tapestry of Iranian culture and discover a name that resonates with strength, beauty, and tradition. Whether you're writing a fantasy novel, launching a new venture, or simply curious about your heritage, our Iranian Name Generator is your passport to a world of captivating names.",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand-new, awesome Iranian name appears.",
+    "Don't like the first one? Keep clicking! We've got a treasure trove of names waiting to be discovered.",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own personalized masterpiece. We won't judge!",
+    "Share your favorite finds with friends and family. Spread the Iranian name love!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually Iranian?",
+      "answer": "Absolutely! We've curated a collection of names with deep roots in Iranian history, culture, and language. While we aim for authenticity, some names may have evolved or adapted over time."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You sure can! Feel free to use the generated names for your business, brand, or creative projects. We only ask that you credit coolnamemaker.com as the source (if you're feeling generous!)."
+    },
+    {
+      "question": "Will the generator give me the same name every time?",
+      "answer": "Nope! Our generator is designed to create a wide variety of unique and interesting names. You're unlikely to get the same name twice, but hey, stranger things have happened!"
+    },
+    {
+      "question": "What if I want a name with a specific meaning?",
+      "answer": "While our generator doesn't provide meanings directly, you can easily research the names you like online. A quick search will reveal the fascinating stories and symbolism behind each name."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You bet! Our Iranian Name Generator is completely free and available for everyone to enjoy. Consider it our gift to the world of awesome names!"
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We are constantly working on adding new names and improving the generator. Check back regularly for fresh inspiration!"
+    }
+  ],
+  "prefixes": [
+    "Ar",
+    "Bah",
+    "Far",
+    "Jam",
+    "Khos",
+    "Meh",
+    "Pir",
+    "Sha",
+    "Sor",
+    "Zar",
+    "Hom",
+    "Rox",
+    "Art",
+    "Dari",
+    "Ehsan",
+    "Firo",
+    "Giv",
+    "Hesh",
+    "Iraj",
+    "Jamshid",
+    "Kourosh",
+    "Leyla",
+    "Mani",
+    "Nima",
+    "Omid",
+    "Parviz",
+    "Ramin",
+    "Siamak",
+    "Tara",
+    "Vahid"
+  ],
+  "suffixes": [
+    "an",
+    "man",
+    "zad",
+    "yar",
+    "shid",
+    "dad",
+    "mehr",
+    "oush",
+    "andokht",
+    "dokht",
+    "eh",
+    "far",
+    "in",
+    "jafari",
+    "ian",
+    "pour",
+    "mand",
+    "rad",
+    "vand",
+    "i",
+    "zadegan"
+  ]
+}

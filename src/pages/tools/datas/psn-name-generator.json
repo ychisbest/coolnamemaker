@@ -1,0 +1,74 @@
+{
+  "name": "PSN Name Generator",
+  "description": "Struggling to come up with a killer PSN name that screams 'legend'? Our PSN Name Generator is here to rescue you from the abyss of boring usernames. Get ready to dominate the PlayStation Network with a name so cool, it'll make your opponents tremble!",
+  "slug": "psn-name-generator",
+  "icon": "\ud83c\udfae",
+  "introduction": "Tired of generic PSN names? Our generator blends prefixes and suffixes to create a unique and memorable identity for you on PlayStation. Whether you're a casual gamer or a hardcore competitor, a great PSN name is your first step to gaming glory. Let's find yours!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! \u2728",
+    "Don't like what you see? No problem! Keep clicking until you find the perfect name that resonates with your inner gamer. \ud83d\udd04",
+    "Found a gem? Copy that bad boy and paste it into your PSN profile. Prepare for the envy! \ud83d\ude0e",
+    "Feeling creative? Mix and match different prefixes and suffixes from the generated names to create something truly unique!",
+    "Share your awesome new PSN name with your friends and bask in their admiration. You're welcome. \ud83d\ude09"
+  ],
+  "faqs": [
+    {
+      "question": "How does the PSN Name Generator work?",
+      "answer": "Our generator uses a sophisticated algorithm (aka, a list of cool words) to combine prefixes and suffixes, creating a wide range of unique PSN names. It's like a digital name-smith, forging the perfect moniker for your gaming persona."
+    },
+    {
+      "question": "Are the generated PSN names actually available?",
+      "answer": "While we strive to create unique names, availability on the PlayStation Network can vary. We recommend checking the name's availability on PSN before getting too attached. Good luck securing that epic name!"
+    },
+    {
+      "question": "Can I use these names for other platforms besides PlayStation?",
+      "answer": "Absolutely! While designed for PSN, these names can be used for any online platform, game, or even as inspiration for your next fantasy novel character. The possibilities are endless!"
+    },
+    {
+      "question": "Is the PSN Name Generator free to use?",
+      "answer": "Yes! Our PSN Name Generator is completely free to use. Generate as many names as your heart desires without spending a single penny. We're all about empowering gamers with awesome identities."
+    },
+    {
+      "question": "Will using a generated name guarantee me victory in every game?",
+      "answer": "While a cool name won't magically make you a pro gamer, it will definitely boost your confidence and intimidate your opponents. Think of it as a psychological edge. \ud83d\ude09 (Skill still required, sorry!)"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We're always looking for ways to improve! Feel free to submit your suggestions through our contact form or social media. We appreciate your input and might just add your ideas to the generator!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Crimson",
+    "Phantom",
+    "Arctic",
+    "Blazing",
+    "Mystic",
+    "Silent",
+    "Galactic",
+    "Iron",
+    "Venom",
+    "Void",
+    "Omega",
+    "Alpha",
+    "Spectre",
+    "Rogue"
+  ],
+  "suffixes": [
+    "Hunter",
+    "Blade",
+    "Striker",
+    "Warrior",
+    "Knight",
+    "Rider",
+    "Slayer",
+    "Master",
+    "Lord",
+    "King",
+    "Vanguard",
+    "Enforcer",
+    "Legend",
+    "Titan",
+    "Specter"
+  ]
+}

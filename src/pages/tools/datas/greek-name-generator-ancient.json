@@ -1,0 +1,92 @@
+{
+  "name": "Ancient Greek Name Generator",
+  "description": "Unleash your inner Olympian! Generate epic and authentic-sounding Ancient Greek names fit for gods, heroes, and philosophers. Perfect for stories, games, and embracing your classical side!",
+  "slug": "greek-name-generator-ancient",
+  "icon": "\ud83c\udfdb\ufe0f",
+  "introduction": "Journey back to the cradle of Western civilization and discover a name worthy of the ages. Our Ancient Greek Name Generator conjures up names steeped in mythology, history, and the very essence of Hellas. Whether you're crafting a character for your next great novel, naming your pet owl, or just curious about the linguistic beauty of ancient Greece, prepare to be inspired!",
+  "howToUse": [
+    "First, steel your nerves, for these names carry the weight of history!",
+    "Next, simply click the 'Generate' button and behold! A brand new, authentically-inspired Ancient Greek name will appear.",
+    "Don't like the first result? No sweat! Click again and again until you find the name that resonates with your inner Zeus (or Hera, or Odysseus, you get the idea!).",
+    "Feeling fancy? Mix and match prefixes and suffixes to craft your own truly unique, legendary moniker.",
+    "Pro Tip: Say the names out loud! Feel the power! Imagine yourself leading armies or debating philosophy in the Agora!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually authentic Ancient Greek?",
+      "answer": "While we can't guarantee 100% historical accuracy (languages evolve, you know!), we've meticulously researched common names, roots, and linguistic patterns from the Ancient Greek period to create names that sound convincingly authentic."
+    },
+    {
+      "question": "Can I use these names for my book/game/role-playing character?",
+      "answer": "Absolutely! That's exactly what they're for! Go forth and create! Just remember to credit us (just kidding... mostly!)."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! We have a vast library of prefixes and suffixes, so the possibilities are nearly endless. You're bound to find something you love eventually. Or, get inspired and create your own variations!"
+    },
+    {
+      "question": "Why are some names longer than others?",
+      "answer": "Ancient Greek names often incorporated multiple elements, reflecting family lineage, virtues, or even prophecies! We've embraced this complexity to offer a range of names, from the concise to the gloriously verbose."
+    },
+    {
+      "question": "Can I use these names for my pet?",
+      "answer": "By the gods, YES! Imagine calling your cat 'Persephone' or your dog 'Achilles'! Your pet will instantly become the most sophisticated creature in the neighborhood. Just be prepared for some confused looks at the dog park."
+    },
+    {
+      "question": "Are there male and female names?",
+      "answer": "The generator produces names that can be typically associated with either male or female figures from ancient Greek history and mythology. While some names are more gender-neutral, we encourage you to choose the name that best fits your character or preference, regardless of traditional gender roles."
+    }
+  ],
+  "prefixes": [
+    "Alex",
+    "Aristo",
+    "Demo",
+    "Theo",
+    "Hermo",
+    "Cleo",
+    "Peri",
+    "Soph",
+    "Lysi",
+    "Phil",
+    "Hipp",
+    "Pol",
+    "Aga",
+    "Eury",
+    "Cali",
+    "Chryso",
+    "Doro",
+    "Hero",
+    "Isido",
+    "Neo",
+    "Ptolem",
+    "Strato",
+    "Xeno",
+    "Zen"
+  ],
+  "suffixes": [
+    "cles",
+    "crates",
+    "sthenes",
+    "machus",
+    "medes",
+    "menes",
+    "nax",
+    "ander",
+    "archus",
+    "dorus",
+    "genes",
+    "phanes",
+    "pater",
+    "polis",
+    "stratus",
+    "thea",
+    "dike",
+    "nomia",
+    "phone",
+    "time",
+    "arete",
+    "gena",
+    "anthe",
+    "dora"
+  ]
+}

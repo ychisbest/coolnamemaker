@@ -1,0 +1,80 @@
+{
+  "name": "Duergar Name Generator",
+  "description": "Unearth the perfect, guttural Duergar name! Forge your identity in the depths with names as tough and resilient as the dwarves themselves. Click, and claim your dwarven destiny!",
+  "slug": "duergar-name-generator",
+  "icon": "\u26cf\ufe0f",
+  "introduction": "Venture into the Underdark and claim your Duergar identity! This generator crafts names that echo the strength, cunning, and shadowed history of the Duergar. Whether you're a seasoned role-player or a curious world-builder, find a name that resonates with the spirit of these subterranean dwarves.",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's like striking your pickaxe against solid rock \u2013 a new name will appear!",
+    "Don't like the first result? Keep clicking! The forge of names never sleeps.",
+    "Found a name you love? Copy it and make it your own! Just try not to hoard all the cool names for yourself...",
+    "Want something truly unique? Mix and match prefixes and suffixes from different generations. Get creative!",
+    "Remember, a good Duergar name should sound like it could carve stone and intimidate goblins. Use your imagination!"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* a Duergar?",
+      "answer": "Duergar, also known as gray dwarves, are a subterranean race of dwarves known for their dour personalities, psionic abilities, and skill in crafting. Think dwarves, but with a serious case of the grumps and a penchant for mind games."
+    },
+    {
+      "question": "Are these names suitable for both male and female Duergar?",
+      "answer": "While some names might lean towards a specific gender, most are designed to be fairly gender-neutral. Feel free to adapt them to fit your character!"
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! That's what they're here for! Go forth and role-play with the might of a mountain!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "They're based on patterns and sounds inspired by existing Duergar names and dwarven lore, but the combinations are randomized. So, yes, they're *mostly* random, with a touch of dwarven magic."
+    },
+    {
+      "question": "I generated a name that sounds a bit\u2026 silly. What gives?",
+      "answer": "Hey, even Duergar have a sense of humor (a dark, twisted one, perhaps). If you don't like a name, just generate another! The Underdark is vast, and so are the possibilities."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added?",
+      "answer": "We're always looking for ways to improve the forge! Feel free to send your suggestions our way. Maybe your contribution will become a legend in the annals of Duergar naming!"
+    }
+  ],
+  "prefixes": [
+    "Grim",
+    "Ston",
+    "Iron",
+    "Dol",
+    "Krag",
+    "Bor",
+    "Thorn",
+    "Gnar",
+    "Murk",
+    "Fel",
+    "Groth",
+    "Brog",
+    "Rik",
+    "Durn",
+    "Kaz",
+    "Vor",
+    "Zor",
+    "Hroth"
+  ],
+  "suffixes": [
+    "grim",
+    "stone",
+    "beard",
+    "fist",
+    "hammer",
+    "forge",
+    "helm",
+    "shadow",
+    "dark",
+    "bane",
+    "breaker",
+    "smash",
+    "axe",
+    "guard",
+    "forge",
+    "run",
+    "stalk",
+    "steel"
+  ]
+}

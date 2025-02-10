@@ -1,0 +1,83 @@
+{
+  "name": "My Little Pony Name Generator",
+  "description": "Gallop into a world of friendship and magic! Find the perfect Pony name that captures your unique sparkle with our My Little Pony Name Generator. Whether you're destined for Equestria or just dreaming of rainbows, we've got a name that's *mane*-ificent!",
+  "slug": "my-little-pony-name-generator",
+  "icon": "\ud83e\udd84",
+  "introduction": "Ready to discover your inner pony? This generator combines the whimsical charm of My Little Pony with a touch of your own personality to create a name that's truly one-of-a-kind. Let's find out if you're a 'Sparklehoof' or a 'Rainbowdash Jr.'!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A fantastic My Little Pony name will appear before your very eyes.",
+    "Don't like the first result? No problem! Keep clicking until you find the pony name that speaks to your soul (and mane!).",
+    "Feeling extra creative? Tweak the generated name to make it even more *you*. After all, everypony is unique!",
+    "Share your awesome pony name with your friends! Let them know who you truly are... a magical, name-tastic pony!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my My Little Pony OC (Original Character)?",
+      "answer": "Absolutely! That's what they're here for. Go forth and create the pony of your dreams!"
+    },
+    {
+      "question": "Are these names official My Little Pony names?",
+      "answer": "While inspired by the spirit of Equestria, these names are generated, so they aren't 'official' official. Consider them honorary pony names!"
+    },
+    {
+      "question": "Will the generator give me the same name every time?",
+      "answer": "Nope! The generator uses a magical algorithm to create a wide variety of names. You're unlikely to get the same result twice, unless you're *really* lucky (or unlucky, depending on how you see it!)."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We're always open to suggestions! Send us your pony-powered ideas, and we might just add them to the mix. The more the *mane*-ier!"
+    },
+    {
+      "question": "Is this generator safe for foals (young ponies)?",
+      "answer": "Yes! This generator is designed to be fun and safe for all ages. No dark magic or Discordian chaos here, just pure pony goodness!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Don't fret! Keep hitting that 'Generate' button! Eventually, the perfect pony name will emerge from the magical name-verse. Or, get inspired and create your own fabulous name!"
+    }
+  ],
+  "prefixes": [
+    "Sparkle",
+    "Rainbow",
+    "Flutter",
+    "Apple",
+    "Twilight",
+    "Rarity",
+    "Pinkie",
+    "Sweetie",
+    "Diamond",
+    "Star",
+    "Moon",
+    "Sun",
+    "Crystal",
+    "Shimmer",
+    "Daring",
+    "Brave",
+    "Lucky",
+    "Whimsical",
+    "Mystic",
+    "Harmony"
+  ],
+  "suffixes": [
+    "Shine",
+    "Dash",
+    "shy",
+    "Bloom",
+    "Sparkle",
+    "Belle",
+    "Pie",
+    "Drops",
+    "Tiara",
+    "Gazer",
+    "beam",
+    "Gleam",
+    "Heart",
+    "Wing",
+    "Do",
+    "Hoof",
+    "Charm",
+    "Whisper",
+    "Twist",
+    "Song"
+  ]
+}

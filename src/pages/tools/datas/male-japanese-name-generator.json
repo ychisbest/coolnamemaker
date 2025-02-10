@@ -1,0 +1,83 @@
+{
+  "name": "Male Japanese Name Generator",
+  "description": "Struggling to name your manga character, video game hero, or even your adorable new puppy? Look no further! Our Male Japanese Name Generator crafts authentic-sounding and seriously cool names, steeped in Japanese culture and ready to impress. Unleash the power of a perfect name!",
+  "slug": "male-japanese-name-generator",
+  "icon": "\ud83c\udfef",
+  "introduction": "Konnichiwa! Are you on a quest for the perfect male Japanese name? Whether you're writing a novel, designing a game, or just curious about Japanese nomenclature, you've come to the right place. Our generator blends traditional elements with modern flair, offering a diverse range of names that resonate with strength, honor, and a touch of mystery. Get ready to discover names that are as captivating as they are meaningful!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new, awesome male Japanese name will appear before your very eyes.",
+    "Feeling picky? Keep clicking until you find *the one*. We've got a whole arsenal of names just waiting to be discovered.",
+    "Want to dive deeper? Explore the meanings and origins of your favorite names with a quick internet search. Knowledge is power, my friend!",
+    "Use these names for characters, pets, projects \u2013 unleash your creativity! The possibilities are as limitless as your imagination\u2026 and the number of names we can generate!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually Japanese?",
+      "answer": "Hai! (Yes!) We've carefully curated a list of names that are either traditionally Japanese or have become widely accepted within Japanese culture. While we strive for authenticity, remember that language evolves, and some names might be more modern or adapted."
+    },
+    {
+      "question": "Can I use these names for my baby?",
+      "answer": "Absolutely! While our generator is designed for creative purposes, many of the names are perfectly suitable for a newborn. Just be sure to do your own research to understand the meaning and cultural significance of the name before making a final decision."
+    },
+    {
+      "question": "Will this generator give me weird or offensive names?",
+      "answer": "We've taken great care to avoid generating names that are considered offensive or inappropriate in Japanese culture. However, language nuances can be tricky, so it's always a good idea to double-check if you're unsure."
+    },
+    {
+      "question": "How many names can this generator create?",
+      "answer": "Practically countless! Our algorithm combines prefixes and suffixes in a variety of ways, ensuring a near-infinite supply of unique and interesting names. You'll be naming characters for days!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You betcha! Use it as much as your heart desires. We believe that creativity should be accessible to everyone, so enjoy the endless stream of awesome names!"
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love to hear from you! While we can't guarantee that every suggestion will be added, we're always looking for ways to improve our generator and expand our database. Feel free to send us your ideas through our contact form."
+    }
+  ],
+  "prefixes": [
+    "Hiro",
+    "Ken",
+    "Tak",
+    "Shin",
+    "Yama",
+    "Ryo",
+    "Aki",
+    "Haru",
+    "Kaz",
+    "Mas",
+    "Sato",
+    "Jun",
+    "Ren",
+    "Tomo",
+    "Yu",
+    "Isamu",
+    "Daiki",
+    "Hayato",
+    "Kaito",
+    "Minato"
+  ],
+  "suffixes": [
+    "shi",
+    "to",
+    "ya",
+    "ki",
+    "ro",
+    "ta",
+    "ichi",
+    "ji",
+    "o",
+    "hide",
+    "aki",
+    "suke",
+    "hiro",
+    "taro",
+    "hiko",
+    "ichi",
+    "fumi",
+    "haru",
+    "nori",
+    "mitsu"
+  ]
+}

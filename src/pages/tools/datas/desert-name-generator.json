@@ -1,0 +1,84 @@
+{
+  "name": "Desert Name Generator",
+  "description": "Struggling to find the perfect name for your arid adventure, scorching startup, or sandy-themed character?  Our Desert Name Generator conjures up names as vast and mysterious as the desert itself.  Unearth a name that's truly unforgettable!",
+  "slug": "desert-name-generator",
+  "icon": "\ud83c\udfdc\ufe0f",
+  "introduction": "Welcome, wanderer!  Are you ready to christen your next great adventure with a name that echoes across the dunes? Whether you're naming a fantasy kingdom, a daring explorer, or a particularly prickly cactus, we've got the perfect moniker brewing in our digital oasis.  Get ready for names as dry, witty, and surprisingly refreshing as a desert mirage!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Behold! A name, forged in the fires of creativity and cooled by the desert night.",
+    "Don't like it? Click again! We've got more names than grains of sand (almost).",
+    "Copy and paste your favorite into your project.  Easy peasy, lemon squeezy!",
+    "Share with your friends and let them bask in the glory of our generator!"
+  ],
+  "faqs": [
+    {
+      "question": "How does this thing even work?",
+      "answer": "Magic! Just kidding (mostly). We use a sophisticated algorithm (a bunch of words and stuff) to combine prefixes and suffixes related to deserts, creating unique and evocative names."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once generated, the name is yours to use as you see fit.  Go forth and conquer the business world, you magnificent desert mogul!"
+    },
+    {
+      "question": "Are the names truly unique?",
+      "answer": "We strive for uniqueness! While some combinations might occasionally overlap, the vast number of prefixes and suffixes makes it highly unlikely you'll find an exact duplicate elsewhere."
+    },
+    {
+      "question": "Will this generator help me find water in the desert?",
+      "answer": "Sadly, no. But it *will* help you find a killer name, which is arguably more important. (Okay, maybe not. Stay hydrated!)"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send them our way through the contact form on our website. We're always looking to expand our desert vocabulary!"
+    },
+    {
+      "question": "Is this generator mobile-friendly?",
+      "answer": "Yes, our generator is designed to work seamlessly on all devices, from your desktop computer to your trusty smartphone. Generate names on the go, even while trekking through the desert (but please prioritize safety!)."
+    }
+  ],
+  "prefixes": [
+    "Sand",
+    "Dune",
+    "Cactus",
+    "Oasis",
+    "Scorched",
+    "Whispering",
+    "Sunstone",
+    "Crimson",
+    "Ancient",
+    "Forgotten",
+    "Mirage",
+    "Silent",
+    "Golden",
+    "Dust",
+    "Nomad",
+    "Terra",
+    "Ember",
+    "Arid",
+    "Sirocco",
+    "Vagrant"
+  ],
+  "suffixes": [
+    "Bloom",
+    "Whisper",
+    "Ridge",
+    "Vale",
+    "Guard",
+    "Stone",
+    "Peak",
+    "Crest",
+    "Wind",
+    "Walker",
+    "Song",
+    "Glow",
+    "Heart",
+    "Dust",
+    "Shadow",
+    "Haven",
+    "Fire",
+    "Lands",
+    "Veil",
+    "Drifter"
+  ]
+}

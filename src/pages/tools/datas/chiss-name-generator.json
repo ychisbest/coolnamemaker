@@ -1,0 +1,64 @@
+{
+  "name": "Chiss Name Generator",
+  "description": "Unleash your inner Chiss with our name generator! Craft the perfect moniker worthy of the Ascendancy. Step into the Unknown Regions and forge your legend!",
+  "slug": "chiss-name-generator",
+  "icon": "\ud83c\udf0c",
+  "introduction": "Ready to join the ranks of Grand Admiral Thrawn? Or perhaps carve your own path among the Chiss Ascendancy? Our Chiss Name Generator is your gateway to creating an authentic and compelling Chiss name. Whether you're writing fan fiction, role-playing, or just curious about this fascinating species, we've got you covered. Get ready to embrace the cool, calculating, and strategic nature of the Chiss!",
+  "howToUse": [
+    "Simply hit the 'Generate' button and behold! A brand-new Chiss name will materialize before your very eyes.",
+    "Don't like the first result? No problem! Keep clicking until you find the name that resonates with your inner Chiss warrior.",
+    "Feeling creative? Mix and match prefixes and suffixes to create a truly unique and personalized Chiss name.",
+    "Remember, Chiss names often sound cool and a bit alien. Embrace the mystery!",
+    "Share your awesome new Chiss name with your friends and impress them with your knowledge of the Unknown Regions."
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *are* the Chiss?",
+      "answer": "The Chiss are a blue-skinned, humanoid species from the Unknown Regions of space in the Star Wars universe. They are known for their intelligence, strategic thinking, and generally awesome coolness."
+    },
+    {
+      "question": "Are these names *really* authentic Chiss names?",
+      "answer": "While we can't guarantee 100% canon accuracy (the Star Wars universe is vast and ever-expanding!), we've done our best to create names that capture the sound and feel of established Chiss names in the Star Wars lore."
+    },
+    {
+      "question": "Can I use these names for my Star Wars fan fiction?",
+      "answer": "Absolutely! That's what they're here for! Go forth and write epic tales of Chiss adventures!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! The generator has a vast library of prefixes and suffixes, so you're bound to find something you like eventually. Or, get inspired and create your own using our generator as a starting point!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You bet! Use it as much as your Chiss-loving heart desires. Spread the word and share the Chiss-ness!"
+    },
+    {
+      "question": "Will you add more prefixes and suffixes?",
+      "answer": "We are always striving to improve our generator. If you have suggestions for prefixes and suffixes, please let us know. We're always happy to add content."
+    }
+  ],
+  "prefixes": [
+    "Mitth'raw",
+    "Thrass",
+    "Irizi",
+    "Zi'ras",
+    "Voss",
+    "Xil'gar",
+    "Jorun",
+    "Siv",
+    "Dol",
+    "Fligg"
+  ],
+  "suffixes": [
+    "'nuruodo",
+    "'iss",
+    "'elodi",
+    "'anda",
+    "'ik",
+    "'aren",
+    "'an",
+    "'ast",
+    "'in",
+    "'ett"
+  ]
+}

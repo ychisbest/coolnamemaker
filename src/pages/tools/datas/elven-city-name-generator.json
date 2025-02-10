@@ -1,0 +1,84 @@
+{
+  "name": "Elven City Name Generator",
+  "description": "Unleash your inner Tolkien and conjure up breathtaking names for your elven metropolises! Whether you're crafting a fantasy novel, designing a captivating game world, or just daydreaming about ethereal realms, this generator will spark your imagination.",
+  "slug": "elven-city-name-generator",
+  "icon": "\ud83c\udff0",
+  "introduction": "Welcome, traveler, to the Elven City Name Generator! Are you tired of generic fantasy names that sound like they were pulled from a bargain bin? Fear not! This tool will weave together the mystical essence of the elves to create city names that resonate with ancient power, serene beauty, and a touch of elven magic. Prepare to be enchanted!",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's like whispering a secret spell to the ancient forest spirits!",
+    "Admire the glorious name that appears! (Maybe even shed a tear of elven joy.)",
+    "If the first name doesn't quite capture the shimmering essence of your city, click again! The elves have endless inspiration to share.",
+    "Copy and paste your perfect elven city name into your story, game, or secret diary. (We won't tell.)",
+    "Repeat until your world is brimming with elven cities, each with a name as unique and enchanting as the elves themselves!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names truly elven?",
+      "answer": "While we can't guarantee direct lineage to the First Age, we've meticulously crafted these names based on common elven naming conventions and linguistic patterns found in fantasy literature. They're as elven as a moonlit glade!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! These names are yours to use as you see fit. Create your epic saga, build your fantastical game, or name your cat 'Eryn Galen' \u2013 the possibilities are endless!"
+    },
+    {
+      "question": "Will this generator create names that are already used in existing fantasy worlds?",
+      "answer": "We strive for originality, but with countless fantasy worlds out there, there's always a *slight* chance of overlap. However, the vast majority of names generated will be unique and ready for your personal touch."
+    },
+    {
+      "question": "What if I don't like the name that's generated?",
+      "answer": "No worries! Elven tastes are as varied as the stars in the night sky. Just hit the 'Generate' button again for a fresh, new name. Keep trying until you find the perfect fit for your city."
+    },
+    {
+      "question": "Can I contribute to the list of prefixes and suffixes?",
+      "answer": "We'd love to hear your ideas! While we don't currently have a direct submission process, feel free to contact us with your suggestions. We're always looking for ways to expand our elven vocabulary!"
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Generate away, dear friend! There's no limit. Let your imagination run wild and create as many elven cities as your heart desires. The forests are vast, and the elves are plentiful!"
+    }
+  ],
+  "prefixes": [
+    "Eryn",
+    "Loth",
+    "Silver",
+    "Moon",
+    "Sun",
+    "Eldar",
+    "Mirk",
+    "Gloom",
+    "Whisper",
+    "Star",
+    "Ael",
+    "Sylv",
+    "Quel",
+    "Laure",
+    "Nim",
+    "Lind",
+    "Thal",
+    "Gond",
+    "Riv",
+    "Elen"
+  ],
+  "suffixes": [
+    "wood",
+    "haven",
+    "glen",
+    "dale",
+    "dell",
+    "gard",
+    "burg",
+    "mere",
+    "ford",
+    "shire",
+    "wyn",
+    "anor",
+    "andor",
+    "loth",
+    "lind",
+    "quend\u00eb",
+    "ion",
+    "anor",
+    "ilien",
+    "galen"
+  ]
+}

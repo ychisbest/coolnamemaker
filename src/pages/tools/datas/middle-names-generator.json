@@ -1,0 +1,103 @@
+{
+  "name": "Middle Name Generator",
+  "description": "Stuck in a middle name rut? Let our generator whisk you away to a world of middling magnificence! Discover the perfect name to bridge your first and last, adding a touch of pizzazz (or just plain practicality) to your identity.",
+  "slug": "middle-names-generator",
+  "icon": "\u2728",
+  "introduction": "Ever feel like your name is missing something? Like a crucial ingredient in a delicious name-sake recipe? A middle name can be that secret spice! Whether you're looking for something classic, quirky, or completely out-there, our Middle Name Generator is here to ignite your imagination and help you find 'the one'. Get ready to embrace the power of the middle!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new middle name appears before your very eyes.",
+    "Don't like what you see? No problem! Click again and again until a name tickles your fancy.",
+    "Feeling adventurous? Mix and match different first names and last names with the generated middle names to create truly unique combinations!",
+    "Remember, there are no wrong answers! Have fun and let your creativity flow. After all, it's just a middle name... unless you *really* love it!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Middle Name Generator is 100% free to use. We believe everyone deserves access to middle name magic."
+    },
+    {
+      "question": "Can I use these middle names for my baby?",
+      "answer": "Of course! While we can't guarantee they'll love it forever (kids are fickle!), all names generated are fair game. Just make sure it sounds good with the first and last name."
+    },
+    {
+      "question": "Are the generated names random?",
+      "answer": "Yep! We use a carefully curated list of middle names and a touch of randomness to deliver a fresh batch of suggestions every time."
+    },
+    {
+      "question": "Can I suggest middle names to be added to the generator?",
+      "answer": "We'd love to hear your suggestions! Send them our way via our contact form \u2013 we're always looking for new and exciting names to add to the mix."
+    },
+    {
+      "question": "I generated a really weird name. Is that normal?",
+      "answer": "Totally normal! We aim for a balance of classic and quirky, so you might stumble upon some unconventional options. Embrace the weird, or simply click 'Generate' again!"
+    },
+    {
+      "question": "How many times can I generate a middle name?",
+      "answer": "As many times as your heart desires! There's no limit to the number of middle names you can conjure up. Go wild!"
+    }
+  ],
+  "prefixes": [
+    "Ann",
+    "Marie",
+    "Elizabeth",
+    "Rose",
+    "Lee",
+    "Lynn",
+    "Grace",
+    "Jane",
+    "Kate",
+    "May",
+    "Hope",
+    "Faith",
+    "Joy",
+    "Ruth",
+    "Jean",
+    "Claire",
+    "Louise",
+    "Belle",
+    "Pearl",
+    "Willow",
+    "Skye",
+    "Jade",
+    "Violet",
+    "Hazel",
+    "Poppy",
+    "Juniper",
+    "River",
+    "Sage",
+    "Rowan",
+    "Ocean"
+  ],
+  "suffixes": [
+    "James",
+    "William",
+    "John",
+    "Robert",
+    "Michael",
+    "David",
+    "Christopher",
+    "Daniel",
+    "Joseph",
+    "Andrew",
+    "Matthew",
+    "Ryan",
+    "Anthony",
+    "Nicholas",
+    "Thomas",
+    "Brian",
+    "Kevin",
+    "Patrick",
+    "Sean",
+    "Peter",
+    "Mark",
+    "Adam",
+    "Eric",
+    "Scott",
+    "Jason",
+    "Paul",
+    "Steven",
+    "Kenneth",
+    "George",
+    "Timothy"
+  ]
+}

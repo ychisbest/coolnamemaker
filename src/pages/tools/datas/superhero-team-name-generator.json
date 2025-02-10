@@ -1,0 +1,104 @@
+{
+  "name": "Superhero Team Name Generator",
+  "description": "Assemble! Need a name that strikes fear into villains and inspires hope in the masses? Our Superhero Team Name Generator is here to save the day! Craft the perfect moniker for your league of extraordinary heroes.",
+  "slug": "superhero-team-name-generator",
+  "icon": "\ud83e\uddb8\u200d\u2642\ufe0f",
+  "introduction": "Every legendary superhero team needs a name that resonates with power, justice, and maybe a touch of flair. Whether you're writing a comic, creating a game, or just brainstorming with friends, our generator will unleash a torrent of heroic possibilities. Get ready to unleash your inner storyteller!",
+  "howToUse": [
+    "Simply click the 'Generate' button. Prepare to be amazed by the sheer awesomeness of the names that appear!",
+    "Don't like the first result? Keep clicking! There's a whole universe of heroic names waiting to be discovered.",
+    "Feeling creative? Mix and match prefixes and suffixes to forge your own unique team identity.",
+    "Once you've found the perfect name, shout it from the rooftops! (Or, you know, just copy and paste it.)",
+    "Remember, with great names comes great responsibility... to use them wisely!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we encourage creativity, these names are generated for fun and inspiration. It's best to check for existing trademarks before using a name commercially."
+    },
+    {
+      "question": "Are the generated names truly random?",
+      "answer": "Yes! Our algorithm combines a variety of prefixes and suffixes in a random order to create a wide range of unique possibilities. No two clicks are exactly alike!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form, and we'll consider adding them to our database."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With countless combinations, you're bound to find a name that resonates with your heroic vision. Or, use the generator as a springboard for your own creative brainstorming."
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heroic heart desires. The possibilities are endless!"
+    },
+    {
+      "question": "Will the Superhero Team Name Generator give me superpowers?",
+      "answer": "Sadly, no. But it *will* give you a super awesome team name, which is basically the same thing, right?"
+    }
+  ],
+  "prefixes": [
+    "Alpha",
+    "Omega",
+    "Cosmic",
+    "Quantum",
+    "Shadow",
+    "Crimson",
+    "Solar",
+    "Lunar",
+    "Mystic",
+    "Steel",
+    "Iron",
+    "Emerald",
+    "Vanguard",
+    "Apex",
+    "Nova",
+    "Phantom",
+    "Renegade",
+    "Elite",
+    "Galactic",
+    "Urban",
+    "Silent",
+    "Swift",
+    "Night",
+    "Day",
+    "Star",
+    "Thunder",
+    "Ember",
+    "Frost",
+    "Azure",
+    "Burning"
+  ],
+  "suffixes": [
+    "Force",
+    "Guardians",
+    "League",
+    "Alliance",
+    "Squad",
+    "Brigade",
+    "Order",
+    "Syndicate",
+    "Collective",
+    "Battalion",
+    "Enforcers",
+    "Protectors",
+    "Avengers",
+    "Elite",
+    "Division",
+    "Corps",
+    "Front",
+    "Sentinels",
+    "Regiment",
+    "Union",
+    "Circle",
+    "Strike",
+    "Knights",
+    "Command",
+    "Legion",
+    "Watch",
+    "Shield",
+    "Blades",
+    "Aegis",
+    "Phalanx"
+  ]
+}

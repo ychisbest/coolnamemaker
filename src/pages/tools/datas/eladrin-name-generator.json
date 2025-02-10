@@ -1,0 +1,83 @@
+{
+  "name": "Eladrin Name Generator",
+  "description": "Struggling to find the perfect, ethereal name for your Eladrin character? Fear not, traveler! Our Eladrin Name Generator is here to weave magic and conjure names worthy of the Feywild. Prepare to be enchanted!",
+  "slug": "eladrin-name-generator",
+  "icon": "\u2728",
+  "introduction": "Welcome, friend, to a realm of shimmering possibilities! Eladrin, the elegant and emotionally vibrant elves of the Feywild, deserve names as captivating as their very essence. Whether you seek a name that whispers of spring's gentle touch, autumn's fiery passion, winter's serene beauty, or summer's boundless energy, this generator is your guide. Let's find a name that resonates with your Eladrin's soul!",
+  "howToUse": [
+    "Behold! The generator of Eladrin names awaits your command! Simply click the 'Generate' button and watch as the magic unfolds.",
+    "Not feeling the name? No worries! Click again, and a brand new possibility will appear. Keep clicking until you find the name that sings to your heart.",
+    "Want something truly unique? Tweak the prefixes and suffixes to your liking! Mix and match to create a name that's as individual as your Eladrin.",
+    "Once you've found 'the one,' copy and paste it into your character sheet. Bask in the glory of your perfectly named Eladrin!"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* an Eladrin?",
+      "answer": "Ah, a fine question! Eladrin are a type of elf deeply connected to the Feywild, embodying strong emotions tied to the seasons. Think of them as elves dialed up to eleven, with a touch of fairy dust and a whole lot of charisma."
+    },
+    {
+      "question": "Are these names suitable for any Eladrin character?",
+      "answer": "Absolutely! This generator aims for versatility. While inspired by traditional Eladrin naming conventions, feel free to use any name that speaks to you, regardless of your character's class, background, or emotional state."
+    },
+    {
+      "question": "Can I use these names for non-player characters (NPCs)?",
+      "answer": "By all means! Give your NPCs names that will make them memorable, whether they're benevolent fey lords or mischievous sprites. A good name is half the battle when bringing a character to life."
+    },
+    {
+      "question": "The names are cool, but I want something *really* unique. Any tips?",
+      "answer": "Excellent! Try combining prefixes and suffixes in unexpected ways. Consider the meaning of the components \u2013 does it create a name that reflects your character's personality or backstory? Don't be afraid to experiment!"
+    },
+    {
+      "question": "Is this generator truly random?",
+      "answer": "As random as the Feywild allows! We've carefully curated lists of prefixes and suffixes to create names that feel authentic, but the combinations are generated algorithmically. So yes, each click offers a fresh, unpredictable possibility!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We love suggestions! While we can't guarantee every submission will be included, we're always looking for ways to improve the generator. Feel free to send your ideas our way!"
+    }
+  ],
+  "prefixes": [
+    "Aer",
+    "Lyri",
+    "Fael",
+    "Sylv",
+    "Quel",
+    "Eldr",
+    "Aest",
+    "Lum",
+    "Verid",
+    "Somn",
+    "Aur",
+    "Nyx",
+    "Zeph",
+    "Sol",
+    "Umb",
+    "Glim",
+    "Eth",
+    "Cryst",
+    "Echo",
+    "Whisper"
+  ],
+  "suffixes": [
+    "wyn",
+    "anor",
+    "iath",
+    "iel",
+    "ian",
+    "ira",
+    "eth",
+    "lyr",
+    "mir",
+    "ion",
+    "iel",
+    "anor",
+    "astra",
+    "umbra",
+    "solis",
+    "aris",
+    "iel",
+    "wyn",
+    "shadow",
+    "song"
+  ]
+}

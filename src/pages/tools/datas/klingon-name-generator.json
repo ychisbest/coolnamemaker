@@ -1,0 +1,88 @@
+{
+  "name": "Klingon Name Generator",
+  "description": "Unleash your inner warrior with our Klingon Name Generator! Forge a name worthy of Sto'Vo'Kor and strike fear into the hearts of your enemies (or just impress your fellow Trekkies). Qapla'!",
+  "slug": "klingon-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Are you ready to boldly go where no name has gone before? Our Klingon Name Generator is your portal to creating an authentic, battle-ready Klingon moniker. Whether you're role-playing, writing fan fiction, or simply curious about the Klingon language, we've got you covered. Get ready to roar and claim your destiny!",
+  "howToUse": [
+    "Click the 'Generate' button and BAM! A fearsome Klingon name appears!",
+    "Not feeling the warrior vibe? Click again! We've got enough combinations to conquer the galaxy.",
+    "Like a part of the name? Jot it down and keep generating until you find the perfect match.",
+    "Share your awesome Klingon name with your friends and challenge them to find one even more epic. (Spoiler: they won't.)",
+    "Use your new name to dominate online games, write epic stories, or just confuse your coworkers. The possibilities are endless!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator authentic Klingon?",
+      "answer": "We strive for authenticity! Our generator uses elements and structures inspired by the Klingon language as developed for Star Trek. While it may not be 100% linguistically perfect, it's designed to sound convincingly Klingon."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we encourage creativity, we advise caution when using generated names for commercial purposes. Consider researching existing trademarks and copyrights to avoid potential conflicts."
+    },
+    {
+      "question": "Are the generated names gender-specific?",
+      "answer": "Not necessarily! Many Klingon names are suitable for both male and female characters. However, some names may lean towards a particular gender. Experiment and choose what feels right for your warrior!"
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your Klingon heart desires! There's no limit to the number of names you can generate. Keep clicking until you find the perfect one to honor Kahless himself!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "Absolutely! We're always looking to expand our Klingon vocabulary. Feel free to send your suggestions our way, and we might just add them to the generator. Qapla'!"
+    },
+    {
+      "question": "Why are some names longer than others?",
+      "answer": "Why isn't there a Klingon honorific generator?"
+    },
+    {
+      "question": "We're working on it! Stay tuned for future updates and expansions to our Klingon name generation tools. We aim to provide you with everything you need to fully immerse yourself in Klingon culture.",
+      "answer": "We're working on it! Stay tuned for future updates and expansions to our Klingon name generation tools. We aim to provide you with everything you need to fully immerse yourself in Klingon culture."
+    }
+  ],
+  "prefixes": [
+    "Kor",
+    "Jag",
+    "Voq",
+    "Tor",
+    "Krel",
+    "D'Ghor",
+    "Mok",
+    "Rak",
+    "B'El",
+    "Lursa",
+    "Bator",
+    "Kurn",
+    "Worf",
+    "Martok",
+    "Gowron",
+    "Duras",
+    "Azetbur",
+    "Kang",
+    "Koloth",
+    "Korax"
+  ],
+  "suffixes": [
+    "ath",
+    "ok",
+    "ar",
+    "ek",
+    "on",
+    "an",
+    "or",
+    "el",
+    "is",
+    "us",
+    "ik",
+    "ak",
+    "ax",
+    "ox",
+    "ux",
+    "yr",
+    "yrg",
+    "arg",
+    "erg",
+    "irg"
+  ]
+}

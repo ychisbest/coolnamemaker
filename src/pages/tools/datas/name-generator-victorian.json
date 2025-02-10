@@ -1,0 +1,89 @@
+{
+  "name": "Victorian Name Generator",
+  "description": "Step back in time and conjure up a moniker worthy of a Dickens novel! Our Victorian Name Generator is your personal time machine for titles, crafting elegant and evocative names perfect for characters, businesses, or just a touch of old-world charm.",
+  "slug": "name-generator-victorian",
+  "icon": "\ud83c\udfa9",
+  "introduction": "Fancy a name dripping with Victorian elegance? Tired of the mundane and yearning for something a bit more... gaslit? Then you've stumbled upon the right place! Our generator blends historical accuracy with a dash of whimsy to produce names that sound like they belong in a parlor room, not a boardroom. Prepare to be transported!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new Victorian-esque name shall appear before your very eyes.",
+    "Feeling picky? Keep clicking until you find the name that perfectly captures your inner top-hatted aristocrat or rebellious suffragette.",
+    "Want to get really creative? Mix and match prefixes and suffixes to forge your own unique, historically-inspired masterpiece. Just don't blame us if everyone starts calling you 'Lord Fluffington'.",
+    "Copy and paste your favorite name to use in your writing, gaming, or social media profiles. Show off your newfound Victorian flair!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually Victorian?",
+      "answer": "Well, mostly! We've drawn inspiration from common names and naming conventions of the Victorian era. Some are directly lifted from history, while others are creatively crafted to evoke the same feeling."
+    },
+    {
+      "question": "Can I use these names for my historical fiction novel?",
+      "answer": "Absolutely! That's precisely what they're for (or at least, one of the things). Feel free to use them as inspiration or as the real deal. Just maybe double-check with a history buff if you're aiming for 100% accuracy."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! The generator is designed to produce a wide variety of names. And if you're still not satisfied, try mixing and matching prefixes and suffixes. The possibilities are practically endless (or at least, limited by the size of our lists)."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Completely and utterly free! We believe everyone deserves a touch of Victorian elegance in their lives, without having to spend a shilling."
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love that! Send your suggestions our way. We're always looking for ways to improve our generator and make it even more historically fabulous."
+    },
+    {
+      "question": "Why Victorian names? What's so special about them?",
+      "answer": "The Victorian era was a time of great change, innovation, and, let's face it, wonderfully elaborate names! They have a certain charm and sophistication that just can't be beat. Plus, they sound really cool."
+    }
+  ],
+  "prefixes": [
+    "Lord",
+    "Lady",
+    "Sir",
+    "Miss",
+    "Mr.",
+    "Doctor",
+    "Professor",
+    "Reverend",
+    "Esquire",
+    "The Honorable",
+    "Constable",
+    "Queen",
+    "King",
+    "Duchess",
+    "Duke",
+    "Countess",
+    "Count",
+    "Baroness",
+    "Baron",
+    "Captain"
+  ],
+  "suffixes": [
+    "Ashworth",
+    "Bellamy",
+    "Cranbrook",
+    "Darlington",
+    "Everett",
+    "Fairchild",
+    "Grimshaw",
+    "Hawthorne",
+    "Ingram",
+    "Jasper",
+    "Knightley",
+    "Livingston",
+    "Moreton",
+    "Northumberland",
+    "Oliver",
+    "Pembroke",
+    "Quinton",
+    "Rutherford",
+    "Sinclair",
+    "Tremaine",
+    "Underwood",
+    "Vance",
+    "Wentworth",
+    "Xavier",
+    "Yorke",
+    "Zimmerman"
+  ]
+}

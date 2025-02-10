@@ -1,0 +1,81 @@
+{
+  "name": "Aura Name Generator",
+  "description": "Unleash your inner radiance with a name that truly shines! \u2728 Discover the perfect moniker to match your unique aura. Are you ready to glow?",
+  "slug": "aura-name-generator",
+  "icon": "\ud83d\udd2e",
+  "introduction": "Ever wondered what name perfectly encapsulates your vibe? Our Aura Name Generator dives deep into the mystical and magical to conjure up names that resonate with your inner energy. Prepare to be amazed!",
+  "howToUse": [
+    "Simply click the 'Generate' button. (Duh!)",
+    "Behold! A name shimmering with auric energy will appear.",
+    "Don't dig it? Click again! We've got infinite cosmic combinations.",
+    "Found *the one*? Share it with the world and let your aura shine!"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* an aura name?",
+      "answer": "Think of it as a name that reflects your inner essence, your vibe, your *je ne sais quoi*! It's a name that just *feels* right."
+    },
+    {
+      "question": "Are these names legally binding?",
+      "answer": "Haha! No way! These names are purely for fun and self-discovery. Unless you're planning a secret identity... then maybe?"
+    },
+    {
+      "question": "Can I use these names for my characters?",
+      "answer": "Absolutely! Give your characters the gift of a radiant aura. We won't tell anyone where you got the idea."
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're constantly adding new prefixes and suffixes to keep the auric energy flowing. Stay tuned for even more luminous names!"
+    },
+    {
+      "question": "My aura is more 'dark and mysterious'. Will this still work for me?",
+      "answer": "Of course! Even shadows have an aura. This generator can conjure up names that are both light and shadow, reflecting the full spectrum of your being."
+    },
+    {
+      "question": "Is this generator based on real science?",
+      "answer": "Let's just say it's based on the science of *awesome*. \ud83d\ude09 It's all in good fun, so enjoy the magic!"
+    }
+  ],
+  "prefixes": [
+    "Radiant",
+    "Luminous",
+    "Celestial",
+    "Mystic",
+    "Ethereal",
+    "Shimmering",
+    "Golden",
+    "Astral",
+    "Solar",
+    "Lunar",
+    "Velvet",
+    "Obsidian",
+    "Shadow",
+    "Crimson",
+    "Phantom",
+    "Whisper",
+    "Storm",
+    "Twilight",
+    "Midnight"
+  ],
+  "suffixes": [
+    "Glow",
+    "Ray",
+    "Bloom",
+    "Shine",
+    "Light",
+    "Flare",
+    "Spark",
+    "Aura",
+    "Essence",
+    "Vibe",
+    "Soul",
+    "Dream",
+    "Echo",
+    "Veil",
+    "Flame",
+    "Thorn",
+    "shade",
+    "Mist",
+    "Solstice"
+  ]
+}

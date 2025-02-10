@@ -1,0 +1,85 @@
+{
+  "name": "Seawing Name Generator",
+  "description": "Dive into the depths of creativity and discover the perfect Seawing name! Our generator crafts unique and captivating names fit for royalty, warriors, or even just your average, fin-tastic dragon.",
+  "slug": "seawing-name-generator",
+  "icon": "\ud83c\udf0a",
+  "introduction": "Ever wondered what your Seawing name would be if you lived in Pyrrhia? Well, wonder no more! This generator combines the majesty of the ocean with the mystique of dragons to bring you a truly unique Seawing name. Whether you're writing fanfiction, creating a role-playing character, or just curious, we've got you covered. Get ready to make a splash!",
+  "howToUse": [
+    "Simply click the \"Generate\" button and behold your brand new Seawing name!",
+    "Don't like the first result? No problem! Keep clicking until you find the name that resonates with your inner dragon.",
+    "Feeling adventurous? Mix and match prefixes and suffixes for a truly personalized name. Go wild!",
+    "Share your awesome Seawing name with your friends and fellow Wings of Fire fans. Let the world know your draconic identity!"
+  ],
+  "faqs": [
+    {
+      "question": "What makes a good Seawing name?",
+      "answer": "Seawing names often evoke the ocean, sea creatures, or aquatic environments. Think of words like 'Tide,' 'Coral,' 'Wave,' or 'Angler.' A good Seawing name should also sound majestic and powerful, reflecting their connection to the sea."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes, the names are generated randomly using a combination of prefixes and suffixes. This ensures a wide variety of unique and interesting names."
+    },
+    {
+      "question": "Can I use these names for my Wings of Fire fanfiction?",
+      "answer": "Absolutely! Feel free to use these names for your stories, characters, or anything else you can imagine. We encourage creativity and love seeing what you come up with!"
+    },
+    {
+      "question": "Will I ever get the same name twice?",
+      "answer": "While it's *possible* to get the same name twice, the odds are pretty slim! With our extensive list of prefixes and suffixes, there are countless combinations waiting to be discovered."
+    },
+    {
+      "question": "Is this generator endorsed by Tui T. Sutherland?",
+      "answer": "Unfortunately, no. This generator is a fan-made tool created by dedicated Wings of Fire enthusiasts. But hey, maybe one day Tui will give us a shout-out!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to add to the generator?",
+      "answer": "We'd love to hear your ideas! Feel free to reach out to us with your suggestions. We're always looking for ways to improve and expand our name generator."
+    }
+  ],
+  "prefixes": [
+    "Sea",
+    "Tide",
+    "Coral",
+    "Wave",
+    "Angler",
+    "Current",
+    "Deep",
+    "Ocean",
+    "Aqua",
+    "Lagoon",
+    "Marina",
+    "Riptide",
+    "Kelp",
+    "Pearl",
+    "Salt",
+    "Hydro",
+    "Abyss",
+    "Siren",
+    "Nereid",
+    "Leviathan",
+    "Maelstrom"
+  ],
+  "suffixes": [
+    "wing",
+    "tail",
+    "scale",
+    "fin",
+    "stream",
+    "crest",
+    "hunter",
+    "seeker",
+    "watcher",
+    "dancer",
+    "song",
+    "rider",
+    "shaper",
+    "weaver",
+    "bender",
+    "gazer",
+    "spark",
+    "surge",
+    "sky",
+    "song",
+    "dream"
+  ]
+}

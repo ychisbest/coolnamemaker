@@ -1,0 +1,82 @@
+{
+  "name": "Holiday Name Generator",
+  "description": "Spice up your vacation vibes with a name that's as unique as your travel plans! Unearth the perfect moniker for your next adventure, whether it's a sun-soaked escape or a snowy retreat. Let's ditch the mundane and dive into a world of holiday name awesomeness!",
+  "slug": "holiday-name-generator",
+  "icon": "\u2708\ufe0f",
+  "introduction": "Tired of calling your trips 'Summer Vacation 2024'? Yearning for something with a little more...pizzazz? Well, my friend, you've landed in the right place! Our Holiday Name Generator is here to sprinkle some magic dust on your travel experiences. Get ready to christen your next getaway with a name that's as unforgettable as the memories you'll make.",
+  "howToUse": [
+    "Ready to roll? Simply click the 'Generate' button, and BAM! A brand-spankin'-new holiday name appears before your very eyes.",
+    "Not feeling the first result? No sweat! Hit that 'Generate' button again and again until a name tickles your fancy.",
+    "Found *the one*? Copy that bad boy and plaster it all over your travel journal, Instagram posts, or even your luggage tag! Let the world know your holiday has a name, and it's fabulous."
+  ],
+  "faqs": [
+    {
+      "question": "How many times can I generate a name?",
+      "answer": "As many times as your heart desires! We've got an endless supply of holiday names just waiting to be discovered. Go wild!"
+    },
+    {
+      "question": "Are the generated names actually good?",
+      "answer": "We think so! But beauty is in the eye of the beholder. If you don't like a name, just generate another one. We aim for creative, fun, and memorable, but ultimately, it's up to you to decide what's 'good'."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While the generator is intended for fun and personal use, if you find a name that perfectly suits your business, feel free to do your own due diligence to ensure it's not already in use and that you can legally use it."
+    },
+    {
+      "question": "Will the same name ever be generated twice?",
+      "answer": "It's possible, but unlikely! Our algorithm is designed to create a wide variety of names. But hey, if it happens, maybe it's a sign that you were *meant* to use that name!"
+    },
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Enjoy unlimited holiday name generation without spending a dime. Our gift to you, fellow travel enthusiast!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions, and we might just add them to the generator. Help us make it even more awesome!"
+    }
+  ],
+  "prefixes": [
+    "Sun-Kissed",
+    "Arctic",
+    "Tropical",
+    "Enchanted",
+    "Mystic",
+    "Serene",
+    "Wild",
+    "Urban",
+    "Coastal",
+    "Rustic",
+    "Golden",
+    "Azure",
+    "Crimson",
+    "Emerald",
+    "Diamond",
+    "Sapphire",
+    "Lunar",
+    "Solar",
+    "Celestial",
+    "Starlight"
+  ],
+  "suffixes": [
+    "Getaway",
+    "Adventure",
+    "Escape",
+    "Odyssey",
+    "Excursion",
+    "Sojourn",
+    "Retreat",
+    "Voyage",
+    "Quest",
+    "Expedition",
+    "Holiday",
+    "Vacation",
+    "Break",
+    "Jamboree",
+    "Safari",
+    "Ramble",
+    "Pilgrimage",
+    "Spectacular",
+    "Extravaganza",
+    "Panorama"
+  ]
+}

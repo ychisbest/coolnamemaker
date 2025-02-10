@@ -1,0 +1,73 @@
+{
+  "name": "Unicorn Name Generator",
+  "description": "Sparkle and shine! Discover the most magical and mystical Unicorn name you could ever imagine. Perfect for your pet, your story character, or just for fun!",
+  "slug": "unicorn-name-generator",
+  "icon": "\ud83e\udd84",
+  "introduction": "Ever wondered what your Unicorn name would be?  Stop wondering and start galloping! Our Unicorn Name Generator is here to sprinkle some magic into your life. Get ready to unleash your inner mythical creature!",
+  "howToUse": [
+    "Simply click the 'Generate' button. Prepare to be amazed!",
+    "Don't like the first name? No problem! Click again for a brand new, equally enchanting name.  It's like Unicorn magic, but real!",
+    "Feel free to mix and match prefixes and suffixes for even more personalized results.  Go wild!",
+    "Share your awesome Unicorn name with your friends. Let them bask in the glory of your magical moniker!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really magical?",
+      "answer": "Well, we can't *guarantee* actual magic, but it's pretty darn close! The names are so good, you'll think a unicorn whispered them in your ear."
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely!  These names are perfect for any fantasy character, unicorn or otherwise.  Go forth and conquer, Sir Sparklehoof!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes, the names are generated randomly based on our curated lists of prefixes and suffixes, ensuring a unique and magical result every time."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep clicking!  We've got a whole stable of fantastic names just waiting to be discovered. There's a perfect unicorn name out there for everyone."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we encourage creativity, please be mindful of existing trademarks and copyrights if you plan to use the generated names for commercial ventures. In short, use your best judgement!"
+    },
+    {
+      "question": "Will this generator help me find a real unicorn?",
+      "answer": "Sadly, no. This generator is purely for entertainment purposes. If you DO find a real unicorn, please let us know!"
+    }
+  ],
+  "prefixes": [
+    "Sparkle",
+    "Moon",
+    "Rainbow",
+    "Star",
+    "Crystal",
+    "Dream",
+    "Mystic",
+    "Shimmer",
+    "Glimmer",
+    "Astro",
+    "Ember",
+    "Cloud",
+    "Nova",
+    "Echo",
+    "Willow"
+  ],
+  "suffixes": [
+    "hoof",
+    "mane",
+    "shine",
+    "dust",
+    "beam",
+    "song",
+    "whisper",
+    "glade",
+    "bloom",
+    "crest",
+    "flare",
+    "grove",
+    "wing",
+    "light",
+    "dew"
+  ]
+}

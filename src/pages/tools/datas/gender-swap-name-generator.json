@@ -1,0 +1,74 @@
+{
+  "name": "Gender Swap Name Generator",
+  "description": "Ever wondered what you'd be called if you were the opposite gender? Unleash your inner alter ego with our Gender Swap Name Generator! It's not just a name; it's a whole new you, waiting to be discovered. Get ready to giggle, gasp, and maybe even find your next pen name!",
+  "slug": "gender-swap-name-generator",
+  "icon": "\u26a7\ufe0f",
+  "introduction": "Tired of your old name? Want to explore the possibilities? Our Gender Swap Name Generator is here to help! Whether you're writing a story, creating a character, or just curious, we'll give you a name that fits the bill. Prepare for some seriously fun results \u2013 you might just find your new favorite alias!",
+  "howToUse": [
+    "First, take a deep breath and embrace the unknown!",
+    "Enter your current name (or any name you fancy, really).",
+    "Click the 'Generate' button and BAM! A brand-spanking-new, gender-swapped name appears!",
+    "Giggle uncontrollably (optional, but highly encouraged).",
+    "Share your awesome new name with the world... or keep it a secret, your call!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really accurate?",
+      "answer": "Well, 'accurate' is a strong word! It's more about having fun and getting creative. Think of it as a starting point for your imagination."
+    },
+    {
+      "question": "Can I use these names for serious purposes?",
+      "answer": "Absolutely! Use them for characters, pen names, or even just to see how people react when you introduce yourself with your new alter ego. Just don't try to use it to, like, open a bank account or something."
+    },
+    {
+      "question": "What if I don't like the name it generates?",
+      "answer": "No problem! Just hit that 'Generate' button again. We've got a whole lotta names to choose from. Keep spinning until you find one that makes you say, 'YES! That's the one!'"
+    },
+    {
+      "question": "Does this generator store my name?",
+      "answer": "Nope! Your secrets are safe with us. We don't store any of the names you enter. This is all about pure, unadulterated name-swapping fun."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send them our way, and we'll see if we can add them to our ever-expanding list of awesome name parts. The more, the merrier!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "You betcha! It's 100% free to use. Enjoy the name-swapping extravaganza!"
+    }
+  ],
+  "prefixes": [
+    "Alex",
+    "Chris",
+    "Sam",
+    "Jordan",
+    "Taylor",
+    "Ryan",
+    "Jamie",
+    "Casey",
+    "Drew",
+    "Morgan",
+    "Max",
+    "Riley",
+    "Cameron",
+    "Blake",
+    "Jesse"
+  ],
+  "suffixes": [
+    "andra",
+    "tine",
+    "ie",
+    "a",
+    "ia",
+    "lyn",
+    "son",
+    "er",
+    "anne",
+    "ella",
+    "belle",
+    "ette",
+    "ica",
+    "ele",
+    "ory"
+  ]
+}

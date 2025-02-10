@@ -1,0 +1,72 @@
+{
+  "name": "Fae Name Generator",
+  "description": "Unleash your inner pixie! \u2728 Need a whimsical name for your D&D character, a story, or just for fun? Our Fae Name Generator conjures up enchanting monikers straight from the heart of the forest.",
+  "slug": "fae-names-generator",
+  "icon": "\ud83e\uddda",
+  "introduction": "Step into a world of gossamer wings and hidden glades! This generator is your portal to crafting the perfect fae name. Whether you're channeling Oberon, Titania, or a brand new sprite, we've got the magic to make it happen.",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's like whispering a secret to the forest \u2013 listen closely!",
+    "Keep clicking until a name whispers back to you. Don't settle for anything less than *sparkling*.",
+    "Feeling adventurous? Mix and match prefixes and suffixes for a truly unique creation. Go wild, darling!",
+    "Copy your favorite name and sprinkle it into your world. Watch the enchantment unfold."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "Think flowery meadows, whispering winds, and ancient trees! Our names evoke the ethereal beauty and mischievous spirit of the fae. We aim for names that sound magical, whimsical, and a little bit mysterious."
+    },
+    {
+      "question": "Can I use these names for my book/game/character?",
+      "answer": "Absolutely! That's what they're for! Consider them gifts from the fae realm. Use them freely and let your creativity soar."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Mostly! We use a curated list of prefixes and suffixes that are inspired by folklore, mythology, and our own imaginations. It's a delightful blend of chaos and charm."
+    },
+    {
+      "question": "Will this generator create names for specific types of fae (e.g., pixies, sprites, dryads)?",
+      "answer": "While not specifically tailored to each type, the names are versatile enough to suit a variety of fae creatures. Let your imagination be your guide!"
+    },
+    {
+      "question": "I generated a name I don't like. What do I do?",
+      "answer": "Click again! The forest is full of secrets, and there are countless names waiting to be discovered. Don't give up until you find the perfect fit."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions and we'll consider adding them to our ever-growing collection of fae magic."
+    }
+  ],
+  "prefixes": [
+    "Silvan",
+    "Lum",
+    "Briar",
+    "Ember",
+    "Whisper",
+    "Moon",
+    "Glimmer",
+    "Willow",
+    "Star",
+    "Hazel",
+    "Aether",
+    "Faeweaver",
+    "Sunwhisper",
+    "Nightbloom"
+  ],
+  "suffixes": [
+    "wood",
+    "leaf",
+    "wing",
+    "glow",
+    "song",
+    "shade",
+    "mist",
+    "brook",
+    "petal",
+    "shine",
+    "whisper",
+    "glen",
+    "bloom",
+    "thorn",
+    "light"
+  ]
+}

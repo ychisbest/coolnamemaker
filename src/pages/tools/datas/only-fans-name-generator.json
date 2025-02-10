@@ -1,0 +1,83 @@
+{
+  "name": "OnlyFans Name Generator",
+  "description": "Spice up your OnlyFans profile with a name that's unforgettable! Our generator crafts unique and catchy names that are sure to attract attention and boost your brand.",
+  "slug": "onlyfans-name-generator",
+  "icon": "\ud83d\udc8b",
+  "introduction": "Ready to ditch the generic and embrace the sensational? Your OnlyFans name is your first impression. Let's make it count with a name that's as captivating as your content!",
+  "howToUse": [
+    "Simply click the 'Generate' button. Like magic, a list of sizzling names will appear!",
+    "Don't like the first batch? No problem! Keep hitting 'Generate' until you find a name that screams 'YOU'.",
+    "Once you've found the perfect name, copy it and paste it into your OnlyFans profile. Voila! Instant upgrade!",
+    "Feeling adventurous? Mix and match prefixes and suffixes for a truly personalized touch. The possibilities are endless!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our OnlyFans Name Generator is 100% free to use. We believe everyone deserves a killer name."
+    },
+    {
+      "question": "Will the names generated be suitable for all types of content?",
+      "answer": "We aim for fun and flirty, but ultimately, the choice is yours! Review the names generated to make sure they align with your brand and content style."
+    },
+    {
+      "question": "Can I use the same name as someone else?",
+      "answer": "Technically, yes, but we highly recommend choosing a unique name to stand out from the crowd. Be original, darling!"
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly adding fresh and exciting prefixes and suffixes to keep the generator on point. Check back often for new inspiration!"
+    },
+    {
+      "question": "I found a name I love, but it's already taken. What should I do?",
+      "answer": "Bummer! Try tweaking the name slightly by adding a number, underscore, or a creative variation. Get those creative juices flowing!"
+    },
+    {
+      "question": "Are the generated names trademarked?",
+      "answer": "No, the generated names are not trademarked. It is your responsibility to ensure that the name you choose does not infringe on any existing trademarks."
+    }
+  ],
+  "prefixes": [
+    "Sultry",
+    "Spicy",
+    "Velvet",
+    "Electric",
+    "Midnight",
+    "Secret",
+    "Luxe",
+    "Diamond",
+    "Crimson",
+    "Rebel",
+    "Exotic",
+    "Whisper",
+    "Enchanting",
+    "Golden",
+    "Silken",
+    "Shadow",
+    "Scarlet",
+    "Mystic",
+    "Radiant",
+    "Wild"
+  ],
+  "suffixes": [
+    "Dreams",
+    "Delight",
+    "Desire",
+    "Siren",
+    "Venus",
+    "Flame",
+    "Kiss",
+    "Star",
+    "Queen",
+    "Goddess",
+    "Angel",
+    "Temptress",
+    "Whispers",
+    "Fantasy",
+    "Passion",
+    "Elixir",
+    "Aura",
+    "Muse",
+    "Charm",
+    "Rogue"
+  ]
+}

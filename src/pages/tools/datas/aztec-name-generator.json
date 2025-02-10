@@ -1,0 +1,64 @@
+{
+  "name": "Aztec Name Generator",
+  "description": "Unleash the power of ancient Mesoamerica! Craft a name that echoes with the might and mystery of the Aztec empire. Are you ready to claim your destiny?",
+  "slug": "aztec-name-generator",
+  "icon": "\ud83d\uddff",
+  "introduction": "Journey back in time and discover your Aztec identity! This generator blends history and imagination to create names that resonate with the spirit of warriors, priests, and emperors. Prepare to be amazed by the rich cultural heritage brought to life through your new moniker.",
+  "howToUse": [
+    "First, take a deep breath and channel your inner Teotihuacan.",
+    "Then, simply click the 'Generate' button \u2013 it's easier than appeasing Quetzalcoatl!",
+    "Voila! A magnificent Aztec name appears before your very eyes. Feel free to generate until you find the perfect one that speaks to your soul.",
+    "Share your awesome new name with friends and family. Bragging rights are totally included!",
+    "Bonus points if you start building your own pyramid. We're not responsible for any human sacrifices, though."
+  ],
+  "faqs": [
+    {
+      "question": "Are these real Aztec names?",
+      "answer": "Our generator draws inspiration from authentic Aztec naming conventions and linguistic elements, but the names are creatively combined for unique results. Think of it as 'Aztec-inspired' rather than strictly historical."
+    },
+    {
+      "question": "Can I use this name for my character in a story or game?",
+      "answer": "Absolutely! These names are perfect for adding depth and authenticity to your characters. Go forth and conquer the narrative world!"
+    },
+    {
+      "question": "What do the prefixes and suffixes mean?",
+      "answer": "Many prefixes and suffixes in Aztec names relate to qualities, deities, animals, or natural elements. We've carefully selected options that evoke the spirit of Aztec culture."
+    },
+    {
+      "question": "Is it okay to use an Aztec name if I'm not of Aztec descent?",
+      "answer": "Of course! While it's important to be respectful of the culture, using an Aztec-inspired name can be a fun way to connect with history and express your creativity. Just be mindful and avoid appropriating cultural symbols in disrespectful ways."
+    },
+    {
+      "question": "The name generator gave me a really long name. What should I do?",
+      "answer": "Some Aztec names can be quite elaborate! Feel free to shorten it to a more manageable version, or use it as a full title for maximum dramatic effect. Your call, noble warrior!"
+    },
+    {
+      "question": "Will using this name grant me superhuman powers?",
+      "answer": "While we can't guarantee superhuman abilities, we can promise you'll feel pretty darn cool. Side effects may include increased confidence and a sudden urge to build pyramids."
+    }
+  ],
+  "prefixes": [
+    "Tla",
+    "Teca",
+    "Quetzal",
+    "Xiu",
+    "Itz",
+    "Yaotl",
+    "Chal",
+    "Toxi",
+    "Miya",
+    "Coyol"
+  ],
+  "suffixes": [
+    "zin",
+    "pilli",
+    "tzin",
+    "coatl",
+    "metztli",
+    "xochitl",
+    "tonatiuh",
+    "tli",
+    "hua",
+    "quetz"
+  ]
+}

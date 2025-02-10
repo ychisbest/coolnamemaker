@@ -1,0 +1,98 @@
+{
+  "name": "Roller Coaster Name Generator",
+  "description": "Strap in, thrill-seekers! Need a name that screams adrenaline for your next steel beast? Our generator crafts the perfect moniker for your heart-stopping ride, guaranteed to get riders lining up for more!",
+  "slug": "roller-coaster-name-generator",
+  "icon": "\ud83c\udfa2",
+  "introduction": "Forget the mundane! This isn't your grandma's tea party. We're talking names that evoke the raw power, dizzying heights, and pure exhilaration of a world-class roller coaster. Whether you're envisioning a hypercoaster, a wooden wonder, or a family-friendly thrill, we've got the perfect name to capture its essence.",
+  "howToUse": [
+    "Ready to roll? Just hit the 'Generate' button and watch the magic happen. We'll conjure up a name that's as unique and unforgettable as the ride itself.",
+    "Feeling picky? Keep clicking! We've got a whole arsenal of names waiting to be unleashed.",
+    "Found 'the one'? Copy that baby and slap it on your coaster. You're welcome."
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for real roller coasters?",
+      "answer": "Absolutely! That's what they're for. Just be sure to check for trademark conflicts before you go full throttle."
+    },
+    {
+      "question": "Are the names generated randomly?",
+      "answer": "Yep! We use a super-secret algorithm (okay, it's not *that* secret) to combine prefixes and suffixes for maximum name-generating awesomeness."
+    },
+    {
+      "question": "I don't like the names. What am I doing wrong?",
+      "answer": "Nothing! Taste is subjective. Just keep generating until you find one that makes your heart race. Or tweak the prefixes and suffixes yourself!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Totally free! Ride the wave of name generation as many times as you like. No hidden loops or corkscrews here."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "Heck yeah! We're always looking for fresh ideas. Send your suggestions our way, and we might just add them to the mix."
+    },
+    {
+      "question": "Will the generated names guarantee my roller coaster becomes famous?",
+      "answer": "While we can't promise instant fame, a killer name is a *huge* step in the right direction. Think of it as the first drop on the road to coaster superstardom!"
+    }
+  ],
+  "prefixes": [
+    "Steel",
+    "Twisted",
+    "Hyper",
+    "Mega",
+    "Giga",
+    "Quantum",
+    "Velocity",
+    "Inferno",
+    "Cosmic",
+    "Raging",
+    "Phantom",
+    "Screaming",
+    "Thunder",
+    "Venom",
+    "Iron",
+    "Serpent",
+    "Titan",
+    "Colossus",
+    "Oblivion",
+    "Apex",
+    "Zenith",
+    "Vortex",
+    "Cyclone",
+    "Comet",
+    "Galaxy",
+    "Star",
+    "Solar",
+    "Lunar"
+  ],
+  "suffixes": [
+    "Force",
+    "Fury",
+    "Strike",
+    "Blaster",
+    "Storm",
+    "Edge",
+    "Rush",
+    "Impact",
+    "Wave",
+    "Chaser",
+    "Flyer",
+    "Twister",
+    "Demon",
+    "Hunter",
+    "Beast",
+    "Eagle",
+    "Hawk",
+    "Falcon",
+    "Voyager",
+    "Express",
+    "Arrow",
+    "Spear",
+    "Soarer",
+    "Burner",
+    "Driver",
+    "Ripper",
+    "Breaker",
+    "Surge"
+  ]
+}

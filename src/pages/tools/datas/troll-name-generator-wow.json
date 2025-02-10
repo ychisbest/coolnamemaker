@@ -1,0 +1,84 @@
+{
+  "name": "Troll Name Generator WoW",
+  "description": "Unleash your inner troll with our WoW Troll Name Generator! Craft the perfect moniker to strike fear (or laughter) into the hearts of your enemies... or just look super cool raiding Orgrimmar. Get ready to embrace the tusks, the voodoo, and the sheer awesomeness of being a troll!",
+  "slug": "troll-name-generator-wow",
+  "icon": "\ud83e\uddcc",
+  "introduction": "Ready to ditch that boring character name and embrace your troll heritage? This generator is your one-stop shop for crafting authentic, hilarious, and downright intimidating troll names. Whether you're a shadow hunter, a witch doctor, or just a troll looking for trouble, we've got you covered. So, grab your mojo, sharpen those tusks, and let's get naming!",
+  "howToUse": [
+    "First, take a deep breath and channel your inner troll. Think tusks, think voodoo, think...green!",
+    "Next, click that big, shiny 'Generate' button. Don't be shy, it doesn't bite (unless you're a gnome).",
+    "Behold! A glorious troll name, ready to be unleashed upon the unsuspecting world of Azeroth.",
+    "Not feeling it? No problem! Mash that button again until you find the perfect fit. We've got enough names to fill the Echo Isles!",
+    "Once you've found 'the one,' copy and paste it into your WoW character creation screen. Prepare for instant troll glory!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually troll-approved?",
+      "answer": "While we haven't had the official endorsement of Vol'jin (RIP) or Rokhan, we're pretty sure they'd give it a thumbs up. We've done our research, mon!"
+    },
+    {
+      "question": "Can I use these names for other games besides WoW?",
+      "answer": "Absolutely! While it's designed with WoW trolls in mind, feel free to use these names for any RPG, tabletop game, or even just to spice up your online persona. Get creative!"
+    },
+    {
+      "question": "Are these names lore-accurate?",
+      "answer": "We strive for a balance between lore accuracy and pure fun. Some names are inspired by existing troll characters and lore, while others are just plain silly. It's all about finding the perfect fit for *your* troll."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! We have a vast database of prefixes and suffixes, so you're bound to find something you love eventually. Or, you can always mix and match elements from different names to create your own unique masterpiece."
+    },
+    {
+      "question": "Will using one of these names make me a better player?",
+      "answer": "While we can't guarantee improved DPS or healing, a cool name definitely boosts your confidence and makes you stand out from the crowd. And who knows, maybe it'll even intimidate your opponents! So, yeah, basically it's a performance enhancer."
+    },
+    {
+      "question": "Are these names free to use?",
+      "answer": "Absolutely! Go wild, mon! Use 'em, share 'em, love 'em. Just don't try to sell 'em, okay? We're all about spreading the troll love."
+    }
+  ],
+  "prefixes": [
+    "Zul'",
+    "Vol'",
+    "Sen'",
+    "Jin'",
+    "Hex'",
+    "Shadow'",
+    "Witch'",
+    "Gloom'",
+    "Blood'",
+    "Bone'",
+    "Grave'",
+    "Dead'",
+    "Dark'",
+    "Gro'",
+    "Naz'",
+    "Rak'",
+    "Tor'",
+    "Zen'",
+    "Kra'",
+    "Mal'"
+  ],
+  "suffixes": [
+    "'jin",
+    "'taz",
+    "'watha",
+    "'zahn",
+    "'gar",
+    "'zul",
+    "'gor",
+    "'rak",
+    "'grim",
+    "'shadow",
+    "'hex",
+    "'tooth",
+    "'bane",
+    "'whisper",
+    "'stalker",
+    "'drinker",
+    "'breaker",
+    "'ripper",
+    "'caller",
+    "'weaver"
+  ]
+}

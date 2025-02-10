@@ -1,0 +1,74 @@
+{
+  "name": "Genderbend Name Generator",
+  "description": "Ever wondered what your name would be if you were the opposite gender? Unleash your alternate identity with our Genderbend Name Generator! Discover cool, unexpected, and maybe even *perfect* names you never knew you needed. Prepare for a delightful identity crisis (in the best way possible!).",
+  "slug": "genderbend-name-generator",
+  "icon": "\u26a7\ufe0f",
+  "introduction": "Tired of the same old you? Ready for a little gender-swapping fun? Our Genderbend Name Generator is here to whisk you away to a world where pronouns are optional and names are a playground. Whether you're writing a character, exploring your identity, or just looking for a laugh, get ready to meet your other half!",
+  "howToUse": [
+    "Simply hit the 'Generate' button and BAM! A brand new, gender-bent name appears before your very eyes.",
+    "Don't like the first result? No problem! Keep clicking until you find the name that truly resonates with your alternate self.",
+    "Feeling creative? Use the prefixes and suffixes to craft your own unique gender-swapped masterpiece. The possibilities are endless!",
+    "Share your amazing new name with friends and family \u2013 prepare for some serious double-takes and hilarious reactions!",
+    "Remember, it's all in good fun! Embrace the absurdity and discover a side of yourself you never knew existed."
+  ],
+  "faqs": [
+    {
+      "question": "How accurate is this generator? Will it *really* give me my true opposite-gender name?",
+      "answer": "While we can't guarantee it's your *destined* name, our generator uses a sophisticated (okay, maybe just slightly clever) algorithm to suggest names that are commonly associated with the opposite gender. Think of it as a fun starting point for your gender-bending adventure!"
+    },
+    {
+      "question": "Can I use these names for my characters in a book or game?",
+      "answer": "Absolutely! In fact, we encourage it! Our Genderbend Name Generator is a fantastic tool for writers and game developers looking for unique and fitting names for their characters."
+    },
+    {
+      "question": "Is this generator only for binary genders?",
+      "answer": "While the core function focuses on the traditional male/female binary, feel free to experiment and find a name that resonates with *you*, regardless of gender identity. Identity is a spectrum, and so is naming!"
+    },
+    {
+      "question": "The generated name sounds weird. Is it supposed to?",
+      "answer": "Sometimes! The goal is to explore the unexpected and create a little bit of fun. If a name sounds odd, try another one or tweak it with the prefixes and suffixes."
+    },
+    {
+      "question": "Will using a gender-bent name change my life?",
+      "answer": "Probably not drastically, but it might give you a new perspective, spark your creativity, or at least provide a good conversation starter. Who knows? Maybe your gender-bent alter ego is secretly awesome!"
+    },
+    {
+      "question": "Are the generated names culturally sensitive?",
+      "answer": "We strive to provide a diverse range of names, but cultural nuances can be complex. Always do your research and be mindful when using a name from a culture you're not familiar with."
+    }
+  ],
+  "prefixes": [
+    "Alex",
+    "Chris",
+    "Sam",
+    "Jordan",
+    "Taylor",
+    "Jamie",
+    "Drew",
+    "Max",
+    "Riley",
+    "Cameron",
+    "Charlie",
+    "Blake",
+    "Morgan",
+    "Jesse",
+    "Casey"
+  ],
+  "suffixes": [
+    "andra",
+    "thew",
+    "tina",
+    "son",
+    "lyn",
+    "drew",
+    "mie",
+    "well",
+    "on",
+    "ie",
+    "ton",
+    "lie",
+    "na",
+    "ey",
+    "y"
+  ]
+}

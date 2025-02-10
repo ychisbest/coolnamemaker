@@ -1,0 +1,94 @@
+{
+  "name": "Football Name Generator",
+  "description": "Stuck in the mud trying to come up with the *perfect* football team name? Score big with our Football Name Generator! We're talkin' names so good, they'll make your rivals weep into their Gatorade. Let's get you off the bench and into the endzone!",
+  "slug": "football-name-generator",
+  "icon": "\ud83c\udfc8",
+  "introduction": "Whether you're starting a fantasy football league, naming your intramural team, or just looking for a laugh, our generator is the MVP. We've got a playbook full of puns, a roster of rhymes, and enough alliteration to make your head spin (in a good way!). Prepare to be amazed by the sheer awesomeness of your new, uniquely crafted football name!",
+  "howToUse": [
+    "Simply click the 'Generate' button. Don't be shy, mash it!",
+    "Witness the magic as our algorithm spits out a gridiron-worthy name.",
+    "Not feeling it? No sweat! Just keep hitting that button until you find the name that makes you wanna do a touchdown dance.",
+    "Copy your favorite name and share it with your teammates (or rivals, if you're feeling extra cocky).",
+    "Dominate the league, secure bragging rights, and thank the Football Name Generator during your championship speech. We expect a shout-out!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to help me win my fantasy league?",
+      "answer": "While we can't guarantee victory (we're not miracle workers!), a killer team name is the first step. Confidence is key, and a great name breeds confidence. So, yes, indirectly, absolutely!"
+    },
+    {
+      "question": "Can I use these names for professional football teams?",
+      "answer": "Technically, yes. But we're not responsible if the NFL rejects 'The Flying Armadillos' or 'The Quantum Quarterbacks'. Use at your own risk!"
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! They're fresh out of the idea oven, ready for you to claim as your own. Go forth and conquer, name-thief\u2026 err, visionary!"
+    },
+    {
+      "question": "I don't like any of the names. What do I do?",
+      "answer": "Keep clicking! Our generator has more combinations than a Rubik's Cube on steroids. Eventually, you'll find a name that resonates with your inner football god (or goddess)."
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Absolutely! Consider it our gift to the world of football. Now go out there and score some points!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We're always looking for fresh ideas! Send your suggestions our way. If we like 'em, we might just add 'em and give you a shout-out (or at least a virtual high-five)."
+    }
+  ],
+  "prefixes": [
+    "Blitzing",
+    "Gridiron",
+    "Touchdown",
+    "Endzone",
+    "Flying",
+    "Raging",
+    "Quantum",
+    "Atomic",
+    "Ironclad",
+    "Steel Curtain",
+    "Renegade",
+    "Maverick",
+    "Velocity",
+    "Turbo",
+    "Galactic",
+    "Cosmic",
+    "Crimson",
+    "Emerald",
+    "Obsidian",
+    "Phantom",
+    "Shadow",
+    "Titan",
+    "Colossus"
+  ],
+  "suffixes": [
+    "Armadillos",
+    "Barracudas",
+    "Bruisers",
+    "Comets",
+    "Dynamos",
+    "Eagles",
+    "Falcons",
+    "Gladiators",
+    "Huskies",
+    "Infernos",
+    "Jaguars",
+    "Knights",
+    "Lions",
+    "Marauders",
+    "Ninjas",
+    "Olympians",
+    "Panthers",
+    "Quarterbacks",
+    "Raptors",
+    "Stallions",
+    "Tigers",
+    "Unicorns",
+    "Vikings",
+    "Wolves",
+    "Xenons",
+    "Yetis",
+    "Zephyrs"
+  ]
+}

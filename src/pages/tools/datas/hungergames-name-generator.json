@@ -1,0 +1,84 @@
+{
+  "name": "Hunger Games Name Generator",
+  "description": "May the odds be *ever* in your favor... of finding the perfect Hunger Games tribute name! Ditch that boring moniker and discover your inner Katniss or Peeta. Are you ready to volunteer as tribute... to awesome names?",
+  "slug": "hunger-games-name-generator",
+  "icon": "\ud83c\udff9",
+  "introduction": "Welcome, tribute! Need a name worthy of the arena? Whether you're writing fan fiction, role-playing, or just dreaming of overthrowing the Capitol, this Hunger Games Name Generator will arm you with a suitably epic identity. Get ready to embody courage, cunning, and maybe just a *little* bit of rebellious spirit.",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Keep clicking until a name resonates with your inner tribute.",
+    "Don't be afraid to mix and match prefixes and suffixes for a truly unique result! (Think 'Fire' + 'Crest' = FIRECREST! \ud83d\udd25)",
+    "Once you've found the perfect name, copy and paste it into your Hunger Games saga. May it bring you victory!",
+    "Share your favorite names with your friends. Misery loves company... or, you know, just awesome names do!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "This generator creates names inspired by the Hunger Games universe. Expect a mix of strong, evocative, and slightly mysterious names suitable for tributes from any district."
+    },
+    {
+      "question": "Can I use these names for my Hunger Games fan fiction?",
+      "answer": "Absolutely! That's exactly what it's for. Go forth and write your epic tale!"
+    },
+    {
+      "question": "Are the names generated random?",
+      "answer": "Yes, the names are generated randomly by combining prefixes and suffixes. This ensures a wide variety of unique and interesting results."
+    },
+    {
+      "question": "Will this generator tell me which district I'm from?",
+      "answer": "Sadly, no. This generator is strictly for names. You'll have to figure out your district allegiance on your own... or maybe there's another generator for that! \ud83d\ude09"
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart (or your story) desires. We're here to fuel your Hunger Games obsession!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always looking for ways to improve! Feel free to send us your suggestions. The Capitol is always listening... just kidding (mostly)!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Iron",
+    "Fire",
+    "Storm",
+    "River",
+    "Night",
+    "Dawn",
+    "Stone",
+    "Winter",
+    "Silver",
+    "Gold",
+    "Ash",
+    "Brave",
+    "Swift",
+    "Silent",
+    "Wild",
+    "Sky",
+    "Dust",
+    "Rose",
+    "Thorn"
+  ],
+  "suffixes": [
+    "wood",
+    "shade",
+    "strike",
+    "fall",
+    "brook",
+    "gale",
+    "light",
+    "rock",
+    "frost",
+    "moon",
+    "sun",
+    "burn",
+    "heart",
+    "wind",
+    "song",
+    "fire",
+    "walker",
+    "dust",
+    "bloom",
+    "thorn"
+  ]
+}

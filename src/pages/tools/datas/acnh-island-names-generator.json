@@ -1,0 +1,84 @@
+{
+  "name": "ACNH Island Name Generator",
+  "description": "Struggling to find the perfect name for your Animal Crossing: New Horizons island? Fear not, friend! This generator will whisk you away to a paradise of possibilities, crafting unique and charming island names that'll make your villagers swoon with delight. Get ready to ditch the 'New Whatever' and embrace island naming greatness!",
+  "slug": "acnh-island-names-generator",
+  "icon": "\ud83c\udfdd\ufe0f",
+  "introduction": "Welcome, future island overlord! Your island in Animal Crossing: New Horizons deserves a name as special as the adventures you'll have there. But let's be honest, sometimes inspiration hides behind a palm tree. That's where this generator comes in! We'll help you brainstorm a name that's both catchy and perfectly suited to your island paradise. Prepare for a flurry of fantastic island names!",
+  "howToUse": [
+    "Simply click the 'Generate' button and let the magic happen!",
+    "Don't like the name? No problem! Hit 'Generate' again for a fresh wave of island-naming inspiration.",
+    "Found the perfect name? Hooray! Write it down, shout it from the rooftops (or, you know, just type it into your Switch).",
+    "Feeling adventurous? Mix and match prefixes and suffixes for a truly unique island moniker!",
+    "Remember, there's no wrong answer! Choose a name that sparks joy and reflects the vibe of your island."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "We strive to create a diverse range of names, from whimsical and cute to adventurous and mysterious. You'll find names inspired by nature, mythology, and pure imagination!"
+    },
+    {
+      "question": "Are the generated names already taken in Animal Crossing?",
+      "answer": "While we can't guarantee that every name is 100% unique, we do our best to generate a wide variety of options to increase your chances of finding an unused gem. It's always a good idea to double-check in-game!"
+    },
+    {
+      "question": "Can I use these names for other games or purposes?",
+      "answer": "Absolutely! Feel free to use these names for anything your heart desires \u2013 other games, stories, pets, or even your next band! The possibilities are endless."
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly adding new prefixes and suffixes to keep the generator fresh and exciting! Check back often for even more island-naming inspiration."
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as you like until you find the perfect fit. We're here to support your island-naming journey!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions, and we'll consider adding them to the generator. Let's make this the ultimate island name resource together!"
+    }
+  ],
+  "prefixes": [
+    "Blossom",
+    "Coral",
+    "Star",
+    "Moon",
+    "Sun",
+    "Dream",
+    "Whisper",
+    "Serene",
+    "Mystic",
+    "Rainbow",
+    "Ocean",
+    "Forest",
+    "Golden",
+    "Silver",
+    "Crystal",
+    "Willow",
+    "Cherry",
+    "Seaside",
+    "Tranquil",
+    "Sunrise"
+  ],
+  "suffixes": [
+    " Isle",
+    " Bay",
+    " Cove",
+    " Atoll",
+    " Shores",
+    " Haven",
+    " Reach",
+    " Glade",
+    " Valley",
+    " Peak",
+    " Lagoon",
+    " Falls",
+    " Ridge",
+    " Grove",
+    " Sanctuary",
+    " Paradise",
+    " Land",
+    " Island",
+    " Town",
+    " Village"
+  ]
+}

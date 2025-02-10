@@ -1,0 +1,84 @@
+{
+  "name": "GW2 Name Generator",
+  "description": "Struggling to come up with the perfect name for your Guild Wars 2 character? Fear no more, adventurer! Our GW2 Name Generator is here to save the day, conjuring up awesome and lore-friendly names with a click. Get ready to embark on your Tyrian journey with a name that's as epic as your adventures!",
+  "slug": "gw2-name-generator",
+  "icon": "\ud83d\udc09",
+  "introduction": "Whether you're a noble Sylvari, a fierce Norn, a cunning Asura, a resourceful Human, or a mighty Charr, finding the right name is crucial. Our generator blends lore, race-specific naming conventions, and a dash of creativity to deliver names that sound like they were ripped straight from the heart of Tyria. Prepare to be amazed by the sheer awesomeness of your new moniker!",
+  "howToUse": [
+    "First, take a deep breath and channel your inner hero (or villain \u2013 we don't judge!).",
+    "Next, click that big, shiny 'Generate' button like you're unleashing a powerful spell.",
+    "Behold! A name worthy of legend appears before your very eyes.",
+    "Don't like it? Click again! We've got more names than there are Charr in the Black Citadel.",
+    "Found 'the one'? Copy it, paste it, and prepare to dominate Tyria with your newfound identity!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator lore-accurate?",
+      "answer": "We've done our best to incorporate Guild Wars 2 lore and race-specific naming conventions. While we can't guarantee 100% accuracy (because, you know, magic!), we strive to create names that fit the world."
+    },
+    {
+      "question": "Can I use these names for other games?",
+      "answer": "Absolutely! While designed with Guild Wars 2 in mind, these names are versatile enough for any fantasy setting. Go forth and conquer, brave adventurer!"
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! Click that button until you find the perfect name. We've got an endless supply of awesome just waiting to be unleashed."
+    },
+    {
+      "question": "Are the names generated unique?",
+      "answer": "We aim for uniqueness, but with millions of players, there's always a chance someone else might have a similar name. If you're concerned, try adding a middle name or title to make it truly your own."
+    },
+    {
+      "question": "Do I need to create an account to use this generator?",
+      "answer": "Nope! This generator is completely free and requires no registration. Just pure, unadulterated name-generating fun."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We love suggestions! Feel free to send us your ideas. We're always looking for ways to improve and expand our name-generating capabilities."
+    }
+  ],
+  "prefixes": [
+    "Storm",
+    "Shadow",
+    "Sun",
+    "Moon",
+    "Iron",
+    "Steel",
+    "Silver",
+    "Gold",
+    "Frost",
+    "Flame",
+    "Night",
+    "Dawn",
+    "Whisper",
+    "Echo",
+    "Rune",
+    "Star",
+    "Void",
+    "Light",
+    "Blood",
+    "Stone"
+  ],
+  "suffixes": [
+    "blade",
+    "heart",
+    "claw",
+    "fang",
+    "shade",
+    "walker",
+    "runner",
+    "seeker",
+    "caller",
+    "weaver",
+    "forger",
+    "binder",
+    "guard",
+    "bringer",
+    "breaker",
+    "slayer",
+    "bane",
+    "song",
+    "wind",
+    "eye"
+  ]
+}

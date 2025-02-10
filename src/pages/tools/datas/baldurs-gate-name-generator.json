@@ -1,0 +1,92 @@
+{
+  "name": "Baldur's Gate Name Generator",
+  "description": "Roll for initiative! Need a name worthy of Faer\u00fbn? This generator conjures up epic monikers for your characters, whether they're destined for glory or doomed to a goblin's stew. Get ready to embark on your adventure with a name that resonates with the Forgotten Realms!",
+  "slug": "baldurs-gate-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Welcome, adventurer, to the Baldur's Gate Name Generator! Tired of generic names that wouldn't scare a squirrel? Fear not! Our arcane algorithms weave together the essence of Faer\u00fbn to forge names that sound like they were ripped from the pages of a legendary tome. Whether you're a noble paladin, a mischievous rogue, or a spell-slinging wizard, we've got the perfect name to kickstart your epic tale.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A name, blessed (or cursed) by the gods, will appear before your very eyes.",
+    "Don't like the first result? Keep clicking! We've got more names than there are dungeons in the Underdark.",
+    "Feeling fancy? Tweak the prefixes and suffixes to craft a name that's uniquely YOURS. Just don't blame us if you accidentally summon a demon.",
+    "Copy and paste your chosen name into your character sheet and prepare to become a legend. Or at least someone worth gossiping about at the Elfsong Tavern."
+  ],
+  "faqs": [
+    {
+      "question": "Will this generator make me a better D&D player?",
+      "answer": "Sadly, no. But you'll have a cooler name while you're failing your saving throws. Think of it as +1 to Charisma (roleplaying bonus only)."
+    },
+    {
+      "question": "Are these names lore-friendly?",
+      "answer": "We've poured over the lore of Baldur's Gate and the Forgotten Realms to make these names feel authentic. That being said, some names are purely for fun. Use your best judgement!"
+    },
+    {
+      "question": "Can I use these names for my novel/game/pet hamster?",
+      "answer": "Absolutely! Consider it a gift from the gods of creativity. Just promise to give us a shout-out if your hamster becomes famous."
+    },
+    {
+      "question": "What if I still can't find a name I like?",
+      "answer": "Keep trying! The perfect name is out there, waiting to be discovered. Or, you know, just make one up. That's what the gods would want you to do."
+    },
+    {
+      "question": "Is this generator powered by magic?",
+      "answer": "Let's just say we consulted with a few friendly wizards. And by 'consulted,' we mean 'bribed with pizza'. So, yes, technically, there's magic involved (pizza magic)."
+    },
+    {
+      "question": "Can I suggest prefixes and suffixes?",
+      "answer": "Of course! Send us your suggestions, and who knows, your contribution might end up inspiring the next generation of adventurers. We're always looking for fresh ideas to keep the generator spicin'!"
+    }
+  ],
+  "prefixes": [
+    "Aer",
+    "Bael",
+    "Corm",
+    "Eld",
+    "Faer",
+    "Glaur",
+    "Helm",
+    "Il",
+    "Jor",
+    "Khel",
+    "Luth",
+    "Myst",
+    "Nor",
+    "Olm",
+    "Pelor",
+    "Quel",
+    "Rauth",
+    "Silv",
+    "Tor",
+    "Ulv",
+    "Valen",
+    "Wyrm",
+    "Xan",
+    "Yar",
+    "Zel"
+  ],
+  "suffixes": [
+    "an",
+    "ar",
+    "el",
+    "ian",
+    "ion",
+    "in",
+    "or",
+    "os",
+    "us",
+    "wyn",
+    "gar",
+    "grim",
+    "stone",
+    "wood",
+    "blade",
+    "shield",
+    "heart",
+    "song",
+    "whisper",
+    "wind",
+    "fire",
+    "frost",
+    "shadow",
+    "light"
+  ]
+}

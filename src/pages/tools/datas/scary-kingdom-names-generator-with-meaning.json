@@ -1,0 +1,83 @@
+{
+  "name": "Scary Kingdom Name Generator",
+  "description": "Unleash your inner dark lord and conjure up the most terrifying kingdom names imaginable! Perfect for fantasy writers, game developers, or anyone who wants to add a touch of dread to their world.",
+  "slug": "scary-kingdom-names-generator",
+  "icon": "\ud83c\udff0",
+  "introduction": "Ever wanted to rule a kingdom that sends shivers down the spines of your enemies? A kingdom so fearsome that mere mention of its name is enough to quell rebellions? Well, friend, you've come to the right place. Our Scary Kingdom Name Generator is your portal to a realm of chilling monikers, guaranteed to inspire awe and terror in equal measure.",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Behold the horrifyingly awesome kingdom name that appears!",
+    "If the name doesn't quite satisfy your thirst for darkness, click 'Generate' again. We've got plenty of nightmares to go around.",
+    "Copy and paste your favorite scary kingdom name into your novel, game, or secret lair blueprints.",
+    "Rule with an iron fist (or at least pretend to)."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names *actually* scary?",
+      "answer": "We've consulted with professional monster wranglers and fear experts to ensure maximum spookiness. Your mileage may vary, but prepare for chills!"
+    },
+    {
+      "question": "Can I use these names for my D&D campaign?",
+      "answer": "Absolutely! Just be prepared for your players to tremble before your newly christened dread realm."
+    },
+    {
+      "question": "Will using these names summon actual demons?",
+      "answer": "We cannot guarantee that. Use at your own risk. (But if you *do* summon a demon, please send us a picture!)"
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! They're yours to use as you please. Go forth and conquer, legally!"
+    },
+    {
+      "question": "I generated a name that's *too* scary. What do I do?",
+      "answer": "Embrace the darkness! Or, you know, click 'Generate' again. We have less-scary (but still spooky) options too."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "Absolutely! Send your darkest, most twisted ideas our way. We're always looking to expand our arsenal of fright."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Night",
+    "Doom",
+    "Gloom",
+    "Blood",
+    "Bone",
+    "Skull",
+    "Death",
+    "Raven",
+    "Whisper",
+    "Crimson",
+    "Obsidian",
+    "Iron",
+    "Stone",
+    "Silent",
+    "Frozen",
+    "Cursed",
+    "Wretched",
+    "Desolate"
+  ],
+  "suffixes": [
+    "wood",
+    "dale",
+    "fell",
+    "mire",
+    "glen",
+    "hold",
+    "gate",
+    "spire",
+    "reach",
+    "fall",
+    "shade",
+    "scar",
+    "mark",
+    "cliff",
+    "hollow",
+    "pass",
+    "peak",
+    "throne",
+    "domain",
+    "realm"
+  ]
+}

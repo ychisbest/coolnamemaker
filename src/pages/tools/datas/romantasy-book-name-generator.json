@@ -1,0 +1,113 @@
+{
+  "name": "Romantasy Book Name Generator",
+  "description": "Stuck staring at a blank page? Unleash your inner wordsmith with our Romantasy Book Name Generator! We'll conjure up titles so captivating, your readers will be hooked before they even crack the spine. Get ready for a symphony of romance and fantasy \u2013 your next bestseller starts here!",
+  "slug": "romantasy-book-name-generator",
+  "icon": "\ud83d\udcda\u2728",
+  "introduction": "Welcome, fellow author! Are you ready to embark on an epic quest... for the perfect book title? Our Romantasy Book Name Generator is your magical portal to a realm of enchanting names, blending the heart-fluttering allure of romance with the breathtaking scope of fantasy. Whether you're crafting a tale of star-crossed lovers battling dragons, or a forbidden romance amidst ancient prophecies, we've got the title that will whisper promises of adventure and passion.",
+  "howToUse": [
+    "Ready to spin some literary gold? It's as easy as pie (or should we say, enchanted pie?)",
+    "Simply click the 'Generate' button and BAM! A brand-new, sparkling Romantasy book name appears before your very eyes.",
+    "Not feeling it? No worries! Click again for another dose of inspiration. We've got enough name combinations to fill a thousand libraries!",
+    "Feeling adventurous? Mix and match elements from different generated names to create something truly unique. The possibilities are as endless as your imagination!",
+    "And remember, the best title is one that resonates with *you*. Trust your gut, have fun, and let the magic flow!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Consider it our gift to the writing community. Unleash your creativity without breaking the bank."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Yes! Once a name is generated, it's yours to use as you see fit. Go forth and conquer the bestseller lists!"
+    },
+    {
+      "question": "Will these names be copyrighted?",
+      "answer": "We generate names from a pool of common words and phrases, so it's unlikely they'll be copyrighted. However, it's always a good idea to do a quick search to ensure your chosen title isn't already in use."
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're constantly adding new prefixes, suffixes, and magical ingredients to keep the generator fresh and inspiring. Check back often for a new dose of naming magic!"
+    },
+    {
+      "question": "I love a name, but it's *almost* perfect. Can I tweak it?",
+      "answer": "Definitely! Think of the generator as a starting point. Feel free to add your own personal touch to make the name truly your own. That's where the real magic happens!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! We have thousands of combinations. You can also try refreshing the page to reset the generator. Sometimes a fresh start is all you need!"
+    }
+  ],
+  "prefixes": [
+    "The Shadow of",
+    "A Dance With",
+    "The Secret of",
+    "Bound by",
+    "Kissed by",
+    "Forged in",
+    "Crown of",
+    "Heart of",
+    "The Last",
+    "Echoes of",
+    "Whispers of",
+    "Beneath the",
+    "Above the",
+    "Beyond the",
+    "The Stolen",
+    "The Fallen",
+    "The Rise of",
+    "The Legend of",
+    "The Prophecy of",
+    "The Blood of",
+    "The Tears of",
+    "The Gift of",
+    "The Curse of",
+    "The Song of",
+    "The Light of",
+    "The Dark of",
+    "The Fate of",
+    "The Price of",
+    "The Path of",
+    "The Trial of",
+    "The Quest for",
+    "The Search for",
+    "The Awakening of",
+    "The Betrayal of",
+    "The Redemption of"
+  ],
+  "suffixes": [
+    "Dragons",
+    "Stars",
+    "Magic",
+    "Secrets",
+    "Destiny",
+    "Fire",
+    "Ice",
+    "Shadows",
+    "Light",
+    "Blood",
+    "Ashes",
+    "Thorns",
+    "Roses",
+    "Empires",
+    "Kingdoms",
+    "Gods",
+    "Goddesses",
+    "Legends",
+    "Prophecies",
+    "Kings",
+    "Queens",
+    "Princes",
+    "Princesses",
+    "Warriors",
+    "Mages",
+    "Elves",
+    "Fairies",
+    "Demons",
+    "Angels",
+    "Beasts",
+    "Spirits",
+    "Dreams",
+    "Nightmares",
+    "Illusions"
+  ]
+}

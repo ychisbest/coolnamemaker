@@ -1,0 +1,82 @@
+{
+  "name": "Japanese Village Name Generator",
+  "description": "Struggling to find the perfect name for your serene Japanese village? Look no further! Our generator crafts authentic-sounding names steeped in history and tranquility. Get ready to transport your audience to the heart of Japan!",
+  "slug": "japanese-village-names-generator",
+  "icon": "\u26e9\ufe0f",
+  "introduction": "Welcome, wanderer! Naming a Japanese village is no small feat. It's about capturing the essence of the land, the spirit of the people, and the whispers of ancient traditions. This generator is your trusty guide, weaving together syllables and meanings to conjure names that resonate with authenticity and beauty. Forget generic place names; we're talking evocative titles that will make your village a legend!",
+  "howToUse": [
+    "Ready to embark on your naming journey? It's as easy as bowing! (metaphorically, of course).",
+    "Simply click the 'Generate' button and watch the magic unfold. We'll present you with a selection of meticulously crafted Japanese village names.",
+    "Not feeling the zen of the first result? No problem! Keep clicking until you find the name that perfectly captures the soul of your village.",
+    "Consider the meaning and sound of each name. Does it evoke images of cherry blossoms, ancient temples, or bustling marketplaces? Choose wisely, grasshopper!",
+    "Once you've found 'the one', proudly bestow it upon your virtual village. And remember, with great names comes great responsibility (mostly just to have fun!)."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually real Japanese village names?",
+      "answer": "While we draw inspiration from real Japanese place names and linguistic patterns, the generated names are often unique combinations. They're designed to *sound* authentic and evocative, rather than being direct copies of existing villages."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once a name is generated, it's yours to use as you see fit. Feel free to name your game, book, or even your pet hamster after a generated village (though we're not responsible for any hamster-related cultural appropriation!)."
+    },
+    {
+      "question": "How are the names generated?",
+      "answer": "Our generator uses a sophisticated algorithm (and a healthy dose of artistic license) to combine Japanese-inspired prefixes and suffixes. We carefully curate these elements to ensure that the resulting names are both beautiful and believable."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes to add to the generator?",
+      "answer": "We're always open to suggestions! If you have a brilliant idea for a prefix or suffix that would enhance the generator, feel free to send it our way. We can't promise we'll use every suggestion, but we appreciate your input!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! Our generator offers a vast array of possibilities. If you're still not satisfied, try adjusting your expectations or exploring other name generators on our site. We're confident you'll find the perfect name eventually!"
+    },
+    {
+      "question": "Will using this generator make me fluent in Japanese?",
+      "answer": "Sadly, no. While our generator can provide you with cool-sounding village names, it won't magically bestow you with linguistic superpowers. You'll still need to put in the effort to learn Japanese the old-fashioned way (books, classes, and maybe a few trips to Japan!)."
+    }
+  ],
+  "prefixes": [
+    "Aki",
+    "Hana",
+    "Kawa",
+    "Mura",
+    "Naka",
+    "Sato",
+    "Yama",
+    "Kaze",
+    "Tsuki",
+    "Fuji",
+    "Umi",
+    "Mizu",
+    "Iwa",
+    "Take",
+    "Kiyo",
+    "Waka",
+    "Sumi",
+    "Oto",
+    "Mori"
+  ],
+  "suffixes": [
+    "gawa",
+    "machi",
+    "mura",
+    "yama",
+    "saki",
+    "moto",
+    "shima",
+    "hara",
+    "zawa",
+    "bayashi",
+    "kawa",
+    "no",
+    "oka",
+    "daira",
+    "sato",
+    "mizu",
+    "hashi",
+    "take",
+    "kawa"
+  ]
+}

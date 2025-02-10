@@ -1,0 +1,113 @@
+{
+  "name": "Capital City Name Generator",
+  "description": "Struggling to come up with the perfect name for your burgeoning metropolis? Fear not, future mayor! Our Capital City Name Generator is here to spark your imagination and provide you with a list of names so grand, they'll make your city the envy of every civilization, real or imagined. Prepare for names that resonate with history, inspire awe, and maybe even sound a little bit\u2026 regal. Let's build a legend, one city name at a time!",
+  "slug": "capital-city-name-generator",
+  "icon": "\ud83c\udfdb\ufe0f",
+  "introduction": "Welcome, visionary! Your city's name is its first impression, its battle cry, its whispered secret. It needs to be epic. That's where we come in. This generator blends the gravitas of historical capitals with a dash of modern flair to create names that are both timeless and unforgettable. Get ready to unleash a torrent of potential city names, each brimming with character and ready to be etched onto maps for centuries to come.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the birth of brand-new capital city names!",
+    "Not feeling the first batch? Keep clicking! We've got enough combinations to name a whole galaxy of capitals.",
+    "Found a name you love? Jot it down! It's yours to claim and build a legend around.",
+    "Feeling creative? Tweak the generated names! Add a syllable, swap a letter, make it truly your own. We're just here to get the ball rolling.",
+    "Share your favorite generated names with your friends and see who can come up with the most compelling backstory for their hypothetical capital. Bragging rights are on the line!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for commercial purposes (e.g., a video game or book)?",
+      "answer": "Absolutely! These names are generated for your creative enjoyment. Consider them a starting point for your own unique world-building. Go forth and create!"
+    },
+    {
+      "question": "Are the generated names actual city names?",
+      "answer": "Some might sound familiar, inspired by real-world locations, while others are completely original. The goal is to spark your creativity, not to provide a list of existing places."
+    },
+    {
+      "question": "How many different names can this generator create?",
+      "answer": "Potentially thousands! The combination of prefixes and suffixes allows for a vast array of unique and interesting names. You'll be generating for days!"
+    },
+    {
+      "question": "Is there a way to save my favorite generated names?",
+      "answer": "While this generator doesn't have a built-in saving feature, we recommend copying and pasting your favorites into a document or notepad for easy access. Or, you know, carve them into stone tablets. Your call."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We're always open to suggestions! Feel free to reach out to us with your ideas. We're constantly striving to improve and expand the generator's capabilities."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! Or, try combining elements from different names you see. The beauty of this generator is its flexibility. It's all about finding that perfect spark of inspiration."
+    }
+  ],
+  "prefixes": [
+    "Aethel",
+    "Nova",
+    "Astra",
+    "Valoria",
+    "Eldoria",
+    "Silver",
+    "Golden",
+    "Stone",
+    "Iron",
+    "Crystal",
+    "New",
+    "Old",
+    "Great",
+    "Royal",
+    "Grand",
+    "North",
+    "South",
+    "East",
+    "West",
+    "Sun",
+    "Moon",
+    "Star",
+    "River",
+    "Lake",
+    "Mount",
+    "Port",
+    "Free",
+    "United",
+    "High",
+    "Lower",
+    "Twin",
+    "Amber",
+    "Shadow",
+    "Veridian",
+    "Azure"
+  ],
+  "suffixes": [
+    "grad",
+    "ton",
+    "ville",
+    "burg",
+    "ford",
+    "haven",
+    "crest",
+    "wood",
+    "field",
+    "dale",
+    "shire",
+    "port",
+    "city",
+    "opolis",
+    "gard",
+    "heim",
+    "stan",
+    "don",
+    "wyn",
+    "mere",
+    "wick",
+    "view",
+    "reach",
+    "gate",
+    "end",
+    "mark",
+    "brook",
+    "ridge",
+    "hollow",
+    "isle",
+    "mount",
+    "vale",
+    "cross",
+    "tower"
+  ]
+}

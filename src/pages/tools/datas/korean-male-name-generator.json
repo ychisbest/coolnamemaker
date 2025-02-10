@@ -1,0 +1,63 @@
+{
+  "name": "Korean Male Name Generator",
+  "description": "Struggling to find the perfect Korean name for your character, baby, or just for fun? Our generator crafts authentic and cool-sounding Korean male names. Dive in and discover a name that resonates!",
+  "slug": "korean-male-name-generator",
+  "icon": "\ud83c\uddf0\ud83c\uddf7",
+  "introduction": "Annyeonghaseyo! Ready to explore the world of Korean male names? Whether you're writing a novel, naming a character in your favorite game, or just curious about Korean culture, our generator is here to help. We blend traditional elements with a modern twist to create names that are both meaningful and memorable. Let's find a name that's uniquely you!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A cool Korean male name appears.",
+    "Not vibing with the first result? No problem! Keep clicking until you find the one that makes your heart sing.",
+    "Feeling creative? Mix and match prefixes and suffixes to create a truly unique name.",
+    "Found the perfect name? Copy it and share it with your friends... or keep it your little secret. \ud83d\ude09"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually Korean?",
+      "answer": "Absolutely! We've consulted with native Korean speakers to ensure the names are authentic and culturally relevant. We strive for accuracy while also providing a bit of creative flair."
+    },
+    {
+      "question": "Can I use these names for my baby?",
+      "answer": "Of course! Many of the generated names are suitable for newborns. However, we always recommend doing further research to understand the full meaning and cultural significance of the name before making a final decision."
+    },
+    {
+      "question": "What if I want a name with a specific meaning?",
+      "answer": "While our generator focuses on cool-sounding names, we encourage you to research the individual characters (Hanja) that make up the name. This will give you a deeper understanding of its meaning and origin. Many websites and resources can help you with this!"
+    },
+    {
+      "question": "Are these names only for fictional characters?",
+      "answer": "Nope! Use them for whatever you like! Fictional characters, online personas, pets, you name it (pun intended!). The possibilities are endless. We don't judge."
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're always working to improve and expand our name database! Expect regular updates with new prefixes, suffixes, and name combinations to keep things fresh and exciting. Check back often to see what's new!"
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We love hearing from our users! While we can't guarantee every suggestion will be added, we definitely appreciate your input. Feel free to reach out to us with your ideas!"
+    }
+  ],
+  "prefixes": [
+    "Hyun",
+    "Ji",
+    "Min",
+    "Seo",
+    "Jun",
+    "Tae",
+    "Yeon",
+    "Woo",
+    "Dong",
+    "Sung"
+  ],
+  "suffixes": [
+    "woo",
+    "joon",
+    "seo",
+    "ho",
+    "min",
+    "hyun",
+    "sung",
+    "bin",
+    "hwan",
+    "gyu"
+  ]
+}

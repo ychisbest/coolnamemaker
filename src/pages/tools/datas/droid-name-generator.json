@@ -1,0 +1,84 @@
+{
+  "name": "Droid Name Generator",
+  "description": "Unleash the power of the future with our Droid Name Generator! Find the perfect moniker for your robotic companion, futuristic invention, or sci-fi character. Prepare to be amazed by the possibilities!",
+  "slug": "droid-name-generator",
+  "icon": "\ud83e\udd16",
+  "introduction": "Need a name that screams 'advanced technology' and 'cutting-edge innovation'? You've come to the right place! Our Droid Name Generator is designed to conjure up names that are both memorable and evocative of a world where robots and humans coexist (or maybe not!). Whether you're writing a sci-fi novel, developing a new app, or just looking for a cool nickname, we've got you covered. Get ready to enter the digital frontier!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic!",
+    "Don't like the first result? Keep clicking! We've got a whole galaxy of droid names waiting to be discovered.",
+    "Found the perfect name? Copy and paste it wherever your droid needs an identity.",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own unique droid name.",
+    "Share your awesome droid names with the world! (Or at least with your friends.)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Droid Name Generator is as free as the air you breathe... or the electricity powering your circuits. Use it as much as you like!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You bet! Once a name is generated, it's yours to use for your projects, games, businesses, or whatever your futuristic heart desires. Just be sure to give your droid a good oiling every now and then."
+    },
+    {
+      "question": "How does the generator work?",
+      "answer": "Our advanced algorithms combine a vast database of prefixes and suffixes, inspired by science fiction, technology, and pure imagination. It's like a digital mad scientist in a lab coat, but without the messy explosions (usually)."
+    },
+    {
+      "question": "Will the names always be unique?",
+      "answer": "We strive for uniqueness, but with so many possible combinations, there's a small chance of duplicates. If you find a name that's already taken, just generate a new one! The future is full of possibilities."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always open to suggestions! Send us your ideas, and if they're cool enough, we might just add them to our database. Help us build the ultimate droid name generator!"
+    },
+    {
+      "question": "Is this generator powered by actual droids?",
+      "answer": "While we appreciate the thought, no actual droids are harmed (or employed) in the making of these names. It's all code and creativity, baby!"
+    }
+  ],
+  "prefixes": [
+    "Astro",
+    "Cyber",
+    "Mech",
+    "Nano",
+    "Robo",
+    "Terra",
+    "Volta",
+    "Zenith",
+    "Nova",
+    "Quantum",
+    "Hexa",
+    "Giga",
+    "Omega",
+    "Sigma",
+    "Delta",
+    "Alpha",
+    "Beta",
+    "Gamma",
+    "Epsilon",
+    "Theta"
+  ],
+  "suffixes": [
+    "Tron",
+    "Byte",
+    "Core",
+    "Droid",
+    "Tech",
+    "Bot",
+    "Unit",
+    "X",
+    "Y",
+    "Z",
+    "AI",
+    "OS",
+    "Prime",
+    "Max",
+    "Force",
+    "Guard",
+    "Naut",
+    "Pulse",
+    "Shift",
+    "Wing"
+  ]
+}

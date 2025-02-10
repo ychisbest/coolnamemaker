@@ -1,0 +1,84 @@
+{
+  "name": "Bakery Name Generator",
+  "description": "Craving the perfect name for your sweet sanctuary? Our Bakery Name Generator whips up delicious, unforgettable names that will have customers lining up for a taste! Forget stale ideas; we're serving up fresh, creative names that are guaranteed to rise to the occasion.",
+  "slug": "bakery-name-generator",
+  "icon": "\ud83c\udf70",
+  "introduction": "So, you're opening a bakery? Congratulations! But before you start kneading dough, you need a name that's as irresistible as your pastries. That's where our Bakery Name Generator comes in. We'll help you bake up a name that's memorable, mouthwatering, and perfectly suited to your brand. Get ready to sprinkle some magic on your business!",
+  "howToUse": [
+    "First, dream of the most delicious pastry you can imagine. (This is research!)",
+    "Next, click that tantalizing 'Generate' button. Go on, you know you want to!",
+    "Browse the scrumptiously generated names. Prepare to be amazed!",
+    "Found the perfect name? Hooray! Now go bake something amazing and tell everyone where you got the name. (Hint: it's us!)",
+    "If not, keep hitting that 'Generate' button until the perfect name pops up. It's like a fortune cookie, but with better names."
+  ],
+  "faqs": [
+    {
+      "question": "How does this Bakery Name Generator work?",
+      "answer": "We've got a secret recipe (mostly algorithms and a dash of inspiration from real bakeries) that combines prefixes and suffixes to create unique and appealing names. Think of it as a culinary symphony for your business!"
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "Absolutely! The names generated are free for you to use as inspiration for your bakery. However, we recommend checking for trademark availability to ensure your chosen name is unique and legally sound."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "While the core process is based on random combinations, we've curated the prefixes and suffixes to ensure the results are relevant, catchy, and evoke the feeling of a bakery. So, it's randomness with a sprinkle of intention!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! We have countless combinations, and you're bound to find a name that resonates with you. Plus, you can use the generated names as a springboard for your own creativity."
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart (and stomach) desires. We want you to find the perfect name that will make your bakery a sweet success."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to add to the generator?",
+      "answer": "We're always open to suggestions! Feel free to contact us with your brilliant ideas. Who knows, your suggestion might just bake its way into our next update!"
+    }
+  ],
+  "prefixes": [
+    "Sweet",
+    "Golden",
+    "Flourish",
+    "Sugar",
+    "Crumb",
+    "Butter",
+    "Honey",
+    "Delight",
+    "Artisan",
+    "The Daily",
+    "Bake",
+    "Rise",
+    "Warm",
+    "Fresh",
+    "Whisk",
+    "Oven",
+    "Pastry",
+    "Treat",
+    "Cake",
+    "Bread"
+  ],
+  "suffixes": [
+    "Bakery",
+    "Bakehouse",
+    "Sweets",
+    "Treats",
+    "Delights",
+    "Goods",
+    "Shoppe",
+    "Kitchen",
+    "Corner",
+    "Cafe",
+    "Co.",
+    "Studio",
+    "Creations",
+    "Gallery",
+    "Emporium",
+    "Baking",
+    "Pantry",
+    "Flour",
+    "Company",
+    "Spot"
+  ]
+}

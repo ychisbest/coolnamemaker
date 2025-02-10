@@ -1,0 +1,84 @@
+{
+  "name": "Tauren Name Generator",
+  "description": "Need a name that embodies the might and majesty of the Tauren? Look no further! Our generator crafts names worthy of the plains.",
+  "slug": "tauren-name-generator",
+  "icon": "\ud83d\udc02",
+  "introduction": "Greetings, wanderer! Prepare to be bestowed with a name echoing the strength and spirit of the Tauren. Whether you're a seasoned warrior, a wise shaman, or simply seeking a touch of the wild, our Tauren Name Generator will provide you with a fitting moniker. Get ready to embrace your inner Tauren!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the awesome Tauren name that appears.",
+    "Don't like it? Click 'Generate' again! We have endless possibilities!",
+    "Feeling creative? Mix and match prefixes and suffixes for a truly unique name.",
+    "Go forth and conquer (or just role-play)! Share your epic Tauren name with the world!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names lore-accurate?",
+      "answer": "We've done our best to capture the essence of Tauren naming conventions, drawing inspiration from established lore. While not every name will be directly from the source material, they'll certainly feel right at home in the plains of Mulgore."
+    },
+    {
+      "question": "Can I use these names for other races/games?",
+      "answer": "Absolutely! While designed with Tauren in mind, many of these names can be adapted for other races or fantasy settings. Get creative and see what works!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You bet! Use it as much as your heart desires. We want to spread the joy of awesome Tauren names far and wide."
+    },
+    {
+      "question": "Will the generator create the same name twice?",
+      "answer": "While it's possible, the combinations are vast! We've worked hard to ensure a wide variety of results, so you're unlikely to see the exact same name pop up frequently."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We love community input! Feel free to send us your suggestions. We're always looking for ways to improve the generator and make it even more awesome."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! We've got tons of combinations. Or, use the generator as inspiration and tweak a name to make it your own! The possibilities are endless!"
+    }
+  ],
+  "prefixes": [
+    "Brave",
+    "Swift",
+    "Stone",
+    "Sky",
+    "Thunder",
+    "Wind",
+    "Earth",
+    "River",
+    "Sun",
+    "Moon",
+    "Silent",
+    "Shadow",
+    "Long",
+    "Great",
+    "Sharp",
+    "Strong",
+    "Iron",
+    "Steel",
+    "White",
+    "Black"
+  ],
+  "suffixes": [
+    "hoof",
+    "horn",
+    "mane",
+    "walker",
+    "speaker",
+    "seer",
+    "heart",
+    "claw",
+    "eye",
+    "song",
+    "wind",
+    "stone",
+    "strider",
+    "runner",
+    "caller",
+    "guard",
+    "shield",
+    "blade",
+    "fist",
+    "roar"
+  ]
+}

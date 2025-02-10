@@ -1,0 +1,93 @@
+{
+  "name": "Fantasy Shop Name Generator",
+  "description": "Struggling to name your enchanting emporium? Unleash the magic with our Fantasy Shop Name Generator! Craft the perfect moniker that whispers of ancient secrets, potent potions, and wondrous wares. Your adventure starts here!",
+  "slug": "fantasy-shop-name-generator",
+  "icon": "\ud83e\uddd9\u200d\u2642\ufe0f",
+  "introduction": "Welcome, weary traveler, to the realm of names! Here, at the crossroads of creativity and arcane knowledge, we offer you a tool to forge the perfect identity for your fantasy shop. Whether you deal in enchanted artifacts, mystical ingredients, or powerful weaponry, a captivating name is the first step to drawing customers into your world. Let us help you conjure a name that resonates with power, mystery, and the promise of unforgettable adventures!",
+  "howToUse": [
+    "First, brace yourself for awesomeness! (It's potent stuff).",
+    "Click the 'Generate' button. Like, REALLY click it.",
+    "Marvel at the fantastical names that appear before your very eyes!",
+    "If a name tickles your fancy, snag it! It's yours to command.",
+    "If not, keep hitting that button! The possibilities are as endless as a dragon's hoard.",
+    "Pro-tip: Try mixing and matching elements from different generated names for ultimate customization. Go wild!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually magical?",
+      "answer": "While we can't guarantee actual sorcery, we've infused it with enough creative energy to make you believe it is. Use with caution (and a healthy dose of imagination!)."
+    },
+    {
+      "question": "Can I use these names for my D&D campaign?",
+      "answer": "Absolutely! In fact, we encourage it. Just promise to tell us tales of the epic adventures that unfold within your newly named shops."
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! The names are generated for your creative enjoyment. Feel free to use them commercially, personally, or however your heart desires."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! The generator has a vast reservoir of names, and something is bound to resonate with you eventually. Or, get inspired and create your own using the generated names as a starting point."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send your suggestions our way, and we'll consider adding them to our ever-expanding lexicon of fantasy names."
+    },
+    {
+      "question": "Will this generator help me become a millionaire?",
+      "answer": "We can't promise riches, but a great name is a powerful start! A catchy, memorable shop name will definitely attract more customers and boost your brand. The rest is up to you (and a little bit of luck!)."
+    }
+  ],
+  "prefixes": [
+    "Arcane",
+    "Mystic",
+    "Enchanted",
+    "Shadow",
+    "Celestial",
+    "Dragon's",
+    "Phoenix",
+    "Whispering",
+    "Forgotten",
+    "Silver",
+    "Golden",
+    "Iron",
+    "Crimson",
+    "Obsidian",
+    "Starlight",
+    "Moonlit",
+    "Sunstone",
+    "Ember",
+    "Frost",
+    "Storm",
+    "Ancient",
+    "Grim",
+    "Wyvern's",
+    "Gryphon's"
+  ],
+  "suffixes": [
+    "Emporium",
+    "Shop",
+    "Goods",
+    "Treasures",
+    "Artifacts",
+    "Curiosities",
+    "Relics",
+    "Supplies",
+    "Armory",
+    "Apothecary",
+    "Workshop",
+    "Vault",
+    "Sanctum",
+    "Haven",
+    "Den",
+    "Lair",
+    "Hoard",
+    "Cache",
+    "Bazaar",
+    "Market",
+    "Trading Post",
+    "Exchange",
+    "Outpost",
+    "Gallery"
+  ]
+}

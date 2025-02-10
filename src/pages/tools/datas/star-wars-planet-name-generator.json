@@ -1,0 +1,83 @@
+{
+  "name": "Star Wars Planet Name Generator",
+  "description": "In a galaxy far, far away... struggling to name your Star Wars planet? Fear not, young Padawan! Our generator will conjure up stellar names worthy of the Force itself. Get ready to explore uncharted territories with names that are both epic and scientifically... plausible-ish.",
+  "slug": "star-wars-planet-name-generator",
+  "icon": "\ud83e\ude90",
+  "introduction": "Whether you're crafting a fanfic, designing a game, or just daydreaming about intergalactic adventures, a great planet name is crucial. This generator blends classic Star Wars vibes with a sprinkle of the unexpected, guaranteeing a name that's out of this world!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new planet name will materialize before your very eyes.",
+    "Not feeling the current result? Hit 'Generate' again! We've got more planet names than there are stars in the night sky (okay, maybe not *that* many, but still a lot!).",
+    "Copy your favorite name and paste it into your project. Boom! Your planet is officially ready for exploration, colonization, or perhaps a daring rescue mission.",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own unique planetary moniker. The Force is strong with this generator!"
+  ],
+  "faqs": [
+    {
+      "question": "Will this generator create names that fit the Star Wars universe?",
+      "answer": "Absolutely! We've analyzed countless Star Wars names to ensure our generator outputs names that feel right at home in a galaxy far, far away."
+    },
+    {
+      "question": "Are the generated names scientifically accurate?",
+      "answer": "Let's just say we prioritize 'cool' over 'scientifically rigorous'. While we aim for plausibility, remember this is Star Wars, not a NASA report! Expect a healthy dose of space fantasy."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we provide the names, you are responsible for ensuring that the name you choose does not infringe on any existing trademarks or copyrights."
+    },
+    {
+      "question": "Why is this generator so awesome?",
+      "answer": "Because it's powered by the Force... and a whole lot of caffeine. Plus, we genuinely love Star Wars and wanted to create something fun and useful for fellow fans!"
+    },
+    {
+      "question": "I got a name I don't like. What should I do?",
+      "answer": "Easy! Just hit the 'Generate' button again. We have a vast database of potential planet names. Keep clicking until you find the perfect one that resonates with your inner Jedi (or Sith, we don't judge)."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always open to suggestions! Feel free to contact us with your ideas. If they're cool enough, we might just add them to the generator!"
+    }
+  ],
+  "prefixes": [
+    "Corus",
+    "Tato",
+    "Hoth",
+    "Endor",
+    "Kashyy",
+    "Aldera",
+    "Naboo",
+    "Bespin",
+    "Yavin",
+    "Jakku",
+    "Scarif",
+    "Exego",
+    "Musta",
+    "Canto",
+    "Takoda",
+    "Ahch",
+    "Starkil",
+    "Ryloth",
+    "Corell",
+    "Feluc"
+  ],
+  "suffixes": [
+    "ine",
+    "on",
+    "ooine",
+    "ar",
+    "oth",
+    "a",
+    "ia",
+    "mor",
+    "el",
+    "is",
+    "us",
+    "ar",
+    "aan",
+    "Minor",
+    "Major",
+    "Prime",
+    "Secundus",
+    "Tertius",
+    "IV",
+    "V"
+  ]
+}

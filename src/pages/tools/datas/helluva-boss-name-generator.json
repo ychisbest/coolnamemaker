@@ -1,0 +1,121 @@
+{
+  "name": "Helluva Boss Name Generator",
+  "description": "Ready to join the chaotic world of Helluva Boss? Find your devilishly delightful name with our generator! Perfect for fanfiction, roleplay, or just embracing your inner imp.",
+  "slug": "helluva-boss-name-generator",
+  "icon": "\ud83d\ude08",
+  "introduction": "Ever wondered what your name would be if you were a resident of Hell? Our Helluva Boss Name Generator is here to answer that burning question! We've blended the twisted humor and demonic charm of the show to create names that are both hilarious and fitting for the world of I.M.P. Get ready to unleash your inner hellspawn!",
+  "howToUse": [
+    "Simply click the 'Generate' button. (It's easier than summoning a demon, we promise!)",
+    "Marvel at the wickedly awesome name our generator conjures up for you.",
+    "Don't like it? Click again! We've got more demonic names than you can shake a pitchfork at.",
+    "Share your newfound Helluva Boss name with your friends and prepare for the chaos to ensue!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually affiliated with Helluva Boss or Vivziepop?",
+      "answer": "Nope! We're just fans having fun. This is purely a fan-made creation for entertainment purposes."
+    },
+    {
+      "question": "Can I use these names for my fanfiction?",
+      "answer": "Absolutely! That's what it's here for. Go wild and create some infernally good stories!"
+    },
+    {
+      "question": "Are the names generated random?",
+      "answer": "Mostly! We use a combination of prefixes and suffixes inspired by the show to create unique and fitting names. There's a bit of demonic magic involved too, probably."
+    },
+    {
+      "question": "I don't like the name I got. What do I do?",
+      "answer": "Keep generating! We have tons of combinations, and you're bound to find one that perfectly embodies your inner demon (or imp, or hellhound... you get the idea)."
+    },
+    {
+      "question": "Will you be adding more prefixes and suffixes in the future?",
+      "answer": "Possibly! We're always looking for ways to improve the generator and add more demonic flair. Stay tuned for updates!"
+    },
+    {
+      "question": "Is this generator safe to use?",
+      "answer": "As safe as dealing with demons can be! We don't collect any personal information. Just generate and enjoy!"
+    }
+  ],
+  "prefixes": [
+    "Blitz",
+    "Millie",
+    "Moxxie",
+    "Loona",
+    "Stolas",
+    "Octavia",
+    "Fizzarolli",
+    "Asmodeus",
+    "Verosika",
+    "Valentino",
+    "Vox",
+    "Velvet",
+    "Stella",
+    "Andrealphus",
+    "Robo",
+    "Barbie",
+    "Crimson",
+    "Cash",
+    "Loopty",
+    "Tilla",
+    "Martha",
+    "Ralphie",
+    "Chaz",
+    "Collin",
+    "Cletus",
+    "Keenie",
+    "Bee-lzie",
+    "Mammon",
+    "Sallie May",
+    "Alastor",
+    "Angel Dust",
+    "Cherri Bomb",
+    "Husk",
+    "Niffty",
+    "Vaggie",
+    "Charlie"
+  ],
+  "suffixes": [
+    "Star",
+    "Fizz",
+    "Bells",
+    "Vortex",
+    "Von Eldritch",
+    "Mayday",
+    "Inferno",
+    "Doom",
+    "Sinclair",
+    "Valentine",
+    "Technica",
+    "Velour",
+    "Gloom",
+    "Malphas",
+    "Droid",
+    "Wire",
+    "Slaughter",
+    "Buckzo",
+    "Grave",
+    "Dagger",
+    "Kills",
+    "Demonica",
+    "Chuckle",
+    "Riot",
+    "Blades",
+    "Whisper",
+    "Scream",
+    "Lust",
+    "Dusty",
+    "Sparkle",
+    "Giggles",
+    "Vengeance",
+    "Pain",
+    "Torment",
+    "Havoc",
+    "Wrath",
+    "Despair",
+    "Agony",
+    "Misery",
+    "Darkness",
+    "Shadow",
+    "Nightmare"
+  ]
+}

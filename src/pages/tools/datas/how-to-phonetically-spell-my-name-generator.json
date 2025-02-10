@@ -1,0 +1,92 @@
+{
+  "name": "Phonetic Name Generator",
+  "description": "Struggling to spell your name over the phone? Let our Phonetic Name Generator transform your boring name into something unforgettable! (And maybe a little bit ridiculous.)",
+  "slug": "phonetic-name-generator",
+  "icon": "\ud83d\udde3\ufe0f",
+  "introduction": "Tired of saying \"B as in Bravo, S as in Sierra\" every time you give someone your name? Our Phonetic Name Generator is here to inject some fun and clarity into your introductions! We'll match each letter of your name with a memorable (and sometimes silly) word, making it easier than ever for people to understand you. Get ready for a name that's both unique and undeniably you!",
+  "howToUse": [
+    "Enter your name in the box. Don't be shy!",
+    "Click the 'Generate' button. Prepare to be amazed (or slightly confused).",
+    "Voila! Your phonetically-spelled name is ready to be unleashed upon the world.",
+    "Practice saying your new phonetic name out loud. The more dramatic, the better!",
+    "Impress your friends, confuse your enemies, and never misspell your name again!"
+  ],
+  "faqs": [
+    {
+      "question": "What is a phonetic name?",
+      "answer": "A phonetic name uses words to represent each letter of your name, making it easier to understand and remember. Think 'A as in Apple, B as in Banana' \u2013 but way cooler."
+    },
+    {
+      "question": "Is this generator actually useful?",
+      "answer": "Well, it's definitely *entertaining*. Whether it's useful depends on your definition of useful. Will it prevent all spelling errors? Maybe not. Will it make people smile? Absolutely!"
+    },
+    {
+      "question": "Can I use this for my business?",
+      "answer": "If your business is all about having fun and being memorable, then yes! Imagine a company called 'Alpha Bravo Charlie Designs' \u2013 instantly unforgettable."
+    },
+    {
+      "question": "Are the generated names always appropriate?",
+      "answer": "We try our best, but humor is subjective! If you find a generated name offensive, please let us know, and we'll consider updating our word list. But remember, it's all in good fun!"
+    },
+    {
+      "question": "What if I don't like the generated name?",
+      "answer": "No problem! Just click the 'Generate' button again for a fresh take. Keep going until you find a phonetic name that speaks to your soul (or at least makes you chuckle)."
+    }
+  ],
+  "prefixes": [
+    "Alpha",
+    "Bravo",
+    "Charlie",
+    "Delta",
+    "Echo",
+    "Foxtrot",
+    "Golf",
+    "Hotel",
+    "India",
+    "Juliet",
+    "Kilo",
+    "Lima",
+    "Mike",
+    "November",
+    "Oscar",
+    "Papa",
+    "Quebec",
+    "Romeo",
+    "Sierra",
+    "Tango",
+    "Uniform",
+    "Victor",
+    "Whiskey",
+    "X-ray",
+    "Yankee",
+    "Zulu"
+  ],
+  "suffixes": [
+    "Apple",
+    "Banana",
+    "Cat",
+    "Dog",
+    "Elephant",
+    "Fish",
+    "Grape",
+    "House",
+    "Ice",
+    "Jug",
+    "Kite",
+    "Lemon",
+    "Mouse",
+    "Nut",
+    "Orange",
+    "Pig",
+    "Queen",
+    "Rose",
+    "Sun",
+    "Tree",
+    "Umbrella",
+    "Violin",
+    "Water",
+    "Xylophone",
+    "Yo-yo",
+    "Zebra"
+  ]
+}

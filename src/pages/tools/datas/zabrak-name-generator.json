@@ -1,0 +1,83 @@
+{
+  "name": "Zabrak Name Generator",
+  "description": "Unleash your inner Zabrak warrior with our epic name generator! Find the perfect moniker that embodies your strength, resilience, and unique Zabrak spirit. Prepare to conquer the galaxy, one awesome name at a time!",
+  "slug": "zabrak-name-generator",
+  "icon": "\ud83d\udd25",
+  "introduction": "Ever wondered what your Zabrak name would be? Step into the Star Wars universe and discover a name that resonates with the fierce and independent Zabrak culture. Our generator combines traditional Zabrak naming conventions with a touch of galactic flair to create names that are both authentic and unforgettable.",
+  "howToUse": [
+    "First, take a deep breath and channel your inner Zabrak warrior. Imagine yourself facing down a Sith Lord, or perhaps just ordering a space latte.",
+    "Next, click that glorious 'Generate' button! Don't be shy, give it a good whack!",
+    "Behold! Your Zabrak name has been revealed! If you don't like it, blame the Force and try again. We won't judge (much).",
+    "Share your awesome new name with your friends, family, and maybe even your pet Tooka. Let the galaxy know you've arrived!"
+  ],
+  "faqs": [
+    {
+      "question": "What is a Zabrak?",
+      "answer": "Zabraks are a proud and independent species from the planet Iridonia, known for their distinctive horns and strong wills. They are often skilled warriors and travelers."
+    },
+    {
+      "question": "Are these names actually used in Star Wars canon?",
+      "answer": "While our generator draws inspiration from Zabrak naming conventions, the names are randomly generated and not directly from Star Wars canon. Think of them as 'fanon-inspired' \u2013 authentic in spirit, but uniquely yours!"
+    },
+    {
+      "question": "Can I use this name for my Star Wars character?",
+      "answer": "Absolutely! Whether you're creating a character for a role-playing game, writing fan fiction, or just want to spice up your online presence, feel free to use your generated Zabrak name. The galaxy is your oyster!"
+    },
+    {
+      "question": "How does the generator create the names?",
+      "answer": "Our generator uses a sophisticated algorithm (aka a list of cool-sounding Zabrak-ish syllables) to create unique combinations. It's a blend of linguistic wizardry and pure, unadulterated Star Wars love!"
+    },
+    {
+      "question": "I don't like the name I got. What should I do?",
+      "answer": "No worries! Just hit the 'Generate' button again! The Force works in mysterious ways, and sometimes it takes a few tries to find the perfect name that truly resonates with your Zabrak soul."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You bet your sweet bippy it is! Enjoy unlimited Zabrak name generation, on us. May the Force (and a cool name) be with you!"
+    }
+  ],
+  "prefixes": [
+    "Maul",
+    "Savage",
+    "Visz",
+    "Tor",
+    "Jaro",
+    "Skar",
+    "Darth",
+    "Kor",
+    "Zen",
+    "Vrook",
+    "Raze",
+    "Fenn",
+    "Bral",
+    "Jax",
+    "Zab",
+    "Kry",
+    "Vor",
+    "Drak",
+    "Zaan",
+    "Brak"
+  ],
+  "suffixes": [
+    "ig",
+    "ak",
+    "on",
+    "us",
+    "ar",
+    "al",
+    "ek",
+    "in",
+    "or",
+    "an",
+    "ik",
+    "os",
+    "am",
+    "ok",
+    "ek",
+    "ar",
+    "ak",
+    "al",
+    "es",
+    "ix"
+  ]
+}

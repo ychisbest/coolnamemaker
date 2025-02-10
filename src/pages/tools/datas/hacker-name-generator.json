@@ -1,0 +1,84 @@
+{
+  "name": "Hacker Name Generator",
+  "description": "Unlock your inner digital renegade with our Hacker Name Generator! Find the perfect alias to dominate the digital frontier. Ready to become the next Anonymous?",
+  "slug": "hacker-name-generator",
+  "icon": "\ud83d\udcbb",
+  "introduction": "In the shadowy realm of cyberspace, a name is your identity, your calling card, and your digital armor. Whether you're a white-hat guardian, a grey-hat explorer, or a black-hat master, you need a name that commands respect (or at least makes people wonder). Our Hacker Name Generator is here to forge that legend. Get ready to unleash your digital alter ego!",
+  "howToUse": [
+    "First, brace yourself for awesomeness.",
+    "Click the 'Generate' button. (It's the one that looks like it's about to hack the Pentagon... just kidding... mostly.)",
+    "Behold! A hacker name so cool, it'll make your keyboard melt.",
+    "Don't like it? Click again! We've got enough combinations to keep you renaming yourself until the next century.",
+    "Found 'The One'? Copy it, paste it, and prepare to take over the world... ethically, of course (or not, we don't judge... much)."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to hack anything?",
+      "answer": "Absolutely not! This is all in good fun. We generate names, not malware. Please use your powers for good (or at least for mildly amusing pranks)."
+    },
+    {
+      "question": "Can I use these names for illegal activities?",
+      "answer": "We strongly advise against it. We're just here for the laughs. If you're planning anything shady, maybe rethink your life choices... and definitely don't use a name from our generator."
+    },
+    {
+      "question": "Are the names generated unique?",
+      "answer": "While we strive for variety, there's always a chance of duplicates. The digital universe is vast, but only so many combinations sound equally badass. If you get a duplicate, consider it a sign of destiny... or just click 'Generate' again."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes?",
+      "answer": "We're always open to suggestions! Hit us up with your ideas, and we might just add them to the mix. Who knows, you could be the reason someone names themselves 'Captain Data Crunch'!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yes, it's totally free! Use it as much as you like. Consider it our gift to the internet. Now go forth and hack... responsibly."
+    },
+    {
+      "question": "Why do I need a hacker name?",
+      "answer": "Because 'Bob from Accounting' just doesn't strike fear into the hearts of server administrators. A cool hacker name is essential for credibility, mystique, and general online awesomeness. Plus, it's fun!"
+    }
+  ],
+  "prefixes": [
+    "Cyber",
+    "Ghost",
+    "Shadow",
+    "Code",
+    "Data",
+    "Pixel",
+    "Binary",
+    "Zero",
+    "Void",
+    "Root",
+    "Fire",
+    "Ice",
+    "Venom",
+    "Rogue",
+    "Phantom",
+    "Dark",
+    "Crimson",
+    "Neon",
+    "Static",
+    "Lethal"
+  ],
+  "suffixes": [
+    "Hunter",
+    "Blade",
+    "Striker",
+    "Breaker",
+    "Master",
+    "Lord",
+    "Ninja",
+    "Phantom",
+    "Virus",
+    "Byte",
+    "Hacker",
+    "Coder",
+    "X",
+    "7",
+    "Zero",
+    "Knight",
+    "Spectre",
+    "Wraith",
+    "Fury",
+    "Storm"
+  ]
+}

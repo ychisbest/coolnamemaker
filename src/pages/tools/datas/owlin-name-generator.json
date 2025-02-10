@@ -1,0 +1,96 @@
+{
+  "name": "Owlin Name Generator",
+  "description": "Need a name that's wise, watchful, and a little bit mysterious? Our Owlin Name Generator will conjure up the perfect moniker, blending the mystique of owls with a touch of playful charm. Unleash your inner night bird!",
+  "slug": "owlin-name-generator",
+  "icon": "\ud83e\udd89",
+  "introduction": "Ever wished you had a name that echoed through the ancient forests, a name that whispered secrets on the wind? Look no further! The Owlin Name Generator is here to bestow upon you a title worthy of the wisest of owls. Whether you're writing a fantasy novel, creating a gaming avatar, or just looking for a cool nickname, we've got you covered.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic! We'll weave together prefixes and suffixes to create a name that's uniquely you (or uniquely your character, no judgment).",
+    "Don't like the first result? Keep clicking! We've got enough combinations to keep you hooting with delight for hours.",
+    "Feeling creative? Mix and match your favorite parts of different names to create something truly special. The possibilities are endless!",
+    "Share your awesome new Owlin name with the world! (Or keep it a secret, we won't tell.)"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* an 'Owlin' name?",
+      "answer": "Think of it as a name that captures the essence of owls: wisdom, mystery, and a touch of nocturnal coolness. It's perfect for characters, usernames, or just adding a bit of whimsy to your life."
+    },
+    {
+      "question": "Are these names actually any good?",
+      "answer": "Well, we think so! We've carefully curated a list of prefixes and suffixes that sound amazing together. But ultimately, the best name is the one *you* love."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once generated, the name is yours to use as you see fit. Go forth and conquer the world with your awesome Owlin title!"
+    },
+    {
+      "question": "Will this generator steal my personal information?",
+      "answer": "Hoo-ly moly, no! We don't collect any personal information. This generator is purely for fun and creativity."
+    },
+    {
+      "question": "I still don't like any of the names. What do I do?",
+      "answer": "Keep clicking! Or, get inspired by the generated names and create your own unique Owlin name. The sky's the limit!"
+    },
+    {
+      "question": "Is this generator mobile-friendly?",
+      "answer": "You betcha! Generate names on the go, whether you're on your phone, tablet, or laptop. We've got you covered no matter where inspiration strikes."
+    }
+  ],
+  "prefixes": [
+    "Night",
+    "Shadow",
+    "Moon",
+    "Star",
+    "Whisper",
+    "Silent",
+    "Ancient",
+    "Wise",
+    "Mystic",
+    "Feather",
+    "Sky",
+    "Storm",
+    "Twilight",
+    "Ebony",
+    "Ivory",
+    "Stone",
+    "Gloom",
+    "Boreal",
+    "Echo",
+    "Dream",
+    "Rune",
+    "Cinder",
+    "Frost",
+    "Raven",
+    "Sage",
+    "Winter"
+  ],
+  "suffixes": [
+    "wing",
+    "claw",
+    "talon",
+    "eye",
+    "song",
+    "shade",
+    "watcher",
+    "seer",
+    "wind",
+    "flight",
+    "gaze",
+    "whisper",
+    "stone",
+    "wood",
+    "feather",
+    "mist",
+    "howl",
+    "moon",
+    "heart",
+    "soul",
+    "bloom",
+    "frost",
+    "veil",
+    "crest",
+    "mantle",
+    "sky",
+    "sun"
+  ]
+}

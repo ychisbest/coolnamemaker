@@ -1,0 +1,83 @@
+{
+  "name": "Organization XIII Name Generator",
+  "description": "Unlock your inner Nobody! Craving a name that screams power, mystery, and a touch of existential dread? This Organization XIII Name Generator is your ticket to the shadowy realm. Find the perfect moniker to strike fear (or at least mild confusion) into the hearts of your enemies... or friends. Let's face it, who wouldn't want a name that sounds like it was ripped straight from a secret villainous society?",
+  "slug": "organization-xiii-name-generator",
+  "icon": "\ud83c\udf11",
+  "introduction": "Ever wondered what your Organization XIII name would be? Stop wondering and start generating! This tool combines prefixes and suffixes inspired by the iconic names from Kingdom Hearts to give you a truly unique and suitably dramatic title. Get ready to embrace your Nobody-ness!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the awesomeness of your new Organization XIII name.",
+    "Use your new name to take over the world... or just update your social media profile. We won't judge. (Much.)",
+    "Repeat as needed until you find the *perfect* name to reflect your inner darkness... or your love for ridiculously cool names."
+  ],
+  "faqs": [
+    {
+      "question": "What *is* Organization XIII, anyway?",
+      "answer": "Only the coolest group of antagonists in the Kingdom Hearts universe! They're Nobodies seeking to regain their hearts, and they all have super cool names ending in 'X'. Now you can too!"
+    },
+    {
+      "question": "Are these names *actually* from Kingdom Hearts?",
+      "answer": "Inspired by, yes! We've taken the essence of those names \u2013 the prefixes, the suffixes, the sheer *style* \u2013 and combined them to create entirely new, unique (and hopefully awesome) names. Don't expect to find 'Sora' in there, though."
+    },
+    {
+      "question": "Can I use this name for my fanfiction?",
+      "answer": "Absolutely! That's what it's here for! Go forth and write epic tales of darkness, light, and ridiculously long keyblades!"
+    },
+    {
+      "question": "My generated name is terrible! What do I do?",
+      "answer": "Click 'Generate' again! We've got tons of combinations, so keep trying until you find one that resonates with your inner Nobody. Embrace the randomness!"
+    },
+    {
+      "question": "Is this generator endorsed by Square Enix?",
+      "answer": "Nope! This is a fan-made creation for fun. We're just huge Kingdom Hearts nerds who wanted to share the love... and the awesome names."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send them our way through our contact form. We're always looking for ways to make the generator even better."
+    }
+  ],
+  "prefixes": [
+    "Al",
+    "An",
+    "Ar",
+    "Bra",
+    "Di",
+    "El",
+    "I",
+    "In",
+    "Lex",
+    "Mar",
+    "Ri",
+    "Ro",
+    "Sai",
+    "Si",
+    "Xem",
+    "Xe",
+    "Zig",
+    "Zex",
+    "Dem",
+    "Lum"
+  ],
+  "suffixes": [
+    "nas",
+    "dax",
+    "din",
+    "mus",
+    "bard",
+    "dar",
+    "ig",
+    "inort",
+    "ald",
+    "el",
+    "eus",
+    "on",
+    "arx",
+    "es",
+    "ias",
+    "ean",
+    "eer",
+    "yr",
+    "yz",
+    "ath"
+  ]
+}

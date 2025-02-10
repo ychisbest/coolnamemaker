@@ -1,0 +1,74 @@
+{
+  "name": "Name Your Car Generator",
+  "description": "Stuck on what to call your beloved four-wheeled friend? Fear not! Our Name Your Car Generator is here to spark your imagination and bestow upon your vehicle a moniker worthy of its awesomeness. Get ready to roll in style with a name that screams personality!",
+  "slug": "name-your-car-generator",
+  "icon": "\ud83d\ude97",
+  "introduction": "Let's face it, your car isn't just a mode of transportation; it's a member of the family (a loud, gas-guzzling one, but family nonetheless!). Give it the respect it deserves with a name that reflects its unique charm and your undying affection. Our generator combines a sprinkle of magic, a dash of randomness, and a whole lot of fun to help you find the perfect fit. Buckle up, buttercup \u2013 adventure awaits!",
+  "howToUse": [
+    "First, take a good, long look at your car. What's its vibe? Is it sleek and sophisticated, or rugged and ready for anything?",
+    "Next, ponder the prefixes and suffixes below. Do any of them resonate with your car's personality?",
+    "Click that glorious 'Generate' button and prepare to be amazed! We'll conjure up a list of names that are sure to make you chuckle (and hopefully find 'the one').",
+    "Don't be afraid to mix and match prefixes and suffixes until you find the perfect combination. Get creative, have fun, and remember, there are no wrong answers (unless you name it 'Boring McBoringface').",
+    "Once you've found the ultimate name, shout it from the rooftops (or at least whisper it lovingly to your car). You're officially ready to hit the road in style!"
+  ],
+  "faqs": [
+    {
+      "question": "Why does my car need a name?",
+      "answer": "Because every awesome car deserves an equally awesome name! It's a sign of respect, a badge of honor, and a guaranteed conversation starter."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "No worries! Just hit the 'Generate' button again for a fresh batch of inspiration. You can also try tweaking the prefixes and suffixes to create your own unique combinations."
+    },
+    {
+      "question": "Can I use the same name as someone else?",
+      "answer": "Technically, yes. But where's the fun in that? Be original, be bold, and let your car's individuality shine through!"
+    },
+    {
+      "question": "Will naming my car improve its gas mileage?",
+      "answer": "Sadly, no. But it might make you feel better about filling up the tank! Plus, a cool name is worth at least 5 extra horsepower, right?"
+    },
+    {
+      "question": "My car is a total lemon. Should I still name it?",
+      "answer": "Absolutely! Even lemons deserve a little love. Plus, a funny name can help you laugh through the breakdowns and repairs."
+    },
+    {
+      "question": "Is there a limit to how many times I can use the generator?",
+      "answer": "Nope! Use it as much as you like. We want to make sure you find *the one*."
+    }
+  ],
+  "prefixes": [
+    "Speedy",
+    "Rusty",
+    "Thunder",
+    "Shadow",
+    "Midnight",
+    "Crimson",
+    "Silver",
+    "Stormy",
+    "Lucky",
+    "Rebel",
+    "Road",
+    "Aqua",
+    "Turbo",
+    "Cosmic",
+    "Iron"
+  ],
+  "suffixes": [
+    "Bolt",
+    "Rider",
+    "Hawk",
+    "Phantom",
+    "Comet",
+    "Fury",
+    "Bullet",
+    "Blaze",
+    "Streak",
+    "Warrior",
+    "Runner",
+    "Marine",
+    "Charger",
+    "Star",
+    "Claw"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "TV Show Name Generator",
+  "description": "Stuck in a creative rut? Our TV Show Name Generator conjures up catchy, binge-worthy titles faster than you can say 'Netflix and chill'. Get ready to unleash your inner showrunner!",
+  "slug": "tv-show-name-generator",
+  "icon": "\ud83c\udfac",
+  "introduction": "Welcome, future TV mogul! Ever dreamt of creating the next 'Game of Thrones' or 'Stranger Things'? The first step is nailing that killer title. Our TV Show Name Generator is your secret weapon, blending genres, themes, and a dash of pure imagination to craft names that scream 'hit show'.",
+  "howToUse": [
+    "First, ditch the writer's block! Seriously, kick it to the curb.",
+    "Now, give our generator a whirl. Click that 'Generate' button like you're ordering pizza \u2013 frequently and with enthusiasm.",
+    "Browse the glorious results. Spot a gem? Awesome! Tweak it, polish it, make it your own.",
+    "Still not feeling it? No sweat! Keep hitting that button. Inspiration is just a click away.",
+    "Remember, the best TV show names are memorable, intriguing, and hint at the drama to come. Go forth and create!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Consider it our gift to the world of television. No hidden fees, no subscription required. Just pure, unadulterated name-generating goodness."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You bet! Once a name is generated, it's yours to use as you see fit. Create that pilot, write that script, and conquer the small screen!"
+    },
+    {
+      "question": "How does the generator come up with these names?",
+      "answer": "It's a top-secret algorithm involving a blend of popular TV tropes, genre keywords, and a sprinkle of creative madness. Think of it as a digital muse with a caffeine addiction."
+    },
+    {
+      "question": "Will these names guarantee me a hit TV show?",
+      "answer": "While we can't promise overnight fame and fortune (sorry!), a great name is a fantastic start. It's the hook that grabs attention and sets the tone for your entire series."
+    },
+    {
+      "question": "I'm getting some weird results. Is the generator broken?",
+      "answer": "Not broken, just adventurous! Sometimes, the best ideas come from unexpected places. Embrace the weirdness \u2013 you might just stumble upon the next big thing."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always looking for ways to improve! Send your suggestions our way, and we'll consider adding them to our database. The more, the merrier!"
+    }
+  ],
+  "prefixes": [
+    "The Secret of",
+    "Chronicles of",
+    "Midnight",
+    "Echoes of",
+    "Forgotten",
+    "Project",
+    "Operation",
+    "The Last",
+    "Shadows of",
+    "Digital",
+    "Crimson",
+    "Silent",
+    "Quantum",
+    "Renegade",
+    "The Obsidian"
+  ],
+  "suffixes": [
+    "Valley",
+    "City",
+    "Bay",
+    "Creek",
+    "Falls",
+    "Horizon",
+    "Protocol",
+    "Syndrome",
+    "Conspiracy",
+    "Awakening",
+    "Files",
+    "Code",
+    "Experiment",
+    "Legacy",
+    "Prophecy"
+  ]
+}

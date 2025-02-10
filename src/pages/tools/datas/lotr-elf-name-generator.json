@@ -1,0 +1,73 @@
+{
+  "name": "LOTR Elf Name Generator",
+  "description": "Tired of your mundane, human-sounding name? Yearning for the ethereal grace and timeless beauty of the Eldar? Our LOTR Elf Name Generator will whisk you away to Middle-earth, crafting a name worthy of a Sindarin prince or a Silvan sorceress. Discover your true Elven identity today!",
+  "slug": "lotr-elf-name-generator",
+  "icon": "\ud83e\udddd",
+  "introduction": "Ever dreamt of wandering the forests of Lothl\u00f3rien or sailing the Grey Havens? A good Elven name is the first step! This generator combines classic Tolkien Elvish elements with a touch of modern flair to create names that sound authentic and captivating. Prepare to be reborn as a child of Il\u00favatar!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new, totally awesome Elf name will magically appear.",
+    "Don't like the first one? Keep clicking! We've got more Elven awesomeness than you can shake a Lembas bread at.",
+    "Feeling creative? Mix and match prefixes and suffixes to create a truly unique Elven moniker. The possibilities are as endless as the Undying Lands!",
+    "Share your magnificent new name with your friends (or enemies) and let them bask in your Elven glory."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually Elvish?",
+      "answer": "While we strive for authenticity, these names are inspired by Tolkien's Elvish languages (Sindarin and Quenya) rather than being direct translations. Think of them as Elvish-flavored awesomeness!"
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! These names are perfect for any Elven character, whether you're a noble warrior, a wise wizard, or a mischievous rogue. Go forth and conquer (or at least look really cool while trying)!"
+    },
+    {
+      "question": "Are the names gender-specific?",
+      "answer": "Many of the names are fairly gender-neutral, but some lean towards masculine or feminine sounds. Feel free to choose whichever name resonates with your inner Elf, regardless of societal norms!"
+    },
+    {
+      "question": "Help! I can't pronounce my new name!",
+      "answer": "Don't worry! Elvish names can be tricky. Try breaking it down into syllables and practicing the pronunciation. Or, just tell everyone it's a secret Elvish word that only you understand. That sounds cooler anyway."
+    },
+    {
+      "question": "Will having an Elven name make me immortal?",
+      "answer": "Sadly, no (we wish!). But it will definitely make you feel more awesome. And that's pretty close, right?"
+    },
+    {
+      "question": "Can I use these names for my pet?",
+      "answer": "Of course! Imagine calling your cat 'Legolas' or your dog 'Galadriel'. Your pet will instantly become the most sophisticated creature in the neighborhood."
+    }
+  ],
+  "prefixes": [
+    "Ar",
+    "El",
+    "Gal",
+    "Fin",
+    "Leg",
+    "Lor",
+    "Nim",
+    "Sil",
+    "Tar",
+    "Vor",
+    "Lin",
+    "Isil",
+    "Anar",
+    "Elen",
+    "Rian"
+  ],
+  "suffixes": [
+    "ion",
+    "iel",
+    "dir",
+    "dor",
+    "las",
+    "wen",
+    "iel",
+    "rian",
+    "anor",
+    "findel",
+    "imar",
+    "niel",
+    "gorn",
+    "beth",
+    "wyn"
+  ]
+}

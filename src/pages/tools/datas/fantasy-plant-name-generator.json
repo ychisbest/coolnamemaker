@@ -1,0 +1,84 @@
+{
+  "name": "Fantasy Plant Name Generator",
+  "description": "Unleash the botanical bard within! Craft captivating names for your fantastical flora, from whispering willows to venomous vines. Perfect for writers, game developers, and anyone who needs a touch of verdant vocabulary.",
+  "slug": "fantasy-plant-name-generator",
+  "icon": "\ud83c\udf3f",
+  "introduction": "Struggling to name that mystical mushroom or enchanted evergreen in your story? Fear not, fellow world-builder! Our Fantasy Plant Name Generator is here to sprout inspiration. With a dash of magic and a sprinkle of science (well, maybe just the magic), we'll conjure up names that'll make your readers believe in the power of plants!",
+  "howToUse": [
+    "Click the 'Generate' button. Duh! It's that easy, even a goblin could do it (probably).",
+    "Marvel at the wondrous name that appears before your very eyes. Prepare to be amazed!",
+    "If the name isn't *quite* right, keep clicking! We've got more plant names than the Amazon rainforest has trees.",
+    "Copy and paste your perfect plant name into your story, game, or herbology textbook. (Just kidding... mostly.)",
+    "Share your favorite finds with your friends! Let them bask in the glory of your newly discovered botanical brilliance."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe that the magic of naming should be accessible to everyone, regardless of their gold reserves."
+    },
+    {
+      "question": "Can I use these names in my commercial project?",
+      "answer": "Yes! All generated names are free for you to use in your stories, games, or any other creative endeavor. Go forth and prosper (botanically speaking)!"
+    },
+    {
+      "question": "Are the names scientifically accurate?",
+      "answer": "Well... no. Unless 'Gloomshroom' is a real species we haven't discovered yet. We focus on fantasy, not botany, so prepare for some whimsical weirdness."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! We're not going to stop you. In fact, we encourage excessive name generation. Go wild!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your suggestions! Send them our way, and we might just add them to the generator's repertoire. Help us grow our botanical vocabulary!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! Or, get creative and combine elements from different names to create your own unique masterpiece. The possibilities are endless!"
+    }
+  ],
+  "prefixes": [
+    "Whispering",
+    "Shadow",
+    "Moonlit",
+    "Sunken",
+    "Crimson",
+    "Ethereal",
+    "Ancient",
+    "Venomous",
+    "Gloom",
+    "Silver",
+    "Golden",
+    "Iron",
+    "Crystal",
+    "Star",
+    "Dream",
+    "Blood",
+    "Night",
+    "Dawn",
+    "Storm",
+    "Silent"
+  ],
+  "suffixes": [
+    "bloom",
+    "vine",
+    "root",
+    "leaf",
+    "thorn",
+    "seed",
+    "petal",
+    "pod",
+    "blossom",
+    "shroom",
+    "weed",
+    "stalk",
+    "flower",
+    "grass",
+    "nettle",
+    "iris",
+    "lily",
+    "fern",
+    "moss",
+    "bark"
+  ]
+}

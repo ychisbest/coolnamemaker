@@ -1,0 +1,74 @@
+{
+  "name": "Pirate Boat Name Generator",
+  "description": "Ahoy, matey! Need a swashbucklin' name for your vessel? Our Pirate Boat Name Generator will help you find the perfect moniker to strike fear into the hearts of your enemies (or at least impress your friends!). Get ready to sail the seven seas with a name that's as bold and adventurous as you are!",
+  "slug": "pirate-boat-name-generator",
+  "icon": "\ud83c\udff4\u200d\u2620\ufe0f",
+  "introduction": "Every legendary pirate ship needs a legendary name! Whether you're planning a backyard adventure, writing a nautical tale, or just dreaming of buried treasure, our generator is here to provide a treasure trove of inspiration. From fearsome to funny, we've got the perfect name to make your ship the talk of the high seas!",
+  "howToUse": [
+    "Simply click the 'Generate' button to conjure up a random pirate ship name.",
+    "Don't like the first one? Keep clicking! We've got enough combinations to fill Davy Jones' locker.",
+    "Feeling creative? Use the generated names as inspiration to craft your own unique masterpiece.",
+    "Once you find the perfect name, shout it from the crow's nest (or, you know, just write it down).",
+    "Now go forth and conquer... the bathtub! (Or whatever body of water your ship is destined for.)"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names can I expect?",
+      "answer": "Expect a mix of fearsome, funny, and fantastical names! We aim for a blend that captures the spirit of piracy, from the legendary to the ludicrous."
+    },
+    {
+      "question": "Can I use these names for my pirate-themed business?",
+      "answer": "Absolutely! These names are free for personal and commercial use. Just remember, with great names comes great responsibility (to plunder responsibly, of course!)."
+    },
+    {
+      "question": "Are the names historically accurate?",
+      "answer": "While some names might evoke historical vibes, our primary goal is fun and creativity! So, don't expect a history lesson, but do expect a good time."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added?",
+      "answer": "We're always open to suggestions! Feel free to send your ideas our way. Who knows, your contribution might become the next legendary pirate ship name!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Aye, matey! This generator is completely free to use. No doubloons required! Just bring your imagination and a thirst for adventure."
+    },
+    {
+      "question": "Why are pirate ships so cool?",
+      "answer": "Because they embody freedom, adventure, and a healthy disregard for the rules! Plus, who doesn't love a good treasure hunt?"
+    }
+  ],
+  "prefixes": [
+    "The Sea",
+    "Black",
+    "Red",
+    "Storm",
+    "Shadow",
+    "Screaming",
+    "Wicked",
+    "Drunken",
+    "Lost",
+    "Golden",
+    "Silent",
+    "Iron",
+    "Rusty",
+    "Jade",
+    "Crimson"
+  ],
+  "suffixes": [
+    "Serpent",
+    "Ghost",
+    "Revenge",
+    "Fury",
+    "Curse",
+    "Queen",
+    "King",
+    "Skull",
+    "Blade",
+    "Tide",
+    "Wave",
+    "Marauder",
+    "Dragon",
+    "Kraken",
+    "Mermaid"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Family Name Crossword Generator",
+  "description": "Unleash the power of family fun with our FREE Family Name Crossword Generator! Turn your loved ones' names into a personalized puzzle adventure. Perfect for reunions, birthdays, or just a quirky family night.",
+  "slug": "family-name-crossword-generator",
+  "icon": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66",
+  "introduction": "Ever wanted to see your family tree cleverly woven into an engaging game? Our Family Name Crossword Generator lets you do just that! Input your family members' names and watch as it magically creates a unique crossword puzzle. It's a fantastic way to celebrate your family's bond and test everyone's knowledge (or lack thereof!) of each other. Get ready for laughter, friendly competition, and maybe even a few 'aha!' moments!",
+  "howToUse": [
+    "First, gather all the names of your beloved family members (the more, the merrier!).",
+    "Simply type (or copy-paste) the names into the designated input box \u2013 don't worry, we won't judge your spelling... much.",
+    "Click the 'Generate Crossword' button and BAM! Your personalized family crossword puzzle appears like magic (okay, it's code, but let's pretend it's magic).",
+    "Download, print, and prepare for some serious family bonding (or hilarious arguments about whose name is harder to spell).",
+    "Brace yourselves, because your family's about to have some seriously cool fun!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Family Name Crossword Generator is 100% free to use. We believe in spreading family joy without breaking the bank."
+    },
+    {
+      "question": "How many names can I include in the crossword?",
+      "answer": "You can include as many names as you like! However, keep in mind that the more names you add, the more complex (and potentially challenging) the crossword will be."
+    },
+    {
+      "question": "Can I customize the size or difficulty of the crossword?",
+      "answer": "Currently, the size and difficulty are automatically generated based on the number of names you provide. We're always working on improvements, so stay tuned for future customization options!"
+    },
+    {
+      "question": "What if a name doesn't fit in the crossword?",
+      "answer": "Our generator does its best to fit all names, but sometimes, longer or unusual names might pose a challenge. Try using nicknames or shortened versions if you encounter any issues."
+    },
+    {
+      "question": "Can I share the crossword puzzle with my family online?",
+      "answer": "Yes, you can! Download the puzzle as an image or PDF and share it via email, social media, or any other platform you prefer. Spread the family crossword love!"
+    },
+    {
+      "question": "Is my family's data safe? Do you store the names I enter?",
+      "answer": "Your privacy is our top priority! We do *not* store any of the names you enter into the generator. Once the crossword is generated, the data is discarded. It's like a crossword ninja \u2013 in and out, leaving no trace!"
+    }
+  ],
+  "prefixes": [
+    "The",
+    "Our Amazing",
+    "Super",
+    "The Epic",
+    "Fantastic",
+    "The Legendary"
+  ],
+  "suffixes": [
+    "Family",
+    "Clan",
+    "Tribe",
+    "Crew",
+    "Squad",
+    "Bunch"
+  ]
+}

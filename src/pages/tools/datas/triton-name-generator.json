@@ -1,0 +1,83 @@
+{
+  "name": "Triton Name Generator",
+  "description": "Unleash the power of the deep! Dive into a sea of possibilities with our Triton Name Generator. Perfect for games, stories, or just finding your inner sea god.",
+  "slug": "triton-name-generator",
+  "icon": "\ud83d\udd31",
+  "introduction": "Ever dreamt of ruling the underwater kingdom? Or perhaps just need a cool, aquatic-sounding name for your next D&D character? Our Triton Name Generator is here to help you surface the perfect moniker. Forget boring, we're talking names that echo with the might of Poseidon himself! Get ready to make waves!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new, totally rad Triton name will appear.",
+    "Don't like the first one? No worries! Keep clicking until you find the name that resonates with your inner sea creature.",
+    "Feeling creative? Tweak the prefixes and suffixes to craft a name that's uniquely yours. Go wild!",
+    "Use your awesome new Triton name to dominate your next gaming session, write an epic fantasy novel, or just impress your friends. The ocean's the limit!"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly is a Triton name?",
+      "answer": "Think powerful, mystical, and a little bit salty! Triton names often evoke the ocean, ancient mythology, and a general sense of awesomeness."
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! These names are perfect for any Triton character you might be creating. Go forth and conquer the seas (or the tabletop)!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Pretty much! We use a mix of prefixes and suffixes to create unique combinations, ensuring you get a name that's fresh and exciting every time."
+    },
+    {
+      "question": "Can I suggest new prefixes and suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions, and we might just add them to the generator. Help us make it even more awesome!"
+    },
+    {
+      "question": "Is this generator really free?",
+      "answer": "Yep! Use it as much as you like. We just want to help you find the perfect Triton name without costing you a single clamshell."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With countless combinations, you're bound to find one that strikes your fancy. Or, get creative and mix and match elements from different names!"
+    }
+  ],
+  "prefixes": [
+    "Aqua",
+    "Tide",
+    "Coral",
+    "Neptu",
+    "Mari",
+    "Ocean",
+    "Wave",
+    "Hydro",
+    "Siren",
+    "Abyssal",
+    "Posei",
+    "Triton",
+    "Levi",
+    "Nere",
+    "Sal",
+    "Deep",
+    "Azure",
+    "Ceru",
+    "Halcyon",
+    "Indi"
+  ],
+  "suffixes": [
+    "don",
+    "us",
+    "a",
+    "ar",
+    "on",
+    "ix",
+    "ian",
+    "ius",
+    "ara",
+    "ella",
+    "iel",
+    "or",
+    "is",
+    "ex",
+    "ane",
+    "mar",
+    "ton",
+    "lith",
+    "dra",
+    "dor"
+  ]
+}

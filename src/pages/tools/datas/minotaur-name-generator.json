@@ -1,0 +1,73 @@
+{
+  "name": "Minotaur Name Generator",
+  "description": "Unleash your inner beast! Craving a name that echoes through the labyrinth? Our Minotaur Name Generator for coolnamemaker.com forges monikers worthy of legends. Growl your way to the perfect monstrous title!",
+  "slug": "minotaur-name-generator",
+  "icon": "\ud83d\udc02",
+  "introduction": "Ever wondered what your Minotaur name would be? Step right up! This generator pulls inspiration from ancient myths, ferocious beasts, and the darkest corners of the labyrinth to craft a name that's both terrifying and unforgettable. Perfect for games, stories, or just embracing your inner monster!",
+  "howToUse": [
+    "Simply mash that 'Generate' button like you're smashing through a door (but gently, please, it's just a button!).",
+    "Keep clicking until a name makes you roar with approval. We've got plenty of beastly combinations!",
+    "Found 'the one'? Snatch it up and unleash it upon the world! Watch as mortals tremble before your magnificent moniker.",
+    "Share your awesome name with friends. Let them know who's the boss of the labyrinth!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe everyone deserves a fearsome Minotaur name, regardless of their gold reserves."
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "By all the gods, YES! These names are perfect for any fantasy character, especially those with a penchant for smashing things."
+    },
+    {
+      "question": "Are these names actually *good*?",
+      "answer": "We've poured our hearts (and a few drops of Minotaur blood) into crafting names that are both evocative and unique. But hey, beauty is in the eye of the beholder (or the Minotaur!)."
+    },
+    {
+      "question": "Will using one of these names curse me?",
+      "answer": "Probably not. But if you start developing an insatiable craving for raw meat and a sudden urge to build mazes, maybe consider a visit to a priest...or a really good therapist."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always open to suggestions! Send your ideas our way, and we might just add them to the generator. Help us unleash even more monstrous names upon the world!"
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep generating! With countless combinations, you're bound to find a name that resonates with your inner beast. And if not, well, you can always try again tomorrow. The labyrinth is vast, and so are the possibilities!"
+    }
+  ],
+  "prefixes": [
+    "Aster",
+    "Blood",
+    "Stone",
+    "Iron",
+    "Shadow",
+    "Maze",
+    "Horn",
+    "Rage",
+    "Gore",
+    "Skull",
+    "Brute",
+    "Thorn",
+    "Night",
+    "Doom",
+    "Fear"
+  ],
+  "suffixes": [
+    "horn",
+    "claw",
+    "hoof",
+    "hide",
+    "rage",
+    "bane",
+    "smasher",
+    "breaker",
+    "reaver",
+    "scar",
+    "gore",
+    "shadow",
+    "maze",
+    "blood",
+    "skull"
+  ]
+}

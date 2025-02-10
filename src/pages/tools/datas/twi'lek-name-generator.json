@@ -1,0 +1,84 @@
+{
+  "name": "Twi'lek Name Generator",
+  "description": "Unleash your inner Star Wars fan with our Twi'lek Name Generator! Craft unique and authentic Twi'lek names that will transport you to the vibrant world of Ryloth. Perfect for role-playing games, fan fiction, or simply exploring the galaxy far, far away...",
+  "slug": "twi-lek-name-generator",
+  "icon": "\ud83d\udc7d",
+  "introduction": "Ever dreamt of being a graceful Twi'lek, known for their beauty, intelligence, and those iconic head-tails (lekku)? Now you can, at least in name! Our generator combines authentic Twi'lek naming conventions with a dash of creativity to produce names that sound like they came straight from the cantina in Mos Eisley. Get ready to embrace your inner space alien!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the awesome Twi'lek name that appears. Seriously, get ready to be impressed.",
+    "If you don't like the first one (highly unlikely!), just keep clicking until you find the *perfect* name. We won't judge if you click a hundred times. We might even encourage it.",
+    "Copy and paste your new name into your Star Wars character sheet, fanfic, or social media profile. Prepare for the intergalactic fame!",
+    "Share this generator with your fellow Star Wars nerds. Because sharing is caring, and everyone deserves a cool Twi'lek name."
+  ],
+  "faqs": [
+    {
+      "question": "What is a Twi'lek?",
+      "answer": "Twi'leks are a humanoid species from the planet Ryloth in the Star Wars universe. They are known for their beautiful appearance and their distinctive head-tails, called lekku, which are used for communication and balance."
+    },
+    {
+      "question": "How are Twi'lek names typically structured?",
+      "answer": "Twi'lek names often consist of a given name and a clan name. However, many Twi'leks who leave Ryloth adopt simpler naming conventions to better integrate into galactic society."
+    },
+    {
+      "question": "Can I use these names for my Star Wars character?",
+      "answer": "Absolutely! That's exactly what this generator is for. Feel free to use these names for your role-playing games, fan fiction, or any other creative project."
+    },
+    {
+      "question": "Are the names generated truly 'authentic'?",
+      "answer": "We've done our best to incorporate the sounds and patterns found in established Twi'lek names. While there's no official Twi'lek naming guide, we've aimed for authenticity while still creating unique and interesting names."
+    },
+    {
+      "question": "What if I don't like the name I get?",
+      "answer": "No problem! Just click the 'Generate' button again for a brand new name. There are countless possibilities, so keep trying until you find the perfect fit."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, this generator is completely free to use! Enjoy crafting as many Twi'lek names as your heart desires."
+    }
+  ],
+  "prefixes": [
+    "Aayla",
+    "Bib",
+    "Lyn",
+    "Nym",
+    "Sian",
+    "Tyffla",
+    "Zin",
+    "Rekk",
+    "Vurk",
+    "Lurr",
+    "Mee",
+    "Oola",
+    "Jaxx",
+    "Gree",
+    "Tott",
+    "Adi",
+    "Sel",
+    "Hera",
+    "Lusa",
+    "Nalia"
+  ],
+  "suffixes": [
+    "Secura",
+    "Fortuna",
+    "Tahn",
+    "Tess",
+    "Zon",
+    "Run",
+    "Vist",
+    "Farr",
+    "Noss",
+    "Veen",
+    "Layn",
+    "Tee",
+    "Voon",
+    "Leeuw",
+    "Zaan",
+    "Gallia",
+    "Kest",
+    "Syndulla",
+    "Vee",
+    "Nala"
+  ]
+}

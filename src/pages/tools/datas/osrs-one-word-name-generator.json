@@ -1,0 +1,83 @@
+{
+  "name": "OSRS One Word Name Generator",
+  "description": "Struggling to find that *perfect* one-word name for your Old School RuneScape character? Look no further! Our generator conjures up names that are as catchy as they are unique. Prepare to become a legend!",
+  "slug": "osrs-one-word-name-generator",
+  "icon": "\ud83e\uddd9\u200d\u2642\ufe0f",
+  "introduction": "Tired of generic usernames that blend into the Gielinor landscape? Yearning for a name that screams 'skill' and 'style'? Our OSRS One Word Name Generator is your answer! Whether you're a seasoned veteran or a fresh-faced noob, a killer name is the first step to immortalizing your account.",
+  "howToUse": [
+    "Simply click the 'Generate' button. (Yeah, it's *that* easy.)",
+    "Feast your eyes on the glorious one-word name that appears before you.",
+    "If the RuneScape gods are smiling upon you, copy that name and use it!",
+    "If not? Just hit 'Generate' again! We've got more names than there are bots in the Grand Exchange. (Okay, maybe not *that* many, but you get the idea.)",
+    "Repeat until you find the name that resonates with your inner adventurer. Good luck, and happy 'scaping!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually useful for finding a good OSRS name?",
+      "answer": "Is Dragon Slayer 2 hard? Of course it is! We've poured countless hours (okay, maybe a few minutes) into crafting a generator that spits out names that are both memorable and appropriate for the world of Gielinor."
+    },
+    {
+      "question": "Can I use these names for other games besides OSRS?",
+      "answer": "Absolutely! While designed with OSRS in mind, these names are versatile enough for any online adventure. Just make sure it's not already taken!"
+    },
+    {
+      "question": "Are the generated names actually available in OSRS?",
+      "answer": "We can't guarantee that *every* name is available (some people are quick!), but we strive to generate names that are less common and more likely to be free for the taking. May the odds be ever in your favor!"
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly adding fresh and exciting names to our database. Think of it as a never-ending quest for the perfect moniker!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! With a practically infinite number of possibilities, you're bound to find a name that clicks. Or, you know, blame RNG. We won't judge."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Free as in beer! (Or, you know, free as in the air you breathe.) Use it to your heart's content!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Mystic",
+    "Crimson",
+    "Ancient",
+    "Ethereal",
+    "Frost",
+    "Inferno",
+    "Lunar",
+    "Solar",
+    "Void",
+    "Dragon",
+    "Serpent",
+    "Phantom",
+    "Titan",
+    "Rune",
+    "Elite",
+    "Supreme",
+    "Apex",
+    "Zenith"
+  ],
+  "suffixes": [
+    "Blade",
+    "Strike",
+    "Guard",
+    "Warden",
+    "Mage",
+    "Hunter",
+    "Slayer",
+    "Knight",
+    "Lord",
+    "King",
+    "Queen",
+    "Archon",
+    "Bane",
+    "Doom",
+    "Whisper",
+    "Echo",
+    "Storm",
+    "Flare",
+    "Nova",
+    "Wraith"
+  ]
+}

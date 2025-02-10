@@ -1,0 +1,64 @@
+{
+  "name": "Lich Name Generator",
+  "description": "Unleash the chilling power of necromancy! Conjure forth names befitting the most powerful and terrifying liches. Because every undead overlord deserves a title that strikes fear into the hearts of mortals\u2026 and maybe gets them a good deal on phylactery insurance.",
+  "slug": "lich-name-generator",
+  "icon": "\ud83d\udc80",
+  "introduction": "Dare to delve into the dark arts of naming with our Lich Name Generator! Whether you're crafting a formidable villain for your tabletop RPG campaign, writing a dark fantasy novel, or simply seeking an awesome and eerie moniker for your online persona, this tool will help you forge a name that echoes with the might of undeath. Prepare to command legions, hoard forbidden knowledge, and look absolutely fabulous while doing it.",
+  "howToUse": [
+    "Click the 'Generate' button. (It's way easier than performing a resurrection ritual, trust us.)",
+    "Behold! A brand-spanking-new lich name appears, dripping with dark charisma.",
+    "Don't like it? Click 'Generate' again! We've got more names than there are souls in the Shadowfell.",
+    "Feeling creative? Mix and match prefixes and suffixes to concoct your own unique masterpiece of macabre nomenclature.",
+    "Copy your favorite lich name and unleash it upon the world! (Responsibility for any ensuing chaos is solely yours.)"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* a lich?",
+      "answer": "A lich is a powerful undead creature, typically a wizard or sorcerer who has achieved immortality through necromantic rituals. They're known for their intelligence, magical abilities, and tendency to hoard ancient secrets. Think of them as the ultimate librarians... with a penchant for raising armies of the dead."
+    },
+    {
+      "question": "Are these names suitable for all types of liches?",
+      "answer": "Absolutely! Whether your lich is a bone-chilling tyrant, a cunning manipulator, or a scholarly recluse, our generator offers a diverse range of names to suit any undead personality. We've got names for liches of all shapes, sizes, and levels of world-ending ambition."
+    },
+    {
+      "question": "Can I use these names for my Dungeons & Dragons character?",
+      "answer": "By all means! These names are perfect for your D&D campaigns, whether you're playing as a lich or battling against one. Just be prepared for your fellow players to be both impressed and slightly terrified."
+    },
+    {
+      "question": "Is this generator actually powered by necromancy?",
+      "answer": "While we can neither confirm nor deny the presence of dark magic in our code, we assure you that all names are generated ethically and responsibly. No souls were harmed in the making of this generator... probably."
+    },
+    {
+      "question": "What if I want a *really* unique lich name?",
+      "answer": "Feel free to get creative! Use our generator as a starting point and then tweak the names to your liking. Add your own personal flair, incorporate elements from your lich's backstory, or simply mash together random syllables until you find something that resonates with your dark soul. The possibilities are as endless as undeath itself!"
+    },
+    {
+      "question": "Are the names copyright free?",
+      "answer": "Yes, the generated names are free for you to use in your creative projects. But remember, with great power (and awesome lich names) comes great responsibility!"
+    }
+  ],
+  "prefixes": [
+    "Acererak",
+    "Kas",
+    "Vecna",
+    "Szass",
+    "Xerxes",
+    "Malkor",
+    "Vorlag",
+    "Nyx",
+    "Grimfang",
+    "Bael"
+  ],
+  "suffixes": [
+    "the Eternal",
+    "the Defiler",
+    "the Shadowbinder",
+    "the Soulrender",
+    "the Unliving",
+    "the Gravemind",
+    "the Necromancer",
+    "the Obsidian",
+    "the Ravenous",
+    "the Accursed"
+  ]
+}

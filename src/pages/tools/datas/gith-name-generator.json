@@ -1,0 +1,88 @@
+{
+  "name": "Git Name Generator",
+  "description": "Struggling to find the perfect name for your next Git project? Fear no more! Our Git Name Generator is here to unleash a torrent of awesome, memorable, and downright cool names that will make your repository the envy of the coding world.",
+  "slug": "git-name-generator",
+  "icon": "\ud83d\udcbb",
+  "introduction": "Let's be honest, naming things is HARD. Especially when it comes to Git repositories. You want something catchy, something relevant, and something that won't make your colleagues cringe. Our Git Name Generator combines a dash of coding magic with a sprinkle of linguistic genius to deliver names that are both technically sound and creatively brilliant. Prepare to be amazed!",
+  "howToUse": [
+    "Simply click the 'Generate' button and let the Git Name Generator work its magic.",
+    "Like a name? Add it to your favorites! Dislike a name? Click 'Generate' again. Rinse and repeat until you find the one.",
+    "Feeling adventurous? Tweak the prefixes and suffixes to create your own custom combinations.",
+    "Pro Tip: Say the name out loud! Does it roll off the tongue? Does it inspire visions of coding greatness? If so, you've found a winner!"
+  ],
+  "faqs": [
+    {
+      "question": "Is the Git Name Generator really free?",
+      "answer": "Absolutely! We believe that everyone deserves a cool Git repository name, and we're happy to provide this service completely free of charge."
+    },
+    {
+      "question": "Can I use these names for commercial projects?",
+      "answer": "You bet! Once you've generated a name, it's yours to use as you see fit. Go forth and conquer the coding world!"
+    },
+    {
+      "question": "Are the generated names actually unique?",
+      "answer": "We do our best to ensure that the generated names are unique, but with the vastness of the coding universe, there's always a chance of a duplicate. We recommend doing a quick search to make sure your chosen name isn't already taken."
+    },
+    {
+      "question": "How often is the Git Name Generator updated?",
+      "answer": "We're constantly adding new prefixes and suffixes to keep the generator fresh and exciting. Check back often for new name possibilities!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking 'Generate'! With millions of possible combinations, you're bound to find a name that you love. And if all else fails, you can always tweak the prefixes and suffixes to create your own custom masterpiece."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "Absolutely! We love hearing from our users. Send us your suggestions, and we'll do our best to incorporate them into the generator."
+    }
+  ],
+  "prefixes": [
+    "git",
+    "repo",
+    "code",
+    "source",
+    "branch",
+    "commit",
+    "dev",
+    "test",
+    "build",
+    "deploy",
+    "web",
+    "api",
+    "data",
+    "cloud",
+    "cyber",
+    "agile",
+    "nexus",
+    "vertex",
+    "fusion",
+    "quantum",
+    "zenith",
+    "stellar"
+  ],
+  "suffixes": [
+    "hub",
+    "lab",
+    "flow",
+    "stream",
+    "sync",
+    "forge",
+    "craft",
+    "works",
+    "solutions",
+    "systems",
+    "engine",
+    "core",
+    "stack",
+    "sphere",
+    "matrix",
+    "domain",
+    "realm",
+    "garden",
+    "grove",
+    "haven",
+    "oasis",
+    "voyage",
+    "quest"
+  ]
+}

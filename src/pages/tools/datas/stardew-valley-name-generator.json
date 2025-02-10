@@ -1,0 +1,83 @@
+{
+  "name": "Stardew Valley Name Generator",
+  "description": "Ready to ditch the city and embrace the simple life? But wait, your current name just screams 'corporate drone'! Fear not, future farmer! Our Stardew Valley Name Generator will conjure up the perfect moniker to match your pixelated paradise persona. Whether you're aiming for rustic charm or quirky coolness, we've got a name that'll make the villagers swoon (and maybe get you extra turnips at the market).",
+  "slug": "stardew-valley-name-generator",
+  "icon": "\ud83e\uddd1\u200d\ud83c\udf3e",
+  "introduction": "So, you're about to inherit your grandpa's farm in Stardew Valley? Awesome! But let's be real, 'Chad Thundercock' doesn't exactly scream 'skilled artisan' or 'lover of all things agricultural'. This generator is your one-stop shop for crafting a name that fits right into the Valley's vibe. Think folksy, whimsical, and maybe just a little bit weird. Get ready to plant seeds, raise chickens, and rock a name that's as unique as your farming style!",
+  "howToUse": [
+    "Click the 'Generate' button. It's the one that looks like pure, unadulterated farming magic.",
+    "Behold! A brand new Stardew Valley-esque name appears before your very eyes!",
+    "Don't like it? Click again! We've got more names than there are days in a Stardew year.",
+    "Found the perfect name? Copy it and paste it into your game. Now get out there and make Grandpa proud!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for other games besides Stardew Valley?",
+      "answer": "Absolutely! While designed with Stardew in mind, these names are versatile enough for any RPG, fantasy world, or even just a quirky nickname for your pet hamster."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Mostly! We use a combination of curated lists and a sprinkle of algorithm magic to create names that feel both familiar and unique."
+    },
+    {
+      "question": "Will using one of these names guarantee me a spouse in Stardew Valley?",
+      "answer": "While a cool name might boost your confidence, romancing the villagers still requires hard work, dedication, and a whole lot of gifts. (Hint: everyone loves diamonds... except maybe Haley.)"
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love that! Send your name suggestions our way via our contact form. We're always looking to expand our collection of quirky and charming names."
+    },
+    {
+      "question": "Is this generator compatible with my ancient potato of a computer?",
+      "answer": "Yep! This generator is lightweight and runs in your browser. No fancy graphics cards or overclocking required. Just pure, unadulterated name-generating goodness."
+    },
+    {
+      "question": "What if I accidentally generate the most perfect name ever and then forget it?",
+      "answer": "Don't panic! Just hit that 'Generate' button again. While the odds are slim, lightning can strike twice. Or, you know, write it down this time."
+    }
+  ],
+  "prefixes": [
+    "Old Man",
+    "Farmer",
+    "Harvest",
+    "River",
+    "Star",
+    "Moon",
+    "Whispering",
+    "Dusty",
+    "Green",
+    "Blue",
+    "Kindred",
+    "Lucky",
+    "Crimson",
+    "Willow",
+    "Stone",
+    "Berry",
+    "Sun",
+    "Silver",
+    "Golden",
+    "Quiet"
+  ],
+  "suffixes": [
+    "Brook",
+    "Creek",
+    "Hollow",
+    "Ford",
+    "Field",
+    "Wood",
+    "Valley",
+    "Bloom",
+    "Song",
+    "Grange",
+    "Root",
+    "Leaf",
+    "Stone",
+    "Berry",
+    "Sun",
+    "Shine",
+    "Glimmer",
+    "Whisper",
+    "Thorn",
+    "Rose"
+  ]
+}

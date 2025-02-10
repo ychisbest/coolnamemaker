@@ -1,0 +1,74 @@
+{
+  "name": "Changeling Name Generator",
+  "description": "Unleash your inner shapeshifter! Need a name as fluid and fascinating as your ever-changing persona? Our Changeling Name Generator conjures up monikers perfect for fantasy characters, online aliases, or just a touch of mystical flair. Prepare to be amazed!",
+  "slug": "changeling-name-generator",
+  "icon": "\ud83c\udfad",
+  "introduction": "Ever feel like you're not quite *you* today? Maybe you're a changeling in disguise! This generator is designed to provide names that reflect the adaptable, mysterious nature of Changelings. Whether you're role-playing, writing a novel, or just seeking a name that embodies transformation, you've come to the right place. Get ready to unveil your true (or temporary) identity!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! Instant Changeling name magic!",
+    "Don't like the first result? No problem! Keep clicking until a name resonates with your shifting soul.",
+    "Feeling adventurous? Mix and match prefixes and suffixes from different generations to create something truly unique.",
+    "Share your awesome Changeling name with the world (or keep it your little secret \u2013 we won't judge!).",
+    "Pro Tip: Close your eyes and channel your inner shapeshifter before generating for maximum name awesomeness!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "This generator creates names inspired by fantasy, mythology, and folklore, designed to evoke a sense of mystery, adaptability, and transformation \u2013 perfect for Changelings and other shapeshifting beings!"
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! These names are fantastic for any fantasy role-playing game, novel, or creative project where you need a name that embodies change and intrigue."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "While the generator uses a random algorithm, the prefixes and suffixes are carefully curated to ensure the names are thematically appropriate and sound cool. It's controlled chaos, baby!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form on coolnamemaker.com. We're always looking for ways to enhance the magic!"
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your shapeshifting heart desires. The possibilities are as endless as your imagination!"
+    },
+    {
+      "question": "Will the generator give me the same name twice?",
+      "answer": "It's possible, but unlikely! Our vast collection of prefixes and suffixes makes repeated names rare. But if it happens, consider it a sign of your unique shapeshifting essence!"
+    }
+  ],
+  "prefixes": [
+    "Silas",
+    "Lyra",
+    "Faelan",
+    "Nimue",
+    "Corvus",
+    "Seraph",
+    "Astral",
+    "Shadow",
+    "Ember",
+    "Whisper",
+    "Veridian",
+    "Obsidian",
+    "Azure",
+    "Crimson",
+    "Riven"
+  ],
+  "suffixes": [
+    "weave",
+    "shade",
+    "form",
+    "shift",
+    "whisper",
+    "song",
+    "sight",
+    "wind",
+    "bloom",
+    "stone",
+    "wood",
+    "glen",
+    "brook",
+    "vale",
+    "mire"
+  ]
+}

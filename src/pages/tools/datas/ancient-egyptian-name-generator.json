@@ -1,0 +1,72 @@
+{
+  "name": "Ancient Egyptian Name Generator",
+  "description": "Unleash your inner pharaoh! Discover a name worthy of the gods with our Ancient Egyptian Name Generator. Perfect for stories, games, or just embracing your inner royalty!",
+  "slug": "ancient-egyptian-name-generator",
+  "icon": "\ud80c\udd43",
+  "introduction": "Journey back to the land of pyramids and powerful deities! Our Ancient Egyptian Name Generator crafts authentic-sounding names inspired by pharaohs, gods, and everyday life in ancient Egypt. Get ready to rule (or at least feel like it)!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A majestic Ancient Egyptian name will appear.",
+    "Not feeling that name? No problem! Click 'Generate' again for a fresh, historically-inspired moniker.",
+    "Want to tweak it? Use the prefixes and suffixes to create a unique name!",
+    "Copy and paste your chosen name into your story, game, or social media profile. Prepare to be worshipped (figuratively, of course!).",
+    "Share the generator with your friends and let them discover their own Ancient Egyptian identities!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names real Ancient Egyptian names?",
+      "answer": "While we strive for authenticity, the generator combines elements of real Ancient Egyptian names, titles, and linguistic patterns to create believable but unique names. Think of it as inspired by history, rather than a direct replica."
+    },
+    {
+      "question": "Can I use these names for my book/game/character?",
+      "answer": "Absolutely! That's what it's for! Feel free to use these names as inspiration for your creative projects. Just remember to give credit where credit is due (to the ancient Egyptians... and maybe us \ud83d\ude09)."
+    },
+    {
+      "question": "What if I don't like the names that are generated?",
+      "answer": "Keep clicking! The generator has a vast library of prefixes and suffixes, so you're bound to find a name that resonates with your inner pharaoh. Experiment and have fun!"
+    },
+    {
+      "question": "How accurate are these names historically?",
+      "answer": "We've done our best to research and incorporate authentic elements of Ancient Egyptian naming conventions. However, language and culture evolve over time, so consider these names as inspired interpretations rather than perfect replicas."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to add to the generator?",
+      "answer": "We'd love to hear your suggestions! Send them our way, and we'll consider adding them to our ever-growing database of Ancient Egyptian name components."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! Our Ancient Egyptian Name Generator is completely free. Enjoy your journey back to the land of the pharaohs!"
+    }
+  ],
+  "prefixes": [
+    "Ahmose",
+    "Akhen",
+    "Amen",
+    "Ankh",
+    "Horem",
+    "Imhotep",
+    "Khufu",
+    "Menes",
+    "Nefer",
+    "Pepi",
+    "Ramses",
+    "Seti",
+    "Thutmose",
+    "Tutankh"
+  ],
+  "suffixes": [
+    "es",
+    "amon",
+    "aten",
+    "et",
+    "hapi",
+    "hep",
+    "hotep",
+    "kare",
+    "mose",
+    "nefer",
+    "re",
+    "tep",
+    "titi",
+    "ty"
+  ]
+}

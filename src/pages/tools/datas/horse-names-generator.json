@@ -1,0 +1,83 @@
+{
+  "name": "Horse Name Generator",
+  "description": "Gallop into a world of unique and captivating horse names! Our generator crafts names that are as majestic and spirited as the horses they represent. Whether you're naming a champion racehorse, a gentle therapy horse, or a character in your next novel, we've got the perfect name waiting to be discovered. Saddle up and let's find that winning name!",
+  "slug": "horse-name-generator",
+  "icon": "\ud83d\udc34",
+  "introduction": "Tired of the same old horse names? Yearning for something that truly captures your horse's personality and spirit? You've come to the right place! Our Horse Name Generator is designed to spark your imagination and deliver names that are both memorable and meaningful. From classic elegance to modern flair, we've got a stable full of options!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! We'll conjure up a list of awesome horse names just for you.",
+    "Don't like what you see? No problem! Just keep clicking until you find that perfect name that makes you say 'Neigh!' (in a good way, of course).",
+    "Feeling creative? Use the prefixes and suffixes as inspiration to craft your own unique name! Mix and match, add your own flair, and create a name that's truly one-of-a-kind.",
+    "Once you've found 'the one', copy it, share it, and shout it from the rooftops! Your horse's new identity awaits!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the Horse Name Generator work?",
+      "answer": "Our generator combines a vast library of prefixes and suffixes, drawing inspiration from mythology, history, nature, and more to create a diverse range of horse names. It's like a magical name-making machine!"
+    },
+    {
+      "question": "Can I use these names for any type of horse?",
+      "answer": "Absolutely! Whether you have a tiny pony, a powerful draft horse, or a sleek thoroughbred, our generator can provide names that fit any breed and personality."
+    },
+    {
+      "question": "Are the names generated unique?",
+      "answer": "We strive to create unique and original names, but with the vast number of possibilities, there's always a chance of overlap. If you're looking for guaranteed uniqueness, consider combining elements from different names or adding your own personal touch."
+    },
+    {
+      "question": "Is the Horse Name Generator free to use?",
+      "answer": "Yes! Our Horse Name Generator is completely free to use as many times as you like. Go wild and name all the horses!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your suggestions! Please feel free to contact us with your ideas. We're always looking for ways to improve our generator and provide even more amazing names."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With so many combinations, you're bound to find something you love eventually. Or, use the generated names as inspiration to create your own unique masterpiece!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Silver",
+    "Golden",
+    "Storm",
+    "Whisper",
+    "Star",
+    "Moon",
+    "Thunder",
+    "Royal",
+    "Noble",
+    "Brave",
+    "Swift",
+    "Wild",
+    "Gentle",
+    "Mystic",
+    "Iron",
+    "Crimson",
+    "Emerald",
+    "Onyx",
+    "Diamond"
+  ],
+  "suffixes": [
+    "wind",
+    "fire",
+    "heart",
+    "light",
+    "rider",
+    "dancer",
+    "spirit",
+    "song",
+    "shadow",
+    "knight",
+    "star",
+    "dream",
+    "blaze",
+    "storm",
+    "grace",
+    "charm",
+    "king",
+    "queen",
+    "prince",
+    "princess"
+  ]
+}

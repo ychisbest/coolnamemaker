@@ -1,0 +1,98 @@
+{
+  "name": "Lord of the Rings Name Generator",
+  "description": "Struggling to find the perfect name for your epic fantasy character? Look no further! Our Lord of the Rings Name Generator will forge you a name worthy of Middle-earth itself. Whether you're a brave hobbit, a wise elf, a sturdy dwarf, or a cunning human, we've got a name for you!",
+  "slug": "lotr-name-generator",
+  "icon": "\ud83e\udddd",
+  "introduction": "Venture into Middle-earth with a name that resonates with the lore and magic of Tolkien's world. This generator blends classic LOTR naming conventions with a touch of randomness to create unique and evocative names. Prepare to embark on your quest with a name that even Gandalf would approve of!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new, totally awesome Lord of the Rings-inspired name will appear.",
+    "Feeling picky? Keep clicking! We've got enough combinations to name every single Orc in Mordor (though we wouldn't recommend that).",
+    "Want to get really creative? Mix and match prefixes and suffixes to craft a name that's uniquely YOU (or your character, at least).",
+    "Don't forget to share your epic new name with your friends and fellow adventurers! Spread the LOTR love!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names can this generator create?",
+      "answer": "This generator creates names inspired by various races and cultures of Middle-earth, including Elves, Humans, Dwarves, and Hobbits."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "While there's an element of randomness, the generator uses patterns and sounds inspired by J.R.R. Tolkien's works to create names that feel authentic to the Lord of the Rings universe."
+    },
+    {
+      "question": "Can I use the generated names for my own creative projects?",
+      "answer": "Absolutely! Feel free to use these names for your characters, stories, games, or anything else your imagination conjures up. Just remember that the Lord of the Rings is copyright by Tolkien Estate."
+    },
+    {
+      "question": "How many different names can this generator create?",
+      "answer": "With a vast combination of prefixes and suffixes, the possibilities are nearly endless! You're sure to find a name that suits your needs (and maybe a few that don't!)."
+    },
+    {
+      "question": "Is this generator endorsed by J.R.R. Tolkien or his estate?",
+      "answer": "Alas, no. This is a fan-made tool created out of love for Middle-earth. But we like to think Tolkien would get a kick out of it!"
+    },
+    {
+      "question": "Can I generate female names?",
+      "answer": "Yes! While some names might sound more masculine or feminine, many are gender-neutral and perfectly suitable for any character."
+    }
+  ],
+  "prefixes": [
+    "Aeg",
+    "Aer",
+    "And",
+    "Bal",
+    "Bel",
+    "Bor",
+    "Celeb",
+    "Dor",
+    "Elen",
+    "Eor",
+    "Fara",
+    "Gal",
+    "Gil",
+    "Gond",
+    "Hith",
+    "Im",
+    "Isil",
+    "Leg",
+    "Lor",
+    "Min",
+    "Mor",
+    "Nim",
+    "Ond",
+    "Pel",
+    "Roch",
+    "Silv",
+    "Tar",
+    "Theod",
+    "Val",
+    "Wil"
+  ],
+  "suffixes": [
+    "born",
+    "brand",
+    "dan",
+    "dir",
+    "dor",
+    "el",
+    "fin",
+    "gar",
+    "gil",
+    "gon",
+    "grim",
+    "hild",
+    "ion",
+    "las",
+    "mir",
+    "mund",
+    "nor",
+    "onwe",
+    "randir",
+    "rian",
+    "ros",
+    "stan",
+    "thor",
+    "wyn",
+    "yndo"
+  ]
+}

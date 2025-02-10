@@ -1,0 +1,83 @@
+{
+  "name": "Race Team Name Generator",
+  "description": "Stuck in the pits trying to come up with the perfect name for your racing team? Rev your engines! This generator will fuel your creativity and get you across the finish line with a name that's as fast and furious as your driving.",
+  "slug": "race-team-name-generator",
+  "icon": "\ud83c\udfce\ufe0f",
+  "introduction": "Let's face it, a killer race team needs a killer name. Something that strikes fear into the hearts of your rivals, inspires your pit crew, and looks awesome on a t-shirt. But sometimes, inspiration just refuses to ignite. That's where we come in. Our Race Team Name Generator is your secret weapon for brainstorming the ultimate moniker. Whether you're into Formula 1, NASCAR, rally racing, or even go-karting, we've got the juice to get your team noticed.",
+  "howToUse": [
+    "Buckle up, buttercup! Just hit that 'Generate' button and watch the magic happen.",
+    "Don't like what you see? No problem! Mash that button again until you find a name that makes your heart race.",
+    "Found a gem? Copy it, share it, and start printing those team jerseys! (We're not responsible for the envious stares you'll get.)",
+    "Pro Tip: Mix and match prefixes and suffixes for even wilder combinations. The possibilities are endless!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Consider it our contribution to the world of speed and adrenaline. No hidden fees, no catches, just pure racing name awesomeness."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You bet! Once you generate a name, it's all yours. Go forth and conquer the racing world (and maybe send us a team t-shirt if you win big!)."
+    },
+    {
+      "question": "Will the generated names be unique?",
+      "answer": "We aim for uniqueness, but with the vastness of the internet, there's always a *tiny* chance someone else might have thought of something similar. But hey, great minds think alike, right?"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always open to suggestions! Send us your ideas through the contact form on the website, and we'll see if we can add them to the mix."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! Or, get creative and use the generated names as inspiration to come up with your own unique twist. The possibilities are endless!"
+    },
+    {
+      "question": "Is this generator suitable for all types of racing teams?",
+      "answer": "Yep! Whether you're into Formula 1, NASCAR, IndyCar, rally racing, or even something more niche like lawnmower racing (it's a thing!), this generator will spark your imagination."
+    }
+  ],
+  "prefixes": [
+    "Velocity",
+    "Apex",
+    "Nitro",
+    "Torque",
+    "Adrenaline",
+    "Redline",
+    "Victory",
+    "Phoenix",
+    "Shadow",
+    "Ghost",
+    "Inferno",
+    "Cosmic",
+    "Quantum",
+    "Renegade",
+    "Maverick",
+    "Dynasty",
+    "Titan",
+    "Zenith",
+    "Crimson",
+    "Steel"
+  ],
+  "suffixes": [
+    "Racers",
+    "Speedsters",
+    "Motorsports",
+    "Racing",
+    "Velocity",
+    "Dynamics",
+    "Force",
+    "Crew",
+    "Syndicate",
+    "Alliance",
+    "Brigade",
+    "Squadron",
+    "Project",
+    "Division",
+    "Autosport",
+    "Ignition",
+    "Momentum",
+    "Drive",
+    "Machines",
+    "Legends"
+  ]
+}

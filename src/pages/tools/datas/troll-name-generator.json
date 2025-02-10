@@ -1,0 +1,104 @@
+{
+  "name": "Troll Name Generator",
+  "description": "Unleash your inner internet gremlin with our Troll Name Generator! Get ready to wreak havoc (in a fun way, of course) with names so outrageous, they'll have everyone saying, \"Is that even a name?!\"",
+  "slug": "troll-name-generator",
+  "icon": "\ud83e\uddcc",
+  "introduction": "Ever feel the urge to stir the pot online? Need a pseudonym that screams mischief and mayhem? Look no further! Our Troll Name Generator is your one-stop shop for crafting the perfect online persona. Whether you're looking for something hilariously absurd or subtly subversive, we've got you covered. Prepare to unleash your inner troll!",
+  "howToUse": [
+    "Click the \"Generate\" button. (It's the one that doesn't blink. Probably.)",
+    "Gasp in amazement (or mild horror) at the name that appears.",
+    "If you're not feeling it, click \"Generate\" again. We won't judge. Much.",
+    "Copy and paste your chosen troll name into your favorite online forum, game, or social media platform.",
+    "Prepare for the lulz. (But remember to be a *responsible* troll. Don't be a jerk.)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to turn me into a real troll?",
+      "answer": "Only if you let it! Our generator is designed for fun and creative expression. Use your powers for good (or at least, for harmless amusement)."
+    },
+    {
+      "question": "Are these names actually offensive?",
+      "answer": "We strive to create names that are humorous and outlandish, not genuinely hurtful. However, humor is subjective, so use your best judgment and avoid names that could be genuinely offensive to others."
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! In fact, we encourage it. Imagine the chaos a character named \"Gronk the Grotesque\" could unleash on your next campaign!"
+    },
+    {
+      "question": "Help! I accidentally generated a name that's *too* good. What do I do?",
+      "answer": "Embrace it! Some names are just destined for greatness (or at least, for internet infamy). Own it, and become the troll you were always meant to be."
+    },
+    {
+      "question": "Are the generated names unique?",
+      "answer": "While we have a large database of prefixes and suffixes, there's always a chance of generating a name that's already in use. If that happens, consider it a sign that you're on the right track!"
+    },
+    {
+      "question": "Can I suggest new prefixes and suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions via our contact form, and we'll consider adding them to the generator."
+    }
+  ],
+  "prefixes": [
+    "Gronk",
+    "Snort",
+    "Griz",
+    "Blarg",
+    "Stink",
+    "Rot",
+    "Crud",
+    "Wart",
+    "Sludge",
+    "Gloom",
+    "Pustule",
+    "Boil",
+    "Snot",
+    "Fester",
+    "Grim",
+    "Grotesque",
+    "Garbage",
+    "Grumble",
+    "Gnash",
+    "Goblin",
+    "Ogre",
+    "Scabby",
+    "Slimy",
+    "Smelly",
+    "Greasy",
+    "Moldy",
+    "Murky",
+    "Nasty",
+    "Putrid",
+    "Revolting"
+  ],
+  "suffixes": [
+    "face",
+    "breath",
+    "toes",
+    "nose",
+    "wart",
+    "foot",
+    "finger",
+    "eye",
+    "ear",
+    "stain",
+    "snout",
+    "knuckle",
+    "guts",
+    "grinder",
+    "eater",
+    "licker",
+    "sniffer",
+    "muncher",
+    "gobbler",
+    "slurper",
+    "blot",
+    "rot",
+    "stench",
+    "slime",
+    "ooze",
+    "scum",
+    "stench",
+    "scourge",
+    "pest",
+    "spawn"
+  ]
+}

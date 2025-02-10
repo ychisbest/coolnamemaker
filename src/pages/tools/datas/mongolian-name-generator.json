@@ -1,0 +1,63 @@
+{
+  "name": "Mongolian Name Generator",
+  "description": "Struggling to find the perfect Mongolian name? Look no further! Our generator conjures up authentic-sounding names steeped in history and nomadic spirit. Saddle up and discover your Mongolian alter ego!",
+  "slug": "mongolian-name-generator",
+  "icon": "\ud83d\udc0e",
+  "introduction": "Ever wondered what it would be like to roam the vast steppes, leading a tribe with a name that echoes through the ages? Our Mongolian Name Generator is your portal to that world. Whether you're writing a fantasy novel, creating a character for a game, or simply curious about Mongolian culture, we've got you covered. Prepare to be amazed by the diverse and evocative names we can create!",
+  "howToUse": [
+    "Simply hit the 'Generate' button and watch the magic happen!",
+    "Don't like the first result? No problem! Click again for a brand new, equally awesome Mongolian name.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create your own unique masterpiece. Just like Genghis Khan forged an empire, you can forge your own name!",
+    "Share your epic new name with your friends. Bragging rights are totally included."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names real Mongolian names?",
+      "answer": "While we strive for authenticity, our generator creates names inspired by Mongolian naming conventions and history. Think of them as 'Mongolian-esque' \u2013 perfect for creative projects!"
+    },
+    {
+      "question": "Can I use these names for my novel/game?",
+      "answer": "Absolutely! That's what they're for. Just be mindful of cultural sensitivity and do your research to ensure your portrayal is respectful."
+    },
+    {
+      "question": "How does the generator work?",
+      "answer": "We use a carefully curated database of Mongolian prefixes, suffixes, and naming patterns to create a wide variety of names. It's a secret blend of algorithms and ancient wisdom!"
+    },
+    {
+      "question": "Will the names be appropriate?",
+      "answer": "We do our best to ensure all generated names are appropriate. However, if you find a name questionable, please let us know."
+    },
+    {
+      "question": "Can I get a name with a specific meaning?",
+      "answer": "Unfortunately, no. Our generator focuses on creating cool and authentic-sounding names, not specific meanings. You'll need to do some extra research for that!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You betcha! Use it as much as you want. Consider it our gift to the world of creativity and Mongolian appreciation."
+    }
+  ],
+  "prefixes": [
+    "Temujin",
+    "Batu",
+    "Altan",
+    "Chuluun",
+    "Khash",
+    "Ogedai",
+    "Borte",
+    "Khutulun",
+    "Yesui",
+    "Arig"
+  ],
+  "suffixes": [
+    "tai",
+    "baatar",
+    "khan",
+    "ge",
+    "chuluu",
+    "jin",
+    "lun",
+    "kai",
+    "mai",
+    "lai"
+  ]
+}

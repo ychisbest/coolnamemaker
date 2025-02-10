@@ -1,0 +1,82 @@
+{
+  "name": "Gorilla Tag Name Generator",
+  "description": "Ready to swing into the virtual jungle with the coolest moniker imaginable? Our Gorilla Tag Name Generator is here to unleash your inner ape and craft a name that's as unique and wild as you are!",
+  "slug": "gorilla-tag-name-generator",
+  "icon": "\ud83e\udd8d",
+  "introduction": "Tired of being just another anonymous ape in the Gorilla Tag arena? Yearning for a name that strikes fear (or at least mild amusement) into the hearts of your opponents? Look no further! Our generator blends the primal power of gorillas with a dash of internet absurdity to create names that are both memorable and utterly bananas.",
+  "howToUse": [
+    "Simply smash that 'Generate' button like you're pounding your chest after a victory!",
+    "Keep clicking until a name resonates with your inner primate. Don't settle for anything less than pure, unadulterated awesomeness.",
+    "Once you've found 'the one,' copy it, paste it into Gorilla Tag, and prepare to dominate the jungle with your newfound identity.",
+    "Pro-tip: Try generating a few names and mixing and matching elements to create something truly unique. The possibilities are as endless as the branches in the virtual trees!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to make me a better Gorilla Tag player?",
+      "answer": "While we can't guarantee instant pro status, a killer name can definitely boost your confidence and intimidate your rivals. Think of it as a psychological advantage \u2013 like wearing a really cool banana peel as armor."
+    },
+    {
+      "question": "Are the names generated actually unique?",
+      "answer": "We use a combination of prefixes, suffixes, and a healthy dose of randomness to create a vast pool of potential names. While there's always a *slight* chance of duplication, most of the names will be pretty darn unique."
+    },
+    {
+      "question": "Can I use these names for other games or platforms?",
+      "answer": "Absolutely! While we designed this generator with Gorilla Tag in mind, feel free to unleash these names upon the wider world. Just be prepared for people to ask, 'Where did you get that amazing name?'"
+    },
+    {
+      "question": "I generated a name that's a little\u2026 weird. Is that normal?",
+      "answer": "Embrace the weirdness! Our generator is designed to push the boundaries of what's considered 'normal.' Some of the names might be silly, some might be slightly nonsensical, but all of them are guaranteed to be memorable."
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly adding new prefixes and suffixes to keep the generator fresh and exciting. Check back regularly to discover even more ape-tastic names!"
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep generating! The perfect name is out there, waiting to be discovered. Or, get creative and use the generator as inspiration to come up with your own unique moniker. The jungle is your oyster (or should we say, your banana)!"
+    }
+  ],
+  "prefixes": [
+    "Jungle",
+    "Banana",
+    "Coconut",
+    "TreeTop",
+    "Shadow",
+    "Silent",
+    "Mighty",
+    "Rumble",
+    "Pixel",
+    "VR",
+    "Echo",
+    "Crimson",
+    "Iron",
+    "Stone",
+    "Neon",
+    "Digital",
+    "Mystic",
+    "Galactic",
+    "Cosmic",
+    "Phantom"
+  ],
+  "suffixes": [
+    "King",
+    "Kong",
+    "Fist",
+    "Smasher",
+    "Runner",
+    "Climber",
+    "Ghost",
+    "Warrior",
+    "Ninja",
+    "Master",
+    "Hunter",
+    "Striker",
+    "Rider",
+    "Specter",
+    "Titan",
+    "Legend",
+    "Vanguard",
+    "Sentinel",
+    "Ronin"
+  ]
+}

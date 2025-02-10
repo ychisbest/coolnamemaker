@@ -1,0 +1,76 @@
+{
+  "name": "Super Villain Name Generator",
+  "description": "Unleash your inner evil genius! This generator crafts wickedly cool names for your super villain alter ego. Prepare to dominate the world... or at least your next gaming session.",
+  "slug": "super-villain-name-generator",
+  "icon": "\ud83d\ude08",
+  "introduction": "Tired of being the good guy? Yearning for world domination? Every super villain needs a killer name, and that's where we come in. Our Super Villain Name Generator will conjure up menacing monikers that strike fear into the hearts of heroes everywhere. Get ready to embrace your dark side!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel (pun intended!) at the awesomeness of your new super villain name.",
+    "Repeat until you find the perfect name that screams 'I'm about to take over the world!'",
+    "Optional: Practice your evil laugh. A good 'Mwahahaha!' can really sell the name."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to help me take over the world?",
+      "answer": "While we can't *guarantee* world domination, a killer name is definitely a crucial first step. We provide the name; you provide the evil schemes."
+    },
+    {
+      "question": "Can I use these names for my D&D villain?",
+      "answer": "Absolutely! These names are perfect for any villainous character, whether they're plotting world domination or just causing trouble in the local tavern."
+    },
+    {
+      "question": "Are the generated names actually evil?",
+      "answer": "They're designed to *sound* evil. We can't be held responsible if you actually start plotting against humanity. Use your powers for good... or evil. We're not judging."
+    },
+    {
+      "question": "What if I don't like the name I get?",
+      "answer": "Keep hitting that 'Generate' button! There are countless villainous combinations waiting to be discovered. Don't settle for mediocrity; embrace your inner super villain!"
+    },
+    {
+      "question": "Can I trademark the name I generate?",
+      "answer": "We're not lawyers, so we can't give legal advice. But if you *do* end up trademarking a name and becoming a real super villain, remember who helped you get there. (A small percentage of your ill-gotten gains would be appreciated.)"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yes! Unleashing your inner villain shouldn't cost a thing. Now go forth and wreak havoc... responsibly, of course."
+    }
+  ],
+  "prefixes": [
+    "Dr.",
+    "Lord",
+    "The",
+    "Professor",
+    "Madame",
+    "General",
+    "Grand",
+    "Dark",
+    "Shadow",
+    "Iron",
+    "Crimson",
+    "Night",
+    "Cyber",
+    "Master",
+    "Ultimate",
+    "Supreme"
+  ],
+  "suffixes": [
+    "Doom",
+    "Destruction",
+    "Chaos",
+    "Annihilation",
+    "Oblivion",
+    "Nemesis",
+    "Vanquisher",
+    "Terror",
+    "Nightmare",
+    "Devastator",
+    "Overlord",
+    "Tyrant",
+    "Dominator",
+    "Conqueror",
+    "The Merciless",
+    "The Insidious",
+    "The Malevolent"
+  ]
+}

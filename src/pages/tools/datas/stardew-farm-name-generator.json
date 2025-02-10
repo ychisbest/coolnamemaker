@@ -1,0 +1,84 @@
+{
+  "name": "Stardew Farm Name Generator",
+  "description": "Ready to ditch the corporate grind and embrace the simple life? Your Stardew Valley farm needs a name that's as unique as your pixelated dreams! Let our generator conjure up the perfect moniker for your agricultural empire.",
+  "slug": "stardew-farm-name-generator",
+  "icon": "\ud83e\uddd1\u200d\ud83c\udf3e",
+  "introduction": "So, you're about to embark on a journey of farming, foraging, and friendship in Stardew Valley. But hold on! Before you plant your first seed, you need a name that screams 'legendary farmer' (or at least 'slightly competent beginner'). Our Stardew Farm Name Generator is here to rescue you from the dreaded 'Unnamed Farm' fate. Get ready for names that are whimsical, rustic, and maybe even a little bit weird \u2013 just like Stardew Valley itself!",
+  "howToUse": [
+    "Simply click the 'Generate' button. (Duh!)",
+    "Marvel at the awesome name that appears. (We're pretty good at this.)",
+    "If you're not feeling it, hit 'Generate' again! We've got endless names up our sleeves. (Okay, maybe not endless, but a lot.)",
+    "Once you find a name you love, copy it and paste it into Stardew Valley. (Easy peasy!)",
+    "Go forth and farm! (And don't forget to water your crops.)"
+  ],
+  "faqs": [
+    {
+      "question": "Will this generator guarantee me a successful Stardew Valley farm?",
+      "answer": "While we can't promise you'll become the next JojaMart competitor, a great farm name is a solid first step! Success also depends on your farming skills, luck with ancient seeds, and ability to charm the local villagers."
+    },
+    {
+      "question": "Can I use these names for other things besides Stardew Valley?",
+      "answer": "Absolutely! Feel free to use them for your pet hamster, your fantasy football team, or your secret underground lair. We won't judge (much)."
+    },
+    {
+      "question": "Are the generated names trademarked?",
+      "answer": "Nope! They're all yours to use freely. But if you happen to become a billionaire farmer with a farm named 'Glimmering Gourd Gardens,' we expect a thank-you note (and maybe a donation to our 'Buy Us Coffee' fund)."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking 'Generate'! Or, get creative and mix and match prefixes and suffixes to create your own unique masterpiece. The possibilities are as endless as the Stardew Valley seasons!"
+    },
+    {
+      "question": "Is this generator powered by magic?",
+      "answer": "It's powered by a complex algorithm of whimsy, silliness, and a dash of farming know-how. So, basically, yes. It's magic."
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love to hear your ideas! Send them our way. We're always looking for new and creative ways to help farmers name their virtual paradises."
+    }
+  ],
+  "prefixes": [
+    "Starlight",
+    "Whispering",
+    "Rusty",
+    "Glimmering",
+    "Moonlit",
+    "Sun Haven",
+    "Golden",
+    "Emerald",
+    "Tranquil",
+    "Wildflower",
+    "Old Man's",
+    "Grandpa's",
+    "Joja's Bane",
+    "Chicken",
+    "Cabbage",
+    "Mystic",
+    "Forgotten",
+    "Ancient",
+    "Crimson",
+    "Azure"
+  ],
+  "suffixes": [
+    "Acres",
+    "Valley",
+    "Farm",
+    "Orchard",
+    "Fields",
+    "Gardens",
+    "Meadow",
+    "Hollow",
+    "Ridge",
+    "Creek",
+    "Woods",
+    "Springs",
+    "Pastures",
+    "Plantation",
+    "Homestead",
+    "Sanctuary",
+    "Retreat",
+    "Haven",
+    "Paradise",
+    "Estate"
+  ]
+}

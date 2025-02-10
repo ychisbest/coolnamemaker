@@ -1,0 +1,83 @@
+{
+  "name": "Bird Name Generator",
+  "description": "Tweet, tweet! Need a name that's as unique and captivating as a rare bird? Our Bird Name Generator will help you take flight! Find the perfect moniker for your pet, character, or creative project. Let your imagination soar!",
+  "slug": "bird-name-generator",
+  "icon": "\ud83d\udc26",
+  "introduction": "Ever wondered what a bird with a cooler name than 'Tweety' would sound like? Probably amazing! This generator crafts names that are both avian-inspired and utterly unforgettable. Whether you're naming a feathered friend, a fictional creature, or just looking for a unique username, you've landed in the right nest.",
+  "howToUse": [
+    "Ready to wing it? Simply hit the 'Generate' button. Like, REALLY hit it. Give it some love!",
+    "Don't like the first name you see? No worries! Keep clicking until a name chirps to your heart's content.",
+    "Found 'the one'? Copy that name and spread your wings! Go forth and conquer the world... or at least your next creative project.",
+    "Feeling adventurous? Mix and match prefixes and suffixes for truly unique combinations. The sky's the limit... literally!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Bird Name Generator is as free as a bird in flight. Use it as much as you like!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You sure can! Once we generate the name, it's all yours. Go ahead and build your empire of avian-themed awesomeness."
+    },
+    {
+      "question": "Will the names generated be completely original?",
+      "answer": "We strive for originality, but with so many birds out there, some names might have a similar vibe. Consider it a nod to the collective avian consciousness!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your suggestions! Send them our way, and we might just add them to the generator. Help us make it even more bird-tastic!"
+    },
+    {
+      "question": "I generated a name that sounds a bit... strange. Is that normal?",
+      "answer": "Sometimes the most unique names are a little quirky! But if you think something's truly off, generate another one. There are plenty of fish... err, birds in the sea!"
+    },
+    {
+      "question": "Does this generator use AI?",
+      "answer": "While there's some tech magic involved, we prioritize a human touch to ensure the names are creative and engaging. No soulless robot birds here!"
+    }
+  ],
+  "prefixes": [
+    "Swift",
+    "Golden",
+    "Shadow",
+    "Crimson",
+    "Azure",
+    "Sky",
+    "Storm",
+    "Dawn",
+    "Night",
+    "Silent",
+    "Royal",
+    "Phantom",
+    "Whisper",
+    "Brave",
+    "Noble",
+    "Iron",
+    "Steel",
+    "Frost",
+    "Ember",
+    "Mystic"
+  ],
+  "suffixes": [
+    "Wing",
+    "Claw",
+    "Beak",
+    "Eye",
+    "Song",
+    "Flight",
+    "Feather",
+    "Wind",
+    "Hawk",
+    "Sparrow",
+    "Raven",
+    "Dove",
+    "Eagle",
+    "Falcon",
+    "Lark",
+    "Robin",
+    "Jay",
+    "Owl",
+    "Phoenix",
+    "Sprite"
+  ]
+}

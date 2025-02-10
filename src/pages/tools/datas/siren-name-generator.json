@@ -1,0 +1,63 @@
+{
+  "name": "Siren Name Generator",
+  "description": "Unleash your inner mythical seductress! Craving a name that's as captivating and enchanting as a siren's song? Dive into our generator and discover a moniker that's utterly irresistible. Beware, hearts may be stolen!",
+  "slug": "siren-name-generator",
+  "icon": "\ud83e\udddc\u200d\u2640\ufe0f",
+  "introduction": "Ever dreamt of possessing the alluring power of a siren? Your name is your first step! This generator crafts names that are both beautiful and dangerous, hinting at the mysterious depths within. Perfect for writers, gamers, or anyone seeking a touch of mythical allure.",
+  "howToUse": [
+    "Simply click the 'Generate' button and prepare to be mesmerized!",
+    "Don't like the first result? Keep clicking! We've got a sea of siren names waiting to be discovered.",
+    "Found the perfect name? Copy and paste it into your story, game, or social media profile. Prepare for the enchantment to begin!",
+    "Feeling creative? Mix and match prefixes and suffixes to create a truly unique siren identity. You're the master of your own destiny (and your own name)!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "We specialize in names that evoke the mystique and allure of sirens. Think beautiful, powerful, and a little bit dangerous. Expect names that sound both ancient and timeless."
+    },
+    {
+      "question": "Can I use these names for my book or game?",
+      "answer": "Absolutely! That's what they're here for. Feel free to use any name you generate in your creative projects. We only ask that you spread the word about our awesome generator!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes and no. We use a combination of carefully curated prefixes and suffixes that are inspired by mythology, folklore, and classic literature. This ensures that every name has a touch of magic and meaning."
+    },
+    {
+      "question": "Will I find a name that's *exactly* what I'm looking for?",
+      "answer": "We certainly hope so! But if not, keep generating! With countless combinations, you're bound to stumble upon a name that resonates with your inner siren. And remember, you can always tweak a name to make it your own."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Completely and utterly free! We believe that everyone deserves a touch of mythical magic in their lives. So go ahead, generate to your heart's content!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions, and we'll consider adding them to our database. Help us make the Siren Name Generator even more enchanting!"
+    }
+  ],
+  "prefixes": [
+    "Lyra",
+    "Coralia",
+    "Sirena",
+    "Melodia",
+    "Ondine",
+    "Thalassa",
+    "Nerissa",
+    "Undina",
+    "Oceania",
+    "Aella"
+  ],
+  "suffixes": [
+    "ria",
+    "na",
+    "luna",
+    "thiel",
+    "lynn",
+    "dara",
+    "wyn",
+    "belle",
+    "sea",
+    "riael"
+  ]
+}

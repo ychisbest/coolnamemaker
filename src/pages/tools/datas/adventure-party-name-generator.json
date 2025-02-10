@@ -1,0 +1,78 @@
+{
+  "name": "Adventure Party Name Generator",
+  "description": "Struggling to find the perfect moniker for your ragtag band of adventurers? Fear not, brave hero! Our Adventure Party Name Generator conjures up epic, hilarious, and downright unforgettable names that will have bards singing your legends for ages to come!",
+  "slug": "adventure-party-name-generator",
+  "icon": "\ud83d\uddfa\ufe0f",
+  "introduction": "So, you've gathered your fellowship, sharpened your swords, and packed your potions. But something's missing... a name worthy of your epic quest! Whether you're delving into dungeons, battling dragons, or just trying to find a decent tavern, a killer party name is essential. Let's create a name that strikes fear into the hearts of goblins and inspires awe in friendly villagers!",
+  "howToUse": [
+    "First, ditch the boring names like 'The Good Guys' or 'Team Awesome'. We're aiming for legendary!",
+    "Click the 'Generate' button. Prepare to be amazed (or at least mildly amused).",
+    "Don't like what you see? Click again! The possibilities are as vast as the unexplored wilderness.",
+    "Once you find a name that resonates with your adventuring spirit, BAM! You're ready to conquer the world (or at least your next D&D session).",
+    "Share your awesome name with your friends! Bragging rights are included free of charge."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really going to give me cool names?",
+      "answer": "Absolutely! We've consulted ancient scrolls, whispered to mythical creatures, and even bribed a few bards to ensure top-tier name quality. Results may vary, but awesomeness is highly likely."
+    },
+    {
+      "question": "Can I use these names for my Dungeons & Dragons campaign?",
+      "answer": "Heck yes! That's precisely what this generator is for! Unleash these names upon your unsuspecting DM and watch the campaign unfold with newfound glory."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! The magic never stops. Or, you know, tweak the names a bit to your liking. We won't judge (much)."
+    },
+    {
+      "question": "Are the names copyrighted?",
+      "answer": "Nope! These names are yours to use, abuse, and emblazon upon your banners. Go forth and conquer (responsibly, of course)."
+    },
+    {
+      "question": "Will using this generator guarantee a successful adventure?",
+      "answer": "While we can't promise you'll slay a dragon or find untold riches, a great name definitely sets the stage for epicness. Think of it as a +1 bonus to your charisma!"
+    },
+    {
+      "question": "Can I use these names for my band?",
+      "answer": "You absolutely can! Just imagine the album art \u2013 'The Wandering Nomads' debut, 'Slaying Dragons and Shredding Guitars'!"
+    }
+  ],
+  "prefixes": [
+    "The Wandering",
+    "The Crimson",
+    "The Shadow",
+    "The Order of",
+    "The Fellowship of",
+    "The Knights of",
+    "The Silent",
+    "The Golden",
+    "The Iron",
+    "The Emerald",
+    "The Obsidian",
+    "The Astral",
+    "The Forgotten",
+    "The Unseen",
+    "The Raven's",
+    "The Dragon's",
+    "The Serpent's"
+  ],
+  "suffixes": [
+    "Nomads",
+    "Blades",
+    "Guardians",
+    "Seekers",
+    "Hunters",
+    "Voyagers",
+    "Champions",
+    "Avengers",
+    "Defenders",
+    "Phantoms",
+    "Whispers",
+    "Rogues",
+    "Sentinels",
+    "Rebels",
+    "Lords",
+    "Masters",
+    "Claw"
+  ]
+}

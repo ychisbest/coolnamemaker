@@ -1,0 +1,87 @@
+{
+  "name": "Superhero Power Name Generator",
+  "description": "Unleash your inner hero (or villain!) with our Superhero Power Name Generator! Discover epic, action-packed, and totally awesome names inspired by the coolest superpowers imaginable. Get ready to become a legend!",
+  "slug": "superhero-power-name-generator",
+  "icon": "\ud83e\uddb8\u200d\u2642\ufe0f",
+  "introduction": "Ever dreamt of having an incredible superpower and a name to match? Well, dream no more! Our generator combines the thrill of superpowers with the art of name creation, giving you a moniker that's as unique and powerful as your imaginary abilities. Whether you're writing a comic, creating a character, or just having fun, we've got the perfect name for you!",
+  "howToUse": [
+    "First, brace yourself for awesomeness!",
+    "Click the 'Generate' button and prepare to be amazed.",
+    "Voila! A super-cool superhero power name will appear.",
+    "Don't like it? Click again! We've got a universe of names waiting to be discovered.",
+    "Copy your favorite and unleash it upon the world (or your creative project!).",
+    "Share the fun with your friends \u2013 because everyone deserves a super name!"
+  ],
+  "faqs": [
+    {
+      "question": "How does this generator actually work?",
+      "answer": "Magic! Just kidding (sort of). We use a carefully curated list of prefixes and suffixes related to superpowers and combine them in creative ways to conjure up awesome names. It's a blend of science and sorcery!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we're flattered you'd consider them, these names are primarily for fun and creative inspiration. We can't guarantee trademark availability, so do your homework before using them commercially."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Mostly! We've designed the algorithm to be as random as possible while still producing names that sound epic and coherent. There's a touch of human curation to ensure quality."
+    },
+    {
+      "question": "I don't like any of the names. What gives?",
+      "answer": "Keep clicking! With countless combinations, there's bound to be a name that resonates with your inner superhero (or villain). Or, tweak the generated name to make it your own!"
+    },
+    {
+      "question": "Will this generator give me actual superpowers?",
+      "answer": "Sadly, no. But it *will* give you a fantastic name to go with the superpowers you *wish* you had. Think of it as the first step on your path to world domination...or saving the world. Your choice!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for your generator?",
+      "answer": "Absolutely! We're always looking for ways to improve. Send your suggestions our way, and we might just add them to our list!"
+    }
+  ],
+  "prefixes": [
+    "Electro",
+    "Pyro",
+    "Hydro",
+    "Terra",
+    "Chrono",
+    "Shadow",
+    "Quantum",
+    "Cosmic",
+    "Sonic",
+    "Mega",
+    "Ultra",
+    "Nova",
+    "Zenith",
+    "Mystic",
+    "Steel",
+    "Iron",
+    "Titan",
+    "Phantom",
+    "Crimson",
+    "Celestial"
+  ],
+  "suffixes": [
+    "Blast",
+    "Wave",
+    "Surge",
+    "Strike",
+    "Shield",
+    "Force",
+    "Bolt",
+    "Beam",
+    "Claw",
+    "Hammer",
+    "Aura",
+    "Guardian",
+    "Knight",
+    "Master",
+    "Warrior",
+    "Slayer",
+    "Specter",
+    "Vanguard",
+    "Sentinel",
+    "Titan",
+    "Dynamo",
+    "Comet"
+  ]
+}

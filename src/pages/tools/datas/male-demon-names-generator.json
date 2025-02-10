@@ -1,0 +1,83 @@
+{
+  "name": "Male Demon Name Generator",
+  "description": "Unleash the infernal creativity within! Need a wickedly cool name for your male demon character, D&D campaign, or just for kicks? Our generator conjures up names that are both terrifying and tempting. Prepare to be possessed... by inspiration!",
+  "slug": "male-demon-names-generator",
+  "icon": "\ud83d\ude08",
+  "introduction": "Dive into the abyss and emerge with a name that screams power, darkness, and a touch of diabolical charm. Whether you're crafting a villain for your novel, a boss for your game, or simply seeking an edgy online persona, our Male Demon Name Generator is your gateway to the underworld of nomenclature.",
+  "howToUse": [
+    "Click the 'Generate' button. Simple, right? Even demons can figure it out (eventually).",
+    "Keep clicking until a name whispers to your dark soul. You'll know it when you hear it.",
+    "Copy and paste your chosen name. Now go forth and wreak havoc (responsibly, of course... mostly).",
+    "Mix and match prefixes and suffixes for a truly unique demonic moniker. Get creative, you magnificent monster!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my Dungeons & Dragons character?",
+      "answer": "Absolutely! In fact, we encourage it. Just don't blame us if your DM starts having nightmares."
+    },
+    {
+      "question": "Are these names copyrighted?",
+      "answer": "Nope! They're free for you to use in any way you see fit. Go wild, you fiendishly free spirit!"
+    },
+    {
+      "question": "Will these names summon actual demons?",
+      "answer": "Almost certainly not. But if you *do* summon a demon, please let us know what name you used! Research purposes, you understand..."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always looking for fresh hell! Send your suggestions our way. If they're suitably sinister, we'll add them."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Then you, my friend, are too picky for a demon name generator! Try again, or maybe demons just aren't your thing. Perhaps try our 'Fluffy Bunny Name Generator' instead?"
+    },
+    {
+      "question": "Is this generator safe to use at work?",
+      "answer": "That depends on your workplace! If your boss is cool with demonic names, go for it. Otherwise, maybe wait until you're off the clock. We're not responsible for any HR issues."
+    }
+  ],
+  "prefixes": [
+    "Az",
+    "Bel",
+    "Mal",
+    "Vor",
+    "Xan",
+    "Zar",
+    "Kry",
+    "Dra",
+    "Nyx",
+    "Gro",
+    "Mort",
+    "Necro",
+    "Pyro",
+    "Shadow",
+    "Crimson",
+    "Obsidian",
+    "Abyssal",
+    "Infernal",
+    "Doom",
+    "Wrath"
+  ],
+  "suffixes": [
+    "ath",
+    "iel",
+    "oth",
+    "ax",
+    "on",
+    "us",
+    "ek",
+    "gor",
+    "dor",
+    "moth",
+    "grim",
+    "bane",
+    "claw",
+    "shade",
+    "blood",
+    "stone",
+    "fiend",
+    "lord",
+    "spawn",
+    "reaper"
+  ]
+}

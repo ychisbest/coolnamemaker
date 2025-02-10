@@ -1,0 +1,95 @@
+{
+  "name": "Marvel Team Name Generator",
+  "description": "Struggling to come up with the perfect moniker for your superhero squad? Fear not, True Believers! This generator will unleash a torrent of awesome, action-packed, and utterly unforgettable Marvel team names. From the Defenders of Destiny to the Cosmic Crusaders, your team will be ready to save the world (or at least look really cool trying).",
+  "slug": "marvel-team-names-generator",
+  "icon": "\ud83e\uddb8",
+  "introduction": "Welcome, recruits! Every great superhero team needs a name that strikes fear into the hearts of villains and inspires hope in the masses. But coming up with that perfect name can be harder than battling Thanos. That's where we come in! Our Marvel Team Name Generator combines the cosmic power of the Marvel Universe with a dash of creative genius to deliver names that are out of this world. Get ready to assemble your team and your team's identity!",
+  "howToUse": [
+    "Simply hit the 'Generate' button and behold the birth of a brand-new, totally awesome Marvel team name!",
+    "Not feeling the first name that pops up? No problem! Keep clicking until you find the perfect fit for your heroic (or villainous) crew.",
+    "Want to get even more creative? Mix and match elements from different generated names to create something truly unique.",
+    "Once you've found the ultimate name, share it with your friends, fellow comic book lovers, and maybe even Marvel themselves! Who knows, your team could be the next big thing!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my own comic book or fan fiction?",
+      "answer": "Absolutely! We encourage creativity and the sharing of awesome ideas. Just be mindful of existing trademarks and copyrights."
+    },
+    {
+      "question": "Are these names generated randomly?",
+      "answer": "Yes, the names are generated using a combination of prefixes, suffixes, and other Marvel-inspired elements. The results are truly random and unique."
+    },
+    {
+      "question": "Will Marvel sue me if I use one of these names?",
+      "answer": "Highly unlikely! These names are intended for creative fun and inspiration. However, we always recommend doing your own research to ensure your chosen name doesn't infringe on any existing trademarks."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We're always open to suggestions! Feel free to send us your ideas. If they're awesome enough, we might just add them to the generator."
+    },
+    {
+      "question": "Is this generator powered by the Infinity Stones?",
+      "answer": "While we can't confirm or deny the use of Infinity Stones, we can assure you that this generator is powered by pure, unadulterated Marvel awesomeness!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! The generator has an endless supply of potential names. You're bound to find something you love eventually. Or, you know, you could always come up with your own. But where's the fun in that?"
+    }
+  ],
+  "prefixes": [
+    "Cosmic",
+    "Quantum",
+    "Mystic",
+    "Shadow",
+    "Crimson",
+    "Steel",
+    "Galactic",
+    "Atomic",
+    "Spectral",
+    "Lunar",
+    "Solar",
+    "Cyber",
+    "Elite",
+    "Invincible",
+    "Ultimate",
+    "Secret",
+    "New",
+    "Dark",
+    "Mighty",
+    "Iron",
+    "Thunder",
+    "United",
+    "Alpha",
+    "Omega",
+    "Future",
+    "Ancient"
+  ],
+  "suffixes": [
+    "Force",
+    "Guardians",
+    "Avengers",
+    "Defenders",
+    "Brigade",
+    "Squadron",
+    "Alliance",
+    "League",
+    "Corps",
+    "Division",
+    "Battalion",
+    "Strike Force",
+    "Elite",
+    "Commandos",
+    "Enforcers",
+    "Protectors",
+    "Sentinels",
+    "Champions",
+    "Crusaders",
+    "Legion",
+    "Pact",
+    "Council",
+    "Order",
+    "Brotherhood",
+    "Sisterhood",
+    "Regiment"
+  ]
+}

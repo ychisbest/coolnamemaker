@@ -1,0 +1,69 @@
+{
+  "name": "Funny Pirate Ship Name Generator",
+  "description": "Ahoy, matey! Need a hilariously absurd name for your pirate ship? Plunder no further! This generator will shiver your timbers with laughter.",
+  "slug": "pirate-ship-name-generator-funny",
+  "icon": "\ud83d\udea2",
+  "introduction": "Let's face it, 'The Sea Serpent' is *so* last Tuesday. You need a name that screams 'pirate' but whispers 'comedy genius.' Prepare for names so ridiculous, even Blackbeard would chuckle!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Read the ridiculously funny pirate ship name that appears.",
+    "Laugh until your sides hurt (optional, but highly encouraged).",
+    "If you're not feeling it, click 'Generate' again! We've got more silly names than Davy Jones has lockers.",
+    "Use the name! Sail the seven seas (or your local pond) with pride and a hearty 'Arrr!'"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names *actually* funny?",
+      "answer": "We think so! Humor is subjective, but we've aimed for maximum silliness. If you don't laugh, you might be a landlubber at heart."
+    },
+    {
+      "question": "Can I use these names for my actual pirate ship?",
+      "answer": "If you have an actual pirate ship... congrats! And yes, absolutely. Just don't blame us if the Royal Navy doesn't take you seriously."
+    },
+    {
+      "question": "Will these names attract more parrots?",
+      "answer": "We can't guarantee it, but a funny name is certainly more appealing than a boring one. Parrots love a good laugh (probably)."
+    },
+    {
+      "question": "Are the names generated randomly?",
+      "answer": "Yes! We use a complex algorithm involving rum, maps, and a rubber chicken to ensure maximum randomness. (Okay, maybe not the rubber chicken...)"
+    },
+    {
+      "question": "I generated a name that's *too* funny. What do I do?",
+      "answer": "Embrace it! A name that's too funny is a gift. Share it with the world, and let the laughter spread like wildfire!"
+    },
+    {
+      "question": "Can I suggest names to add to the generator?",
+      "answer": "Arrr, you can! Send your funniest suggestions our way. If they're suitably ridiculous, we might just add them to the mix!"
+    }
+  ],
+  "prefixes": [
+    "The Tipsy",
+    "The Scurvy",
+    "The Grog-Soaked",
+    "The Barnacle-Butt",
+    "The Parrot-Puking",
+    "The Seaweed-Sniffing",
+    "The One-Eyed",
+    "The Rubber Duckie",
+    "The Slightly Leaky",
+    "The Wobbly"
+  ],
+  "suffixes": [
+    "Seahorse",
+    "Manatee",
+    "Sea Cucumber",
+    "Goldfish",
+    "Squid",
+    "Pigeon",
+    "Toaster",
+    "Banana",
+    "Spoon",
+    "Dolphin Fart",
+    "Pickle",
+    "Rubber Chicken",
+    "Unicorn",
+    "Landlubber",
+    "Sea Biscuit"
+  ]
+}

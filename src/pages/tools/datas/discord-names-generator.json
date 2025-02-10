@@ -1,0 +1,93 @@
+{
+  "name": "Discord Name Generator",
+  "description": "Struggling to find the perfect, attention-grabbing Discord name? Look no further! Our Discord Name Generator crafts unique and memorable usernames that will make you stand out in any server. Get ready to level up your online presence!",
+  "slug": "discord-name-generator",
+  "icon": "\ud83d\udcac",
+  "introduction": "Your Discord name is your digital handshake. It's the first thing people see, and it sets the tone for your interactions. Don't settle for something boring or generic! Let our generator conjure up a name that's as awesome and unique as you are. Whether you're a gamer, artist, streamer, or just looking to chat, we've got the perfect name waiting for you.",
+  "howToUse": [
+    "Simply smash that 'Generate' button until a name tickles your fancy (or makes you snort with laughter \u2013 either works!).",
+    "Found a gem? Click the copy button and proudly paste it into your Discord profile.",
+    "Pro-tip: Mix and match prefixes and suffixes for even wilder combinations. Unleash your inner name-smith!",
+    "Feeling adventurous? Use the generated names as inspiration and tweak them to create something truly one-of-a-kind. Go wild!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the Discord Name Generator work?",
+      "answer": "Our generator uses a carefully curated list of prefixes and suffixes, combining them in creative ways to produce a wide variety of unique and engaging Discord names. It's like a word salad, but delicious!"
+    },
+    {
+      "question": "Are the generated names actually available on Discord?",
+      "answer": "While we strive to create unique names, availability can vary. We recommend checking the name's availability on Discord before fully committing. If your dream name is taken, don't fret! Just hit 'Generate' again for more awesome options."
+    },
+    {
+      "question": "Can I use the generated names for other platforms?",
+      "answer": "Absolutely! While designed for Discord, these names can be used on any platform where you need a cool username. Think Twitch, YouTube, forums, and more!"
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart desires. We encourage endless experimentation until you find the perfect fit."
+    },
+    {
+      "question": "The generated names are funny, but not quite what I'm looking for. What should I do?",
+      "answer": "Keep generating! Our generator offers a diverse range of names. You can also try focusing on specific keywords or themes that resonate with you and adapt the generated names accordingly. Think of it as a creative springboard!"
+    },
+    {
+      "question": "Are the generated names offensive or inappropriate?",
+      "answer": "We do our best to filter out offensive or inappropriate terms, but it's always a good idea to use your own judgment. If you come across a name that you find questionable, please let us know so we can improve our filters!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Cyber",
+    "Pixel",
+    "Nova",
+    "Mystic",
+    "Lunar",
+    "Crimson",
+    "Echo",
+    "Specter",
+    "Rogue",
+    "Inferno",
+    "Blaze",
+    "Zenith",
+    "Phantom",
+    "Vortex",
+    "Seraph",
+    "Titan",
+    "Neon",
+    "Void",
+    "Glitch",
+    "Aether",
+    "Celestial",
+    "Arcane",
+    "Radiant",
+    "Omega"
+  ],
+  "suffixes": [
+    "Blade",
+    "Hunter",
+    "Gamer",
+    "Ninja",
+    "Wolf",
+    "Knight",
+    "Dragon",
+    "Slayer",
+    "Master",
+    "Lord",
+    "Ace",
+    "Pro",
+    "Legend",
+    "Star",
+    "Fire",
+    "Storm",
+    "Hawk",
+    "Fox",
+    "King",
+    "Queen",
+    "Zero",
+    "X",
+    "One",
+    "Two",
+    "Three"
+  ]
+}

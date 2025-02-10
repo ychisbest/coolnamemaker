@@ -1,0 +1,82 @@
+{
+  "name": "Teacher Name Generator",
+  "description": "Struggling to find the *perfect* teacher name for your novel, game, or even just to spice up your role-playing sessions? Look no further! Our Teacher Name Generator is here to help you conjure up names that are wise, whimsical, and wonderfully memorable. Get ready to meet Professor Plumcake and Ms. Sternly!",
+  "slug": "teacher-name-generator",
+  "icon": "\ud83c\udf4e",
+  "introduction": "Unlock a treasure trove of teacher names, from the classic and comforting to the eccentric and extraordinary. Whether you need a name that exudes authority, kindness, or a touch of mad genius, our generator will spark your imagination and help you bring your educator characters to life. Say goodbye to boring names and hello to captivating characters!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! A brand-new teacher name will appear before your very eyes.",
+    "Don't like the first result? Keep clicking! We've got a whole classroom full of names waiting to be discovered.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create a truly unique and unforgettable teacher name.",
+    "Use these names as inspiration for your characters' personalities, backstories, and teaching styles. Let your imagination run wild!",
+    "And remember, have fun! Naming your characters should be an enjoyable part of the creative process."
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Feel free to use these names for your books, games, or any other creative projects. They're all yours to command!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes, the names are generated using a combination of prefixes and suffixes, ensuring a wide variety of possibilities."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Please send your suggestions to our support email, and we'll consider adding them to our database."
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart desires. We're here to fuel your creativity."
+    },
+    {
+      "question": "Will the same name ever be generated twice?",
+      "answer": "While it's possible due to the random nature of the generator, we've included a vast array of options to minimize the chances of repetition."
+    },
+    {
+      "question": "Are these names suitable for all age groups?",
+      "answer": "Yes, we've aimed to create names that are appropriate and engaging for a wide range of audiences. However, always use your best judgment when selecting a name for your specific project."
+    }
+  ],
+  "prefixes": [
+    "Professor",
+    "Ms.",
+    "Mr.",
+    "Dr.",
+    "Headmaster",
+    "Dean",
+    "Coach",
+    "Reverend",
+    "Sensei",
+    "Guru",
+    "Auntie",
+    "Uncle",
+    "Elder",
+    "Mentor",
+    "Grandmaster",
+    "Mistress",
+    "Sir",
+    "Madam"
+  ],
+  "suffixes": [
+    "Sternly",
+    "Plumcake",
+    "Goodheart",
+    "Rutherford",
+    "Abernathy",
+    "Silversmith",
+    "Nightingale",
+    "Whittington",
+    "Fairweather",
+    "Goldsworth",
+    "Blackwood",
+    "Tealeaf",
+    "Bookbinder",
+    "Quillsworth",
+    "Stonebridge",
+    "Riverbend",
+    "Ironwood",
+    "Stargazer",
+    "Moonbeam",
+    "Sunshadow"
+  ]
+}

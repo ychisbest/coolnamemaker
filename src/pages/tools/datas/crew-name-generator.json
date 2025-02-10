@@ -1,0 +1,94 @@
+{
+  "name": "Crew Name Generator",
+  "description": "Struggling to find the perfect name for your squad, team, or posse? Unleash the power of the Crew Name Generator and discover monikers so cool, they'll make you the envy of every gang in town! \ud83d\ude0e",
+  "slug": "crew-name-generator",
+  "icon": "\ud83d\ude0e",
+  "introduction": "Let's face it: a lame crew name is a crime against coolness. Don't let your awesome group be known as 'The Uh... Guys.' Our Crew Name Generator mixes and matches prefixes and suffixes to conjure up names that scream 'We're here, we're cool, get used to it!' Get ready to roll deep with a name that's as unforgettable as your adventures.",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A fresh, funky crew name appears before your very eyes.",
+    "Not feeling the first result? No sweat! Hit 'Generate' again for an endless supply of potential crew identities.",
+    "Found a name that resonates with your soul? Copy it, share it, and claim it as your own! (We won't tell anyone you didn't think of it yourself \ud83d\ude09)",
+    "Pro Tip: Gather your crew and vote on your favorite names. May the best name win!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Crew Name Generator is 100% free to use. We believe everyone deserves a killer crew name without breaking the bank."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "The names generated are for creative inspiration. It's your responsibility to ensure the name isn't already trademarked or in use if you plan to use it commercially. So, do your homework, captain!"
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! There's no limit. Keep generating until you find the perfect name to represent your crew's awesomeness."
+    },
+    {
+      "question": "Will the generator create offensive or inappropriate names?",
+      "answer": "We've done our best to filter out potentially offensive words, but the generator is designed to be creative and sometimes unexpected. If you encounter a name you find inappropriate, just generate a new one."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added to the generator?",
+      "answer": "We're always looking for ways to improve! Feel free to send us your suggestions through our contact form. We appreciate your input!"
+    },
+    {
+      "question": "Does this generator guarantee instant coolness?",
+      "answer": "While we can't guarantee instant coolness (that's up to you!), we're confident that a great crew name is a fantastic starting point. Prepare for the influx of admirers!"
+    }
+  ],
+  "prefixes": [
+    "Alpha",
+    "Beta",
+    "Cosmic",
+    "Cyber",
+    "Dark",
+    "Elite",
+    "Final",
+    "Gamma",
+    "Hyper",
+    "Iron",
+    "Lunar",
+    "Mega",
+    "Neon",
+    "Omega",
+    "Phantom",
+    "Quantum",
+    "Rogue",
+    "Shadow",
+    "Titan",
+    "Ultra",
+    "Venom",
+    "Wild",
+    "Xeno",
+    "Zenith",
+    "Vanguard",
+    "Renegade"
+  ],
+  "suffixes": [
+    "Squad",
+    "Crew",
+    "Force",
+    "Pack",
+    "Unit",
+    "Legion",
+    "Syndicate",
+    "Alliance",
+    "Division",
+    "Battalion",
+    "Regiment",
+    "Collective",
+    "Dynasty",
+    "Empire",
+    "Order",
+    "Brotherhood",
+    "Sisterhood",
+    "Clan",
+    "Tribe",
+    "Mob",
+    "Posse",
+    "Gang",
+    "Ensemble",
+    "Federation",
+    "Confederacy"
+  ]
+}

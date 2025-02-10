@@ -1,0 +1,84 @@
+{
+  "name": "Warforged Name Generator",
+  "description": "Unleash the metallic might! Forge a name worthy of a sentient construct with our Warforged Name Generator. Perfect for D&D, worldbuilding, or just plain fun!",
+  "slug": "warforged-name-generator",
+  "icon": "\ud83e\udd16",
+  "introduction": "So, you've got yourself a Warforged character, huh? Awesome! But before you go stomping around the battlefield, you need a name that screams 'I'm a living construct and I'm here to kick butt!' This generator is your one-stop shop for crafting the perfect moniker, blending ancient runes, mechanical precision, and a dash of good ol' fashioned fantasy flair. Prepare to be amazed!",
+  "howToUse": [
+    "First, brace yourself for awesomeness! (Seriously, these names are *that* good.)",
+    "Click the 'Generate' button. Keep clicking until you find a name that resonates with your Warforged's personality and backstory.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create a truly unique name.",
+    "Steal the name for your character. We won't tell anyone. \ud83d\ude09",
+    "Go forth and conquer! Your Warforged, now properly named, is ready for anything!"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* a Warforged?",
+      "answer": "In Dungeons & Dragons, Warforged are sentient constructs, often made of metal, stone, and wood. They were originally built for war, but now seek to find their place in a world that's changed."
+    },
+    {
+      "question": "Are these names only for D&D?",
+      "answer": "Nope! While inspired by D&D, these names can be used for any fantasy setting, sci-fi world, or even just for naming your robot vacuum cleaner (we won't judge!)."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we encourage creativity, we recommend checking the copyright and trademark laws related to any specific name if you plan to use it commercially."
+    },
+    {
+      "question": "How are these names generated?",
+      "answer": "Our generator combines a carefully curated list of prefixes and suffixes inspired by Warforged lore, mechanical terms, and ancient languages. A little bit of code magic does the rest!"
+    },
+    {
+      "question": "I don't like any of the names! What do I do?",
+      "answer": "Keep hitting that 'Generate' button! With thousands of possible combinations, you're bound to find a name that clicks. Or, get inspired and create your own based on the prefixes and suffixes provided."
+    },
+    {
+      "question": "Will this generator steal my personal information?",
+      "answer": "Absolutely not! This generator operates entirely client-side. We don't collect any data from you. Your Warforged naming adventures are your own!"
+    }
+  ],
+  "prefixes": [
+    "Adamant",
+    "Steel",
+    "Iron",
+    "Bronze",
+    "Silver",
+    "Gold",
+    "Rune",
+    "Mech",
+    "Gear",
+    "Bolt",
+    "Clock",
+    "Forge",
+    "Stone",
+    "Wood",
+    "Terra",
+    "Aether",
+    "Chrono",
+    "Nova",
+    "Echo",
+    "Shadow"
+  ],
+  "suffixes": [
+    "forge",
+    "heart",
+    "strike",
+    "guard",
+    "shield",
+    "blade",
+    "hammer",
+    "fist",
+    "walker",
+    "runner",
+    "seer",
+    "mender",
+    "sentry",
+    "warden",
+    "smith",
+    "weaver",
+    "singer",
+    "song",
+    "whisper",
+    "breaker"
+  ]
+}

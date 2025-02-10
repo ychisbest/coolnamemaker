@@ -1,0 +1,73 @@
+{
+  "name": "Fantasy Stripper Name Generator",
+  "description": "Unleash your inner enchantress (or rogue!) with our Fantasy Stripper Name Generator. Perfect for D&D characters, fantasy novels, or just a touch of whimsical fun. Because who says a little magic can't spice things up?",
+  "slug": "fantasy-stripper-name-generator",
+  "icon": "\u2728",
+  "introduction": "Ever wondered what your stage name would be in a realm of dragons, elves, and mischievous sprites? Our Fantasy Stripper Name Generator conjures up tantalizing titles that blend the allure of the exotic with the mystique of the arcane. Get ready to bewitch your audience!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A name will appear as if summoned by the ancient gods of\u2026 well, entertainment.",
+    "Don't like what you see? Click again! The generator is fueled by pure imagination (and a dash of programming).",
+    "Feeling creative? Tweak the prefixes and suffixes to craft the perfect moniker that reflects your unique\u2026 talents.",
+    "Share your fantastical stage name with your friends! Let the giggles ensue. (Responsibility for any resulting role-playing scenarios rests solely with you.)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually for strippers?",
+      "answer": "While we've cheekily called it a 'Stripper Name Generator,' it's really just a fun way to come up with creative and memorable fantasy names. Use it for characters, stories, or just a good laugh!"
+    },
+    {
+      "question": "Can I use these names for my Dungeons & Dragons character?",
+      "answer": "Absolutely! In fact, we encourage it. Imagine the tales you'll weave as 'Seraphina Moonwhisper' or 'Kael Shadowblade'!"
+    },
+    {
+      "question": "Are the names generated appropriate for all ages?",
+      "answer": "We've aimed for a playful and suggestive tone, but nothing overtly explicit. Use your best judgment based on your audience."
+    },
+    {
+      "question": "Can I trademark the name that's generated?",
+      "answer": "We make no guarantees! The names are generated randomly, so there's a chance someone else might have come up with something similar. Do your research before you start printing business cards."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With a vast combination of prefixes and suffixes, there are countless possibilities waiting to be discovered. Or, get inspired and create your own!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! Generate as many fantasy names as your heart desires, completely free of charge. Consider it our gift to the world of whimsical wordplay."
+    }
+  ],
+  "prefixes": [
+    "Seraphina",
+    "Lysandra",
+    "Kael",
+    "Zephyra",
+    "Alistair",
+    "Silken",
+    "Shadow",
+    "Crimson",
+    "Moon",
+    "Star",
+    "Velvet",
+    "Iron",
+    "Whisper",
+    "Storm",
+    "Dawn"
+  ],
+  "suffixes": [
+    "whisper",
+    "shade",
+    "moon",
+    "star",
+    "blade",
+    "veil",
+    "storm",
+    "song",
+    "dance",
+    "fire",
+    "night",
+    "shadow",
+    "rose",
+    "thorn",
+    "dream"
+  ]
+}

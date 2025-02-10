@@ -1,0 +1,93 @@
+{
+  "name": "Animal Name Generator",
+  "description": "Unleash your inner beast! Need a ridiculously awesome animal-themed name? You've stumbled into the right watering hole. Get ready for names so wild, they'll make Noah jealous.",
+  "slug": "animal-name-generator",
+  "icon": "\ud83e\udd81",
+  "introduction": "Ever wondered what your spirit animal's *real* name is? Or perhaps you're writing a fantastical story and need a name that screams 'powerful creature'? Our Animal Name Generator is here to inject some untamed awesomeness into your life. From majestic lions to sneaky snakes, we've got a name for every critter (and the humans who wish they were one).",
+  "howToUse": [
+    "Simply click the 'Generate' button. Yes, it's *that* easy. We're not about complicated algorithms, we're about unleashing the beast within!",
+    "Keep clicking until you find a name that makes you roar with delight (or hiss with satisfaction, depending on your preferred animal).",
+    "Steal the name. Use it for your pet, your character, your band, your online persona... the possibilities are as boundless as the Serengeti!",
+    "Share your awesome new name with the world! Tag us, we want to see the creative genius you unleash!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually magic?",
+      "answer": "While we can't *technically* confirm magic, the results are so good, it might as well be. We use a proprietary blend of awesome and animal-inspired creativity."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Consider them royalty-free gifts from the animal kingdom. Go forth and conquer the business world with your newly acquired ferocious moniker!"
+    },
+    {
+      "question": "Are the names generated based on real animals?",
+      "answer": "Mostly! We draw inspiration from real-world creatures, mythical beasts, and everything in between. Expect a dash of reality and a whole lot of imagination."
+    },
+    {
+      "question": "I generated a name that sounds\u2026 strange. Is that normal?",
+      "answer": "Perfectly normal! Embrace the weirdness. The best names are often the ones that make you raise an eyebrow and then burst out laughing. Think 'Sir Reginald Snugglesworth the Third, Destroyer of Worlds'. Gold, pure gold."
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're constantly adding new prefixes and suffixes to keep the names fresh and exciting. Think of it as a never-ending buffet of animalistic nomenclature!"
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep hitting that 'Generate' button! We have a *massive* database of animal-inspired goodness. You're bound to find a gem eventually. Or, you know, just blame the algorithm. We won't tell."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Storm",
+    "Crimson",
+    "Whisper",
+    "Iron",
+    "Silver",
+    "Golden",
+    "Jade",
+    "Obsidian",
+    "Thunder",
+    "Swift",
+    "Silent",
+    "Wild",
+    "Mystic",
+    "Noble",
+    "Ancient",
+    "Dark",
+    "Light",
+    "Frost",
+    "Ember",
+    "Stone",
+    "Sky",
+    "Deep",
+    "Great",
+    "Little"
+  ],
+  "suffixes": [
+    "Claw",
+    "Fang",
+    "Scale",
+    "Tail",
+    "Wing",
+    "Eye",
+    "Heart",
+    "Spirit",
+    "Howl",
+    "Roar",
+    "Strike",
+    "Shade",
+    "Hunter",
+    "Stalker",
+    "Bringer",
+    "Whisperer",
+    "Guardian",
+    "Master",
+    "Queen",
+    "King",
+    "Lord",
+    "Lady",
+    "Sage",
+    "Seeker",
+    "Weaver"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Mage Name Generator",
+  "description": "Unleash the arcane power within! Generate epic and mystical mage names fit for the most powerful sorcerers and enchantresses. Perfect for your next RPG character, fantasy novel, or just for fun!",
+  "slug": "mage-name-generator",
+  "icon": "\ud83e\uddd9",
+  "introduction": "Step into the realm of magic and mystery! Our Mage Name Generator conjures forth a plethora of enchanting names, perfect for any spellcaster, wizard, or sorcerer. Whether you're crafting a powerful character for your next D&D campaign or seeking inspiration for your fantasy novel, our generator will help you discover the perfect moniker to embody the essence of your magical persona. Get ready to wield the power of names!",
+  "howToUse": [
+    "Click the 'Generate' button. (It's kind of hard to miss.)",
+    "Marvel at the awesomeness of your new mage name!",
+    "Don't like it? Click 'Generate' again! We have an endless supply of magical names.",
+    "Copy and paste your favorite name into your RPG character sheet, novel, or social media profile. (Show off your magical identity!)",
+    "Prepare to be recognized as the most powerful mage in the land! (Or at least have a really cool name.)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Mage Name Generator is 100% free to use. No hidden fees, no subscriptions, just pure magical name generation."
+    },
+    {
+      "question": "Can I use these names for my book?",
+      "answer": "Yes! Feel free to use any of the generated names for your characters, stories, or any other creative projects. We only ask that you spread the word about our awesome generator!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes, the names are generated using a combination of prefixes, suffixes, and other linguistic elements to create unique and interesting results. While they are random, we've carefully curated the components to ensure they sound appropriate for a mage."
+    },
+    {
+      "question": "Will this generator make me a real mage?",
+      "answer": "While we can't guarantee actual magical powers, a cool name is definitely a great start! Now go find a spellbook (or just keep playing RPGs)."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We're always looking for ways to improve! Feel free to send us your suggestions through our contact form. We appreciate your input!"
+    },
+    {
+      "question": "I got a name I don't like. What should I do?",
+      "answer": "Just hit that 'Generate' button again! There are countless possibilities, and you're bound to find one that resonates with your inner sorcerer."
+    }
+  ],
+  "prefixes": [
+    "Al",
+    "Aer",
+    "Mag",
+    "Illus",
+    "Chrono",
+    "Pyro",
+    "Cryo",
+    "Shadow",
+    "Light",
+    "Void",
+    "Eld",
+    "Myst",
+    "Arcan",
+    "Sora",
+    "Lumin",
+    "Silv",
+    "Astra",
+    "Thera",
+    "Zephyr",
+    "Nyx",
+    "Umbra"
+  ],
+  "suffixes": [
+    "dor",
+    "wyn",
+    "thos",
+    "driel",
+    "ara",
+    "onius",
+    "astra",
+    "aris",
+    "anor",
+    "iel",
+    "ion",
+    "ian",
+    "yx",
+    "eth",
+    "andra",
+    "mir",
+    "vaine",
+    "luna",
+    "star",
+    "shade",
+    "glow",
+    "storm"
+  ]
+}

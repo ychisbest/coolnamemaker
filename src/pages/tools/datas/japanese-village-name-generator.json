@@ -1,0 +1,84 @@
+{
+  "name": "Japanese Village Name Generator",
+  "description": "Craving a slice of tranquil countryside charm? Yearning for a name that whispers of ancient traditions and breathtaking landscapes? Our Japanese Village Name Generator is your passport to a world of serene settlements, crafted with a touch of digital artistry! Discover the perfect name for your story, game, or just for fun!",
+  "slug": "japanese-village-name-generator",
+  "icon": "\u26e9\ufe0f",
+  "introduction": "Welcome, wanderer, to a land of digital inspiration! Our Japanese Village Name Generator is designed to whisk you away to the heart of Japan's picturesque countryside. Whether you're building a fantasy world, brainstorming a novel, or simply daydreaming of cherry blossoms, we'll help you conjure the perfect name for your virtual village. Forget the generic; embrace the authentic!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new, captivating Japanese village name appears before your very eyes.",
+    "Don't like what you see? No sweat! Click again, and again, and again! We've got a whole digital countryside of names waiting to be discovered.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create a truly unique and personalized village name.",
+    "Once you've found the perfect name, copy it and use it wherever your heart desires! (We won't tell if you use it for your D&D campaign).",
+    "Share your favorite names with your friends and let them bask in the glory of your newfound naming prowess!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually Japanese?",
+      "answer": "We've done our best to create names that evoke the spirit of Japanese villages, drawing inspiration from real place names, history, and culture. However, they are algorithmically generated, so treat them as inspiration rather than 100% accurate translations."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once you've generated a name, it's yours to use as you see fit. Feel free to use it for your game, book, or even your next business venture! (Just maybe double-check for existing trademarks, you know, the usual stuff.)"
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! Our generator is unlimited, so click away until you find the perfect name that resonates with your soul."
+    },
+    {
+      "question": "Will the names always be unique?",
+      "answer": "While we strive for uniqueness, there's always a chance of generating the same name twice. With so many possible combinations, it's rare, but it can happen. Just click again for a fresh batch!"
+    },
+    {
+      "question": "Can I contribute to the generator?",
+      "answer": "We're always looking for ways to improve! If you have suggestions for prefixes, suffixes, or any other feedback, please don't hesitate to reach out. We'd love to hear from you!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yes! This generator is completely free to use. Enjoy creating names without spending money!"
+    }
+  ],
+  "prefixes": [
+    "Aki",
+    "Haru",
+    "Natsu",
+    "Fuyu",
+    "Kawa",
+    "Yama",
+    "Sato",
+    "Mura",
+    "Take",
+    "Ume",
+    "Iwa",
+    "Kumo",
+    "Tsuki",
+    "Hoshi",
+    "Kaze",
+    "Mizu",
+    "Ina",
+    "Kari",
+    "Oka",
+    "Sawa"
+  ],
+  "suffixes": [
+    "gawa",
+    "mura",
+    "yama",
+    "saki",
+    "moto",
+    "bayashi",
+    "shita",
+    "no",
+    "zawa",
+    "oka",
+    "shima",
+    "daira",
+    "hara",
+    "kawa",
+    "mine",
+    "numa",
+    "shiro",
+    "ta",
+    "tsu",
+    "uchi"
+  ]
+}

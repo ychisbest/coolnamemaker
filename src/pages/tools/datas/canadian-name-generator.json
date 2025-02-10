@@ -1,0 +1,72 @@
+{
+  "name": "Canadian Name Generator",
+  "description": "Eh, looking for a name that screams maple syrup and hockey? Our Canadian Name Generator is here to help you discover your inner Canuck! Get ready for names so cool, they'll make you say 'aboot' instead of 'about'.",
+  "slug": "canadian-name-generator",
+  "icon": "\ud83c\udde8\ud83c\udde6",
+  "introduction": "So, you wanna be Canadian, eh? Maybe you're writing a story, creating a character, or just feelin' a bit patriotic. Whatever the reason, this generator will give you a name so authentically Canadian, you'll be craving poutine in no time! Get ready to embrace your inner Mountie!",
+  "howToUse": [
+    "Click the 'Generate' button. Like, really click it. Don't just stare at it, eh?",
+    "Witness the magic as our algorithm conjures up a name worthy of a Tim Hortons commercial.",
+    "If you don't like the first name, keep clicking! We've got more Canadian goodness than you can shake a hockey stick at.",
+    "Found the perfect name? Awesome! Now go forth and spread the Canadian love... or at least update your online gaming handle."
+  ],
+  "faqs": [
+    {
+      "question": "Will this generator actually make me Canadian?",
+      "answer": "Sorry, friend. We can generate the *name*, but we can't grant citizenship. You'll still need to navigate the official channels for that. But hey, a great name is a good start!"
+    },
+    {
+      "question": "Can I use these names for my pet moose?",
+      "answer": "Absolutely! We fully endorse naming your moose with our generator. In fact, we encourage it. Please send us pictures."
+    },
+    {
+      "question": "Are these names actually common in Canada?",
+      "answer": "Some are, some aren't! We've blended traditional Canadian names with a bit of creative flair for maximum coolness. Think of it as 'inspired by' rather than 'guaranteed accurate'."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! We have a *lot* of combinations. If you're still not happy, maybe you're just not meant to be Canadian... or maybe you're just too picky, eh?"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You betcha! Our Canadian Name Generator is totally free. Use it as much as you want, and tell all your friends! We just ask that you spread the maple-flavored love."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we cannot provide legal advice, generally, using a generated name for a character in your book, game, or other creative project is perfectly fine. However, trademarking a generated name for a business is something you'd need to research and potentially consult with a legal professional about."
+    }
+  ],
+  "prefixes": [
+    "Wayne",
+    "Gretzky",
+    "McDavid",
+    "Leafs",
+    "Trudeau",
+    "Maple",
+    "Hockey",
+    "Poutine",
+    "Eh",
+    "Tim",
+    "Horton",
+    "Mountie",
+    "Canuck",
+    "Beavertail"
+  ],
+  "suffixes": [
+    "Syrup",
+    "Leaf",
+    "Puck",
+    "Nation",
+    "Eh",
+    "Hoser",
+    "Junior",
+    "Senior",
+    "The Great",
+    "McSomething",
+    "The Brave",
+    "The Strong",
+    "The Free",
+    "The Kind",
+    "The Legend"
+  ]
+}

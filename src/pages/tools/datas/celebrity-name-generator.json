@@ -1,0 +1,80 @@
+{
+  "name": "Celebrity Name Generator",
+  "description": "Ready to ditch your boring old moniker and become a star? Our Celebrity Name Generator is your ticket to instant fame! Get a ridiculously awesome celebrity name that's perfect for red carpets, sold-out stadiums, and maybe even just confusing your grandma.",
+  "slug": "celebrity-name-generator",
+  "icon": "\ud83c\udf1f",
+  "introduction": "Ever dreamed of paparazzi flashes and signing autographs? The first step is a killer celebrity name. Whether you're writing a screenplay, creating a fictional character, or just need a dazzling pseudonym for your next karaoke night, we've got you covered. Prepare for a name so fabulous, it'll make headlines!",
+  "howToUse": [
+    "Click the 'Generate' button and BAM! A star is born (with a brand new name, that is).",
+    "Don't like what you see? Keep clicking! We've got more celebrity names than Hollywood has drama (and that's saying something!).",
+    "Found a name you love? Copy it, share it, and start practicing your autograph. You're practically famous already!",
+    "Feeling creative? Mix and match prefixes and suffixes for a truly unique (and possibly ridiculous) celebrity persona."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to make me famous?",
+      "answer": "While we can't guarantee instant fame, a fantastic celebrity name is a great start! The rest is up to you (and maybe a little bit of luck)."
+    },
+    {
+      "question": "Can I use these names for my characters in a book or movie?",
+      "answer": "Absolutely! Go wild! These names are perfect for adding a touch of celebrity sparkle to your fictional creations."
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! These names are fresh out of the name oven. You're free to use them as you please."
+    },
+    {
+      "question": "What if I accidentally generate a name that's already taken?",
+      "answer": "That's highly unlikely, but if it happens, consider it a cosmic coincidence! Or, you know, just generate another one. We have plenty to go around."
+    },
+    {
+      "question": "My generated name is *too* good. What should I do?",
+      "answer": "Embrace it! Strut your stuff! The world is waiting for your star power. Just remember to thank us in your acceptance speech."
+    },
+    {
+      "question": "Can I use the generated names for my pet?",
+      "answer": "Of course! Imagine calling 'Sir Reginald Snugglesworth III' at the dog park. Instant celebrity status for your furry friend!"
+    }
+  ],
+  "prefixes": [
+    "Diamond",
+    "Golden",
+    "Platinum",
+    "Sir",
+    "Lady",
+    "Mega",
+    "Super",
+    "Ultra",
+    "Glam",
+    "Star",
+    "Cosmic",
+    "Mystic",
+    "The Amazing",
+    "Fabulous",
+    "Epic",
+    "Magnificent",
+    "Sensational",
+    "Captain",
+    "Professor"
+  ],
+  "suffixes": [
+    "Sparkle",
+    "Glitter",
+    "Stardust",
+    "Blaze",
+    "Thunder",
+    "Moonbeam",
+    "Sunshine",
+    "Rainbow",
+    "Royale",
+    "Supreme",
+    "Deluxe",
+    "Fantastic",
+    "The Great",
+    "The Unstoppable",
+    "McLovin",
+    "Von Awesome",
+    "The Magnificent",
+    "The Incredible"
+  ]
+}

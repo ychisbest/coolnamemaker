@@ -1,0 +1,105 @@
+{
+  "name": "Avatar: The Last Airbender Name Generator",
+  "description": "Channel your inner bender and discover your destiny with our Avatar name generator! Find the perfect moniker inspired by the Four Nations.",
+  "slug": "avatar-the-last-airbender-name-generator",
+  "icon": "\ud83c\udf2a\ufe0f",
+  "introduction": "Ever wondered what your name would be if you were a part of the Avatar universe?  Whether you're destined to be a powerful waterbender, a fiery firebender, a grounded earthbender, or an agile airbender, our generator will craft a name that fits your element and personality! Prepare to embark on an epic naming adventure!",
+  "howToUse": [
+    "First, close your eyes and connect with your inner element. (Okay, maybe just think about which nation you like best.)",
+    "Next, click the \"Generate\" button and BAM! Instant Avatar-worthy name.",
+    "Don't like your first result? No problem!  Click again and again until you find the name that resonates with your soul.",
+    "Share your awesome new name with your friends and start your own Avatar-inspired adventures!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my Avatar-themed fanfiction?",
+      "answer": "Absolutely! Feel free to use these names as inspiration for your creative works. Go forth and write your epic tales!"
+    },
+    {
+      "question": "Are these names official Avatar names?",
+      "answer": "While these names are inspired by the Avatar universe, they are not official names from the series. Consider them a fun starting point for your own character creation."
+    },
+    {
+      "question": "How are the names generated?",
+      "answer": "Our generator combines prefixes and suffixes inspired by the various nations in the Avatar world. It's a blend of linguistic magic and a dash of creative randomness!"
+    },
+    {
+      "question": "Can I request a specific type of name (e.g., Water Tribe name)?",
+      "answer": "While you can't specifically request a nation, keep generating! The generator pulls from a diverse pool, so you're bound to find something that suits your preferences eventually."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, absolutely! Use it as much as you like to discover the perfect Avatar name for yourself or your characters."
+    },
+    {
+      "question": "Will this generator give me bending powers?",
+      "answer": "Sadly, no. This generator is purely for naming purposes. Bending powers are a whole different level of awesome that requires, you know, being born into the Avatar universe. But hey, a cool name is a good start!"
+    }
+  ],
+  "prefixes": [
+    "Aang",
+    "Kat",
+    "Zuk",
+    "Sof",
+    "Lin",
+    "Toph",
+    "Sak",
+    "Iroh",
+    "Kya",
+    "Bum",
+    "Jang",
+    "Roku",
+    "Azul",
+    "Mai",
+    "Ty",
+    "Jet",
+    "Long",
+    "Kun",
+    "Piand",
+    "Jeong",
+    "Hakod",
+    "Ur",
+    "Oz",
+    "Unal",
+    "Tonr",
+    "Zahe",
+    "Suy",
+    "Baat",
+    "Wing",
+    "Wee",
+    "Naga"
+  ],
+  "suffixes": [
+    "ara",
+    "o",
+    "i",
+    "ka",
+    "ei",
+    "on",
+    "ku",
+    "ko",
+    "ai",
+    "ong",
+    "ing",
+    "en",
+    "ei",
+    "ala",
+    "ami",
+    "ei",
+    "ok",
+    "ima",
+    "ira",
+    "iko",
+    "oki",
+    "inu",
+    "ura",
+    "uma",
+    "ana",
+    "ano",
+    "one",
+    "ani",
+    "una",
+    "uno",
+    "une"
+  ]
+}

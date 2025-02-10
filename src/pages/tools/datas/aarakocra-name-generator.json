@@ -1,0 +1,74 @@
+{
+  "name": "Aarakocra Name Generator",
+  "description": "Soaring to new heights? Need a name that fits your feathered friend? Our Aarakocra Name Generator will give you the perfect moniker faster than you can say 'CAW!'",
+  "slug": "aarakocra-name-generator",
+  "icon": "\ud83e\udd85",
+  "introduction": "Welcome, fellow adventurer! Are you ready to give your Aarakocra character a name that truly takes flight? Look no further! Our Aarakocra Name Generator is here to help you craft unique and memorable names, perfect for any campaign or character concept. Whether you're seeking a name that evokes the wind, the sky, or the wild freedom of these avian humanoids, we've got you covered. Get ready to spread your wings and discover the perfect name!",
+  "howToUse": [
+    "Simply click the 'Generate' button to conjure up a brand-new Aarakocra name!",
+    "Don't like what you see? Keep clicking! The possibilities are endless.",
+    "Feeling inspired? Tweak the generated names to make them your own.",
+    "Copy and paste your favorite name into your character sheet, and prepare for adventure!",
+    "Pro Tip: Say the names out loud! Some sound way cooler when spoken with gusto."
+  ],
+  "faqs": [
+    {
+      "question": "What is an Aarakocra?",
+      "answer": "Aarakocra are bird-like humanoids, often found in high places like mountains or cliffs. They are known for their love of the open sky and their ability to fly."
+    },
+    {
+      "question": "Are these names only for Dungeons and Dragons?",
+      "answer": "Not at all! While Aarakocra are popular in D&D, these names can be used for any fantasy setting, novel, game, or creative project where you need a bird-like character name."
+    },
+    {
+      "question": "Can I use these names for non-binary Aarakocra characters?",
+      "answer": "Absolutely! Our generator produces a wide variety of names, many of which are gender-neutral or easily adaptable to fit any character identity. We encourage creativity and inclusivity!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "They're pseudo-random! We use a combination of prefixes and suffixes that are thematically appropriate for Aarakocra names, creating a balance between randomness and plausibility."
+    },
+    {
+      "question": "I want a really long, complicated Aarakocra name. Can this generator do that?",
+      "answer": "While the generator focuses on concise and memorable names, you can always combine multiple generated names or add your own embellishments to create something truly unique and elaborate. Go wild!"
+    },
+    {
+      "question": "Can I trademark a name generated here?",
+      "answer": "We provide these names for creative inspiration. We are not responsible for any trademark issues that may arise. Please conduct your own due diligence before attempting to trademark a generated name."
+    }
+  ],
+  "prefixes": [
+    "Aak",
+    "Kee",
+    "Quil",
+    "Rik",
+    "Zir",
+    "Taw",
+    "Gri",
+    "Ver",
+    "Shi",
+    "Fla",
+    "Cli",
+    "Kra",
+    "Dro",
+    "Pek",
+    "Ska"
+  ],
+  "suffixes": [
+    "rik",
+    "kee",
+    "taw",
+    "zir",
+    "quil",
+    "flak",
+    "gril",
+    "vraak",
+    "shik",
+    "kree",
+    "drek",
+    "plek",
+    "skit",
+    "klaw",
+    "drik"
+  ]
+}

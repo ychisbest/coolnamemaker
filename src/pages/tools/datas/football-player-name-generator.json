@@ -1,0 +1,82 @@
+{
+  "name": "Football Player Name Generator",
+  "description": "Struggling to come up with a killer name for your fantasy football team or that next big football star in your video game? Look no further! Our Football Player Name Generator is here to inject some epic awesomeness into your naming game.",
+  "slug": "football-player-name-generator",
+  "icon": "\ud83c\udfc8",
+  "introduction": "Forget boring, predictable names! We're talking names that scream touchdowns, victory, and maybe just a little bit of swagger. Whether you need a name for a powerful linebacker or a speedy wide receiver, we've got you covered. Get ready to unleash your inner naming genius!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand-new, football-tastic name appears.",
+    "Don't like the first result? No sweat! Keep clicking until you find the perfect name that resonates with your inner football fanatic.",
+    "Feeling creative? Use the generated names as inspiration to craft your own unique moniker. The possibilities are endless!",
+    "Share your favorite finds with your friends and let the naming competition begin!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Football Player Name Generator is 100% free to use. Go wild and generate as many names as your heart desires!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we provide these names for fun and inspiration, it's best to double-check trademark availability before using them for any commercial ventures. We don't want you getting a penalty flag!"
+    },
+    {
+      "question": "How are the names generated?",
+      "answer": "Our generator uses a sophisticated (and slightly secret!) algorithm that combines prefixes and suffixes associated with football to create unique and memorable names. It's like magic, but with more pigskin!"
+    },
+    {
+      "question": "Will the generator ever run out of names?",
+      "answer": "Highly unlikely! We're constantly adding new prefixes and suffixes to keep the names fresh and exciting. The naming party never stops!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form, and we'll definitely consider them. Help us make the generator even more awesome!"
+    },
+    {
+      "question": "Is it guaranteed that I will win my fantasy football league if I use a name from this generator?",
+      "answer": "While we can't guarantee victory (fantasy football can be cruel!), a killer name is definitely a step in the right direction. Think of it as giving your team a psychological edge!"
+    }
+  ],
+  "prefixes": [
+    "Blitz",
+    "Thunder",
+    "Shadow",
+    "Steel",
+    "Iron",
+    "Quick",
+    "Turbo",
+    "Mega",
+    "Giga",
+    "Titan",
+    "Viper",
+    "Comet",
+    "Nova",
+    "Phantom",
+    "Rogue",
+    "Sonic",
+    "Zenith",
+    "Apex",
+    "Colossus"
+  ],
+  "suffixes": [
+    "Johnson",
+    "Williams",
+    "Brown",
+    "Davis",
+    "Miller",
+    "Wilson",
+    "Moore",
+    "Taylor",
+    "Anderson",
+    "Thomas",
+    "Jackson",
+    "White",
+    "Harris",
+    "Martin",
+    "Thompson",
+    "Garcia",
+    "Rodriguez",
+    "Clark",
+    "Lewis",
+    "Lee"
+  ]
+}

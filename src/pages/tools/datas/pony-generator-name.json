@@ -1,0 +1,85 @@
+{
+  "name": "Pony Name Generator",
+  "description": "Gallop into a world of whimsical wonder! Our Pony Name Generator crafts the perfect moniker for your imaginary steed, from the majestic to the mischievous. Unleash your inner equestrian and discover a name that truly shines!",
+  "slug": "pony-name-generator",
+  "icon": "\ud83d\udc34",
+  "introduction": "Ever dreamed of owning a pony but struggled to find the perfect name? Fear not, fellow equestrian enthusiast! Our Pony Name Generator is here to sprinkle some magic and help you conjure up names that are as unique and spirited as the ponies themselves. Whether you're writing a fantasy novel, creating a role-playing character, or simply indulging in a bit of equine daydreaming, we've got you covered.",
+  "howToUse": [
+    "Click the 'Generate' button and *poof*! A fabulous pony name appears.",
+    "Don't like the first result? No problem! Keep clicking until you find the name that makes your heart do a happy little horse dance.",
+    "Feeling creative? Tweak the generated name or mix and match prefixes and suffixes to create something truly original. The only limit is your imagination (and maybe the length of the name tag!).",
+    "Share your favorite pony names with your friends and spread the horsey happiness!",
+    "Remember, naming a pony is serious business... or not! Have fun with it!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the Pony Name Generator work?",
+      "answer": "Our generator combines a curated list of prefixes and suffixes associated with ponies, magic, and general awesomeness. A sprinkle of algorithmic fairy dust ensures that the names are both unique and delightfully pony-esque."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "These names are generated for fun and inspiration. While we can't guarantee their trademark availability, feel free to use them as a starting point for your own creative endeavors. Just remember to do your own research before using a name commercially."
+    },
+    {
+      "question": "Are the pony names generated truly unique?",
+      "answer": "While we strive to create unique combinations, there's always a chance of overlap. Think of it as a pony parallel universe where similar names exist. But hey, that just means your pony has a doppelganger out there somewhere!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "Absolutely! We're always looking to expand our pony-naming horizons. Send us your suggestions, and we'll consider adding them to our list. The more, the merrier (and the more pony-like)!"
+    },
+    {
+      "question": "Is this generator suitable for all ages?",
+      "answer": "Yes! Our Pony Name Generator is family-friendly and suitable for anyone with a love for ponies and a sense of fun. So saddle up and let the naming adventure begin!"
+    },
+    {
+      "question": "My generated name is silly. Is that normal?",
+      "answer": "The more playful and creative, the better! Ponies are all about fun, and their names should reflect that spirit."
+    }
+  ],
+  "prefixes": [
+    "Sparkle",
+    "Rainbow",
+    "Moonbeam",
+    "Starlight",
+    "Buttercup",
+    "Whisper",
+    "Shadow",
+    "Thunder",
+    "Crystal",
+    "Dapple",
+    "Twinkle",
+    "Sugar",
+    "Honey",
+    "Midnight",
+    "Sunrise",
+    "Sky",
+    "Willow",
+    "Autumn",
+    "Winter",
+    "Summer",
+    "Spring"
+  ],
+  "suffixes": [
+    "hoof",
+    "mane",
+    "tail",
+    "shine",
+    "dust",
+    "wind",
+    "song",
+    "dancer",
+    "blossom",
+    "dew",
+    "spark",
+    "joy",
+    "dream",
+    "charm",
+    "belle",
+    "shine",
+    "fire",
+    "gleam",
+    "heart",
+    "wish"
+  ]
+}

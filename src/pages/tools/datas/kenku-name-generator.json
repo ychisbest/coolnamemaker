@@ -1,0 +1,73 @@
+{
+  "name": "Kenku Name Generator",
+  "description": "Need a name that's as unique and intriguing as a Kenku's mimicry? Our generator crafts monikers worthy of these feathered tricksters! Perfect for D&D, worldbuilding, or just plain fun. Stop squawking, start naming!",
+  "slug": "kenku-name-generator",
+  "icon": "\ud83e\udd9c",
+  "introduction": "Ever wished you could whisper secrets like the wind or echo the power of a storm? Kenku names resonate with the mystery and adaptability of these fascinating avian humanoids. Whether you're roleplaying a cunning rogue, a wise oracle, or simply seeking a name that stands out from the flock, our Kenku Name Generator is your personal aviary of inspiration. Prepare to take flight with a name that truly sings!",
+  "howToUse": [
+    "Simply click the 'Generate' button to conjure a new, cool Kenku name.",
+    "Don't like the first chirp? Keep clicking! The generator will keep conjuring names until you find the perfect echo.",
+    "Feeling creative? Mix and match parts of different names to craft something truly unique.",
+    "Remember, a Kenku's name often reflects their history or personality. So choose wisely, young adventurer!",
+    "Bonus points for incorporating sounds or phrases that your Kenku might have mimicked!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "Our generator crafts names inspired by the sounds, environments, and lore surrounding Kenku. Expect names that evoke mimicry, shadows, and the echoes of forgotten places."
+    },
+    {
+      "question": "Are the generated names suitable for D&D characters?",
+      "answer": "Absolutely! These names are perfect for your Kenku rogue, wizard, or any other character class you can imagine. Let your imagination soar!"
+    },
+    {
+      "question": "Can I use these names for other fantasy settings?",
+      "answer": "Of course! While inspired by D&D's Kenku, these names can easily be adapted for any fantasy world with avian or mimicry-based races."
+    },
+    {
+      "question": "Are the names gender-specific?",
+      "answer": "Nope! We strive for names that are gender-neutral, allowing you to choose the perfect fit for your character, regardless of their gender identity."
+    },
+    {
+      "question": "Can I contribute name suggestions?",
+      "answer": "We'd love that! Feel free to send your ideas our way. We're always looking to expand our aviary of names."
+    },
+    {
+      "question": "Is this generator really free?",
+      "answer": "You bet your tailfeathers it is! Use it as much as you like. Happy naming!"
+    }
+  ],
+  "prefixes": [
+    "Echo",
+    "Shadow",
+    "Whisper",
+    "Caw",
+    "Glimmer",
+    "Rustle",
+    "Grave",
+    "Stone",
+    "Wind",
+    "Claw",
+    "Dust",
+    "Feather",
+    "Sharp",
+    "Silent"
+  ],
+  "suffixes": [
+    "wing",
+    " beak",
+    " talon",
+    " voice",
+    "song",
+    "shade",
+    "mist",
+    " stone",
+    " feather",
+    "eye",
+    "wind",
+    " whisper",
+    " echo",
+    " trick",
+    "call"
+  ]
+}

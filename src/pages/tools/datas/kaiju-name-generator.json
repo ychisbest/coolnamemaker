@@ -1,0 +1,83 @@
+{
+  "name": "Kaiju Name Generator",
+  "description": "Unleash your inner monster! Need a colossal moniker for your next game character, story, or just for kicks? This Kaiju Name Generator will smash through the mundane and deliver a name that's larger than life (and probably breathes fire).",
+  "slug": "kaiju-name-generator",
+  "icon": "\ud83e\udd96",
+  "introduction": "Ever felt like you needed a name that truly reflected your destructive potential? Or maybe you're just writing a story about giant monsters and need some inspiration. Either way, our Kaiju Name Generator is here to help! Prepare for names that'll make cities tremble!",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's that easy! (Even a giant monster could do it.)",
+    "Keep clicking until you find a name that resonates with your inner behemoth.",
+    "Feel free to mix and match prefixes and suffixes to create something truly unique and terrifying.",
+    "Use your new Kaiju name to conquer the world... or just your next online game."
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* a Kaiju?",
+      "answer": "Kaiju is a Japanese word that literally translates to 'strange beast,' but is commonly used to refer to giant monsters like Godzilla, Mothra, and King Ghidorah. Basically, anything that can level a city in a single bound qualifies."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once the name is generated, it's yours to use as you see fit. Just try not to actually destroy any cities in the process."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "While the combination is random, we've curated the prefixes and suffixes to ensure they sound suitably monstrous and evocative. So, yes... but with a purpose!"
+    },
+    {
+      "question": "Will this generator help me become a real Kaiju?",
+      "answer": "Sadly, no. This generator is purely for naming purposes. We can't help you grow to 300 feet tall or develop atomic breath (yet!)."
+    },
+    {
+      "question": "I don't like any of the names. What do I do?",
+      "answer": "Keep clicking! We have a vast database of terrifying possibilities. Or, get creative and mix and match prefixes and suffixes to create your own unique monstrosity."
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your monstrous heart desires. We're here to fuel your creative destruction."
+    }
+  ],
+  "prefixes": [
+    "Giga",
+    "Terra",
+    "Pyro",
+    "Aqua",
+    "Cryo",
+    "Mega",
+    "Titan",
+    "Cosmo",
+    "Shadow",
+    "Thunder",
+    "Venom",
+    "Steel",
+    "Crimson",
+    "Obsidian",
+    "Void",
+    "Ragnar",
+    "Magma",
+    "Stone",
+    "Bio",
+    "Cyber"
+  ],
+  "suffixes": [
+    "don",
+    "zilla",
+    "rex",
+    "tron",
+    "gorath",
+    "claw",
+    "fang",
+    "storm",
+    "breaker",
+    "crusher",
+    "quake",
+    "wraith",
+    "beast",
+    "king",
+    "queen",
+    "lord",
+    "bane",
+    "smasher",
+    "destroyer",
+    "guardian"
+  ]
+}

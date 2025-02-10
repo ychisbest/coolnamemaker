@@ -1,0 +1,74 @@
+{
+  "name": "Pimp Name Generator",
+  "description": "Yo, wanna roll with the big dogs? Get your official Pimp Name and step up your game! This ain't no ordinary name, this is a statement.",
+  "slug": "pimp-name-generator",
+  "icon": "\ud83d\ude0e",
+  "introduction": "Ever feel like your name just doesn't have that *oomph*? Like it's missing that certain... *je ne sais quoi*? Well, step right up, player! Our Pimp Name Generator is here to inject some serious swagger into your life. Whether you're looking to dominate the board room, drop the hottest rhymes, or just turn heads wherever you go, a pimp name is the key. Get ready to be the boss!",
+  "howToUse": [
+    "Just hit that 'Generate' button, baby! It's like magic, but with more bling.",
+    "Feelin' picky? Keep clickin' until you find a name that truly embodies your inner pimp.",
+    "Strut your stuff! Once you've got your name, own it. Rock it. Live it. You're a pimp now, baby!",
+    "Share your fresh new title with your crew. Let them know who's in charge. (Spoiler alert: It's you.)",
+    "Remember, with great pimp names comes great responsibility. Use your newfound power wisely... or not. We're not your mom."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator for real? Will I actually become a pimp?",
+      "answer": "Whoa there, slow your roll! This is just for fun, player. We're generating *names*, not lifestyles. But hey, a good name is the first step to world domination, right?"
+    },
+    {
+      "question": "Can I use this name for my business?",
+      "answer": "Absolutely! If your business involves selling luxury goods, managing a stable of\u2026 talented individuals (kidding!), or just exuding confidence, a pimp name might be just what you need. But maybe run it by your lawyer first. Just sayin'."
+    },
+    {
+      "question": "Are these names offensive?",
+      "answer": "We aim for humorous and over-the-top, but some names might be considered edgy. Use your best judgment and remember, it's all in good fun. Don't go around disrespecting people, even with a killer pimp name."
+    },
+    {
+      "question": "Can I get a refund if I don't like my pimp name?",
+      "answer": "Refund? Honey, please. This is priceless. But seriously, it's free to use, so there's no refund necessary. Just keep generating until you find the perfect fit."
+    },
+    {
+      "question": "Will using a pimp name attract unwanted attention?",
+      "answer": "Possibly! Be prepared to turn heads, spark conversations, and maybe even get a few raised eyebrows. But hey, that's the price of being fabulous, right?"
+    },
+    {
+      "question": "Can I suggest names for the generator?",
+      "answer": "Heck yeah! We're always lookin' for fresh inspiration. Hit us up on social media and let us know whatcha got!"
+    }
+  ],
+  "prefixes": [
+    "Big Daddy",
+    "Diamond",
+    "Smooth",
+    "Silky",
+    "Velvet",
+    "Goldie",
+    "Ice Cold",
+    "The Godfather",
+    "Pimpin'",
+    "Mack",
+    "Slick",
+    "Platinum",
+    "Boss",
+    "Supreme",
+    "Royal"
+  ],
+  "suffixes": [
+    "Slim",
+    "Smooth",
+    "D",
+    "Ice",
+    "Gold",
+    "Platinum",
+    "The Great",
+    "The Magnificent",
+    "Supreme",
+    "The Don",
+    "P",
+    "Diamond",
+    "The First",
+    "The Original",
+    "The OG"
+  ]
+}

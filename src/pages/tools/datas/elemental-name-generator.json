@@ -1,0 +1,83 @@
+{
+  "name": "Elemental Name Generator",
+  "description": "Unleash the raw power of the elements! Craft epic names imbued with earth, fire, water, and air. Perfect for characters, projects, or just conjuring up some elemental awesomeness.",
+  "slug": "elemental-name-generator",
+  "icon": "\ud83d\udd25",
+  "introduction": "Ready to wield the very essence of nature? Our Elemental Name Generator is your portal to a realm of names forged in the heart of volcanoes, whispered by the wind, carved by rushing rivers, and born from the deepest earth. Whether you're a writer, a gamer, or simply seeking a name that resonates with primal energy, prepare to be inspired!",
+  "howToUse": [
+    "First, take a deep breath and connect with your inner element. (Just kidding... unless?)",
+    "Simply click the 'Generate' button and BAM! A brand new, elementally charged name will appear.",
+    "Not feeling it? No problem! Click again for a fresh, fiery, watery, or earthy creation.",
+    "Copy your favorite name and unleash it upon the world! (Responsibly, of course. We're not liable for any accidental summoning of elementals.)"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "This generator crafts names inspired by the four classical elements: Earth, Fire, Water, and Air. Expect a mix of evocative, powerful, and slightly mystical-sounding names."
+    },
+    {
+      "question": "Can I use these names for my book/game/character?",
+      "answer": "Absolutely! That's what they're for! Feel free to use these names as inspiration for your creative projects. Just remember, we're not responsible if your character becomes *too* powerful."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes and no. The generator uses a combination of prefixes, suffixes, and elemental keywords to create unique and semi-random names. There's a method to the madness, we promise!"
+    },
+    {
+      "question": "Will this generator summon actual elementals?",
+      "answer": "Highly unlikely... but we can't guarantee anything. Use at your own risk! (Just kidding... mostly.)"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes to be added?",
+      "answer": "We'd love to hear your suggestions! While we can't promise to add everything, we're always looking for ways to improve the generator. Send your ideas our way!"
+    },
+    {
+      "question": "Is it possible to get a name that sounds a bit silly?",
+      "answer": "It's always possible! While we try our best to create cool and evocative names, the random nature of the generator means you might occasionally stumble upon something... unexpected. Just keep clicking!"
+    }
+  ],
+  "prefixes": [
+    "Terra",
+    "Ignis",
+    "Aqua",
+    "Aero",
+    "Geo",
+    "Pyro",
+    "Hydro",
+    "Vent",
+    "Cryo",
+    "Lumi",
+    "Umbra",
+    "Sylva",
+    "Volt",
+    "Magma",
+    "Storm",
+    "Shale",
+    "Embers",
+    "Cascade",
+    "Zephyr",
+    "Glacier"
+  ],
+  "suffixes": [
+    "stone",
+    "flare",
+    "stream",
+    "wind",
+    "forge",
+    "blaze",
+    "fall",
+    "gale",
+    "shard",
+    "glow",
+    "shade",
+    "wood",
+    "spark",
+    "core",
+    "rider",
+    "rock",
+    "heart",
+    "song",
+    "dancer",
+    "breath"
+  ]
+}

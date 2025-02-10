@@ -1,0 +1,122 @@
+{
+  "name": "Roblox Name Generator",
+  "description": "Stuck with a boring Roblox username? Unleash your inner gaming legend with our Roblox Name Generator! Get ready to dominate the 'blox with a name that's as unique and awesome as you are.",
+  "slug": "roblox-name-generator",
+  "icon": "\ud83c\udfae",
+  "introduction": "Forget generic usernames! Our Roblox Name Generator is your secret weapon for crafting the perfect online persona. Whether you're a master builder, a parkour pro, or a roleplaying extraordinaire, we'll help you find a name that screams 'ROBLOX ROYALTY!'",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! We'll conjure up a plethora of cool and creative Roblox names.",
+    "Don't like what you see? No problem! Just hit 'Generate' again for a fresh batch of awesome name ideas.",
+    "Found the perfect name? Awesome! Copy it and paste it into Roblox when creating your account or changing your username.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create your own custom Roblox name masterpiece! Go wild!",
+    "Share your amazing new Roblox name with your friends and prepare to be the envy of the entire 'blox community!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this Roblox Name Generator free to use?",
+      "answer": "Absolutely! Our generator is 100% free. Generate as many Roblox names as your heart desires!"
+    },
+    {
+      "question": "Will the names generated be available?",
+      "answer": "We check against Roblox's database for availability. If it generated, it's likely open for you to take!"
+    },
+    {
+      "question": "Can I use these names for other games?",
+      "answer": "While designed for Roblox, feel free to use these names anywhere you like! Let your imagination run wild across all gaming platforms."
+    },
+    {
+      "question": "Are the names offensive or inappropriate?",
+      "answer": "We strive to generate appropriate names, but we advise you to double-check before using them on Roblox to ensure they comply with the platform's guidelines."
+    },
+    {
+      "question": "How often is the Roblox Name Generator updated?",
+      "answer": "We're always working to improve the generator and add new prefixes and suffixes to keep the names fresh and exciting. Stay tuned for updates!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes?",
+      "answer": "We love hearing from our users! Send your suggestions our way, and we may include them in future updates."
+    }
+  ],
+  "prefixes": [
+    "Pro",
+    "Epic",
+    "Cool",
+    "Awesome",
+    "Super",
+    "Mega",
+    "Ultra",
+    "Gamer",
+    "Ninja",
+    "Master",
+    "Elite",
+    "Legendary",
+    "Shadow",
+    "Cyber",
+    "Pixel",
+    "Blaze",
+    "Frost",
+    "Storm",
+    "Cosmic",
+    "Lunar",
+    "Solar",
+    "Vortex",
+    "Mystic",
+    "Phantom",
+    "Titan",
+    "Rogue",
+    "Swift",
+    "Silent",
+    "Dark",
+    "Light",
+    "Noble",
+    "Royal",
+    "Supreme",
+    "Valiant",
+    "Zenith",
+    "Apex",
+    "Omega",
+    "Alpha"
+  ],
+  "suffixes": [
+    "Gamer",
+    "Pro",
+    "Legend",
+    "Master",
+    "Ninja",
+    "King",
+    "Queen",
+    "God",
+    "Goddess",
+    "Ace",
+    "Titan",
+    "Warrior",
+    "Slayer",
+    "Hunter",
+    "Rider",
+    "Pilot",
+    "Builder",
+    "Crafter",
+    "Coder",
+    "Hacker",
+    "X",
+    "Y",
+    "Z",
+    "One",
+    "Two",
+    "Three",
+    "Four",
+    "Five",
+    "Six",
+    "Seven",
+    "Eight",
+    "Nine",
+    "Ten",
+    "Zero",
+    "Bot",
+    "Dude",
+    "Girl",
+    "Guy",
+    "Noob",
+    "Player"
+  ]
+}

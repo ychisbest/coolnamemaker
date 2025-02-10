@@ -1,0 +1,73 @@
+{
+  "name": "Kitsune Name Generator",
+  "description": "Unleash your inner fox spirit! Generate a wickedly cool Kitsune name that's as sly and enchanting as the mythical creatures themselves. Perfect for games, stories, or just embracing your foxy side!",
+  "slug": "kitsune-name-generator",
+  "icon": "\ud83e\udd8a",
+  "introduction": "Ever wondered what your Kitsune name would be? These legendary fox spirits are known for their intelligence, shapeshifting abilities, and, of course, their awesome names. Our generator combines traditional Japanese elements with a touch of modern flair to create names that are both mystical and memorable. Get ready to discover your Kitsune alter ego!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new, totally unique Kitsune name will appear before your very eyes.",
+    "Don't like the first result? No problem! Click again for another dose of foxy fabulousness. Keep clicking until you find the purr-fect name that resonates with your inner spirit.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create your own custom Kitsune masterpiece. The possibilities are endless!",
+    "Share your awesome Kitsune name with your friends and let the fun begin! Spread the foxy vibes!"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* a Kitsune?",
+      "answer": "Kitsune are Japanese fox spirits, known for their intelligence, magical abilities, and the power to shapeshift. They're often depicted as wise, mischievous, and incredibly cool."
+    },
+    {
+      "question": "Are these names authentic Japanese names?",
+      "answer": "While inspired by Japanese culture and mythology, these names are creatively generated for fun. They capture the *essence* of Kitsune names rather than being directly translated or traditional."
+    },
+    {
+      "question": "Can I use these names for my character in a story or game?",
+      "answer": "Absolutely! That's what they're here for! Feel free to use these names for your characters, stories, games, or any other creative project you can dream up. Go wild!"
+    },
+    {
+      "question": "How does the generator actually *work*?",
+      "answer": "Magic! Just kidding (sort of). The generator combines a carefully curated list of prefixes and suffixes, inspired by Japanese folklore and language, to create unique and evocative Kitsune names. A little bit of code, a whole lot of imagination!"
+    },
+    {
+      "question": "Is it possible to get the same name twice?",
+      "answer": "While theoretically possible, the odds are pretty slim! With a vast combination of prefixes and suffixes, you're likely to discover a plethora of unique Kitsune names before seeing a repeat. But hey, if you *do* get the same name twice, consider it a sign of destiny!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your suggestions! While we can't guarantee we'll add every single one, we're always looking for ways to improve and expand our name generator. Send your ideas our way!"
+    }
+  ],
+  "prefixes": [
+    "Aka",
+    "Gin",
+    "Kuro",
+    "Shiro",
+    "Kon",
+    "Kitsu",
+    "Tama",
+    "Saku",
+    "Inari",
+    "Yako",
+    "Mei",
+    "Ryu",
+    "Getsu",
+    "Kaede",
+    "Hotaru"
+  ],
+  "suffixes": [
+    "maru",
+    "ko",
+    "bi",
+    "no",
+    "mi",
+    "yo",
+    "ne",
+    "tsu",
+    "ki",
+    "ka",
+    "hime",
+    "sama",
+    "sensei",
+    "inu",
+    "onna"
+  ]
+}

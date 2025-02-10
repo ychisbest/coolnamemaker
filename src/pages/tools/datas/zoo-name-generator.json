@@ -1,0 +1,83 @@
+{
+  "name": "Zoo Name Generator",
+  "description": "Unleash your inner animal and discover the wildest, most unforgettable name for your zoo! Are you ready to create a zoological empire with a name that roars?",
+  "slug": "zoo-name-generator",
+  "icon": "\ud83e\udd81",
+  "introduction": "Tired of the same old boring zoo names? Our Zoo Name Generator is here to inject some serious personality into your animal kingdom. Whether you're building a virtual zoo or dreaming of your real-life menagerie, we'll help you find a name that's as unique and captivating as the creatures within.",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! Our algorithm will conjure up a dazzling array of zoo names.",
+    "Don't like the first result? No problem! Keep clicking until you find the perfect name that resonates with your zoological vision.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft your own custom zoo name masterpiece. Go wild!",
+    "Once you've found 'the one,' copy it and proudly proclaim your zoo's identity to the world!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Zoo Name Generator is 100% free to use. We believe everyone deserves a fantastic zoo name without breaking the bank."
+    },
+    {
+      "question": "Can I use these names for a real zoo?",
+      "answer": "Of course! While we can't guarantee trademark availability, the names generated are yours to use as inspiration for your real-life zoological endeavors. Just be sure to do your due diligence on trademark availability!"
+    },
+    {
+      "question": "How many times can I generate names?",
+      "answer": "As many times as your animal-loving heart desires! There's no limit to the number of zoo names you can generate. Keep clicking until you find the perfect fit."
+    },
+    {
+      "question": "Are the generated names random?",
+      "answer": "Yes and no! Our algorithm uses a combination of carefully curated prefixes and suffixes, combined with a touch of randomness, to create unique and memorable zoo names."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We're always looking for ways to improve! Feel free to send us your suggestions through our contact form. We appreciate your creativity!"
+    },
+    {
+      "question": "Will the names be animal-themed or location-themed?",
+      "answer": "The names can lean towards either, or both! You might get something that sounds like an animal name, a geographic location, or a blend of the two. It's all part of the fun!"
+    }
+  ],
+  "prefixes": [
+    "Wild",
+    "Safari",
+    "Jungle",
+    "Aqua",
+    "Mega",
+    "Royal",
+    "Emerald",
+    "Crystal",
+    "Sunset",
+    "River",
+    "Mountain",
+    "Global",
+    "United",
+    "Happy",
+    "Wonder",
+    "Adventure",
+    "Exotic",
+    "Majestic",
+    "Primeval",
+    "Serene"
+  ],
+  "suffixes": [
+    "World",
+    "Park",
+    "Gardens",
+    "Kingdom",
+    "Oasis",
+    "Haven",
+    "Sanctuary",
+    "Reserve",
+    "Land",
+    "Valley",
+    "Territory",
+    "Enclosure",
+    "Exhibition",
+    "Center",
+    "Sphere",
+    "Domain",
+    "Preserve",
+    "Habitat",
+    "Vista",
+    "Arcadia"
+  ]
+}

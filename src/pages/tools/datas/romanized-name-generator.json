@@ -1,0 +1,79 @@
+{
+  "name": "Romanized Name Generator",
+  "description": "Craving a name that sounds like it belongs in ancient Rome, or maybe just something with a touch of classical flair? Our Romanized Name Generator is here to transform your ordinary moniker into something worthy of an emperor (or at least a really cool gladiator)!",
+  "slug": "romanized-name-generator",
+  "icon": "\ud83c\udfdb\ufe0f",
+  "introduction": "Ever wished your name had a bit more *gravitas*? Our Romanized Name Generator takes your input and infuses it with the spirit of the Roman Empire. Whether you're writing a historical novel, creating a character for a game, or just looking for a unique nickname, we've got you covered. Prepare to be amazed as we conjure names that echo with the power and elegance of Rome!",
+  "howToUse": [
+    "First, bravely enter your desired name (or any word you fancy \u2013 we don't judge!).",
+    "Next, click the 'Generate' button \u2013 and behold the magic!",
+    "Our algorithm will then weave its Roman-inspired sorcery, presenting you with a selection of names that sound like they were plucked straight from the Forum.",
+    "Feeling picky? Hit that 'Generate' button again for a fresh batch of possibilities. Keep going until you find the name that makes you say, 'Veni, vidi, vici!' (I came, I saw, I conquered!)."
+  ],
+  "faqs": [
+    {
+      "question": "What exactly does 'Romanized' mean in this context?",
+      "answer": "Great question! We take your input and apply linguistic techniques to give it a Roman-sounding twist. Think Latin prefixes, suffixes, and vowel shifts that evoke the feel of ancient Rome without necessarily being accurate Latin translations."
+    },
+    {
+      "question": "Can I use these names for characters in my book or game?",
+      "answer": "Absolutely! That's what this generator is for. Feel free to use any name generated for your creative projects. Just remember where you got the inspiration!"
+    },
+    {
+      "question": "Is the generator using real Latin?",
+      "answer": "While we draw inspiration from Latin, the generator focuses on creating names that *sound* Roman. The results may not be grammatically correct Latin, but they'll definitely have that classical vibe."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "No problem! Just hit the 'Generate' button again. The generator will conjure up a new set of names. Keep trying until you find the perfect fit."
+    },
+    {
+      "question": "Are the generated names historically accurate?",
+      "answer": "We aim for a Roman *feel* rather than strict historical accuracy. While some names might resemble real Roman names, others are purely creative interpretations. Use your best judgment when incorporating them into historical contexts."
+    },
+    {
+      "question": "Can I combine prefixes and suffixes from different generated names?",
+      "answer": "Go for it! Feel free to mix and match elements from different generated names to create something truly unique and tailored to your vision. Experimentation is key!"
+    }
+  ],
+  "prefixes": [
+    "August",
+    "Claudi",
+    "Corneli",
+    "Flavi",
+    "Jul",
+    "Livi",
+    "Marcell",
+    "Pompe",
+    "Sulpici",
+    "Tiberi",
+    "Valeri",
+    "Aureli",
+    "Septim",
+    "Antoni",
+    "Domiti",
+    "Trajan",
+    "Hadrian",
+    "Constant",
+    "Maxim",
+    "Romul"
+  ],
+  "suffixes": [
+    "us",
+    "a",
+    "ius",
+    "ia",
+    "anus",
+    "ana",
+    "ianus",
+    "iana",
+    "ius",
+    "ius",
+    "inus",
+    "ina",
+    "ensis",
+    "ensis",
+    "ius",
+    "ilius"
+  ]
+}

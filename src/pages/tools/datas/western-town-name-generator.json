@@ -1,0 +1,95 @@
+{
+  "name": "Western Town Name Generator",
+  "description": "Saddle up, partner! Need a name for your rootin' tootin' Western town? This here generator will rustle you up some names faster than you can say 'High Noon!'",
+  "slug": "western-town-name-generator",
+  "icon": "\ud83e\udd20",
+  "introduction": "Dust off your boots and mosey on over! This generator is your one-stop shop for crafting the perfect name for your Western-themed story, game, or even just a fun conversation starter. From gritty gold rush settlements to sun-baked desert outposts, we've got names that'll make your town the talk of the Wild West!",
+  "howToUse": [
+    "Just hit that 'Generate' button, ya hear?",
+    "Keep clickin' 'til you find a name that makes your spurs jingle.",
+    "Don't be afraid to mix and match prefixes and suffixes for extra flair!",
+    "Once you got your name, go forth and build the most legendary town this side of the Mississippi!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names historically accurate?",
+      "answer": "Well, howdy there! While we've drawn inspiration from real Western towns and themes, these names are mostly for fun. Some might sound authentic, others might be a little more...imaginative. So, take 'em with a grain of salt (or a shot of whiskey!)."
+    },
+    {
+      "question": "Can I use these names for my book/game/story?",
+      "answer": "Absolutely! That's what they're here for! We just ask that you give coolnamemaker.com a little shout-out if you do. Sharing is caring, partner!"
+    },
+    {
+      "question": "I don't like any of the names. What gives?",
+      "answer": "Hold your horses! Just keep generating! With a whole heap of prefixes and suffixes, there's bound to be a name in there that tickles your fancy. Or, you can always try tweaking the names to make them your own."
+    },
+    {
+      "question": "Will this generator help me strike gold?",
+      "answer": "We wish! While we can't guarantee you'll find a fortune, we *can* guarantee you'll find a cool town name. And who knows, maybe that's the first step to building your own empire!"
+    },
+    {
+      "question": "Is this generator safe to use?",
+      "answer": "Safer than a bank vault! We don't collect any personal information. Just good, clean, Western-themed fun!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "Yeehaw! We're always lookin' for ways to improve! Feel free to send us your suggestions through the contact form on the website. If we like 'em, we might just add 'em in!"
+    }
+  ],
+  "prefixes": [
+    "Dusty",
+    "Silver",
+    "Gold",
+    "Iron",
+    "Whispering",
+    "Dead",
+    "Dry",
+    "Lone",
+    "Painted",
+    "Red",
+    "Black",
+    "Shadow",
+    "Canyon",
+    "Eagle",
+    "Bear",
+    "Buffalo",
+    "Rattlesnake",
+    "Mustang",
+    "Frontier",
+    "Sunset",
+    "Paradise",
+    "Liberty",
+    "Justice",
+    "Pioneer",
+    "Granite",
+    "Timber"
+  ],
+  "suffixes": [
+    "Gulch",
+    "Creek",
+    "Springs",
+    "Pass",
+    "Bend",
+    "Ridge",
+    "Valley",
+    "Oasis",
+    "Town",
+    "City",
+    "Fort",
+    "Crossing",
+    "Landing",
+    "Junction",
+    "Station",
+    "Territory",
+    "Hollow",
+    "Corners",
+    "Wells",
+    "Mesa",
+    "Butte",
+    "Bluffs",
+    "River",
+    "Plains",
+    "Landing",
+    "Vista"
+  ]
+}

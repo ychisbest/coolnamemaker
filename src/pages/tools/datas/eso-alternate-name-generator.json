@@ -1,0 +1,82 @@
+{
+  "name": "ESO Alternate Name Generator",
+  "description": "Tired of your boring Elder Scrolls Online character name? Unleash your inner adventurer with our ESO Alternate Name Generator! Craft epic, lore-friendly, and totally unique names that'll make you stand out from the crowd in Tamriel. No more 'DragonSlayer69' \u2013 it's time for 'Aeliana Moonwhisper'!",
+  "slug": "eso-alternate-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Greetings, adventurer! Are you ready to embark on a quest for the perfect name? Our ESO Alternate Name Generator is your trusty companion on this journey. Whether you're a seasoned veteran or a fresh-faced recruit, we'll help you forge a name that resonates with power, mystery, and the spirit of the Elder Scrolls Online universe. Say goodbye to generic names and hello to legendary status!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic!",
+    "Don't like what you see? No problem! Click again for an endless supply of awesome names.",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own unique masterpiece.",
+    "Once you've found the perfect name, copy it and proudly claim your destiny in Tamriel!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator lore-friendly?",
+      "answer": "Absolutely! We've meticulously crafted our prefixes and suffixes to align with the rich lore of the Elder Scrolls Online. You'll find names that feel right at home in Tamriel."
+    },
+    {
+      "question": "Can I use these names for any race in ESO?",
+      "answer": "While some names might be more fitting for certain races, feel free to experiment! The best name is one that resonates with you and your character's story."
+    },
+    {
+      "question": "Are the generated names unique?",
+      "answer": "We strive to provide a vast array of combinations, but with millions of players, there's always a slight chance of overlap. However, the sheer number of possibilities ensures you'll likely find a name that feels uniquely yours."
+    },
+    {
+      "question": "Do I need to pay to use this generator?",
+      "answer": "Nope! Our ESO Alternate Name Generator is completely free to use. Consider it our gift to the ESO community."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Feel free to contact us with your suggestions, and we'll consider adding them to our database."
+    },
+    {
+      "question": "Why are some names longer than others?",
+      "answer": "We offer a variety of prefixes and suffixes, some of which are longer than others. This allows for a wider range of name styles, from short and sweet to long and epic!"
+    }
+  ],
+  "prefixes": [
+    "Aeliana",
+    "Vorlag",
+    "Lyra",
+    "Kaelen",
+    "Seraphina",
+    "Ragnar",
+    "Elara",
+    "Torvin",
+    "Sylvane",
+    "Grimbold",
+    "Whisperwind",
+    "Shadowclaw",
+    "Stormblade",
+    "Sunstone",
+    "Moonwhisper",
+    "Ironfist",
+    "Silverstream",
+    "Bloodmoon",
+    "Nightshade",
+    "Dawnbreaker"
+  ],
+  "suffixes": [
+    "Moonwhisper",
+    "Stormblade",
+    "Shadowclaw",
+    "Sunstone",
+    "Ironfist",
+    "Silverstream",
+    "Bloodmoon",
+    "Nightshade",
+    "Dawnbreaker",
+    "the Bold",
+    "the Wise",
+    "the Swift",
+    "the Silent",
+    "the Fierce",
+    "the Just",
+    "the Loyal",
+    "the Brave",
+    "the Unyielding",
+    "the Mysterious"
+  ]
+}

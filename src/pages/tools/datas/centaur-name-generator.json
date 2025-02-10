@@ -1,0 +1,84 @@
+{
+  "name": "Centaur Name Generator",
+  "description": "Gallop into a world of mythical magnificence! Our Centaur Name Generator crafts names as wild and free as the open plains, blending human intellect with equestrian grace. Find the perfect moniker for your centaur character, story, or just for fun!",
+  "slug": "centaur-name-generator",
+  "icon": "\ud83d\udc34",
+  "introduction": "Ever wondered what your centaur alter ego would be called? Stop wondering! This generator blends the majestic power of horses with the wisdom of humans to create names that resonate with strength, freedom, and a touch of the mystical. Whether you're writing fantasy, role-playing, or just daydreaming, we've got the perfect centaur name waiting for you.",
+  "howToUse": [
+    "Click the 'Generate' button. (It's the one that looks like pure awesome.)",
+    "Behold! A brand new centaur name appears before your very eyes.",
+    "Don't like it? Click again! We've got more names than there are stars in the sky (or horses in a field... you get the idea).",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a truly unique name.",
+    "Share your epic new name with the world! (Or just whisper it to your horse. We won't judge.)"
+  ],
+  "faqs": [
+    {
+      "question": "How does this generator actually work?",
+      "answer": "Magic! (Okay, fine, a complex algorithm that combines carefully curated prefixes and suffixes, but 'magic' sounds cooler, right?)"
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! These names are perfect for any fantasy setting. Go forth and conquer, noble centaur!"
+    },
+    {
+      "question": "Are the names really unique?",
+      "answer": "We strive for uniqueness! While some combinations might be similar, the sheer number of possibilities ensures you'll likely get a name that stands out from the herd."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We love suggestions! Send them our way and we'll consider adding them to the mix. The more, the merrier (and more mythical)!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You betcha! Use it as much as your heart desires. Spread the centaur name love!"
+    },
+    {
+      "question": "Will you add other mythical creature name generators?",
+      "answer": "Neigh! (Just kidding!) Yes, we plan to expand our repertoire to include other fantastic beasts. Stay tuned!"
+    }
+  ],
+  "prefixes": [
+    "Swift",
+    "Shadow",
+    "Wild",
+    "Stone",
+    "Silver",
+    "Iron",
+    "Oak",
+    "Willow",
+    "Brave",
+    "Storm",
+    "Sun",
+    "Moon",
+    "Whisper",
+    "Thunder",
+    "Frost",
+    "Ember",
+    "Dawn",
+    "Dusk",
+    "Ancient",
+    "Noble"
+  ],
+  "suffixes": [
+    "hoof",
+    "mane",
+    "bow",
+    "stride",
+    "heart",
+    "song",
+    "wind",
+    "stone",
+    "leaf",
+    "brook",
+    "rider",
+    "walker",
+    "hunter",
+    "guard",
+    "seer",
+    "whisper",
+    "bane",
+    "shield",
+    "arrow",
+    "spirit"
+  ]
+}

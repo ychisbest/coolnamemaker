@@ -1,0 +1,78 @@
+{
+  "name": "Circus Name Generator",
+  "description": "Step right up, ladies and gentlemen, boys and girls! Tired of your mundane moniker? Craving a name that screams excitement, wonder, and maybe just a *little* bit of controlled chaos? Our Circus Name Generator is here to transform you into the star of the Big Top!",
+  "slug": "circus-name-generator",
+  "icon": "\ud83c\udfaa",
+  "introduction": "Roll up, roll up! Forget being 'boring old Bob' \u2013 you deserve a name that sparkles like sequins under the spotlight. Whether you're a daredevil, a clown, or just a lover of all things whimsical, this generator will conjure up the perfect circus-ready title. Prepare to be amazed!",
+  "howToUse": [
+    "First, ditch that humdrum attitude! Embrace the spirit of the circus.",
+    "Next, click that glorious 'Generate' button! (Don't worry, it won't bite... unless you *want* it to.)",
+    "Behold! A dazzling circus name appears before your very eyes. Is it 'Barnaby Bonanza'? 'Celestia Sparkle'? The possibilities are as endless as a clown car.",
+    "Don't like the first result? No problem! Keep clicking until you find the name that makes you want to juggle bowling pins while riding a unicycle. (Disclaimer: We are not responsible for any juggling-related injuries.)",
+    "Once you've found your perfect circus persona, go forth and spread joy, laughter, and maybe a little bit of delightful mayhem!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to turn me into a circus performer?",
+      "answer": "While we can't guarantee instant circus skills (you'll still need to practice that trapeze act!), we *can* give you a name that'll make you *feel* like a star under the big top."
+    },
+    {
+      "question": "Can I use these names for my pet hamster?",
+      "answer": "Absolutely! 'Professor Nibbles the Magnificent' has a certain ring to it, don't you think?"
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep generating! We've got more name combinations than there are peanuts at a circus. You're bound to find one you love eventually."
+    },
+    {
+      "question": "Are these names copyrighted?",
+      "answer": "Nope! Feel free to use them for anything you like - from writing a novel about a clown with a dark secret to simply adding a little pizzazz to your online persona."
+    },
+    {
+      "question": "I accidentally joined the circus. Can this generator help me find a stage name?",
+      "answer": "That's... oddly specific. But yes! This generator is perfect for crafting a memorable stage name that will wow the crowds and make you the talk of the three-ring arena!"
+    },
+    {
+      "question": "Will using this generator make me more attractive?",
+      "answer": "Okay, we can't promise *that*. But a cool circus name definitely adds a certain *je ne sais quoi* to your overall aura. Think of it as the equivalent of a sparkly top hat for your personality."
+    }
+  ],
+  "prefixes": [
+    "Captain",
+    "Madame",
+    "Professor",
+    "Signor",
+    "The Amazing",
+    "Dazzling",
+    "Whimsical",
+    "Mysterious",
+    "Enchanting",
+    "Fantastic",
+    "Barnaby",
+    "Celestia",
+    "Jinx",
+    "Zoltar",
+    "Luna",
+    "Cosmo",
+    "Glitter",
+    "Sparkle"
+  ],
+  "suffixes": [
+    "Bonanza",
+    "Sparkle",
+    "Whirlwind",
+    "Dynamo",
+    "Spectacular",
+    "Magnificent",
+    "Delight",
+    "Wonder",
+    "Fantastic",
+    "Extravaganza",
+    "the Great",
+    "the Unbelievable",
+    "the Daring",
+    "the Hilarious",
+    "the Astounding",
+    "the Incredible"
+  ]
+}

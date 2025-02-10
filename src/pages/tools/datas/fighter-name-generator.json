@@ -1,0 +1,122 @@
+{
+  "name": "Fighter Name Generator",
+  "description": "Unleash your inner warrior! Need a name that strikes fear into the hearts of your opponents? Our Fighter Name Generator crafts the perfect moniker for gladiators, MMA fighters, wrestlers, and anyone ready to rumble!",
+  "slug": "fighter-name-generator",
+  "icon": "\ud83e\udd3c",
+  "introduction": "Step into the ring with confidence! Your fighter name is your identity, your battle cry, your legend. Don't settle for ordinary. Get a name that packs a punch with our Fighter Name Generator. Whether you're building a character for a game, writing a story, or just looking for a badass nickname, we've got you covered. Prepare to dominate!",
+  "howToUse": [
+    "Just hit the 'Generate' button and BAM! We'll conjure up a name worthy of a champion.",
+    "Don't like the first result? Keep clicking! We've got more combinations than a master martial artist has moves.",
+    "Found a name you love? Copy it and shout it from the rooftops! (Or, you know, just use it for your character/profile/whatever awesome thing you're doing.)",
+    "Feeling creative? Tweak the generated names! Add your own flair, combine elements, and forge something truly unique. We're just here to get you started on your path to naming greatness."
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "These names are generated, so usage is generally fine. However, always double-check for existing trademarks to be 100% sure. We're here to inspire, not incite legal battles!"
+    },
+    {
+      "question": "Are the names actually cool?",
+      "answer": "We like to think so! We've carefully curated our word lists to produce names that sound powerful and memorable. But hey, 'cool' is subjective. If you don't find a name you love right away, keep generating!"
+    },
+    {
+      "question": "Can I suggest words to add to the generator?",
+      "answer": "Absolutely! We're always looking to improve. Send your suggestions our way through our contact form \u2013 we'd love to hear from you!"
+    },
+    {
+      "question": "Will the generator create real names of existing fighters?",
+      "answer": "It's possible, but highly unlikely. Our generator uses a combination of prefixes and suffixes. If a generated name happens to match a real person's, it's purely coincidental."
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart desires. We want you to find the *perfect* fighter name. Go wild!"
+    },
+    {
+      "question": "Can I use these names for my wrestling character?",
+      "answer": "Heck yeah! These names are perfect for wrestling personas. Get ready to body slam your opponents with a name that screams victory!"
+    }
+  ],
+  "prefixes": [
+    "Iron",
+    "Steel",
+    "Shadow",
+    "Crimson",
+    "Thunder",
+    "Venom",
+    "Raging",
+    "Silent",
+    "Brutal",
+    "Stone",
+    "Night",
+    "Wild",
+    "Dragon",
+    "Cobra",
+    "Phoenix",
+    "Viper",
+    "Titan",
+    "Grim",
+    "Dark",
+    "Black",
+    "White",
+    "Red",
+    "Blue",
+    "Gold",
+    "Silver",
+    "Bronze",
+    "Jade",
+    "Doom",
+    "Death",
+    "War",
+    "Blood",
+    "Bone",
+    "Skull",
+    "Mad",
+    "Furious",
+    "Savage",
+    "Beast",
+    "Rogue",
+    "Phantom"
+  ],
+  "suffixes": [
+    "Fist",
+    "Hammer",
+    "Claw",
+    "Fang",
+    "Blade",
+    "Striker",
+    "Smasher",
+    "Breaker",
+    "Destroyer",
+    "Hunter",
+    "Warrior",
+    "Knight",
+    "Vanquisher",
+    "Reaper",
+    "Mauler",
+    "Bruiser",
+    "Slayer",
+    "Ripper",
+    "Crasher",
+    "Thrasher",
+    "Brawler",
+    "Punisher",
+    "Executioner",
+    "Annihilator",
+    "Dominator",
+    "Avenger",
+    "Gladiator",
+    "Berserker",
+    "Cyclone",
+    "Typhoon",
+    "Quake",
+    "Wrath",
+    "Rage",
+    "Fury",
+    "Pain",
+    "Agony",
+    "Terror",
+    "Menace",
+    "Nemesis",
+    "Outlaw"
+  ]
+}

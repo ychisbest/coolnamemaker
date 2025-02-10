@@ -1,0 +1,101 @@
+{
+  "name": "Soccer Team Name Generator",
+  "description": "Struggling to find the perfect moniker for your dream team? Fear no more! Our Soccer Team Name Generator kicks out awesome, memorable, and totally unique names that'll have your rivals trembling and your fans chanting. Get ready to dominate the field with a name that's as legendary as your skills!",
+  "slug": "soccer-team-name-generator",
+  "icon": "\u26bd",
+  "introduction": "So, you've got the skills, the strategy, and the passion... but your team's name is, well, a little *meh*? Don't let a boring name hold you back from soccer glory! Our generator is here to serve up a winning combination of prefixes and suffixes, resulting in names that are both fearsome and unforgettable. Whether you're starting a local league team or dreaming of the World Cup, we've got the perfect name waiting for you.",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new, totally awesome soccer team name will appear.",
+    "Don't like the first one? Keep clicking! We've got a seemingly endless supply of names just waiting to be discovered.",
+    "Found the PERFECT name? Copy it and start printing those jerseys! You're one step closer to soccer superstardom."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Soccer Team Name Generator is 100% free to use. Generate as many names as your heart desires without spending a dime."
+    },
+    {
+      "question": "Can I use these names for professional teams?",
+      "answer": "You sure can! While we can't guarantee trademark availability, feel free to use any name that resonates with you. Just be sure to do your due diligence and check for existing trademarks."
+    },
+    {
+      "question": "Are the names generated random?",
+      "answer": "Yes, the names are generated using a combination of carefully selected prefixes and suffixes, ensuring a unique and unpredictable result every time."
+    },
+    {
+      "question": "Will the generator create offensive or inappropriate names?",
+      "answer": "We've worked hard to curate our lists of prefixes and suffixes to avoid generating offensive or inappropriate names. However, if you stumble upon something that seems off, please let us know!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to add to the generator?",
+      "answer": "We'd love to hear your ideas! Feel free to send us your suggestions, and we'll consider adding them to the generator in future updates."
+    },
+    {
+      "question": "My team name is already perfect. Why would I use this?",
+      "answer": "Even the best teams need a little inspiration sometimes! Use our generator to brainstorm new strategies, create fun team nicknames, or even just for a good laugh. Plus, you can always use it for your fantasy league team!"
+    }
+  ],
+  "prefixes": [
+    "United",
+    "Real",
+    "Sporting",
+    "Athletic",
+    "FC",
+    "Dynamo",
+    "Galaxy",
+    "Strikers",
+    "Rovers",
+    "City",
+    "Northern",
+    "Southern",
+    "Eastern",
+    "Western",
+    "Golden",
+    "Silver",
+    "Black",
+    "White",
+    "Red",
+    "Blue",
+    "Green",
+    "Purple",
+    "Iron",
+    "Steel",
+    "Apex",
+    "Summit",
+    "Elite",
+    "Prime",
+    "Vanguard",
+    "Zenith"
+  ],
+  "suffixes": [
+    "FC",
+    "United",
+    "Rovers",
+    "City",
+    "Stars",
+    "Strikers",
+    "Athletic",
+    "Dynamo",
+    "Warriors",
+    "Eagles",
+    "Lions",
+    "Tigers",
+    "Sharks",
+    "Wolves",
+    "Falcons",
+    "Hawks",
+    "Panthers",
+    "Dragons",
+    "Knights",
+    "Spartans",
+    "Gladiators",
+    "Titans",
+    "Vikings",
+    "Rangers",
+    "Pilgrims",
+    "Invaders",
+    "Dominators",
+    "Legends",
+    "Royals"
+  ]
+}

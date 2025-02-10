@@ -1,0 +1,75 @@
+{
+  "name": "Viking Name Generator",
+  "description": "Unleash your inner Norse warrior with our Viking Name Generator! Forge a fearsome identity worthy of Valhalla. Are you ready to raid and conquer... the naming game?",
+  "slug": "viking-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Ever dreamt of sailing the high seas, axe in hand, with a name that echoes through the fjords? Our Viking Name Generator is your portal to a world of legendary heroes and shieldmaidens. Discover a moniker that embodies strength, courage, and a touch of Viking swagger!",
+  "howToUse": [
+    "Simply click the 'Generate' button. (It's way easier than raiding a monastery!)",
+    "Behold! A randomly generated Viking name will appear, forged in the fires of Mount Doom... okay, maybe just our servers.",
+    "Don't like it? Click again! We've got enough combinations to name an entire longship crew.",
+    "Found 'the one'? Copy it and prepare to conquer your next online game, creative project, or even just impress your friends with your newfound Viking coolness."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "Our generator crafts names inspired by Norse mythology, Viking history, and a sprinkle of modern creativity. Expect names that sound both authentic and awesome!"
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Of course! Feel free to use these Viking names for your characters, stories, or even as inspiration for your own unique creations. Just remember to give credit where credit is due (to the Vikings, mostly)."
+    },
+    {
+      "question": "Are the names historically accurate?",
+      "answer": "While we strive for authenticity, we also prioritize creating names that are fun and memorable. Some names may be inspired by historical figures and places, while others are purely fictional, but all evoke the Viking spirit."
+    },
+    {
+      "question": "Can I combine parts of different generated names?",
+      "answer": "Sk\u00e5l! Go for it! Mix and match to your heart's content! The gods of Asgard encourage creativity. Experiment and create a name that is truly yours."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Aye, matey! (Wait, wrong seafaring culture...) Yes, this generator is completely free to use. Raid our site as often as you like!"
+    },
+    {
+      "question": "Will using a Viking name make me better at axe throwing?",
+      "answer": "While we can't guarantee improved axe-throwing skills, a cool Viking name is definitely a step in the right direction. Confidence is key, and a name like 'Bjorn Ironside' certainly inspires confidence!"
+    }
+  ],
+  "prefixes": [
+    "Bjorn",
+    "Astrid",
+    "Ivar",
+    "Lagertha",
+    "Ragnar",
+    "Sigrid",
+    "Erik",
+    "Freya",
+    "Torvin",
+    "Solveig",
+    "Harald",
+    "Gunnhild",
+    "Leif",
+    "Ingrid",
+    "Knut",
+    "Valda"
+  ],
+  "suffixes": [
+    "sson",
+    "sdottir",
+    " the Bold",
+    " Ironside",
+    " Bloodaxe",
+    " the Wanderer",
+    " the Strong",
+    " the Fair",
+    " the Ruthless",
+    " the Wise",
+    " the Swift",
+    " the Sea King",
+    " the Shieldmaiden",
+    " the Dragon",
+    " the Berserker",
+    " the Unyielding"
+  ]
+}

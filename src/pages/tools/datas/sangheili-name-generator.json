@@ -1,0 +1,73 @@
+{
+  "name": "Sangheili Name Generator",
+  "description": "Craving a name that echoes with honor, echoes with the might of the Covenant? Yearn for a title that strikes fear into the hearts of Unggoy and inspires awe in your fellow Elites? Then you've landed in the right spot, brother! Forge your Sangheili identity here!",
+  "slug": "sangheili-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Step into the world of Halo with our Sangheili Name Generator! Whether you're role-playing, writing fan fiction, or just curious about the rich lore of the Covenant, this tool will help you create an authentic and formidable Sangheili name. Prepare to be named!",
+  "howToUse": [
+    "First, take a deep breath and channel your inner Elite warrior. Feel the weight of your energy sword, the sting of betrayal, the burning need for vengeance (or maybe just a cool name for your online avatar).",
+    "Simply click the 'Generate' button. Our ancient algorithms (powered by stolen Forerunner tech\u2026 just kidding!) will combine prefixes and suffixes to create a unique Sangheili name.",
+    "Don't like the first result? Keep clicking! We've got enough combinations to name an entire Covenant fleet.",
+    "Once you find a name that resonates with your warrior spirit, copy it and use it wisely. Remember, with great names comes great responsibility... and probably a few Grunts to boss around."
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* a Sangheili?",
+      "answer": "Ah, a fair question, Human! Sangheili, also known as Elites, are a proud and powerful warrior race in the Halo universe, known for their honor, skill in combat, and distinctive mandibles."
+    },
+    {
+      "question": "Are these names 'official' Sangheili names?",
+      "answer": "While we strive for authenticity, these names are generated based on the established naming conventions in Halo lore. Think of them as inspired by, not necessarily canon."
+    },
+    {
+      "question": "Can I use these names for my Halo fan fiction?",
+      "answer": "Absolutely! That's what they're here for! Go forth and create epic tales of Sangheili heroism (or villainy... we don't judge)."
+    },
+    {
+      "question": "Will this generator make me a better Halo player?",
+      "answer": "While we can't guarantee improved aiming skills, having a truly awesome Sangheili name might intimidate your opponents... or at least make them laugh before you utterly destroy them."
+    },
+    {
+      "question": "Are there any Sangheili names I *shouldn't* use?",
+      "answer": "Avoid names that are already well-established in the Halo universe (like Arbiter or Rtas 'Vadum). Unless, of course, you're writing a very *interesting* fanfic. Also, maybe skip anything overtly offensive. Keep it classy, Elite."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "Absolutely! We're always looking to expand our database of Sangheili awesomeness. Send your suggestions our way!"
+    }
+  ],
+  "prefixes": [
+    "Rtas",
+    "Thel",
+    "Lekgolo",
+    "Zuka",
+    "Usze",
+    "Voro",
+    "Xytan",
+    "Muta",
+    "Bero",
+    "Nuro",
+    "Jega",
+    "Orna",
+    "Fero",
+    "Dura",
+    "Suna"
+  ],
+  "suffixes": [
+    "'Vadum",
+    "'Moramee",
+    "'Jaramee",
+    "'Lantumee",
+    "'Kusovai",
+    "'Ratamai",
+    "'Mdama",
+    "'Loran",
+    "'Zamee",
+    "'Ronai",
+    "'Yoran",
+    "'Saham",
+    "'Kavam",
+    "'Gatam",
+    "'Fadam"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Zombie Name Generator",
+  "description": "Unleash your inner undead with our Zombie Name Generator! Find the perfect ghastly moniker that screams 'braaaains!' and makes you the envy of every shambling corpse in town.",
+  "slug": "zombie-name-generator",
+  "icon": "\ud83e\udddf",
+  "introduction": "So, you're thinking of joining the undead? Excellent choice! But every respectable zombie needs a killer (pun intended!) name. Our Zombie Name Generator is here to help you find the perfect title to strike fear (and maybe a little hunger) into the hearts of the living. Get ready to embrace your inner ghoul!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A deliciously decaying name will appear.",
+    "Don't like the first one? Keep clicking! We've got more zombie names than a graveyard has tombstones.",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own unique undead identity. The possibilities are endless... and slightly rotting!",
+    "Share your gruesome new name with your friends (living or otherwise) and prepare for the zombie apocalypse in style."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to turn me into a zombie?",
+      "answer": "While we can't guarantee full zombification (yet!), our generator will definitely give you the *name* of one. The rest is up to you... and maybe a bite or two."
+    },
+    {
+      "question": "Can I use these names for my zombie character in a book or game?",
+      "answer": "Absolutely! Consider it our gift to the world of undead fiction. Just promise to give us a shout-out when you're a bestselling zombie author. \"Special thanks to coolnamemaker.com for the name inspiration!\""
+    },
+    {
+      "question": "Are the names generated randomly?",
+      "answer": "Yes, the names are generated randomly using a combination of prefixes and suffixes carefully curated for maximum zombie awesomeness. We've put in the work so you don't have to (unless you want to, of course!)."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep hitting that 'Generate' button! We have a vast graveyard of names just waiting to be unearthed. You're bound to find one that perfectly captures your undead essence."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Completely and utterly free! Our mission is to spread the joy (and the terror) of zombie names to everyone. No hidden fees, no brain-eating charges. Just pure, unadulterated name-generating fun."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your suggestions! Send us your most gruesome and creative ideas. If they're suitably undead, we might just add them to the generator. Let's make this the ultimate resource for zombie names!"
+    }
+  ],
+  "prefixes": [
+    "Rotting",
+    "Decayed",
+    "Shambling",
+    "Putrid",
+    "Ghastly",
+    "Brain-Hungry",
+    "Undead",
+    "Flesh-Eating",
+    "Groaning",
+    "Moaning",
+    "Crawling",
+    "Infected",
+    "Viral",
+    "Zombified",
+    "Cadaverous"
+  ],
+  "suffixes": [
+    "Walker",
+    "Eater",
+    "Stalker",
+    "Shambler",
+    "Grinder",
+    "Howler",
+    "Screamer",
+    "Biter",
+    "Claw",
+    "Death",
+    "Rot",
+    "Grave",
+    "Doom",
+    "Plague",
+    "Virus"
+  ]
+}

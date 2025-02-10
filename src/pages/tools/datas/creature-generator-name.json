@@ -1,0 +1,100 @@
+{
+  "name": "Creature Name Generator",
+  "description": "Struggling to name your mythical beast, adorable pet, or terrifying monster? Unleash your inner wordsmith with our Creature Name Generator! From fantastical familiars to spine-chilling horrors, we've got the perfect moniker brewing just for you. Get ready to roar, meow, or hiss with the coolest creature name ever!",
+  "slug": "creature-name-generator",
+  "icon": "\ud83d\udc09",
+  "introduction": "Ever felt the creative block when trying to name your new creature? Whether it's for a game, a story, or just for fun, finding the right name can be tough. Our generator is here to spark your imagination and provide you with a plethora of unique and awesome creature names. No more generic 'Fluffy' or 'Shadow'! Let's find a name that truly captures the essence of your creation.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic!",
+    "Don't like the first result? Keep clicking! We've got tons of combinations ready to go.",
+    "Feeling picky? Mix and match your favorite prefixes and suffixes for a truly personalized name.",
+    "Found the perfect name? Copy it and unleash it upon the world!",
+    "Share your awesome creature names with your friends and bask in their envy."
+  ],
+  "faqs": [
+    {
+      "question": "How does the generator work?",
+      "answer": "Our generator combines carefully curated prefixes and suffixes to create unique and evocative creature names. It's a blend of science, art, and a little bit of magic!"
+    },
+    {
+      "question": "Are the names generated actually any good?",
+      "answer": "We think so! We've put a lot of effort into selecting prefixes and suffixes that sound cool and fit a variety of creatures. But hey, taste is subjective, so keep generating until you find one you love!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once you generate a name, it's yours to use as you see fit. Go forth and create amazing things!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yes! Our Creature Name Generator is completely free to use. We just want to help you unleash your creativity."
+    },
+    {
+      "question": "Will you add more prefixes and suffixes in the future?",
+      "answer": "Definitely! We're always looking for ways to improve the generator and add more variety. Stay tuned for updates!"
+    },
+    {
+      "question": "I found a name I LOVE but it sounds similar to an existing thing, what do I do?",
+      "answer": "Oh no! That's a bummer. Try adding a slightly different prefix or suffix, or just keep hitting generate and you'll find something just as amazing!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Frost",
+    "Ember",
+    "Storm",
+    "Night",
+    "Sun",
+    "Moon",
+    "Star",
+    "Void",
+    "Whisper",
+    "Gloom",
+    "Swift",
+    "Stone",
+    "Iron",
+    "Blood",
+    "Venom",
+    "Crystal",
+    "Aqua",
+    "Terra",
+    "Aether",
+    "Celestial",
+    "Abyssal",
+    "Crimson",
+    "Emerald",
+    "Golden",
+    "Silver",
+    "Obsidian",
+    "Phantom"
+  ],
+  "suffixes": [
+    "claw",
+    "fang",
+    "wing",
+    "scale",
+    "horn",
+    "eye",
+    "shade",
+    "walker",
+    "weaver",
+    "hunter",
+    "bringer",
+    "guard",
+    "stalker",
+    "fiend",
+    "beast",
+    "spirit",
+    "phantom",
+    "demon",
+    "dragon",
+    "serpent",
+    "wyrm",
+    "golem",
+    "wraith",
+    "specter",
+    "horror",
+    "nightmare",
+    "titan",
+    "colossus"
+  ]
+}

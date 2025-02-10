@@ -1,0 +1,89 @@
+{
+  "name": "Meme Name Generator",
+  "description": "Struggling to find the perfect, hilarious name for your next meme creation? Look no further! Our Meme Name Generator is here to inject some serious LOLs into your internet life. Get ready to unleash names so good, they'll be legendary!",
+  "slug": "meme-name-generator",
+  "icon": "\ud83d\ude02",
+  "introduction": "Tired of boring, predictable meme names? We feel you. That's why we built this ridiculously fun generator. It's packed with quirky prefixes and suffixes designed to create names that are as unique and unforgettable as the memes themselves. Prepare for meme-naming glory!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A meme name appears. It's like magic, but with more giggles.",
+    "Don't like the first one? No problem! Keep hitting that button until you find a name that makes you snort-laugh.",
+    "Copy and paste your chosen meme name directly into your meme. Bask in the glory of your comedic genius.",
+    "Share your meme with the world and watch the likes roll in. You're welcome."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually free?",
+      "answer": "Absolutely! Our Meme Name Generator is 100% free to use. Spread the meme-naming love!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Go for it! Once the name is generated, it's all yours. Create, share, and monetize to your heart's content."
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly adding fresh and hilarious prefixes and suffixes to keep things interesting. Check back often for new meme-naming possibilities!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With so many combinations, you're bound to find a name that tickles your funny bone. Or, suggest your own prefixes and suffixes \u2013 we're always looking for inspiration!"
+    },
+    {
+      "question": "Will using this generator make me instantly famous?",
+      "answer": "While we can't guarantee instant fame, a great meme name is definitely a step in the right direction. Get ready for your fifteen minutes (or maybe even longer) of internet glory!"
+    },
+    {
+      "question": "Can I suggest words to be added to the generator?",
+      "answer": "Yes! We love suggestions. Please contact us through the website."
+    }
+  ],
+  "prefixes": [
+    "Doge",
+    "Salt Bae",
+    "Distracted",
+    "Success",
+    "Bad Luck",
+    "Philosoraptor",
+    "Grumpy",
+    "Overly Attached",
+    "Ermahgerd",
+    "Ancient Aliens",
+    "Keyboard Cat",
+    "Troll",
+    "Forever Alone",
+    "Feels Guy",
+    "Woman Yelling at a Cat",
+    "Drake",
+    "Mocking SpongeBob",
+    "Expanding Brain",
+    "Is This a Pigeon?",
+    "Change My Mind",
+    "Left Exit 12",
+    "Buff Doge vs Cheems",
+    "They Don't Know"
+  ],
+  "suffixes": [
+    "Supreme",
+    "Master",
+    "Lord",
+    "Queen",
+    "King",
+    "Champion",
+    "Pro",
+    "Legend",
+    "God",
+    "Goddess",
+    "Expert",
+    "Guru",
+    "Sensei",
+    "Overlord",
+    "Maestro",
+    "Savage",
+    "Epic",
+    "Ultimate",
+    "Absolute",
+    "Alpha",
+    "Omega",
+    "Elite",
+    "The Destroyer"
+  ]
+}

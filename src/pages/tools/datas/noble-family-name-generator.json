@@ -1,0 +1,85 @@
+{
+  "name": "Noble Family Name Generator",
+  "description": "Craft your aristocratic identity! Generate regal and distinguished family names fit for royalty (or at least, a really fancy LARP).",
+  "slug": "noble-family-name-generator",
+  "icon": "\ud83d\udc51",
+  "introduction": "Ever dreamed of having a name that echoes through the halls of power and whispers of ancient lineage?  Well, dream no more!  Our Noble Family Name Generator conjures up names brimming with prestige, history (even if it's completely fabricated!), and an air of undeniable superiority. Whether you're writing a fantasy novel, designing a video game dynasty, or just want a name that makes you sound important at parties, we've got you covered. Prepare to ascend the social ladder... at least in your imagination!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new, utterly majestic family name will appear before your very eyes.",
+    "Don't like the first result?  Keep clicking!  The possibilities are as vast as your future estate (which, let's be honest, probably doesn't exist yet, but hey, a name can't hurt!).",
+    "Feeling creative? Mix and match prefixes and suffixes to create a truly unique and unforgettable name.",
+    "Use your newfound noble name wisely. Remember, with great power (of having a cool name) comes great responsibility (to sound incredibly sophisticated when introducing yourself)."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really going to make me a noble?",
+      "answer": "While we'd love to grant you a title, alas, this generator only creates *names*. Actual nobility requires inheriting a castle, marrying a royal, or, you know, conquering a small country. Good luck with that!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely!  Consider them yours to command. Use them in your books, games, or even to name your pet goldfish. We won't tell anyone where you got them."
+    },
+    {
+      "question": "Are the generated names historically accurate?",
+      "answer": "Let's just say they're 'historically inspired.' We prioritize sounding impressive over strict accuracy. Think of it as 'historical fiction' for names. If you're going for true historical accuracy, you might want to consult a historian (or Wikipedia... but don't tell anyone we said that)."
+    },
+    {
+      "question": "I generated a name that sounds a bit silly. Is that normal?",
+      "answer": "Sometimes!  The generator aims for grandeur, but occasionally, it stumbles upon a name that's more comical than commanding. Just hit 'Generate' again for a more serious contender... or embrace the silliness!  Maybe your noble family is known for their eccentric sense of humor."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to add to the generator?",
+      "answer": "We're always open to suggestions!  Send us your ideas, and if they're suitably regal (or ridiculously funny), we might just add them to the mix."
+    },
+    {
+      "question": "My generated name is already taken! What should I do?",
+      "answer": "Well, that's a bummer! But don't fret. Click 'Generate' again for a fresh, unique name. Or, you could always challenge the existing family to a duel. (Just kidding... mostly.)"
+    }
+  ],
+  "prefixes": [
+    "Von",
+    "Du",
+    "De",
+    "Le",
+    "Fitz",
+    "Mac",
+    "O'",
+    "Saint",
+    "Mont",
+    "Beau",
+    "Ash",
+    "Winter",
+    "Ever",
+    "Silver",
+    "Gold",
+    "Stone",
+    "Iron",
+    "Black",
+    "White",
+    "Red",
+    "Blue",
+    "Green"
+  ],
+  "suffixes": [
+    "worth",
+    "wood",
+    "shire",
+    "ton",
+    "field",
+    "more",
+    "ville",
+    "court",
+    "brook",
+    "stone",
+    "grave",
+    "lock",
+    "mere",
+    "ridge",
+    "ford",
+    "lea",
+    "lake",
+    "dale",
+    "haugh",
+    "shaw"
+  ]
+}

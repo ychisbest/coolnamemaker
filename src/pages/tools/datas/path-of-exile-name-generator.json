@@ -1,0 +1,84 @@
+{
+  "name": "Path of Exile Name Generator",
+  "description": "Craft the perfect moniker for your Exile! Tired of generic names? Unleash the power of our generator and forge a legend in Wraeclast!",
+  "slug": "path-of-exile-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Welcome, Exile! Your journey through Wraeclast demands a name worthy of your deeds. Are you a Shadow, a Witch, a Marauder? Let our generator conjure a name that reflects your power and destiny in Path of Exile. Don't be a 'NoobMaster69' \u2013 become a legend!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new, totally awesome Path of Exile name will appear.",
+    "Keep clicking until you find a name that resonates with your inner Exile. Embrace the darkness, the light, or just something that sounds really, really cool.",
+    "Feeling creative? Mix and match prefixes and suffixes to create a truly unique and terrifying (or hilarious) name.",
+    "Once you've found the perfect name, copy it and unleash it upon the unsuspecting monsters of Wraeclast! Prepare for glory (or at least a few chuckles from your party).",
+    "Pro Tip: Try whispering your generated name dramatically in a mirror. If you don't feel a surge of power, generate another one!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to make me a better Path of Exile player?",
+      "answer": "Probably not. But you'll *look* cooler while you're getting wrecked by Kitava. And that's what really matters, right?"
+    },
+    {
+      "question": "Can I use these names for other games?",
+      "answer": "Absolutely! While tailored for Path of Exile, these names can be adapted for any fantasy RPG, tabletop game, or even naming your pet hamster (if you're feeling particularly edgy)."
+    },
+    {
+      "question": "Are the generated names lore-friendly?",
+      "answer": "We've tried to capture the dark and gritty essence of Wraeclast, but ultimately, it's about having fun! Some names might be more 'lore-adjacent' than others. Think of it as alternate universe naming."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "Generate to your heart's content! There's no limit. Keep those names coming until you find the one that truly speaks to your Exile's soul (or at least sounds vaguely threatening)."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Well, that's just unfortunate. But seriously, keep trying! With enough clicks, you're bound to find a gem. Or, you know, just go with 'Bob'. No judgment."
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yes! Enjoy the power of name generation without spending a single Chaos Orb. We just want to help you unleash your inner Exile."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Blood",
+    "Void",
+    "Storm",
+    "Iron",
+    "Grim",
+    "Frost",
+    "Rage",
+    "Death",
+    "Night",
+    "Ember",
+    "Soul",
+    "Doom",
+    "Chaos",
+    "Blight",
+    "Pale",
+    "Silent",
+    "Wrath",
+    "Gloom",
+    "Dire"
+  ],
+  "suffixes": [
+    "bane",
+    "slayer",
+    "bringer",
+    "caller",
+    "weaver",
+    "walker",
+    "fiend",
+    "hunter",
+    "blade",
+    "heart",
+    "shade",
+    "reaver",
+    "wraith",
+    "scourge",
+    "howler",
+    "watcher",
+    "thorn",
+    "mark",
+    "grind",
+    "maw"
+  ]
+}

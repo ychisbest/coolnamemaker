@@ -1,0 +1,112 @@
+{
+  "name": "Harry Potter Last Name Generator",
+  "description": "Accio awesome last names! Craft your own wizarding world identity with our Harry Potter Last Name Generator. Perfect for fanfiction, roleplaying, or just embracing your inner witch or wizard. Because let's face it, 'Smith' just doesn't cut it in Hogwarts.",
+  "slug": "harry-potter-last-names-generator",
+  "icon": "\ud83e\uddd9\u200d\u2642\ufe0f",
+  "introduction": "Ever wondered what your name would be if you were part of the Harry Potter universe? Ditch the Muggle moniker and discover your magical lineage with our generator! Conjure up a last name that resonates with the mystical and the marvelous. From ancient wizarding families to daring new blood, the possibilities are endless. Prepare to be sorted... into a new surname!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new, magically-infused last name will appear.",
+    "Don't like the first one? Keep clicking! We've got enough combinations to fill the Great Hall.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a truly unique wizarding surname.",
+    "Share your awesome new name with your friends and see who has the most epic wizarding identity!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually from the Harry Potter books?",
+      "answer": "While some names might have a familiar ring, most are inspired by the *feeling* of the Harry Potter universe. Think of it as expanding the magical family tree!"
+    },
+    {
+      "question": "Can I use these names for my fanfiction?",
+      "answer": "Absolutely! That's what they're here for! Go wild, create compelling characters, and weave your own magical tales."
+    },
+    {
+      "question": "Will this generator tell me which Hogwarts house I belong to?",
+      "answer": "Sadly, no. This generator only deals with last names. For house sorting, you'll need a Sorting Hat (or a good online quiz)."
+    },
+    {
+      "question": "Is this generator affiliated with J.K. Rowling or Warner Bros.?",
+      "answer": "Nope! We're just a bunch of Potterheads having fun and sharing the magic. We're not officially endorsed, but we're definitely fans!"
+    },
+    {
+      "question": "What if I get a really silly sounding name?",
+      "answer": "Embrace the silliness! Not every wizard can be a serious Dark Arts fighter. Maybe you're destined to be the next Gilderoy Lockhart... or just have a really memorable Quidditch commentary."
+    },
+    {
+      "question": "Can I use the same last name as a canon character?",
+      "answer": "Of course! But just be aware that your character might be mistaken for a relative or descendant of that famous wizard. Unless that's what you want, then go for it!"
+    }
+  ],
+  "prefixes": [
+    "Black",
+    "Potter",
+    "Dumbled",
+    "Snape",
+    "Weasley",
+    "Granger",
+    "Malfoy",
+    "Long",
+    "Love",
+    "Riddle",
+    "Diggor",
+    "Carrow",
+    "Flin",
+    "Parkin",
+    "Corner",
+    "Boot",
+    "Edge",
+    "Bell",
+    "Bulst",
+    "Crabb",
+    "Goyle",
+    "Greengrass",
+    "Macmillan",
+    "Nott",
+    "Shackle",
+    "Sinist",
+    "Sprou",
+    "Trelaw",
+    "Vane",
+    "Brown",
+    "Patil"
+  ],
+  "suffixes": [
+    "bottom",
+    "top",
+    "side",
+    "grove",
+    "wick",
+    "wood",
+    "ton",
+    "worth",
+    "field",
+    "well",
+    "stone",
+    "brook",
+    "shaw",
+    "ley",
+    "den",
+    "ford",
+    "gate",
+    "hall",
+    "more",
+    "ridge",
+    "ward",
+    "bane",
+    "croft",
+    "dale",
+    "firth",
+    "garth",
+    "hurst",
+    "kirk",
+    "mere",
+    "ness",
+    "oaks",
+    "pool",
+    "quay",
+    "row",
+    "stead",
+    "thorpe",
+    "vale",
+    "wall"
+  ]
+}

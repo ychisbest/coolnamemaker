@@ -1,0 +1,82 @@
+{
+  "name": "Fantasy Group Name Generator",
+  "description": "Struggling to find the perfect name for your epic fantasy group? Fear no more! This generator conjures up names worthy of the most legendary quests, from dragon-slaying parties to potion-brewing covens.",
+  "slug": "group-name-generator-fantasy",
+  "icon": "\ud83e\uddd9\u200d\u2642\ufe0f",
+  "introduction": "Embark on a naming adventure! Whether you're forging a fellowship for a tabletop RPG campaign, writing a fantastical novel, or simply seeking a touch of magic for your online gaming clan, our Fantasy Group Name Generator is your enchanted portal to a realm of captivating monikers. Prepare to be inspired!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new, fantastical group name will materialize before your very eyes.",
+    "Not feeling the magic of the first name? Keep clicking! Our generator has a limitless supply of epic and whimsical names just waiting to be discovered.",
+    "Found a name that resonates with your soul? Copy it and share it with your fellow adventurers! Let the world know the awesome name of your group.",
+    "Feeling creative? Use the generated names as inspiration to craft your own unique and personalized group name! Let your imagination run wild!"
+  ],
+  "faqs": [
+    {
+      "question": "Are the generated names truly unique?",
+      "answer": "While we strive for uniqueness, some names might share similarities due to the nature of combining prefixes and suffixes. However, the sheer number of combinations ensures a vast pool of possibilities!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once you find a name you love, it's yours to use as you see fit. No royalties or magical contracts required."
+    },
+    {
+      "question": "Will the generator provide names for specific fantasy genres (e.g., steampunk, dark fantasy)?",
+      "answer": "Currently, the generator focuses on general fantasy themes. However, we plan to add genre-specific options in future updates. Stay tuned!"
+    },
+    {
+      "question": "How often is the generator updated with new prefixes and suffixes?",
+      "answer": "We're always working to enhance the generator with fresh and exciting elements. Expect updates every few months to keep the naming possibilities vibrant and engaging."
+    },
+    {
+      "question": "Is there a way to suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Feel free to submit your suggestions through our contact form. We appreciate your creative input!"
+    },
+    {
+      "question": "Can I use these names for my Dungeons and Dragons campaign?",
+      "answer": "Of course! These names are perfect for your D&D adventuring party, your guild, or even a secret society of mages."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Silver",
+    "Crimson",
+    "Emerald",
+    "Whispering",
+    "Iron",
+    "Starlight",
+    "Dragon",
+    "Phoenix",
+    "Ancient",
+    "Forgotten",
+    "Mystic",
+    "Celestial",
+    "Ethereal",
+    "Grim",
+    "Eternal",
+    "Silent",
+    "Obsidian",
+    "Golden"
+  ],
+  "suffixes": [
+    "Guardians",
+    "Order",
+    "Covenant",
+    "Legion",
+    "Circle",
+    "Brotherhood",
+    "Sisterhood",
+    "Company",
+    "Alliance",
+    "Council",
+    "Seekers",
+    "Hunters",
+    "Blades",
+    "Watchers",
+    "Keepers",
+    "Wardens",
+    "Voyagers",
+    "Slayers",
+    "Enclave",
+    "Phantoms"
+  ]
+}

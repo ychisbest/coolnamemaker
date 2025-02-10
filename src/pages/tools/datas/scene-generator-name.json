@@ -1,0 +1,64 @@
+{
+  "name": "Scene Name Generator",
+  "description": "Stuck staring at a blank page? This generator conjures up evocative scene names, guaranteed to kickstart your creativity! Get ready to write something *amazing*.",
+  "slug": "scene-name-generator",
+  "icon": "\ud83c\udfac",
+  "introduction": "Welcome, storytellers! Ever find yourself with a brilliant plot, compelling characters, but... a scene title that just *blah*?  Fear not! Our Scene Name Generator is here to rescue you from the depths of writer's block.  We'll fling ideas at you like popcorn at a movie marathon, helping you discover names that are intriguing, thematic, and utterly unforgettable. Let's make some magic!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the awesomeness of the scene names that appear.",
+    "If you're not feeling it, mash that 'Generate' button again! We've got an endless supply of scene-naming goodness.",
+    "Steal (err, *borrow*) your favorite, tweak it to perfection, and unleash your inner Shakespeare!",
+    "Pro-tip: Mix and match prefixes and suffixes for even wilder results. Go nuts!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator *actually* going to make my writing better?",
+      "answer": "Well, we can't promise you'll win a Pulitzer, but a great scene name can set the mood, hint at the action, and generally make your writing more engaging. So, yeah, probably!"
+    },
+    {
+      "question": "Can I use these scene names for commercial purposes?",
+      "answer": "Absolutely! Once generated, the names are yours to use as you wish. Go forth and create! We only ask that you spread the word about our awesome generator."
+    },
+    {
+      "question": "Are the scene names generated completely random?",
+      "answer": "They're based on a carefully curated (and slightly quirky) list of words and phrases designed to evoke different emotions and settings. So, while it might seem random, there's actually a method to our madness!"
+    },
+    {
+      "question": "Will this generator help me overcome writer's block?",
+      "answer": "That's the idea! Sometimes all you need is a little spark of inspiration, and a compelling scene name can be just the thing to get your creative juices flowing."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! We have a *ton* of possibilities. And hey, even a bad name can inspire a good one. Think of it as a brainstorming session with a slightly deranged (but helpful) AI."
+    },
+    {
+      "question": "Can I contribute words or phrases to the generator's database?",
+      "answer": "We'd love that! Contact us through the website and share your ideas. We're always looking for ways to make the generator even better."
+    }
+  ],
+  "prefixes": [
+    "The Shadow of",
+    "Whispers in",
+    "Beneath the",
+    "Echoes of",
+    "A Dance with",
+    "The Crimson",
+    "Lost in",
+    "Beyond the",
+    "The Silent",
+    "A Glimmer of"
+  ],
+  "suffixes": [
+    "Forgotten Dreams",
+    "Stolen Souls",
+    "Broken Promises",
+    "The Raven's Cry",
+    "The Serpent's Kiss",
+    "Endless Night",
+    "The Burning Sands",
+    "The Frozen Wastes",
+    "Hidden Truths",
+    "The Shattered Mirror"
+  ]
+}

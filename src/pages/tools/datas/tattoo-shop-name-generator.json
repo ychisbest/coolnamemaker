@@ -1,0 +1,73 @@
+{
+  "name": "Tattoo Shop Name Generator",
+  "description": "Struggling to find the perfect name for your tattoo shop? Ink no further! Our Tattoo Shop Name Generator will conjure up names so cool, they'll be permanently etched in your mind (unlike that regrettable tribal armband).",
+  "slug": "tattoo-shop-name-generator",
+  "icon": "\u2712\ufe0f",
+  "introduction": "Opening a tattoo shop is a serious business... but naming it doesn't have to be! This generator mixes edgy, classic, and just plain cool words to create a brand identity that screams 'come get inked!' Get ready to discover the moniker that'll make your shop the talk of the town (or at least, the most popular on Instagram).",
+  "howToUse": [
+    "Ready to roll? Just smash that 'Generate' button like you're hammering down a perfect line on a custom piece.",
+    "Don't like the first result? Keep hitting it! We've got more combinations than you have skin (probably).",
+    "Find a name that resonates? Write it down! (Or, you know, copy and paste it. We're not living in the Stone Age.)",
+    "Pro-tip: Say the name out loud. Does it sound cool? Does it roll off the tongue like a well-oiled tattoo machine? If so, you've got a winner!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once the generator spits out a name, it's yours to use as inspiration. Just be sure to check for trademark availability before you commit to anything legally binding."
+    },
+    {
+      "question": "Are the generated names actually any good?",
+      "answer": "We think so! But beauty is in the eye of the beholder (or the tattooed). The goal is to spark your creativity and get you thinking outside the box. If you don't love the first few, keep generating!"
+    },
+    {
+      "question": "Will this guarantee my tattoo shop's success?",
+      "answer": "While a cool name is important, it's not a magic bullet. You'll still need talented artists, a clean shop, and killer customer service. But hey, a great name is a fantastic start!"
+    },
+    {
+      "question": "Can I suggest words to add to the generator?",
+      "answer": "We're always open to suggestions! Send us your coolest, edgiest, and most tattoo-worthy words, and we'll consider adding them to the mix."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You bet your sweet bippy it is! Use it as much as you like, and tell your friends. We're here to help you find the perfect name, without costing you a dime (or a drop of ink)."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep generating! There are countless combinations. Alternatively, use the generated names as inspiration and tweak them to create something truly unique. Think of it as a starting point, not the final destination."
+    }
+  ],
+  "prefixes": [
+    "Iron",
+    "Steel",
+    "Electric",
+    "Crimson",
+    "Shadow",
+    "Lucky",
+    "Rebel",
+    "Sacred",
+    "Urban",
+    "Eternal",
+    "Midnight",
+    "Golden",
+    "Silent",
+    "Wicked",
+    "Mystic"
+  ],
+  "suffixes": [
+    "Needle",
+    "Ink",
+    "Arts",
+    "Studio",
+    "Parlor",
+    "Gallery",
+    "Society",
+    "Works",
+    "Markings",
+    "Designs",
+    "Canvas",
+    "Skin",
+    "Tradition",
+    "Machine",
+    "Anchor"
+  ]
+}

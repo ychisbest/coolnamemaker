@@ -1,0 +1,78 @@
+{
+  "name": "Elvish Name Generator - Tolkien Edition",
+  "description": "Unleash your inner Elf! Craft ethereal and enchanting Elvish names worthy of Middle-earth, inspired by the legendary J.R.R. Tolkien. Find your true Quenya or Sindarin identity!",
+  "slug": "elvish-name-generator-tolkien",
+  "icon": "\ud83e\udddd",
+  "introduction": "Ever dreamt of strolling through Rivendell or battling alongside Legolas? Your Elvish adventure begins here! This generator conjures authentic-sounding Elvish names, perfect for your character, story, or simply embracing your inner Tolkien fan. Prepare to be amazed by the beauty and elegance of Elvish nomenclature!",
+  "howToUse": [
+    "Simply click the 'Generate' button and witness the magic unfold! \u2728",
+    "Not quite feeling the Elvish vibe? Hit 'Generate' again for a fresh, new name. We've got an endless supply of Elvish awesomeness! \ud83d\udcab",
+    "Feeling creative? Mix and match prefixes and suffixes to forge your own unique Elvish masterpiece. Unleash your inner Tolkien! \ud83c\udfa8",
+    "Once you've discovered the perfect name, copy it and share it with your fellowship! \ud83d\udde3\ufe0f (Or keep it a secret, your call!)"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names 'real' Elvish?",
+      "answer": "While we strive for authenticity, these names are inspired by Tolkien's Elvish languages (Quenya and Sindarin). We use common patterns and sounds to create names that *feel* Elvish, even if they aren't directly translated from his dictionaries. Think of it as Elvish-adjacent coolness!"
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! These names are perfect for any fantasy character, especially Elves in Dungeons & Dragons or other role-playing games. Go forth and role-play with Elvish flair!"
+    },
+    {
+      "question": "Are the names gender-specific?",
+      "answer": "Some names may sound more traditionally masculine or feminine, but ultimately, the choice is yours! In Tolkien's world, Elves value individuality, so feel free to choose a name that resonates with *you*, regardless of perceived gender norms."
+    },
+    {
+      "question": "Can I use these names in my novel or fanfiction?",
+      "answer": "Yes, with a small caveat: While we encourage creativity, please be mindful of copyright. These names are inspired by Tolkien's work, so avoid using them in a way that could be considered infringement. Originality is always key!"
+    },
+    {
+      "question": "Why are Elvish names so darn cool?",
+      "answer": "Because Tolkien was a genius! He crafted languages that are both beautiful and evocative. Elvish names carry a sense of history, magic, and timelessness. They're the perfect way to add a touch of enchantment to your life!"
+    },
+    {
+      "question": "Will this generator help me learn Elvish?",
+      "answer": "While this generator focuses on name creation, exploring Tolkien's languages is a rewarding journey! Consider this generator a fun gateway to further Elvish exploration. There are many excellent resources online to help you delve deeper into Quenya and Sindarin."
+    }
+  ],
+  "prefixes": [
+    "Ar",
+    "El",
+    "Gal",
+    "Lin",
+    "Nim",
+    "Sil",
+    "Voron",
+    "Ithil",
+    "Fael",
+    "Laure",
+    "Elen",
+    "Aeg",
+    "Gil",
+    "Find",
+    "Ing",
+    "Thoron",
+    "R\u00edan"
+  ],
+  "suffixes": [
+    "dir",
+    "ion",
+    "iel",
+    "wen",
+    "las",
+    "rian",
+    "anor",
+    "eth",
+    "iel",
+    "findel",
+    "ion",
+    "ien",
+    "dil",
+    "dir",
+    "wen",
+    "nor",
+    "iel",
+    "las"
+  ]
+}

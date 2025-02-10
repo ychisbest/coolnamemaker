@@ -1,0 +1,85 @@
+{
+  "name": "Sonic Character Name Generator",
+  "description": "Ready to dash into the Sonic universe? Our generator crafts names that are faster than the speed of sound! Get ready to roll!",
+  "slug": "sonic-character-name-generator",
+  "icon": "\ud83e\udd94",
+  "introduction": "Ever dreamed of being a part of Sonic's crew? Now's your chance! Whether you're a hedgehog, echidna, or something entirely new, this generator will give you a name that's bursting with Sonic-style coolness. Time to go fast!",
+  "howToUse": [
+    "Click the 'Generate' button and behold your new, super-speedy Sonic name!",
+    "Not feeling it? Hit 'Generate' again for another electrifying option!",
+    "Found the perfect name? Copy it and zoom off to create your Sonic OC!",
+    "Share your awesome name with your friends \u2013 let's see who's got the coolest moniker in the Sonic universe!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "This generator creates names inspired by the Sonic the Hedgehog universe! Expect names that sound fast, cool, and a little bit quirky \u2013 just like the characters we know and love."
+    },
+    {
+      "question": "Can I use these names for my Sonic fan characters?",
+      "answer": "Absolutely! That's exactly what they're for. Go wild and create the Sonic hero (or villain!) of your dreams!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yep! We use a mix of prefixes and suffixes that evoke the spirit of Sonic names, so you're guaranteed something unique every time."
+    },
+    {
+      "question": "Will the generator create names that are already used by existing Sonic characters?",
+      "answer": "While it's unlikely, there's always a *tiny* chance of a match. But hey, maybe your character is a long-lost relative! The possibilities are endless!"
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're always adding new prefixes and suffixes to keep things fresh and exciting! Check back regularly for even more supersonic name options."
+    },
+    {
+      "question": "Is it okay to use the generated names for commercial purposes?",
+      "answer": "While you're free to use the names for personal, non-commercial projects like fan fiction or character design, using them for commercial purposes is not recommended. These names are inspired by the Sonic universe, which is owned by SEGA, so you might run into copyright issues."
+    }
+  ],
+  "prefixes": [
+    "Speed",
+    "Volt",
+    "Shadow",
+    "Aqua",
+    "Metal",
+    "Flame",
+    "Turbo",
+    "Sonic",
+    "Cyber",
+    "Lunar",
+    "Cosmo",
+    "Blast",
+    "Nova",
+    "Static",
+    "Giga",
+    "Mega",
+    "Hyper",
+    "Titan",
+    "Echo",
+    "Rogue",
+    "Stealth"
+  ],
+  "suffixes": [
+    "Strike",
+    "Dash",
+    "Wave",
+    "Spark",
+    "Claw",
+    "Bolt",
+    "Blade",
+    "Surge",
+    "Force",
+    "Jet",
+    "Drive",
+    "Wing",
+    "Blast",
+    "Gear",
+    "Speed",
+    "Rush",
+    "Blitz",
+    "Spin",
+    "Smash",
+    "Edge",
+    "Hunter"
+  ]
+}

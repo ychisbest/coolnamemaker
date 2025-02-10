@@ -1,0 +1,90 @@
+{
+  "name": "Coaster Name Generator",
+  "description": "Stuck on a name for your new rollercoaster? Don't let your scream machine suffer from a boring moniker! Our Coaster Name Generator is here to inject some thrill-tastic, gut-wrenching creativity into your ride. Get ready to name that steel beast!",
+  "slug": "coaster-name-generator",
+  "icon": "\ud83c\udfa2",
+  "introduction": "So, you've built the ultimate gravity-defying, loop-de-looping, heart-stopping rollercoaster. Congratulations! But what's a legendary ride without a legendary name? Forget 'Rollercoaster 1' \u2013 that's just sad. Our generator will sling you names so epic, they'll have riders lining up just to say them! From the subtly sinister to the utterly absurd, prepare for a naming experience as exhilarating as the ride itself.",
+  "howToUse": [
+    "Click the 'Generate' button. (Groundbreaking, I know.)",
+    "Witness the birth of a rollercoaster name so awesome, it'll make your stomach flip.",
+    "Don't like what you see? Smash that 'Generate' button again! We've got enough names to fill an entire theme park.",
+    "Copy your favorite and proudly slap it on your coaster. Bonus points for dramatic unveiling ceremonies!",
+    "Brag to your friends about how you didn't have to lift a finger to come up with such a brilliant name. (We won't tell.)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to give me good names?",
+      "answer": "Good? Honey, we're aiming for legendary! We're talking names that will echo through the ages (or at least until the next big coaster opens). But hey, beauty is in the eye of the beholder. If you don't like the first result, keep hitting that generate button!"
+    },
+    {
+      "question": "Can I use these names for other things besides rollercoasters?",
+      "answer": "Absolutely! Use them for your band, your pet hamster, your secret villain lair... the possibilities are endless! We won't judge (much)."
+    },
+    {
+      "question": "Are the names copyrighted?",
+      "answer": "Nope! These names are fresh out of the idea oven, ready for you to claim as your own. Go forth and name things with reckless abandon!"
+    },
+    {
+      "question": "What if I get a really, REALLY bad name?",
+      "answer": "Consider it a badge of honor! Some of the best things in life are delightfully terrible. Plus, you can always generate another one. We're here for you, through thick and thin (and questionable names)."
+    },
+    {
+      "question": "Will using this generator guarantee my rollercoaster's success?",
+      "answer": "While we can't guarantee instant fame and fortune, a killer name is definitely a step in the right direction. It's like putting sprinkles on an already amazing sundae. Just remember to build a good coaster too!"
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly feeding the name machine with fresh ideas! Check back regularly for a never-ending supply of rollercoaster-naming inspiration."
+    }
+  ],
+  "prefixes": [
+    "The",
+    "Inferno",
+    "Steel",
+    "Twisted",
+    "Viper",
+    "Thunder",
+    "Phantom",
+    "Screaming",
+    "Raging",
+    "Colossus",
+    "Oblivion",
+    "Hyper",
+    "Mega",
+    "Ultimate",
+    "Dark",
+    "Nightmare",
+    "Apocalypse",
+    "Doomsday",
+    "The Great",
+    "Electric",
+    "Cosmic",
+    "Quantum"
+  ],
+  "suffixes": [
+    "Fury",
+    "Force",
+    "Strike",
+    "Run",
+    "Plunge",
+    "Edge",
+    "Twist",
+    "Scream",
+    "Mountain",
+    "Typhoon",
+    "Cyclone",
+    "Storm",
+    "Wave",
+    "Blaster",
+    "Destroyer",
+    "Annihilator",
+    "Terror",
+    "Mayhem",
+    "Chaos",
+    "Voyage",
+    "Odyssey",
+    "Expedition",
+    "Assault",
+    "Blitz"
+  ]
+}

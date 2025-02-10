@@ -1,0 +1,83 @@
+{
+  "name": "Dystopia Name Generator",
+  "description": "Unleash your inner rebel! Generate the perfect edgy, gritty, and downright cool name for your dystopian character, band, or project. Because in a world gone wrong, a killer name is your best weapon.",
+  "slug": "dystopia-name-generator",
+  "icon": "\ud83c\udf03",
+  "introduction": "Welcome to the Dystopia Name Generator, where the future is bleak, but your name doesn't have to be! Tired of the same old boring monikers? Dive into our generator and discover a treasure trove of names that scream rebellion, survival, and a healthy dose of 'sticking it to the man'. Whether you're crafting a dystopian novel, designing a video game, or just looking for an alias that reflects your cynical worldview, we've got you covered. Get ready to embrace the darkness and find a name that's as unforgettable as the end of the world!",
+  "howToUse": [
+    "First, steel your resolve. The future is grim, remember?",
+    "Click the 'Generate' button. Don't worry, it won't trigger the apocalypse (probably).",
+    "Feast your eyes on the glorious dystopian name that awaits you.",
+    "Not feeling it? Click again! We have more names than there are surveillance cameras in Neo-Tokyo.",
+    "Once you've found the perfect name, copy it, share it, and go forth and conquer... or at least survive."
+  ],
+  "faqs": [
+    {
+      "question": "What makes a name 'dystopian'?",
+      "answer": "Think gritty, edgy, and evocative of a world in chaos. Names that suggest strength, resilience, or a touch of rebellion are perfect. We aim for names that sound like they belong in a cyberpunk novel or a post-apocalyptic wasteland."
+    },
+    {
+      "question": "Can I use these names for my book/game/band?",
+      "answer": "Absolutely! That's what they're here for. Consider them a starting point for your creative journey. Feel free to tweak them to fit your specific vision."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "We use a carefully curated list of prefixes and suffixes designed to evoke a dystopian feel. So, while the combinations are random, the overall vibe is decidedly dark and future-y."
+    },
+    {
+      "question": "Will using this generator make me cooler?",
+      "answer": "Guaranteed. Okay, maybe not *guaranteed*, but having a killer dystopian name certainly won't hurt your street cred. Especially if you live on a street ravaged by acid rain."
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate to your heart's content. We'll keep churning out names until the robots take over... or until you find the perfect one."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep hitting that 'Generate' button! We're constantly adding new prefixes and suffixes to keep things fresh and exciting. Or, you know, as exciting as dystopia can be."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Rust",
+    "Nova",
+    "Crimson",
+    "Steel",
+    "Void",
+    "Echo",
+    "Phantom",
+    "Rogue",
+    "Cipher",
+    "Renegade",
+    "Zero",
+    "Static",
+    "Neon",
+    "Iron",
+    "Ghost",
+    "Wraith",
+    "Shatter",
+    "Grave"
+  ],
+  "suffixes": [
+    "Blade",
+    "Runner",
+    "Walker",
+    "Mage",
+    "Guard",
+    "Hunter",
+    "Scout",
+    "Breaker",
+    "Strike",
+    "Claw",
+    "Whisper",
+    "Fury",
+    "Core",
+    "Vector",
+    "Flux",
+    "Pulse",
+    "Shade",
+    "Raven",
+    "Viper",
+    "Phoenix"
+  ]
+}

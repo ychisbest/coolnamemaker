@@ -1,0 +1,93 @@
+{
+  "name": "Pok\u00e9mon GO Name Generator",
+  "description": "Struggling to find the perfect moniker for your Pok\u00e9mon GO trainer? Unleash your inner Pok\u00e9mon master with our electrifying generator! Get ready to catch 'em all with a name that's as unique as your gameplay.",
+  "slug": "pokemon-go-name-generator",
+  "icon": "\u26a1",
+  "introduction": "Tired of generic usernames? Our Pok\u00e9mon GO Name Generator is here to spark your creativity! We combine a dash of nostalgia, a sprinkle of wit, and a whole lot of Pok\u00e9mon spirit to conjure up names that'll make you stand out in the gym. Whether you're a seasoned trainer or just starting your adventure, find a name that resonates with your Pok\u00e9mon passion.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic!",
+    "Don't like the first result? Keep clicking! We've got a whole Pokedex of names waiting to be discovered.",
+    "Feeling picky? (We don't blame you!) Mix and match prefixes and suffixes to craft your ultimate trainer identity.",
+    "Once you've found 'the one,' copy and paste it into Pok\u00e9mon GO and prepare for glory!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to help me become the very best, like no one ever was?",
+      "answer": "While we can't guarantee Pok\u00e9mon mastery, a killer name is a great first step! It's all about projecting confidence, right?"
+    },
+    {
+      "question": "Can I use these names for other games besides Pok\u00e9mon GO?",
+      "answer": "Absolutely! If you find a name you love, feel free to use it wherever your gaming heart desires. Just promise us you'll think of us when you become a legend."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes, the names are generated randomly using a combination of prefixes and suffixes. This ensures a wide variety of unique and creative options for you to choose from."
+    },
+    {
+      "question": "Will the generated names be available/not taken in Pok\u00e9mon Go?",
+      "answer": "We cannot guarantee the availability of generated names within Pok\u00e9mon Go. Usernames are unique and assigned on a first-come, first-served basis. If a generated name is already taken, you may need to try generating a new one or modify the name slightly to make it unique."
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We are constantly working to improve the generator and add new prefixes and suffixes to keep the name options fresh and exciting. Check back regularly for updates!"
+    },
+    {
+      "question": "I found a bug or have a suggestion! Where can I submit it?",
+      "answer": "We'd love to hear from you! Please use the contact form on our website to report any bugs or submit suggestions. Your feedback helps us make the generator even better!"
+    }
+  ],
+  "prefixes": [
+    "Poke",
+    "Master",
+    "Ultra",
+    "Shadow",
+    "Mystic",
+    "Valor",
+    "Instinct",
+    "Team",
+    "Great",
+    "Elite",
+    "Shiny",
+    "Lucky",
+    "Legendary",
+    "Nova",
+    "Astro",
+    "Cosmic",
+    "Pixel",
+    "Gamer",
+    "Trainer",
+    "Sir",
+    "Madam",
+    "Lord",
+    "Lady",
+    "TheReal",
+    "OG"
+  ],
+  "suffixes": [
+    "mon",
+    "Trainer",
+    "Catcher",
+    "Hunter",
+    "Master",
+    "Pro",
+    "King",
+    "Queen",
+    "Ace",
+    "Legend",
+    "God",
+    "Goddess",
+    "Ninja",
+    "Samurai",
+    "Knight",
+    "Ranger",
+    "Titan",
+    "Slayer",
+    "Star",
+    "X",
+    "Z",
+    "Y",
+    "Alpha",
+    "Beta",
+    "Omega"
+  ]
+}

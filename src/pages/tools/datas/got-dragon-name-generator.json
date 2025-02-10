@@ -1,0 +1,80 @@
+{
+  "name": "Got Dragon Name Generator",
+  "description": "Unleash your inner Khaleesi! Need a fearsome, fire-breathing name for your dragon? This generator is your personal Maester of monikers. From the majestic to the menacing, discover the perfect title for your winged companion. Perfect for writers, gamers, and dragon enthusiasts alike!",
+  "slug": "got-dragon-name-generator",
+  "icon": "\ud83d\udc09",
+  "introduction": "Winter is coming... and so are the dragons! But what's a dragon without a proper name? Don't let your magnificent beast be called 'Fluffy'. Our Got Dragon Name Generator will forge a name worthy of legends, inspired by the epic world of Westeros and beyond. Prepare to soar!",
+  "howToUse": [
+    "Simply click the 'Generate' button. (Duh!)",
+    "Marvel at the awesome dragon name that appears.",
+    "If the dragon name isn't quite right, click 'Generate' again. (Dragons are picky, you know?)",
+    "Copy and paste your favorite name into your story, game, or just shout it from the rooftops! (We won't judge... much.)",
+    "Share your epic dragon name with your friends, and bask in the glory of your naming prowess."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually related to Game of Thrones?",
+      "answer": "While inspired by the world of Westeros, this generator is a fan creation and not officially affiliated with HBO or George R.R. Martin. We just really, REALLY like dragons."
+    },
+    {
+      "question": "Can I use these names for my D&D campaign?",
+      "answer": "Absolutely! These names are perfect for Dungeons & Dragons, fantasy novels, video games, or any other creative project where a powerful dragon name is needed. Go forth and conquer!"
+    },
+    {
+      "question": "Are the names generated unique?",
+      "answer": "While we strive to create a wide variety of names, there's always a chance of repetition. Keep generating until you find the perfect, unique name for your magnificent beast!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Feel free to contact us with your suggestions, and we might just add them to the generator."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With a vast combination of prefixes and suffixes, you're bound to find a name that resonates with your inner dragon tamer. Or, you know, come up with your own. We're just here to spark your imagination!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yes! Unleash your dragon-naming powers without spending a single gold dragon. Enjoy!"
+    }
+  ],
+  "prefixes": [
+    "Drakon",
+    "Veridian",
+    "Ignis",
+    "Shadow",
+    "Storm",
+    "Frost",
+    "Crimson",
+    "Azure",
+    "Iron",
+    "Gold",
+    "Night",
+    "Dawn",
+    "Wyrm",
+    "Scale",
+    "Flame",
+    "Rune",
+    "Ember",
+    "Obsidian"
+  ],
+  "suffixes": [
+    "fang",
+    "claw",
+    "scale",
+    "wing",
+    "heart",
+    "breath",
+    "shade",
+    "storm",
+    "fire",
+    "ice",
+    "bane",
+    "strike",
+    "guard",
+    "watcher",
+    "slayer",
+    "binder",
+    "caller",
+    "weaver"
+  ]
+}

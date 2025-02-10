@@ -1,0 +1,83 @@
+{
+  "name": "Dracthyr Name Generator",
+  "description": "Unleash your inner dragon! Generate epic and fierce Dracthyr names worthy of the Dragon Isles. Find the perfect moniker that embodies your strength, wisdom, and draconic heritage.",
+  "slug": "dracthyr-name-generator",
+  "icon": "\ud83d\udc09",
+  "introduction": "So, you're ready to soar as a Dracthyr Evoker? Awesome! But first, you need a name that roars as loud as your breath weapon. This generator will help you forge a name that's both draconic and unforgettable. Prepare to be legendary!",
+  "howToUse": [
+    "Hit the 'Generate' button \u2013 it's way more fun than waiting for a dragon egg to hatch.",
+    "Keep clicking until you find a name that resonates with your draconic soul. Don't settle for anything less than epic!",
+    "Copy your favorite name and paste it into the game. Now go wreak some (responsible) havoc!",
+    "Share your awesome name with your friends! Let them know who's the coolest dragon on the block."
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* a Dracthyr?",
+      "answer": "Dracthyr are the newest race in World of Warcraft, a draconic humanoid race created by Neltharion (Deathwing) to be the ultimate soldiers. They can be Evokers, wielding the power of all five dragonflights."
+    },
+    {
+      "question": "Are these names lore-friendly?",
+      "answer": "We've done our best to capture the essence of Dracthyr naming conventions. While not official, these names should fit right in with the Dragon Isles vibe."
+    },
+    {
+      "question": "Can I use these names for other fantasy characters?",
+      "answer": "Absolutely! These names are perfect for any dragon-like or powerful character in your stories or games."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! Keep hitting that button until you find the *perfect* name. We won't judge if you spend all day doing it."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "No problem! Our generator is constantly evolving. You can also try mixing and matching prefixes and suffixes to create your own unique masterpiece. Or, you know, just blame the algorithm. \ud83d\ude09"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yep! Use it as much as you want. We just hope you'll tell your friends about us!"
+    }
+  ],
+  "prefixes": [
+    "Vyra",
+    "Drakon",
+    "Ignis",
+    "Terra",
+    "Aqua",
+    "Ventus",
+    "Shadow",
+    "Light",
+    "Chrono",
+    "Astra",
+    "Pyra",
+    "Glacia",
+    "Zal",
+    "Kry",
+    "Ryz",
+    "Vel",
+    "Ael",
+    "Vor",
+    "Syl",
+    "Nyx"
+  ],
+  "suffixes": [
+    "thos",
+    "ax",
+    "ion",
+    "ara",
+    "yth",
+    "ios",
+    "aris",
+    "dor",
+    "gar",
+    "lix",
+    "andra",
+    "ion",
+    "astra",
+    "yx",
+    "ian",
+    "onix",
+    "alis",
+    "orn",
+    "aris",
+    "yxia"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "LOTR Dwarf Name Generator",
+  "description": "Unleash your inner Gimli! Forge legendary dwarf names worthy of Middle-earth with our LOTR Dwarf Name Generator. Whether you're crafting a character for your next tabletop adventure, writing fan fiction, or just curious what your dwarf name would be, we've got you covered. Prepare for names that echo with the strength of stone and the clang of the forge!",
+  "slug": "lotr-dwarf-name-generator",
+  "icon": "\u26cf\ufe0f",
+  "introduction": "Ever wondered what your name would be if you were a stout, axe-wielding dwarf from the Lord of the Rings? Now you can find out! Our generator combines classic Tolkien-esque sounds with a touch of dwarven grit to create names that feel authentic and powerful. Ready to delve into the mines and claim your heritage?",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand-new, totally awesome dwarf name will appear before your very eyes.",
+    "Don't like what you see? No problem! Click again and again until you find the name that resonates with your dwarven soul.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft your own unique masterpiece. Just remember, with great power comes great responsibility... to choose a truly epic name!",
+    "Share your newfound dwarf name with your friends! Let them know of the glorious heritage you now possess. Prepare for envy... and maybe a few requests to forge them some custom armor."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually from Lord of the Rings?",
+      "answer": "While we're inspired by Tolkien's world, these names are newly generated. We aim for authenticity, but they aren't lifted directly from the books or movies. Think of them as names that *could* have been!"
+    },
+    {
+      "question": "Can I use these names for my Dungeons & Dragons character?",
+      "answer": "Absolutely! Feel free to use these names for any purpose you desire. They're perfect for tabletop RPGs, creative writing, or just plain fun."
+    },
+    {
+      "question": "How are the names generated?",
+      "answer": "Our generator uses a sophisticated (okay, maybe not *that* sophisticated) algorithm that combines prefixes and suffixes common in dwarven names. We also sprinkle in a bit of magic to ensure each name sounds suitably epic."
+    },
+    {
+      "question": "Will the generator ever create the same name twice?",
+      "answer": "It's possible, but unlikely! With a vast combination of prefixes and suffixes, the chances of generating the exact same name are slim. Consider it a rare and auspicious occurrence if it happens!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! While we can't guarantee they'll be added, we're always looking for ways to improve the generator. Send your suggestions our way and who knows, you might just see your contribution in a future update!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You betcha! Use it as much as you like, free of charge. Our gift to you, brave adventurer!"
+    }
+  ],
+  "prefixes": [
+    "Thorin",
+    "Balin",
+    "Dwalin",
+    "Gloin",
+    "Oin",
+    "Fili",
+    "Kili",
+    "Dori",
+    "Nori",
+    "Ori",
+    "Bifur",
+    "Bofur",
+    "Bombur",
+    "Grim",
+    "Stone",
+    "Iron",
+    "Gold",
+    "Silver",
+    "Rock",
+    "Deep",
+    "Frost",
+    "Fire",
+    "Shadow",
+    "Doom",
+    "War",
+    "Oath",
+    "Battle",
+    "Mountain",
+    "Mithril"
+  ],
+  "suffixes": [
+    "beard",
+    "hammer",
+    "helm",
+    "shield",
+    "stone",
+    "forge",
+    "axe",
+    "fist",
+    "hand",
+    "foot",
+    "heart",
+    "eye",
+    "brow",
+    "son",
+    "dottir",
+    "sson",
+    "grim",
+    "strong",
+    "bold",
+    "wise",
+    "steel",
+    "brand",
+    "thane",
+    "finder",
+    "breaker",
+    "cleaver",
+    "gazer",
+    "shaper",
+    "hewer"
+  ]
+}

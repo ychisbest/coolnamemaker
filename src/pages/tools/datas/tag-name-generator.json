@@ -1,0 +1,83 @@
+{
+  "name": "Tag Name Generator",
+  "description": "Struggling to find the perfect tag name? Let our generator conjure up some seriously cool and catchy tag names that will make you stand out from the crowd! \u2728",
+  "slug": "tag-name-generator",
+  "icon": "\ud83c\udff7\ufe0f",
+  "introduction": "In the vast digital ocean, a killer tag name is your ship's flag \u2013 it tells everyone who you are and what you're about. But crafting that perfect name can feel like searching for a unicorn riding a rollercoaster. Fear not! Our Tag Name Generator is here to inject some serious creativity into your naming game. Whether you're branding a new product, launching a blog, or just need a clever handle, we've got you covered. Get ready to unleash the awesome!",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's that easy, seriously!",
+    "Keep clicking until a name jumps out and screams, 'THAT'S THE ONE!'",
+    "Feeling picky? Tweak the prefixes and suffixes to create your own unique blend of cool.",
+    "Once you've found the perfect tag name, go forth and conquer the internet!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Tag Name Generator is 100% free to use. We believe everyone deserves a shot at tag name greatness."
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "Yep! Once generated, the names are yours to use as you see fit. Create a killer brand!"
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly adding new prefixes and suffixes to keep the generator fresh and exciting. Check back often for new inspiration!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "No worries! Just keep hitting that 'Generate' button. With countless combinations, you're bound to find a gem eventually. Or, get creative and mix and match elements to create something truly unique!"
+    },
+    {
+      "question": "Can I save my favorite generated names?",
+      "answer": "While we don't have a built-in save feature *yet*, you can easily copy and paste your favorites into a document or note. Consider it a digital treasure chest of tag name brilliance!"
+    },
+    {
+      "question": "Are the generated names trademarked?",
+      "answer": "We generate names randomly, so it's your responsibility to check if a generated name is trademarked before using it for commercial purposes. We recommend doing a quick search on the USPTO website (or your local trademark office) before committing to a name."
+    }
+  ],
+  "prefixes": [
+    "Mega",
+    "Ultra",
+    "Super",
+    "Hyper",
+    "Neo",
+    "Prime",
+    "Alpha",
+    "Beta",
+    "Zenith",
+    "Apex",
+    "Elite",
+    "Cosmic",
+    "Quantum",
+    "Pixel",
+    "Viral",
+    "Epic",
+    "Luxe",
+    "Nova",
+    "Mystic",
+    "Shadow"
+  ],
+  "suffixes": [
+    "Tech",
+    "Solutions",
+    "Innovations",
+    "Labs",
+    "Digital",
+    "Media",
+    "Group",
+    "Network",
+    "Systems",
+    "Ventures",
+    "Global",
+    "United",
+    "Dynamics",
+    "Creations",
+    "Forge",
+    "Hub",
+    "Works",
+    "Sphere",
+    "Stream",
+    "Pulse"
+  ]
+}

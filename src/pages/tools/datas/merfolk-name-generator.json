@@ -1,0 +1,93 @@
+{
+  "name": "Merfolk Name Generator",
+  "description": "Dive into the depths of creativity and discover your perfect merfolk name! Unearth mystical monikers fit for royalty of the reef or scoundrels of the sea. Whether you're writing a fantasy novel, role-playing, or just dreaming of life under the sea, this generator will help you find a name as unique and enchanting as the merfolk themselves.",
+  "slug": "merfolk-name-generator",
+  "icon": "\ud83e\udddc\u200d\u2640\ufe0f",
+  "introduction": "Ever wondered what you'd be called if you were a denizen of the deep? Our Merfolk Name Generator is your portal to an underwater world of imagination. Forget those boring human names! We're talking names that shimmer with the magic of the ocean, names that echo through coral castles, names that even Poseidon would envy. Get ready to make a splash!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new, totally fin-tastic merfolk name will appear.",
+    "Not feeling the first one? No problem! Keep clicking until you find the name that truly resonates with your inner mermaid or merman.",
+    "Want to get *really* creative? Mix and match prefixes and suffixes from different generated names to craft a truly unique moniker. Go wild \u2013 the ocean's the limit!",
+    "Once you've found your perfect name, share it with your friends and let them know you're ready to rule the underwater kingdom!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "Our generator creates a wide variety of merfolk names, from the regal and elegant to the mysterious and mischievous. Expect to see names that evoke the sounds of the ocean, the shimmering of scales, and the magic of the deep."
+    },
+    {
+      "question": "Are the names in this generator real?",
+      "answer": "Nope! These names are purely fictional and designed to spark your imagination. They're perfect for characters in your stories, online avatars, or just for fun!"
+    },
+    {
+      "question": "Can I use these names for my book/game/role-playing character?",
+      "answer": "Absolutely! That's what they're here for. Feel free to use any name generated to bring your merfolk characters to life."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart (or gills) desires! There's no limit to the number of names you can generate. Keep clicking until you find the perfect one."
+    },
+    {
+      "question": "Will the names always be different?",
+      "answer": "We've got a vast library of prefixes and suffixes, so it's highly unlikely you'll see the exact same name twice in a row. However, with enough generating, some names might repeat eventually. But hey, even the ocean has its tides!"
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love to hear your ideas! While we can't guarantee we'll add every suggestion, we're always looking for ways to improve our generator. Send your name ideas our way!"
+    }
+  ],
+  "prefixes": [
+    "Aqua",
+    "Mari",
+    "Coral",
+    "Tide",
+    "Wave",
+    "Sea",
+    "Deep",
+    "Siren",
+    "Nere",
+    "Ocea",
+    "Pearl",
+    "Reef",
+    "Fin",
+    "Scale",
+    "Shimmer",
+    "Glimmer",
+    "Abyss",
+    "Hydro",
+    "Myst",
+    "Levi",
+    "Sargasso",
+    "Kelp",
+    "Lagoon",
+    "Current",
+    "Brine"
+  ],
+  "suffixes": [
+    "ia",
+    "us",
+    "ar",
+    "ina",
+    "on",
+    "an",
+    "el",
+    "elle",
+    "yn",
+    "yx",
+    "is",
+    "a",
+    "o",
+    "i",
+    "ea",
+    "sea",
+    "fin",
+    "tail",
+    "crest",
+    "wave",
+    "tide",
+    "son",
+    "daughter",
+    "gard",
+    "mere"
+  ]
+}

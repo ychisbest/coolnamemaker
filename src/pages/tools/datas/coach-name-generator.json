@@ -1,0 +1,84 @@
+{
+  "name": "Coach Name Generator",
+  "description": "Struggling to find the perfect moniker for your coaching empire? Fear no more! Our Coach Name Generator conjures up awesome, attention-grabbing names that'll have clients flocking to your door. Get ready to unleash your inner guru!",
+  "slug": "coach-name-generator",
+  "icon": "\ud83c\udfc6",
+  "introduction": "So, you're ready to inspire, motivate, and transform lives, but your current name is, well... a bit bland?  Don't let a boring name hold you back! Our generator is packed with powerful prefixes and suffixes designed to create a coaching brand that's as dynamic and impactful as you are. Let's find a name that screams 'success'!",
+  "howToUse": [
+    "1. Take a deep breath. (Seriously, coaching is hard work!)",
+    "2. Click the 'Generate' button. (Prepare for awesomeness.)",
+    "3. Keep clicking until a name resonates with your coaching style and target audience. (Don't settle for 'meh'!)",
+    "4. Check if the name (and a matching domain!) are available. (Snatch it up before someone else does!)",
+    "5.  Spread the word and start changing lives! (All thanks to your killer new name, of course.)"
+  ],
+  "faqs": [
+    {
+      "question": "How does this generator actually work?",
+      "answer": "Magic! Just kidding (sort of). It combines a carefully curated list of prefixes and suffixes related to coaching, motivation, and success to create unique and catchy names."
+    },
+    {
+      "question": "Are the names generated actually any good?",
+      "answer": "We think so! But ultimately, the best name is one that resonates with *you* and your ideal clients. Keep generating until you find the perfect fit!"
+    },
+    {
+      "question": "Can I use these names for my business?",
+      "answer": "Absolutely! Once you find a name you love, it's yours to use (as long as it's not already trademarked, so do your research!)."
+    },
+    {
+      "question": "Is the Coach Name Generator free to use?",
+      "answer": "You betcha! Use it as many times as you like to find that perfect name. We're all about empowering coaches (with awesome names!)."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "No sweat! Just keep hitting that 'Generate' button.  Or, get inspired by the names you see and brainstorm your own variations. The possibilities are endless!"
+    },
+    {
+      "question": "Will this guarantee my success as a coach?",
+      "answer": "While a great name is a fantastic start, it's just one piece of the puzzle. You still need to be an amazing coach! But hey, a memorable name definitely helps!"
+    }
+  ],
+  "prefixes": [
+    "Peak",
+    "Elevate",
+    "Ignite",
+    "Unleash",
+    "Empower",
+    "Thrive",
+    "Momentum",
+    "Catalyst",
+    "Synergy",
+    "Visionary",
+    "Limitless",
+    "Ascend",
+    "Zenith",
+    "Apex",
+    "Quantum",
+    "Resilient",
+    "Clarity",
+    "Focus",
+    "Purpose",
+    "Authentic"
+  ],
+  "suffixes": [
+    "Coaching",
+    "Solutions",
+    "Strategies",
+    "Dynamics",
+    "Pathways",
+    "Momentum",
+    "Catalyst",
+    "Evolution",
+    "Institute",
+    "Group",
+    "Collective",
+    "Advisors",
+    "Ventures",
+    "Unlimited",
+    "Ascension",
+    "Zenith",
+    "Apex",
+    "Mastery",
+    "Transform",
+    "Achieve"
+  ]
+}

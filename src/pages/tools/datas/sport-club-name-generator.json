@@ -1,0 +1,85 @@
+{
+  "name": "Sport Club Name Generator",
+  "description": "Stuck in a naming rut for your new sports club? Fear not, future champions! Our Sport Club Name Generator is here to unleash a torrent of awesome, memorable, and utterly unique names that will have rivals trembling and fans roaring. Get ready to dominate the league... starting with the perfect name!",
+  "slug": "sport-club-name-generator",
+  "icon": "\ud83c\udfc6",
+  "introduction": "So, you're starting a sports club? Awesome! But before you conquer the world, you need a name. Something that screams victory, inspires teamwork, and, let's be honest, looks great on a banner. Our generator mixes power, prestige, and a dash of pure fun to create names that are anything but ordinary. Whether you're into soccer, basketball, quidditch (we don't judge!), we've got the name to get you noticed.",
+  "howToUse": [
+    "First, mentally prepare yourself for an onslaught of awesomeness. Seriously, some of these names are *that* good.",
+    "Next, smash that 'Generate' button like you're scoring the winning goal in the championship game!",
+    "Scroll through the list of names. Prepare to be amazed. Prepare to be inspired.",
+    "Found a name you love? Fantastic! Write it down, shout it from the rooftops, and start designing your team logo!",
+    "Don't see the perfect name yet? No problem! Just keep generating until you find the one that resonates with your sporting soul. We've got endless possibilities!",
+    "Pro Tip: Mix and match prefixes and suffixes for truly unique combinations. Go wild!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually any good, or is it just AI hype?",
+      "answer": "We've poured our heart and soul (and a whole lot of sports knowledge) into this generator. While AI helps, the real magic comes from our carefully curated lists of prefixes and suffixes designed to evoke the spirit of competition and camaraderie. So yes, it's *damn* good."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once you find a name you love, it's yours to use. We just ask that you credit coolnamemaker.com if you mention where you got the idea. But mostly, go forth and conquer!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! We have a vast database of prefixes and suffixes, so you're bound to find something that clicks. Or, get creative and mix and match elements from different names!"
+    },
+    {
+      "question": "Does it matter what sport my club plays?",
+      "answer": "Nope! Our generator is designed to be versatile. Whether you're running a dodgeball league or a synchronized swimming team, you'll find a name that fits. We've got names that evoke power, speed, strategy, and pure, unadulterated fun."
+    },
+    {
+      "question": "Help! I can't decide between two names!",
+      "answer": "Ah, the agony of choice! Here's a suggestion: put both names to a vote amongst your team members. Or, flip a coin. Or, just go with your gut. Trust us, you'll make the right decision."
+    },
+    {
+      "question": "Are the generated names trademarked?",
+      "answer": "We do our best to provide unique names, but it's always a good idea to do a quick trademark search to ensure your chosen name isn't already in use. Better safe than sorry!"
+    }
+  ],
+  "prefixes": [
+    "Apex",
+    "Titan",
+    "Velocity",
+    "Zenith",
+    "Phoenix",
+    "Storm",
+    "Elite",
+    "Vanguard",
+    "Quantum",
+    "Radiant",
+    "United",
+    "Global",
+    "Iron",
+    "Crimson",
+    "Azure",
+    "Lunar",
+    "Solar",
+    "Royal",
+    "Supreme",
+    "Dynamic"
+  ],
+  "suffixes": [
+    "FC",
+    "United",
+    "Athletics",
+    "Sports",
+    "Club",
+    "Academy",
+    "Warriors",
+    "Titans",
+    "Eagles",
+    "Lions",
+    "Sharks",
+    "Falcons",
+    "Strikers",
+    "Rovers",
+    "Dynamo",
+    "Rangers",
+    "Stars",
+    "Galaxy",
+    "Phoenix",
+    "United"
+  ]
+}

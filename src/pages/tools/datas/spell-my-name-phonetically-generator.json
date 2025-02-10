@@ -1,0 +1,63 @@
+{
+  "name": "Spell My Name Phonetically Generator",
+  "description": "Ever wonder how your name *really* sounds? Ditch the boring spelling and discover the rockstar phonetic version with our generator! Unleash your inner sound wave and make introductions unforgettable.",
+  "slug": "spell-my-name-phonetically-generator",
+  "icon": "\ud83d\udde3\ufe0f",
+  "introduction": "Tired of the same old 'Hi, I'm...' routine? Our Spell My Name Phonetically Generator is here to inject some serious fun into introductions. Whether you're looking to spice up your online persona, create a catchy nickname, or just see your name in a brand new light, we've got you covered. Get ready to sound out loud!",
+  "howToUse": [
+    "First, type your name into the box. (Yes, even *your* complicated one!)",
+    "Next, click the 'Generate' button. (Prepare for awesomeness!)",
+    "Voila! Your name, phonetically spelled out for maximum impact. (Use with caution...may cause excessive coolness.)",
+    "Copy and paste your new phonetic name wherever you desire! (Social media, email signatures, secret agent missions...the possibilities are endless!)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually accurate?",
+      "answer": "We strive for phonetic perfection, but let's be real, pronunciation is a wild ride. Consider this more of a 'fun approximation' than a linguistics lecture."
+    },
+    {
+      "question": "Can I use this for business purposes?",
+      "answer": "Absolutely! Imagine the branding potential! Just picture 'Acme Corp' phonetically spelled out. Pure genius, right?"
+    },
+    {
+      "question": "What if my name is super short or super long?",
+      "answer": "Bring it on! We're equipped to handle names of all shapes and sizes. From 'Al' to 'Alexandriacontantinople', we've got a phonetic solution for you."
+    },
+    {
+      "question": "My generated name looks...weird. Is that normal?",
+      "answer": "Weird is our specialty! Embrace the phonetic oddity. It's what makes you unique (and possibly a meme)."
+    },
+    {
+      "question": "Will using a phonetic spelling of my name confuse people?",
+      "answer": "Probably! But that's half the fun. Think of it as a conversation starter. 'Hi, I'm [phonetic name]. Yes, it's spelled that way. Let me explain...'"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yep! Unleash your phonetic potential without spending a dime. We're all about spreading the sound-out-loud love."
+    }
+  ],
+  "prefixes": [
+    "",
+    "The ",
+    "A ",
+    "Super ",
+    "Ultra ",
+    "Mega ",
+    "Hyper ",
+    "Dr. ",
+    "Professor ",
+    "Captain "
+  ],
+  "suffixes": [
+    "",
+    " - The Phonetic One",
+    " - Sounds Like...",
+    " - As Heard By...",
+    " - Of the Phonetic Realm",
+    " - The Articulator",
+    " - Phonetically Speaking",
+    " - The Sound Master",
+    " - Audio Alchemist",
+    " - The Voice Virtuoso"
+  ]
+}

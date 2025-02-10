@@ -1,0 +1,84 @@
+{
+  "name": "Ghost Name Generator",
+  "description": "Unleash your inner phantom with our Ghost Name Generator! Find the perfect spooky alias for your spectral adventures. Whether you're haunting a castle, writing a ghost story, or just feeling a little...transparent, we've got you covered.",
+  "slug": "ghost-name-generator",
+  "icon": "\ud83d\udc7b",
+  "introduction": "Feeling a little\u2026 *unseen*? Need a name that whispers from beyond the grave? Our Ghost Name Generator is here to help you conjure the perfect moniker. From chillingly classic to spookily unique, discover a name that will send shivers down spines and make you the talk (or the *silent drift*) of the spectral realm.",
+  "howToUse": [
+    "Simply click the 'Generate' button and *poof!* A ghostly name appears before your very eyes.",
+    "Don't like what you see? No problem! Click again for a fresh, bone-chilling suggestion.",
+    "Mix and match prefixes and suffixes for a truly personalized haunting experience. Get creative!",
+    "Share your spooky new name with friends and family (if they dare).",
+    "Use your new name in games, stories, or even as a fun online alias. The possibilities are as endless as the afterlife!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the Ghost Name Generator work?",
+      "answer": "It's all smoke and mirrors... or rather, algorithms and carefully curated lists of ghostly prefixes and suffixes! We combine them in spooky ways to create unique and memorable names."
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "Absolutely! Once the name is generated, it's yours to use as you please. Haunt away!"
+    },
+    {
+      "question": "Are the names copyrighted?",
+      "answer": "Nope! The generated names are completely original and free for you to use. No need to worry about spectral lawyers."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always open to suggestions! Send us your spookiest ideas, and we might just add them to the generator."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With countless combinations, you're bound to find a name that tickles your spectral fancy. Or, you know, just feels right for your haunting style."
+    },
+    {
+      "question": "Is this generator actually haunted?",
+      "answer": "We can neither confirm nor deny the presence of paranormal activity within the code. Use at your own risk... and keep the lights on!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Specter",
+    "Phantom",
+    "Ghastly",
+    "Wraith",
+    "Ecto",
+    "Soul",
+    "Banshee",
+    "Polter",
+    "Appari",
+    "Dusk",
+    "Night",
+    "Gloom",
+    "Shade",
+    "Mist",
+    "Crypt",
+    "Grave",
+    "Tomb",
+    "Bone",
+    "Death"
+  ],
+  "suffixes": [
+    "wood",
+    "mire",
+    "gloom",
+    "shade",
+    "howl",
+    "whisper",
+    "veil",
+    "geist",
+    "spectre",
+    "walker",
+    "seer",
+    "shroud",
+    "chill",
+    "specter",
+    "geist",
+    "bane",
+    "scythe",
+    "maw",
+    "mourn",
+    "cry"
+  ]
+}

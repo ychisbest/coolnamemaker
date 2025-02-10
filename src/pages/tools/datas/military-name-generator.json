@@ -1,0 +1,104 @@
+{
+  "name": "Military Name Generator",
+  "description": "Need a callsign that screams authority? Or maybe a codename so badass, even the enemy trembles? Our Military Name Generator is locked, loaded, and ready to deploy the perfect moniker for you!",
+  "slug": "military-name-generator",
+  "icon": "\ud83e\ude96",
+  "introduction": "Forget 'John Doe' and 'Jane Smith'. In the theater of operations, you need a name that commands respect. Whether you're writing a military thriller, creating a character for a game, or just looking for a cool nickname, our generator will arm you with a title worthy of a five-star general. Prepare for action!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Witness the birth of an epic military name. (It's like watching a tiny, name-shaped rocket launch!)",
+    "Don't like the result? Click 'Generate' again! We've got enough names to conquer the world... several times over.",
+    "Copy and paste your chosen name into your project, character sheet, or even engrave it on your dog tags. (Okay, maybe not the dog tags... unless your dog is REALLY important.)",
+    "Go forth and conquer... the world of creativity! (Or your video game. Whatever.)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually used by the military?",
+      "answer": "Highly unlikely. Real military names are usually much more boring and involve lots of paperwork. We're here for the fun, not the bureaucracy!"
+    },
+    {
+      "question": "Can I use these names for my novel?",
+      "answer": "Absolutely! That's what it's here for! Just remember to credit coolnamemaker.com if you become a bestseller. (We accept royalties in the form of chocolate.)"
+    },
+    {
+      "question": "Are the names generated offensive?",
+      "answer": "We strive to keep things PG-13. However, the nature of military jargon can sometimes lead to names that might be considered 'intense'. Use your best judgement."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! We have an endless supply of awesome military names, just waiting to be unleashed."
+    },
+    {
+      "question": "I got a really weird name. What do I do?",
+      "answer": "Embrace the weirdness! Sometimes the most memorable names are the ones that are a little\u2026 off. Or, you know, just click 'Generate' again. No judgement here."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "You bet! Send us your suggestions through our contact form. We're always looking for ways to make our generator even more awesome!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Viper",
+    "Eagle",
+    "Iron",
+    "Steel",
+    "Ghost",
+    "Delta",
+    "Bravo",
+    "Echo",
+    "Sierra",
+    "Whiskey",
+    "Renegade",
+    "Maverick",
+    "Rogue",
+    "Phoenix",
+    "Spectre",
+    "Titan",
+    "Wraith",
+    "Comet",
+    "Nomad",
+    "Thunder",
+    "Blaze",
+    "Frost",
+    "Crimson",
+    "Phantom",
+    "Dragon",
+    "Cobra",
+    "Hammer",
+    "Anvil",
+    "Spartan"
+  ],
+  "suffixes": [
+    "Strike",
+    "Hawk",
+    "Wolf",
+    "Hammer",
+    "Blade",
+    "Fury",
+    "Claw",
+    "Storm",
+    "Fire",
+    "Reaper",
+    "Hunter",
+    "Vanguard",
+    "Sentinel",
+    "Guardian",
+    "Enforcer",
+    "Warrior",
+    "Avenger",
+    "Raider",
+    "Destroyer",
+    "Marauder",
+    "Gladiator",
+    "Crusader",
+    "Paladin",
+    "Legion",
+    "Brigade",
+    "Battalion",
+    "Squad",
+    "Force",
+    "Command",
+    "Ops"
+  ]
+}

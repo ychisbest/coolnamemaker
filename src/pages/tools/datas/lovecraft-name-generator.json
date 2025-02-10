@@ -1,0 +1,91 @@
+{
+  "name": "Lovecraft Name Generator",
+  "description": "Unleash the cosmic horror within! Generate names worthy of the ancient ones with our Lovecraftian name generator. Perfect for your next RPG character, story, or just embracing the existential dread.",
+  "slug": "lovecraft-name-generator",
+  "icon": "\ud83d\udc19",
+  "introduction": "Dare to delve into the abyss of nomenclature with our Lovecraft Name Generator! Craft names dripping with eldritch power, perfect for cult leaders, forgotten gods, or just adding a touch of cosmic dread to your day. Prepare to name the unnameable!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the birth of a name ripped from the pages of the Necronomicon!",
+    "Feeling adventurous? Keep clicking until you find a name that whispers secrets of forgotten aeons to your very soul.",
+    "Customize your results by mixing and matching prefixes and suffixes to create truly unique and terrifying names.",
+    "Don't forget to share your abominable creations with your fellow Lovecraftian enthusiasts!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "This generator conjures names inspired by the works of H.P. Lovecraft, often featuring archaic language, unusual sounds, and hints of cosmic horror."
+    },
+    {
+      "question": "Can I use these names for my RPG character?",
+      "answer": "Absolutely! These names are perfect for characters in Call of Cthulhu, Delta Green, or any other game where sanity is optional."
+    },
+    {
+      "question": "Are the names generated truly original?",
+      "answer": "While the generator uses a combination of prefixes and suffixes, the sheer number of possibilities ensures that many names will be unique or very rare. We encourage you to get creative and tweak the results to your liking!"
+    },
+    {
+      "question": "Is this generator safe to use?",
+      "answer": "As safe as staring into the abyss can be! Side effects may include heightened paranoia, a sudden urge to learn ancient languages, and the occasional visit from beings beyond human comprehension. Use with caution\u2026or don\u2019t. We're not responsible for any sanity loss."
+    },
+    {
+      "question": "Can I suggest new prefixes and suffixes?",
+      "answer": "We're always open to expanding our collection of eldritch vocabulary! Feel free to submit your suggestions. If they adequately invoke the Great Old Ones, we'll add them."
+    },
+    {
+      "question": "Will using these names attract unwanted attention from cosmic entities?",
+      "answer": "That's... certainly a possibility. We recommend keeping a copy of the Necronomicon handy, just in case. And maybe some salt. Lots of salt."
+    }
+  ],
+  "prefixes": [
+    "Azath",
+    "Nyarlath",
+    "Cthul",
+    "Yog",
+    "Sotha",
+    "Hast",
+    "Shub",
+    "Dagon",
+    "Ithaqua",
+    "Tsathog",
+    "R'lyeh",
+    "Kadath",
+    "Innsmouth",
+    "Arkham",
+    "Dunwich",
+    "Miskatonic",
+    "Eldritch",
+    "Ancient",
+    "Forgotten",
+    "Abyssal",
+    "Cyclopean",
+    "Euclidean"
+  ],
+  "suffixes": [
+    "oth",
+    "athep",
+    "ogoth",
+    "othoa",
+    "ogghu",
+    "oth'gg",
+    "og-shu",
+    "lyeh",
+    "goroth",
+    "oth-egg",
+    "ron",
+    "ogg",
+    "oth-ron",
+    "oth-gor",
+    "oth-shu",
+    "oth-ron-egg",
+    "oth-gor-shu",
+    "oth-ron-gor",
+    "oth-shu-egg",
+    "oth-gor-egg",
+    "oth-ron-shu",
+    "oth-gor-ron",
+    "oth-shu-gor",
+    "oth-egg-ron",
+    "oth-egg-gor",
+    "oth-egg-shu"
+  ]
+}

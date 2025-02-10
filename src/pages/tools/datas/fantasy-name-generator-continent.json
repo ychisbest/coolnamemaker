@@ -1,0 +1,104 @@
+{
+  "name": "Fantasy Continent Name Generator",
+  "description": "Struggling to come up with the perfect name for your fantasy world's continents? Fear not, adventurer! Our generator conjures up epic and evocative continent names, ready to breathe life into your maps and legends. Prepare to be inspired!",
+  "slug": "fantasy-continent-name-generator",
+  "icon": "\ud83d\uddfa\ufe0f",
+  "introduction": "Every great fantasy world needs continents with names that resonate with history, mystery, and a touch of magic. But sometimes, the creative well runs dry. That's where we come in! This generator blends classic fantasy tropes with a sprinkle of the unexpected, delivering continent names that are both believable and unforgettable. Unleash your inner Tolkien!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new continent name appears. It's like magic, but without the pesky side effects (unless you count an overwhelming urge to write epic fantasy).",
+    "Don't like the first result? No sweat! Click again for a fresh concoction. We've got enough combinations to name every continent on a dozen different worlds.",
+    "Feeling inspired? Use the generated name as a starting point and tweak it to perfection. Add a personal touch, a historical reference, or a dash of pure whimsy. The only limit is your imagination!",
+    "Share your favorite names with your fellow world-builders! Spread the inspiration and let the creativity flow."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Consider it our gift to the world of fantasy. Go forth and create!"
+    },
+    {
+      "question": "Can I use these names in my published work?",
+      "answer": "Yes, you're free to use the generated names in your stories, games, and other creative projects. No attribution required (though we always appreciate a shout-out!)."
+    },
+    {
+      "question": "How does the generator create these names?",
+      "answer": "We've compiled a vast database of fantasy-inspired prefixes and suffixes, then combined them using a proprietary algorithm that's part magic, part science, and a whole lot of fun."
+    },
+    {
+      "question": "Will the generator ever run out of names?",
+      "answer": "With the sheer number of possible combinations, it's highly unlikely. But if it ever happens, we'll just add more prefixes and suffixes! The possibilities are endless."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions, and we'll consider adding them to our database. Help us make this generator even more awesome!"
+    },
+    {
+      "question": "Are the generated names culturally sensitive?",
+      "answer": "We strive to create names that are evocative and imaginative while avoiding any cultural appropriation or insensitivity. However, we encourage you to consider the context of your world and make any necessary adjustments to ensure your naming conventions are respectful and appropriate."
+    }
+  ],
+  "prefixes": [
+    "Eld",
+    "North",
+    "South",
+    "West",
+    "East",
+    "Aether",
+    "Shadow",
+    "Crimson",
+    "Silver",
+    "Golden",
+    "Whisper",
+    "Storm",
+    "Sun",
+    "Moon",
+    "Star",
+    "Dragon",
+    "Gryphon",
+    "Phoenix",
+    "Mystic",
+    "Ancient",
+    "New",
+    "Lost",
+    "Forgotten",
+    "Emerald",
+    "Obsidian",
+    "Iron",
+    "Steel",
+    "Stone",
+    "Glass",
+    "Crystal"
+  ],
+  "suffixes": [
+    "ia",
+    "land",
+    "gard",
+    "haven",
+    "wood",
+    "shire",
+    "mark",
+    "heim",
+    "mere",
+    "dale",
+    "mount",
+    "reach",
+    "coast",
+    "sea",
+    "isle",
+    "port",
+    "city",
+    "hold",
+    "wall",
+    "end",
+    "fall",
+    "song",
+    "wind",
+    "vale",
+    "cliff",
+    "ford",
+    "pass",
+    "gate",
+    "spire",
+    "peak",
+    "crest"
+  ]
+}

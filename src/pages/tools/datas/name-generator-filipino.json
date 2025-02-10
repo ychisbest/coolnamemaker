@@ -1,0 +1,68 @@
+{
+  "name": "Filipino Name Generator",
+  "description": "Unleash your inner Filipino spirit! Need a cool, authentic-sounding name for your character, story, or online persona? This generator has you covered. Get ready to discover a name that's as vibrant and unique as the Philippines themselves!",
+  "slug": "filipino-name-generator",
+  "icon": "\ud83c\uddf5\ud83c\udded",
+  "introduction": "Mabuhay! Welcome to the Filipino Name Generator, where tradition meets creativity! Whether you're writing a novel set in Manila, creating a character for a role-playing game, or just curious about Filipino names, this tool will help you find the perfect moniker. We've blended classic Filipino elements with a touch of modern flair to give you a diverse range of name options that are both meaningful and memorable.",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new Filipino name appears before your very eyes.",
+    "Not feeling the first result? No worries! Keep clicking until you find a name that truly resonates with your inner self (or your fictional character).",
+    "Want something *extra* special? Mix and match prefixes and suffixes from the lists below! Get creative and craft a name that's uniquely YOU.",
+    "Share your awesome new name with the world! (Or at least with your friends on social media).",
+    "Pro Tip: Say the names out loud! Some Filipino names have a beautiful rhythm and flow that you'll only appreciate when you hear them."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually Filipino?",
+      "answer": "Absolutely! We've curated a list of prefixes and suffixes based on common Filipino names, words, and cultural references. While the combinations are generated, the elements are authentically Filipino."
+    },
+    {
+      "question": "Can I use these names for my baby?",
+      "answer": "While we think these names are pretty awesome, we always recommend doing your own research to ensure the name is right for your child. Consider family history, cultural significance, and personal meaning."
+    },
+    {
+      "question": "What do the names mean?",
+      "answer": "The meaning of a generated name will depend on the specific prefixes and suffixes used. Many Filipino names are derived from Spanish, English, or indigenous languages. You can research the individual components to get a better understanding of the overall meaning."
+    },
+    {
+      "question": "Is this generator only for people of Filipino descent?",
+      "answer": "Not at all! Anyone can use this generator to explore Filipino culture and find a unique and interesting name. We encourage everyone to learn more about the Philippines and its rich heritage."
+    },
+    {
+      "question": "Can I contribute to the list of prefixes and suffixes?",
+      "answer": "We'd love to hear your suggestions! Please feel free to contact us with any ideas you have for improving the generator. We're always looking for ways to make it even better!"
+    },
+    {
+      "question": "The name generated sounds a bit weird, is it normal?",
+      "answer": "Sometimes the combination of prefixes and suffixes can result in a name that sounds unusual or even funny. That's part of the fun! Feel free to keep generating until you find one you like, or mix and match manually for a more tailored result."
+    }
+  ],
+  "prefixes": [
+    "Lakan",
+    "Maria",
+    "Jose",
+    "Andres",
+    "Liway",
+    "Mayumi",
+    "Sampag",
+    "Diwa",
+    "Tagil",
+    "Amihan",
+    "Kidlat",
+    " Tala"
+  ],
+  "suffixes": [
+    "bayan",
+    "lahi",
+    "ning",
+    "ito",
+    "ganda",
+    "say",
+    "lina",
+    "ngan",
+    "son",
+    "dor",
+    "ario",
+    "riel"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "name": "Wicked Witch Name Generator",
+  "description": "Unleash your inner enchantress with our wickedly delightful Witch Name Generator! Craft unique and spellbinding names that perfectly capture your mystical essence. Ready to brew up some magic?",
+  "slug": "witch-names-female-generator",
+  "icon": "\ud83e\uddd9\u200d\u2640\ufe0f",
+  "introduction": "Ever felt a pull towards the mystical? A whisper of magic in your soul? Then you're probably a witch (or at least witch-curious!). And every witch needs a proper, powerful name. Ditch the mundane and embrace the arcane with our Witch Name Generator. We'll help you conjure up the perfect moniker to match your magical prowess and personality. Whether you're a green witch, a hedge witch, or just a witch who loves a good cauldron, we've got a name for you!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the awesomeness of your new witch name.",
+    "If you're not feeling it, mash that button again! We've got more names than a grimoire has spells.",
+    "Once you find a name that resonates with your soul, write it down in your Book of Shadows (or, you know, a note on your phone).",
+    "Go forth and bewitch! (Responsibly, of course.)"
+  ],
+  "faqs": [
+    {
+      "question": "Will these names actually give me magical powers?",
+      "answer": "While we can't guarantee instant sorcery, a truly awesome witch name can certainly boost your confidence and help you embrace your inner magic. Think of it as a magical placebo!"
+    },
+    {
+      "question": "Are these names only for female witches?",
+      "answer": "While the generator is designed for female identifying individuals, magic knows no gender! Feel free to use any name that resonates with you, regardless of your gender identity."
+    },
+    {
+      "question": "Can I use these names in my fantasy novel?",
+      "answer": "Absolutely! We encourage you to use these names as inspiration for your creative endeavors. Just remember where you got them! \ud83d\ude09"
+    },
+    {
+      "question": "Are the names generated random?",
+      "answer": "Yes, the names are generated using a combination of carefully curated prefixes and suffixes, creating unique and unpredictable results every time. A dash of algorithm, a pinch of magic!"
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep generating! With countless combinations, you're bound to find a name that speaks to your witchy soul. Or, use it as a starting point and tweak it to your liking. Magic is all about customization, after all!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yes, this generator is completely free to use! Spread the magic and share it with your witchy friends."
+    }
+  ],
+  "prefixes": [
+    "Willow",
+    "Raven",
+    "Hazel",
+    "Luna",
+    "Sage",
+    "Briar",
+    "Aster",
+    "Nyx",
+    "Lilith",
+    "Morgana",
+    "Seraphina",
+    "Belladonna",
+    "Rowan",
+    "Opal",
+    "Garnet",
+    "Onyx",
+    "Scarlett",
+    "Winter",
+    "Storm",
+    "Shadow",
+    "Moon",
+    "Ember",
+    "Frost",
+    "Dawn",
+    "Twilight",
+    "Veridian"
+  ],
+  "suffixes": [
+    "whisper",
+    "spell",
+    "bane",
+    "shade",
+    "moon",
+    "bloom",
+    "wood",
+    "night",
+    "song",
+    "charm",
+    "stone",
+    "thorn",
+    "grove",
+    "mist",
+    "wind",
+    "fire",
+    "heart",
+    "wing",
+    "dream",
+    "veil",
+    "light",
+    "gaze",
+    "rune",
+    "flame",
+    "dew",
+    "spirit"
+  ]
+}

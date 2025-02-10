@@ -1,0 +1,106 @@
+{
+  "name": "Fallout: New Vegas Name Generator",
+  "description": "Dust off your Pip-Boy and get ready to hit the Mojave Wasteland with a name that's as iconic as a Sunset Sarsaparilla! Our Fallout: New Vegas Name Generator will craft the perfect moniker for your lone wanderer, whether you're a smooth-talking diplomat, a trigger-happy gunslinger, or just trying to survive another day.",
+  "slug": "fallout-new-vegas-name-generator",
+  "icon": "\u2622\ufe0f",
+  "introduction": "So, you're about to brave the irradiated landscape of New Vegas? Excellent choice! But before you face off against Deathclaws, Caesar's Legion, and the mysteries of the Mojave, you need a name that screams 'survivor' (or at least, 'interesting individual'). Our generator mixes the grit, humor, and sheer weirdness of Fallout to give you a name that'll fit right in. No rads guaranteed (name quality may vary based on user input).",
+  "howToUse": [
+    "First, ponder your character's vibe: Are they a smooth-talking charmer? A ruthless mercenary? Or just someone who really, *really* likes bottle caps?",
+    "Then, mash that 'Generate' button like you're trying to win a prize at the Atomic Wrangler! (But, you know, gently. Don't break anything.)",
+    "If the first name isn't quite right, keep hitting it! We've got more combinations than there are flavors of Mentats.",
+    "Found a name you love? Awesome! Now go forth and conquer (or at least, survive) the Mojave Wasteland. Don't forget to tell everyone where you got your amazing name!"
+  ],
+  "faqs": [
+    {
+      "question": "Will this generator give me a lore-accurate name?",
+      "answer": "We strive for authenticity! While we can't guarantee absolute lore perfection, we've packed this generator with elements inspired by Fallout: New Vegas's characters, locations, and general vibe. Think of it as 95% accurate, 5% pure wasteland chaos."
+    },
+    {
+      "question": "Can I use these names for characters in other games or stories?",
+      "answer": "Absolutely! While this generator is geared towards Fallout: New Vegas, feel free to adapt these names for any post-apocalyptic or sci-fi setting. We won't tell the Enclave."
+    },
+    {
+      "question": "Are the generated names trademarked?",
+      "answer": "Nope! These names are generated, unique combinations. You're free to use them as you see fit. Just don't try to copyright 'Courier Six' - that one's taken."
+    },
+    {
+      "question": "I got a really weird name. Is the generator broken?",
+      "answer": "Probably not! Fallout is known for its quirky characters and bizarre situations. A weird name might just be perfect for your eccentric wasteland wanderer. Embrace the weirdness!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We're always open to suggestions! Send us your ideas through our contact form on coolnamemaker.com, and we'll see if we can add them to the mix. The more Mojave-inspired, the better!"
+    },
+    {
+      "question": "Will this generator help me win at Caravan?",
+      "answer": "Sadly, no. This generator is for names only. You'll have to rely on your own cunning (and a good deck of cards) to dominate at Caravan."
+    }
+  ],
+  "prefixes": [
+    "Lucky",
+    "Desert",
+    "Mojave",
+    "Vault",
+    "Courier",
+    "Sunset",
+    "NCR",
+    "Legion",
+    "Boomer",
+    "Great Khan",
+    "Fiend",
+    "Brotherhood",
+    "Cyber",
+    "Atomic",
+    "Dusty",
+    "Whiskey",
+    "Cactus",
+    "Gecko",
+    "Rad",
+    "Vegas",
+    "Benny's",
+    "Yes Man",
+    "Victor's",
+    "Sunny",
+    "Primm",
+    "Novac",
+    "Freeside",
+    "Westside",
+    "Strip",
+    "Old World",
+    "Sierra Madre"
+  ],
+  "suffixes": [
+    "Slim",
+    "Jack",
+    "Kid",
+    "Joe",
+    "Bones",
+    "Starr",
+    "Six",
+    "Coyote",
+    "Ranger",
+    "Doc",
+    "Fixer",
+    "Gambler",
+    "Scavenger",
+    "Whisper",
+    "Shadow",
+    "Ghost",
+    "Viper",
+    "Thorn",
+    "Bard",
+    "Scribe",
+    "Knight",
+    "Paladin",
+    "Ace",
+    "Deuce",
+    "Queen",
+    "King",
+    "Joker",
+    "Dealer",
+    "Chips",
+    "Bottle",
+    "Cap",
+    "Courier"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Tolkien Elf Name Generator",
+  "description": "Unleash your inner Elf! Craft ethereal and enchanting names worthy of Middle-earth with our Tolkien Elf Name Generator. Perfect for your next D&D character, novel, or just for fun!",
+  "slug": "tolkien-elf-name-generator",
+  "icon": "\ud83e\udddd",
+  "introduction": "Ever dreamt of being an Elf striding through the forests of Lothl\u00f3rien or wielding a mighty bow in Mirkwood? Your journey begins with a name! Our Tolkien Elf Name Generator conjures up authentic-sounding Elvish names, drawing inspiration from Tolkien's rich lore and linguistic brilliance. Get ready to embrace your Elven heritage!",
+  "howToUse": [
+    "Simply hit that 'Generate' button and watch the magic happen! \u2728",
+    "Don't like the first result? No worries, we've got plenty more Elvish awesomeness where that came from. Keep clicking!",
+    "Feeling creative? Mix and match prefixes and suffixes to forge a truly unique Elven identity. Go wild!",
+    "Share your newly discovered Elven name with your friends and prepare for epic adventures in Middle-earth!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names *actually* Elvish?",
+      "answer": "While we can't guarantee direct translation from Tolkien's languages (Quenya and Sindarin), we've meticulously crafted names that capture the *feel* and *essence* of Elvish nomenclature. Think of it as Elvish-inspired awesomeness!"
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! These names are perfect for adding depth and authenticity to your Elven characters. Roll for initiative and let the adventure begin!"
+    },
+    {
+      "question": "Are the names male, female, or gender-neutral?",
+      "answer": "We've included a mix of names that sound traditionally masculine, feminine, and gender-neutral. Feel free to choose the one that resonates most with your Elven spirit!"
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're always striving to improve and expand our name database. Expect regular updates with new and exciting Elvish name combinations!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form and we'll consider adding them to the generator. Help us make it even more Elvish-tastic!"
+    },
+    {
+      "question": "Is this generator endorsed by the Tolkien Estate?",
+      "answer": "Nope! This is a fan-made tool, created with love and admiration for Tolkien's work. We're just here to help you find the perfect name for your Elven alter ego."
+    }
+  ],
+  "prefixes": [
+    "Aer",
+    "El",
+    "Gal",
+    "Lin",
+    "Nim",
+    "Sil",
+    "Voron",
+    "Ar",
+    "Fin",
+    "Idh",
+    "Laer",
+    "Mel",
+    "Ori",
+    "Taur",
+    "Van",
+    "Yav",
+    "And",
+    "Bar",
+    "Cal",
+    "Dor",
+    "Eryn",
+    "Fal",
+    "Glan",
+    "Hil",
+    "Ilm",
+    "Kal",
+    "Lan",
+    "Mir",
+    "Nar",
+    "On",
+    "Pal",
+    "Quel",
+    "Ran",
+    "Sar",
+    "Tal",
+    "Ulf",
+    "Val",
+    "Wyn"
+  ],
+  "suffixes": [
+    "dir",
+    "iel",
+    "ion",
+    "las",
+    "nor",
+    "wen",
+    "andir",
+    "anor",
+    "eth",
+    "iel",
+    "ion",
+    "las",
+    "lind",
+    "loth",
+    "mir",
+    "niel",
+    "onwe",
+    "quel",
+    "rian",
+    "sir",
+    "tan",
+    "wen",
+    "anor",
+    "dir",
+    "el",
+    "find",
+    "galad",
+    "hil",
+    "ion",
+    "kil",
+    "lind",
+    "miriel",
+    "nor",
+    "on",
+    "pil",
+    "riel",
+    "sil",
+    "til",
+    "van",
+    "wyn"
+  ]
+}

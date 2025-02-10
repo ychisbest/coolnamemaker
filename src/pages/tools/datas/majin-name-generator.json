@@ -1,0 +1,67 @@
+{
+  "name": "Majin Name Generator",
+  "description": "Unleash your inner Majin! Need a name that screams power and a touch of chaotic good (or maybe just chaotic)? Our Majin Name Generator is here to infuse your persona with the legendary might of the Majin clan. Get ready to dominate!",
+  "slug": "majin-name-generator",
+  "icon": "\ud83d\ude08",
+  "introduction": "Ever felt a surge of untamed energy? A desire to break the mold and leave your mark on the universe? Then you, my friend, are ready for a Majin name. This generator combines powerful syllables, mythical undertones, and a dash of pure, unadulterated awesome to forge a name worthy of a true Majin warrior. Prepare to be amazed!",
+  "howToUse": [
+    "First, embrace your inner chaos! (Just kidding... mostly.)",
+    "Click the 'Generate' button \u2013 it's like summoning a tiny, name-giving dragon.",
+    "Behold your new Majin name! If it doesn't make you feel at least 10% more powerful, hit 'Generate' again. Repeat until you're radiating Majin energy.",
+    "Share your awesome new name with the world! (Or keep it a secret weapon. Your call.)"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* a Majin?",
+      "answer": "Think powerful, magical beings with a penchant for, shall we say, *creative* destruction. They're forces of nature wrapped in a stylish package."
+    },
+    {
+      "question": "Can I use this name for my D&D character?",
+      "answer": "Absolutely! Your DM will tremble before the might of 'Majin Bob' (or whatever magnificent name you generate)."
+    },
+    {
+      "question": "Is this generator actually magical?",
+      "answer": "While we can't guarantee actual magic, the names it creates have been known to cause spontaneous bouts of awesomeness."
+    },
+    {
+      "question": "What if I don't like the name it generates?",
+      "answer": "No problem! Just hit the 'Generate' button again. We have an infinite supply of Majin-tastic names waiting to be unleashed."
+    },
+    {
+      "question": "Are these names copyrighted?",
+      "answer": "Nope! They're free for you to use in your stories, games, or even as your new online handle. Go wild!"
+    },
+    {
+      "question": "Can I use these names for my pet?",
+      "answer": "Definitely! Imagine calling your goldfish 'Majin Fin'! The possibilities are endless (and hilarious)."
+    }
+  ],
+  "prefixes": [
+    "Majin",
+    "Super Majin",
+    "Ultra Majin",
+    "Dark",
+    "Evil",
+    "Mystic",
+    "Shadow",
+    "Omega",
+    "Neo",
+    "Crimson",
+    "Inferno",
+    "Zenith"
+  ],
+  "suffixes": [
+    "Destroyer",
+    "Blaze",
+    "Rage",
+    "Chaos",
+    "Fury",
+    "Void",
+    "Nemesis",
+    "Khan",
+    "Zealot",
+    "Wraith",
+    "Tyrant",
+    "Dominator"
+  ]
+}

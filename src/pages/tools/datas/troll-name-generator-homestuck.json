@@ -1,0 +1,83 @@
+{
+  "name": "Homestuck Troll Name Generator",
+  "description": "Feeling like channeling your inner Gemini or perhaps a brooding Capricorn? Our Homestuck Troll Name Generator is here to help you conjure up the perfect, quirk-filled moniker worthy of Alternia itself!",
+  "slug": "homestuck-troll-name-generator",
+  "icon": "\ud83e\uddcc",
+  "introduction": "Dive headfirst into the wild world of Homestuck with a name that screams 'trollish mischief'! Whether you're a seasoned fan or just discovering the joys of wriggling grubhood, this generator will craft a unique and memorable troll name, perfect for your fanfic, roleplay, or just plain fun.",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's like summoning a sprite, but way less messy.",
+    "Feast your eyes on the freshly generated troll name! Admire its quirkiness. Bask in its glory.",
+    "Not quite feeling it? Hit 'Generate' again! We've got enough troll names to fill a meteor.",
+    "Copy your favorite name and unleash it upon the unsuspecting internet! Prepare for the lulz."
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* Homestuck?",
+      "answer": "Homestuck is an epic webcomic known for its complex plot, quirky characters, and unique use of internet culture. Think internet meta-fiction meets teenage drama, sprinkled with a healthy dose of cosmic horror."
+    },
+    {
+      "question": "Are these names 'official' Homestuck names?",
+      "answer": "While inspired by the naming conventions of Homestuck trolls, these names are generated. Think of them as 'fanon-approved' potential troll identities!"
+    },
+    {
+      "question": "Can I use these names for my Homestuck OC?",
+      "answer": "Absolutely! That's what they're here for! Go forth and create your fantroll masterpiece!"
+    },
+    {
+      "question": "Will this generator make me a good writer?",
+      "answer": "While we can't guarantee literary genius, a good name is a great start! The rest is up to you and your creative spark."
+    },
+    {
+      "question": "Is this generator safe to use?",
+      "answer": "Safer than a meteor shower, we promise! No grubs were harmed in the making of this generator."
+    },
+    {
+      "question": "Why are troll names so weird?",
+      "answer": "That's just how Hussie rolls! Embrace the weirdness, and you'll fit right in on Alternia."
+    }
+  ],
+  "prefixes": [
+    "Aradia",
+    "Tavros",
+    "Sollux",
+    "Karkat",
+    "Nepeta",
+    "Kanaya",
+    "Terezi",
+    "Vriska",
+    "Equius",
+    "Gamzee",
+    "Eridan",
+    "Feferi",
+    "Rufioh",
+    "Damara",
+    "Mituna",
+    "Meulin",
+    "Porrim",
+    "Latula",
+    "Aranea",
+    "Horuss",
+    "Kurloz",
+    "Cronus",
+    "Meenah"
+  ],
+  "suffixes": [
+    "Nitram",
+    "Makara",
+    "Captor",
+    "Serket",
+    "Pyrope",
+    "Zahhak",
+    "Peixes",
+    "Leijon",
+    "Maryam",
+    "Vantas",
+    "Ampora",
+    "Megido",
+    "Lalonde",
+    "Egbert",
+    "Strider",
+    "English",
+    "Harley"
+  ]
+}

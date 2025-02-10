@@ -1,0 +1,83 @@
+{
+  "name": "Game Show Name Generator",
+  "description": "Ready to host the next big hit? Our Game Show Name Generator will conjure up catchy, memorable names that'll have contestants lining up and audiences hooked! Ditch the brainstorming sessions and let us spark your creativity!",
+  "slug": "game-show-name-generator",
+  "icon": "\ud83c\udfa4",
+  "introduction": "Lights, camera, ACTION! But wait... what's the name of your dazzling new game show? Don't let a dull title dim your spotlight. Our generator is your secret weapon for crafting names that are as electrifying as the prizes you're giving away. Get ready to roll!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A fresh, exciting game show name will appear.",
+    "Don't like the first one? Keep clicking! We've got a whole vault of names just waiting to be unleashed.",
+    "Feeling inspired? Use the generated names as a jumping-off point for your own creative twists.",
+    "Share your favorite finds with your fellow game show enthusiasts. Let's spread the naming joy!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Consider it our gift to the world of game shows. Use it as much as your heart desires!"
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "You sure can! Once we generate it, it's yours to use, abuse, and build your game show empire upon. Just remember who helped you get there! \ud83d\ude09"
+    },
+    {
+      "question": "Will the generator come up with the same names every time?",
+      "answer": "Nope! We've got a vast library of prefixes and suffixes, ensuring a constant stream of fresh and unique names. Variety is the spice of life, and the key to a killer game show title!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! We're confident you'll find a gem eventually. Or, use the generated names as inspiration to create your own masterpiece!"
+    },
+    {
+      "question": "Does this generator guarantee my game show will be a success?",
+      "answer": "While we can't guarantee fame and fortune (we wish!), a catchy name is a crucial ingredient. Combine it with your killer concept, engaging host, and amazing prizes, and you'll be well on your way!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send them our way, and we'll see if we can add them to the mix. The more, the merrier!"
+    }
+  ],
+  "prefixes": [
+    "Super",
+    "Mega",
+    "Extreme",
+    "Ultimate",
+    "Crazy",
+    "Wild",
+    "Fantastic",
+    "Incredible",
+    "Brain",
+    "Mind",
+    "Power",
+    "Victory",
+    "Gold",
+    "Silver",
+    "The Great",
+    "Total",
+    "Epic",
+    "Grand",
+    "Mystery",
+    "Secret"
+  ],
+  "suffixes": [
+    "Challenge",
+    "Quest",
+    "Showdown",
+    "Face-Off",
+    "Games",
+    "Mania",
+    "Frenzy",
+    "Blitz",
+    "Bonanza",
+    "Extravaganza",
+    "Match",
+    "Duel",
+    "Tournament",
+    "Contest",
+    "Rumble",
+    "Clash",
+    "Arena",
+    "Zone",
+    "Empire",
+    "Kingdom"
+  ]
+}

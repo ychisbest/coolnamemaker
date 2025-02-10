@@ -1,0 +1,93 @@
+{
+  "name": "Trail Name Generator",
+  "description": "Stuck on finding the perfect name for your next outdoor adventure? Let our Trail Name Generator blaze a path to inspiration! Whether you're a seasoned hiker or a weekend wanderer, we'll conjure up a name that's as epic as your journey.",
+  "slug": "trail-name-generator",
+  "icon": "\u26f0\ufe0f",
+  "introduction": "Embarking on a new trail? The right name can set the tone for an unforgettable experience. Our Trail Name Generator combines elements of nature, adventure, and a touch of the unexpected to create names that resonate with the spirit of the outdoors. Get ready to discover a name that perfectly captures the essence of your trail!",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's like magic, but with more trees and less rabbits.",
+    "Keep clicking until you find a name that sparks your inner explorer. Don't be afraid to get picky \u2013 this is your trail's identity we're talking about!",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a truly unique trail name. Go wild!",
+    "Once you've found 'The One,' share it with your hiking buddies and prepare for adventure!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the Trail Name Generator work?",
+      "answer": "We've compiled a vast database of nature-inspired words, adventurous adjectives, and geographical terms. Our generator intelligently combines these elements to create unique and evocative trail names. It's part science, part art, and a whole lot of fun!"
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "Absolutely! Once a name is generated, it's yours to use as you see fit. Name your trail, write a book about it, or start a line of hiking gear \u2013 the possibilities are endless!"
+    },
+    {
+      "question": "Are the generated names actually original?",
+      "answer": "We strive to create unique names, but with millions of trails out there, some overlap is inevitable. We recommend doing a quick search to ensure your chosen name isn't already in use in your specific area."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form, and we'll consider adding them to our database. Help us make the generator even better!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! Our generator can produce an infinite number of combinations. You can also try adjusting your expectations. Sometimes the best name is the one you least expect."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! This Trail Name Generator is completely free. Enjoy!"
+    }
+  ],
+  "prefixes": [
+    "Whispering",
+    "Silent",
+    "Crimson",
+    "Emerald",
+    "Granite",
+    "Shadow",
+    "Crystal",
+    "Thunder",
+    "Mystic",
+    "Hidden",
+    "Ancient",
+    "Winding",
+    "Soaring",
+    "Roaring",
+    "Gentle",
+    "Sunrise",
+    "Moonlight",
+    "Stargazer's",
+    "Eagle's",
+    "Bear's",
+    "Lost",
+    "Forgotten",
+    "Sacred",
+    "Painted",
+    "Burning"
+  ],
+  "suffixes": [
+    "Ridge",
+    "Valley",
+    "Pass",
+    "Peak",
+    "Creek",
+    "Falls",
+    "Forest",
+    "Glade",
+    "Summit",
+    "Trail",
+    "Path",
+    "Way",
+    "Ledge",
+    "Canyon",
+    "Overlook",
+    "Bluff",
+    "Hollow",
+    "Springs",
+    "Brook",
+    "Ravine",
+    "Divide",
+    "Escarpment",
+    "Garden",
+    "Crossing",
+    "Bend"
+  ]
+}

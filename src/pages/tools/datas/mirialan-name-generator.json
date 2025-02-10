@@ -1,0 +1,64 @@
+{
+  "name": "Mirialan Name Generator",
+  "description": "Unleash your inner Mirialan! Craving a name that echoes the wisdom and mystique of this revered Star Wars species? Look no further! Our generator conjures up authentic-sounding Mirialan names faster than you can say 'May the Force be with you!'",
+  "slug": "mirialan-name-generator",
+  "icon": "\ud83d\udc7d",
+  "introduction": "Greetings, Padawan! Ever dreamt of belonging to the same enlightened race as Luminara Unduli? Our Mirialan Name Generator is your express ticket to the Mirialan culture. Whether you're writing fan fiction, creating a character for a role-playing game, or just want a cool Star Wars-inspired alias, we've got you covered. Get ready to discover your Mirialan identity!",
+  "howToUse": [
+    "First, ditch that boring Earth name! (Just kidding... mostly.)",
+    "Next, click the 'Generate' button. Seriously, that's it! We've done all the hard work for you.",
+    "Behold! A brand-new, totally awesome Mirialan name appears before your very eyes.",
+    "Not vibing with the first result? No problem! Hit 'Generate' again for an endless supply of Mirialan awesomeness.",
+    "Once you find a name you love, copy it and start telling everyone you're a long-lost relative of Luminara Unduli. (We won't tell!)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator *actually* accurate to Mirialan naming conventions?",
+      "answer": "While we've done our best to capture the essence of Mirialan names, remember that official sources are limited. Consider this more of a 'inspired by' than a 'definitive guide.' Have fun with it!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Go for it! These names are generated for your creative enjoyment. Just don't come crying to us if Disney sues you. (Just kidding... mostly.)"
+    },
+    {
+      "question": "Are the names generated random?",
+      "answer": "Mostly! We use a combination of linguistic patterns and a touch of Star Wars magic to create names that sound authentic and unique."
+    },
+    {
+      "question": "I don't like any of the names. What should I do?",
+      "answer": "Keep hitting that 'Generate' button! With enough tries, you're bound to find a name that resonates with your inner Jedi (or Sith... we don't judge). You can also try mixing and matching prefixes and suffixes to create your own custom name!"
+    },
+    {
+      "question": "Will this generator reveal my true destiny?",
+      "answer": "While we can't guarantee that, we *can* guarantee that you'll have a cool new Mirialan name. And who knows? Maybe that's the first step on your path to becoming a Jedi Master."
+    },
+    {
+      "question": "Why Mirialan names? What makes them so special?",
+      "answer": "Mirialans are known for their strong connection to the Force and their unique facial tattoos, which represent their achievements and philosophies. Their names often reflect this deep connection to their culture and spirituality, making them a fantastic choice for a character with depth and mystique."
+    }
+  ],
+  "prefixes": [
+    "Lumi",
+    "Nari",
+    "Jaro",
+    "Siri",
+    "Taris",
+    "Mira",
+    "Zala",
+    "Kael",
+    "Rana",
+    "Vesi"
+  ],
+  "suffixes": [
+    "la",
+    "an",
+    "da",
+    "na",
+    "lo",
+    "ra",
+    "di",
+    "el",
+    "ka",
+    "vi"
+  ]
+}

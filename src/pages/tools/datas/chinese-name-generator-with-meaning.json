@@ -1,0 +1,85 @@
+{
+  "name": "Chinese Name Generator with Meaning",
+  "description": "Unleash the power of ancient wisdom and modern cool! Discover the perfect Chinese name, imbued with profound meaning and a touch of mystery. Because your name should be more than just a label \u2013 it should be a legend.",
+  "slug": "chinese-name-generator-with-meaning",
+  "icon": "\ud83d\udc09",
+  "introduction": "Ready to embrace your inner dragon? Our Chinese Name Generator isn't just about finding a name; it's about crafting an identity. We delve into the depths of Chinese culture to bring you names that resonate with strength, beauty, and a whole lot of 'wow'. Whether you're writing a novel, creating a character, or simply curious about your potential Chinese alter ego, prepare to be amazed.",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new, culturally rich Chinese name appears before your very eyes.",
+    "Want something more specific? Tweak the 'Prefixes' and 'Suffixes' to create a name that truly reflects your personality (or the personality of your character, no judgment).",
+    "Feeling indecisive? Don't worry, we get it. Just keep hitting that 'Generate' button until you find the name that makes your heart sing (or at least doesn't make you cringe).",
+    "Share your awesome new name with the world! (Or keep it a secret, we won't tell)."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually real Chinese names?",
+      "answer": "Absolutely! We draw from a vast database of authentic Chinese given names and surnames, ensuring your generated name is both meaningful and culturally accurate. We also provide the meaning of the components so you can understand your name!"
+    },
+    {
+      "question": "Can I use these names for my baby?",
+      "answer": "While our generator is designed for fun and inspiration, many of the generated names would be perfectly suitable for a child. However, we always recommend consulting with someone knowledgeable in Chinese naming traditions for the most culturally appropriate choice."
+    },
+    {
+      "question": "What if I don't like the name that is generated?",
+      "answer": "No problem! That's the beauty of a generator. Just click 'Generate' again for a brand new suggestion. Keep going until you find one you love!"
+    },
+    {
+      "question": "Are the meanings of the names accurate?",
+      "answer": "We strive for accuracy, and our database is meticulously researched. However, nuances in meaning can exist depending on the specific characters used and the context. Always double-check if absolute precision is crucial!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Yes, you can, but please be mindful of cultural sensitivity. If you're using a name for a brand or product, ensure it aligns with the values and image you wish to project. It's always a good idea to do your homework!"
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "How many names can I generate? As many as your heart desires! There's no limit to the number of names you can conjure up with our generator. Go wild!"
+    }
+  ],
+  "prefixes": [
+    "\u5b89 (\u0100n - Peace)",
+    "\u5b9d (B\u01ceo - Treasure)",
+    "\u6625 (Ch\u016bn - Spring)",
+    "\u5fb7 (D\u00e9 - Virtue)",
+    "\u82b3 (F\u0101ng - Fragrant)",
+    "\u5149 (Gu\u0101ng - Light)",
+    "\u6d77 (H\u01cei - Ocean)",
+    "\u5efa (Ji\u00e0n - Build)",
+    "\u4e3d (L\u00ec - Beautiful)",
+    "\u660e (M\u00edng - Bright)",
+    "\u5b81 (N\u00edng - Calm)",
+    "\u9e4f (P\u00e9ng - Mythical bird)",
+    "\u79cb (Qi\u016b - Autumn)",
+    "\u745e (Ru\u00ec - Auspicious)",
+    "\u601d (S\u012b - Think)",
+    "\u5929 (Ti\u0101n - Sky)",
+    "\u4f1f (W\u011bi - Great)",
+    "\u661f (X\u012bng - Star)",
+    "\u4e49 (Y\u00ec - Righteous)",
+    "\u4e91 (Y\u00fan - Cloud)",
+    "\u6cfd (Z\u00e9 - Lustre)"
+  ],
+  "suffixes": [
+    "\u827e (\u00c0i - Mugwort)",
+    "\u767d (B\u00e1i - White)",
+    "\u5f69 (C\u01cei - Color)",
+    "\u4e39 (D\u0101n - Red)",
+    "\u5a25 (\u00c9 - Beautiful woman)",
+    "\u83f2 (F\u0113i - Fragrant)",
+    "\u6842 (Gu\u00ec - Cinnamon)",
+    "\u7ea2 (H\u00f3ng - Red)",
+    "\u83ca (J\u00fa - Chrysanthemum)",
+    "\u5170 (L\u00e1n - Orchid)",
+    "\u6885 (M\u00e9i - Plum)",
+    "\u5a1c (N\u00e0 - Graceful)",
+    "\u5e73 (P\u00edng - Level)",
+    "\u7434 (Q\u00edn - Zither)",
+    "\u84c9 (R\u00f3ng - Hibiscus)",
+    "\u5c71 (Sh\u0101n - Mountain)",
+    "\u5a77 (T\u00edng - Graceful)",
+    "\u8587 (W\u0113i - Fern)",
+    "\u971e (Xi\u00e1 - Rosy clouds)",
+    "\u7476 (Y\u00e1o - Jade)",
+    "\u7af9 (Zh\u00fa - Bamboo)"
+  ]
+}

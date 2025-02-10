@@ -1,0 +1,73 @@
+{
+  "name": "Roblox Name Generator",
+  "description": "Struggling to come up with a killer Roblox username that isn't already taken by a noob? Fear not, future gaming legend! Our Roblox Name Generator is here to conjure up the perfect moniker, guaranteed to strike fear into the hearts of your enemies (or at least make them think you're kinda cool).",
+  "slug": "roblox-name-generator",
+  "icon": "\ud83c\udfae",
+  "introduction": "Tired of usernames like 'xX_GamerDude123_Xx' and 'ILoveRoblox2010'? Yeah, we are too. This generator combines a dash of randomness, a sprinkle of awesomeness, and a whole lotta creativity to deliver Roblox names that are unique, memorable, and ready for action. Get ready to dominate the Metaverse!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A fresh, new Roblox name appears before your very eyes.",
+    "Not feeling the first result? Keep clicking! We've got a virtually endless supply of name combinations ready to roll.",
+    "Found a name you love? Copy it and paste it into Roblox. Just make sure it's not already taken \u2013 we can generate the names, but we can't guarantee availability!",
+    "Feeling adventurous? Mix and match prefixes and suffixes from different generations to create your own ultimate Roblox identity."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually free?",
+      "answer": "Absolutely! We believe everyone deserves a cool Roblox name, regardless of their Robux balance."
+    },
+    {
+      "question": "Will this generator guarantee me fame and fortune in Roblox?",
+      "answer": "While we can't promise you'll become the next Roblox superstar, a killer name is definitely a step in the right direction! The rest is up to your skills."
+    },
+    {
+      "question": "Are the generated names safe to use?",
+      "answer": "We do our best to avoid generating offensive or inappropriate names. However, it's always a good idea to use your best judgement before using a generated name on Roblox."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form, and we'll consider adding them to the generator."
+    },
+    {
+      "question": "Why does the generator sometimes give me weird names?",
+      "answer": "That's the beauty of randomness! Sometimes you get gold, sometimes you get... well, let's just say it's a conversation starter. Keep generating, and you're sure to find a gem."
+    },
+    {
+      "question": "How often are new names added to the generator?",
+      "answer": "We're constantly updating our database with fresh and exciting prefixes and suffixes, so there's always something new to discover!"
+    }
+  ],
+  "prefixes": [
+    "Pro",
+    "NoobSlayer",
+    "Epic",
+    "Shadow",
+    "Mystic",
+    "Blazing",
+    "Cosmic",
+    "Lunar",
+    "Aqua",
+    "Terra",
+    "Volt",
+    "Pixel",
+    "Retro",
+    "Alpha",
+    "Omega"
+  ],
+  "suffixes": [
+    "Gamer",
+    "Legend",
+    "Master",
+    "Warrior",
+    "Ninja",
+    "Titan",
+    "Hunter",
+    "King",
+    "Queen",
+    "Prodigy",
+    "Ace",
+    "Commander",
+    "Vanguard",
+    "Specter",
+    "Reaper"
+  ]
+}

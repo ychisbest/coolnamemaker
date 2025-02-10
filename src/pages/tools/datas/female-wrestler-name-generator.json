@@ -1,0 +1,93 @@
+{
+  "name": "Female Wrestler Name Generator",
+  "description": "Unleash your inner warrior with our kickass Female Wrestler Name Generator! Find the perfect moniker to dominate the ring and strike fear into the hearts of your opponents. Get ready to rumble!",
+  "slug": "female-wrestler-name-generator",
+  "icon": "\ud83e\udd3c\u200d\u2640\ufe0f",
+  "introduction": "Tired of the same old generic wrestling names? Yearning for a title that screams power, grace, and undeniable badassery? Look no further! Our Female Wrestler Name Generator is here to transform you from an ordinary athlete into a legendary icon. We've got a knockout collection of prefixes and suffixes to create a name that's as unique and unforgettable as you are. Step into the spotlight and claim your destiny!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the amazing wrestling names that appear!",
+    "Feeling picky? Keep clicking until you find the name that truly resonates with your inner champion.",
+    "Want to tweak it? Get inspired by the generated names and mix and match to create your own ultimate moniker!",
+    "Once you've found 'the one', write it down, shout it from the rooftops, and prepare to conquer the wrestling world!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my wrestling character in a video game?",
+      "answer": "Absolutely! These names are perfect for any and all wrestling-related endeavors, virtual or otherwise. Go forth and dominate the digital arena!"
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! These names are generated randomly and are free for you to use as you see fit. However, always double-check to ensure no one else is already using the exact name professionally."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! While we can't guarantee they'll be added, we're always looking for ways to improve the generator and make it even more awesome."
+    },
+    {
+      "question": "Is this generator only for female wrestlers?",
+      "answer": "While it's geared towards female wrestlers, anyone can use it! If you're looking for a tough, powerful name, this generator can certainly deliver, regardless of gender."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Don't despair! Just keep clicking! With countless combinations, you're bound to find a name that suits your style. Or, use them as inspiration to craft your own unique wrestling identity."
+    },
+    {
+      "question": "How often are new names added?",
+      "answer": "We try to update the generator periodically with fresh and exciting prefixes and suffixes to keep the names coming! Check back often to see what's new!"
+    }
+  ],
+  "prefixes": [
+    "Iron",
+    "Steel",
+    "Shadow",
+    "Phoenix",
+    "Valkyrie",
+    "Thunder",
+    "Crimson",
+    "Midnight",
+    "Rebel",
+    "Mystic",
+    "Diamond",
+    "Venom",
+    "Rogue",
+    "Lunar",
+    "Solar",
+    "Atomic",
+    "Galactic",
+    "Cosmic",
+    "Neon",
+    "Cyber",
+    "Dragon",
+    "Serpent",
+    "Viper",
+    "Enigma",
+    "Phantom"
+  ],
+  "suffixes": [
+    "Strike",
+    "Fury",
+    "Rage",
+    "Storm",
+    "Blaze",
+    "Vixen",
+    "Queen",
+    "Huntress",
+    "Warrior",
+    "Slayer",
+    "Assassin",
+    "Dynamo",
+    "Tornado",
+    "Tempest",
+    "Nova",
+    "Eclipse",
+    "Comet",
+    "Ray",
+    "Blade",
+    "Claw",
+    "Fang",
+    "Specter",
+    "Wraith",
+    "Dominion",
+    "Reign"
+  ]
+}

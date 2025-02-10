@@ -1,0 +1,83 @@
+{
+  "name": "Apocalypse Name Generator",
+  "description": "Ready to face the end of the world? Need a name that screams survival, resilience, and maybe just a touch of madness? Our Apocalypse Name Generator is here to arm you with the perfect moniker for the wasteland!",
+  "slug": "apocalypse-name-generator",
+  "icon": "\u2622\ufe0f",
+  "introduction": "The world's gone to heck in a handbasket, and your old identity is toast. Time for a fresh start with a name that reflects your newfound grit! Whether you're a lone wanderer, a hardened leader, or a resourceful scavenger, we've got the perfect apocalyptic alias waiting for you. Get ready to embrace the chaos!",
+  "howToUse": [
+    "First, brace yourself. The apocalypse is serious business (sort of).",
+    "Click the 'Generate' button. Don't worry, it won't trigger an actual nuclear explosion (probably).",
+    "Behold! Your new, totally rad apocalypse name will appear. If you don't like it, keep hitting that button until you find one that resonates with your inner wasteland warrior.",
+    "Embrace your new identity. Start practicing your post-apocalyptic swagger. Remember, the apocalypse is all about survival...and looking cool while doing it!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to help me survive the apocalypse?",
+      "answer": "While we can't guarantee survival, a cool name is definitely a step in the right direction. Confidence is key, and a killer name breeds confidence!"
+    },
+    {
+      "question": "Can I use these names for my post-apocalyptic novel/game/LARP?",
+      "answer": "Absolutely! Consider it a gift from the digital gods. Just maybe give us a shout-out if your creation becomes a global phenomenon. \ud83d\ude09"
+    },
+    {
+      "question": "Are the names generated truly random?",
+      "answer": "As random as we can make them! We've combined various elements to create a vast pool of possibilities, ensuring a unique name every time."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep generating! The perfect name is out there, lurking in the digital ether. Or, get creative and mix and match elements from different names to create your own masterpiece."
+    },
+    {
+      "question": "Will using this generator attract zombies/mutants/raiders?",
+      "answer": "Highly unlikely. But if it does, at least you'll have a cool name to shout as you bravely (or cowardly) flee the horde!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We love suggestions! Send them our way through the contact form on our website. We're always looking for ways to improve our generator and make it even more apocalyptic-ally awesome!"
+    }
+  ],
+  "prefixes": [
+    "Wasteland",
+    "Shadow",
+    "Rust",
+    "Steel",
+    "Bone",
+    "Dust",
+    "Crimson",
+    "Night",
+    "Iron",
+    "Ghost",
+    "Mad",
+    "Savage",
+    "Silent",
+    "Broken",
+    "Feral",
+    "Toxic",
+    "Radioactive",
+    "Plague",
+    "Echo",
+    "Rogue"
+  ],
+  "suffixes": [
+    "Hunter",
+    "Stalker",
+    "Reaver",
+    "Scavenger",
+    "Prophet",
+    "Wanderer",
+    "King",
+    "Queen",
+    "Marshal",
+    "Vagrant",
+    "Fury",
+    "Silence",
+    "Grave",
+    "Storm",
+    "Shade",
+    "Claw",
+    "Fang",
+    "Skull",
+    "Whisper",
+    "Specter"
+  ]
+}

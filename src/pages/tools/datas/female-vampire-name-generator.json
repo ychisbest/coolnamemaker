@@ -1,0 +1,83 @@
+{
+  "name": "Female Vampire Name Generator",
+  "description": "Unleash your inner night creature! Find the perfect, chillingly elegant name for your female vampire character or persona. Because every queen of the night deserves a name that commands respect (and maybe a little fear).",
+  "slug": "female-vampire-name-generator",
+  "icon": "\ud83e\udddb\u200d\u2640\ufe0f",
+  "introduction": "Ready to embrace the shadows? Our Female Vampire Name Generator is your gateway to a world of gothic glamour and timeless power. Whether you're crafting a character for your next novel, designing a formidable RPG villain, or simply looking for a darkly beautiful name to adopt, we've got you covered. Prepare to be bewitched!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A name, dripping with mystique and ready to rule the night, will appear.",
+    "Don't like the first one? (Seriously? Okay, fine.) Click again! We've got an endless supply of names just waiting to be unearthed from the crypt.",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own unique masterpiece. Go wild! (But maybe not *too* wild\u2026 we don't want any sparkly vampires here.)",
+    "Once you've found the perfect name, copy it and claim it as your own! Go forth and terrorize...er, I mean, *charm* the world!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually good, or just random syllables strung together?",
+      "answer": "We've carefully curated our prefixes and suffixes to evoke a sense of gothic elegance and timeless power. While the combinations are random, the results are designed to sound authentically vampire-esque. We're aiming for 'Dracula's Daughter' not 'Blah McBlahface'."
+    },
+    {
+      "question": "Can I use these names for commercial purposes, like in a book or game?",
+      "answer": "Absolutely! Once you generate the name, it's yours to use as you see fit. Just remember to credit coolnamemaker.com if you become a literary sensation. (We're kidding... mostly.)"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With a vast library of prefixes and suffixes, the possibilities are virtually endless. If you *still* can't find something you like, try mixing and matching different parts of names or using them as inspiration for your own creations."
+    },
+    {
+      "question": "Will this generator turn me into a real vampire?",
+      "answer": "Sadly, no. This generator is purely for entertainment purposes. We cannot guarantee eternal life, heightened senses, or a crippling aversion to sunlight. But hey, at least you'll have a cool name!"
+    },
+    {
+      "question": "Is this generator suitable for all ages?",
+      "answer": "While the theme is dark and gothic, the names themselves are generally harmless. However, parental discretion is advised for younger users. We wouldn't want to give any impressionable youngsters ideas about sleeping in coffins or drinking blood (apple juice, of course!)."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We're always open to suggestions! If you have a brilliant idea for a new name component, feel free to contact us through the website. We can't promise we'll use every suggestion, but we appreciate your input!"
+    }
+  ],
+  "prefixes": [
+    "Seraphina",
+    "Lilith",
+    "Morwenna",
+    "Elowen",
+    "Vladislava",
+    "Bellamorte",
+    "Nyx",
+    "Lysandra",
+    "Crimson",
+    "Shadow",
+    "Obsidian",
+    "Raven",
+    "Velvet",
+    "Iron",
+    "Whisper",
+    "Dusk",
+    "Amethyst",
+    "Opaline",
+    "Sanguine",
+    "Nocturna"
+  ],
+  "suffixes": [
+    "Bloodmoon",
+    "Nightshade",
+    "Shadowclaw",
+    "Darkwood",
+    "Blackwell",
+    "Grimm",
+    "Evernight",
+    "Ravenwood",
+    "Von Hess",
+    "La Croix",
+    "Sinclair",
+    "Morningstar",
+    "Drakon",
+    "LeFay",
+    "Scarlett",
+    "Moonwhisper",
+    "Blackthorn",
+    "Winterbourne",
+    "Asheworth",
+    "St Clair"
+  ]
+}

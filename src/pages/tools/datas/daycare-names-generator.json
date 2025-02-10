@@ -1,0 +1,85 @@
+{
+  "name": "Daycare Name Generator",
+  "description": "Struggling to find the perfect name for your daycare? Our generator crafts unique and memorable names that will make your daycare the talk of the town! Say goodbye to boring names and hello to a brand that kids and parents will adore.",
+  "slug": "daycare-name-generator",
+  "icon": "\ud83e\uddf8",
+  "introduction": "Choosing the right name for your daycare is crucial. It's the first impression you make, and it needs to be fun, trustworthy, and memorable. Our Daycare Name Generator takes the stress out of brainstorming, providing you with creative and catchy names that capture the essence of your child-centered haven.",
+  "howToUse": [
+    "First, ditch the stress! Naming your daycare should be fun, not a chore.",
+    "Click the 'Generate' button and watch the magic happen!",
+    "Browse the list of awesome daycare names we've conjured up.",
+    "Found a name you love? Awesome! Check if the domain and social media handles are available. You don't want to be 'Super Fun Daycare' on paper but 'BoringDaycareOfficial' online, right?",
+    "If not, keep generating until you find THE ONE. We've got plenty of names where that came from!",
+    "Bonus points for saying the name out loud a few times. Does it roll off the tongue? Does it make you smile? If yes, you've found a winner!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the Daycare Name Generator work?",
+      "answer": "Our generator combines a curated list of prefixes, suffixes, and keywords related to childcare, play, and learning. It then mixes and matches these elements to create unique and catchy daycare names."
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "Absolutely! All the names generated are free to use for your daycare business. We encourage you to check for trademark availability before officially registering your chosen name."
+    },
+    {
+      "question": "Are the generated names actually any good?",
+      "answer": "We think so! We've put a lot of thought into crafting names that are memorable, easy to pronounce, and relevant to the daycare industry. But ultimately, the best name is one that resonates with you and your target audience."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "No problem! Just keep clicking the 'Generate' button. We have a vast database of name combinations, so you're bound to find something you love eventually. You can also try adjusting the prefixes and suffixes to fine-tune the results."
+    },
+    {
+      "question": "Why is a good daycare name important?",
+      "answer": "A great daycare name is memorable, trustworthy, and gives parents a sense of what your daycare is all about. It helps you stand out from the competition and build a strong brand identity. Plus, it's just plain fun!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added to the generator?",
+      "answer": "We'd love to hear your ideas! While we can't guarantee every suggestion will be implemented, we're always looking for ways to improve our generator. Feel free to contact us with your suggestions!"
+    }
+  ],
+  "prefixes": [
+    "Little",
+    "Tiny",
+    "Bright",
+    "Happy",
+    "Sunshine",
+    "Rainbow",
+    "Wonder",
+    "Smart",
+    "Playful",
+    "Curious",
+    "Creative",
+    "Gentle",
+    "Caring",
+    "Growing",
+    "Blooming",
+    "Star",
+    "Dream",
+    "Giggle",
+    "Joyful",
+    "Kind"
+  ],
+  "suffixes": [
+    "Kids",
+    "Tots",
+    "Tykes",
+    "Care",
+    "Place",
+    "House",
+    "Academy",
+    "Center",
+    "Corner",
+    "World",
+    "Adventures",
+    "Explorers",
+    "Learners",
+    "Friends",
+    "Giggles",
+    "Stars",
+    "Dreams",
+    "Blossoms",
+    "Sprouts",
+    "Haven"
+  ]
+}

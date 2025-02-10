@@ -1,0 +1,75 @@
+{
+  "name": "Danganronpa Name Generator",
+  "description": "Tired of your boring, everyday name? Craving a moniker that screams 'Ultimate Hope' or 'Ultimate Despair'? Well, buckle up, buttercup! Our Danganronpa Name Generator is here to inject some Monokuma-approved mayhem into your life!",
+  "slug": "danganronpa-name-generator",
+  "icon": "\ud83d\udc3b",
+  "introduction": "Ever wished you could attend Hope's Peak Academy? Now you can... at least in spirit! This generator combines a dash of talent, a sprinkle of despair, and a whole lotta randomness to create Danganronpa-esque names that are both hilarious and surprisingly fitting. Get ready to discover your inner Ultimate!",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's so easy, even Monokuma could do it (though he'd probably rig it for despair).",
+    "Keep clicking until you find a name that resonates with your soul (or at least makes you giggle).",
+    "Share your awesome new name with the world! (Or keep it a secret, we won't judge. Despair is a private matter, sometimes.)",
+    "Optional: Update your social media profiles, write fanfiction, and generally embrace your new Ultimate identity."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually endorsed by Spike Chunsoft?",
+      "answer": "Sadly, no. We're just a bunch of fans who love Danganronpa and thought it would be fun to create this. But hey, maybe they'll notice us someday!"
+    },
+    {
+      "question": "Can I use these names for my Danganronpa fan characters?",
+      "answer": "Absolutely! That's what it's here for! Go wild and create the most despair-inducing (or hope-filled) characters the world has ever seen."
+    },
+    {
+      "question": "What if I don't like the name the generator gives me?",
+      "answer": "No worries! Just hit that 'Generate' button again. There are countless possibilities, so you're bound to find one you love... or at least tolerate. Despair is inevitable, after all. Just kidding! Keep trying!"
+    },
+    {
+      "question": "Will this generator give me my Ultimate Talent?",
+      "answer": "Unfortunately, no. You'll have to discover that on your own. But hey, having a cool name is a good start, right? Maybe you're the Ultimate Name Generator User!"
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart desires. We're not responsible for any identity crises that may occur as a result. Embrace the chaos!"
+    },
+    {
+      "question": "Why are some of the names so weird?",
+      "answer": "That's the point! Danganronpa is known for its quirky and unusual characters. We wanted to capture that same spirit of weirdness in our generator."
+    }
+  ],
+  "prefixes": [
+    "Ultimate",
+    "Super",
+    "Legendary",
+    "Hopeful",
+    "Despairing",
+    "Mysterious",
+    "Silent",
+    "Calculating",
+    "Eccentric",
+    "Brilliant",
+    "Lucky",
+    "Unlucky",
+    "Shadowy",
+    "Radiant"
+  ],
+  "suffixes": [
+    "Gambler",
+    "Detective",
+    "Programmer",
+    "Writer",
+    "Artist",
+    "Chef",
+    "Mechanic",
+    "Idol",
+    "Swimmer",
+    "Martial Artist",
+    "Nurse",
+    "Soldier",
+    "Princess",
+    "Prince",
+    "Comedian",
+    "Therapist",
+    "Fanfic Writer",
+    "Gamer"
+  ]
+}

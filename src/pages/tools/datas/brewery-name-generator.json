@@ -1,0 +1,94 @@
+{
+  "name": "Brewery Name Generator",
+  "description": "Struggling to find the perfect name for your brewery? Fear not, beer aficionado! Our generator is here to brew up a list of awesome, unforgettable names that will have customers lining up for a taste.",
+  "slug": "brewery-name-generator",
+  "icon": "\ud83c\udf7a",
+  "introduction": "So, you're diving into the delicious world of brewing, huh? Awesome! But before you can conquer the craft beer scene, you need a name that screams 'unique,' 'flavorful,' and maybe even a little bit 'rebellious.' That's where we come in. Let our Brewery Name Generator be your muse, conjuring up names as bold and refreshing as your brews. Cheers to finding the perfect fit!",
+  "howToUse": [
+    "Feeling uninspired? Just hit that 'Generate' button and watch the magic happen! We'll toss a bunch of brewery name ideas your way.",
+    "Don't like what you see? Keep clicking! We've got more names than you can shake a mash paddle at.",
+    "Found a name you love? Awesome! Jot it down before you forget. Share it with your friends, your partners, your dog \u2013 get some feedback!",
+    "Pro Tip: Mix and match elements from different generated names to create something truly unique and reflective of your brewery's vibe."
+  ],
+  "faqs": [
+    {
+      "question": "How does this generator actually work?",
+      "answer": "We've got a secret sauce (or should we say, secret wort?) of prefixes, suffixes, and clever wordplay. Our algorithm combines these elements to create a wide range of brewery name suggestions. It's part science, part art, and all about the beer."
+    },
+    {
+      "question": "Are the names generated actually any good?",
+      "answer": "We think so! We've tried to create a diverse range of names that are memorable, catchy, and relevant to the craft beer industry. But ultimately, the best name is the one that resonates with you and your brand."
+    },
+    {
+      "question": "Can I use these names for my actual brewery?",
+      "answer": "Absolutely! That's what they're here for. However, we strongly recommend checking for trademark availability before settling on a name. You don't want to get into a legal foam-up with another brewery."
+    },
+    {
+      "question": "The names are terrible! What gives?",
+      "answer": "Hey, taste is subjective! If you're not feeling the names, just keep hitting that 'Generate' button. We've got plenty more where those came from. Or, try tweaking the parameters (if we had any!) to narrow down the results."
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "You bet your sweet barley it is! Use it as much as you like. We just want to help you find the perfect name for your brewery and spread the joy of good beer."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes to add to the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through the contact form on our website. We're always looking for ways to improve our generator and make it even more helpful."
+    }
+  ],
+  "prefixes": [
+    "Copper",
+    "Iron",
+    "Stone",
+    "River",
+    "Mountain",
+    "Sunset",
+    "Midnight",
+    "Golden",
+    "Silver",
+    "Rustic",
+    "Wild",
+    "Craft",
+    "Hops",
+    "Malt",
+    "Grain",
+    "Brew",
+    "Barrel",
+    "Oak",
+    "Crimson",
+    "Amber",
+    "Black",
+    "White",
+    "First",
+    "Old",
+    "New",
+    "Lucky",
+    "Happy"
+  ],
+  "suffixes": [
+    "Brewing",
+    "Brewery",
+    "Ales",
+    "Lagers",
+    "Stouts",
+    "Porters",
+    "Company",
+    "Co.",
+    "Works",
+    "House",
+    "Taproom",
+    "Project",
+    "Collective",
+    "Syndicate",
+    "Brothers",
+    "Sisters",
+    "Family",
+    "Hill",
+    "Valley",
+    "Creek",
+    "Summit",
+    "Ridge",
+    "Point",
+    "Edge"
+  ]
+}

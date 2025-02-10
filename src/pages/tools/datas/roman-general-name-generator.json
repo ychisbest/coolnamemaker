@@ -1,0 +1,83 @@
+{
+  "name": "Roman General Name Generator",
+  "description": "Need a commanding name for your Roman general character? Look no further! Our Roman General Name Generator will equip you with the perfect moniker to lead your legions to victory (or glorious defeat!).",
+  "slug": "roman-general-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Ave, Imperator! Are you crafting a historical fiction masterpiece, a thrilling tabletop campaign, or just need the perfect name for your pet goldfish (who clearly has aspirations of conquering the bathroom)? Our Roman General Name Generator is here to help! We've scoured the annals of Roman history and mythology to bring you a collection of names that are both authentic and inspiring. Get ready to command respect and strike fear into the hearts of your enemies (or at least impress your friends).",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the awesome Roman general name that appears before your very eyes.",
+    "If you're not feeling the first name, keep hitting 'Generate' until you find one that resonates with your inner Caesar.",
+    "Copy and paste your chosen name into your project. (And maybe send us a little shout-out? We'd appreciate it!)",
+    "Go forth and conquer! (Responsibly, of course.)"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names historically accurate?",
+      "answer": "We've done our best to ensure the names are inspired by Roman history and culture. Some are directly taken from historical figures, while others are inspired by common Roman names and titles. However, we also added some creative flair for fun!"
+    },
+    {
+      "question": "Can I use these names for my fictional characters?",
+      "answer": "Absolutely! That's exactly what this generator is for. Use them for your novels, games, or any other creative project."
+    },
+    {
+      "question": "Are the names male-specific?",
+      "answer": "Primarily, yes. Roman general positions were traditionally held by men. However, feel free to adapt the names as you see fit for female characters or non-binary individuals in your fictional worlds!"
+    },
+    {
+      "question": "Can I use these names for my dog?",
+      "answer": "While we can't stop you, naming your chihuahua 'Gnaeus Pompeius Magnus' might be a *tad* much. But hey, if that's your thing, go for it! Just be prepared for some raised eyebrows at the dog park."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! Our Roman General Name Generator is completely free. Use it as much as you like to find the perfect name for your Roman general. Consider it our gift to the world (or at least, to the world of creative writing and gaming)."
+    },
+    {
+      "question": "Will using a name from this generator guarantee my character's success?",
+      "answer": "Sadly, no. A cool name is a great start, but ultimately, your character's fate rests in your hands (or the dice's, if you're gaming). We provide the name; you provide the glory (or the tragic downfall)."
+    }
+  ],
+  "prefixes": [
+    "Marcus",
+    "Gaius",
+    "Lucius",
+    "Publius",
+    "Titus",
+    "Quintus",
+    "Servius",
+    "Sextus",
+    "Appius",
+    "Aulus",
+    "Numerius",
+    "Spurius",
+    "Vibius",
+    "Flavius",
+    "Aurelius",
+    "Valerius",
+    "Julius",
+    "Claudius",
+    "Cornelius",
+    "Antonius"
+  ],
+  "suffixes": [
+    "Aurelianus",
+    "Augustus",
+    "Caesar",
+    "Germanicus",
+    "Maximus",
+    "Magnus",
+    "Pius",
+    "Felix",
+    "Invictus",
+    "Victor",
+    "Africanus",
+    "Asiaticus",
+    "Britannicus",
+    "Italicus",
+    "Numidicus",
+    "Triumphus",
+    "Crixus",
+    "Vercingetorix",
+    "Spartacus"
+  ]
+}

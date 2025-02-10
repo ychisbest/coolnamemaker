@@ -1,0 +1,84 @@
+{
+  "name": "Fortnite Clan Name Generator",
+  "description": "Struggling to find the perfect name for your Fortnite clan? Fear no more! Our generator crafts epic, unforgettable names that will strike fear into the hearts of your opponents and make your squad the envy of the Fortnite island. Get ready to dominate!",
+  "slug": "fortnite-clan-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "In the cutthroat world of Fortnite, a killer name is just as important as your aim. It's your brand, your battle cry, and your identity. Don't settle for generic! Let our Fortnite Clan Name Generator forge a name that resonates with power, skill, and maybe just a touch of absurdity. After all, who wants to be remembered as 'Team Mediocre'? We're talking about legendary status here!",
+  "howToUse": [
+    "First, unleash your inner warrior and think about the vibe you want your clan to project: Are you stealthy ninjas? Ruthless conquerors? Goofy goofballs who somehow win? (Hey, it happens!)",
+    "Next, hit that 'Generate' button! Prepare to be amazed by the sheer volume of awesome names our algorithm conjures up.",
+    "Browse through the suggestions and see what resonates with your squad. Don't be afraid to mix and match, or even add your own personal touch!",
+    "Once you've found the perfect name, claim it! Register it with your team, plaster it across your social media, and prepare to instill fear in your enemies. You're officially a force to be reckoned with!",
+    "Still not feeling it? Just hit generate again! We have an endless supply of cool names. Keep going until you find that perfect fit."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Fortnite Clan Name Generator is completely free to use. We believe everyone deserves a cool name, regardless of their V-Buck balance."
+    },
+    {
+      "question": "Can I use these names for other games besides Fortnite?",
+      "answer": "Of course! While specifically designed for Fortnite, these names can be used for any game, team, or even a particularly aggressive houseplant."
+    },
+    {
+      "question": "Are the generated names actually any good?",
+      "answer": "We think so! We've poured our hearts and souls (and a whole lot of gaming knowledge) into crafting an algorithm that generates names that are both cool and memorable. But hey, taste is subjective! If you don't like them, keep hitting that 'Generate' button. Eventually, you'll find a name that makes you say, 'That's the one!'"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to add to the generator?",
+      "answer": "We're always looking for ways to improve! Feel free to send us your suggestions. If we like them, we might just add them to the generator and give you a shout-out (and eternal glory, of course)."
+    },
+    {
+      "question": "What if someone else is already using the name I want?",
+      "answer": "Unfortunately, we can't guarantee exclusivity. If your dream name is already taken, try adding a number, abbreviation, or slightly altering the spelling. Or just pick another awesome name from our generator! The possibilities are endless."
+    },
+    {
+      "question": "Will having a cool clan name automatically make me a better Fortnite player?",
+      "answer": "While a cool name won't magically improve your aim, it *will* boost your confidence and intimidate your opponents. And in the world of Fortnite, a little psychological warfare can go a long way!"
+    }
+  ],
+  "prefixes": [
+    "Elite",
+    "Shadow",
+    "Rogue",
+    "Apex",
+    "Storm",
+    "Crimson",
+    "Phantom",
+    "Silent",
+    "Fatal",
+    "Omega",
+    "Delta",
+    "Alpha",
+    "Spectre",
+    "Nova",
+    "Titan",
+    "Zenith",
+    "Frost",
+    "Inferno",
+    "Cosmic",
+    "Lunar"
+  ],
+  "suffixes": [
+    "Squad",
+    "Legion",
+    "Force",
+    "Brigade",
+    "Crew",
+    "Army",
+    "Division",
+    "Empire",
+    "Order",
+    "Syndicate",
+    "Elite",
+    "Warriors",
+    "Assassins",
+    "Hunters",
+    "Raiders",
+    "Guardians",
+    "Sentinels",
+    "Knights",
+    "Commandos",
+    "Avengers"
+  ]
+}

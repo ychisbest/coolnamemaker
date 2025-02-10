@@ -1,0 +1,84 @@
+{
+  "name": "German Town Name Generator",
+  "description": "Craving a taste of Deutschland? Our German Town Name Generator conjures up authentic-sounding (and sometimes hilariously quirky) names for your fictional villages, RPG settings, or even just to add a touch of Teutonic charm to your next project. Get ready to say 'Guten Tag' to creativity!",
+  "slug": "german-town-name-generator",
+  "icon": "\ud83c\udfd8\ufe0f",
+  "introduction": "Whether you're building a fantasy world, writing a historical novel, or just looking for a fun way to brainstorm, finding the perfect name for your German town can be a challenge. This generator blends traditional German prefixes and suffixes with a dash of linguistic magic to create names that are both believable and evocative. Prepare to be inspired!",
+  "howToUse": [
+    "Click the 'Generate' button. It's the one that looks like it's begging for attention!",
+    "Behold! A brand-spanking-new German town name appears before your very eyes.",
+    "Don't like it? No worries! Click again. We've got more names than there are sausages at Oktoberfest.",
+    "Found 'the one'? Copy and paste that beautiful name into your project. Bask in the glory of your naming prowess!",
+    "Repeat until your fictional map is overflowing with charming (and possibly confusing) German towns."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names real German town names?",
+      "answer": "Some might be! We've taken inspiration from real German place names, but many are creative combinations designed to sound authentic. Use them for fictional purposes, and maybe double-check before planning your next vacation!"
+    },
+    {
+      "question": "Can I use these names for my fantasy novel?",
+      "answer": "Absolutely! That's what they're here for. Use them, abuse them, and let your imagination run wild!"
+    },
+    {
+      "question": "The names are too silly/serious. Can I customize them?",
+      "answer": "You sure can! Feel free to tweak the generated names to better fit your vision. Consider this a starting point for your creative journey."
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "You betcha! Free as a bird, free as the wind, free as... well, you get the idea. Enjoy!"
+    },
+    {
+      "question": "What if I get a name that already exists?",
+      "answer": "The names are inspired by real German place names, but many are creative combinations. While some might resemble existing towns, most are designed for fictional use."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Yes, you are free to use the generated names for commercial projects. However, we recommend checking for trademark conflicts before using a name for a real-world business or product."
+    }
+  ],
+  "prefixes": [
+    "Neu",
+    "Alt",
+    "Gross",
+    "Klein",
+    "Ober",
+    "Unter",
+    "Mittel",
+    "Burg",
+    "Stein",
+    "Wald",
+    "Bach",
+    "Berg",
+    "See",
+    "Feld",
+    "Dorf",
+    "Tal",
+    "Eich",
+    "Linden",
+    "Rosen",
+    "Sonnen"
+  ],
+  "suffixes": [
+    "stadt",
+    "dorf",
+    "burg",
+    "tal",
+    "feld",
+    "berg",
+    "bach",
+    "hausen",
+    "heim",
+    "ingen",
+    "weiler",
+    "ach",
+    "ow",
+    "au",
+    "br\u00fcck",
+    "rode",
+    "walde",
+    "winkel",
+    "born",
+    "hof"
+  ]
+}

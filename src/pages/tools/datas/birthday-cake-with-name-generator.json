@@ -1,0 +1,74 @@
+{
+  "name": "Birthday Cake Name Generator",
+  "description": "Craving a slice of naming perfection? Our Birthday Cake Name Generator whips up sweet, personalized names faster than you can blow out the candles! Perfect for party planners, bakers, or anyone needing a sprinkle of name magic.",
+  "slug": "birthday-cake-name-generator",
+  "icon": "\ud83c\udf82",
+  "introduction": "Forget stale names! Our Birthday Cake Name Generator is your secret ingredient for creating names as unforgettable as that first bite of cake. Whether you're naming a bakery, a cake design, or just looking for some sweet inspiration, we've got you covered. Get ready to frost your world with awesome names!",
+  "howToUse": [
+    "First, take a deep breath and imagine the most delicious birthday cake EVER.",
+    "Next, click the 'Generate' button. (It's like making a wish, but for names!)",
+    "Behold! A freshly baked name appears! If it tickles your taste buds, great! If not, keep generating until you find the perfect flavor.",
+    "Feeling adventurous? Tweak the prefixes and suffixes for an extra layer of personalization. Go wild!",
+    "Share your delectable name with the world (or at least your friends). Prepare for compliments!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe everyone deserves a slice of name-generating goodness without paying a single crumb."
+    },
+    {
+      "question": "Can I use these names for my business?",
+      "answer": "You bet! All the names generated are yours to use as inspiration for your business, creative project, or even your pet unicorn (if you have one)."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart (and your stomach) desires! There's no limit to the sweetness you can create."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "They're a delightful mix of randomness and carefully curated word combinations designed to spark your creativity. It's like a surprise party for your brain!"
+    },
+    {
+      "question": "I don't like any of the names. What should I do?",
+      "answer": "No problem! Keep generating! Or, try adjusting the prefix and suffix options to fine-tune the results. Sometimes, a little tweak is all it takes to find the perfect name."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form. We're always looking for ways to make our generator even sweeter."
+    }
+  ],
+  "prefixes": [
+    "Sweet",
+    "Frosty",
+    "Sugar",
+    "Sprinkle",
+    "Confetti",
+    "Candied",
+    "Buttercream",
+    "Velvet",
+    "Decadent",
+    "Golden",
+    "Joyful",
+    "Celebration",
+    "Whimsical",
+    "Delightful",
+    "Birthday"
+  ],
+  "suffixes": [
+    "Cake",
+    "Bakery",
+    "Treats",
+    "Creations",
+    "Delights",
+    "Confections",
+    "Sweets",
+    "Studio",
+    "Shop",
+    "Company",
+    "Dreams",
+    "Magic",
+    "Wonder",
+    "Bliss",
+    "Party"
+  ]
+}

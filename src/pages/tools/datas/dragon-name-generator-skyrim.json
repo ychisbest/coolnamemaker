@@ -1,0 +1,83 @@
+{
+  "name": "Skyrim Dragon Name Generator",
+  "description": "Unleash your inner Dragonborn with our Skyrim Dragon Name Generator! Forge a fearsome name worthy of legend, inspired by the icy peaks and ancient lore of Tamriel.",
+  "slug": "skyrim-dragon-name-generator",
+  "icon": "\ud83d\udc09",
+  "introduction": "Ever dreamt of soaring through the skies of Skyrim, breathing fire and commanding respect? The first step is a name that echoes with power! Our generator crafts unique and authentic-sounding dragon names, drawing from the rich linguistic tapestry of the Elder Scrolls universe. Whether you're roleplaying, writing fan fiction, or just seeking a cool alias, we've got you covered. Get ready to claim your Draconic heritage!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the awesome power of name creation!",
+    "Don't like what you see? No problem! Mash that button again until a name worthy of your dragon's might appears.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a truly personalized name.",
+    "Share your epic dragon name with your friends and bask in the glory of their envy!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually used in Skyrim?",
+      "answer": "While we draw inspiration from Skyrim's language and naming conventions, most names are uniquely generated. You might find similarities, but expect a fresh and original feel!"
+    },
+    {
+      "question": "Can I use these names for my Dungeons & Dragons character?",
+      "answer": "Absolutely! While inspired by Skyrim, these names work perfectly for any fantasy setting where you need a powerful dragon name."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! Generate until you find the perfect name that resonates with your inner dragon."
+    },
+    {
+      "question": "Is the generator free to use?",
+      "answer": "Completely and utterly free! Unleash your draconic creativity without spending a single septim."
+    },
+    {
+      "question": "Will you add more prefixes and suffixes in the future?",
+      "answer": "We're always looking for ways to improve the generator! Stay tuned for updates with even more options to customize your dragon name."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We love community input! Feel free to send your suggestions our way. We can't guarantee they'll be added, but we'll definitely consider them."
+    }
+  ],
+  "prefixes": [
+    "Al",
+    "Bah",
+    "Dar",
+    "Fen",
+    "Gol",
+    "Hur",
+    "Jor",
+    "Kul",
+    "Lor",
+    "Mir",
+    "Nah",
+    "Ond",
+    "Pru",
+    "Qah",
+    "Rah",
+    "Sul",
+    "Thur",
+    "Ur",
+    "Vul",
+    "Wah"
+  ],
+  "suffixes": [
+    "ahkrin",
+    "bron",
+    "dah",
+    "fen",
+    "gon",
+    "haan",
+    "iiz",
+    "jormin",
+    "kot",
+    "lok",
+    "mah",
+    "nahgar",
+    "ol",
+    "rah",
+    "rok",
+    "staad",
+    "thur",
+    "ul",
+    "vor",
+    "wahlaan"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Spooky Name Generator",
+  "description": "Dare to delve into the darkness? Our Spooky Name Generator conjures up chilling and thrilling names perfect for your Halloween alter ego, horror characters, or anything that needs a touch of the macabre! Get ready to unleash your inner ghoul!",
+  "slug": "spooky-name-generator",
+  "icon": "\ud83d\udc7b",
+  "introduction": "Ever wished you had a name that sent shivers down spines? Or maybe you're crafting a terrifying tale and need the perfect moniker for your villain? Look no further! Our Spooky Name Generator is your one-stop shop for all things eerie and unsettling. From creepy clowns to haunted heroes, we've got a name to make your blood run cold (in a good way, of course!).",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A spooky name appears!",
+    "Don't like what you see? Click again! We've got endless terrifying combinations.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft your own personalized nightmare.",
+    "Copy and paste your favorite spooky name into your story, game, or social media profile. Prepare for goosebumps!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really *that* spooky?",
+      "answer": "We've tried to make it delightfully creepy! Results may vary based on your tolerance for the unsettling. Side effects may include mild fright and an uncontrollable urge to watch horror movies."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once generated, the name is all yours to use as you see fit. Go forth and create spooky masterpieces!"
+    },
+    {
+      "question": "Will this generator summon actual spirits?",
+      "answer": "While we can't guarantee any paranormal activity, we highly recommend having a nightlight handy... just in case. (Disclaimer: We are not responsible for any ghostly encounters.)"
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're constantly adding new and terrifying prefixes and suffixes to keep the spookiness fresh and exciting. Check back often for new name possibilities!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With countless combinations, you're bound to find a name that resonates with your inner ghoul. Or, you know, try a different generator on our site. We won't judge. Much."
+    },
+    {
+      "question": "Can I suggest new spooky prefixes and suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form. If we use your suggestion, we'll give you a shout-out (and maybe a virtual candy corn)."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Night",
+    "Blood",
+    "Grave",
+    "Specter",
+    "Phantom",
+    "Grim",
+    "Dark",
+    "Evil",
+    "Cursed",
+    "Wicked",
+    "Ghastly",
+    "Horror",
+    "Terror",
+    "Scream",
+    "Bone",
+    "Death",
+    "Soul",
+    "Crypt",
+    "Revenant",
+    "Wraith",
+    "Cadaver",
+    "Goblin",
+    "Demon"
+  ],
+  "suffixes": [
+    "claw",
+    "fang",
+    "shade",
+    "bane",
+    "geist",
+    "fiend",
+    "ghoul",
+    "wraith",
+    "skull",
+    "scream",
+    "howl",
+    "night",
+    "walker",
+    "stalker",
+    "ripper",
+    "slayer",
+    "whisper",
+    "curse",
+    "shadow",
+    "blood",
+    "thorn",
+    "bane",
+    "reaper",
+    "specter",
+    "doom"
+  ]
+}

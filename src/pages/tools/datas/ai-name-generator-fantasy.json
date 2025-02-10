@@ -1,0 +1,83 @@
+{
+  "name": "AI Fantasy Name Generator",
+  "description": "Struggling to find the perfect moniker for your valiant hero, mischievous mage, or fearsome dragon? Unleash the power of our AI Fantasy Name Generator! We'll conjure up names so epic, they'll make Tolkien jealous. Get ready to embark on a quest for the ultimate appellation!",
+  "slug": "ai-name-generator-fantasy",
+  "icon": "\ud83e\uddd9\u200d\u2642\ufe0f",
+  "introduction": "Welcome, adventurer! Tired of generic fantasy names that sound like they were pulled from a dusty scroll? Our AI-powered generator delves deep into the realms of imagination to forge names that are unique, evocative, and brimming with fantasy flair. Whether you're crafting a character for your next D&D campaign, writing a sprawling epic, or just need a cool online alias, we've got you covered. Prepare to be amazed by the sheer volume of fantastical names at your fingertips!",
+  "howToUse": [
+    "Simply click the 'Generate' button. Seriously, that's it! We've made it ridiculously easy.",
+    "Feast your eyes upon the glorious name that appears. If it resonates with your soul, claim it as your own!",
+    "Not feeling it? No problem! Click 'Generate' again for a fresh batch of fantastical possibilities. We've got an endless supply, so don't be shy!",
+    "Feeling creative? Tweak the prefixes and suffixes below to create a name that's truly unique to you! Mix, match, and experiment until you find the perfect fit."
+  ],
+  "faqs": [
+    {
+      "question": "How does the AI Fantasy Name Generator work?",
+      "answer": "Our generator uses a sophisticated AI algorithm trained on a vast library of fantasy literature, mythology, and gaming lore. It analyzes patterns, styles, and linguistic nuances to create names that sound authentic and captivating."
+    },
+    {
+      "question": "Are the names generated truly unique?",
+      "answer": "While we strive to create unique names, there's always a chance of overlap. However, with the vast number of combinations and our constantly evolving algorithm, you're highly likely to find a name that stands out."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Feel free to use the generated names for your books, games, businesses, or any other creative project. They're yours to command!"
+    },
+    {
+      "question": "Is the AI Fantasy Name Generator free to use?",
+      "answer": "Yes! Our generator is completely free for personal and commercial use. We believe that everyone should have access to awesome fantasy names!"
+    },
+    {
+      "question": "Will you add more prefixes and suffixes in the future?",
+      "answer": "Definitely! We're constantly updating our database with new and exciting elements to enhance the name generation experience. Stay tuned for more fantastical additions!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send your suggestions through our contact form. We appreciate your input and are always looking for ways to improve our generator."
+    }
+  ],
+  "prefixes": [
+    "Aerion",
+    "Sylvani",
+    "Grim",
+    "Eldrin",
+    "Frost",
+    "Shadow",
+    "Storm",
+    "Iron",
+    "Silver",
+    "Gold",
+    "Blood",
+    "Moon",
+    "Star",
+    "Sun",
+    "Whisper",
+    "Echo",
+    "Rune",
+    "Mystic",
+    "Dragon",
+    "Phoenix"
+  ],
+  "suffixes": [
+    "bane",
+    "heart",
+    "shade",
+    "wood",
+    "stone",
+    "claw",
+    "fang",
+    "blade",
+    "shield",
+    "song",
+    "wind",
+    "fire",
+    "light",
+    "shadow",
+    "weaver",
+    "walker",
+    "guard",
+    "caster",
+    "rider",
+    "born"
+  ]
+}

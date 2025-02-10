@@ -1,0 +1,83 @@
+{
+  "name": "Hungarian Name Generator",
+  "description": "Struggling to find the perfect Hungarian name? Look no further! Our generator conjures up authentic-sounding names with a touch of Magyar magic. Whether you're naming a character, a pet, or just curious about Hungarian nomenclature, we've got you covered. Prepare to be amazed by the sheer volume of possibilities!",
+  "slug": "hungarian-name-generator",
+  "icon": "\ud83c\udded\ud83c\uddfa",
+  "introduction": "Welcome to the ultimate Hungarian name generator! Forget endless Googling and dusty genealogy books. We've distilled the essence of Hungarian onomastics into a delightful, easy-to-use tool. From classic surnames to trendy first names, discover a world of Hungarian names waiting to be unearthed.",
+  "howToUse": [
+    "Simply click the 'Generate' button and *poof*! A brand-new Hungarian name appears before your very eyes.",
+    "Don't like the first result? Keep clicking! We have a seemingly infinite supply of names just waiting to be discovered.",
+    "Feeling fancy? Tweak the prefixes and suffixes to create a truly unique and unforgettable Hungarian name. Go wild, you little name wizard!",
+    "Share your awesome name with friends! Because everyone needs a cool Hungarian alter ego, right?"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually Hungarian?",
+      "answer": "Absolutely! We've curated our list of prefixes and suffixes from authentic Hungarian naming conventions. While some combinations might be\u2026 unique, they are all rooted in Hungarian linguistic traditions."
+    },
+    {
+      "question": "Can I use these names for my baby?",
+      "answer": "Of course! While we can't guarantee that every name will be perfectly traditional, many of them are perfectly suitable for a new arrival. Just do a little extra research to ensure it's a good fit for your family."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! We've got enough name combinations to keep you entertained for hours (or days!)."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You betcha! Our Hungarian Name Generator is completely free. Consider it our gift to the world of name enthusiasts."
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love to hear from you! Send us your suggestions and we'll consider adding them to our database. After all, the more names, the merrier!"
+    },
+    {
+      "question": "Why does one of the names generated sound a bit strange?",
+      "answer": "Hungarian names, like all names, have evolved over time. Some combinations may sound older or less common, but they are still based on legitimate Hungarian name elements. Embrace the uniqueness!"
+    }
+  ],
+  "prefixes": [
+    "S\u00e1ndor",
+    "Istv\u00e1n",
+    "L\u00e1szl\u00f3",
+    "J\u00f3zsef",
+    "B\u00e9la",
+    "Zolt\u00e1n",
+    "Attila",
+    "Ferenc",
+    "G\u00e1bor",
+    "Tam\u00e1s",
+    "\u00c1gnes",
+    "Erzs\u00e9bet",
+    "Katalin",
+    "Ilona",
+    "Margit",
+    "\u00c9va",
+    "M\u00e1ria",
+    "Judit",
+    "Anna",
+    "Zsuzsanna"
+  ],
+  "suffixes": [
+    "Kiss",
+    "Nagy",
+    "Szab\u00f3",
+    "Kov\u00e1cs",
+    "T\u00f3th",
+    "Horv\u00e1th",
+    "Varga",
+    "Moln\u00e1r",
+    "Farkas",
+    "Balogh",
+    "Papp",
+    "Simon",
+    "Ol\u00e1h",
+    "G\u00e1l",
+    "R\u00e1cz",
+    "Fekete",
+    "Vass",
+    "Lakatos",
+    "Tak\u00e1cs",
+    "M\u00e9sz\u00e1ros"
+  ]
+}

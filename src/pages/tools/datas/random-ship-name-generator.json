@@ -1,0 +1,88 @@
+{
+  "name": "Random Ship Name Generator",
+  "description": "Ahoy, matey! Need a name that'll make your vessel the talk of the seven seas (or at least the local marina)? Our Random Ship Name Generator is here to help you christen your beauty with a name that's as unique as your adventures. Prepare for names that are bold, quirky, and maybe a little bit\u2026out there.",
+  "slug": "random-ship-name-generator",
+  "icon": "\ud83d\udea2",
+  "introduction": "Forget scouring dusty nautical dictionaries! Our generator combines a treasure trove of prefixes and suffixes to conjure up ship names that range from the majestic to the downright hilarious. Whether you're naming a sailboat, a fishing trawler, or a rubber ducky for your bathtub, we've got you covered. Prepare to set sail on a sea of inspiration!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen!",
+    "Don't like the first name? Keep clicking! We've got enough combinations to fill the ocean.",
+    "Found a name you love? Write it down! (Or, you know, copy and paste it.)",
+    "Repeat until you find the perfect name that resonates with your ship's soul. (Yes, ships have souls. Don't @ me.)",
+    "Bonus points for shouting 'Ahoy!' while using the generator. It enhances the experience. Trust us."
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for a real ship?",
+      "answer": "Absolutely! Just make sure it's not already taken. Nobody wants a 'Titanic II' situation (knock on wood!). Check with your local maritime authority for registration rules."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes, they are! We use a sophisticated algorithm (aka a bunch of lists and some clever coding) to ensure a unique and unpredictable result every time."
+    },
+    {
+      "question": "Will the names be appropriate for all types of ships?",
+      "answer": "We aim for a wide range, but some names might be more suited for certain types of vessels. Use your best judgment! A name like 'The Rusty Bucket' might be perfect for a fishing boat but less so for a luxury yacht."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send them our way, and we'll consider adding them to our ever-growing list. Who knows, your suggestion might become the next big ship-naming trend!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You bet your barnacles it is! Use it as much as you like. We're here to help you find the perfect name without breaking the bank (or your piggy bank)."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! And if you *still* don't find one you love, try combining parts of different names, or use it as inspiration to come up with your own unique creation. The sea's the limit!"
+    }
+  ],
+  "prefixes": [
+    "Sea",
+    "Ocean",
+    "Star",
+    "Storm",
+    "Wave",
+    "Wind",
+    "Aqua",
+    "Royal",
+    "Golden",
+    "Silver",
+    "Iron",
+    "Mighty",
+    "Swift",
+    "Wandering",
+    "Crimson",
+    "Jade",
+    "Phantom",
+    "Silent",
+    "Unsinkable",
+    "Serene",
+    "Mystic",
+    "Eternal"
+  ],
+  "suffixes": [
+    "Dream",
+    "Voyager",
+    "Hunter",
+    "Chaser",
+    "Sailor",
+    "Queen",
+    "King",
+    "Tide",
+    "Shadow",
+    "Spirit",
+    "Fury",
+    "Heart",
+    "Horizon",
+    "Quest",
+    "Guardian",
+    "Phoenix",
+    "Eagle",
+    "Falcon",
+    "Warrior",
+    "Goddess",
+    "Emperor",
+    "Empress"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Horror Name Generator",
+  "description": "Unleash your inner monster! Need a chilling name for your horror character, story, or game? Our Horror Name Generator will conjure up the perfect moniker to send shivers down spines. Get ready to embrace the darkness!",
+  "slug": "name-generator-horror",
+  "icon": "\ud83d\udd2a",
+  "introduction": "Dare to delve into the abyss? This isn't your average name generator. We're talking bone-chilling, blood-curdling, nightmare-inducing names that will make your audience scream... with delight! Whether you're crafting a terrifying villain, a haunted location, or just looking for a spooky nickname, we've got you covered. Prepare to be horrified...ly impressed.",
+  "howToUse": [
+    "Click the 'Generate' button. (If you dare!)",
+    "Behold the horrifying name that appears! Mwahahaha!",
+    "Don't like it? (Understandable.) Click again for a fresh dose of terror.",
+    "Copy and paste your favorite name into your story, game, or creepy social media profile. (Warning: May attract unwanted attention from otherworldly entities.)",
+    "Repeat until your soul is sufficiently spooked\u2026 or you find the perfect name. Whichever comes first."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names *actually* scary?",
+      "answer": "We've tried our best to infuse each name with a healthy dose of dread. But fear is subjective! If you're not scared, you're clearly already a monster. Congrats!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once generated, the name is yours to use as you wish. Unleash it upon the world! (But maybe credit us if it makes you famous... just sayin'.)"
+    },
+    {
+      "question": "Will using this generator summon demons?",
+      "answer": "We can neither confirm nor deny this. Use at your own risk. (But seriously, probably not. Probably.)"
+    },
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "Expect a mix of classic horror tropes, modern terrors, and bizarre abominations. Think gothic castles, ancient evils, and things that go bump in the night... with chainsaws."
+    },
+    {
+      "question": "The generated name is too silly! Help!",
+      "answer": "Sometimes the algorithm has a sense of humor... a *dark* sense of humor. Click 'Generate' again! There are plenty of other horrors lurking in the shadows."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes?",
+      "answer": "We're always looking for ways to improve the generator's evil prowess! Send your suggestions our way. If they're spooky enough, we might just add them."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Crimson",
+    "Night",
+    "Blood",
+    "Death",
+    "Silent",
+    "Twisted",
+    "Forgotten",
+    "Lost",
+    "Eternal",
+    "Raven",
+    "Pale",
+    "Ghastly",
+    "Wretched",
+    "Desolate",
+    "Cursed",
+    "Haunted",
+    "Spectral",
+    "Abyssal",
+    "Doomed"
+  ],
+  "suffixes": [
+    "wood",
+    "moor",
+    "shade",
+    "fang",
+    "claw",
+    "mire",
+    "grave",
+    "bane",
+    "howl",
+    "whisper",
+    "shriek",
+    "veil",
+    "curse",
+    "tomb",
+    "mire",
+    "fiend",
+    "specter",
+    "wraith",
+    "void",
+    "maw"
+  ]
+}

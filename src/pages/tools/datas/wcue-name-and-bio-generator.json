@@ -1,0 +1,90 @@
+{
+  "name": "WCUE Name and Bio Generator",
+  "description": "Struggling to find the perfect name and captivating bio for your WCUE character? Fear not, aspiring wordsmith! Our generator conjures up cool, unique, and unforgettable names and bios that'll make your character the talk of the town (or at least, the chatroom).",
+  "slug": "wcue-name-and-bio-generator",
+  "icon": "\u2728",
+  "introduction": "Welcome to the ultimate WCUE (Warrior Cat Universe Edition) name and bio creation station! Whether you're diving into a new roleplay, crafting a compelling story, or just looking for inspiration, we've got you covered. Get ready to unleash your inner wordsmith and forge legendary identities!",
+  "howToUse": [
+    "First, take a deep breath and release any name-related stress. We've got this!",
+    "Click the 'Generate' button and watch the magic happen. We'll present you with a dazzling array of names and bios.",
+    "Don't be afraid to hit 'Generate' multiple times! The more you explore, the more likely you are to stumble upon the purr-fect fit.",
+    "Feeling creative? Mix and match elements from different names and bios to create something truly unique.",
+    "Once you've found 'the one', copy and paste it into your character profile and prepare for the accolades to roll in!"
+  ],
+  "faqs": [
+    {
+      "question": "What is WCUE?",
+      "answer": "WCUE stands for Warrior Cat Universe Edition. It's a popular online roleplaying platform based on the 'Warriors' book series by Erin Hunter."
+    },
+    {
+      "question": "Are the generated names and bios actually good?",
+      "answer": "We think so! We've poured our hearts and souls into crafting names and bios that are creative, engaging, and true to the spirit of WCUE. But ultimately, the best name is the one that *you* love!"
+    },
+    {
+      "question": "Can I use the generated names and bios for commercial purposes?",
+      "answer": "The names and bios generated are intended for personal, non-commercial use. Please don't try to sell them or claim them as your own original work."
+    },
+    {
+      "question": "I don't like any of the names/bios. What should I do?",
+      "answer": "Keep hitting that 'Generate' button! Or, get inspired by what you see and tweak the suggestions to your liking. The possibilities are endless!"
+    },
+    {
+      "question": "Will this generator guarantee that my character will be popular?",
+      "answer": "While a cool name and bio can certainly help, popularity also depends on your roleplaying skills, your character's personality, and your interactions with other players. But hey, a great name is a great start!"
+    },
+    {
+      "question": "How often is the generator updated with new prefixes and suffixes?",
+      "answer": "We're constantly working to improve the generator and add new content! Check back regularly for fresh inspiration and exciting updates."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Swift",
+    "Brave",
+    "Storm",
+    "Dawn",
+    "Silent",
+    "River",
+    "Flame",
+    "Night",
+    "Sky",
+    "Ember",
+    "Thorn",
+    "Willow",
+    "Stone",
+    "Leaf",
+    "Frost",
+    "Moon",
+    "Sun",
+    "Berry",
+    "Cloud",
+    "Pine",
+    "Hazel",
+    "Ash"
+  ],
+  "suffixes": [
+    "claw",
+    "fur",
+    "heart",
+    "whisker",
+    "tail",
+    "eye",
+    "song",
+    "stream",
+    "shade",
+    "flight",
+    "blaze",
+    "thorn",
+    "willow",
+    "stone",
+    "leaf",
+    "frost",
+    "moon",
+    "sun",
+    "berry",
+    "cloud",
+    "pine",
+    "hazel",
+    "ash"
+  ]
+}

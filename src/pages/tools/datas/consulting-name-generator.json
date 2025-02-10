@@ -1,0 +1,84 @@
+{
+  "name": "Consulting Name Generator",
+  "description": "Struggling to find the *perfect* name for your consulting business? Fear no more! Our Consulting Name Generator is here to conjure up names so brilliant, they'll practically sell themselves. Get ready to unleash your inner branding guru!",
+  "slug": "consulting-name-generator",
+  "icon": "\ud83d\udca1",
+  "introduction": "In the cutthroat world of consulting, a memorable name is your secret weapon. It's the first impression, the hook, the reason clients pick *you* from the crowd. Our generator blends business savvy with creative flair to deliver names that are both professional and unforgettable. Prepare for names that scream 'expertise'!",
+  "howToUse": [
+    "1. Just hit that big, shiny 'Generate' button. Go on, you know you want to!",
+    "2. Marvel at the sheer genius of the names that appear. (We're not kidding, some of these are *good*.)",
+    "3. If a name tickles your fancy, jot it down! Don't let brilliance slip through your fingers.",
+    "4. Keep generating until you find the one that makes you say, 'YES! That's *it*!'",
+    "5. Check if the domain name is available \u2013 wouldn\u2019t want anyone stealing your thunder."
+  ],
+  "faqs": [
+    {
+      "question": "Why do I need a cool consulting name?",
+      "answer": "Because 'John Smith Consulting' just isn't going to cut it in today's market! A great name grabs attention, builds trust, and sets you apart."
+    },
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe everyone deserves a shot at branding glory. Consider it our gift to the entrepreneurial universe."
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "You bet! Once you find a name you love, it's all yours to use and build your consulting empire upon. Go forth and conquer!"
+    },
+    {
+      "question": "The names are too 'out there' for me. Can I get something more serious?",
+      "answer": "Keep generating! The algorithm has a wide range, from corporate-chic to cutting-edge cool. You'll find something that fits your style."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Don't despair! Use them as inspiration. Sometimes, seeing a 'bad' name sparks the idea for a *great* one. Plus, you can always come back and generate more!"
+    },
+    {
+      "question": "How does the generator actually *work*?",
+      "answer": "Magic! Okay, fine, it's an algorithm that combines carefully curated prefixes and suffixes, designed to evoke specific emotions and associations. But 'magic' sounds cooler, right?"
+    }
+  ],
+  "prefixes": [
+    "Apex",
+    "Summit",
+    "Zenith",
+    "Clarity",
+    "Catalyst",
+    "Momentum",
+    "Synergy",
+    "Vanguard",
+    "Paradigm",
+    "Ascend",
+    "Evolve",
+    "Innovate",
+    "Strategic",
+    "Insight",
+    "Visionary",
+    "Global",
+    "Elite",
+    "Premier",
+    "NextGen",
+    "Quantum"
+  ],
+  "suffixes": [
+    "Solutions",
+    "Group",
+    "Partners",
+    "Advisors",
+    "Strategies",
+    "Consulting",
+    "Ventures",
+    "Dynamics",
+    "Enterprises",
+    "Collective",
+    "Alliance",
+    "Network",
+    "Institute",
+    "Systems",
+    "Global",
+    "Innovations",
+    "Edge",
+    "Ascent",
+    "Horizon",
+    "Pathways"
+  ]
+}

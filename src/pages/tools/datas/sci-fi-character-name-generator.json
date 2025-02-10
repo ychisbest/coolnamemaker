@@ -1,0 +1,85 @@
+{
+  "name": "Sci-Fi Character Name Generator",
+  "description": "Blast off into a galaxy of awesome names! Need a moniker for your daring space explorer, cunning cyborg, or enigmatic alien? Look no further! This generator will warp you to a universe of unique and unforgettable sci-fi character names.",
+  "slug": "sci-fi-character-name-generator",
+  "icon": "\ud83d\ude80",
+  "introduction": "Forget those generic space cadet names! Our Sci-Fi Character Name Generator is your portal to crafting truly memorable identities. Whether you're writing the next great space opera, designing a video game character, or just looking for a cool online alias, we've got you covered. Prepare to be amazed by the sheer variety of futuristic, alien, and technologically-advanced names at your fingertips.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic! \u2728",
+    "Don't like the first result? No sweat! Keep clicking until you find the PERFECT name that resonates with your character's soul (or circuit board).",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create your own custom sci-fi masterpiece. \ud83e\uddea",
+    "Remember, a great name is the first step to galactic domination! (Or, you know, a really cool story.) \ud83d\ude08"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my novel/game/comic?",
+      "answer": "Absolutely! These names are free for you to use in your creative projects. Go forth and conquer the literary galaxy!"
+    },
+    {
+      "question": "Are the names copyrighted?",
+      "answer": "Nope! We generate these names using a combination of algorithms and creative inspiration. They're all yours to play with."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions via our contact form. The more, the merrier (and the more futuristic)!"
+    },
+    {
+      "question": "I got a really weird name. Is that normal?",
+      "answer": "Totally! Sci-fi is all about the weird and wonderful. Embrace the strangeness! Maybe that's the name of a powerful AI... or a sentient space slug. \ud83d\udc7d"
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're constantly tweaking and improving the generator to bring you the freshest, most innovative names possible. Check back often for new possibilities!"
+    },
+    {
+      "question": "Does this generator create names for specific sci-fi races or species?",
+      "answer": "While it doesn't target specific races, the combinations are designed to evoke a wide range of sci-fi themes, from robotic to alien to futuristic human societies! Experiment and see what fits best!"
+    }
+  ],
+  "prefixes": [
+    "Astro-",
+    "Cyber-",
+    "Nova-",
+    "Quantum-",
+    "Mechano-",
+    "Terra-",
+    "Zenith-",
+    "Chrono-",
+    "Bio-",
+    "Xeno-",
+    "Void-",
+    "Stellar-",
+    "Nebula-",
+    "Galactic-",
+    "Hyper-",
+    "Infini-",
+    "Lunar-",
+    "Solar-",
+    "Radian-",
+    "Tech-",
+    "Syntho-"
+  ],
+  "suffixes": [
+    "-tron",
+    "-dax",
+    "-ara",
+    "-onius",
+    "-borg",
+    "-prime",
+    "-nova",
+    "-lyte",
+    "-rex",
+    "-ian",
+    "-7",
+    "-X",
+    "-Omega",
+    "-AI",
+    "-Core",
+    "-Drive",
+    "-Force",
+    "-Genesis",
+    "-Knight",
+    "-Star",
+    "-Void"
+  ]
+}

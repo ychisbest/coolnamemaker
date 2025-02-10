@@ -1,0 +1,107 @@
+{
+  "name": "Taylor Swift Song Name Generator",
+  "description": "Unleash your inner Swiftie and craft your own chart-topping hit with our Taylor Swift Song Name Generator! Get ready to create titles that are as catchy and unforgettable as Taylor's greatest hits. From whimsical fantasies to heartbreak anthems, the possibilities are endless. What will YOUR iconic song be called?",
+  "slug": "taylor-swift-song-name-generator",
+  "icon": "\ud83c\udfa4",
+  "introduction": "Ready to pen your own lyrical masterpiece? This generator blends the magic of Taylor Swift's songwriting style with a dash of pure imagination to produce song titles that are ready to top the charts. Whether you're a die-hard Swiftie or just looking for a spark of creative inspiration, get ready to discover the name of your next big hit!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic!",
+    "Feeling picky? Click again for a fresh dose of inspiration. We won't judge if you click a hundred times \u2013 finding the *perfect* title is a serious business!",
+    "Once you've got a title you love, write that song! Or at least hum a few bars and pretend you're headlining a stadium tour.",
+    "Share your amazing song titles with your friends and see who can create the most Taylor-esque hit!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually endorsed by Taylor Swift?",
+      "answer": "While we'd love to say yes (and dream of a co-writing session!), this is purely fan-made. But hey, maybe Taylor will stumble upon it and be inspired!"
+    },
+    {
+      "question": "Can I use these song titles for commercial purposes?",
+      "answer": "These titles are generated for fun and inspiration. If you plan on using them commercially, you're responsible for ensuring you're not infringing on any existing copyrights or trademarks."
+    },
+    {
+      "question": "What if I don't like the generated titles?",
+      "answer": "Keep clicking! We've got a whole vault of potential hits waiting to be discovered. The perfect title is out there, we promise!"
+    },
+    {
+      "question": "Are the generated titles based on real Taylor Swift songs?",
+      "answer": "The generator uses patterns and themes inspired by Taylor Swift's discography, but the titles themselves are original creations. You won't find these on any official album... yet!"
+    },
+    {
+      "question": "Will this generator make me as successful as Taylor Swift?",
+      "answer": "We can't guarantee global superstardom (sorry!), but it's a great starting point for your songwriting journey! The rest is up to you and your musical talent."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "Absolutely! We're always looking for ways to improve the generator. Send us your suggestions, and we'll see if we can incorporate them."
+    }
+  ],
+  "prefixes": [
+    "The",
+    "Red",
+    "Midnight",
+    "Haunted",
+    "Wildest",
+    "Delicate",
+    "Fearless",
+    "Enchanted",
+    "Invisible",
+    "Untouchable",
+    "Forever & Always",
+    "Begin Again",
+    "All Too Well",
+    "Style",
+    "Blank Space",
+    "Shake It Off",
+    "Look What You Made Me Do",
+    "Lover",
+    "Cardigan",
+    "Willow",
+    "August",
+    "Betty",
+    "Exile",
+    "The Last Great",
+    "My Tears Ricochet",
+    "This Is Me Trying",
+    "Mirrorball",
+    "Seven",
+    "Mad Woman",
+    "Invisible String",
+    "Peace"
+  ],
+  "suffixes": [
+    "Summer",
+    "Winter",
+    "Dreams",
+    "Nights",
+    "Whispers",
+    "Secrets",
+    "Promises",
+    "Goodbye",
+    "Revenge",
+    "Romance",
+    "Story",
+    "Curse",
+    "Wonderland",
+    "Masquerade",
+    "Serenade",
+    "Confessions",
+    "Memories",
+    "Rain",
+    "Storm",
+    "Lullaby",
+    "Ballad",
+    "Symphony",
+    "Echo",
+    "Illusion",
+    "Kiss",
+    "Heartbreak",
+    "Evermore",
+    "Folklore",
+    "State Of Grace",
+    "The Woods",
+    "The Lake",
+    "The Dress",
+    "Champagne Problems"
+  ]
+}

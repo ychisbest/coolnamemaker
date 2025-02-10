@@ -1,0 +1,104 @@
+{
+  "name": "Zelda Name Generator",
+  "description": "Struggling to come up with the perfect moniker for your Hylian hero or villainous Ganondorf? Fear not! Our Zelda Name Generator is here to sprinkle some Hyrule magic on your character creation process. Get ready for names that even the Great Deku Tree would approve of!",
+  "slug": "zelda-name-generator",
+  "icon": "\ud83d\udee1\ufe0f",
+  "introduction": "Whether you're role-playing, writing fan fiction, or just need a cool username, finding the right name is crucial. Our generator combines classic Zelda elements with a touch of randomness to create names that are both familiar and unique. Prepare to embark on a naming quest worthy of the Triforce!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new Zelda-esque name appears before your very eyes!",
+    "Not feeling the first result? No problem! Keep clicking until you find the name that resonates with your inner Link or Zelda.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to craft a truly one-of-a-kind name. The possibilities are as vast as Hyrule Field!",
+    "Share your awesome new name with your friends and let them bask in your naming genius. Just don't let them steal it!",
+    "Remember, the best name is the one that feels right. Trust your instincts, young adventurer!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we encourage creativity, these names are intended for personal use. Using them for commercial purposes might infringe on existing trademarks and copyrights. So, play it safe and keep it fun!"
+    },
+    {
+      "question": "Are the generated names actually from Zelda games?",
+      "answer": "Some names might be inspired by existing characters or locations, but most are creatively generated to evoke the spirit of the Zelda universe. Think of it as a tribute, not a direct copy!"
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're always striving to improve and expand our generator! Expect periodic updates with new prefixes, suffixes, and even entirely new naming conventions inspired by the latest Zelda adventures."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added?",
+      "answer": "Absolutely! We love hearing from our users. Send us your suggestions, and if they're truly worthy of the Triforce, we might just add them to the generator!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! The beauty of randomness is that eventually, you'll find the perfect name. Or, get inspired and create your own using the generator as a starting point. The power is in your hands!"
+    },
+    {
+      "question": "Is this generator compatible with all devices?",
+      "answer": "Yes! Our Zelda Name Generator works seamlessly on desktops, tablets, and smartphones. Generate names on the go, whether you're exploring Hyrule Field (or just waiting for the bus)."
+    }
+  ],
+  "prefixes": [
+    "Link",
+    "Zeld",
+    "Ganon",
+    "Impa",
+    "Navi",
+    "Sheik",
+    "Midn",
+    "Tingle",
+    "Epon",
+    "Hyru",
+    "Triforc",
+    "Master",
+    "Deku",
+    "Kokir",
+    "Goron",
+    "Zor",
+    "Gerud",
+    "Twiligh",
+    "Skywar",
+    "Spirit",
+    "Time",
+    "Majora",
+    "Calamit",
+    "Ancient"
+  ],
+  "suffixes": [
+    "a",
+    "us",
+    "on",
+    "i",
+    "ia",
+    "o",
+    "or",
+    "an",
+    "in",
+    "el",
+    "is",
+    "os",
+    "ex",
+    "ix",
+    "yx",
+    "ion",
+    "ane",
+    "ard",
+    "ald",
+    "eth",
+    "ith",
+    "yth",
+    "ane",
+    "ine",
+    "yne",
+    "ian",
+    "yon",
+    "wyn",
+    "art",
+    "ert",
+    "irt",
+    "yrt",
+    "ard",
+    "erd",
+    "ird",
+    "yrd"
+  ]
+}

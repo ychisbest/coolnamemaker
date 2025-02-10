@@ -1,0 +1,83 @@
+{
+  "name": "Mercenary Name Generator",
+  "description": "Ready to dive into the shadows and need a name that screams 'elite operative'? Our Mercenary Name Generator is your one-stop shop for crafting the perfect moniker. Whether you're writing a gritty thriller, rolling a new RPG character, or just need a cool alias, we've got you covered. Unleash your inner badass!",
+  "slug": "mercenary-name-generator",
+  "icon": "\ud83e\uddb9",
+  "introduction": "Forget boring names! This generator is designed to forge names that reek of danger, skill, and a touch of mystery. We're talking names that strike fear into the hearts of your enemies (or at least sound like they would). Get ready to embrace your dark side and find a name worthy of your legendary exploits. No more 'Bob' the Mercenary \u2013 it's time for 'Shadowstrike' or 'Viper'!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A unique mercenary name will be conjured from the depths.",
+    "Not feeling the first result? No sweat! Hit 'Generate' again for endless possibilities.",
+    "Found a name you love? Copy it and claim it as your own. Go forth and conquer (or at least sound like you could).",
+    "Want something *really* specific? Play around with the prefixes and suffixes. Mix and match until you find your perfect fit. It's like a name buffet!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe everyone deserves a cool mercenary name, no strings attached. Consider it a public service... for aspiring anti-heroes."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Go for it! Once a name is generated, it's yours to use as you see fit. Just don't come crying to us if someone else also generates the same name. First come, first served, mercenary style!"
+    },
+    {
+      "question": "How are these names generated?",
+      "answer": "A secret blend of algorithms, linguistic databases, and a healthy dose of dark imagination. We've poured over countless books, movies, and games to create the ultimate mercenary name formula."
+    },
+    {
+      "question": "Will these names make me instantly skilled in combat?",
+      "answer": "Sadly, no. But you'll *sound* much more intimidating. Actual combat skills sold separately."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes?",
+      "answer": "We're always open to suggestions! Send us your ideas, and we might just add them to the generator. Help us build the ultimate arsenal of mercenary names!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! With countless combinations, you're bound to find a name that resonates with your inner mercenary. Or, you know, you could just pick something random. Sometimes the best names are the unexpected ones."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Night",
+    "Steel",
+    "Iron",
+    "Crimson",
+    "Silent",
+    "Ghost",
+    "Venom",
+    "Viper",
+    "Death",
+    "Black",
+    "Blood",
+    "Stone",
+    "Storm",
+    "Frost",
+    "Rogue",
+    "Wild",
+    "Grim",
+    "Dark",
+    "Skull"
+  ],
+  "suffixes": [
+    "strike",
+    "blade",
+    "fang",
+    "claw",
+    "hand",
+    "eye",
+    "walker",
+    "hunter",
+    "reaper",
+    "slayer",
+    "bringer",
+    "guard",
+    "shield",
+    "fist",
+    "breaker",
+    "crusher",
+    "stalker",
+    "phantom",
+    "wraith",
+    "shade"
+  ]
+}

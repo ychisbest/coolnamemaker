@@ -1,0 +1,83 @@
+{
+  "name": "Warhammer 40k Planet Name Generator",
+  "description": "Forge names worthy of the God-Emperor! Generate epic and grimdark planet names for your Warhammer 40k campaigns and stories.",
+  "slug": "warhammer-40k-planet-name-generator",
+  "icon": "\ud83e\ude90",
+  "introduction": "In the grim darkness of the far future, there is only war... and a whole lot of planets! Need a suitably imposing name for the next battlefield in your Warhammer 40k saga? Or perhaps you're crafting a whole new sector of space? Look no further! This generator will churn out planet names dripping with the atmosphere of the 41st Millennium. Prepare to be inspired, Inquisitor!",
+  "howToUse": [
+    "Simply click the 'Generate' button. Seems easy enough, right? Even a guardsman could manage it.",
+    "Observe the glorious name presented before you. Is it suitably grim? Does it evoke the dread and majesty of the Imperium? If not...",
+    "Click 'Generate' again! Keep going until you find the perfect name to strike fear into the hearts of heretics and xenos scum.",
+    "Copy the name and unleash it upon your unsuspecting players or readers. Watch them tremble before the might of your creativity!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names officially sanctioned by Games Workshop?",
+      "answer": "By the God-Emperor, no! This is a fan-made tool for inspiration. Use them as is, modify them, or just let them spark your own creativity."
+    },
+    {
+      "question": "Can I use these names in my fan fiction or tabletop campaigns?",
+      "answer": "Absolutely! Go forth and spread the grim darkness (and the awesome planet names) far and wide!"
+    },
+    {
+      "question": "Will this generator create names for other Warhammer factions, like Orks or Eldar?",
+      "answer": "Currently, this generator focuses on names appropriate for the Imperium of Man. However, future updates may include options for other factions. Stay tuned, and praise the Omnissiah!"
+    },
+    {
+      "question": "I generated a name that sounds... a bit silly. Is that normal?",
+      "answer": "The Warp is a strange and chaotic place, and sometimes that chaos spills over into name generation. Just hit 'Generate' again \u2013 the God-Emperor provides!"
+    },
+    {
+      "question": "Is this generator safe to use? I don't want to attract the attention of the Inquisition.",
+      "answer": "This generator is completely safe! Unless, of course, you use the names to summon daemons or incite heresy. Then you're on your own, citizen."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "Absolutely! We welcome your contributions! Leave a comment or suggestion, and we'll consider adding them to the generator's lexicon. For the Emperor!"
+    }
+  ],
+  "prefixes": [
+    "Agri-",
+    "Arma-",
+    "Baal",
+    "Cadian",
+    "Crimson",
+    "Dark",
+    "Forge",
+    "Golgotha",
+    "Hive",
+    "Iron",
+    "Necro-",
+    "Nova",
+    "Obsidian",
+    "Sanctus",
+    "Terra",
+    "Tyran",
+    "Veridian",
+    "Xanthos",
+    "Void",
+    "Wrath"
+  ],
+  "suffixes": [
+    "-Prime",
+    "-Secundus",
+    "-Tertius",
+    "-IV",
+    "-V",
+    "-Majoris",
+    "-Minoris",
+    "-Omega",
+    "-Alpha",
+    "-Beta",
+    "-Gamma",
+    "-Forge",
+    "-World",
+    "-Hive",
+    "-Gloom",
+    "-Hope",
+    "-Despair",
+    "-Mortis",
+    "-Regulus",
+    "-Ultima"
+  ]
+}

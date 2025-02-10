@@ -1,0 +1,84 @@
+{
+  "name": "Demoness Name Generator",
+  "description": "Unleash your inner darkness and discover a wickedly cool demoness name! Perfect for your next RPG character, fantasy novel, or just embracing your mischievous side. Get ready to be seduced by the shadows...",
+  "slug": "demoness-name-generator",
+  "icon": "\ud83d\ude08",
+  "introduction": "Feeling a little\u2026diabolical? Need a name that screams power, mystery, and a touch of the infernal? Our Demoness Name Generator is here to help! We\u2019ve conjured up a cauldron full of prefixes and suffixes to create names that are as captivating as they are terrifying. Whether you're writing a dark fantasy novel, rolling a new character in Dungeons & Dragons, or simply looking for a unique and memorable name, you've come to the right place. Prepare to embrace your inner demoness!",
+  "howToUse": [
+    "Click the 'Generate' button (or summon it with dark magic, your call).",
+    "Behold! A brand-new, deliciously wicked demoness name appears before your very eyes.",
+    "Not feeling the name? No problem! Just click 'Generate' again for another dose of dark inspiration.",
+    "Copy and paste your favorite name into your story, game, or social media profile. Watch the world tremble!",
+    "Repeat until you find the perfect name that resonates with your inner demon. Remember, power is in the name!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we encourage creativity, these names are generated for fun and inspiration. We recommend checking for trademark conflicts if you plan to use a name commercially."
+    },
+    {
+      "question": "Are these names actually demonic?",
+      "answer": "Nope! These names are purely fictional and designed to evoke a dark fantasy aesthetic. No actual demons were harmed (or summoned) in the making of this generator."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "Absolutely! We're always looking for ways to improve. Send your suggestions our way, and we might just add them to our infernal lexicon."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! With so many combinations, you're bound to find a name that tickles your dark fancy. Alternatively, use the generator as a starting point and tweak the names to your liking."
+    },
+    {
+      "question": "Is this generator safe to use?",
+      "answer": "As safe as dabbling in the dark arts can be! We don't collect any personal information, so your secrets are safe with us\u2026 and the demons, probably."
+    },
+    {
+      "question": "Will using a demoness name curse me?",
+      "answer": "Highly unlikely! But if you suddenly develop a craving for brimstone and a penchant for shadowy corners, well\u2026 we warned you. (Just kidding\u2026 mostly.)"
+    }
+  ],
+  "prefixes": [
+    "Mal",
+    "Nyx",
+    "Lil",
+    "Mor",
+    "Obsid",
+    "Shadow",
+    "Crim",
+    "Vex",
+    "Noct",
+    "Umbr",
+    "Seraph",
+    "Bell",
+    "Hex",
+    "Void",
+    "Whisper",
+    "Ruin",
+    "Doom",
+    "Gloom",
+    "Sin",
+    "Blight"
+  ],
+  "suffixes": [
+    "ara",
+    "ina",
+    "issa",
+    "iel",
+    "ia",
+    "eth",
+    "yth",
+    "ane",
+    "yre",
+    "ynn",
+    "iel",
+    "essa",
+    "aris",
+    "astra",
+    "vaine",
+    "lyss",
+    "dria",
+    "wyn",
+    "dris",
+    "dath"
+  ]
+}

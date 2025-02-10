@@ -1,0 +1,74 @@
+{
+  "name": "Game Name Generator AI",
+  "description": "Struggling to find the perfect name for your next gaming masterpiece? Let our AI conjure up a list of names so epic, they'll make you wanna shout 'Game Over!' to the competition. Unleash the power of awesome, one name at a time!",
+  "slug": "game-name-generator-ai",
+  "icon": "\ud83c\udfae",
+  "introduction": "Welcome, game developer, streamer, or just a gamer with big dreams! This AI-powered generator is your secret weapon for crafting unforgettable game names. Forget endless brainstorming sessions and generic titles \u2013 we're bringing the future of name generation to your fingertips. Prepare to be amazed!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! Our AI will whip up a list of potential game names.",
+    "Don't like what you see? No worries! Click 'Generate' again for a fresh batch of ideas.",
+    "Found a name you love? Copy it and paste it into your project. Boom! Instant game name glory.",
+    "Feeling adventurous? Tweak the generated names to make them even more unique. After all, you're the creative genius here!",
+    "Share your awesome game (and its equally awesome name) with the world!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the AI game name generator work?",
+      "answer": "Our AI uses a sophisticated algorithm trained on a massive dataset of successful game titles, fantasy novels, and sci-fi epics. It identifies patterns and creates unique combinations to generate names that are both catchy and relevant."
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "Absolutely! All generated names are free for you to use in your games, streams, or any other projects. Consider us your creative sidekick!"
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Generated names are not automatically copyrighted. However, it's always a good idea to perform a trademark search to ensure that the name isn't already in use, especially if you're planning on using it for a commercial product."
+    },
+    {
+      "question": "The names are a bit\u2026 weird. Can I influence the style?",
+      "answer": "We're constantly improving our AI! While there isn't a direct style selector *yet*, keep generating! You'll find some gems, and your feedback helps us train the AI for future updates. Think of it like teaching a robot to appreciate art - it takes time (and lots of data)!"
+    },
+    {
+      "question": "How often is the AI updated with new data?",
+      "answer": "We're always feeding the AI with fresh data to keep the name generation process cutting-edge. Expect regular updates with new vocabulary, trends, and naming conventions."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator to use?",
+      "answer": "While you can't directly input prefixes or suffixes, we love hearing your ideas! Send your suggestions to our support team, and we'll consider them for future updates."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Cyber",
+    "Galactic",
+    "Mystic",
+    "Crimson",
+    "Steel",
+    "Neon",
+    "Void",
+    "Eternal",
+    "Ancient",
+    "Pixel",
+    "Quantum",
+    "Astral",
+    "Rogue",
+    "Silent"
+  ],
+  "suffixes": [
+    "Strike",
+    "Quest",
+    "Legacy",
+    "Chronicles",
+    "Wars",
+    "Odyssey",
+    "Frontier",
+    "Awakening",
+    "Reborn",
+    "Syndicate",
+    "Protocol",
+    "Engine",
+    "Horizon",
+    "Blade",
+    "Genesis"
+  ]
+}

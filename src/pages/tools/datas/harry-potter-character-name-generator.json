@@ -1,0 +1,113 @@
+{
+  "name": "Harry Potter Character Name Generator",
+  "description": "Accio, awesome names! Need a magical moniker for your fanfic, RPG character, or just for kicks? Our Harry Potter Character Name Generator conjures up enchanting names straight from the wizarding world. Prepare to be sorted into the House of Awesome Names!",
+  "slug": "harry-potter-character-name-generator",
+  "icon": "\ud83e\uddd9\u200d\u2642\ufe0f",
+  "introduction": "Ever dreamt of being a wizard or witch? Or perhaps a mischievous house-elf? Now you can have a name to match! Our generator combines classic wizarding world elements with a dash of creativity to produce names that sound like they belong in Hogwarts itself. Get ready to brew up some magical identities!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! \u2728",
+    "Feeling picky? Keep clicking until you find a name that speaks to your inner wizard.",
+    "Got a specific vibe in mind? Tweak the prefixes and suffixes to craft the perfect name.",
+    "Share your enchanting creations with your friends and spread the wizarding world joy!",
+    "Remember, with great names, comes great responsibility... to use them wisely! \ud83d\ude09"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my Harry Potter fan fiction?",
+      "answer": "Absolutely! These names are crafted to spark your creativity and add a touch of authenticity to your stories. Go forth and write your magical tales!"
+    },
+    {
+      "question": "Are these names actually from the Harry Potter books?",
+      "answer": "While some elements are inspired by the books, most of these names are uniquely generated. They aim to capture the *feeling* of the wizarding world rather than directly replicating existing character names."
+    },
+    {
+      "question": "How does the generator come up with these names?",
+      "answer": "Our magical algorithm combines a curated list of wizarding-world-inspired prefixes and suffixes, adding a sprinkle of randomness to create unique and memorable names. Think of it as potion-making, but for names!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to add to the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form, and we'll consider adding them to our magical concoction."
+    },
+    {
+      "question": "Is this generator endorsed by J.K. Rowling or Warner Bros.?",
+      "answer": "Nope! This is a fan-made tool created with love for the Harry Potter universe. We're just a bunch of Potterheads who wanted to help others find the perfect wizarding name."
+    },
+    {
+      "question": "The generated name is weird, what can I do?",
+      "answer": "Some names are more magical than others! Keep generating, and you'll find something that resonates with you. You can also adjust the prefixes and suffixes to make it sound better."
+    }
+  ],
+  "prefixes": [
+    "Albus",
+    "Hermi",
+    "Rona",
+    "Sever",
+    "Ginny",
+    "Luci",
+    "Drac",
+    "Harr",
+    "Vold",
+    "Bell",
+    "Nevi",
+    "Luna",
+    "Cho",
+    "Cedr",
+    "Fleur",
+    "Viktor",
+    "Rem",
+    "Siri",
+    "Lily",
+    "James",
+    "Peter",
+    "Dolor",
+    "Kings",
+    "Arth",
+    "Percy",
+    "Fred",
+    "Geor",
+    "Rube",
+    "Minerv",
+    "Fili",
+    "Pom",
+    "Hor",
+    "Quiri",
+    "Snape"
+  ],
+  "suffixes": [
+    "on",
+    "one",
+    "a",
+    "er",
+    "us",
+    "ia",
+    "ius",
+    "issa",
+    "andra",
+    "ella",
+    "ina",
+    "ius",
+    "eus",
+    "ion",
+    "ance",
+    "ent",
+    "old",
+    "dore",
+    "mort",
+    "trix",
+    "ville",
+    "bot",
+    "der",
+    "long",
+    "good",
+    "weasley",
+    "granger",
+    "potter",
+    "malfoy",
+    "black",
+    "dumbledore",
+    "mcgonagall",
+    "sprout",
+    "flitwick",
+    "hagrid"
+  ]
+}

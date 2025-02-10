@@ -1,0 +1,76 @@
+{
+  "name": "Juggalo Name Generator",
+  "description": "Wicked clowns, Faygo showers, and now...your very own Juggalo name!  Find your inner clown and get ready to represent the Dark Carnival with a name that's 100% Juggalo.",
+  "slug": "juggalo-name-generator",
+  "icon": "\ud83e\udd21",
+  "introduction": "Step right up, fam!  Tired of your boring, everyday name?  Yearning for something a little...wackier?  Our Juggalo Name Generator is here to unleash your inner clown.  Whether you're a seasoned ninja or just dipping your toes into the Faygo-soaked world of the Dark Carnival, we've got the perfect moniker to get you headbanging and whooping it up.  So, grab your hatchet, crack open a Faygo, and let's find your true Juggalo identity! Whoop whoop!",
+  "howToUse": [
+    "First, take a deep breath of that sweet, sweet carnival air (or just, you know, the air in your room).",
+    "Next, click that glorious 'Generate' button!  Don't be shy, it's waiting for you.",
+    "Behold! Your brand new Juggalo name will magically appear.  If you don't like it (which is unlikely, because it's awesome), just hit that button again for another dose of clown-tastic goodness.",
+    "Share your newfound Juggalo identity with the world!  Tag your homies, update your socials, and get ready to represent the Dark Carnival with pride. Whoop whoop!"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* a Juggalo?",
+      "answer": "Juggalos are fans of the Insane Clown Posse (ICP) and other Psychopathic Records artists.  More than just music fans, they're a tight-knit community that embraces individuality, loyalty, and a healthy dose of the absurd."
+    },
+    {
+      "question": "Are these names *actually* Juggalo names?",
+      "answer": "Well, we can't guarantee ICP will start calling you by your generated name (though, wouldn't that be awesome?). But we've crafted these names to capture the spirit and flavor of Juggalo culture. They're fun, unique, and definitely stand out from the crowd!"
+    },
+    {
+      "question": "Can I use this name for real?",
+      "answer": "Absolutely! Consider it your Juggalo alter ego. Use it online, at concerts, or just when you're feeling extra clowny. Just remember to be respectful and represent the Juggalo community with pride."
+    },
+    {
+      "question": "What if I don't like the name I get?",
+      "answer": "No problem, ninja! Just hit the 'Generate' button again. There are countless possibilities, so you're sure to find a name that resonates with your inner clown."
+    },
+    {
+      "question": "Is this generator endorsed by ICP or Psychopathic Records?",
+      "answer": "Nope! This is just a fan-made tool created out of love for the Dark Carnival. We're not affiliated with ICP or Psychopathic Records, but we're definitely down with the clown!"
+    },
+    {
+      "question": "Why Faygo?",
+      "answer": "Faygo is the official soft drink of Juggalos! ICP started spraying it on the audience during shows, and it's become a beloved tradition.  Plus, it's delicious and comes in a ton of crazy flavors."
+    }
+  ],
+  "prefixes": [
+    "Violent",
+    "Wicked",
+    "Psycho",
+    "Dark",
+    "Mad",
+    "Crazy",
+    "Insane",
+    "Grim",
+    "Shadow",
+    "Twisted",
+    "Bloody",
+    "Ghastly",
+    "Faygo-Soaked",
+    "Hatchet",
+    "Carnival",
+    "Murder",
+    "Sinister"
+  ],
+  "suffixes": [
+    "Clown",
+    "Ninja",
+    "Jester",
+    "Fiend",
+    "Demon",
+    "Man",
+    "Babe",
+    "Kid",
+    "Juggalo",
+    "Juggalette",
+    "Killa",
+    "Wicked One",
+    "Shadow",
+    "Carnie",
+    "Darkness",
+    "Ghoul"
+  ]
+}

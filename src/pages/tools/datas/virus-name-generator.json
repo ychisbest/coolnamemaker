@@ -1,0 +1,91 @@
+{
+  "name": "Virus Name Generator",
+  "description": "Unleash your inner mad scientist! Need a name for your next biological creation (purely fictional, of course!)? Our Virus Name Generator is here to help. We'll conjure up the most chilling, evocative, and scientifically-plausible names for your viruses, bacteria, and other microscopic mayhem-makers.",
+  "slug": "virus-name-generator",
+  "icon": "\ud83e\udda0",
+  "introduction": "Tired of calling your virus 'Bob'? Want something that strikes fear into the hearts of epidemiologists (and gamers)? You've come to the right place. Our generator combines scientific terminology, mythical allusions, and a dash of pure evil genius to create the perfect moniker for your virtual plague.",
+  "howToUse": [
+    "Simply click the 'Generate' button. Like, seriously, that's it.",
+    "Marvel at the terrifyingly cool name that appears.",
+    "Copy and paste that bad boy into your project, story, or doomsday plan (we're not judging!).",
+    "Repeat until you find the *perfect* name to unleash upon the world...or, you know, just use for your D&D character."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually creating real virus names?",
+      "answer": "Absolutely not! These are fictional names, designed for entertainment purposes only. Please don't try to create a real virus based on these names. We wouldn't want to be responsible for the next pandemic... or would we? (Just kidding!)"
+    },
+    {
+      "question": "Can I use these names for my science fiction story?",
+      "answer": "Of course! That's exactly what this generator is for. Go wild and create some terrifyingly realistic viruses for your characters to battle."
+    },
+    {
+      "question": "Are the names scientifically accurate?",
+      "answer": "We try to incorporate elements of scientific terminology, but ultimately, the goal is to create cool and evocative names, not necessarily 100% scientifically accurate ones. Consider it 'science-inspired'!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form. We're always looking for ways to improve our generator and make it even more terrifying...err, I mean, useful!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, absolutely! Use it as much as you like. Spread the (fictional) viral love! We only ask that you don't blame us when your world domination plan succeeds."
+    },
+    {
+      "question": "What if I don't like the names it generates?",
+      "answer": "Keep clicking! We've got a virtually endless supply of terrifyingly creative names just waiting to be unleashed. Persistence is key to finding the perfect pathogen title!"
+    }
+  ],
+  "prefixes": [
+    "Morti",
+    "Necro",
+    "Viru",
+    "Patho",
+    "Toxi",
+    "Cryo",
+    "Pyro",
+    "Mega",
+    "Giga",
+    "Nano",
+    "Alpha",
+    "Omega",
+    "Crimson",
+    "Shadow",
+    "Plague",
+    "Bio",
+    "Xeno",
+    "Terra",
+    "Aqua",
+    "Astro",
+    "Solar",
+    "Lunar",
+    "Quantum",
+    "Void"
+  ],
+  "suffixes": [
+    "X",
+    "Z",
+    "Prime",
+    "Max",
+    "Omega",
+    "Alpha",
+    "Lysis",
+    "Genesis",
+    "Mortis",
+    "Infecta",
+    "Doom",
+    "Bane",
+    "Strike",
+    "Claw",
+    "Fang",
+    "Nova",
+    "Storm",
+    "Void",
+    "Zero",
+    "One",
+    "Two",
+    "Three",
+    "Rex",
+    "Venom"
+  ]
+}

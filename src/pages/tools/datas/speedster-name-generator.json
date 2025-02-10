@@ -1,0 +1,74 @@
+{
+  "name": "Speedster Name Generator",
+  "description": "Need a name that screams speed, agility, and pure adrenaline? Look no further! Our Speedster Name Generator will conjure up the perfect moniker for your superhero, race car, or anything that needs a turbo boost of coolness.",
+  "slug": "speedster-name-generator",
+  "icon": "\ud83d\udca8",
+  "introduction": "Ever dreamt of being the fastest thing alive? A name is the first step! This generator combines electrifying prefixes and suffixes to create names that evoke the thrill of velocity. Get ready to leave your rivals in the dust!",
+  "howToUse": [
+    "First, brace yourself for awesomeness.",
+    "Next, simply click the 'Generate' button. (It's the one that looks like it's about to break the sound barrier.)",
+    "Voila! A speedster name appears before your very eyes. If it doesn't make you feel like you can outrun a cheetah, generate another!",
+    "Keep clicking until you find a name that resonates with your inner speed demon.",
+    "Use your new name to conquer the world... or at least win that go-kart race."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to make me faster?",
+      "answer": "While we can't guarantee superhuman speed, a cool name might give you the confidence you need to push your limits! (Results may vary. Consult your physician before attempting to break the sound barrier.)"
+    },
+    {
+      "question": "Can I use these names for my video game character?",
+      "answer": "Absolutely! These names are perfect for video game characters, superheroes, race car drivers, and anyone who needs a name that embodies speed and agility."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yep! We use a complex (but super-fast) algorithm to combine prefixes and suffixes in unexpected ways. Prepare for some truly unique and electrifying names!"
+    },
+    {
+      "question": "What if I don't like the name that's generated?",
+      "answer": "No problem! Just hit the 'Generate' button again. We have an endless supply of speedster names just waiting to be unleashed."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added to the generator?",
+      "answer": "We're always open to suggestions! Send us your ideas, and if they're fast enough, we might just add them to the mix."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Totally free! Speedster name generation should be accessible to everyone, regardless of their budget. Go forth and name things swiftly!"
+    }
+  ],
+  "prefixes": [
+    "Hyper",
+    "Mega",
+    "Velocity",
+    "Quicksilver",
+    "Zoom",
+    "Blitz",
+    "Turbo",
+    "Sonic",
+    "Mach",
+    "Light",
+    "Rapid",
+    "Comet",
+    "Impulse",
+    "Accel",
+    "Nitro"
+  ],
+  "suffixes": [
+    "Flash",
+    "Strike",
+    "Surge",
+    "Wing",
+    "Jet",
+    "Runner",
+    "Racer",
+    "Bolt",
+    "Dash",
+    "Force",
+    "Shift",
+    "Drive",
+    "Burner",
+    "Spark",
+    "Wave"
+  ]
+}

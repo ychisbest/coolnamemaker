@@ -1,0 +1,119 @@
+{
+  "name": "Palico Name Generator",
+  "description": "Unleash your inner hunter and forge the purr-fect name for your feline companion!  Whether you're a seasoned Monster Hunter or just starting your quest, this generator will help you find a name worthy of your Palico's epic skills. Get ready to meow-nster hunt!",
+  "slug": "palico-name-generator",
+  "icon": "\ud83d\udc3e",
+  "introduction": "Your Palico is your loyal partner in the Monster Hunter world.  They deserve a name as unique and awesome as they are!  This generator combines cool prefixes and suffixes to create names that are both fitting and fun. Say goodbye to 'Kitty' and hello to legend!",
+  "howToUse": [
+    "Simply click the 'Generate' button.  It's like petting your Palico - instant joy!",
+    "Don't like the first result?  Keep clicking!  We've got more names than a Meowscular Chef has recipes.",
+    "Found the purr-fect name?  Copy it and share it with your hunting party!  Bragging rights are included.",
+    "Feeling creative? Mix and match prefixes and suffixes for a truly unique Palico identity. Go wild!",
+    "Still stuck? Refresh the page for a whole new batch of name-generating goodness! We're here to help you find the name of your dreams!"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* a Palico?",
+      "answer": "A Palico is your feline companion in the Monster Hunter games. They're adorable, helpful, and fiercely loyal... unless you forget to feed them. Then they might judge you a little."
+    },
+    {
+      "question": "Are these names suitable for all Palicos?",
+      "answer": "Absolutely! Whether your Palico is a brave fighter, a cunning gatherer, or a master of support, there's a name here that will suit them. We're all about inclusivity in the Palico naming world."
+    },
+    {
+      "question": "Can I use these names for other pets?",
+      "answer": "Of course! If you have a cat, dog, hamster, or even a particularly ambitious goldfish, feel free to use these names. We won't judge... much."
+    },
+    {
+      "question": "How often is this generator updated?",
+      "answer": "We're constantly adding new prefixes and suffixes to keep the names fresh and exciting. Think of it as us regularly restocking the Palico name buffet!"
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep generating! Or, get inspired and create your own! The most important thing is that you and your Palico are happy with the name. And if all else fails, just call them 'Chairman Meow'. It's a classic for a reason."
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yes! This Palico Name Generator is completely free to use. Consider it our gift to the Monster Hunter community. Happy hunting!"
+    }
+  ],
+  "prefixes": [
+    "Meow",
+    "Purr",
+    "Felyne",
+    "Grim",
+    "Shadow",
+    "Blaze",
+    "Storm",
+    "Steel",
+    "Jade",
+    "Aqua",
+    "Gold",
+    "Silver",
+    "Ruby",
+    "Sapphire",
+    "Emerald",
+    "Whisker",
+    "Claw",
+    "Paw",
+    "Hunter",
+    "Chef",
+    "Ninja",
+    "Rogue",
+    "Luna",
+    "Solar",
+    "Astro",
+    "Comet",
+    "Cosmo",
+    "Nova",
+    "Zenith",
+    "Mystic",
+    "Phantom",
+    "Specter",
+    "Echo",
+    "Frost",
+    "Inferno",
+    "Terra",
+    "Zephyr",
+    "Tundra"
+  ],
+  "suffixes": [
+    "serker",
+    "claw",
+    "heart",
+    "blade",
+    "fang",
+    "strike",
+    "runner",
+    "whisker",
+    "tail",
+    "pouncer",
+    "purrfect",
+    "meowth",
+    "ninja",
+    "shadow",
+    "storm",
+    "hunter",
+    "chef",
+    "master",
+    "knight",
+    "guard",
+    "defender",
+    "scout",
+    "ranger",
+    "mage",
+    "wizard",
+    "seer",
+    "oracle",
+    "spirit",
+    "soul",
+    "bane",
+    "boon",
+    "grace",
+    "might",
+    "wind",
+    "fire",
+    "earth",
+    "wave"
+  ]
+}

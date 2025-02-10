@@ -1,0 +1,92 @@
+{
+  "name": "Drag Queen Name Generator",
+  "description": "Unleash your inner diva with our fabulous Drag Queen Name Generator! Get ready to werk the runway with a name that's as bold, glamorous, and unforgettable as you are. Strut into stardom and find the perfect moniker to electrify the stage!",
+  "slug": "drag-queen-names-generator",
+  "icon": "\ud83d\udc84",
+  "introduction": "Honey, are you ready to SLAY? Our Drag Queen Name Generator is your secret weapon for crafting a name that's pure charisma, uniqueness, nerve, and talent. Whether you're a seasoned queen or just starting your reign, we've got the sparkle you need to shine brighter than a disco ball. Get ready to snatch that crown!",
+  "howToUse": [
+    "Simply click the 'Generate' button to conjure up dazzling drag queen names.",
+    "Feeling picky, darling? Hit 'Generate' again for a fresh batch of possibilities!",
+    "Found a name you adore? Write it down, memorize it, tattoo it on your forehead \u2013 whatever it takes! That's YOUR name now, own it!",
+    "Mix and match prefixes and suffixes from the lists below for a truly unique creation. Get creative, baby!",
+    "Now go forth and conquer the world, one lip-sync at a time! \ud83d\udc8b"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely, darling! Our Drag Queen Name Generator is as free as the shade you're about to throw. Use it as much as you want!"
+    },
+    {
+      "question": "Can I use these names for other things besides drag?",
+      "answer": "Of course, henny! While designed for drag, these names can be used for anything your heart desires. Fictional characters, online personas, even naming your pet chihuahua \u2013 the possibilities are endless!"
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! We provide the ingredients, but the fabulous creation you conjure up is all yours. Go forth and trademark your brilliance!"
+    },
+    {
+      "question": "I don't like any of the generated names. What do I do?",
+      "answer": "Keep hitting that 'Generate' button, queen! Or, get inspired by the prefixes and suffixes and create your own masterpiece. Don't be afraid to get creative!"
+    },
+    {
+      "question": "Will this generator make me instantly famous?",
+      "answer": "While we can't guarantee superstardom, a killer name is definitely a step in the right direction! Pair it with talent, charisma, and a whole lot of sparkle, and you'll be unstoppable!"
+    },
+    {
+      "question": "Can I suggest names to add to the generator?",
+      "answer": "We'd love to hear your suggestions! Send them our way, and we'll see if they have the charisma, uniqueness, nerve, and talent to make the cut!"
+    }
+  ],
+  "prefixes": [
+    "Crystal",
+    "Diamond",
+    "Velvet",
+    "Scarlett",
+    "Sapphire",
+    "Empress",
+    "Duchess",
+    "Queen",
+    "Lady",
+    "Mystique",
+    "Roxie",
+    "Coco",
+    "Lola",
+    "Ginger",
+    "Blanche",
+    "Magnolia",
+    "Raven",
+    "Ivy",
+    "Serena",
+    "Valentina",
+    "Ophelia",
+    "Madame",
+    "Miss",
+    "Countess"
+  ],
+  "suffixes": [
+    "Sparkle",
+    "Delight",
+    "Glamour",
+    "Royale",
+    "Divine",
+    "Fabulous",
+    "Chanteuse",
+    "Von Tease",
+    "La Rouge",
+    "Star",
+    "Moon",
+    "Valentine",
+    "Sinclair",
+    "DeVille",
+    "Fairchild",
+    "Honey",
+    "Licious",
+    "DuBois",
+    "LeFleur",
+    "LaBelle",
+    "Starr",
+    "Davenport",
+    "Extravaganza",
+    "Majesty"
+  ]
+}

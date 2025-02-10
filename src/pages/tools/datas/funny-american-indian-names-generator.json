@@ -1,0 +1,83 @@
+{
+  "name": "Funny American Indian Names Generator",
+  "description": "Spice up your life with a hilariously inaccurate (and purely for fun!) American Indian name. Remember, this is all in good fun and not meant to be taken seriously. Get ready for some chuckles!",
+  "slug": "funny-american-indian-names-generator",
+  "icon": "\ud83d\ude02",
+  "introduction": "Ever wondered what your \"American Indian\" name would be if you stumbled into a cartoon? Well, wonder no more! This generator is designed to tickle your funny bone, not provide historical accuracy. Think 'Chief Runs with Coffee' or 'Princess Talks Too Much'. Let's get silly!",
+  "howToUse": [
+    "First, take a deep breath and promise you won't get offended. This is all in jest!",
+    "Click the 'Generate' button. Prepare for a name that's probably more absurd than authentic.",
+    "Share your ridiculous name with your friends and spread the laughter (responsibly, of course!).",
+    "Repeat as needed until you find the *perfectly* silly name. Warning: May cause uncontrollable giggling."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator historically accurate?",
+      "answer": "Absolutely not! This is purely for entertainment and humor. Please don't use these names in any serious context."
+    },
+    {
+      "question": "Are these names meant to be offensive?",
+      "answer": "No way! The intention is purely comedic. If you find them offensive, please remember it's all in good fun and not meant to disrespect anyone."
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "If your D&D campaign is all about silly shenanigans, then go for it! Otherwise, maybe stick to something more appropriate."
+    },
+    {
+      "question": "Will this generator give me a real American Indian name?",
+      "answer": "Nope. Real American Indian names are deeply connected to culture and heritage. This generator is just for laughs."
+    },
+    {
+      "question": "I generated a really weird name. Is that normal?",
+      "answer": "Completely normal! The weirder, the better. Embrace the absurdity!"
+    },
+    {
+      "question": "Can I suggest names for the generator?",
+      "answer": "We're always open to suggestions! However, please keep in mind the aim is humor, not historical accuracy or cultural appropriation."
+    }
+  ],
+  "prefixes": [
+    "Chief",
+    "Princess",
+    "Running",
+    "Sitting",
+    "Whispering",
+    "Dancing",
+    "Singing",
+    "Crying",
+    "Laughing",
+    "Two",
+    "Three",
+    "Many",
+    "Little",
+    "Big",
+    "Old",
+    "Young",
+    "Crazy",
+    "Silly",
+    "Wise",
+    "Sleepy"
+  ],
+  "suffixes": [
+    "Moose",
+    "Squirrel",
+    "Bear",
+    "Eagle",
+    "Wolf",
+    "Fox",
+    "Rabbit",
+    "Cloud",
+    "Water",
+    "Tree",
+    "Rock",
+    "Flower",
+    "Coffee",
+    "Pizza",
+    "Tacos",
+    "Netflix",
+    "Socks",
+    "Keyboard",
+    "Microwave",
+    "Donut"
+  ]
+}

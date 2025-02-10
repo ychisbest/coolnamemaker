@@ -1,0 +1,84 @@
+{
+  "name": "Splatoon Name Generator",
+  "description": "Ready to ink your mark on the Splatoon world? Our generator crafts the freshest, most squid-tastic names this side of Inkopolis! Get ready to splat the competition with a name that's uniquely YOU.",
+  "slug": "splatoon-name-generator",
+  "icon": "\ud83e\udd91",
+  "introduction": "So, you're diving into the vibrant, ink-splattered world of Splatoon, huh? Awesome choice! But before you grab your Splattershot, you need a name that's as unique and unforgettable as you are. That's where our Splatoon Name Generator comes in! We're not just spitting out random words; we're crafting identities. Think of it as your Inkopolis passport \u2013 essential for making a splash!",
+  "howToUse": [
+    "First, take a deep breath and channel your inner Inkling or Octoling. Feel the vibe!",
+    "Next, simply click the 'Generate' button. BOOM! A fresh, ink-credible name appears!",
+    "Not feeling it? No worries! Mash that button again until you find the perfect moniker that resonates with your soul (or at least your gaming style).",
+    "Found a name you love? Copy it and paste it into Splatoon. Get ready to dominate the turf wars!",
+    "Pro Tip: Mix and match prefixes and suffixes for even more unique results. Get creative!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually *good*? I mean, are the names any good?",
+      "answer": "Are you kidding? Our names are so good, they'll make Crusty Sean jealous! We've got a team of highly trained squids (okay, maybe not *actually* squids) dedicated to crafting the freshest names in Inkopolis."
+    },
+    {
+      "question": "Can I use these names for other games besides Splatoon?",
+      "answer": "Absolutely! While designed with Splatoon in mind, these names are versatile enough for any game, online persona, or even your pet goldfish (if you're feeling adventurous)."
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly adding new prefixes and suffixes to keep things fresh! Think of it like the Splatoon updates \u2013 always something new and exciting on the horizon."
+    },
+    {
+      "question": "Are the generated names guaranteed to be unique?",
+      "answer": "While we strive for uniqueness, there's always a chance someone else might have a similar name. But hey, great minds think alike, right? If you REALLY want to stand out, try combining elements or adding your own personal flair."
+    },
+    {
+      "question": "I found a name I love, but it's already taken in Splatoon! What do I do?",
+      "answer": "Don't despair! Get creative! Add a number, a symbol, or a slight variation to make it your own. Think of it as remixing a popular song \u2013 you're putting your own spin on it!"
+    },
+    {
+      "question": "Is this thing free?",
+      "answer": "Heck yeah, it's free! We believe everyone deserves a cool Splatoon name without having to shell out any clams."
+    }
+  ],
+  "prefixes": [
+    "Ink",
+    "Splat",
+    "Octo",
+    "Squid",
+    "Turbo",
+    "Mega",
+    "Ultra",
+    "Shadow",
+    "Neon",
+    "Pixel",
+    "Giga",
+    "Aqua",
+    "Crimson",
+    "Azure",
+    "Cosmic",
+    "Electro",
+    "Frost",
+    "Inferno",
+    "Lunar",
+    "Solar"
+  ],
+  "suffixes": [
+    "Shot",
+    "Slinger",
+    "Blaster",
+    "Roller",
+    "Wave",
+    "Strike",
+    "Surge",
+    "Bolt",
+    "Blast",
+    "Fury",
+    "Zone",
+    "Core",
+    "Knight",
+    "Phantom",
+    "Hunter",
+    "Star",
+    "Ninja",
+    "Storm",
+    "Claw",
+    "Fang"
+  ]
+}

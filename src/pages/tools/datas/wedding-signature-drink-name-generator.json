@@ -1,0 +1,100 @@
+{
+  "name": "Wedding Signature Drink Name Generator",
+  "description": "Struggling to find the perfect, unforgettable name for your signature wedding cocktail? Fear not, lovebirds! Our generator will concoct a name so delightful, your guests will be raising a toast to your creativity (and your impeccable taste in beverages!).",
+  "slug": "wedding-signature-drink-name-generator",
+  "icon": "\ud83c\udf79",
+  "introduction": "Your wedding day should be as unique as your love story. And what better way to add a personal touch than with a signature drink? But a drink without a catchy name is like a wedding without cake \u2013 unthinkable! Let our Wedding Signature Drink Name Generator sprinkle some naming magic on your concoction, making it the talk of the reception. Cheers to happily ever after... and delicious drinks!",
+  "howToUse": [
+    "First, dream up the most delicious, Instagram-worthy drink you can imagine. (Or, you know, just grab a recipe online \u2013 we won't judge \ud83d\ude09)",
+    "Next, hit that 'Generate' button and prepare to be amazed!",
+    "Keep clicking until you find a name that makes you say, 'That's THE ONE!'",
+    "Write it on a chalkboard sign, get fancy with the garnish, and watch your guests flock to the bar. You're basically a celebrity bartender now."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really going to help me name my drink?",
+      "answer": "Absolutely! We've poured a whole lotta love (and a secret blend of algorithms) into this generator to ensure it sparks your creativity. While we can't guarantee it'll be *perfect* on the first try, it's definitely a fantastic starting point!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we encourage creativity and entrepreneurship, it's always best practice to do a quick trademark search before using any name commercially. We're here to inspire, not to get you into legal hot water!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "No worries! Just keep hitting that 'Generate' button! We've got a whole vault of names waiting to be discovered. You can also tweak the suggestions to create something truly unique to you."
+    },
+    {
+      "question": "Will this generator help me *make* the drink?",
+      "answer": "Sadly, no. We're name ninjas, not mixologists! But there are tons of amazing cocktail recipes online. Once you've got the recipe, we'll help you name it like a pro."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You betcha! Naming your signature wedding drink shouldn't cost you a penny. Consider it our wedding gift to you (besides the questionable dance moves we'll bust out on the dance floor)."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We're always looking for ways to improve! Send us your ideas through our contact page, and we'll see if we can incorporate them. After all, the more the merrier!"
+    }
+  ],
+  "prefixes": [
+    "Blushing",
+    "Tipsy",
+    "Eternal",
+    "Serendipity",
+    "Moonlit",
+    "Starlit",
+    "Love's",
+    "The Bridal",
+    "Groom's",
+    "Happily Ever After",
+    "I Do",
+    "Two Become One",
+    "Sealed with a Kiss",
+    "Unity",
+    "Promise",
+    "Forever",
+    "Amour",
+    "Destiny",
+    "Enchanted",
+    "Whispering",
+    "Golden",
+    "Vintage",
+    "Rustic",
+    "Bohemian",
+    "Coastal",
+    "Southern",
+    "Modern",
+    "Classic"
+  ],
+  "suffixes": [
+    "Kiss",
+    "Toast",
+    "Elixir",
+    "Potion",
+    "Nectar",
+    "Dream",
+    "Delight",
+    "Sip",
+    "Sparkler",
+    "Sunset",
+    "Sunrise",
+    "Breeze",
+    "Bliss",
+    "Charm",
+    "Magic",
+    "Serenade",
+    "Whisper",
+    "Glow",
+    "Embrace",
+    "Melody",
+    "Moment",
+    "Memory",
+    "Treasure",
+    "Gem",
+    "Jewel",
+    "Secret",
+    "Wish",
+    "Celebration",
+    "Union"
+  ]
+}

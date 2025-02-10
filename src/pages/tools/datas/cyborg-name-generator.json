@@ -1,0 +1,83 @@
+{
+  "name": "Cyborg Name Generator",
+  "description": "Unleash your inner robot! Get a super-cool, futuristic cyborg name that's guaranteed to turn heads (or circuits). Perfect for gaming, sci-fi stories, or just embracing your artificial awesomeness.",
+  "slug": "cyborg-name-generator",
+  "icon": "\ud83e\udd16",
+  "introduction": "Ever dreamt of being a bio-enhanced badass? Our Cyborg Name Generator is your first step! We've blended the best of human ingenuity with cutting-edge tech to forge names that scream cybernetic superiority. Prepare for names that are equal parts intimidating and irresistible. Get ready to upgrade your identity!",
+  "howToUse": [
+    "Click the 'Generate' button. Yeah, that's pretty much it. We've handled the brain implants for you... metaphorically, of course. \ud83d\ude09",
+    "Don't like the name? Click it again! Keep clicking until you find the cyborg name that resonates with your inner circuits.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft your own unique cyborg designation. The future is in your hands (or should we say, your cybernetic implants?).",
+    "Share your awesome cyborg name with your friends, enemies, or anyone who needs a dose of futuristic coolness. Prepare for envy!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to turn me into a cyborg?",
+      "answer": "Sadly, no. We're experts in names, not cybernetics. But hey, a cool name is the first step, right? Start with the name, then build the body!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Consider them royalty-free, ready for your next sci-fi novel, video game character, or robotic uprising. Just remember where you got them! \ud83d\ude09"
+    },
+    {
+      "question": "Are the names truly random?",
+      "answer": "As random as a robot's emotional capacity! We've got a vast database of prefixes and suffixes, ensuring a diverse and surprising range of results. No two clicks are *exactly* alike."
+    },
+    {
+      "question": "I got a really weird name. Is that normal?",
+      "answer": "Totally normal! Some cyborg enhancements lead to\u2026 unexpected outcomes. Embrace the weirdness! It's what makes you unique (and possibly a supervillain)."
+    },
+    {
+      "question": "Will this generator help me win at life?",
+      "answer": "While we can't guarantee world domination, a killer cyborg name is definitely a step in the right direction. Confidence is key, and a cool name is a great confidence booster. Go get 'em, cyber-warrior!"
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep hitting that 'Generate' button! Our algorithm is always learning and evolving. Plus, you can always tweak the names to your liking. Remember, you're the cyborg, you make the rules!"
+    }
+  ],
+  "prefixes": [
+    "Cyber",
+    "Mech",
+    "Bio",
+    "Nano",
+    "Tech",
+    "Steel",
+    "Iron",
+    "Nova",
+    "Quantum",
+    "Omega",
+    "Alpha",
+    "Vector",
+    "Glitch",
+    "Chrome",
+    "Titan",
+    "Shadow",
+    "Phantom",
+    "Blitz",
+    "Apex",
+    "Zenith"
+  ],
+  "suffixes": [
+    "Tron",
+    "Byte",
+    "Core",
+    "Drive",
+    "Bot",
+    "Ware",
+    "Tech",
+    "X",
+    "7",
+    "Prime",
+    "Force",
+    "Knight",
+    "Blade",
+    "Strike",
+    "Wing",
+    "Shield",
+    "Guard",
+    "Hunter",
+    "Storm",
+    "Hawk"
+  ]
+}

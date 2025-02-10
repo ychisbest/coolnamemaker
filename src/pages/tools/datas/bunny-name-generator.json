@@ -1,0 +1,78 @@
+{
+  "name": "Bunny Name Generator",
+  "description": "Hop into the world of adorable aliases! Need a name for your new pet bunny, a character in your story, or just want to embrace your inner rabbit? Our Bunny Name Generator is here to sprinkle some fluffy magic into your life! \ud83d\udc30\u2728",
+  "slug": "bunny-name-generator",
+  "icon": "\ud83d\udc30",
+  "introduction": "Forget pulling names out of a hat! Our Bunny Name Generator combines whimsical prefixes and suffixes to create names that are both cute and unique. Whether you're looking for something sweet, silly, or sophisticated, we've got a name to make your bunny (or bunny-inspired persona) stand out from the burrow!",
+  "howToUse": [
+    "Simply click the 'Generate' button, and BAM! A brand new bunny name appears!",
+    "Don't like the first one? No worries! Keep clicking until you find the perfect fit \u2013 it's like finding the perfect carrot!",
+    "Feeling creative? Mix and match prefixes and suffixes to craft your own personalized bunny masterpiece. The possibilities are endless!",
+    "Share your favorite bunny names with friends and family. Spread the hoppy joy!",
+    "Remember, a good bunny name is one that makes you smile. So, have fun and let your imagination run wild!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of bunny names can I generate?",
+      "answer": "We offer a wide range of bunny names, from cute and cuddly to adventurous and quirky! You'll find names suitable for all types of bunnies and bunny-loving individuals."
+    },
+    {
+      "question": "Can I use these names for other animals?",
+      "answer": "Absolutely! While designed for bunnies, these names can be used for any animal, character, or even yourself if you're feeling particularly hoppy!"
+    },
+    {
+      "question": "Are the generated names random?",
+      "answer": "Yes, the names are generated randomly by combining prefixes and suffixes from our extensive database. This ensures a unique and surprising result every time!"
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart desires. The more, the merrier (and the hoppier)!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your suggestions! Please feel free to contact us with your ideas. We're always looking for ways to improve our generator and make it even more fun!"
+    },
+    {
+      "question": "Do I have to pay to use this generator?",
+      "answer": "Never! Our Bunny Name Generator is completely free to use. Hop on in and start generating names without spending a single carrot!"
+    }
+  ],
+  "prefixes": [
+    "Fluffy",
+    "Cotton",
+    "Snowy",
+    "Carrot",
+    "Hazel",
+    "Coco",
+    "Marshmallow",
+    "Jumpy",
+    "Whiskers",
+    "Peter",
+    "Thumper",
+    "Midnight",
+    "Sunrise",
+    "Moonbeam",
+    "Clover",
+    "Daisy",
+    "Buttercup"
+  ],
+  "suffixes": [
+    "tail",
+    "hop",
+    "puff",
+    "nibble",
+    "ear",
+    "foot",
+    "bun",
+    "berry",
+    "shine",
+    "dust",
+    "bloom",
+    "dew",
+    "wing",
+    "whisper",
+    "dream",
+    "sprite",
+    "drop"
+  ]
+}

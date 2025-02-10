@@ -1,0 +1,83 @@
+{
+  "name": "Drugs Name Generator",
+  "description": "Unleash your inner Heisenberg with our Drugs Name Generator! Craft the perfect alias for your... uh... fictional pharmaceutical empire. We're talking names so cool, they're practically illegal (but don't worry, they're not *actually* illegal).",
+  "slug": "drugs-name-generator",
+  "icon": "\ud83e\uddea",
+  "introduction": "Need a slick, unforgettable name for your next creative project, a character in your novel, or just a laugh with friends? Our Drugs Name Generator is here to help. We've cooked up a potent blend of prefixes and suffixes to deliver names that are edgy, memorable, and totally unique. Get ready to break bad... with names!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the awesomeness of the name that appears.",
+    "If you're not feeling it, smash that 'Generate' button again! We've got more names than you can shake a Bunsen burner at.",
+    "Copy and paste your favorite name into your project, or share it with your fellow fictional drug lords.",
+    "Remember, this is all in good fun! Please don't actually start a drug empire. We're not responsible for your life choices."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually related to illegal substances?",
+      "answer": "Absolutely not! This generator is purely for entertainment and creative purposes. We do not condone or support any illegal activities."
+    },
+    {
+      "question": "Can I use these names for my fictional characters or stories?",
+      "answer": "Heck yes! That's exactly what it's for. Go wild and create some unforgettable characters."
+    },
+    {
+      "question": "Are the names generated unique?",
+      "answer": "We strive to create unique combinations, but with a finite number of prefixes and suffixes, there's a small chance of duplicates. If you get one, just generate again!"
+    },
+    {
+      "question": "Do I need to provide any personal information to use this generator?",
+      "answer": "Nope! This generator is completely free and requires no registration or personal data."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form on coolnamemaker.com and we'll consider adding them."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep hitting that 'Generate' button! We have tons of combinations. You're bound to find one that tickles your fancy... or maybe you're just too picky. \ud83d\ude09"
+    }
+  ],
+  "prefixes": [
+    "Crystal",
+    "Shadow",
+    "Venom",
+    "Blaze",
+    "Inferno",
+    "Phantom",
+    "Crimson",
+    "Midnight",
+    "Serpent",
+    "Viper",
+    "Nitro",
+    "Rogue",
+    "Silent",
+    "Ghost",
+    "Frost",
+    "Neon",
+    "Psycho",
+    "Toxic",
+    "Razer"
+  ],
+  "suffixes": [
+    "Rush",
+    "X",
+    "Blast",
+    "Core",
+    "Strike",
+    "Fury",
+    "Storm",
+    "Edge",
+    "Claw",
+    "Burn",
+    "Shift",
+    "Wave",
+    "Drive",
+    "Force",
+    "Zone",
+    "Flux",
+    "Spark",
+    "Surge",
+    "Bolt",
+    "Gear"
+  ]
+}

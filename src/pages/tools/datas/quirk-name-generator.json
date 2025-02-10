@@ -1,0 +1,84 @@
+{
+  "name": "Quirk Name Generator",
+  "description": "Unleash your inner weirdo with our Quirk Name Generator! Craft unforgettable, wonderfully odd names that are guaranteed to turn heads and spark conversations. Perfect for characters, projects, or just a dash of delightful absurdity in your everyday life. Get ready to embrace the extraordinary!",
+  "slug": "quirk-name-generator",
+  "icon": "\ud83e\udd2a",
+  "introduction": "Tired of the same old boring names? Yearning for something a little... different? Then you've stumbled upon the right place! Our Quirk Name Generator is your one-stop shop for crafting names that are as unique and unforgettable as you are. Whether you're creating a character for your novel, branding a quirky business, or simply looking for a fun and creative outlet, we've got you covered. Get ready to dive into a world of wonderfully weird names!",
+  "howToUse": [
+    "Simply click the 'Generate' button and let the magic happen! Prepare to be amazed by the delightfully odd names that appear.",
+    "Don't like the first result? No problem! Just keep clicking until you find the name that perfectly captures your quirky essence.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create your own unique name combinations!",
+    "Share your favorite quirk names with your friends and spread the weirdness!",
+    "Use your newfound quirk name for character creation, project naming, or even just as a fun nickname for yourself!"
+  ],
+  "faqs": [
+    {
+      "question": "What makes a name 'quirky'?",
+      "answer": "A quirky name is one that's unusual, unexpected, and often a little bit silly. It's a name that stands out from the crowd and makes people smile."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once generated, the name is yours to use as you see fit. Just remember to check for existing trademarks if you're planning on using it for a business."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "While the generator uses a random algorithm, it's also designed to create names that are pronounceable and somewhat coherent. We want your quirk name to be unique, but not *completely* unreadable!"
+    },
+    {
+      "question": "How many times can I generate a name?",
+      "answer": "As many times as your heart desires! There's no limit to the number of quirky names you can generate. Keep clicking until you find the perfect one!"
+    },
+    {
+      "question": "Can I contribute to the list of prefixes and suffixes?",
+      "answer": "We're always looking for new and exciting additions to our database! Feel free to contact us with your suggestions \u2013 we'd love to hear from you!"
+    },
+    {
+      "question": "Will the names be offensive?",
+      "answer": "We strive to create names that are fun and quirky, without being offensive. However, we recommend reviewing the names generated to ensure they are appropriate for your intended audience."
+    }
+  ],
+  "prefixes": [
+    "Snuggle",
+    "Bumble",
+    "Whimsical",
+    "Giggle",
+    "Wiggle",
+    "Doodle",
+    "Fuzzy",
+    "Sparkle",
+    "Misty",
+    "Wobbly",
+    "Crumble",
+    "Jumbo",
+    "Zany",
+    "Loopy",
+    "Silly",
+    "Poppy",
+    "Glimmer",
+    "Chuckle",
+    "Bubbly",
+    "Wacky"
+  ],
+  "suffixes": [
+    "Noodle",
+    "Berry",
+    "Pop",
+    "Whirl",
+    "Twist",
+    "Bloom",
+    "Bean",
+    "Squeak",
+    "Doodle",
+    "Bug",
+    "Snout",
+    "Toes",
+    "Socks",
+    "Wiggle",
+    "Puff",
+    "Snort",
+    "Giggles",
+    "Wobble",
+    "Zoom",
+    "Fluff"
+  ]
+}

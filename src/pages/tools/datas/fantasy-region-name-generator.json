@@ -1,0 +1,94 @@
+{
+  "name": "Fantasy Region Name Generator",
+  "description": "Struggling to name that epic kingdom, mysterious forest, or treacherous mountain range in your fantasy world? Fear not, adventurer! Our Fantasy Region Name Generator conjures up unique and evocative names to breathe life into your maps and stories. Get ready to unleash your imagination!",
+  "slug": "fantasy-region-name-generator",
+  "icon": "\ud83d\uddfa\ufe0f",
+  "introduction": "Welcome, world-builder! A great name can make all the difference. It sets the tone, hints at history, and sticks in the minds of your readers or players. This generator is designed to spark your creativity and provide you with a plethora of cool, fantastical region names. From the shimmering shores of Eldoria to the shadowed peaks of Dragon's Tooth, your world is about to get a whole lot cooler.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new fantasy region name will appear before your very eyes.",
+    "Not feeling it? No problem! Click again for a fresh idea. We've got a whole realm of possibilities waiting to be discovered.",
+    "Found a name you love? Awesome! Copy it and paste it into your worldbuilding notes. Bask in the glory of your newfound inspiration!",
+    "Want to get really creative? Mix and match prefixes and suffixes from different generated names to create something truly unique. The possibilities are as endless as the Forgotten Realms themselves!",
+    "Remember, these names are just a starting point. Feel free to tweak them, add to them, or use them as inspiration for something completely different. The only limit is your imagination!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the generator work?",
+      "answer": "Our generator uses a carefully curated list of fantasy-themed prefixes and suffixes, combining them in unique and interesting ways to create memorable region names. A little bit of magic, a dash of linguistics, and a whole lot of fun!"
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "Absolutely! Feel free to use the generated names in your books, games, or any other creative projects, commercial or otherwise. Consider it a gift from the realm of imagination to yours."
+    },
+    {
+      "question": "Are the generated names actually original?",
+      "answer": "While we can't guarantee that every name is 100% unique (the fantasy genre has been around for a while!), we strive to create combinations that are fresh and interesting. Always do a quick search to ensure your chosen name isn't already in use in a prominent work."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through the contact form on our website. We're always looking for ways to improve and expand our generator's vocabulary."
+    },
+    {
+      "question": "Why are some of the generated names a little\u2026 weird?",
+      "answer": "Hey, sometimes the best names are the ones that are a little bit quirky! Embrace the weirdness! Plus, a strange name can often spark even more creative ideas. Think 'The Whispering Bluffs of Glarbon' \u2013 doesn't that just scream adventure?"
+    },
+    {
+      "question": "Is the generator free to use?",
+      "answer": "Yes! Our Fantasy Region Name Generator is completely free to use. Go forth and name your world!"
+    }
+  ],
+  "prefixes": [
+    "Eldoria",
+    "Shadowfen",
+    "Dragon's",
+    "Whispering",
+    "Crystal",
+    "Ironwood",
+    "Sunken",
+    "Forgotten",
+    "Silverstream",
+    "Crimson",
+    "Obsidian",
+    "Emerald",
+    "Stormwatch",
+    "Ancient",
+    "Twilight",
+    "Misty",
+    "Golden",
+    "Silent",
+    "Frozen",
+    "Burning",
+    "Haunted",
+    "Lost",
+    "Sacred",
+    "Wandering",
+    "Celestial"
+  ],
+  "suffixes": [
+    "Vale",
+    "Forest",
+    "Mountains",
+    "Wastes",
+    "Coast",
+    "Glade",
+    "Kingdom",
+    "Lands",
+    "Reach",
+    "Expanse",
+    "Valley",
+    "Peaks",
+    "Swamp",
+    "Sea",
+    "Desert",
+    "Ruins",
+    "Wilds",
+    "Hills",
+    "Canyon",
+    "Gorge",
+    "Islands",
+    "Shores",
+    "Territory",
+    "Domain",
+    "Realm"
+  ]
+}

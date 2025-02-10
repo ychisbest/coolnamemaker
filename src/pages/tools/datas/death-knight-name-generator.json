@@ -1,0 +1,83 @@
+{
+  "name": "Death Knight Name Generator",
+  "description": "Unleash the chilling power of the undead! Forge your fearsome Death Knight identity with our generator and strike terror into the hearts of your enemies.",
+  "slug": "death-knight-name-generator",
+  "icon": "\ud83d\udc80",
+  "introduction": "Are you ready to embrace the darkness and become a harbinger of doom? Our Death Knight Name Generator is your gateway to crafting the perfect moniker for your undead champion. Whether you're role-playing, writing a dark fantasy novel, or just looking for a badass name, we've got you covered. Prepare to raise the dead... and your reputation!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the birth of a chilling Death Knight name!",
+    "Not feeling the generated name? No problem! Hit 'Generate' again for a fresh wave of dark inspiration.",
+    "Want to mix and match? Use the prefixes and suffixes as inspiration to craft your own unique undead title!",
+    "Copy and paste your favorite name into your game, story, or anywhere else your dark heart desires. Now go forth and spread some delightful dread!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "This generator crafts names inspired by the lore and aesthetic of Death Knights \u2013 think dark, imposing, and evocative of the grave. Expect a mix of powerful syllables, chilling undertones, and a hint of the macabre."
+    },
+    {
+      "question": "Can I use these names for my characters in games?",
+      "answer": "Absolutely! That's precisely what this generator is for. Feel free to use these names for your characters in any game, story, or creative project. Go forth and conquer, Death Knight!"
+    },
+    {
+      "question": "Are the generated names unique?",
+      "answer": "While the generator uses a combination of prefixes and suffixes, there's always a chance of overlap. However, with the vast number of possibilities, you're likely to find a name that feels unique to you. If not, keep generating!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added?",
+      "answer": "We're always open to suggestions! Feel free to send us your ideas. We love hearing from our users and expanding the generator's capabilities."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, it is completely free to use. No hidden fees, no subscriptions, just pure, unadulterated Death Knight name generation!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we encourage creativity, using the generated names for trademarks or commercial products without modification is not recommended. Names are generated at random and may resemble existing names. Please do your due diligence."
+    }
+  ],
+  "prefixes": [
+    "Death",
+    "Grave",
+    "Frost",
+    "Shadow",
+    "Doom",
+    "Night",
+    "Blood",
+    "Bone",
+    "Ruin",
+    "Void",
+    "Soul",
+    "Crypt",
+    "Ghoul",
+    "Blight",
+    "Dread",
+    "Necro",
+    "Abyssal",
+    "Eternal",
+    "Frozen",
+    "Skeletal"
+  ],
+  "suffixes": [
+    "blade",
+    "bringer",
+    "bane",
+    "caller",
+    "guard",
+    "lord",
+    "reaver",
+    "shade",
+    "scream",
+    "whisper",
+    "walker",
+    "watcher",
+    "fiend",
+    "knight",
+    "skull",
+    "thorn",
+    "wraith",
+    "howl",
+    "scythe",
+    "maul"
+  ]
+}

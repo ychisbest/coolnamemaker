@@ -1,0 +1,85 @@
+{
+  "name": "Nordic Name Generator",
+  "description": "Unleash your inner Viking! Discover epic Nordic names fit for legends, gods, and maybe even your next gaming character. Prepare to be transported to the land of frost giants and mythical creatures!",
+  "slug": "nordic-names-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Ever dreamt of wielding Thor's hammer or sailing the high seas with Ragnar Lothbrok? Well, maybe start with a name! Our Nordic Name Generator crafts authentic-sounding names inspired by Norse mythology, history, and the rugged beauty of Scandinavia. Find the perfect moniker that screams adventure and whispers of ancient power. Are you ready to embrace your destiny?",
+  "howToUse": [
+    "First, brace yourself for awesomeness. (Seriously, these names are cool.)",
+    "Click the 'Generate' button. Like, really go for it.",
+    "Feast your eyes on the glorious Nordic name that appears!",
+    "Not feeling the Viking vibe? Hit 'Generate' again! We've got a whole saga of names waiting for you.",
+    "Copy your favorite name and share it with the world (or just keep it a secret, we won't judge).",
+    "Go forth and conquer... or at least update your social media profile."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names real Nordic names?",
+      "answer": "Mostly! We've blended real historical names, names from Norse mythology, and some creative combinations inspired by the sounds and structures of Nordic languages. Think of them as 'authentically inspired'!"
+    },
+    {
+      "question": "Can I use these names for my baby?",
+      "answer": "Absolutely! But maybe do a little extra research to make sure you understand the name's meaning and origin. You wouldn't want to accidentally name your child 'Giant-Slayer' if you're going for something a little more... subtle."
+    },
+    {
+      "question": "Are these names only for Vikings?",
+      "answer": "Nope! Use them for characters in your book, your D&D campaign, your pet hamster... the possibilities are endless! Unleash the Nordic spirit in whatever you do."
+    },
+    {
+      "question": "I generated a name that sounds a bit... weird. Is that normal?",
+      "answer": "Hey, Norse mythology is full of weird and wonderful things! Sometimes the generated names might be a bit unconventional, but that's part of the fun. Embrace the oddity, or just hit 'Generate' again for something different."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Completely and utterly free! We believe everyone deserves a cool Nordic name, no gold (or bitcoins) required. Go nuts!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form and we'll consider adding them to the generator. Let's build a better name generator together!"
+    }
+  ],
+  "prefixes": [
+    "Thor",
+    "Odin",
+    "Freyr",
+    "Freya",
+    "Astrid",
+    "Bjorn",
+    "Ragnar",
+    "Sigrid",
+    "Ivar",
+    "Lagertha",
+    "Val",
+    "Hild",
+    "As",
+    "Ing",
+    "Sven",
+    "Erik",
+    "Knut",
+    "Harald",
+    "Gun",
+    "Liv"
+  ],
+  "suffixes": [
+    "son",
+    "dottir",
+    "bjorn",
+    "hild",
+    "vald",
+    "garth",
+    "fast",
+    "brand",
+    "geir",
+    "grim",
+    "ulf",
+    "stein",
+    "vor",
+    "dis",
+    "borg",
+    "finn",
+    "ar",
+    "mund",
+    "mod",
+    "run"
+  ]
+}

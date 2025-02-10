@@ -1,0 +1,74 @@
+{
+  "name": "Creepypasta Name Generator",
+  "description": "Unleash your inner horror writer! Conjure up the perfect chilling moniker for your next terrifying tale with our Creepypasta Name Generator. From the unsettlingly familiar to the downright bizarre, find a name that will send shivers down your readers' spines.",
+  "slug": "creepypasta-name-generator",
+  "icon": "\ud83d\udd2a",
+  "introduction": "Ready to dive into the abyss of internet horror? A good creepypasta needs a great name. Something that whispers dread and lingers in the shadows of the mind. Our generator is here to help you craft the perfect alias for your nightmare fuel. Let's get spooky!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Stare into the generated name. Feel the creeping dread. (Optional, but highly recommended.)",
+    "If the name speaks to your dark soul, use it! If not, keep hitting 'Generate' until you find the perfect fit. (The generator doesn't judge... much.)",
+    "Use your new, terrifying name to unleash your creepypasta upon the unsuspecting world. (Mwahahaha!)",
+    "Remember to credit coolnamemaker.com if you feel like it, or the shadows might come for you...(Just kidding... mostly.)"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly IS a creepypasta?",
+      "answer": "Think of it as the digital equivalent of a campfire story \u2013 a short, scary tale designed to unnerve and spread across the internet like a virus (a scary one, obviously)."
+    },
+    {
+      "question": "Can I use these names for things other than creepypasta?",
+      "answer": "Absolutely! Use them for characters in horror games, spooky stories, metal bands, or even as your secret online identity. Just don't blame us if things get weird."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Mostly! We use a combination of creepy words, unsettling themes, and a dash of madness to create names that are both unique and terrifying. It's a delicate balance, really."
+    },
+    {
+      "question": "Will using a generated name guarantee my creepypasta will be a hit?",
+      "answer": "While we can't guarantee internet fame (or infamy), a killer name is a crucial first step! The rest is up to your writing skills and ability to scare the pants off people."
+    },
+    {
+      "question": "I generated a name that's *too* scary. What do I do?",
+      "answer": "Embrace it! Or, you know, just click 'Generate' again. Maybe offer it as a sacrifice to appease the algorithm gods?"
+    },
+    {
+      "question": "Is this generator haunted?",
+      "answer": "We're not at liberty to say. But if you start seeing strange things after using it, don't say we didn't warn you... (Just kidding! ...Probably.)"
+    }
+  ],
+  "prefixes": [
+    "The Shadow of",
+    "Whispers of",
+    "The Silent",
+    "Dreadful",
+    "Cursed",
+    "Forgotten",
+    "The Faceless",
+    "The Smiling",
+    "Twisted",
+    "Bloodstained",
+    "Static",
+    "Grave",
+    "Eternal",
+    "Haunted",
+    "Lost"
+  ],
+  "suffixes": [
+    "Watcher",
+    "Stalker",
+    "Screamer",
+    "Crawler",
+    "Leech",
+    "Whisper",
+    "Nightmare",
+    "Entity",
+    "Phantom",
+    "Harbinger",
+    "The Forgotten",
+    "The Unseen",
+    "The Twisted",
+    "The Silent",
+    "The Broken"
+  ]
+}

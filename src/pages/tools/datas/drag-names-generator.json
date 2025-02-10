@@ -1,0 +1,83 @@
+{
+  "name": "Drag Name Generator",
+  "description": "Unleash your inner diva with our fabulous Drag Name Generator! Find the perfect stage name that's as unique and unforgettable as you are. Werk it!",
+  "slug": "drag-name-generator",
+  "icon": "\ud83d\udc84",
+  "introduction": "Ready to sashay into the spotlight? Our Drag Name Generator is here to help you craft a moniker that's fierce, funny, and totally you. Whether you're a seasoned queen or just starting your reign, we've got the perfect name waiting to be discovered. Let's get this party started!",
+  "howToUse": [
+    "Simply click the 'Generate' button and let our magical algorithm work its wonders.",
+    "Don't like the first result? No problem, hit 'Generate' again for a fresh and fabulous name.",
+    "Feeling inspired? Use the generated names as a jumping-off point to create something even more unique.",
+    "Share your dazzling new drag name with your friends and get ready to slay the stage!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the Drag Name Generator work?",
+      "answer": "Our generator combines a vast database of prefixes and suffixes, carefully curated to create names that are both glamorous and memorable. It's like a cocktail of creativity, shaken and stirred just for you!"
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "Absolutely! Once you've found a name you love, it's all yours to use as you see fit. Go forth and conquer the world, one dazzling performance at a time."
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "No, the generated names are not copyrighted. However, it's always a good idea to do a quick search to ensure that your chosen name isn't already in use by someone else, especially if you plan to trademark it."
+    },
+    {
+      "question": "Can I influence the type of names generated?",
+      "answer": "While you can't directly influence the algorithm, hitting the 'Generate' button multiple times will give you a wide variety of options. Experiment and see what sparks your imagination!"
+    },
+    {
+      "question": "Is the Drag Name Generator free to use?",
+      "answer": "Yes, absolutely! Our Drag Name Generator is completely free to use as many times as you like. Consider it our gift to the world of drag!"
+    },
+    {
+      "question": "I'm not a drag performer, can I still use this?",
+      "answer": "Of course! Maybe you need a quirky nickname, a pen name for your next novel, or just want to explore your creative side. This generator is for anyone who wants a touch of fabulous in their life."
+    }
+  ],
+  "prefixes": [
+    "Diamond",
+    "Velvet",
+    "Glitter",
+    "Sparkle",
+    "Ruby",
+    "Sapphire",
+    "Empress",
+    "Queen",
+    "Duchess",
+    "Princess",
+    "Lady",
+    "Miss",
+    "Mystic",
+    "Enchantress",
+    "Siren",
+    "Venus",
+    "Seraphina",
+    "Electra",
+    "Magnolia",
+    "Lola"
+  ],
+  "suffixes": [
+    "Deluxe",
+    "Royale",
+    "Von Tease",
+    "La Rouge",
+    "Divine",
+    "Starr",
+    "Glamour",
+    "D'Lish",
+    "Fantasia",
+    "Licious",
+    "LaBelle",
+    "Moon",
+    "Valentine",
+    "Sinclair",
+    "Evermore",
+    "Nouveau",
+    "Xtravaganza",
+    "Amour",
+    "Blossom",
+    "Bordeaux"
+  ]
+}

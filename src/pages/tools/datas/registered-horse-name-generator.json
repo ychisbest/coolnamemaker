@@ -1,0 +1,84 @@
+{
+  "name": "Registered Horse Name Generator",
+  "description": "Gallop into greatness with the perfect, registered-sounding name for your equine companion!  Tired of 'Buttercup' and 'Fido'?  Our generator crafts names worthy of a champion, a showstopper, or just the coolest darn horse on the block.  Get ready to turn heads and win hearts (and maybe some ribbons) with a name that's as unique and spirited as your horse.",
+  "slug": "registered-horse-name-generator",
+  "icon": "\ud83d\udc34",
+  "introduction": "Is your horse destined for the winner's circle, or just needs a name that sounds like they are?  Our Registered Horse Name Generator is here to help! We combine classic equestrian elegance with a dash of modern flair to create names that are both sophisticated and memorable. Think 'Sterling Silver Stride' instead of just 'Silver'.  Let's find a name that reflects your horse's personality, pedigree (real or imagined!), and potential for greatness.",
+  "howToUse": [
+    "1. Click that glorious 'Generate' button! (You know you want to.)",
+    "2. Behold the majestic name that appears!  (Prepare to be amazed.)",
+    "3. Love it? Fantastic!  Copy it down and start practicing your announcer voice.",
+    "4. Not quite right?  No problem!  Click 'Generate' again for another dazzling option. We've got enough names to fill a whole stable!",
+    "5.  Feeling adventurous? Tweak the prefixes and suffixes to create a truly bespoke name that's 100% unique to your magnificent steed."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names *actually* registered?",
+      "answer": "While our names *sound* registered-worthy, they're primarily for fun and inspiration. You'll need to check with your specific breed registry for official registration guidelines and availability."
+    },
+    {
+      "question": "Can I use these names for other animals?",
+      "answer": "Absolutely! While designed with horses in mind, many of these names could work beautifully for dogs, cats, or even a particularly dignified hamster.  Get creative!"
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart (and your horse) desires! We have an endless supply of potential names just waiting to be discovered."
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! The generated names are free for you to use as inspiration. However, official registration might have its own rules, so make sure to double check!"
+    },
+    {
+      "question": "I generated a name I *really* love! Can I save it?",
+      "answer": "While this generator doesn't have a 'save' feature (yet!), we recommend copying and pasting your favorite names into a document or note-taking app.  That way, you'll never lose track of your perfect pick!"
+    },
+    {
+      "question": "Does this generator guarantee my horse will win races?",
+      "answer": "We wish! While a great name is certainly important, we can't guarantee athletic prowess. But hey, looking good is half the battle, right?"
+    }
+  ],
+  "prefixes": [
+    "Silver",
+    "Golden",
+    "Royal",
+    "Majestic",
+    "Diamond",
+    "Sterling",
+    "Iron",
+    "Crimson",
+    "Midnight",
+    "Whispering",
+    "Dancing",
+    "Soaring",
+    "Eternal",
+    "Noble",
+    "Valiant",
+    "Phantom",
+    "Celestial",
+    "Legacy",
+    "Grand",
+    "Mystic"
+  ],
+  "suffixes": [
+    "Star",
+    "Moon",
+    "Shade",
+    "Shadow",
+    "Wind",
+    "Fire",
+    "Heart",
+    "Spirit",
+    "Dream",
+    "Grace",
+    "Stride",
+    "Hope",
+    "Glory",
+    "Knight",
+    "Queen",
+    "King",
+    "Reign",
+    "Charm",
+    "Quest",
+    "Song"
+  ]
+}

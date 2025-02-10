@@ -1,0 +1,77 @@
+{
+  "name": "China Names Generator",
+  "description": "Unleash your inner dynasty with our China Names Generator! Find the perfect moniker steeped in history, culture, and a touch of the mystical. Ready to discover your legendary identity?",
+  "slug": "china-names-generator",
+  "icon": "\ud83d\udc09",
+  "introduction": "Tired of your mundane name? Yearning for something with a bit more *oomph*? Our China Names Generator is here to whisk you away to the land of dragons, emperors, and ancient wisdom. Whether you're writing a novel, creating a character, or just fancy a change, we've got the perfect name waiting for you. Prepare to be amazed!",
+  "howToUse": [
+    "Click the 'Generate' button. Don't be shy!",
+    "Behold! A brand new, totally awesome China-inspired name will appear.",
+    "Not feeling it? Hit 'Generate' again! We've got names for days.",
+    "Found the one? Copy it, share it, shout it from the rooftops! The world needs to know your new name."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names authentic Chinese names?",
+      "answer": "While we draw inspiration from Chinese culture and naming conventions, the generated names are designed to be creative and fun, rather than strictly traditional. Think of it as a respectful nod to the rich tapestry of Chinese names!"
+    },
+    {
+      "question": "Can I use these names for my book characters?",
+      "answer": "Absolutely! That's what they're here for! Go forth and create compelling characters with names that resonate with power and intrigue."
+    },
+    {
+      "question": "Is the generator free to use?",
+      "answer": "You betcha! Use it as much as your heart desires. No hidden fees, no sneaky subscriptions. Just pure name-generating joy."
+    },
+    {
+      "question": "How does the generator work?",
+      "answer": "It combines a curated list of prefixes and suffixes with a healthy dose of algorithmic magic. The result? A plethora of unique and captivating names, all at your fingertips."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always looking for ways to improve! Feel free to send your suggestions our way. Who knows, your idea might just become the next big thing in Chinese-inspired names!"
+    },
+    {
+      "question": "Will this generator help me become a Kung Fu master?",
+      "answer": "This generator is designed to inspire creativity. While we draw inspiration from Chinese naming conventions, it's not a substitute for cultural expertise. Use these names as a starting point and do your research!"
+    }
+  ],
+  "prefixes": [
+    "Long",
+    "Mei",
+    "Wei",
+    "Zhen",
+    "Jing",
+    "Tian",
+    "Yu",
+    "Hua",
+    "Bo",
+    "Xiao",
+    "Feng",
+    "Li",
+    "Da",
+    "Qing",
+    "Ming",
+    "Rui",
+    "Shu"
+  ],
+  "suffixes": [
+    "Long",
+    "Hua",
+    "Wei",
+    "Ying",
+    "Lin",
+    "Tao",
+    "Jie",
+    "Yun",
+    "Feng",
+    "Lei",
+    "Shan",
+    "Hai",
+    "Yu",
+    "Zhen",
+    "Bo",
+    "Tian",
+    "Rui"
+  ]
+}

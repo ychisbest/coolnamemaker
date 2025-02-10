@@ -1,0 +1,63 @@
+{
+  "name": "Bouquet Name Generator",
+  "description": "Struggling to find the perfect name for your floral masterpiece? Let our Bouquet Name Generator blossom with inspiration! We'll help you craft a name that's as captivating as your creation.",
+  "slug": "bouquet-name-generator",
+  "icon": "\ud83d\udc90",
+  "introduction": "So, you've created a breathtaking bouquet, a symphony of colors and scents... but it's missing one crucial element: a name! Don't let your stunning floral arrangement fade into obscurity with a generic title. Our Bouquet Name Generator is here to sprinkle some magic and help you discover the perfect moniker that captures the essence of your botanical beauty.",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! We'll conjure up a list of unique and evocative names.",
+    "Don't be shy! Keep clicking until you find a name that truly resonates with the spirit of your bouquet. It's like speed dating, but for floral arrangements!",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a truly bespoke name that's as unique as your blooms.",
+    "Once you've found 'the one,' share your botanical brilliance with the world! Tag us in your posts \u2013 we'd love to see your stunning bouquets and their fabulous names."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Bouquet Name Generator is 100% free to use. We believe everyone deserves a fantastic name for their floral creations."
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "You sure can! All generated names are yours to use as you see fit. Go forth and brand your bouquets with confidence!"
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're constantly adding new prefixes and suffixes to keep the generator fresh and inspiring. Check back often for new floral naming possibilities!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With countless combinations, you're bound to find a name that speaks to you. Or, get inspired and create your own using our prefixes and suffixes as a starting point."
+    },
+    {
+      "question": "Does the generator work for all types of bouquets?",
+      "answer": "You bet! Whether you're creating a romantic rose bouquet, a vibrant wildflower arrangement, or a sophisticated succulent display, our generator can help you find the perfect name."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form, and we'll consider adding them to the generator."
+    }
+  ],
+  "prefixes": [
+    "Enchanted",
+    "Whispering",
+    "Crimson",
+    "Golden",
+    "Serene",
+    "Mystic",
+    "Velvet",
+    "Sunlit",
+    "Twilight",
+    "Dewdrop"
+  ],
+  "suffixes": [
+    "Bloom",
+    "Kiss",
+    "Dream",
+    "Serenade",
+    "Rhapsody",
+    "Symphony",
+    "Garden",
+    "Fantasy",
+    "Melody",
+    "Whispers"
+  ]
+}

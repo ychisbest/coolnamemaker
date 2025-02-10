@@ -1,0 +1,112 @@
+{
+  "name": "Civilization Name Generator",
+  "description": "Struggling to name your epic civilization? Fear not, history-maker! Our generator crafts names worthy of empires, from ancient dynasties to futuristic utopias. Get ready to conquer (the naming game, at least)!",
+  "slug": "civilization-name-generator",
+  "icon": "\ud83c\udfdb\ufe0f",
+  "introduction": "Every great civilization needs a name that resonates through the ages. A name that inspires awe, strikes fear, or simply sounds darn cool! Whether you're writing a novel, designing a game, or just daydreaming about ruling the world, this generator will provide the perfect moniker for your burgeoning empire. Prepare to be inspired!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the awesomeness of the name that appears. (Seriously, some of these are *epic*.)",
+    "If you're not feeling it, hit 'Generate' again! We've got enough combinations to make a pharaoh jealous.",
+    "Copy and paste your chosen name into your project. (World domination plans, character bios, etc.)",
+    "Conquer the world! (Or at least get an A+ on your history project.)"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once generated, the name is yours to use as you see fit. Create your game, write your novel, or start a business. We just provide the spark; you bring the fire!"
+    },
+    {
+      "question": "Are the names historically accurate?",
+      "answer": "While we draw inspiration from history, mythology, and linguistics, the names are primarily designed to sound cool and evocative. Accuracy is secondary to awesomeness."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added?",
+      "answer": "We're always open to suggestions! Feel free to contact us with your ideas. If we like them, we might just add them to the generator!"
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart desires. We won't judge if you spend all day doing it (we might even join you!)."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! With so many possible combinations, you're bound to find something that resonates with you. Or, you know, just come up with your own. We're not the boss of you."
+    },
+    {
+      "question": "Will these names help me conquer the world?",
+      "answer": "We can't guarantee world domination (though a cool name certainly won't hurt!). But we *can* guarantee you'll have a killer name for your civilization, which is a pretty good start, right?"
+    }
+  ],
+  "prefixes": [
+    "Aethel",
+    "Astra",
+    "Neo",
+    "Terra",
+    "Sol",
+    "Nova",
+    "Ember",
+    "Veridian",
+    "Crimson",
+    "Azure",
+    "Shadow",
+    "Golden",
+    "Silver",
+    "Iron",
+    "Steel",
+    "Crystal",
+    "Obsidian",
+    "Zenith",
+    "Nadir",
+    "Echo",
+    "Whisper",
+    "Serpent",
+    "Dragon",
+    "Phoenix",
+    "Griffin",
+    "Lion",
+    "Wolf",
+    "Eagle",
+    "Raven",
+    "Elven",
+    "Dwarven",
+    "Gnomish",
+    "Giant",
+    "Celestial"
+  ],
+  "suffixes": [
+    "ia",
+    "us",
+    "on",
+    "ar",
+    "gard",
+    "heim",
+    "oria",
+    "opolis",
+    "tania",
+    "stan",
+    "dom",
+    "realm",
+    "gate",
+    "wood",
+    "field",
+    "shire",
+    "ford",
+    "haven",
+    "crest",
+    "peak",
+    "vale",
+    "glade",
+    "strand",
+    "coast",
+    "watch",
+    "hold",
+    "glen",
+    "dell",
+    "song",
+    "wind",
+    "light",
+    "shadow",
+    "heart",
+    "soul"
+  ]
+}

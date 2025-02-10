@@ -1,0 +1,82 @@
+{
+  "name": "Minecraft Name Generator",
+  "description": "Struggling to find the perfect, block-rockin' name for your Minecraft character, server, or even your pet creeper? Look no further! This generator crafts names that are as unique and adventurous as your Minecraft world. Get ready to dig into a treasure trove of cool Minecraft names!",
+  "slug": "minecraft-name-generator",
+  "icon": "\u26cf\ufe0f",
+  "introduction": "Welcome, fellow Minecrafter! Tired of being Steve (or Alex... no offense)? Craving a name that screams adventure, creativity, and maybe just a *little* bit of blocky mayhem? You've come to the right place. Our Minecraft Name Generator is your one-stop shop for crafting the ultimate Minecraft moniker. Whether you're a seasoned builder, a redstone wizard, or just starting your journey, we've got the name that will make you stand out in the blocky crowd.",
+  "howToUse": [
+    "Ready to forge your legendary Minecraft name? It's easier than crafting a wooden pickaxe!",
+    "Just smash that 'Generate' button! (Don't actually smash your screen, please).",
+    "Like what you see? Copy it and claim your glory in the Minecraft universe!",
+    "Not feeling the blocky vibes? Hit 'Generate' again for a fresh batch of awesome names. Keep going until you find THE ONE."
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my Minecraft server?",
+      "answer": "Absolutely! These names are free for you to use for your server, your character, your pet pig... go wild!"
+    },
+    {
+      "question": "Are the names generated unique?",
+      "answer": "We strive to create unique combinations, but with the vastness of the Minecraft universe, some overlap is possible. If you find a name already taken, don't fret! Just generate another one!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added?",
+      "answer": "We're always looking for ways to improve! Feel free to send us your suggestions. We might just add them to our list and give you a shout-out!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You betcha! Our Minecraft Name Generator is completely free. No hidden costs, no pay-to-win names. Just pure, unadulterated name-generating goodness."
+    },
+    {
+      "question": "Will using one of these names make me a better Minecraft player?",
+      "answer": "While we can't guarantee instant Minecraft mastery, a cool name is definitely a step in the right direction. Confidence is key, after all! Plus, you'll look awesome while mining diamonds."
+    },
+    {
+      "question": "Can I use these names for other games?",
+      "answer": "While crafted with Minecraft in mind, feel free to use them wherever your gaming heart desires! Just be sure they fit the vibe of the game you're playing."
+    }
+  ],
+  "prefixes": [
+    "Blocky",
+    "Pixel",
+    "Crafty",
+    "Mine",
+    "Digi",
+    "Stone",
+    "Iron",
+    "Gold",
+    "Diamond",
+    "Nether",
+    "Ender",
+    "Creeper",
+    "Zombie",
+    "Skeleton",
+    "Wither",
+    "Dragon",
+    "Aqua",
+    "Terra",
+    "Lava",
+    "Glow"
+  ],
+  "suffixes": [
+    "Craft",
+    "Miner",
+    "Builder",
+    "Dig",
+    "Block",
+    "Pixel",
+    "Stone",
+    "Forge",
+    "Slayer",
+    "Lord",
+    "King",
+    "Queen",
+    "Warrior",
+    "Hunter",
+    "Mage",
+    "Knight",
+    "Explorer",
+    "Adventurer",
+    "Crafter"
+  ]
+}

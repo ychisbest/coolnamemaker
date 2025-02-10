@@ -1,0 +1,83 @@
+{
+  "name": "Turkish Name Generator",
+  "description": "Ready to discover your awesome Turkish alter ego? Unleash a name steeped in history, culture, and just a touch of mystery with our Turkish Name Generator! \u2728",
+  "slug": "turkish-name-generator",
+  "icon": "\ud83c\uddf9\ud83c\uddf7",
+  "introduction": "Merhaba! Ever wondered what your name would be if you were a character straight out of a Turkish drama or a wise old merchant from the Silk Road? Our Turkish Name Generator is here to whisk you away on a linguistic adventure! Whether you're writing a story, creating a character for a game, or just curious about Turkish names, we've got the perfect moniker waiting for you.",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand-new, totally cool Turkish name will appear before your very eyes. It's like magic, but with more vowels and fewer fez hats (unless you want a fez hat, then by all means!).",
+    "Don't like the first result? No problem! Keep clicking until you find a name that resonates with your soul... or at least sounds really, really cool.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a truly unique Turkish name that's all your own. Go wild!",
+    "Share your amazing new name with friends and family! Prepare for gasps of admiration and requests for you to name their future pets."
+  ],
+  "faqs": [
+    {
+      "question": "Are these real Turkish names?",
+      "answer": "Absolutely! We've curated a list of common and historical Turkish names, prefixes, and suffixes to give you authentic-sounding results. While some combinations might be a bit quirky, they're all rooted in Turkish naming traditions."
+    },
+    {
+      "question": "Can I use these names for my novel/game/story?",
+      "answer": "Of course! Feel free to use any name generated here for your creative projects. We only ask that you credit coolnamemaker.com if you find it particularly helpful. \ud83d\ude09"
+    },
+    {
+      "question": "Why are some names longer than others?",
+      "answer": "Turkish names can sometimes be a bit longer due to the combination of prefixes, suffixes, and given names. Embrace the length! It adds character."
+    },
+    {
+      "question": "Is this generator only for male names?",
+      "answer": "Nope! Our generator includes a mix of male, female, and gender-neutral name components. You can generate names for any character, regardless of gender."
+    },
+    {
+      "question": "What do I do if I don't like any of the generated names?",
+      "answer": "Keep clicking! With countless combinations, you're bound to find a name you love eventually. Or, get inspired and create your own unique Turkish-sounding name using our prefixes and suffixes as a guide. Think of it as a naming playground!"
+    },
+    {
+      "question": "Can I suggest a prefix or suffix to be added?",
+      "answer": "We'd love to hear your suggestions! Please contact us through the contact form on the website with your ideas."
+    }
+  ],
+  "prefixes": [
+    "Alp",
+    "Ay",
+    "Demir",
+    "Can",
+    "G\u00fcl",
+    "Deniz",
+    "Efe",
+    "Yusuf",
+    "Mehmet",
+    "Zeynep",
+    "Elif",
+    "Fatma",
+    "Mustafa",
+    "Sultan",
+    "H\u00fcrrem",
+    "Selim",
+    "Cihan",
+    "Asl\u0131",
+    "Burak",
+    "Cem"
+  ],
+  "suffixes": [
+    "kan",
+    "han",
+    "demir",
+    "ta\u015f",
+    "g\u00fcl",
+    "deniz",
+    "efe",
+    "o\u011flu",
+    "y\u0131lmaz",
+    "kaya",
+    "y\u0131ld\u0131z",
+    "aksoy",
+    "arslan",
+    "\u00f6zdemir",
+    "\u00e7elik",
+    "\u015fen",
+    "kurt",
+    "do\u011fan",
+    "er",
+    "alp"
+  ]
+}

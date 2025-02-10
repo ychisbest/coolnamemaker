@@ -1,0 +1,92 @@
+{
+  "name": "Female Mage Name Generator",
+  "description": "Struggling to name your powerful sorceress? Fear not, weary traveler! Our Female Mage Name Generator conjures up enchanting names fit for any mystical mistress. Unleash the magic with a name that resonates with power and grace!",
+  "slug": "female-mage-name-generator",
+  "icon": "\ud83d\udd2e",
+  "introduction": "In the realm of fantasy, a mage's name is their bond to the arcane. It whispers of ancient secrets, untold power, and a destiny woven with magic. This generator is your portal to crafting the perfect moniker for your female mage, whether she's a benevolent healer, a cunning illusionist, or a formidable elementalist.",
+  "howToUse": [
+    "Behold! Simply click the 'Generate' button. Like a magical incantation, a new name will appear before your very eyes!",
+    "Not quite right? Keep clicking! The generator holds an infinite well of potential names, each more enchanting than the last.",
+    "Found the perfect name? Huzzah! Copy it and bestow it upon your character. May she wield her magic with wisdom and might!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for characters in my novel?",
+      "answer": "Absolutely! These names are crafted to spark your imagination and bring your characters to life. Feel free to use them in your stories, games, or any creative project."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes and no! The generator uses a combination of prefixes and suffixes carefully selected to evoke a sense of magic and femininity. While the combinations are random, the elements are chosen with purpose."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form. We're always looking for ways to expand our magical repertoire."
+    },
+    {
+      "question": "Will the generator create the same name twice?",
+      "answer": "While it's possible, it's highly unlikely! With a vast library of prefixes and suffixes, the generator can create a nearly infinite number of unique combinations."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! Our Female Mage Name Generator is completely free to use. Consider it our gift to the creative community. Now go forth and weave your magic!"
+    },
+    {
+      "question": "Can I use these names for RPG games?",
+      "answer": "Of course! These names are perfect for Dungeons and Dragons, Pathfinder, or any other role-playing game where you need a cool and unique name for your female mage character."
+    }
+  ],
+  "prefixes": [
+    "Lyra",
+    "Seraph",
+    "Anya",
+    "Elara",
+    "Sylv",
+    "Willow",
+    "Luna",
+    "Astra",
+    "Briar",
+    "Rowan",
+    "Sage",
+    "Hazel",
+    "Iris",
+    "Coral",
+    "Zephyr",
+    "Morgan",
+    "Nimue",
+    "Guinev",
+    "Vivian",
+    "Avalon",
+    "Mystic",
+    "Shadow",
+    "Storm",
+    "Frost",
+    "Ember"
+  ],
+  "suffixes": [
+    "wyn",
+    "dria",
+    "ella",
+    "ia",
+    "iel",
+    "ana",
+    "lise",
+    "lynn",
+    "aria",
+    "astra",
+    "elle",
+    "wen",
+    "fire",
+    "ice",
+    "shade",
+    "thorn",
+    "moon",
+    "sun",
+    "light",
+    "dark",
+    "storm",
+    "song",
+    "whisper",
+    "wind",
+    "brook"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "PMC Name Generator",
+  "description": "Struggling to find the perfect moniker for your Professional Minecraft Crew? Fear no more! Our PMC Name Generator will conjure up names so cool, they'll make even Notch jealous.",
+  "slug": "pmc-name-generator",
+  "icon": "\u26cf\ufe0f",
+  "introduction": "Welcome, fellow crafter! Are you ready to assemble the ultimate Minecraft team? But wait, every legendary crew needs a legendary name. That's where we come in. Our PMC Name Generator blends the grit of the digital mines with the swagger of a seasoned gamer. Get ready to unearth a name that's as unique and powerful as your building skills!",
+  "howToUse": [
+    "First, brace yourself for awesomeness.",
+    "Next, click that shiny 'Generate' button. Don't be shy!",
+    "Behold! A selection of epic PMC names will appear before your very eyes.",
+    "If you're not feeling the initial vibes, mash that button again! We've got more names than diamonds in a deep mine.",
+    "Found a name that resonates with your blocky soul? Copy it and share it with your crew. Prepare for instant respect and admiration."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe the perfect PMC name should be accessible to all, regardless of their in-game wealth. Consider it our gift to the Minecraft community."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! With countless combinations, you're bound to find a name that clicks. Or, get inspired by the suggestions and create your own masterpiece!"
+    }
+  ],
+  "prefixes": [
+    "Diamond",
+    "Obsidian",
+    "Nether",
+    "Ender",
+    "Creeper",
+    "Pixel",
+    "Block",
+    "Craft",
+    "Stone",
+    "Iron",
+    "Gold",
+    "Emerald",
+    "Lava",
+    "Aqua",
+    "Storm",
+    "Shadow",
+    "Void",
+    "Terra",
+    "Frost",
+    "Crimson"
+  ],
+  "suffixes": [
+    "Squad",
+    "Crew",
+    "Alliance",
+    "Legion",
+    "Order",
+    "Syndicate",
+    "Empire",
+    "Nation",
+    "Collective",
+    "Brotherhood",
+    "Division",
+    "Force",
+    "Guardians",
+    "Raiders",
+    "Builders",
+    "Miners",
+    "Explorers",
+    "Architects",
+    "Champions",
+    "Elite"
+  ]
+}

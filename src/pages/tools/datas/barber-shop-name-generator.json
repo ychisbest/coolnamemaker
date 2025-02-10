@@ -1,0 +1,80 @@
+{
+  "name": "Barber Shop Name Generator",
+  "description": "Struggling to find the perfect name for your tonsorial parlor? Our Barber Shop Name Generator is here to snip away the stress and craft a brand that's sharp, stylish, and unforgettable. Get ready to attract clients with a name that's a cut above the rest!",
+  "slug": "barber-shop-name-generator",
+  "icon": "\ud83d\udc88",
+  "introduction": "So you're opening a barber shop? Awesome! But before you start wielding those clippers, you need a name that screams 'cool' and 'trustworthy'. Forget boring, predictable names. Our generator blends classic charm with modern flair to create names that will have customers lining up for a fresh fade.",
+  "howToUse": [
+    "First, take a deep breath and unleash your inner creativity! (Or just relax, we've got this.)",
+    "Click the 'Generate' button and watch the magic happen. We'll conjure up a list of barber shop names that are so good, they'll make you want to shave your head and start all over.",
+    "Don't settle for the first name you see! Keep clicking until you find the one that resonates with your shop's vibe. Think about your target audience, your location, and the overall feel you want to create.",
+    "Once you've found 'the one,' check if the name is available as a website domain and social media handle. You wouldn't want someone else stealing your thunder (or your razor).",
+    "Congratulations! You've officially named your barber shop. Now go forth and conquer the world of hair!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the Barber Shop Name Generator work?",
+      "answer": "Our generator uses a sophisticated algorithm (aka a bunch of cool words and phrases) to create unique and catchy barber shop names. It combines prefixes and suffixes related to barbering, style, and classic masculine imagery."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "While there's an element of randomness, we've carefully curated the word lists to ensure that the generated names are relevant and appropriate for a barber shop. No 'Fluffy Unicorn Haircuts' here!"
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "Absolutely! Once you find a name you love, it's yours to use for your barber shop, branding, and marketing materials. Just be sure to do a trademark search to ensure no one else is already using it."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! The possibilities are endless. You can also try combining elements from different names or using them as inspiration to come up with your own unique creation. Don't be afraid to get creative!"
+    },
+    {
+      "question": "Is the Barber Shop Name Generator free to use?",
+      "answer": "You bet your sweet sideburns it is! Our generator is completely free to use as many times as you like. Consider it our gift to the world of perfectly coiffed hair."
+    },
+    {
+      "question": "Can I suggest words or phrases to be added to the generator?",
+      "answer": "We're always looking for ways to improve! Feel free to send us your suggestions. If we think they're a good fit, we might just add them to the mix."
+    }
+  ],
+  "prefixes": [
+    "Sharp",
+    "Classic",
+    "The",
+    "Urban",
+    "Modern",
+    "Gentleman's",
+    "Elite",
+    "Blade &",
+    "Cut &",
+    "Groom",
+    "Style",
+    "Fade",
+    "Shear",
+    "Clippers",
+    "Razor",
+    "The Dapper",
+    "Bold",
+    "Prime"
+  ],
+  "suffixes": [
+    "Shop",
+    "Studio",
+    "Salon",
+    "Lounge",
+    "Room",
+    "Parlor",
+    "Barbers",
+    "Co.",
+    "Inc.",
+    "Collective",
+    "Society",
+    "Avenue",
+    "Square",
+    "District",
+    "House",
+    "Crew",
+    "Brothers",
+    "Company"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Dhampir Name Generator",
+  "description": "Unleash your inner half-vampire with our Dhampir Name Generator! Craft the perfect moniker that screams both mortal and immortal. Because let's face it, 'Bob' just doesn't cut it when you're slaying undead.",
+  "slug": "dhampir-name-generator",
+  "icon": "\ud83e\udddb",
+  "introduction": "Ever wondered what your name would be if you were a Dhampir \u2013 that awesome, half-human, half-vampire hybrid?  Well, wonder no more! Our generator blends dark allure with a touch of mortal charm to create names that are both powerful and intriguing.  Get ready to embrace your dual heritage!",
+  "howToUse": [
+    "First, take a deep breath... of fresh (or not-so-fresh) air.",
+    "Next, click the 'Generate' button. (It's the one that doesn't bite... probably.)",
+    "Behold! A brand-new Dhampir name, ready for all your vampire-hunting (or vampire-flirting) needs.",
+    "Don't like it? Click again! We've got more names than a vampire has centuries.",
+    "Repeat until you find the name that makes your fangs tingle. \ud83d\ude09"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly IS a Dhampir?",
+      "answer": "Think of them as the offspring of a vampire and a human. They're like the cool, brooding heroes of the monster world, often with enhanced abilities but thankfully, without the whole 'dusting in sunlight' problem."
+    },
+    {
+      "question": "Are these names suitable for my Dhampir character in a novel or RPG?",
+      "answer": "Absolutely! We designed these names to be evocative and inspiring, perfect for fleshing out your Dhampir characters and giving them that extra edge. Go forth and create epic tales!"
+    },
+    {
+      "question": "Can I use these names for other types of characters besides Dhampirs?",
+      "answer": "Of course! While designed with Dhampirs in mind, these names can work for anyone seeking a mysterious or powerful-sounding moniker. Let your imagination run wild!"
+    },
+    {
+      "question": "Will using this generator turn me into a real Dhampir?",
+      "answer": "Sadly, no. This generator is purely for entertainment purposes. If you *do* happen to become a real Dhampir, please contact us \u2013 we'd love to hear your story (and maybe get some tips on fighting vampires)."
+    },
+    {
+      "question": "I generated a name I really love! Can I share it?",
+      "answer": "Yes, please do! Spread the Dhampir name love! Tag us on social media \u2013 we'd love to see what names you've discovered. And who knows, maybe you'll inspire someone else!"
+    },
+    {
+      "question": "Are the names generated unique?",
+      "answer": "While we strive for variety, some combinations might appear more than once. Think of it as destiny calling... or just a statistical inevitability. But hey, even if you get a duplicate, it's still a cool name!"
+    }
+  ],
+  "prefixes": [
+    "Vlad",
+    "Seraph",
+    "Lysan",
+    "Dimitri",
+    "Corvus",
+    "Raven",
+    "Shadow",
+    "Night",
+    "Crimson",
+    "Obsidian",
+    "Silas",
+    "Morwen",
+    "Lucien",
+    "Lilith",
+    "Kael",
+    "Astral",
+    "Nyx",
+    "Solas",
+    "Ember",
+    "Blaire"
+  ],
+  "suffixes": [
+    "escu",
+    "ovna",
+    "ovich",
+    "ia",
+    "iel",
+    "ian",
+    "ar",
+    "yn",
+    "is",
+    "or",
+    "a",
+    "e",
+    "i",
+    "o",
+    "u",
+    "ix",
+    "yx",
+    "ex",
+    "ax",
+    "ox"
+  ]
+}

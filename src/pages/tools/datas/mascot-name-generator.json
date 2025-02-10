@@ -1,0 +1,84 @@
+{
+  "name": "Mascot Name Generator",
+  "description": "Struggling to find the perfect name for your awesome mascot? Fear no more! Our Mascot Name Generator will conjure up names so cool, so catchy, they'll be chanting them in the stands! Get ready to unleash the ultimate team spirit!",
+  "slug": "mascot-name-generator",
+  "icon": "\ud83d\udc3b",
+  "introduction": "Your mascot is the heart and soul of your team, and it deserves a name that roars with personality! Whether you're a sports team, a school, or a brand, a great mascot name is key to creating a memorable and engaging identity. Let our generator do the heavy lifting \u2013 we'll whip up a list of names so good, you'll think we've got a team of naming ninjas!",
+  "howToUse": [
+    "Ready to unleash your mascot's inner name-itude? Simply click the 'Generate' button!",
+    "Keep clicking until a name jumps out at you and screams, 'I'm perfect!'",
+    "Don't be afraid to mix and match prefixes and suffixes for a truly unique creation.",
+    "Share your favorite names with your team and let the naming games begin!",
+    "Pro-tip: Say the name out loud! Does it roll off the tongue? Does it sound powerful? If so, you're onto a winner!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the Mascot Name Generator work?",
+      "answer": "It combines a carefully curated list of prefixes and suffixes, crafted to evoke feelings of strength, agility, and pure awesomeness. We've spent countless hours brainstorming to ensure every name is a potential home run!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once a name tickles your fancy, it's all yours to use as you see fit. Go forth and conquer the world with your newly named mascot!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "While there's an element of randomness, we've also infused a healthy dose of creativity and strategy. We want to give you names that are both unique and fitting for a mascot."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! Our generator is a never-ending fountain of mascot naming possibilities. And hey, if you're still not satisfied, use our generated names as inspiration to brainstorm your own!"
+    },
+    {
+      "question": "Is the Mascot Name Generator free to use?",
+      "answer": "You betcha! Use it to your heart's content. We're all about helping you find the perfect name without breaking the bank. Consider it our gift to the mascot-loving community!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always open to suggestions! If you have a brilliant idea for a prefix or suffix, feel free to send it our way. If we love it, we might just add it to the generator!"
+    }
+  ],
+  "prefixes": [
+    "Roar",
+    "Swift",
+    "Mighty",
+    "Thunder",
+    "Blaze",
+    "Iron",
+    "Steel",
+    "Volt",
+    "Shadow",
+    "Frost",
+    "Apex",
+    "Zenith",
+    "Crimson",
+    "Mystic",
+    "Phantom",
+    "Rapid",
+    "Solar",
+    "Titan",
+    "Vanguard",
+    "Epic"
+  ],
+  "suffixes": [
+    "Strike",
+    "Claw",
+    "Fang",
+    "Bolt",
+    "Guard",
+    "Shield",
+    "Hawk",
+    "Wolf",
+    "Force",
+    "Surge",
+    "Knight",
+    "Warrior",
+    "Hunter",
+    "Blazer",
+    "Storm",
+    "Blade",
+    "Fire",
+    "Fury",
+    "Gale",
+    "Wing"
+  ]
+}

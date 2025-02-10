@@ -1,0 +1,122 @@
+{
+  "name": "Tiefling Name Generator",
+  "description": "Struggling to find the perfect moniker for your devilishly charming Tiefling character? Fear not, adventurer! Our Tiefling Name Generator conjures up names that are both infernally stylish and uniquely you. Unleash your inner Tiefling with a name that resonates with power, mystery, and maybe just a little bit of mischief.",
+  "slug": "tiefling-names-generator",
+  "icon": "\ud83d\ude08",
+  "introduction": "Tieflings, with their striking appearances and complex histories, deserve names that reflect their unique heritage. Whether you're crafting a cunning warlock, a charismatic rogue, or a noble paladin with a touch of darkness, a great name is key. Our generator blends infernal influences with mortal flair, offering a plethora of options to ignite your imagination. Get ready to roll for initiative... on your new name!",
+  "howToUse": [
+    "Simply hit that tantalizing 'Generate' button and behold the magic! Our generator will summon forth a selection of Tiefling names, each more captivating than the last.",
+    "Not feeling the first batch? No sweat! Keep clicking 'Generate' until a name whispers to your soul (or at least doesn't make you cringe).",
+    "Feeling creative? Use the generated names as inspiration! Mix and match prefixes and suffixes to forge a truly unique identity.",
+    "Once you've found 'The One,' write it down, tattoo it on your forehead (okay, maybe not), and prepare to unleash your Tiefling upon the world!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "Our generator specializes in Tiefling names that blend infernal, human, and sometimes even elven influences. Expect names that sound both powerful and intriguing, with a hint of the exotic."
+    },
+    {
+      "question": "Can I use these names for characters in my D&D campaign?",
+      "answer": "Absolutely! That's exactly what it's for! Feel free to use these names for your Dungeons & Dragons characters, NPCs, or even your pet hamster if it's feeling particularly fiendish."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "While there's an element of randomness, our generator uses carefully curated lists of prefixes and suffixes designed to create names that sound authentic and fitting for Tieflings. It's chaos, but *organized* chaos."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! While we can't guarantee we'll add every suggestion, we're always looking for ways to improve the generator and make it even more awesome. Send your suggestions our way!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep generating! With a vast combination of prefixes and suffixes, you're bound to find a name that resonates with you. Alternatively, use the generated names as a springboard for your own creativity. Tweak them, combine them, or let them inspire something completely new. The possibilities are endless!"
+    },
+    {
+      "question": "Is this generator suitable for other fantasy settings besides D&D?",
+      "answer": "Absolutely! While inspired by D&D's Tieflings, the names generated can be easily adapted to other fantasy worlds with similar demon-touched or infernally-influenced races. Unleash your imagination!"
+    }
+  ],
+  "prefixes": [
+    "Zariel",
+    "Fierna",
+    "Glasya",
+    "Levisto",
+    "Baalze",
+    "Mammon",
+    "Belphe",
+    "Asmode",
+    "Kriva",
+    "Vor",
+    "Mal",
+    "Xil",
+    "Zek",
+    "Thy",
+    "Gresh",
+    "Vex",
+    "Raze",
+    "Sinder",
+    "Noct",
+    "Umbra",
+    "Crim",
+    "Ash",
+    "Bone",
+    "Shadow",
+    "Soul",
+    "Flame",
+    "Ruin",
+    "Doom",
+    "Void",
+    "Hex",
+    "Whisper",
+    "Gloom",
+    "Sin",
+    "Wrath",
+    "Fear",
+    "Pain",
+    "Torment"
+  ],
+  "suffixes": [
+    "ael",
+    "iel",
+    "iel",
+    "os",
+    "as",
+    "eth",
+    "esh",
+    "iel",
+    "on",
+    "ax",
+    "ix",
+    "yx",
+    "ek",
+    "yk",
+    "oth",
+    "ith",
+    "yth",
+    "ez",
+    "yz",
+    "ar",
+    "or",
+    "ur",
+    "an",
+    "en",
+    "in",
+    "yn",
+    "is",
+    "ys",
+    "es",
+    "ax",
+    "yx",
+    "ex",
+    "ara",
+    "era",
+    "ira",
+    "ora",
+    "ura",
+    "yla",
+    "ela",
+    "ila",
+    "ola",
+    "ula"
+  ]
+}

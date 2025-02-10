@@ -1,0 +1,86 @@
+{
+  "name": "Fragrance Name Generator",
+  "description": "Struggling to find the perfect name for your new perfume or cologne? Let our Fragrance Name Generator sprinkle some olfactory magic and create a scent-sational name that captures the essence of your creation!",
+  "slug": "fragrance-name-generator",
+  "icon": "\ud83c\udf38",
+  "introduction": "Unleash your inner perfumer! Naming your fragrance is just as important as the notes within. A captivating name can evoke emotions, tell a story, and ultimately, entice customers. But where do you begin? Fear not, fragrance aficionado! Our generator is here to blend creativity and inspiration, helping you discover a name that's as unforgettable as the scent itself. Get ready to bottle up some brilliance!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! We'll conjure up a range of fragrance names that are both unique and evocative.",
+    "Feeling picky? (We don't blame you, this is *fragrance* we're talking about!) Keep clicking to explore endless possibilities until you find 'the one'.",
+    "Got a favorite prefix or suffix in mind? We've got you covered! Use the prefixes and suffixes we provide to create a more customized fragrance name.",
+    "Once you've found the perfect name, copy it and start dreaming up the marketing campaign. You're on your way to fragrance fame!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the Fragrance Name Generator work?",
+      "answer": "Our generator uses a blend of carefully curated prefixes and suffixes, inspired by the world of perfumery, to create a diverse range of fragrance names. It's like a digital nose, sniffing out the perfect combination!"
+    },
+    {
+      "question": "Are the generated names trademarkable?",
+      "answer": "While we strive to create unique and inspiring names, we always recommend conducting a thorough trademark search before using any generated name for commercial purposes. Better safe than sorry!"
+    },
+    {
+      "question": "Can I use the generated names for other products besides fragrances?",
+      "answer": "Absolutely! While designed for fragrances, the generated names can be adapted for other products, such as candles, lotions, or even room sprays. Let your creativity flow!"
+    },
+    {
+      "question": "How often is the generator updated with new prefixes and suffixes?",
+      "answer": "We're constantly sniffing out new trends and inspirations in the fragrance world! We regularly update our database to ensure that the generator stays fresh and relevant."
+    },
+    {
+      "question": "Is the Fragrance Name Generator free to use?",
+      "answer": "Yes! Our generator is completely free to use. Enjoy creating as many fragrance names as your heart (and nose) desires!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your suggestions! Please feel free to contact us with your ideas. We're always looking for ways to improve our generator and make it even more helpful for our users."
+    }
+  ],
+  "prefixes": [
+    "L'eau de",
+    "Mystic",
+    "Eternal",
+    "Velvet",
+    "Crimson",
+    "Golden",
+    "Midnight",
+    "Serene",
+    "Enchanted",
+    "Radiant",
+    "Lunar",
+    "Solar",
+    "Opulent",
+    "Whispering",
+    "Secret",
+    "Pure",
+    "Divine",
+    "Celestial",
+    "Aromatic",
+    "Sublime"
+  ],
+  "suffixes": [
+    "Bloom",
+    "Elixir",
+    "Aura",
+    "Essence",
+    "Dream",
+    "Kiss",
+    "Glow",
+    "Charm",
+    "Secret",
+    "Nectar",
+    "Symphony",
+    "Whisper",
+    "Desire",
+    "Allure",
+    "Oud",
+    "Rose",
+    "Sandalwood",
+    "Vanilla",
+    "Amber",
+    "Musk",
+    "Garden",
+    "Forest",
+    "Spice"
+  ]
+}

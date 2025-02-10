@@ -1,0 +1,83 @@
+{
+  "name": "Bible Name Generator",
+  "description": "Unearth divine monikers! Our Bible Name Generator conjures up names dripping with history, meaning, and a touch of the almighty. Perfect for characters, projects, or just a bit of inspired fun!",
+  "slug": "bible-name-generator",
+  "icon": "\ud83d\udcdc",
+  "introduction": "Ever wanted a name that echoes through the ages, resonates with ancient power, and maybe even sounds a little bit\u2026 epic? Then you've stumbled upon the right place! Our Bible Name Generator dives deep into the scriptures to unearth names brimming with character and significance. Whether you're crafting a biblical story, naming a fantasy hero, or simply seeking a name with gravitas, prepare to be blessed with inspiration!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the holy name that appears!",
+    "Feeling picky? Click again! The heavens (or, you know, our algorithm) will provide another option.",
+    "Found a name you adore? Copy it and spread the biblical joy!",
+    "Want even MORE personalized results? Explore the prefix and suffix options to tailor the name to your liking. Go wild! (But, you know, in a respectful way.)"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names *actually* from the Bible?",
+      "answer": "Mostly! We've curated a list of names directly from the Bible, along with some inspired variations and nicknames that feel biblically authentic. Think of it as 'Bible-adjacent'."
+    },
+    {
+      "question": "Can I use these names for my baby?",
+      "answer": "Absolutely! Many of these names are timeless classics and still popular today. Just be sure to research the meaning and significance of the name to ensure it resonates with you."
+    },
+    {
+      "question": "Is this generator religiously affiliated?",
+      "answer": "Nope! This generator is purely for fun and creative inspiration. We respect all faiths (and non-faiths) and aim to provide a resource that anyone can enjoy."
+    },
+    {
+      "question": "The name sounds weird. Did something go wrong?",
+      "answer": "Beauty (and naming) is in the eye of the beholder! Some combinations might sound a bit unusual, but that's part of the fun. Experiment and see what hidden gems you can discover!"
+    },
+    {
+      "question": "Can I suggest a name to be added to the generator?",
+      "answer": "We'd love to hear your suggestions! While we can't guarantee every name will be added, we're always looking to expand our collection. Feel free to contact us with your ideas."
+    },
+    {
+      "question": "How accurate is the generator?",
+      "answer": "The generator combines prefixes and suffixes in a way that is inspired by biblical names, but it is not meant to be a source of theological or historical information. The generator should be used for entertainment purposes only."
+    }
+  ],
+  "prefixes": [
+    "Abra",
+    "Sara",
+    "Jose",
+    "Dani",
+    "Elij",
+    "Mos",
+    "Dav",
+    "Sam",
+    "Jon",
+    "Esth",
+    "Ruth",
+    "Deb",
+    "Rebe",
+    "Le",
+    "Jud",
+    "Ben",
+    "Isa",
+    "Jer",
+    "Ezek",
+    "Josh"
+  ],
+  "suffixes": [
+    "ham",
+    "el",
+    "iah",
+    "iel",
+    "iah",
+    "on",
+    "id",
+    "uel",
+    "as",
+    "er",
+    "an",
+    "a",
+    "i",
+    "ah",
+    "im",
+    "jamin",
+    "shua",
+    "miah",
+    "iel",
+    "ua"
+  ]
+}

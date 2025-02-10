@@ -1,0 +1,84 @@
+{
+  "name": "Kennel Name Generator",
+  "description": "Unleash the paw-sibilities! Find the perfect, tail-waggingly awesome name for your kennel or dog-related business.",
+  "slug": "kennel-name-generator",
+  "icon": "\ud83d\udc3e",
+  "introduction": "So, you're starting a kennel or dog-centric venture? Fantastic! But a great name is crucial. It needs to be memorable, reflect your brand, and, let's face it, sound darn good. Our Kennel Name Generator is here to sniff out the perfect moniker, saving you from endless brainstorming sessions and potential naming nightmares. Let's fetch you some amazing options!",
+  "howToUse": [
+    "First, think about the vibe you want your kennel to project. Is it luxurious? Playful? Professional?",
+    "Next, hit that 'Generate' button! Watch the magic happen as our generator conjures up a list of kennel names.",
+    "Don't be afraid to hit 'Generate' multiple times! The more you try, the more unique and creative names you'll discover.",
+    "Found a name you love? Awesome! Check if the domain name and social media handles are available. Secure them before someone else does!",
+    "Still not quite right? Tweak the generated names or use them as inspiration to create your own masterpiece. The possibilities are endless!"
+  ],
+  "faqs": [
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart (and your dog) desires! There's no limit to the number of kennel names you can generate. Keep clicking until you find the one that barks to you."
+    },
+    {
+      "question": "Are the generated names trademarked?",
+      "answer": "Nope! Our generator creates unique suggestions, but it's your responsibility to check for existing trademarks before using a name for your business. You don't want to end up in the doghouse!"
+    },
+    {
+      "question": "Can I use these names for other dog-related businesses?",
+      "answer": "Absolutely! Whether you're starting a dog grooming salon, a pet-sitting service, or a dog walking empire, these names can work for any canine-centric venture. Get creative!"
+    },
+    {
+      "question": "Is the Kennel Name Generator free to use?",
+      "answer": "You bet your sweet tail it is! Our generator is completely free. Consider it our gift to the dog-loving community."
+    },
+    {
+      "question": "The names are okay, but I want something REALLY unique. Any tips?",
+      "answer": "Try combining generated names, adding your location (e.g., 'Mountain View Kennels'), or incorporating your dog's name into the kennel name. Think outside the crate!"
+    },
+    {
+      "question": "Can I get names in other languages?",
+      "answer": "Currently, the generator focuses on English names, but you can always translate a name you like into another language! Just be sure to double-check the meaning and connotations."
+    }
+  ],
+  "prefixes": [
+    "Happy",
+    "Cozy",
+    "Luxury",
+    "Elite",
+    "Premier",
+    "Grand",
+    "Royal",
+    "Friendly",
+    "Adventure",
+    "Whispering",
+    "Barking",
+    "Tail Wagging",
+    "Pawsitive",
+    "Golden",
+    "Silver",
+    "Diamond",
+    "Redwood",
+    "Willow",
+    "Oak Haven",
+    "Pine Ridge"
+  ],
+  "suffixes": [
+    "Kennels",
+    "Ranch",
+    "Resort",
+    "Retreat",
+    "Inn",
+    "Lodge",
+    "Haven",
+    "Manor",
+    "Estate",
+    "Country Club",
+    "Academy",
+    "Spa",
+    "Hotel",
+    "Paradise",
+    "Gardens",
+    "Village",
+    "Place",
+    "Hideaway",
+    "Cottage",
+    "Paws"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "name": "French Town Name Generator",
+  "description": "Bonjour! Craving a touch of French flair for your next project? Need a name that screams 'quaint village' or 'bustling metropolis' without actually being one? Look no further! Our French Town Name Generator is here to sprinkle a little 'je ne sais quoi' onto your fictional landscapes, game worlds, or even just your daydreams.",
+  "slug": "french-town-name-generator",
+  "icon": "\ud83c\uddeb\ud83c\uddf7",
+  "introduction": "Whether you're a novelist crafting a charming setting, a game developer building a virtual world, or simply a lover of all things French, finding the perfect town name can be a challenge. This generator blends classic French sounds and structures to create names that feel authentically Gallic, even if they're brand new.",
+  "howToUse": [
+    "Click the 'Generate' button. (It's the one that doesn't involve mime artists.)",
+    "Marvel at the wonderfully French-sounding name that appears. (Bonus points if you can pronounce it perfectly.)",
+    "If you're not feeling the *amour*, click again! We've got plenty of names where that came from. (Like a never-ending baguette basket!)",
+    "Copy and paste your favorite name into your project. (And maybe add a tiny Eiffel Tower icon for good measure.)",
+    "Voil\u00e0! You're now the proud creator of a town name that's tres chic!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names real French towns?",
+      "answer": "Some might sound similar to real places, but most are unique creations designed to evoke the feeling of a French town. Think of it as inspired by, not a direct copy."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once generated, the name is yours to use as you see fit. Build your empire, write your novel, design your game \u2013 the possibilities are endless!"
+    },
+    {
+      "question": "How does the generator create these names?",
+      "answer": "It combines a curated list of French prefixes, suffixes, and root words, then blends them together using a secret sauce of linguistic algorithms. (Okay, maybe not so secret, but definitely delicious!)"
+    },
+    {
+      "question": "I don't like the name that was generated. What should I do?",
+      "answer": "Keep clicking! Our generator has a near-infinite supply of potential names. You're bound to find one that speaks to your inner Francophile."
+    },
+    {
+      "question": "Will this generator help me learn French?",
+      "answer": "While it won't teach you the subjunctive, it might introduce you to some interesting French sounds and word structures. Consider it a fun, indirect route to linguistic enlightenment!"
+    },
+    {
+      "question": "Can I suggest words to add to the generator?",
+      "answer": "We love suggestions! Feel free to send us your favorite French-sounding words, and we'll consider adding them in future updates."
+    }
+  ],
+  "prefixes": [
+    "Ville",
+    "Mont",
+    "Saint",
+    "Beau",
+    "Neu",
+    "Grand",
+    "Petit",
+    "Ch\u00e2teau",
+    "Roche",
+    "Font",
+    "Lys",
+    "Val",
+    "Bois",
+    "Claire",
+    "Mer",
+    "Pont",
+    "Rive",
+    "Tour",
+    "Champ",
+    "Isle"
+  ],
+  "suffixes": [
+    "ville",
+    "mont",
+    "sur-Mer",
+    "la-For\u00eat",
+    "bourg",
+    "val",
+    "fontaine",
+    "chatel",
+    "roche",
+    "court",
+    "loup",
+    "pierre",
+    "bois",
+    "fleur",
+    "rivi\u00e8re",
+    "lac",
+    "plage",
+    "vall\u00e9e",
+    "montagne",
+    "soleil"
+  ]
+}

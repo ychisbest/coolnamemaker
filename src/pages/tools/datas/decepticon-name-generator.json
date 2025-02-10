@@ -1,0 +1,93 @@
+{
+  "name": "Decepticon Name Generator",
+  "description": "Unleash your inner tyrant! This generator crafts menacing Decepticon names worthy of the most ruthless robots in disguise. Prepare to conquer!",
+  "slug": "decepticon-name-generator",
+  "icon": "\ud83d\ude08",
+  "introduction": "Ready to join the ranks of Megatron, Starscream, and Soundwave? Our Decepticon Name Generator will forge a name so sinister, so powerful, it'll strike fear into the hearts of Autobots everywhere. Whether you're role-playing, writing fan fiction, or just embracing your dark side, we've got the perfect moniker for your mechanical menace.",
+  "howToUse": [
+    "Simply click the 'Generate' button. (It's way easier than overthrowing a government... probably.)",
+    "Behold your new Decepticon name! (Prepare for world domination... or at least a really cool username.)",
+    "If you're not feeling the first result, smash that button again! We've got more evil where that came from. (Seriously, we could do this all day.)",
+    "Share your wickedly awesome Decepticon name with your fellow Decepticons... and maybe even a few Autobots. (Just to freak them out.)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually affiliated with Hasbro or Transformers?",
+      "answer": "Nope! We're just a bunch of fans having fun. We bow to no corporation, only to the awesome power of imagination... and maybe a little bit to Megatron."
+    },
+    {
+      "question": "Can I use these names for my fan fiction or role-playing games?",
+      "answer": "Absolutely! Go wild! We'd be honored if our generator helped you create the next great Decepticon saga. Just give us a shout-out if you become famous!"
+    },
+    {
+      "question": "What if I don't like the name the generator gives me?",
+      "answer": "Keep clicking! We've got tons of combinations. Or, get creative and tweak a name you almost like. It's all about finding the perfect fit for your Decepticon persona."
+    },
+    {
+      "question": "Are the names generated truly unique?",
+      "answer": "We strive for uniqueness, but with millions of possible combinations, there's a tiny chance someone else might get the same name. Consider it a sign of shared evil genius!"
+    },
+    {
+      "question": "Will using a Decepticon name make me evil?",
+      "answer": "Only if you want it to! We're not responsible for any sudden urges to conquer planets or vaporize Autobots. Use your powers for good... or, you know, deliciously evil fun."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We love suggestions! Send them our way, and we might just add them to the generator. Help us spread the Decepticon love... err, I mean, terror!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Steel",
+    "Dark",
+    "Thunder",
+    "Night",
+    "Iron",
+    "Blaze",
+    "Storm",
+    "Nova",
+    "Void",
+    "Blitz",
+    "Ravage",
+    "Inferno",
+    "Venom",
+    "Cinder",
+    "Frost",
+    "Dread",
+    "Grim",
+    "Skull",
+    "War",
+    "Cyber",
+    "Mega",
+    "Giga",
+    "Terra",
+    "Astro"
+  ],
+  "suffixes": [
+    "strike",
+    "claw",
+    "fire",
+    "blast",
+    "wing",
+    "storm",
+    "crusher",
+    "howl",
+    "quake",
+    "shadow",
+    "slayer",
+    "rage",
+    "fist",
+    "shot",
+    "fang",
+    "freeze",
+    "bane",
+    "lock",
+    "breaker",
+    "tron",
+    "byte",
+    "con",
+    "hawk",
+    "knight",
+    "driver"
+  ]
+}

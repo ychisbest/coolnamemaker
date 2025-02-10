@@ -1,0 +1,120 @@
+{
+  "name": "AI Rap Name Generator",
+  "description": "Ready to drop some beats but your name's got zero street cred? This generator's got you covered! We'll whip up a rap name so fire, it'll make Lil Wayne jealous.",
+  "slug": "ai-rap-name-generator",
+  "icon": "\ud83c\udfa4",
+  "introduction": "Yo, listen up! Your rap career starts with a killer name. Forget 'John Smith' \u2013 you need something that screams 'platinum record'! Our AI-powered generator combines cutting-edge tech with old-school hip-hop vibes to create monikers that are straight-up legendary. Get ready to unleash your inner MC!",
+  "howToUse": [
+    "First, ditch the stage fright. You're about to become a legend.",
+    "Click the 'Generate' button and prepare to be amazed by the lyrical genius of our AI.",
+    "Don't like the first name? No problem! Hit 'Generate' again for endless possibilities.",
+    "Once you find the perfect name, memorize it, tattoo it on your forehead (maybe not), and get ready to dominate the charts!",
+    "Go forth and conquer the rap game, future superstar!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really AI-powered?",
+      "answer": "Word. We've got algorithms spitting out names faster than you can say 'mic check'. It's the real deal, son!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once you find a name you love, it's all yours. Go make that money, honey!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! We've got millions of combinations. Your perfect rap name is lurking in there somewhere. Patience, young padawan."
+    },
+    {
+      "question": "Will this generator make me a better rapper?",
+      "answer": "Well, a fly name is half the battle! While we can't guarantee instant lyrical prowess, a great name will definitely boost your confidence and make you sound more legit. Practice those rhymes, though!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Fo' shizzle! Use it as much as you want. We're all about helping aspiring MCs find their voice (and their name) without breaking the bank."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "Hit us up! We're always looking for fresh ideas to keep our generator on point. Drop us a line with your suggestions and you might just see them added!"
+    }
+  ],
+  "prefixes": [
+    "Lil",
+    "Young",
+    "MC",
+    "DJ",
+    "Big",
+    "The Real",
+    "Sir",
+    "Lord",
+    "Queen",
+    "Princess",
+    "Doctor",
+    "Professor",
+    "Crazy",
+    "Mad",
+    "Silent",
+    "Golden",
+    "Iron",
+    "Diamond",
+    "Platinum",
+    "Original",
+    "True",
+    "Mystic",
+    "Phantom",
+    "Shadow",
+    "Cosmic",
+    "Galactic",
+    "Lunar",
+    "Solar",
+    "Digital",
+    "Tech",
+    "Code",
+    "Byte",
+    "Nano",
+    "Mega",
+    "Ultra",
+    "Hyper",
+    "Rogue",
+    "Vicious"
+  ],
+  "suffixes": [
+    "Dogg",
+    "Cat",
+    "Master",
+    "Killa",
+    "Trill",
+    "Flow",
+    "Rhyme",
+    "Verse",
+    "Lyric",
+    "Beat",
+    "Vibes",
+    "Hustle",
+    "Money",
+    "Stacks",
+    "Game",
+    "King",
+    "Queen",
+    "Prince",
+    "Princess",
+    "Ninja",
+    "Samurai",
+    "Warrior",
+    "Ghost",
+    "Phantom",
+    "Machine",
+    "Bot",
+    "AI",
+    "Code",
+    "Algorithm",
+    "Glitch",
+    "Virus",
+    "Hacker",
+    "Data",
+    "Matrix",
+    "Zenith",
+    "Nova",
+    "Comet",
+    "Eclipse"
+  ]
+}

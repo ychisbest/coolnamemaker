@@ -1,0 +1,88 @@
+{
+  "name": "Death Knight Name Generator",
+  "description": "Unleash the power of the Lich King! Forge a name worthy of a Death Knight with our generator. Embrace the darkness and find a title that strikes fear into the hearts of your enemies.",
+  "slug": "death-knight-names-generator",
+  "icon": "\ud83d\udc80",
+  "introduction": "So, you've embraced the chill of undeath and pledged allegiance to the Ebon Blade? Excellent choice! But a fearsome Death Knight needs a name that echoes through the frozen wastes. Our generator is here to help you craft the perfect moniker, whether you're a brooding tank, a ruthless DPS, or a chilling healer. Prepare to rise... as someone memorable!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the awesomeness of the names presented to you.",
+    "If you're not feeling the dark vibes, hit 'Generate' again! We've got an endless supply of names just waiting to be unleashed.",
+    "Once you find the perfect name, copy it and unleash it upon the unsuspecting world! Bonus points for dramatic pronouncements.",
+    "Remember, a great name is a terrible thing to waste. Use it wisely... or evilly. We're not judging."
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my World of Warcraft Death Knight?",
+      "answer": "Absolutely! These names are designed to be lore-friendly and badass enough for any Death Knight in Azeroth... or beyond!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes! We use a sophisticated (okay, maybe not *that* sophisticated) algorithm to combine prefixes and suffixes, ensuring a unique and suitably grim name every time."
+    },
+    {
+      "question": "Will this generator help me become a better Death Knight player?",
+      "answer": "While we can't guarantee improved rotation skills, a truly epic name *will* boost your confidence and intimidate your opponents. So, yes, indirectly!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! With countless combinations, you're bound to find a name that resonates with your inner darkness. Alternatively, you can always tweak a generated name to make it your own."
+    },
+    {
+      "question": "Can I use these names for other characters besides Death Knights?",
+      "answer": "While they're specifically crafted for Death Knights, feel free to use them for any character that embraces the darker side of fantasy. Necromancers, warlocks, edgy rogues... the possibilities are endless!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! Unleash the power of undeath without spending a single gold coin. Our gift to you, champion of the Ebon Blade."
+    }
+  ],
+  "prefixes": [
+    "Grim",
+    "Shadow",
+    "Frost",
+    "Death",
+    "Blood",
+    "Bone",
+    "Rune",
+    "Ebon",
+    "Night",
+    "Doom",
+    "Void",
+    "Soul",
+    "Crypt",
+    "Grave",
+    "Plague",
+    "Ghoul",
+    "Lich",
+    "Frozen",
+    "Eternal",
+    "Silent"
+  ],
+  "suffixes": [
+    "blade",
+    "bringer",
+    "bane",
+    "lord",
+    "reaver",
+    "guard",
+    "caller",
+    "binder",
+    "watcher",
+    "slayer",
+    "whisper",
+    "chill",
+    "knight",
+    "fiend",
+    "stalker",
+    "shroud",
+    "scourge",
+    "maul",
+    "howl",
+    "king",
+    "queen",
+    "drinker",
+    "weaver",
+    "warden"
+  ]
+}

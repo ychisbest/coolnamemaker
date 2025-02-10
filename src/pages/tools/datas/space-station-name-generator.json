@@ -1,0 +1,84 @@
+{
+  "name": "Space Station Name Generator",
+  "description": "Blast off your creativity! Need a stellar name for your space station? Look no further! Our generator will help you find a name that's out of this world. Perfect for sci-fi writers, game developers, or anyone dreaming of the stars.",
+  "slug": "space-station-name-generator",
+  "icon": "\ud83d\ude80",
+  "introduction": "Welcome, Star Commander! Tired of 'Station McStationface'? Our Space Station Name Generator is your ticket to naming glory! We've got the cosmic ingredients to conjure up names that resonate with the vastness and wonder of space. Get ready to explore a universe of possibilities and find the perfect moniker for your orbital haven.",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen!",
+    "Don't like the first result? Keep clicking! We've got a galaxy of names waiting to be discovered.",
+    "Feeling adventurous? Tweak the prefixes and suffixes below for a personalized touch.",
+    "Once you find a name that resonates, copy it and share it with the universe (or at least your friends).",
+    "And remember, the best name is the one that sparks your imagination and makes you excited about your space station!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! It's as free as the vacuum of space... which, technically, is very free."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You bet! Once the name pops up, it's yours to use as you wish. Go forth and conquer the cosmos (or at least the marketplace)!"
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! We have an endless supply of stellar combinations."
+    },
+    {
+      "question": "Are the names generated random?",
+      "answer": "Mostly! We use a carefully curated list of prefixes and suffixes, combined with a touch of randomness to create unique and exciting names."
+    },
+    {
+      "question": "Will the same name ever be generated twice?",
+      "answer": "It's possible, but highly unlikely! With our vast database of options, the odds are astronomically low."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send them our way and we'll consider adding them to our cosmic collection."
+    }
+  ],
+  "prefixes": [
+    "Star",
+    "Nova",
+    "Astro",
+    "Lunar",
+    "Solar",
+    "Terra",
+    "Cosmic",
+    "Galactic",
+    "Nebula",
+    "Quantum",
+    "Celestial",
+    "Zenith",
+    "Vanguard",
+    "Horizon",
+    "Odyssey",
+    "Elysium",
+    "Stellaris",
+    "Andromeda",
+    "Voyager",
+    "Phoenix"
+  ],
+  "suffixes": [
+    "Base",
+    "Hub",
+    "Station",
+    "Outpost",
+    "Command",
+    "Nexus",
+    "Center",
+    "Port",
+    "Terminal",
+    "Complex",
+    "Alpha",
+    "Omega",
+    "Prime",
+    "One",
+    "Zero",
+    "Haven",
+    "Sanctuary",
+    "Vista",
+    "Pinnacle",
+    "Gateway"
+  ]
+}

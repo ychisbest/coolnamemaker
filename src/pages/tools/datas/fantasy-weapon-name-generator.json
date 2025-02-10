@@ -1,0 +1,89 @@
+{
+  "name": "Fantasy Weapon Name Generator",
+  "description": "Unleash the power of imagination! Forge legendary names for your fantasy weapons with our mystical generator. From enchanted swords to arcane staves, discover the perfect moniker to strike fear (or awe!) into the hearts of your foes (or allies!).",
+  "slug": "fantasy-weapon-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Tired of calling your +5 Vorpal Sword just 'Vorpal'? Yearning for a name that truly captures the essence of your magical mace? Look no further, adventurer! Our Fantasy Weapon Name Generator is here to bestow upon your armaments the epic titles they deserve. Get ready to wield weapons with names that resonate through the ages!",
+  "howToUse": [
+    "Simply click the 'Generate' button. (Yes, it's *that* complicated... NOT!)",
+    "Behold! A brand new, awe-inspiring weapon name will magically appear.",
+    "Don't like it? (Gasp!) Click 'Generate' again for another legendary option. We have names for days!",
+    "Copy your favorite name and paste it into your game, story, or wherever your weapon needs a glorious title.",
+    "Go forth and conquer... or at least sound really cool while trying!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe every hero (and villain) deserves access to epic weapon names, regardless of their gold reserves."
+    },
+    {
+      "question": "Can I use these names for commercial purposes (e.g., in my game)?",
+      "answer": "You bet! Consider them a gift from the forge of inspiration. Use them as you see fit, no royalties required."
+    },
+    {
+      "question": "Are the names generated unique?",
+      "answer": "While we strive for originality, there's always a chance of overlap. But with millions of possible combinations, the odds are in your favor!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We're always open to suggestions! Send your ideas our way, and we might just add them to the mystical mix."
+    },
+    {
+      "question": "My generated name sounds a bit... silly. Is that normal?",
+      "answer": "Sometimes the arcane energies get a little wonky. Just generate again! Embrace the randomness; even a 'Spoon of Utter Doom' can be terrifying in the right hands."
+    },
+    {
+      "question": "Does this generator work for ranged weapons, like bows and arrows?",
+      "answer": "Of course! While it's called a 'weapon' name generator, feel free to use it for any implement of destruction, from the humble slingshot to the mighty siege engine!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Storm",
+    "Dragon",
+    "Frost",
+    "Inferno",
+    "Celestial",
+    "Void",
+    "Eternal",
+    "Whispering",
+    "Blood",
+    "Rune",
+    "Phantom",
+    "Serpent",
+    "Grim",
+    "Doom",
+    "Soul",
+    "Arcane",
+    "Crystal",
+    "Obsidian",
+    "Ancient"
+  ],
+  "suffixes": [
+    "Bringer",
+    "Blade",
+    "Scepter",
+    "Staff",
+    "Hammer",
+    "Axe",
+    "Bow",
+    "Edge",
+    "Fang",
+    "Claw",
+    "Whisper",
+    "Touch",
+    "Curse",
+    "Rage",
+    "Fury",
+    "Light",
+    "Darkness",
+    "Fire",
+    "Ice",
+    "Storm",
+    "Reaver",
+    "Bane",
+    "Guard",
+    "Song",
+    "Shout"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Mercenary Company Name Generator",
+  "description": "Need a killer name for your band of brothers (and sisters) in arms? Look no further! Our Mercenary Company Name Generator will conjure up the perfect moniker to strike fear into the hearts of your enemies (and impress potential clients). Get ready to unleash your inner corporate raider!",
+  "slug": "mercenary-company-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "So, you're starting a mercenary company? Awesome! But before you start accepting contracts and dodging bullets, you need a name that screams professionalism, competence, and a healthy dose of 'don't mess with us.' This generator is your secret weapon. We'll blend grit, strategy, and a touch of the dramatic to craft a name that's as tough as your team.",
+  "howToUse": [
+    "First, brace yourself for awesome names. Seriously, some of these are *good*.",
+    "Click the 'Generate' button. (Groundbreaking, I know.)",
+    "Behold! A freshly minted mercenary company name appears!",
+    "Don't like it? Click again! We've got names for days (or until the algorithm gets tired).",
+    "Found the perfect name? Congratulations, you're one step closer to world domination... or at least a lucrative contract.",
+    "Pro Tip: Write down a few favorites. You might want to poll your team... unless you're the boss, then just pick the coolest one."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe every aspiring mercenary CEO deserves a killer name, regardless of budget. Consider it a public service... with a dash of profit motive (we might run ads, shhh!)."
+    },
+    {
+      "question": "Can I use these names for other things besides mercenary companies?",
+      "answer": "Of course! Use them for your D&D group, your fantasy football team, your cat... the possibilities are endless! Just don't blame us if your cat starts demanding hazard pay."
+    },
+    {
+      "question": "Are the names generated unique?",
+      "answer": "We do our best! The algorithm combines prefixes and suffixes in various ways, resulting in a vast number of possible combinations. However, there's always a *slight* chance of overlap. If you're really concerned, do a quick Google search before you commit."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep clicking! Or get creative and mix and match parts of different names. Ultimately, the perfect name is the one that resonates with you and your team. And hey, we won't be offended if you come up with something completely original."
+    },
+    {
+      "question": "Will using this generator guarantee me a multi-million dollar contract?",
+      "answer": "While we'd love to promise that, sadly, no. A great name is just one piece of the puzzle. You'll still need a solid business plan, a skilled team, and a healthy dose of luck. But hey, at least you'll *look* the part!"
+    },
+    {
+      "question": "Can I trademark the name generated?",
+      "answer": "Please consult with a legal professional to determine the trademark availability of any generated name."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Iron",
+    "Crimson",
+    "Steel",
+    "Vanguard",
+    "Phoenix",
+    "Silent",
+    "Obsidian",
+    "Golden",
+    "Blackwater",
+    "Apex",
+    "Rogue",
+    "Elite",
+    "Strategic",
+    "Global",
+    "Rapid",
+    "United",
+    "Corporate",
+    "Independent",
+    "Sentinel"
+  ],
+  "suffixes": [
+    "Solutions",
+    "Group",
+    "Tactics",
+    "Defense",
+    "Security",
+    "Force",
+    "Brigade",
+    "Systems",
+    "Consulting",
+    "Enterprises",
+    "International",
+    "Operations",
+    "Alliance",
+    "Command",
+    "Division",
+    "Syndicate",
+    "Legion",
+    "Ventures",
+    "Worldwide",
+    "Incorporated"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Thug Name Generator",
+  "description": "Yo, wanna roll with the big dogs? Find your ultimate Thug Name and rep your street cred with our Thug Name Generator. It's time to get official, homie!",
+  "slug": "thug-name-generator",
+  "icon": "\ud83d\ude0e",
+  "introduction": "Ever wondered what the streets would call you? Stop wonderin'! Our Thug Name Generator is here to hook you up with a name that commands respect and oozes swagger. Whether you're lookin' for somethin' hardcore or just a little bit edgy, we got you covered. Get your Thug Name today and let the world know you ain't nothin' to mess with!",
+  "howToUse": [
+    "First, take a deep breath and channel your inner OG.",
+    "Next, click the 'Generate' button. (Yeah, it's that simple.)",
+    "BOOM! Your brand-new Thug Name is revealed. Feel free to generate again until you find the perfect fit.",
+    "Rock that name with pride, playa! And remember, with great names comes great responsibility... or somethin' like that."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator for real thugs only?",
+      "answer": "Nah, man. It's all in good fun. Anyone can use it, even if your toughest day involves microwaving a burrito."
+    },
+    {
+      "question": "Can I use this name for my rap career?",
+      "answer": "Absolutely! But if you become famous, remember who gave you the name. A shout-out would be appreciated!"
+    },
+    {
+      "question": "Will this generator get me into trouble?",
+      "answer": "Only if you use your Thug Name to start beef where it ain't needed. Play it cool, and you'll be alright."
+    },
+    {
+      "question": "Are the names generated offensive?",
+      "answer": "We try to keep it light and humorous, but some names might have a bit of an edge. If you're easily offended, maybe this ain't for you, fam."
+    },
+    {
+      "question": "How often is this generator updated?",
+      "answer": "We're always slangin' new names into the mix, keepin' it fresh and relevant. Check back often for the latest and greatest in thug nomenclature."
+    },
+    {
+      "question": "Can I suggest a prefix or suffix?",
+      "answer": "For sure! Hit us up with your suggestions \u2013 if they're dope enough, we might just add 'em in!"
+    }
+  ],
+  "prefixes": [
+    "Lil'",
+    "Big",
+    "Crazy",
+    "Silent",
+    "Dope",
+    "Ghetto",
+    "Street",
+    "OG",
+    "Ice",
+    "Boss",
+    "Young",
+    "Money",
+    "Southside",
+    "Northside",
+    "Eastside",
+    "Westside",
+    "Dirty",
+    "Savage",
+    "Ruthless",
+    "Mad"
+  ],
+  "suffixes": [
+    "Loc",
+    "G",
+    "Dogg",
+    "Ice",
+    "Bone",
+    "Face",
+    "Thug",
+    "Rida",
+    "Mane",
+    "Dolla",
+    "Stacks",
+    "Player",
+    "Killa",
+    "Sin",
+    "Evil",
+    "Shadow",
+    "Reaper",
+    "Venom",
+    "King",
+    "Lord"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Killer Name Generator",
+  "description": "Unleash your inner assassin with a killer name! Are you tired of being ordinary? Do you crave a moniker that strikes fear into the hearts of your enemies (or at least makes your gaming buddies chuckle)? Then you've come to the right place! Our Killer Name Generator will craft a name so cool, so edgy, so... *killer*, that you'll be instantly unforgettable.",
+  "slug": "killer-name-generator",
+  "icon": "\ud83d\udd2a",
+  "introduction": "Forget boring names! This generator is designed to give you a name that's both intimidating and awesome. Whether you're creating a character for a video game, writing a novel, or just looking for a cool nickname, we've got you covered. Get ready to embrace your dark side (just kidding... mostly).",
+  "howToUse": [
+    "First, brace yourself. The names you're about to see are *intense*.",
+    "Click the 'Generate' button. That's it! Seriously, it's that easy.",
+    "Scroll through the list of killer names and find the one that resonates with your inner darkness (or your sense of humor).",
+    "Copy your favorite name and unleash it upon the world! Use it wisely... or not. We're not responsible for any sudden increases in your coolness factor."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "We're talking dark, edgy, and slightly ridiculous names. Think 'Shadow Reaper,' 'Crimson Fury,' or 'The Silent Destroyer.' We aim for a balance of intimidation and fun."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once the name is generated, it's yours to use as you see fit. Just don't blame us if you become a supervillain."
+    },
+    {
+      "question": "Is this generator really 'killer'?",
+      "answer": "Figuratively, yes. Literally, no. We promise no one will be harmed in the process of generating killer names. Unless, of course, they die of laughter."
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're always adding new prefixes and suffixes to keep the names fresh and exciting. Check back often for new and improved ways to terrify your friends!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With thousands of possible combinations, you're bound to find a killer name that you love. Or, you know, just come up with your own. We're not the boss of you."
+    },
+    {
+      "question": "Will using a killer name actually make me cooler?",
+      "answer": "Well, we can't guarantee instant coolness, but it's a pretty good start. Confidence is key, and a killer name can definitely boost your confidence. Just don't let it go to your head... or do. We're not judging."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Crimson",
+    "Silent",
+    "Iron",
+    "Steel",
+    "Dark",
+    "Venom",
+    "Night",
+    "Blood",
+    "Death",
+    "Skull",
+    "Ghost",
+    "Rage",
+    "Doom",
+    "Phantom"
+  ],
+  "suffixes": [
+    "Reaper",
+    "Fury",
+    "Destroyer",
+    "Claw",
+    "Blade",
+    "Fang",
+    "Hunter",
+    "Stalker",
+    "Viper",
+    "Wraith",
+    "Bringer",
+    "Slayer",
+    "Knight",
+    "Lord",
+    "Queen"
+  ]
+}

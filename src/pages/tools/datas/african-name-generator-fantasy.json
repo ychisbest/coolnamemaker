@@ -1,0 +1,99 @@
+{
+  "name": "African Fantasy Name Generator",
+  "description": "Struggling to find that perfect, evocative name for your fantasy character or world inspired by rich African cultures? Look no further! Our generator crafts unique and memorable names blending the beauty and mystique of African traditions with the magic of fantasy.",
+  "slug": "african-fantasy-name-generator",
+  "icon": "\ud83c\udf0d\u2728",
+  "introduction": "Embark on a naming adventure! Whether you're writing a novel, designing a game, or simply seeking inspiration, our African Fantasy Name Generator will conjure names that resonate with power, history, and wonder. Get ready to unlock a realm of possibilities!",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's like shaking a magical calabash!",
+    "Browse the generated names. Feel free to generate as many as you need until you find the perfect fit. We promise, no two names are exactly alike!",
+    "Copy and paste your favorite name into your project. Give your character or world the captivating identity it deserves!",
+    "Feeling adventurous? Mix and match prefixes and suffixes for even more personalized results. Unleash your inner name-smith!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "We generate names that evoke a sense of African mythology, history, and fantasy. Think powerful warriors, wise elders, mystical creatures, and ancient lands. Each name is crafted to sound both authentic and fantastical."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once generated, the names are yours to use as you see fit. Create your next bestseller, design a groundbreaking game, or simply give your pet a truly unique moniker."
+    },
+    {
+      "question": "Are the names based on real African languages?",
+      "answer": "While we draw inspiration from various African languages and cultures, the names are primarily designed to sound authentic and fantastical rather than being direct translations. We aim for the *feeling* of Africa, not necessarily a perfect linguistic representation."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! Our generator is unlimited. Keep clicking until you find the name that speaks to your soul."
+    },
+    {
+      "question": "Will the same name ever be generated twice?",
+      "answer": "While it's *possible* due to the random nature of the generator, we've designed it to minimize repetition and maximize the uniqueness of each name. So, chances are slim!"
+    },
+    {
+      "question": "Can I contribute to the list of prefixes and suffixes?",
+      "answer": "We're always open to suggestions! While we don't have a direct contribution system in place right now, feel free to send us your ideas. We appreciate your passion and creativity!"
+    }
+  ],
+  "prefixes": [
+    "Akin",
+    "Zola",
+    "Imani",
+    "Tafari",
+    "Nala",
+    "Shaka",
+    "Amara",
+    "Jengo",
+    "Bakari",
+    "Zahara",
+    "Abim",
+    "Ekon",
+    "Foluke",
+    "Mosi",
+    "Sefu",
+    "Neo",
+    "Thando",
+    "Ife",
+    "Kwame",
+    "Zola",
+    "Lumiyo",
+    "Kito",
+    "Jabari",
+    "Ayana",
+    "Kamau",
+    "Lindiwe",
+    "Olufemi",
+    "Simba"
+  ],
+  "suffixes": [
+    "tunde",
+    "moyo",
+    "beke",
+    "wumi",
+    "femi",
+    "kile",
+    "yinka",
+    "sola",
+    "funke",
+    "jide",
+    "kayode",
+    "bola",
+    "toye",
+    "dele",
+    "kemi",
+    "wale",
+    "lola",
+    "dayo",
+    "segun",
+    "bunmi",
+    "ade",
+    "damu",
+    "bayo",
+    "ife",
+    "oluseyi",
+    "oluwa",
+    "kemi",
+    "mbo"
+  ]
+}

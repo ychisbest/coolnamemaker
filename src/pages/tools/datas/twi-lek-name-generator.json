@@ -1,0 +1,84 @@
+{
+  "name": "Twi'lek Name Generator",
+  "description": "Need a slick and stylish name for your Twi'lek character? Look no further! Our generator whips up authentic-sounding names faster than you can say 'Lekku'. Get ready to become a legend in the Outer Rim!",
+  "slug": "twi-lek-name-generator",
+  "icon": "\ud83d\udc83",
+  "introduction": "So, you're venturing into the Star Wars universe as a Twi'lek? Excellent choice! These charismatic beings deserve names that resonate with their culture and flair. Whether you're a smuggler, a dancer, or a Jedi Knight, our generator will provide the perfect moniker to match your Twi'lek's unique personality. Get ready for adventure!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand-new Twi'lek name appears.",
+    "Don't like the first result? No sweat! Keep clicking until you find the name that speaks to your soul (or Lekku).",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a truly unique name.",
+    "Share your awesome Twi'lek name with your friends \u2013 let them bask in its glory!",
+    "Use your new name in your Star Wars games, stories, or just to impress everyone with your Twi'lek knowledge."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually authentic Twi'lek names?",
+      "answer": "While we strive for authenticity, these names are inspired by Twi'lek naming conventions found in Star Wars lore. They're designed to sound plausible and fit within the Star Wars universe."
+    },
+    {
+      "question": "Can I use these names for my Star Wars RPG character?",
+      "answer": "Absolutely! That's exactly what they're for! Go forth and create a memorable Twi'lek character."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! With countless combinations, you're bound to find a name you love. You can also mix and match parts to create something truly unique."
+    },
+    {
+      "question": "Are the names gender-specific?",
+      "answer": "Some names may lean towards a particular gender, but many are unisex. Feel free to choose whatever name resonates with your character's personality."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We're always open to suggestions! Feel free to reach out and share your ideas. We're constantly striving to improve the generator and make it even better."
+    },
+    {
+      "question": "Will using this generator make me a Star Wars expert?",
+      "answer": "While it's a great start, true mastery of Star Wars lore requires dedication and perhaps a few Wookiee cookies. But hey, having a cool Twi'lek name is definitely a step in the right direction!"
+    }
+  ],
+  "prefixes": [
+    "Nym",
+    "Lomi",
+    "Aayla",
+    "Bib",
+    "Lyn",
+    "Sian",
+    "Yarael",
+    "Shaak",
+    "Roon",
+    "Meeka",
+    "Zek",
+    "Jix",
+    "Tott",
+    "Ry",
+    "Vrook",
+    "Adi",
+    "Kit",
+    "Agen",
+    "Even",
+    "Saesee"
+  ],
+  "suffixes": [
+    "Bib Fortuna",
+    "Secura",
+    "Taan Di",
+    "Skorr",
+    "Orrindo",
+    "Aduma",
+    "Kreeg",
+    "Skee",
+    "Tula",
+    "Niles",
+    "Dwoon",
+    "Dees",
+    "Toon",
+    "Drallig",
+    "Unduli",
+    "Koth",
+    "Kolar",
+    "Piell",
+    "Gallia",
+    "Tiin"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Investigator Name Generator",
+  "description": "Unleash your inner Sherlock! Need a moniker that screams mystery, intrigue, and maybe just a touch of danger? Our Investigator Name Generator will craft the perfect alias for your next case, character, or caffeine-fueled brainstorming session. Because every great detective needs a name that's as sharp as their observation skills.",
+  "slug": "investigator-name-generator",
+  "icon": "\ud83d\udd75\ufe0f\u200d\u2640\ufe0f",
+  "introduction": "Welcome, future sleuths! Forget 'John Doe' \u2013 you deserve a name that commands respect (and maybe a little fear). Whether you're writing a gripping thriller, role-playing a cunning detective, or just need a cool nickname for your online gaming, our generator is your secret weapon. Get ready to uncover a name that's truly *elementary*, my dear Watson!",
+  "howToUse": [
+    "Click the 'Generate' button (it's the one that looks like pure awesome).",
+    "Marvel at the ridiculously cool investigator names that appear before your very eyes.",
+    "If a name tickles your fancy, snatch it up! It's yours to use and abuse (responsibly, of course).",
+    "Don't like what you see? Hit 'Generate' again! We've got more names than there are clues at a crime scene.",
+    "Pro Tip: Mix and match prefixes and suffixes for extra creative flair. We dare you!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to help me solve a real crime?",
+      "answer": "While we can't promise you'll crack the next Zodiac case, we *can* guarantee a name that'll make you feel like you could. Actual crime-solving skills not included."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Consider them royalty-free inspiration. Go forth and create, my friend! Just maybe give us a shout-out if you become a billionaire detective novelist. ;)"
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! They're fresh out of the idea oven and free for you to use. Go wild!"
+    },
+    {
+      "question": "I got a really weird name... is that normal?",
+      "answer": "Perfectly normal! Embrace the weirdness. Sometimes the most unusual names are the most memorable. Plus, you can always hit 'Generate' again!"
+    },
+    {
+      "question": "Will using a generated name make me a better investigator?",
+      "answer": "It might give you the confidence boost you need! A great name is half the battle, right? The other half is probably coffee and a trench coat."
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly adding new prefixes and suffixes to keep the names fresh and exciting. Check back often for a new dose of investigatory awesomeness!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Silent",
+    "Quick",
+    "Keen",
+    "Iron",
+    "Steel",
+    "Night",
+    "Crimson",
+    "Whisper",
+    "Eagle",
+    "Fox",
+    "Stone",
+    "Sharp",
+    "Bold",
+    "Vigilant",
+    "Obsidian",
+    "Phantom",
+    "Cipher",
+    "Rogue"
+  ],
+  "suffixes": [
+    "Harkness",
+    "Blackwell",
+    "Sterling",
+    "Caine",
+    "Reyes",
+    "Sinclair",
+    "Lockwood",
+    "Chase",
+    "Vance",
+    "Kensington",
+    "Noble",
+    "Stone",
+    "Sharp",
+    "Crest",
+    "Vale",
+    "Grimm",
+    "Decker",
+    "Knight",
+    "Sterling",
+    "Wick"
+  ]
+}

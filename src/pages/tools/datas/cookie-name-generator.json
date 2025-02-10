@@ -1,0 +1,94 @@
+{
+  "name": "Cookie Name Generator",
+  "description": "Craving a name as sweet and irresistible as a freshly baked cookie? You've come to the right place! Our Cookie Name Generator whips up delicious names perfect for your bakery, your pet, or even your next D&D character. Get ready for a sprinkle of fun and a whole lot of yum!",
+  "slug": "cookie-name-generator",
+  "icon": "\ud83c\udf6a",
+  "introduction": "Tired of the same old boring names? Yearning for something with a little more\u2026flavor? Our Cookie Name Generator is here to satisfy your cravings! We'll blend together tasty prefixes and delightful suffixes to create names that are as unique and delightful as a homemade batch of cookies. Prepare to be amazed!",
+  "howToUse": [
+    "First, take a deep breath and imagine the most delicious cookie you've ever tasted. (Chocolate chip, obviously!)",
+    "Next, click that big, beautiful 'Generate' button. Go on, you know you want to!",
+    "Behold! A freshly baked name, just for you. If it doesn't quite hit the spot, no worries! Just click again for another tasty treat.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create your own custom cookie creation!",
+    "Share your favorite names with the world! (Or just keep them a secret, like your grandma's recipe.)"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names can I generate?",
+      "answer": "We bake up all sorts of names! From cute and cuddly to sophisticated and scrumptious, you'll find a name to suit every taste. Think along the lines of bakery names, usernames or even pet names!"
+    },
+    {
+      "question": "Are the names actually related to cookies?",
+      "answer": "Absolutely! We've carefully curated a list of prefixes and suffixes inspired by all things cookie-related. Think ingredients, flavors, shapes, and even the feeling you get when you bite into a warm cookie."
+    },
+    {
+      "question": "Can I use these names for my business?",
+      "answer": "You bet! While we can't guarantee trademark availability, our names are designed to be unique and memorable. Do a quick search to make sure your dream name isn't already taken, and then get ready to sprinkle some sweetness on your brand!"
+    },
+    {
+      "question": "Is the Cookie Name Generator free?",
+      "answer": "Yes! Our generator is completely free to use. We just want to spread a little joy (and delicious names) to the world."
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're always experimenting with new flavors and ingredients! We regularly update our list of prefixes and suffixes to keep things fresh and exciting. Check back often for new and tasty name combinations."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us a message through our contact form with your suggestions. If we think they're a good fit, we might just add them to our recipe!"
+    }
+  ],
+  "prefixes": [
+    "Choco",
+    "Chip",
+    "Dough",
+    "Sugar",
+    "Sweet",
+    "Crispy",
+    "Chewy",
+    "Butter",
+    "Sprinkle",
+    "Crumble",
+    "Oat",
+    "Ginger",
+    "Vanilla",
+    "Peanut",
+    "Fudge",
+    "Double",
+    "Triple",
+    "Golden",
+    "Midnight",
+    "Starlight",
+    "Moonlight",
+    "Galaxy",
+    "Cosmic",
+    "Mystic",
+    "Enchanted"
+  ],
+  "suffixes": [
+    "licious",
+    "topia",
+    "ville",
+    "land",
+    "mania",
+    "Dream",
+    "Delight",
+    "Joy",
+    "Bliss",
+    "Heaven",
+    "Magic",
+    "Whirl",
+    "Twist",
+    "Swirl",
+    "Crunch",
+    "Bite",
+    "Drop",
+    "Dust",
+    "Bloom",
+    "Glow",
+    "Spark",
+    "Frost",
+    "Kiss",
+    "Cuddle",
+    "Hug"
+  ]
+}

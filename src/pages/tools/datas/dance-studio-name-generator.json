@@ -1,0 +1,84 @@
+{
+  "name": "Dance Studio Name Generator",
+  "description": "Struggling to find the perfect name for your dance studio? Our Dance Studio Name Generator is here to help you create a catchy, memorable, and brand-defining name that will have everyone tapping their feet to your door! Let's find a name that's as awesome as your dance moves!",
+  "slug": "dance-studio-name-generator",
+  "icon": "\ud83d\udc83",
+  "introduction": "Ready to launch your dance studio but stuck on the name? Don't let a lack of inspiration hold you back! This generator combines creative prefixes and suffixes with dance-related terms to conjure up names that are both unique and reflective of your studio's spirit. Whether you're teaching ballet, hip-hop, or salsa, we've got a name that's ready to groove.",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's like magic, but with more rhythm!",
+    "Browse the generated names. If one tickles your fancy, copy it down!",
+    "Don't settle for the first name you see! Keep generating until you find THE ONE. (You'll know it when you feel the urge to bust a move.)",
+    "Check if the name is available as a domain and on social media. Gotta make sure you can claim your digital dance floor!",
+    "Once you've found the perfect name, shout it from the rooftops (or at least post it on Instagram). Get ready to welcome a whole new wave of dancers!"
+  ],
+  "faqs": [
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart (and your dance shoes) desire! There's no limit. Keep generating until you find a name that makes you want to do a happy dance."
+    },
+    {
+      "question": "Are the generated names trademarked?",
+      "answer": "Nope! The names are generated randomly, so it's your responsibility to check if the name is available and doesn't infringe on any existing trademarks. Do your homework!"
+    },
+    {
+      "question": "Can I use these names for other things besides a dance studio?",
+      "answer": "Sure! While the generator is designed for dance studios, feel free to use the names for anything you like. Just be aware that some names might be more suited to a dance environment."
+    },
+    {
+      "question": "The names are a bit... weird. Can I customize them?",
+      "answer": "Absolutely! Consider the generated names as a starting point. Feel free to tweak them, combine them, or use them as inspiration to create something completely your own. It's all about finding the perfect fit!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "You betcha! Use it as much as you want, completely free of charge. Our goal is to help you find the perfect name without breaking the bank (or your dance budget)."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions via our contact form. We're always looking for ways to improve the generator and make it even more awesome."
+    }
+  ],
+  "prefixes": [
+    "Rhythmic",
+    "Groove",
+    "Step",
+    "Motion",
+    "Pulse",
+    "Twist",
+    "Whirl",
+    "Fluid",
+    "Energy",
+    "Fusion",
+    "Elite",
+    "Dynamic",
+    "Vivid",
+    "Celestial",
+    "Urban",
+    "Global",
+    "Premier",
+    "Zenith",
+    "Apex",
+    "Radiant"
+  ],
+  "suffixes": [
+    "Studio",
+    "Academy",
+    "Center",
+    "School",
+    "Arts",
+    "Motion",
+    "Rhythms",
+    "Steps",
+    "Vibes",
+    "Collective",
+    "Project",
+    "Lab",
+    "House",
+    "Sanctuary",
+    "Domain",
+    "Empire",
+    "Movement",
+    "Fusion",
+    "Evolution",
+    "Legacy"
+  ]
+}

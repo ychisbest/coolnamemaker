@@ -1,0 +1,79 @@
+{
+  "name": "Jamaican Name Generator",
+  "description": "Ya mon! Need a cool Jamaican name for your reggae band, your next vacation, or just for fun? Our generator is here to sprinkle some island vibes into your life! Get ready to feel irie!",
+  "slug": "jamaican-name-generator",
+  "icon": "\ud83c\uddef\ud83c\uddf2",
+  "introduction": "Step right up and discover your Jamaican alter ego! Whether you're writing a story, creating a character, or simply embracing the vibrant culture, our Jamaican Name Generator will transport you to the sunny shores with a name that's as authentic as it is awesome.",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen, mon!",
+    "Feeling picky? Keep clicking until you find the perfect name that resonates with your soul.",
+    "Share your awesome new name with your friends and spread the Jamaican love!",
+    "Don't forget to practice your best Jamaican accent while saying your new name. It's all part of the experience!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names authentic Jamaican names?",
+      "answer": "We've curated a blend of traditional and modern Jamaican names, drawing inspiration from history, culture, and a touch of creative flair. While not every name may be a common household name, they all capture the spirit of Jamaica!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Feel free to use the generated names for your creative projects, businesses, or anything else your heart desires. Just remember to give a little nod to the island vibes that inspired it all!"
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're always adding fresh names to keep the generator exciting and diverse. Check back regularly to discover new possibilities and keep your Jamaican name game strong!"
+    },
+    {
+      "question": "Is the generator free to use?",
+      "answer": "Yes, mon! Our Jamaican Name Generator is completely free. Spread the word and let everyone find their perfect island name!"
+    },
+    {
+      "question": "What if I don't like the names I'm getting?",
+      "answer": "No problem, ya! Just keep hitting that 'Generate' button. With so many combinations, you're bound to find a name that makes you say 'irie'!"
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love to hear your suggestions! Send us your favorite Jamaican names, and we'll consider adding them to the mix. Let's keep the vibes flowing!"
+    }
+  ],
+  "prefixes": [
+    "Ras",
+    "Empress",
+    "King",
+    "Queen",
+    "Irie",
+    "Jah",
+    "Lion",
+    "Natty",
+    "Sister",
+    "Brother",
+    "Bongo",
+    "Ital",
+    "Ranking",
+    "Selector",
+    "Culture",
+    "Yard",
+    "Roots",
+    "Rasta"
+  ],
+  "suffixes": [
+    "I",
+    "Man",
+    "Woman",
+    "Ting",
+    "Vibes",
+    "Power",
+    "Love",
+    "Unity",
+    "Youth",
+    "Fire",
+    "Bless",
+    "Warrior",
+    "Sista",
+    "Farai",
+    "Jahlove",
+    "Lionheart",
+    "Dread",
+    "Powa"
+  ]
+}

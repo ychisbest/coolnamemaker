@@ -1,0 +1,83 @@
+{
+  "name": "Forest Name Generator",
+  "description": "Unleash your inner woodland spirit with our Forest Name Generator! Discover the perfect moniker inspired by the enchanting depths of the forest.",
+  "slug": "forest-name-generator",
+  "icon": "\ud83c\udf32",
+  "introduction": "Tired of the same old boring names? Yearning for something a little more...wild? Our Forest Name Generator is here to help you connect with the ancient power of the woods. Whether you're creating a character for a fantasy novel, naming your D&D ranger, or just looking for a cool new online alias, we've got you covered. Prepare to be amazed by the earthy, mystical, and downright awesome names you'll uncover!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new forest-inspired name will magically appear.",
+    "Don't like what you see? No problem! Click again and again until you find the perfect name that resonates with your soul.",
+    "Feeling creative? Mix and match different prefixes and suffixes to create your own unique forest name masterpiece.",
+    "Share your awesome new name with the world! Let everyone know you're one with the trees."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "We're talking names that evoke the spirit of the forest! Think earthy, mystical, and a little bit wild. You'll find names inspired by trees, animals, mythical creatures, and the overall ambiance of the woods."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we can't offer legal advice, generally speaking, names generated here are for creative inspiration. We recommend doing your own research if you plan to trademark or use a name for a business."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes! We use a sophisticated (okay, maybe not *that* sophisticated) algorithm to combine prefixes and suffixes in unpredictable ways, ensuring a unique name every time."
+    },
+    {
+      "question": "Will this generator help me find my true inner self?",
+      "answer": "While we can't guarantee enlightenment, finding the perfect forest name might just be the first step on your journey to self-discovery. Embrace your inner tree-hugger!"
+    },
+    {
+      "question": "I generated a name I really love! Can I save it?",
+      "answer": "Absolutely! Copy and paste your favorite names into a document or notepad. We don't currently have a save feature, but we're always looking for ways to improve the experience!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, absolutely! Use it as much as you like, share it with your friends, and spread the forest love!"
+    }
+  ],
+  "prefixes": [
+    "Whisper",
+    "Shadow",
+    "Ember",
+    "Willow",
+    "Stone",
+    "Moon",
+    "Sun",
+    "Deep",
+    "Ancient",
+    "Wild",
+    "Green",
+    "Silver",
+    "Golden",
+    "Crimson",
+    "Silent",
+    "Brave",
+    "Swift",
+    "Iron",
+    "Oak",
+    "Pine"
+  ],
+  "suffixes": [
+    "wood",
+    "leaf",
+    "bark",
+    "branch",
+    "grove",
+    "stream",
+    "song",
+    "shade",
+    "heart",
+    "wind",
+    "walker",
+    "hunter",
+    "seer",
+    "whisperer",
+    "watcher",
+    "guard",
+    "shield",
+    "thorn",
+    "root",
+    "flower"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Halloween Name Generator",
+  "description": "Conjure up the spookiest, kookiest, and coolest Halloween names this side of the graveyard! Perfect for your costume, your pet bat, or that haunted house you're building in your backyard.",
+  "slug": "name-generator-halloween",
+  "icon": "\ud83c\udf83",
+  "introduction": "Ready to embrace your inner ghoul? Our Halloween Name Generator is here to help you unearth the perfect moniker for all your All Hallows' Eve adventures. Whether you're seeking a chilling nickname, a creative character name, or just some spooky inspiration, we've got you covered. Prepare for a name that's scarily awesome!",
+  "howToUse": [
+    "First, brace yourself for a wave of spine-tingling excitement!",
+    "Next, simply click the 'Generate' button. (We promise no actual ghosts will pop out... probably.)",
+    "Behold! A wickedly cool Halloween name will materialize before your very eyes.",
+    "Don't like it? No problem! Click again! We've got more names than there are cobwebs in a haunted mansion.",
+    "Copy your favorite name and unleash it upon the world! Prepare for gasps of amazement and envious stares."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually haunted?",
+      "answer": "While we can't guarantee a visit from Casper, we can assure you that the names are generated with a touch of spooky magic (and a whole lot of code)."
+    },
+    {
+      "question": "Can I use these names for my Halloween-themed business?",
+      "answer": "Absolutely! Unleash the power of the perfect name upon your terrifyingly awesome enterprise."
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! Feel free to use them as you wish. We're just here to provide the spooky inspiration."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! We have a vast graveyard of names just waiting to be resurrected. And hey, sometimes the truly great names take a little digging."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always open to new ideas! Send us your spookiest suggestions, and we might just add them to the mix."
+    },
+    {
+      "question": "Will using a generated name make me more attractive to vampires?",
+      "answer": "We cannot guarantee this. However, a cool name *might* increase your chances of being noticed at the next monster mash. Worth a shot, right?"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Ghastly",
+    "Eerie",
+    "Spooky",
+    "Creepy",
+    "Dark",
+    "Wicked",
+    "Mystic",
+    "Phantom",
+    "Blood",
+    "Bone",
+    "Grave",
+    "Cursed",
+    "Night",
+    "Raven",
+    "Skull",
+    "Specter",
+    "Terror",
+    "Horror"
+  ],
+  "suffixes": [
+    "claw",
+    "fang",
+    "shade",
+    "moon",
+    "bane",
+    "wraith",
+    "geist",
+    "howl",
+    "whisper",
+    "specter",
+    "fiend",
+    "skull",
+    "gore",
+    "shadow",
+    "night",
+    "blood",
+    "grim",
+    "phantom",
+    "terror",
+    "witch"
+  ]
+}

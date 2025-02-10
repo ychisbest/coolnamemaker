@@ -1,0 +1,74 @@
+{
+  "name": "Dungeon Name Generator",
+  "description": "Unleash the mystery! Craft the perfect, spine-chilling name for your next dungeon crawl with our generator. Guaranteed to make your players tremble... with excitement, of course!",
+  "slug": "dungeon-name-generator",
+  "icon": "\ud83c\udff0",
+  "introduction": "Tired of calling your underground lair 'Bob's Basement'? Our Dungeon Name Generator is here to rescue your campaign! Whether you need a name that screams 'ancient evil' or whispers 'forgotten treasure,' we've got you covered. Get ready to name your dungeon something truly unforgettable \u2013 and maybe slightly terrifying.",
+  "howToUse": [
+    "Click the 'Generate' button. (It's the one that *doesn't* summon a demon... probably.)",
+    "Marvel at the awesome dungeon name that appears before your very eyes!",
+    "Repeat until you find the perfect name that sends shivers down your players' spines.",
+    "Optional: Add a backstory to your dungeon name to really mess with your players' heads. We highly recommend this.",
+    "Share your favorite dungeon name with your fellow game masters and bask in their envy."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe everyone deserves a fantastically named dungeon, regardless of their budget. Consider it our gift to the RPG community."
+    },
+    {
+      "question": "Can I use these names in my published works?",
+      "answer": "Go for it! These names are yours to command. Just maybe give us a shout-out if your game becomes a bestseller, okay?"
+    },
+    {
+      "question": "Will these names summon actual monsters?",
+      "answer": "While we can't *guarantee* that, we highly recommend having a party of adventurers on standby, just in case. You know, for research purposes."
+    },
+    {
+      "question": "What if I don't like the names it generates?",
+      "answer": "Keep hitting that 'Generate' button! Or get creative and mix and match different parts of the names. The possibilities are as endless as the dungeons themselves!"
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate to your heart's content. We're here to fuel your dungeon-naming obsession. We won't judge (much)."
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love to hear your ideas! Send them our way and we'll see if they're suitably spooky (or just plain cool) enough to make the cut."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Whispering",
+    "Forgotten",
+    "Crimson",
+    "Obsidian",
+    "Sunken",
+    "Lost",
+    "Ancient",
+    "Haunted",
+    "Crystal",
+    "Iron",
+    "Emerald",
+    "Serpent's",
+    "Dragon's",
+    "Ghastly"
+  ],
+  "suffixes": [
+    "Halls",
+    "Catacombs",
+    "Labyrinth",
+    "Crypt",
+    "Sanctum",
+    "Depths",
+    "Grotto",
+    "Keep",
+    "Mines",
+    "Caverns",
+    "Chamber",
+    "Citadel",
+    "Tomb",
+    "Vault",
+    "Stronghold"
+  ]
+}

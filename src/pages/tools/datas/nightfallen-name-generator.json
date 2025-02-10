@@ -1,0 +1,103 @@
+{
+  "name": "Nightfallen Name Generator",
+  "description": "Unearth your shadowy Nightfallen alias! Embrace the mystique and power of the fallen with a name that resonates with arcane energy.",
+  "slug": "nightfallen-name-generator",
+  "icon": "\ud83c\udf19",
+  "introduction": "Dare to delve into the twilight? The Nightfallen, once proud and elegant, now walk a path shrouded in mystery and a desperate search for sustenance. Our Nightfallen Name Generator will conjure a name that perfectly captures your character's essence, reflecting their tragic beauty and unwavering resolve. Get ready to embrace your inner Nightfallen!",
+  "howToUse": [
+    "Simply click the 'Generate' button and witness the magic unfold!",
+    "Not vibing with the first result? No problem! Click again for a fresh, new Nightfallen name.",
+    "Found the perfect name? Awesome! Now go forth and wreak havoc (or, you know, roleplay respectfully).",
+    "Pro tip: Imagine your Nightfallen's backstory and personality while generating names for extra inspiration!"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *are* the Nightfallen?",
+      "answer": "Ah, a fine question! The Nightfallen are a group of elves from Suramar who suffered terribly when their city was isolated. They are addicted to magic and slowly wither away without it."
+    },
+    {
+      "question": "Can I use these names for my World of Warcraft character?",
+      "answer": "Absolutely! These names are designed to fit perfectly within the lore and aesthetic of the Nightfallen. Go forth and create a character that's truly unforgettable!"
+    },
+    {
+      "question": "Are these names lore-accurate?",
+      "answer": "The nightfallen are elves from Suramar who are addicted to magic."
+    },
+    {
+      "question": "Can I use these names for other characters besides nightfallen?",
+      "answer": "Of course! Feel free to get creative. While they're designed for Nightfallen characters, they can work for any character with a dark, elegant, or mysterious vibe."
+    },
+    {
+      "question": "How often are new names added to the generator?",
+      "answer": "We're always working to expand our collection of names! Check back regularly for updates and even more options to discover your perfect Nightfallen identity."
+    },
+    {
+      "question": "I don't like any of the names generated. What should I do?",
+      "answer": "Keep clicking! We have a large pool of prefixes and suffixes, so eventually, you're bound to find one that resonates with you. You can also try refreshing the page to clear the cache."
+    }
+  ],
+  "prefixes": [
+    "Lys",
+    "Vael",
+    "Nym",
+    "Sael",
+    "Jyss",
+    "Thal",
+    "Ael",
+    "Myr",
+    "Rys",
+    "Fael",
+    "Kael",
+    "Sylv",
+    "Bel",
+    "Aer",
+    "Nyx",
+    "Shal",
+    "Vys",
+    "Zyl",
+    "Lor",
+    "Quel",
+    "Alys",
+    "Dael",
+    "Elys",
+    "Ilys",
+    "Olys",
+    "Ulys",
+    "Xyl",
+    "Ylys"
+  ],
+  "suffixes": [
+    "andra",
+    "anor",
+    "ara",
+    "aria",
+    "arian",
+    "aron",
+    "as",
+    "astra",
+    "avel",
+    "ian",
+    "iel",
+    "ien",
+    "ios",
+    "ira",
+    "is",
+    "istra",
+    "ius",
+    "or",
+    "os",
+    "ryn",
+    "sar",
+    "sian",
+    "sir",
+    "sor",
+    "syn",
+    "thas",
+    "thos",
+    "tor",
+    "tris",
+    "vyn",
+    "wys",
+    "zyn"
+  ]
+}

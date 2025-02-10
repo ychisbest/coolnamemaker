@@ -1,0 +1,84 @@
+{
+  "name": "Bounty Hunter Name Generator",
+  "description": "Craft the perfect alias for your intergalactic manhunter! Need a name that strikes fear into the hearts of space pirates and petty criminals alike? Our generator is your one-stop shop for crafting the ultimate bounty hunter moniker.",
+  "slug": "bounty-hunter-name-generator",
+  "icon": "\ud83d\udcb0",
+  "introduction": "So, you're looking to make some credits chasing down scum and villainy? Excellent! But before you jet off into the cosmos, you need a name that commands respect (or at least instills a healthy dose of fear). Forget 'Bob' \u2013 you need something with punch! This generator will help you forge a legend, one awesome name at a time. Get ready to be the most feared (and well-paid) hunter in the galaxy!",
+  "howToUse": [
+    "Click the 'Generate' button. Duh!",
+    "Stare in awe at the amazing bounty hunter name that appears.",
+    "If you're not feeling it, hit 'Generate' again! We've got more names than there are stars in the sky (okay, maybe not *that* many, but still a lot).",
+    "Copy your new name and paste it into your bounty hunter profile. Time to start collecting those bounties!",
+    "Optional: Practice your menacing glare in the mirror. It's all part of the package."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We're all about empowering aspiring bounty hunters with awesome names, without charging them a single credit. Consider it a public service."
+    },
+    {
+      "question": "Can I use these names for my video game character?",
+      "answer": "You bet! These names are perfect for RPGs, sci-fi stories, or just about anything else that needs a cool bounty hunter. Go wild!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes, the names are generated using a combination of prefixes and suffixes to create unique and (hopefully) intimidating results. We've curated the lists to sound suitably badass."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! With so many possibilities, you're bound to find one that resonates with your inner bounty hunter. Or, you know, come up with your own. We won't judge (much)."
+    },
+    {
+      "question": "Will using one of these names automatically make me a successful bounty hunter?",
+      "answer": "While we can't guarantee intergalactic fame and fortune, a cool name is definitely a step in the right direction. The rest is up to your skills, your ship, and a little bit of luck!"
+    },
+    {
+      "question": "Can I use these names for my pet space slug?",
+      "answer": "We suppose so, but we don't recommend it. A majestic name like 'Vanguard Rex' might be wasted on a slimy gastropod. But hey, it's your space slug!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Vanguard",
+    "Crimson",
+    "Iron",
+    "Steel",
+    "Nova",
+    "Phantom",
+    "DeadEye",
+    "Silent",
+    "Reaper",
+    "Galaxy",
+    "Cosmic",
+    "Cyber",
+    "Dark",
+    "Neon",
+    "Whisper",
+    "Rogue",
+    "Star",
+    "Void",
+    "Apex"
+  ],
+  "suffixes": [
+    "Rex",
+    "Blade",
+    "Hunter",
+    "Strike",
+    "Hawk",
+    "Viper",
+    "Claw",
+    "Stalker",
+    "Specter",
+    "Fang",
+    "Wraith",
+    "Shadow",
+    "Knight",
+    "Storm",
+    "Rider",
+    "Guard",
+    "Seeker",
+    "Tracer",
+    "Jett",
+    "Zero"
+  ]
+}

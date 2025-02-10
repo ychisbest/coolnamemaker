@@ -1,0 +1,73 @@
+{
+  "name": "Soda Name Generator",
+  "description": "Craving a bubbly, fizzy name that's totally you? Our Soda Name Generator is here to quench your thirst for the perfect moniker! Get ready to be refreshed with a name as unique and delightful as your favorite soda pop.",
+  "slug": "soda-name-generator",
+  "icon": "\ud83e\udd64",
+  "introduction": "Ever wonder what your soda alter ego would be? Are you a classic Cola, a zesty Lemon-Lime, or maybe a mysterious Dark Berry? This generator will concoct a name that captures your essence with a splash of flavor and a whole lot of fizz. Perfect for usernames, character names, or just a fun way to discover your inner beverage!",
+  "howToUse": [
+    "Simply click the 'Generate' button and let the magic happen!",
+    "Don't like the first sip? Hit 'Generate' again for a new, equally delicious option.",
+    "Feeling adventurous? Mix and match prefixes and suffixes for a truly custom soda creation!",
+    "Share your cool soda name with friends and let the good times fizz!"
+  ],
+  "faqs": [
+    {
+      "question": "Is the Soda Name Generator really free?",
+      "answer": "Absolutely! We believe everyone deserves a bubbly good name, without spending a single penny. Consider it our gift to the internet!"
+    },
+    {
+      "question": "Can I use these names for my business?",
+      "answer": "While the names are fun and creative, they're primarily intended for personal use. If you're planning to brand your million-dollar soda empire, we recommend consulting with a professional branding expert. But hey, it's a great starting point!"
+    },
+    {
+      "question": "How are these names generated?",
+      "answer": "We've combined a secret recipe of adjectives, flavors, and a sprinkle of internet magic to create a diverse range of soda-inspired names. It's a proprietary blend, so don't even think about trying to reverse-engineer it!"
+    },
+    {
+      "question": "Will the Soda Name Generator ever run out of names?",
+      "answer": "With our ever-expanding database of fizzy goodness, the possibilities are virtually endless! We're constantly updating and adding new ingredients to ensure a never-ending stream of delightful names."
+    },
+    {
+      "question": "My soda name is hilarious/amazing/weird! Can I share it somewhere?",
+      "answer": "YES! We encourage you to share your awesome soda names with the world! Tag us on social media \u2013 we can't wait to see what you come up with! (Just don't blame us if you suddenly crave a sugary beverage.)"
+    },
+    {
+      "question": "Are the soda names trademarked?",
+      "answer": "No, the generated names are for creative inspiration and fun. They are not intended to be legally binding or trademarked. Please check for existing trademarks before using any name for commercial purposes."
+    }
+  ],
+  "prefixes": [
+    "Fizzing",
+    "Bubbly",
+    "Zesty",
+    "Cool",
+    "Wild",
+    "Electric",
+    "Rainbow",
+    "Ultra",
+    "Mega",
+    "Super",
+    "Dark",
+    "Frosty",
+    "Citrus",
+    "Berry",
+    "Tropical"
+  ],
+  "suffixes": [
+    "Blast",
+    "Pop",
+    "Fizz",
+    "Splash",
+    "Rush",
+    "Wave",
+    "Swirl",
+    "Tingle",
+    "Spark",
+    "Quench",
+    "Chill",
+    "Crush",
+    "Surge",
+    "Burst",
+    "Sensation"
+  ]
+}

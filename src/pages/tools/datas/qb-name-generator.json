@@ -1,0 +1,83 @@
+{
+  "name": "QB Name Generator",
+  "description": "Struggling to find the perfect, cool QB name? Look no further! Our QB Name Generator will help you conjure up awesome and unforgettable names that will make you stand out from the crowd.",
+  "slug": "qb-name-generator",
+  "icon": "\ud83c\udfc8",
+  "introduction": "Ready to dominate the digital gridiron with a name as epic as your skills? This generator is your secret weapon. We're not just throwing words together; we're crafting legends, one QB name at a time. Get ready to unleash your inner quarterbacking wordsmith!",
+  "howToUse": [
+    "First, brace yourself for awesome possibilities.",
+    "Next, click the 'Generate' button. (It's the one that looks super inviting!)",
+    "Then, behold! A cool QB name appears, ready for your glory.",
+    "If you're not feeling it, keep clicking! We've got a whole playbook of names waiting for you.",
+    "Finally, choose the name that resonates with your inner QB superstar and go conquer the world\u2026 or at least your fantasy league."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! It's as free as a perfectly thrown spiral on a sunny afternoon. Use it as much as you like!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we encourage creativity, these names are primarily for fun. If you're planning on branding a multi-million dollar QB empire, you might want to check for trademark availability first!"
+    },
+    {
+      "question": "How does the generator come up with these names?",
+      "answer": "A secret blend of linguistic wizardry, football fanaticism, and a dash of pure imagination! We combine prefixes and suffixes that sound cool and QB-ish."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! We have an endless roster of names waiting in the wings. Or, get inspired and mix and match parts of different names to create your own masterpiece!"
+    },
+    {
+      "question": "Will using a name from this generator guarantee my QB success?",
+      "answer": "While we can't guarantee Super Bowl rings, a cool name is definitely a step in the right direction. Confidence is key, and a great name breeds confidence!"
+    },
+    {
+      "question": "Can I suggest prefixes and suffixes to add to the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form. We're always looking to expand our QB naming playbook."
+    }
+  ],
+  "prefixes": [
+    "Quick",
+    "Blitz",
+    "Cannon",
+    "Gunslinger",
+    "Rocket",
+    "Steel",
+    "Iron",
+    "Shadow",
+    "Night",
+    "Nova",
+    "Zenith",
+    "Apex",
+    "Maverick",
+    "Titan",
+    "Comet",
+    "Viper",
+    "Phantom",
+    "Jaguar",
+    "Thunder"
+  ],
+  "suffixes": [
+    "Strike",
+    "Slinger",
+    "Blade",
+    "Cannon",
+    "Bolt",
+    "Hammer",
+    "Steel",
+    "Knight",
+    "Hawk",
+    "Storm",
+    "Fire",
+    "Blitz",
+    "Rex",
+    "Max",
+    "Ace",
+    "Zen",
+    "V",
+    "X",
+    "Zero",
+    "Prime"
+  ]
+}

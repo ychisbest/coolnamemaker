@@ -1,0 +1,73 @@
+{
+  "name": "Fantasy Animal Name Generator",
+  "description": "Unleash your inner beast! Need a name for your mythical creature, RPG character, or just something wildly imaginative? Our Fantasy Animal Name Generator conjures up names that are as epic as they are unforgettable. Get ready to roar!",
+  "slug": "fantasy-animal-name-generator",
+  "icon": "\ud83d\udc09",
+  "introduction": "Ever dreamt of a griffin named 'Stormclaw' or a dragon called 'Emberwhisper'? Well, stop dreaming and start generating! This tool blends fantasy and zoology to create names that sound both majestic and a little bit terrifying. Perfect for writers, gamers, and anyone who loves a touch of the fantastical.",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the awesome name that appears. (Seriously, prepare to be amazed.)",
+    "If the name doesn't quite tickle your fancy, hit 'Generate' again! We've got an endless supply of fantastical names waiting to be discovered.",
+    "Copy and paste your favorite name into your story, game, or social media profile. (Bragging rights are totally included!)"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once generated, the name is yours to use as you wish. Go forth and conquer the fantasy world with your newly named beast!"
+    },
+    {
+      "question": "Are the names actually original?",
+      "answer": "We strive to create unique combinations, but with the vastness of language, there's always a tiny chance of overlap. However, we're confident you'll find something fresh and inspiring!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! While we can't guarantee implementation, we're always looking for ways to improve the generator. Send your suggestions our way!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yes! Enjoy unlimited name generation without spending a single gold coin. It's our gift to the fantasy community."
+    },
+    {
+      "question": "Will the names work for all types of fantasy animals?",
+      "answer": "We've tried to make it as versatile as possible! Whether you're naming a fearsome dragon, a sneaky goblin, or a fluffy unicorn, you should find something that fits. Experiment and see what sparks your imagination!"
+    },
+    {
+      "question": "Can I generate multiple names at once?",
+      "answer": "Currently, the generator creates one name at a time to ensure each one gets your full attention. But who knows what the future holds? Stay tuned for updates!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Storm",
+    "Ember",
+    "Frost",
+    "Moon",
+    "Sun",
+    "Star",
+    "Blood",
+    "Iron",
+    "Stone",
+    "Swift",
+    "Silent",
+    "Grim",
+    "Noble",
+    "Crimson"
+  ],
+  "suffixes": [
+    "claw",
+    "wing",
+    "fang",
+    "scale",
+    "whisper",
+    "gaze",
+    "stride",
+    "heart",
+    "shade",
+    "bane",
+    "song",
+    "howl",
+    "strike",
+    "shield",
+    "thorn"
+  ]
+}

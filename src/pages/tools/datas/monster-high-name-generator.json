@@ -1,0 +1,97 @@
+{
+  "name": "Monster High Name Generator",
+  "description": "Unleash your inner ghoul with our Monster High Name Generator! Find the perfect monstrous moniker to match your freaky fabulous style. Claw-some names await!",
+  "slug": "monster-high-name-generator",
+  "icon": "\ud83e\udddb\u200d\u2640\ufe0f",
+  "introduction": "Ready to ditch the normie names and embrace your monstrous side? Our Monster High Name Generator is here to help! Whether you're writing fan fiction, creating a killer OC, or just want to know what you'd be called at Monster High, we've got you covered. Get ready for a name that's spooktacularly YOU!",
+  "howToUse": [
+    "First, take a deep breath and channel your inner monster. (Seriously, a little growl might help.)",
+    "Next, simply click the 'Generate' button and BAM! A monstrously magnificent name appears!",
+    "Don't like the first result? No problem! Keep clicking until you find the name that screams (or whispers) your monster identity.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a truly unique and terrifyingly terrific name.",
+    "Finally, share your fang-tastic new name with your ghoulfriends and unleash your monstrous persona upon the world!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually endorsed by Monster High?",
+      "answer": "While we'd love to say yes, this is a fan-made generator. But hey, maybe Mattel will notice us someday! Until then, enjoy the monstrous fun!"
+    },
+    {
+      "question": "Can I use these names for my Monster High fan fiction?",
+      "answer": "Absolutely! That's what it's here for! Go forth and create some spooktacular stories!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yep! We've curated a list of prefixes and suffixes inspired by Monster High, and the generator combines them randomly for unique results every time. So, get ready for anything!"
+    },
+    {
+      "question": "I got a really weird name... is that normal?",
+      "answer": "Totally normal! Embrace the weird! Monster High is all about celebrating individuality, even if that means having a slightly bizarre name."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions, and we might just add them to the generator. The more monstrous, the better!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! It's totally free! Unleash your inner monster without spending a single cent!"
+    }
+  ],
+  "prefixes": [
+    "Dracula",
+    "Franken",
+    "Were",
+    "Cleo",
+    "Ghoul",
+    "Lagoona",
+    "Mummy",
+    "Spectra",
+    "Abbey",
+    "Operetta",
+    "Toralei",
+    "Purrsephone",
+    "Meowlody",
+    "Deuce",
+    "Holt",
+    "Jackson",
+    "Robecca",
+    "Venus",
+    "Rochelle",
+    "Twyla",
+    "Gigi",
+    "Casta",
+    "Kiyomi",
+    "Moanica",
+    "Ari",
+    "Silvi",
+    "Finnegan",
+    "Iguana"
+  ],
+  "suffixes": [
+    "Stein",
+    "Loomis",
+    "Wolf",
+    "de Nile",
+    "Yelps",
+    "Blue",
+    "Imhotep",
+    "Vondergeist",
+    "Bominable",
+    "Phantom",
+    "Stripe",
+    "Purr",
+    "Howleen",
+    "Gorgon",
+    "Hyde",
+    "Jekyll",
+    "Steam",
+    "McFlytrap",
+    "Goyle",
+    "Boggart",
+    "Grant",
+    "Spellsinging",
+    "Haunterly",
+    "D'Argent",
+    "Song"
+  ]
+}

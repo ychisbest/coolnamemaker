@@ -1,0 +1,98 @@
+{
+  "name": "Predator Name Generator",
+  "description": "Unleash your inner hunter with our Predator Name Generator! Find the perfect moniker that strikes fear and respect in the hearts of your prey. Rawr!",
+  "slug": "predator-name-generator",
+  "icon": "\ud83e\udea4",
+  "introduction": "Ever wondered what your Predator name would be? Stalk no further! Our Predator Name Generator crafts unique and chilling names, perfect for gamers, writers, or anyone looking to embrace their wild side. Get ready to dominate the jungle... or the internet!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold your fearsome new Predator name!",
+    "Feeling picky? Click again for a fresh, terrifying title.",
+    "Share your newfound identity with your pack (aka your friends) and let the hunt begin!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "We generate names that evoke a sense of power, danger, and primal instinct. Think sharp claws, stealthy movements, and a touch of the unknown."
+    },
+    {
+      "question": "Can I use these names for my video game character?",
+      "answer": "Absolutely! These names are perfect for adding a touch of menace to your in-game persona. Go forth and conquer!"
+    },
+    {
+      "question": "Are the names generated random?",
+      "answer": "Yes, the names are created using a combination of prefixes and suffixes, ensuring a unique and unpredictable result every time."
+    },
+    {
+      "question": "Will this generator help me become a better predator?",
+      "answer": "While a name won't magically grant you hunting skills, it's a fantastic way to embody the spirit of a predator! Think of it as your first step towards jungle domination (or at least, winning at your favorite online game)."
+    },
+    {
+      "question": "Is this generator safe to use?",
+      "answer": "Completely! No actual predators were harmed (or even consulted) in the making of this generator. Just pure, harmless fun!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always looking for ways to improve! Feel free to send your suggestions our way. Who knows, your idea might become the next must-have Predator name component!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Night",
+    "Blood",
+    "Iron",
+    "Venom",
+    "Steel",
+    "Crimson",
+    "Silent",
+    "Dark",
+    "Rage",
+    "Ghost",
+    "Stone",
+    "Death",
+    "Skull",
+    "Bone",
+    "Void",
+    "Storm",
+    "Thunder",
+    "Grave",
+    "Doom",
+    "Fear",
+    "Cold",
+    "Frozen",
+    "Burning",
+    "Wild",
+    "Savage",
+    "Apex",
+    "Alpha"
+  ],
+  "suffixes": [
+    "Claw",
+    "Fang",
+    "Hunter",
+    "Stalker",
+    "Ripper",
+    "Slayer",
+    "Bane",
+    "Shade",
+    "Reaper",
+    "Scourge",
+    "Howl",
+    "Strike",
+    "Gaze",
+    "Biter",
+    "Shredder",
+    "Prowler",
+    "Killer",
+    "Terror",
+    "Nightmare",
+    "Wraith",
+    "Beast",
+    "Fiend",
+    "Demon",
+    "Viper",
+    "Maw",
+    "Gnash",
+    "Rend",
+    "Wrecker"
+  ]
+}

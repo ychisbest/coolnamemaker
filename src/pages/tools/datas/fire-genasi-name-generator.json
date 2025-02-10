@@ -1,0 +1,73 @@
+{
+  "name": "Fire Genasi Name Generator",
+  "description": "Stoke the flames of your imagination! Need a blazing moniker for your Fire Genasi character? Look no further! This generator will forge fiery names that resonate with the elemental power of fire.",
+  "slug": "fire-genasi-name-generator",
+  "icon": "\ud83d\udd25",
+  "introduction": "Born of fire, the Genasi carry the raw power of the elemental planes within them. Their names often reflect this fiery heritage, evoking images of heat, light, and passion. Whether you're a seasoned roleplayer or just starting your adventure, our Fire Genasi Name Generator will help you find the perfect name to ignite your character's story.",
+  "howToUse": [
+    "Click the 'Generate' button and BAM! A brand new, scorching-hot Fire Genasi name appears!",
+    "Don't like the first result? Keep clicking! We've got enough fiery combinations to keep you going all day long.",
+    "Feeling creative? Use the generated names as inspiration and tweak them to create something truly unique!",
+    "Share your awesome Fire Genasi name with your friends and bask in their envy."
+  ],
+  "faqs": [
+    {
+      "question": "What makes a good Fire Genasi name?",
+      "answer": "Fire Genasi names often sound strong, passionate, and even a little intimidating. Think about words associated with fire, like 'blaze,' 'ember,' 'ash,' or even the names of famous volcanoes or mythological fire beings."
+    },
+    {
+      "question": "Can I use these names for other characters?",
+      "answer": "Absolutely! While specifically designed for Fire Genasi, these names can work for any character with a fiery or energetic personality. Get creative!"
+    },
+    {
+      "question": "Are the names generated random?",
+      "answer": "The names are generated using a combination of prefixes, suffixes, and root words that are thematically appropriate for Fire Genasi. While there's an element of randomness, we've carefully curated the options to ensure they sound authentic and cool."
+    },
+    {
+      "question": "Will this generator give me the same name twice?",
+      "answer": "While it's possible to get the same name twice, the sheer number of combinations makes it unlikely. Keep clicking and you'll discover a wealth of unique options!"
+    },
+    {
+      "question": "Can I contribute to the generator?",
+      "answer": "We're always looking for ways to improve! If you have suggestions for prefixes, suffixes, or other improvements, feel free to reach out to us. We appreciate your input!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! Our Fire Genasi Name Generator is completely free to use. Generate as many names as you like without any cost."
+    }
+  ],
+  "prefixes": [
+    "Agni",
+    "Pyra",
+    "Blaze",
+    "Ember",
+    "Sol",
+    "Infer",
+    "Cinder",
+    "Ash",
+    "Fiamm",
+    "Ignis",
+    "Volc",
+    "Flare",
+    "Scorch",
+    "Searing",
+    "Kindle"
+  ],
+  "suffixes": [
+    "ax",
+    "yx",
+    "ia",
+    "us",
+    "an",
+    "ar",
+    "is",
+    "on",
+    "os",
+    "a",
+    "o",
+    "i",
+    "ara",
+    "yxia",
+    "axus"
+  ]
+}

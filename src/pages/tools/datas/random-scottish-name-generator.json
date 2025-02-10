@@ -1,0 +1,74 @@
+{
+  "name": "Random Scottish Name Generator",
+  "description": "Fancy a wee bit of Scottish charm? Find your perfect Highland moniker with our Random Scottish Name Generator! Unleash your inner Celt and discover a name that's as rugged and beautiful as the Scottish Highlands themselves. From ancient clan names to modern twists, we've got a dram of inspiration for everyone.",
+  "slug": "random-scottish-name-generator",
+  "icon": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+  "introduction": "Ever dreamed of having a name that echoes with the sound of bagpipes and the mist-covered mountains? Our Random Scottish Name Generator is your passport to a world of Gaelic glory! Whether you're writing a novel, naming a character, or just curious about your Scottish alter ego, we're here to help you find a name that's truly bonnie. Get ready to embrace your inner Highlander!",
+  "howToUse": [
+    "Click the 'Generate' button and prepare to be transported to the Scottish Highlands!",
+    "Keep clicking until you find a name that makes you want to shout 'Alba gu br\u00e0th!'",
+    "Don't be shy! Mix and match prefixes and suffixes for a truly unique creation.",
+    "Share your awesome new Scottish name with your friends and family \u2013 they'll be green with envy!",
+    "Use it for everything! From your next gaming character to your secret online identity, the possibilities are endless."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "We generate a wide range of Scottish names, from traditional clan names to more modern and whimsical creations. Expect a healthy mix of the old and the new!"
+    },
+    {
+      "question": "Are these real Scottish names?",
+      "answer": "Absolutely! We draw inspiration from real Scottish names, history, and culture. While some combinations might be a bit more creative, they all have a touch of Scottish authenticity."
+    },
+    {
+      "question": "Can I use these names for my characters in a book or game?",
+      "answer": "Of course! That's exactly what this generator is for! Feel free to use these names for your fictional creations. Just remember to give us a wee shout-out if your book becomes a bestseller!"
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're constantly adding new names and features to keep things fresh and exciting. Check back regularly for new possibilities and a fresh dose of Scottish inspiration!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Aye, it is! Our Random Scottish Name Generator is completely free. So go ahead, generate as many names as your heart desires \u2013 no haggis required!"
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We welcome your suggestions! If you have any favorite Scottish names that you'd like to see included, feel free to send them our way. We're always looking for ways to expand our collection and make the generator even better."
+    }
+  ],
+  "prefixes": [
+    "Alasdair",
+    "Eilidh",
+    "Hamish",
+    "Fiona",
+    "Lachlan",
+    "Morag",
+    "Dougal",
+    "Iona",
+    "Kenneth",
+    "Catriona",
+    "Malcolm",
+    "Shona",
+    "Torquil",
+    "Maisie",
+    "Murdo"
+  ],
+  "suffixes": [
+    "MacLeod",
+    "Campbell",
+    "Stewart",
+    "Cameron",
+    "Grant",
+    "Fraser",
+    "Gordon",
+    "Wallace",
+    "Bruce",
+    "Munro",
+    "Ross",
+    "Sutherland",
+    "Lindsay",
+    "Hamilton",
+    "Scott"
+  ]
+}

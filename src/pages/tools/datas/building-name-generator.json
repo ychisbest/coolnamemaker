@@ -1,0 +1,84 @@
+{
+  "name": "Building Name Generator",
+  "description": "Stuck naming your skyscraper, startup, or even your Minecraft mansion? Let our Building Name Generator construct the perfect moniker! We've got the blueprints for awesome.",
+  "slug": "building-name-generator",
+  "icon": "\ud83c\udfe2",
+  "introduction": "Naming a building is harder than you think! It needs to sound professional, memorable, and maybe even a little bit\u2026cool. Whether you're naming a towering office block, a cozy apartment complex, or just a really impressive Lego creation, our generator is here to help you lay the foundation for the perfect name.",
+  "howToUse": [
+    "Click the 'Generate' button. It's the big, shiny one. You can't miss it!",
+    "Behold! A magnificent building name appears, ready to adorn your architectural masterpiece.",
+    "Don't like it? No problem! Click 'Generate' again for a fresh batch of inspiration. We've got names for days!",
+    "Found the perfect name? Copy it and paste it onto your building plans, website, or even tattoo it on your forehead (not recommended).",
+    "Share your awesome building name with the world! Brag to your friends, impress your boss, and maybe even get a free penthouse suite. (Okay, probably not, but it's worth a shot!)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe everyone deserves a fantastic building name, regardless of budget. Consider it our gift to the architectural world (or the world of incredibly elaborate sandcastles)."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You bet! All the generated names are yours to use as you see fit. Go forth and build your empire!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! We have a massive database of prefixes and suffixes, so there are literally millions of possible combinations. You're bound to find something you love eventually. Or, you know, you could always come up with your own. But where's the fun in that?"
+    },
+    {
+      "question": "Are the names copyrighted?",
+      "answer": "Nope! We generate unique combinations, so you don't have to worry about copyright issues. However, it's always a good idea to do a quick trademark search just to be safe."
+    },
+    {
+      "question": "Will this generator help me get planning permission?",
+      "answer": "While we can't guarantee planning permission, a great name certainly won't hurt! A building called 'The Zenith' sounds a lot more impressive than 'Building #42', right?"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send them our way, and we might just add them to the generator. Who knows, your suggestion could be the next big thing in building names!"
+    }
+  ],
+  "prefixes": [
+    "Grand",
+    "Majestic",
+    "Apex",
+    "Zenith",
+    "Skyline",
+    "Ember",
+    "Nova",
+    "Sterling",
+    "Titan",
+    "Pinnacle",
+    "Celestial",
+    "Urban",
+    "Metro",
+    "Central",
+    "Harbor",
+    "Coastal",
+    "Summit",
+    "Legacy",
+    "Millennium",
+    "Victory"
+  ],
+  "suffixes": [
+    "Tower",
+    "Plaza",
+    "Residences",
+    "Suites",
+    "Center",
+    "Point",
+    "View",
+    "Heights",
+    "Gardens",
+    "Terrace",
+    "Court",
+    "Square",
+    "Place",
+    "Hall",
+    "House",
+    "Building",
+    "Lofts",
+    "Avenue",
+    "Arcade",
+    "Commons"
+  ]
+}

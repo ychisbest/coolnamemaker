@@ -1,0 +1,108 @@
+{
+  "name": "God Name Generator",
+  "description": "Unleash your inner deity! Need a name that screams divine power? Our God Name Generator will conjure up monikers worthy of Olympus, Valhalla, or whatever pantheon floats your celestial boat. Prepare to be worshipped (or at least admired)!",
+  "slug": "god-name-generator",
+  "icon": "\ud83d\udd31",
+  "introduction": "Tired of your mortal name? Yearning for a title that resonates with cosmic authority? You've stumbled upon the right place! Our God Name Generator is your portal to a world of godly appellations. Whether you're crafting a character for your next epic fantasy, seeking inspiration for a creative project, or just want to feel a little bit more...divine, we've got you covered. So, ditch the mundane and embrace the magnificent! Let's forge a name that echoes through eternity.",
+  "howToUse": [
+    "Simply click the 'Generate' button. (Duh!)",
+    "Marvel at the awe-inspiring name that appears. Seriously, it's pretty epic.",
+    "If the gods aren't smiling upon you (unlikely, but hey, it happens), click 'Generate' again. Keep going until you find the PERFECT name.",
+    "Copy and paste your chosen name into your character sheet, novel, RPG campaign, or even your LinkedIn profile (we're not judging...much).",
+    "Prepare for the worship to commence. (We're kidding...mostly.)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator *actually* going to make me a god?",
+      "answer": "Sadly, no. We're good, but not *that* good. This generator creates *names* fit for a god. You'll still need to work on the whole 'omnipotence' thing yourself."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Consider it a gift from the (digital) gods. Use them for your games, books, businesses, or whatever your heart desires. Just maybe give us a shout-out if you become a billionaire. \ud83d\ude09"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Mostly! We use a combination of prefixes, suffixes, and a dash of divine inspiration to create names that sound appropriately godly. There's a little bit of logic in the madness, but the results are still gloriously unpredictable."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep hitting that 'Generate' button! The universe is vast, and the possibilities are endless. Eventually, you'll find a name that resonates with your inner deity. Or, you know, try a different generator. We won't be offended...much."
+    },
+    {
+      "question": "Will using one of these names attract the attention of real gods?",
+      "answer": "Highly unlikely. But if Zeus suddenly starts sliding into your DMs, let us know! We'd love to hear about it (and maybe get an autograph)."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We're always open to suggestions! Feel free to send us your ideas. If they're suitably epic, we might just add them to the generator. You could become a co-creator of godly names!"
+    }
+  ],
+  "prefixes": [
+    "Omni",
+    "Aether",
+    "Astro",
+    "Chrono",
+    "Terra",
+    "Pyro",
+    "Hydro",
+    "Cryo",
+    "Umbra",
+    "Lux",
+    "Deus",
+    "Divi",
+    "Celes",
+    "Eth",
+    "Gaea",
+    "Nyx",
+    "Heka",
+    "Indra",
+    "Varu",
+    "Surya",
+    "Thun",
+    "Frey",
+    "Odin",
+    "Loki",
+    "Ragnar",
+    "Amun",
+    "Ra",
+    "Isis",
+    "Osiris",
+    "Anubi",
+    "Vish",
+    "Shiv",
+    "Brahm",
+    "Kali"
+  ],
+  "suffixes": [
+    "on",
+    "ius",
+    "ia",
+    "os",
+    "ex",
+    "ar",
+    "ax",
+    "yx",
+    "oth",
+    "eth",
+    "ath",
+    "ith",
+    "yth",
+    "ion",
+    "eus",
+    "aea",
+    "sis",
+    "rus",
+    "iel",
+    "ael",
+    "rel",
+    "nor",
+    "dor",
+    "mor",
+    "zor",
+    "dar",
+    "kar",
+    "gar",
+    "nar",
+    "sar"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Fantasy Casino Name Generator",
+  "description": "Roll the dice and conjure up the most enchanting and alluring fantasy casino names this side of the ethereal realm! Ready to strike gold... or maybe dragon scales?",
+  "slug": "fantasy-casino-name-generator",
+  "icon": "\ud83c\udfb0",
+  "introduction": "Step right up, adventurer! Tired of the same old boring casino names? Our Fantasy Casino Name Generator is here to whisk you away to a world of high stakes and magical fortunes. Whether you're crafting a new D&D campaign, writing a fantasy novel, or just daydreaming about a casino run by elves, this generator will provide the perfect name, brimming with wonder and a touch of luck.",
+  "howToUse": [
+    "Click the 'Generate' button. Simple, right? Even a goblin could figure it out!",
+    "Marvel at the amazing name that appears. (We're not responsible for any gasps of delight.)",
+    "If the first name isn't quite your cup of enchanted tea, hit 'Generate' again. We've got names for days... or at least a few dozen.",
+    "Copy and paste your chosen name into your project. And remember, all bets are off once you start using these names!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Consider these names your lucky charm. Use them for your games, stories, or even your actual casino (if you happen to own one in a fantasy realm). No royalties required!"
+    },
+    {
+      "question": "Are the generated names actually good?",
+      "answer": "Good? They're legendary! Each name is crafted to evoke a sense of wonder, risk, and the allure of the unknown. But hey, beauty is in the eye of the beholder... or the roll of the dice."
+    },
+    {
+      "question": "Will this generator help me win real money at a real casino?",
+      "answer": "While we can't guarantee real-world riches, using a cool fantasy-inspired name might just give you the confidence boost you need to play your best game. Think of it as a +1 charisma bonus for your gambling skills!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We're all ears! Send us your most creative and enchanting word fragments, and we might just add them to our magical lexicon. Help us make this generator even more fantastically fabulous!"
+    },
+    {
+      "question": "Is this generator powered by actual magic?",
+      "answer": "Let's just say we have a friendly wizard on staff who helps us brew up the best names. Don't tell anyone, though. It's a secret!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! Sometimes it takes a few tries to find the perfect name. And if all else fails, you can always combine elements from different names to create your own unique masterpiece."
+    }
+  ],
+  "prefixes": [
+    "Silver",
+    "Golden",
+    "Crystal",
+    "Emerald",
+    "Shadow",
+    "Moon",
+    "Sun",
+    "Star",
+    "Dragon's",
+    "Wizard's",
+    "Queen's",
+    "King's",
+    "Elven",
+    "Dwarven",
+    "Gnomish",
+    "Goblin",
+    "Mystic",
+    "Arcane",
+    "Fortune's",
+    "Destiny's",
+    "Whispering",
+    "Enchanted",
+    "Lost",
+    "Forgotten",
+    "Celestial",
+    "Infernal",
+    "Phantom",
+    "Serpent's",
+    "Griffin's"
+  ],
+  "suffixes": [
+    "Palace",
+    "Hall",
+    "Lair",
+    "Den",
+    "Grotto",
+    "Chamber",
+    "Vault",
+    "Crown",
+    "Jewel",
+    "Rose",
+    "Lily",
+    "Lotus",
+    "Dream",
+    "Hope",
+    "Glory",
+    "Triumph",
+    "Haven",
+    "Refuge",
+    "Gamble",
+    "Chance",
+    "Roulette",
+    "Dice",
+    "Cards",
+    "Wheel",
+    "Treasury",
+    "Kingdom",
+    "Empire",
+    "Oasis",
+    "Mirage"
+  ]
+}

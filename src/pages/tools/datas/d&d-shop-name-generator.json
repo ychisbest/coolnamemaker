@@ -1,0 +1,92 @@
+{
+  "name": "D&D Shop Name Generator",
+  "description": "Roll for initiative... and a ridiculously cool name for your Dungeons & Dragons shop! Tired of 'Ye Olde General Store'? We've got you covered, adventurer. Generate names that would make even Vecna jealous!",
+  "slug": "d-and-d-shop-name-generator",
+  "icon": "\ud83e\uddd9\u200d\u2642\ufe0f",
+  "introduction": "Welcome, weary traveler, to the D&D Shop Name Generator! Are you crafting a bustling marketplace in Waterdeep, a hidden apothecary in the Underdark, or perhaps a shady back-alley dealer in Baldur's Gate? This generator will conjure names worthy of the most fantastical establishments. Prepare to be amazed!",
+  "howToUse": [
+    "Simply click the 'Generate' button. Seriously, that's it. We're not about to make you roll a Wisdom saving throw just to get a shop name.",
+    "Keep clicking until you find a name that resonates with your inner Dungeon Master (or player!).",
+    "Steal a name you like, tweak it slightly, or use it as inspiration to craft your own masterpiece. We won't tell.",
+    "Profit! (In-game gold, of course. We're not responsible for your real-world business ventures.)",
+    "Share your awesome shop names with your friends. Let them bask in your creative glory!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually magical?",
+      "answer": "While we can't guarantee it's imbued with actual arcane energies, the results *are* pretty darn magical. Use with caution (and a healthy dose of imagination!)."
+    },
+    {
+      "question": "Can I use these names for my published D&D campaign?",
+      "answer": "Absolutely! Consider it a gift from one Dungeon Master to another. Just maybe give us a shout-out if your players are particularly impressed \ud83d\ude09."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Then you're probably a dragon hoarding gold and impossible to please. Just kidding! Keep generating! Or, use the prefixes and suffixes as inspiration to create something completely new."
+    },
+    {
+      "question": "Are these names suitable for all D&D settings?",
+      "answer": "We've tried to make them versatile enough for most settings, from Forgotten Realms to Eberron. But feel free to adapt them to fit your specific campaign world."
+    },
+    {
+      "question": "Will using this generator make me a better Dungeon Master?",
+      "answer": "It's a start! A great name can breathe life into your world and inspire your players. But remember, a good DM is also a skilled storyteller, a fair adjudicator, and a master of improvisation. Now go forth and DM!"
+    },
+    {
+      "question": "Does this generator support names for specific types of shops (e.g., blacksmiths, apothecaries)?",
+      "answer": "While it's generalized, the combinations often suggest a specific type of establishment. Pay attention to the nuances! 'The Dragon's Hoard' is likely a treasure shop, while 'Elara's Elixirs' is probably an apothecary."
+    }
+  ],
+  "prefixes": [
+    "The",
+    "Ye Olde",
+    "Grim",
+    "Mystic",
+    "Silver",
+    "Golden",
+    "Iron",
+    "Starlight",
+    "Shadow",
+    "Whispering",
+    "Ancient",
+    "Forgotten",
+    "Dragon's",
+    "Elara's",
+    "Barkeep's",
+    "The Wandering",
+    "Red",
+    "Black",
+    "Blue",
+    "Green",
+    "White",
+    "Deep",
+    "Lost",
+    "Hidden"
+  ],
+  "suffixes": [
+    "Emporium",
+    "Shoppe",
+    "Treasury",
+    "Hoard",
+    "Armory",
+    "Apothecary",
+    "Elixirs",
+    "Brewery",
+    "Tavern",
+    "Inn",
+    "Workshop",
+    "Forge",
+    "Sanctum",
+    "Vault",
+    "Curiosities",
+    "Relics",
+    "Goods",
+    "Supplies",
+    "Trade Post",
+    "Exchange",
+    "Market",
+    "Den",
+    "Corner",
+    "Haven"
+  ]
+}

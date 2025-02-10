@@ -1,0 +1,105 @@
+{
+  "name": "My Little Pony OC Name Generator",
+  "description": "Sparkle up your pony persona! This generator crafts the perfect name for your My Little Pony OC, guaranteed to make them stand out in Equestria!",
+  "slug": "my-little-pony-oc-name-generator",
+  "icon": "\ud83d\udc34",
+  "introduction": "Ready to gallop into the world of My Little Pony with your own unique OC? A fantastic name is the first step! Our generator blends whimsy, charm, and a dash of magic to create names that are as special as your pony. Whether you're after something sweet, sassy, or simply unforgettable, we've got you covered. Prepare for instant inspiration and a name that's destined for greatness!",
+  "howToUse": [
+    "Click the 'Generate' button. Like, duh!",
+    "Feast your eyes on the dazzling name we've conjured just for you.",
+    "Not feeling it? Click 'Generate' again! We've got more pony power than Princess Celestia.",
+    "Copy and paste your favorite name into your OC's bio and watch the magic happen!",
+    "Share your amazing OC and its awesome name with all your pony pals!"
+  ],
+  "faqs": [
+    {
+      "question": "What is a My Little Pony OC?",
+      "answer": "OC stands for Original Character. It's a pony character you create yourself, with its own unique design, backstory, and personality!"
+    },
+    {
+      "question": "Can I use these names for something other than a My Little Pony OC?",
+      "answer": "Absolutely! While designed for ponies, these names could work for pets, characters in your stories, or even just for fun!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes! We use a combination of prefixes and suffixes associated with the My Little Pony universe to generate unique and random names."
+    },
+    {
+      "question": "Will the generator create names that already exist in the My Little Pony universe?",
+      "answer": "It's possible, but highly unlikely. We strive to create unique combinations, but with so many ponies, there might be a rare overlap. If it happens, consider it a tribute to a legendary pony!"
+    },
+    {
+      "question": "How often is the generator updated with new prefixes and suffixes?",
+      "answer": "We're always working to keep things fresh and exciting! We periodically update the generator with new prefixes and suffixes to ensure a constant stream of creative names."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! While we can't guarantee every suggestion will be implemented, we appreciate your input and creativity. Send your suggestions our way!"
+    }
+  ],
+  "prefixes": [
+    "Sparkle",
+    "Rainbow",
+    "Flutter",
+    "Apple",
+    "Twilight",
+    "Rarity",
+    "Pinkie",
+    "Sweetie",
+    "Diamond",
+    "Crystal",
+    "Shimmer",
+    "Star",
+    "Moon",
+    "Sun",
+    "Brave",
+    "Daring",
+    "Gentle",
+    "Kind",
+    "Loyal",
+    "Honest",
+    "Magic",
+    "Wonder",
+    "Harmony",
+    "Cloud",
+    "Sky",
+    "Rose",
+    "Lily",
+    "Daisy",
+    "Berry",
+    "Sugar",
+    "Honey"
+  ],
+  "suffixes": [
+    "Shine",
+    "Dash",
+    "Heart",
+    "Bloom",
+    "Spark",
+    "Glow",
+    "Wing",
+    "Belle",
+    "Tiara",
+    "Dust",
+    "Beam",
+    "Light",
+    "Song",
+    "Dream",
+    "Charm",
+    "Hope",
+    "Joy",
+    "Wish",
+    "Blossom",
+    "Pie",
+    "Cake",
+    "Drop",
+    "Dew",
+    "Breeze",
+    "Cloud",
+    "Petal",
+    "Lily",
+    "Berry",
+    "Sugar",
+    "Honey"
+  ]
+}

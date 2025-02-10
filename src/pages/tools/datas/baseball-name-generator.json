@@ -1,0 +1,73 @@
+{
+  "name": "Baseball Name Generator",
+  "description": "Step up to the plate and swing for the fences with our Baseball Name Generator! Whether you're creating a character for a sports novel, naming your fantasy baseball team, or just looking for a fun and unique nickname, this generator will knock it out of the park!",
+  "slug": "baseball-name-generator",
+  "icon": "\u26be",
+  "introduction": "Tired of the same old baseball names? Our generator combines classic baseball terminology with a dash of creative flair to produce names that are both authentic and unforgettable. Get ready to discover your inner slugger!",
+  "howToUse": [
+    "Simply click the 'Generate' button to conjure up a brand-new baseball name, hotter than a fresh-out-the-oven hotdog!",
+    "Feeling picky? Keep clicking until you find the perfect name that resonates with your baseball soul. We've got more combinations than there are peanuts in the stadium!",
+    "Copy your favorite name and share it with your teammates, friends, or rivals. Let everyone know you're playing to win, with a name that's as cool as a diving catch in the bottom of the ninth!",
+    "Customize your name by mixing and matching prefixes and suffixes. Want to be 'Blazing Bandit'? Go for it! The possibilities are endless."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names can I generate?",
+      "answer": "Our generator creates a wide range of baseball names, from traditional and heroic to quirky and humorous. You'll find names suitable for players, teams, mascots, and more!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we encourage creativity, please be mindful of existing trademarks and copyrights. Use the names as inspiration, but conduct your own research before using them commercially."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes! We use a combination of carefully curated prefixes and suffixes, along with a touch of randomness, to ensure each name is unique and unexpected."
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're always working to improve the generator and add new names. Check back regularly for fresh inspiration and exciting additions!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "Absolutely! We love hearing from our users. Send your suggestions our way, and we'll consider adding them to the generator."
+    },
+    {
+      "question": "Is this generator suitable for naming my fantasy baseball team?",
+      "answer": "Heck yeah! This generator is perfect for finding a killer name that will intimidate your opponents and lead you to fantasy baseball glory!"
+    }
+  ],
+  "prefixes": [
+    "Power",
+    "Strike",
+    "Curve",
+    "Blazing",
+    "Shadow",
+    "Iron",
+    "Diamond",
+    "Quick",
+    "Rapid",
+    "Victory",
+    "Home Run",
+    "Grand Slam",
+    "Slugger",
+    "Ace",
+    "Bandit"
+  ],
+  "suffixes": [
+    "Bombers",
+    "Strikers",
+    "Sox",
+    "Stars",
+    "Comets",
+    "Rockets",
+    "Blasters",
+    "Lightning",
+    "Inferno",
+    "Titans",
+    "Giants",
+    "Legends",
+    "Heroes",
+    "Champions",
+    "Warriors"
+  ]
+}

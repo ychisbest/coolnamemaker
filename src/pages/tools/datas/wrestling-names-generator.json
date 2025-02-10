@@ -1,0 +1,83 @@
+{
+  "name": "Wrestling Name Generator",
+  "description": "Ready to rumble? Need a name that'll strike fear into the hearts of your opponents (or at least make them chuckle)? Our Wrestling Name Generator is here to help you craft the perfect moniker for your alter ego in the squared circle! Get ready to bodyslam the competition with a name as unique as your signature move.",
+  "slug": "wrestling-names-generator",
+  "icon": "\ud83e\udd3c",
+  "introduction": "Forget boring, vanilla names. We're talking names that scream power, agility, and maybe just a *little* bit of crazy. Whether you're a high-flying acrobat or a ground-and-pound powerhouse, we've got the perfect name to match your wrestling style. Step into the ring with confidence, because your name will be legendary!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the glory of a freshly minted wrestling name!",
+    "Don't like what you see? No sweat! Hit 'Generate' again for an endless supply of bone-crunching, crowd-pleasing possibilities.",
+    "Found a name that resonates with your inner wrestler? Copy it and unleash it upon the world!",
+    "Feeling creative? Mix and match prefixes and suffixes to create a name that's truly your own!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to make me a better wrestler?",
+      "answer": "While we can't guarantee it'll improve your wrestling skills, a killer name is half the battle! Confidence is key, and a great name can give you that edge."
+    },
+    {
+      "question": "Can I use these names for my wrestling video game character?",
+      "answer": "Absolutely! Go wild and create the ultimate roster of uniquely named wrestlers. We encourage it!"
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "All names generated are completely original (as far as we know!). Feel free to use them without worry."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep hitting that 'Generate' button! With countless combinations, you're bound to find a name that's just right. Or get creative and start mixing those prefixes and suffixes!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always open to suggestions! Send us your ideas, and we might just add them to the generator."
+    },
+    {
+      "question": "I accidentally named my pet hamster 'The Mauler'. Is that okay?",
+      "answer": "Perfectly acceptable! In fact, we encourage it. Just make sure your hamster doesn't start demanding a tiny wrestling ring."
+    }
+  ],
+  "prefixes": [
+    "The",
+    "Iron",
+    "Steel",
+    "Mad",
+    "Stone Cold",
+    "Diamond",
+    "Hurricane",
+    "Radioactive",
+    "Cosmic",
+    "Brutal",
+    "Vicious",
+    "Ruthless",
+    "Silent",
+    "Shadow",
+    "Night",
+    "Thunder",
+    "Lightning",
+    "Crimson",
+    "Raging",
+    "Twisted"
+  ],
+  "suffixes": [
+    "Smasher",
+    "Destroyer",
+    "Annihilator",
+    "Mauler",
+    "Enforcer",
+    "Executioner",
+    "Dominator",
+    "Punisher",
+    "Wrecker",
+    "Hammer",
+    "Cyclone",
+    "Tornado",
+    "Viper",
+    "Cobra",
+    "Titan",
+    "Colossus",
+    "Phantom",
+    "Renegade",
+    "Outlaw",
+    "Berserker"
+  ]
+}

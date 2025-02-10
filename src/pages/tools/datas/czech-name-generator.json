@@ -1,0 +1,74 @@
+{
+  "name": "Czech Name Generator",
+  "description": "Struggling to find the perfect Czech name? Look no further! Our generator crafts authentic-sounding names with a touch of Slavic flair. Whether you're writing a novel, creating a character, or just curious about Czech nomenclature, we've got you covered. D\u011bkujeme! (That's 'thank you' in Czech, by the way \ud83d\ude09)",
+  "slug": "czech-name-generator",
+  "icon": "\ud83c\udde8\ud83c\uddff",
+  "introduction": "Ahoj, fellow name enthusiasts! Ever dreamt of strolling through Prague's Charles Bridge with a name that truly resonates with the Czech spirit? Our Czech Name Generator is your passport to a world of evocative, historically-inspired monikers. Prepare to be amazed by the sheer variety and richness of Czech naming traditions!",
+  "howToUse": [
+    "First, ditch that boring name you've been using. (Just kidding... mostly.)",
+    "Click the 'Generate' button like you're ordering a perfectly brewed Pilsner Urquell.",
+    "Bask in the glory of your new, awesome Czech name. Seriously, try saying it out loud \u2013 it's fun!",
+    "If you don't like the first one, keep clicking! We've got more names than there are cobblestones in Prague.",
+    "Use your new name to impress your friends, write a screenplay, or finally understand the lyrics to a Karel Gott song. The possibilities are endless!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually Czech?",
+      "answer": "Absolutely! We've carefully curated our database to ensure authenticity. While some names might be inspired by historical figures or common Czech surnames, they all have a distinctly Czech vibe."
+    },
+    {
+      "question": "Can I use these names for my baby?",
+      "answer": "Of course! Just be sure to double-check the meaning and cultural significance of the name before making a final decision. After all, you want your little one to have a name they'll cherish."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! Our generator is designed to provide a wide range of options. You can also try adjusting the prefixes and suffixes (if available) to fine-tune the results."
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart desires. We're here to help you find the perfect one, no matter how long it takes."
+    },
+    {
+      "question": "Do I need to speak Czech to use this generator?",
+      "answer": "V\u016fbec ne! (That's 'not at all!') No Czech knowledge is required. Just a love of cool names and a sense of adventure."
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love to hear from you! Please send your suggestions via our contact form. We're always looking for ways to improve our generator and make it even more awesome."
+    }
+  ],
+  "prefixes": [
+    "Jaroslav",
+    "Vladim\u00edr",
+    "Zden\u011bk",
+    "Miroslav",
+    "Josef",
+    "Marie",
+    "Jana",
+    "Eva",
+    "Hana",
+    "Lucie",
+    "Petr",
+    "Pavel",
+    "Jan",
+    "Tom\u00e1\u0161",
+    "David"
+  ],
+  "suffixes": [
+    "Nov\u00e1k",
+    "Svoboda",
+    "Novotn\u00fd",
+    "Dvo\u0159\u00e1k",
+    "\u010cern\u00fd",
+    "Proch\u00e1zka",
+    "Ku\u010dera",
+    "Vesel\u00fd",
+    "Hor\u00e1k",
+    "N\u011bmec",
+    "Sedl\u00e1\u010dek",
+    "Navr\u00e1til",
+    "Krej\u010d\u00ed",
+    "Urban",
+    "Bl\u00e1ha"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Medication Name Generator",
+  "description": "Struggling to find the perfect, catchy, and (dare we say) *memorable* name for your revolutionary new medication? Fear no more! Our Medication Name Generator is here to banish boring names and inject some serious creativity into your pharmaceutical pursuits. Get ready to discover names so good, they'll practically prescribe themselves!",
+  "slug": "medication-name-generator",
+  "icon": "\ud83d\udc8a",
+  "introduction": "In the fast-paced world of pharmaceuticals, a memorable name can be the difference between obscurity and blockbuster status. Our generator combines the power of science with a dash of whimsy to deliver names that are both professional and attention-grabbing. Whether you're working on a life-saving drug or a groundbreaking supplement, we've got the perfect name waiting for you.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic! Our algorithm will conjure up a unique and compelling medication name.",
+    "Don't like the first result? No problem! Keep clicking until you find the name that resonates with your inner pharma guru.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create your own custom concoctions.",
+    "Once you've found the perfect name, be sure to check its availability and trademark status. We wouldn't want any naming conflicts!",
+    "Share your favorite names with your colleagues and get their feedback. Collaboration is key to pharmaceutical success!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe that everyone deserves access to amazing medication names, regardless of their budget. So go ahead and generate to your heart's content!"
+    },
+    {
+      "question": "Can I use the names generated for commercial purposes?",
+      "answer": "Yes, you are free to use the generated names for your commercial projects. However, we strongly recommend checking for trademark availability before settling on a name."
+    },
+    {
+      "question": "Are the names scientifically accurate?",
+      "answer": "While we strive to create names that sound professional and relevant, they are primarily designed for memorability and impact. We recommend consulting with a medical expert to ensure scientific accuracy if needed."
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We are constantly working to improve our generator and add new prefixes and suffixes. Check back regularly for fresh and exciting name options!"
+    },
+    {
+      "question": "What if I can't find a name I like?",
+      "answer": "Don't give up! Our generator offers a vast array of possibilities. Try different combinations, experiment with prefixes and suffixes, and keep clicking until you find the perfect match. If all else fails, you can always use the generated names as inspiration for your own unique creations."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your suggestions! Please contact us through our website with your ideas and we'll consider adding them to our database."
+    }
+  ],
+  "prefixes": [
+    "Vita",
+    "Neuro",
+    "Cardio",
+    "Gastro",
+    "Pneumo",
+    "Derma",
+    "Oculo",
+    "Hepato",
+    "Renal",
+    "Myo",
+    "Cerebro",
+    "Immuno",
+    "Onco",
+    "Gene",
+    "Pharm",
+    "Bio",
+    "Medi",
+    "Thera",
+    "Nova",
+    "Acu",
+    "Zymo",
+    "Opti",
+    "Kineti",
+    "Chrono"
+  ],
+  "suffixes": [
+    "cillin",
+    "statin",
+    "profen",
+    "dine",
+    "zole",
+    "triptan",
+    "pril",
+    "artan",
+    "olol",
+    "codone",
+    "tadine",
+    "cycline",
+    "vir",
+    "cept",
+    "gen",
+    "max",
+    "plus",
+    "forte",
+    "cure",
+    "med",
+    "solv",
+    "aid",
+    "ease",
+    "boost",
+    "nova"
+  ]
+}

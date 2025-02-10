@@ -1,0 +1,91 @@
+{
+  "name": "Asura Name Generator",
+  "description": "Unleash the fury within! Generate names worthy of a demigod with our Asura Name Generator. Perfect for your next RPG character, epic fantasy novel, or just to sound incredibly badass.",
+  "slug": "asura-name-generator",
+  "icon": "\ud83d\udc79",
+  "introduction": "In the realms of myth and legend, the Asuras stand as titans of power and rage. Now, you too can wield a name that echoes with their might! Our Asura Name Generator blends ancient lore with a touch of modern flair to craft names that are both formidable and unforgettable. Prepare to be amazed!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the birth of your Asura identity!",
+    "Not feeling the first result? No problem! Keep clicking until a name resonates with your inner demon... I mean, demigod.",
+    "Want something truly unique? Mix and match prefixes and suffixes to forge a name that is entirely your own creation. Go wild!",
+    "Share your awesome Asura name with your friends and watch them tremble... with envy, of course."
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* an Asura?",
+      "answer": "Ah, a fantastic question! Asuras are powerful, often wrathful, demigods found in Hindu and Buddhist mythology. Think of them as the ultimate anti-heroes \u2013 complex, powerful, and always interesting."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once the name is generated, it's yours to use as you see fit. Unleash your creativity!"
+    },
+    {
+      "question": "Are these names culturally sensitive?",
+      "answer": "We strive to create names that are respectful and evocative. However, always consider the context in which you're using the name and be mindful of cultural nuances."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart (or inner Asura) desires! There's no limit to the number of awesome names you can conjure."
+    },
+    {
+      "question": "Will the Asura Name Generator steal my soul?",
+      "answer": "Probably not. But if it does, at least you'll have a really cool name to take with you to the underworld!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send them our way, and we might just incorporate them into the generator."
+    }
+  ],
+  "prefixes": [
+    "Kala",
+    "Rudra",
+    "Indra",
+    "Varu",
+    "Agni",
+    "Naga",
+    "Raksha",
+    "Deva",
+    "Maya",
+    "Shiva",
+    "Vishnu",
+    "Surya",
+    "Chandra",
+    "Tara",
+    "Yama",
+    "Vayu",
+    "Prithvi",
+    "Jala",
+    "Tejas",
+    "Akasha",
+    "Astra",
+    "Vajra",
+    "Trishula",
+    "Chakra"
+  ],
+  "suffixes": [
+    "nath",
+    "raj",
+    "pal",
+    "dev",
+    "sen",
+    "veer",
+    "jit",
+    "kant",
+    "shur",
+    "ditya",
+    "teja",
+    "raksha",
+    "ketu",
+    "yama",
+    "bala",
+    "dhar",
+    "pati",
+    "ratna",
+    "mani",
+    "kala",
+    "rudra",
+    "indra",
+    "varu",
+    "agni"
+  ]
+}

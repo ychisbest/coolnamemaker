@@ -1,0 +1,96 @@
+{
+  "name": "Two Name Ambigram Generator Free",
+  "description": "Craft mind-bending ambigrams that fuse two names into one stunning design! Unleash your inner artist and create names that read the same upside down as they do right-side up! Perfect for tattoos, logos, or just blowing people's minds. Totally free, totally awesome.",
+  "slug": "two-name-ambigram-generator-free",
+  "icon": "\ud83d\udd04",
+  "introduction": "Ever wanted a name that's more than meets the eye? Our Two Name Ambigram Generator is your gateway to creating visually captivating ambigrams. Just enter two names, and BAM! Get ready to witness the magic as they intertwine into a single, symmetrical design.  It's like a secret code...but cooler.",
+  "howToUse": [
+    "First, summon your two favorite names (or the names of your mortal enemies...we won't judge \ud83d\ude09).",
+    "Type those names into the designated boxes.  Make sure you spell them right, unless you *want* a truly unique, misspelled ambigram.",
+    "Click the 'Generate Ambigram' button and prepare to be amazed! (Or mildly impressed...depending on your expectations.)",
+    "Tweak the settings to your heart's content. Experiment with different fonts and styles until you find the perfect look.",
+    "Download your masterpiece and share it with the world!  Or keep it a secret...your call."
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* an ambigram?",
+      "answer": "An ambigram is a visual word or design that retains meaning when viewed from a different perspective, usually upside down. Think of it as a linguistic optical illusion!"
+    },
+    {
+      "question": "Is this generator *really* free?",
+      "answer": "Yes! Absolutely, positively, 100% free! We believe that everyone should have the chance to create awesome ambigrams without breaking the bank."
+    },
+    {
+      "question": "Can I use these ambigrams for commercial purposes?",
+      "answer": "You sure can! Once you generate an ambigram, it's yours to use as you see fit. Go forth and brand, my friend!"
+    },
+    {
+      "question": "What if the names I enter don't work well together?",
+      "answer": "Some name combinations are trickier than others. Try experimenting with different spellings or nicknames to see if you can achieve a better result.  Sometimes, the less obvious the connection, the more impressive the ambigram!"
+    },
+    {
+      "question": "Are there any limitations to the length of the names?",
+      "answer": "Shorter names generally work better, but feel free to experiment! Longer names might result in a more complex and less readable ambigram, but hey, sometimes complex is cool!"
+    },
+    {
+      "question": "Can I get a tattoo of the ambigram I generate?",
+      "answer": "Absolutely! But PLEASE show your tattoo artist the design and make sure they can accurately reproduce it. A bad ambigram tattoo is a sad tattoo. Also, send us a picture, we'd love to see it!"
+    }
+  ],
+  "prefixes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "U",
+    "V",
+    "W",
+    "X",
+    "Y",
+    "Z"
+  ],
+  "suffixes": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z"
+  ]
+}

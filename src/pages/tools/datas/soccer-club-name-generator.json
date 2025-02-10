@@ -1,0 +1,123 @@
+{
+  "name": "Soccer Club Name Generator",
+  "description": "Struggling to find the perfect name for your soccer club? Our generator kicks out awesome, unforgettable names that'll have your rivals trembling! Get ready to score big with a name that screams victory!",
+  "slug": "soccer-club-name-generator",
+  "icon": "\u26bd",
+  "introduction": "So, you're starting a soccer club? Awesome! But before you can conquer the pitch, you need a name that's as legendary as your future victories. Our Soccer Club Name Generator is here to help you craft a name that's catchy, memorable, and downright intimidating. Ditch the brainstorming sessions and let our generator do the heavy lifting. Get ready to find a name that's a guaranteed game-winner!",
+  "howToUse": [
+    "Ready to score a winning name? It's easier than nutmegging your opponent!",
+    "Simply hit the 'Generate' button and watch the magic happen.",
+    "Don't like the first result? No sweat! Keep clicking until you find a name that makes you wanna shout 'GOAL!'",
+    "Once you've found the perfect name, write it down, shout it from the rooftops, and prepare for soccer domination!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Soccer Club Name Generator is 100% free to use. We're all about helping you achieve soccer glory without breaking the bank."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You bet! Once you find a name you love, it's all yours to use as you see fit. Go ahead and register that trademark!"
+    },
+    {
+      "question": "Will the names be unique?",
+      "answer": "We strive to generate unique and creative names, but with thousands of users, there's a small chance of overlap. We recommend doing a quick search to ensure your chosen name isn't already taken."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added?",
+      "answer": "We're always looking for ways to improve! Feel free to send us your suggestions. If we like them, we might just add them to our list."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! Our generator has a vast database of prefixes and suffixes, so you're bound to find something you love eventually. And hey, if all else fails, you can always use it as inspiration to come up with your own unique name!"
+    },
+    {
+      "question": "Does the generator create names for other sports?",
+      "answer": "Currently, this generator is focused on soccer. But keep an eye out \u2013 we might expand to other sports in the future!"
+    }
+  ],
+  "prefixes": [
+    "United",
+    "City",
+    "FC",
+    "Athletic",
+    "Real",
+    "Sporting",
+    "Dynamo",
+    "Olympique",
+    "Galaxy",
+    "Rovers",
+    "Strikers",
+    "Eagles",
+    "Lions",
+    "Tigers",
+    "Wolves",
+    "Phoenix",
+    "Rangers",
+    "Warriors",
+    "Knights",
+    "Spartans",
+    "Vikings",
+    "Gladiators",
+    "Royals",
+    "Stars",
+    "Dragons",
+    "Legends",
+    "Inferno",
+    "Revolution",
+    "Invincible",
+    "Cosmic",
+    "Atomic",
+    "Golden",
+    "Silver",
+    "Bronze",
+    "Emerald",
+    "Crimson",
+    "Azure",
+    "Ivory",
+    "Ebony",
+    "Platinum",
+    "Diamond"
+  ],
+  "suffixes": [
+    "FC",
+    "United",
+    "City",
+    "Athletic",
+    "Club",
+    "SC",
+    "Academy",
+    "Rovers",
+    "Strikers",
+    "Eagles",
+    "Lions",
+    "Tigers",
+    "Wolves",
+    "Phoenix",
+    "Rangers",
+    "Warriors",
+    "Knights",
+    "Spartans",
+    "Vikings",
+    "Gladiators",
+    "Royals",
+    "Stars",
+    "Dragons",
+    "Legends",
+    "Inferno",
+    "Revolution",
+    "Invincible",
+    "Cosmos",
+    "Atomic",
+    "Gold",
+    "Silver",
+    "Bronze",
+    "Emerald",
+    "Crimson",
+    "Azure",
+    "Ivory",
+    "Ebony",
+    "Platinum",
+    "Diamonds"
+  ]
+}

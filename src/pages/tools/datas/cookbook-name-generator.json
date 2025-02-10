@@ -1,0 +1,66 @@
+{
+  "name": "Cookbook Name Generator",
+  "description": "Stuck staring at a blank page, dreaming of culinary creations but lacking the perfect title? Fear not, aspiring chef! Our Cookbook Name Generator is here to spice up your life and give your recipes the catchy, mouth-watering moniker they deserve. Get ready to unleash your inner food-naming genius!",
+  "slug": "cookbook-name-generator",
+  "icon": "\ud83c\udf73",
+  "introduction": "Crafting a cookbook is a labor of love. But let's be honest, sometimes the hardest part is coming up with a name that's as delicious as the recipes inside. This generator is your secret ingredient for finding the perfect title that will have readers drooling before they even open the book. From whimsical to sophisticated, discover names that capture the essence of your culinary masterpiece.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic!",
+    "Feeling picky? Keep clicking until a name tickles your taste buds.",
+    "Want something truly unique? Mix and match the generated names or use them as inspiration to create your own culinary masterpiece!",
+    "Don't be afraid to get creative! Think about the theme, style, and personality of your cookbook and let the generator be your muse.",
+    "Share your favorite generated names with your fellow foodies and get their opinions. After all, a great title is best served with friends!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe everyone deserves a dash of inspiration, so this generator is 100% free to use."
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "Yes! Once you generate a name, it's yours to use for your cookbook, blog, or any other culinary project."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your hungry heart desires! There's no limit to the number of delicious names you can conjure up."
+    },
+    {
+      "question": "Will the generated names be copyrighted?",
+      "answer": "No, the generated names are not automatically copyrighted. You would need to take steps to trademark or copyright the name yourself if desired."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! The generator is designed to provide a wide variety of options. Alternatively, use the generated names as inspiration to brainstorm your own unique title."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Please feel free to contact us with your suggestions, and we'll consider adding them to the generator."
+    }
+  ],
+  "prefixes": [
+    "The Secret of",
+    "Cooking with",
+    "A Taste of",
+    "The Art of",
+    "My Favorite",
+    "Deliciously",
+    "Simply",
+    "Home-Style",
+    "Authentic",
+    "Quick & Easy",
+    "The Ultimate Guide to"
+  ],
+  "suffixes": [
+    "Recipes",
+    "Dishes",
+    "Cuisine",
+    "Flavors",
+    "Meals",
+    "Treats",
+    "Delights",
+    "Creations",
+    "Adventures",
+    "Secrets",
+    "Classics"
+  ]
+}

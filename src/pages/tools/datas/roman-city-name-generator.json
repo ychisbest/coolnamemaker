@@ -1,0 +1,74 @@
+{
+  "name": "Roman City Name Generator",
+  "description": "Craving a touch of ancient glory for your next creative project? Need a regal name for your virtual empire? Our Roman City Name Generator conjures up evocative names fit for emperors and epic tales! Ditch the dullsville labels and embrace the grandeur of Rome!",
+  "slug": "roman-city-name-generator",
+  "icon": "\ud83c\udfdb\ufe0f",
+  "introduction": "From the seven hills to legendary legions, Rome has always been synonymous with power, sophistication, and timeless appeal. This generator taps into the heart of Roman nomenclature, blending history with a dash of imagination to deliver names that resonate with authority and intrigue. Get ready to christen your digital domain with names worthy of Caesar himself!",
+  "howToUse": [
+    "1. Gaze upon the majestic button labeled 'Generate'. (It's quite impressive, really.)",
+    "2. Click it! (Yes, just once is enough. Unless you want *more* awesome names.)",
+    "3. Behold! A brand new Roman city name, ready to conquer hearts and minds.",
+    "4. Not feeling it? No problem! Click again for another dose of Roman awesomeness.",
+    "5. Copy and paste your chosen name into your project and bask in the glory of your newfound creativity. Pro Tip: Add a dramatic Latin flourish for extra flair!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually Roman? Like, did Caesar write the code?",
+      "answer": "While we can't confirm Caesar's involvement (he's a bit busy with the afterlife), we've meticulously researched Roman naming conventions to ensure authenticity and a sprinkle of creative license."
+    },
+    {
+      "question": "Can I use these names for my fantasy novel?",
+      "answer": "Absolutely! These names are perfect for adding a touch of Roman flair to any fantasy world, historical fiction, or even a futuristic space empire. The possibilities are as vast as the Roman Empire itself!"
+    },
+    {
+      "question": "Are the generated names historically accurate?",
+      "answer": "We strive for historical plausibility, drawing inspiration from real Roman city names, mythology, and Latin vocabulary. However, we also inject a bit of creative license to ensure unique and memorable results. Think of it as 'historically inspired' rather than a strict historical record."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Yes, you are free to use the generated names for any commercial or non-commercial project. Go forth and conquer the marketplace with your awesome Roman city name!"
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! There's no limit to the Roman glory you can unlock. Click away until you find the perfect name that resonates with your vision."
+    },
+    {
+      "question": "Will this generator help me learn Latin?",
+      "answer": "While it won't teach you the entire language, it might pique your interest in Latin and Roman history! Consider it a gateway to a fascinating world of language and culture. Plus, you'll sound incredibly sophisticated when you casually drop a 'Senatus Populusque Romanus' into conversation."
+    }
+  ],
+  "prefixes": [
+    "Nova",
+    "Augusta",
+    "Colonia",
+    "Julia",
+    "Flavia",
+    "Traiana",
+    "Hadriana",
+    "Aelia",
+    "Ulpia",
+    "Aurelia",
+    "Romula",
+    "Prima",
+    "Secunda",
+    "Tertia",
+    "Quadrata"
+  ],
+  "suffixes": [
+    "Roma",
+    "Forum",
+    "Magna",
+    "Felix",
+    "Aeterna",
+    "Urbs",
+    "Civitas",
+    "Castrum",
+    "Oppidum",
+    "Portus",
+    "Mons",
+    "Silva",
+    "Aqua",
+    "Fluvium",
+    "Vallum"
+  ]
+}

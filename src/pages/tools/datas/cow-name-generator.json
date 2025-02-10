@@ -1,0 +1,86 @@
+{
+  "name": "Cow Name Generator",
+  "description": "Moo-ve over, boring names! Our Cow Name Generator is here to help you find the perfect moniker for your bovine buddy. Whether you're naming a prize-winning heifer or just want a laugh, we've got you covered!",
+  "slug": "cow-name-generator",
+  "icon": "\ud83d\udc04",
+  "introduction": "Tired of calling your cow 'Cow'? Does 'Bossy' just not cut it? Then you've stumbled upon the right pasture! Our Cow Name Generator blends the best of bovine puns, farm-fresh humor, and classic cow characteristics to create names that are udderly amazing. Get ready to milk this generator for all it's worth!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen!",
+    "Don't like the first result? Keep clicking! We've got enough names to fill a whole herd.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create your own unique cow name masterpiece.",
+    "Share your favorite names with your friends and family. Let them in on the fun!",
+    "Remember, naming your cow should be fun! Don't take it too seriously, unless you're entering her in a beauty pageant. Then, you know, maybe a little seriousness is warranted."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe everyone deserves access to amazing cow names, without spending a single moo-lah."
+    },
+    {
+      "question": "Can I use these names for other animals?",
+      "answer": "While designed for cows, feel free to get creative! Some names might work for other farm animals, or even your pets. We won't judge (much)."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! There's no limit to the bovine brilliance you can uncover."
+    },
+    {
+      "question": "Are the names generated appropriate for all ages?",
+      "answer": "We strive to keep our names family-friendly. However, humor is subjective, so always use your best judgment."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions, and we might just add them to the generator."
+    },
+    {
+      "question": "Will naming my cow affect her milk production?",
+      "answer": "While we can't guarantee increased milk production, a happy cow is a productive cow! A great name might just put a spring in her step (or a moo in her voice)."
+    }
+  ],
+  "prefixes": [
+    "Daisy",
+    "Butter",
+    "Moo",
+    "Clara",
+    "Bossy",
+    "Patches",
+    "Cookie",
+    "Oreo",
+    "Bessie",
+    "Milky",
+    "Cow",
+    "Hoofy",
+    "Udderly",
+    "Angus",
+    "Beefy",
+    "Sir Loin",
+    "Steak",
+    "Filet",
+    "Ribeye",
+    "Chuck",
+    "Round"
+  ],
+  "suffixes": [
+    "bell",
+    "ella",
+    "ly",
+    "face",
+    "tail",
+    "shine",
+    "moo",
+    "pie",
+    "Lou",
+    "Bob",
+    "Jr",
+    "the Third",
+    "ton",
+    "saurus",
+    "zilla",
+    "corn",
+    "field",
+    "top",
+    "burger",
+    "steak",
+    "son"
+  ]
+}

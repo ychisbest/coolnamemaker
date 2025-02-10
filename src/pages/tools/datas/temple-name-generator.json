@@ -1,0 +1,120 @@
+{
+  "name": "Temple Name Generator",
+  "description": "Unearth the perfect moniker for your sacred space! Whether you're starting a new spiritual community, writing a fantasy novel, or just need a cool name for your meditation corner, this generator will help you find a name that resonates with power and mystique.",
+  "slug": "temple-name-generator",
+  "icon": "\u26e9\ufe0f",
+  "introduction": "Seeking a name that whispers of ancient wisdom and divine presence? Look no further! Our Temple Name Generator blends the mystical with the memorable, crafting names that evoke feelings of reverence, tranquility, and awe. Prepare to be inspired!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the emergence of a brand new temple name!",
+    "Not feeling the vibe? Click again! We've got more names than monks have mantras.",
+    "Want a name that's truly unique? Mix and match different prefixes and suffixes until you find the perfect combination.",
+    "Once you've discovered the ideal name, copy it and share it with the world (or just your inner circle of enlightened beings).",
+    "Remember, the best temple name is one that speaks to your soul. So trust your intuition and have fun!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "Our generator conjures names inspired by various spiritual traditions, ancient cultures, and fantastical realms. Expect to find names that sound wise, powerful, and maybe a little bit magical."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once you've generated a name you love, it's all yours to use for your temple, organization, book, game, or anything else you can imagine. Just remember to check for trademark availability if you plan to use it for a business."
+    },
+    {
+      "question": "Are the generated names actually meaningful?",
+      "answer": "While the generator combines elements to create unique names, the 'meaning' is ultimately what *you* give it. Let the name resonate with your vision and values, and it will become meaningful in its own right!"
+    },
+    {
+      "question": "How often is the generator updated with new prefixes and suffixes?",
+      "answer": "We're constantly expanding our lexicon of spiritual and mystical terms! We aim to update the generator regularly with fresh inspiration to keep the names flowing."
+    },
+    {
+      "question": "I generated a name I really like, but it's already taken. What should I do?",
+      "answer": "Don't despair! Try tweaking the name slightly, or use it as inspiration to brainstorm something even better. Sometimes a near miss can lead to a stroke of genius!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Please send us your suggestions through the contact form on our website. We're always looking for ways to improve the generator and make it even more awesome."
+    }
+  ],
+  "prefixes": [
+    "Sun",
+    "Moon",
+    "Star",
+    "Sky",
+    "Earth",
+    "Stone",
+    "Jade",
+    "Crystal",
+    "Lotus",
+    "Serene",
+    "Sacred",
+    "Ancient",
+    "Eternal",
+    "Whispering",
+    "Golden",
+    "Silver",
+    "Shadow",
+    "Light",
+    "Dragon",
+    "Phoenix",
+    "Zen",
+    "Karma",
+    "Dharma",
+    "Nirvana",
+    "Celestial",
+    "Astral",
+    "Mystic",
+    "Silent",
+    "Divine",
+    "Inner",
+    "Great",
+    "High",
+    "Pure",
+    "True",
+    "First",
+    "Last",
+    "New",
+    "Old"
+  ],
+  "suffixes": [
+    "haven",
+    "sanctuary",
+    "grove",
+    "peak",
+    "valley",
+    "garden",
+    "gate",
+    "path",
+    "realm",
+    "domain",
+    "abode",
+    "retreat",
+    "center",
+    "circle",
+    "house",
+    "hall",
+    "court",
+    "spire",
+    "crest",
+    "watch",
+    "song",
+    "heart",
+    "soul",
+    "spirit",
+    "mind",
+    "wisdom",
+    "grace",
+    "peace",
+    "joy",
+    "hope",
+    "truth",
+    "light",
+    "shadow",
+    "dream",
+    "vision",
+    "source",
+    "way",
+    "life"
+  ]
+}

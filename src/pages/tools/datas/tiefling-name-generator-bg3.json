@@ -1,0 +1,97 @@
+{
+  "name": "Tiefling Name Generator BG3",
+  "description": "Struggling to find the perfect moniker for your charismatic (or chaotic) Tiefling in Baldur's Gate 3? Fear not, adventurer! Our Tiefling Name Generator is here to banish naming woes and conjure up names worthy of the Nine Hells (or at least a really good party).",
+  "slug": "tiefling-name-generator-bg3",
+  "icon": "\ud83d\ude08",
+  "introduction": "Tieflings, with their infernal heritage, deserve names as striking and unique as their horns and tails. Whether you're roleplaying a noble Asmodean Tiefling or a street-smart Zariel Tiefling, the right name can make all the difference. This generator blends lore-friendly options with creative twists, ensuring your BG3 Tiefling stands out from the crowd.",
+  "howToUse": [
+    "First, take a deep breath and embrace your inner devilishness (it helps, trust us).",
+    "Click the \"Generate\" button. Prepare to be amazed (or mildly amused, but hopefully amazed).",
+    "Browse the generated names. See one you like? Snatch it up! Don't like any? Click \"Generate\" again! We have endless names at your service.",
+    "Feeling fancy? Mix and match prefixes and suffixes to create a truly unique name. We encourage experimentation!",
+    "Once you've found the perfect name, write it down (or copy and paste it, we're not judging). Your Tiefling is now ready to conquer Baldur's Gate!",
+    "Pro tip: say the name out loud. Does it sound cool? Does it feel right? If yes, congratulations! If not, back to the generator!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names lore-accurate for Tieflings in Baldur's Gate 3?",
+      "answer": "We've done our best to incorporate common naming conventions for Tieflings as established in D&D lore and Baldur's Gate 3. While some names are directly inspired by existing characters and lore, others offer a more creative and unique take."
+    },
+    {
+      "question": "Can I use these names for other D&D campaigns?",
+      "answer": "Absolutely! Tiefling names are pretty universal. This generator works perfectly for any D&D setting, Pathfinder, or even your own original fantasy world."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as you want! There's no limit. Keep clicking until you find the perfect name, or until your computer explodes (we're not responsible for computer explosions)."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "That's perfectly fine! Naming is a personal thing. Try adjusting the prefixes and suffixes, or simply hit the generate button again. Eventually, you'll find a name that resonates with you."
+    },
+    {
+      "question": "Are the names gender-neutral?",
+      "answer": "We've included a variety of names suitable for both male and female Tieflings. Some names are inherently more masculine or feminine, but feel free to use whatever name you like best, regardless of gender."
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love to hear your suggestions! Please contact us through our website, coolnamemaker.com, and we'll consider adding your ideas to the generator."
+    }
+  ],
+  "prefixes": [
+    "Akmenos",
+    "Bryseis",
+    "Criella",
+    "Damakos",
+    "Feron",
+    "Griselda",
+    "Heron",
+    "Iados",
+    "Kallista",
+    "Lavantos",
+    "Mordai",
+    "Nimos",
+    "Palaios",
+    "Remora",
+    "Saros",
+    "Tekri",
+    "Vallak",
+    "Xerxes",
+    "Zethus",
+    "Inferna",
+    "Shadow",
+    "Crimson",
+    "Obsidian",
+    "Night",
+    "Ember",
+    "Soul",
+    "Iron",
+    "Blood",
+    "Abyssal"
+  ],
+  "suffixes": [
+    "ia",
+    "os",
+    "el",
+    "is",
+    "on",
+    "ar",
+    "iel",
+    "ys",
+    "ax",
+    "yr",
+    "eth",
+    "iel",
+    "astra",
+    "shade",
+    "bane",
+    "claw",
+    "heart",
+    "strike",
+    "whisper",
+    "song",
+    "fire",
+    "thorn",
+    "veil"
+  ]
+}

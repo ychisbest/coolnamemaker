@@ -1,0 +1,84 @@
+{
+  "name": "eGirl Name Generator",
+  "description": "Ready to unleash your inner eGirl icon? Our eGirl Name Generator is here to conjure up the perfect moniker that screams 'internet royalty' and 'aesthetic vibes'. Get ready to slay the digital world with a name that's as unique and captivating as you are!",
+  "slug": "egirl-name-generator",
+  "icon": "\ud83d\udc96",
+  "introduction": "Forget basic! This isn't your grandma's name generator. We're diving deep into the world of glitter, neon lights, and unapologetic self-expression. Whether you're a seasoned streamer, a TikTok superstar in the making, or just looking to spice up your online persona, our eGirl Name Generator is your secret weapon. Prepare to be amazed by the endless possibilities!",
+  "howToUse": [
+    "First, take a deep breath and embrace your inner kawaii.",
+    "Then, simply click the 'Generate' button. (It's the one that looks like pure magic!)",
+    "BAM! A brand-new, totally rad eGirl name will appear before your very eyes.",
+    "Don't like it? No problem! Click again and again until you find the name that perfectly captures your sparkling personality.",
+    "Finally, unleash your new name upon the world and watch the followers flock to you! (Okay, maybe that's a *slight* exaggeration, but you'll definitely feel cooler.)"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* an eGirl?",
+      "answer": "An eGirl (or eBoy) is a style and subculture popularized online, often characterized by distinctive makeup, fashion, and a strong online presence. Think alternative fashion, anime influences, and a whole lot of attitude!"
+    },
+    {
+      "question": "Can I use these names for other things besides my online persona?",
+      "answer": "Absolutely! Use them for characters in your stories, inspiration for your art, or even just to impress your friends with your knowledge of internet culture. The possibilities are endless!"
+    },
+    {
+      "question": "Are these names actually unique, or will everyone else have the same one?",
+      "answer": "Our generator uses a vast library of prefixes and suffixes, so while there's always a *tiny* chance of overlap, the vast majority of names will be totally unique to you!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You betcha! Generate as many eGirl names as your heart desires. It's our gift to the internet!"
+    },
+    {
+      "question": "I generated a name I really like! Can I save it somewhere?",
+      "answer": "Of course! Just copy and paste your favorite names into a document, note app, or even write them down on a sparkly piece of paper. We won't judge!"
+    },
+    {
+      "question": "Will using an eGirl name from this generator automatically make me internet famous?",
+      "answer": "While we can't guarantee instant fame (sorry!), having a cool and memorable name is definitely a step in the right direction. The rest is up to you and your amazing content!"
+    }
+  ],
+  "prefixes": [
+    "Sparkle",
+    "Kawaii",
+    "Neon",
+    "Gloom",
+    "Cyber",
+    "Pixel",
+    "Glitch",
+    "Dream",
+    "Toxic",
+    "Pastel",
+    "Crimson",
+    "Midnight",
+    "Starlight",
+    "Bubblegum",
+    "Static",
+    "Vapor",
+    "Synth",
+    "Riot",
+    "Zero",
+    "Nova"
+  ],
+  "suffixes": [
+    "Chan",
+    "Core",
+    "Wave",
+    "Goth",
+    "Kitten",
+    "Bunny",
+    "Angel",
+    "Demon",
+    "Queen",
+    "Princess",
+    "Riot",
+    "Byte",
+    "Error",
+    "Pop",
+    "Lover",
+    "Addict",
+    "Doll",
+    "Vixen",
+    "Witch",
+    "Void"
+  ]
+}

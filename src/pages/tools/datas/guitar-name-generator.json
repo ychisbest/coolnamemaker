@@ -1,0 +1,83 @@
+{
+  "name": "Guitar Name Generator",
+  "description": "Strumming for the perfect name? Our Guitar Name Generator crafts cool, catchy, and unforgettable monikers for your beloved axe! Ditch the generic and find a name that truly resonates with its soul.",
+  "slug": "guitar-name-generator",
+  "icon": "\ud83c\udfb8",
+  "introduction": "So, you've got a guitar. Maybe it's a vintage beauty, a shredding machine, or a trusty acoustic. But does it have a NAME? A *cool* name? Don't let your six-string superstar languish with a boring label. Our Guitar Name Generator is here to unleash a symphony of awesome names, guaranteed to make your guitar the envy of every jam session.",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new, totally rad guitar name appears!",
+    "Don't like the first one? Keep clicking! We've got an endless supply of awesomeness waiting to be discovered.",
+    "Feeling creative? Tweak the prefixes and suffixes to craft a truly unique name that perfectly captures your guitar's vibe.",
+    "Once you find the perfect name, write it down, paint it on, shout it from the rooftops! Your guitar deserves to be recognized!"
+  ],
+  "faqs": [
+    {
+      "question": "Why does my guitar need a name?",
+      "answer": "Why does a superhero need a costume? A name gives your guitar personality, makes it feel special, and lets you bond with it on a whole new level. Plus, it's just plain cool!"
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "Absolutely! If you're naming a guitar brand, a song, or anything else guitar-related, feel free to use the generated names. We're here to inspire your creativity!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! We have a vast library of prefixes and suffixes, ensuring endless possibilities. Or, use them as inspiration to come up with your own unique name!"
+    },
+    {
+      "question": "Is this generator really free?",
+      "answer": "You betcha! We're all about spreading the love of music and awesome guitar names. Use it as much as you like, no strings attached (pun intended!)."
+    },
+    {
+      "question": "Will naming my guitar make me a better player?",
+      "answer": "While we can't guarantee instant virtuosity, a cool name can certainly boost your confidence and inspire you to play more! Think of it as a sonic mojo upgrade."
+    },
+    {
+      "question": "Can I suggest prefixes and suffixes for the generator?",
+      "answer": "We'd love that! Send us your suggestions, and we'll consider adding them to our database to make the generator even more awesome."
+    }
+  ],
+  "prefixes": [
+    "Rock",
+    "Metal",
+    "Blues",
+    "Acoustic",
+    "Electric",
+    "Shred",
+    "Vintage",
+    "Cosmic",
+    "Mystic",
+    "Crimson",
+    "Midnight",
+    "Golden",
+    "Silver",
+    "Steel",
+    "Thunder",
+    "Shadow",
+    "Phoenix",
+    "Dragon",
+    "Wizard",
+    "Sonic"
+  ],
+  "suffixes": [
+    "Slayer",
+    "Master",
+    "King",
+    "Queen",
+    "Fury",
+    "Storm",
+    "Blaze",
+    "Rider",
+    "Hawk",
+    "Viper",
+    "Angel",
+    "Demon",
+    "Ghost",
+    "Phantom",
+    "Warrior",
+    "Rebel",
+    "Star",
+    "Nova",
+    "Comet",
+    "Echo"
+  ]
+}

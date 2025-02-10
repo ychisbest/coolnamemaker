@@ -1,0 +1,96 @@
+{
+  "name": "Grandparent Name Generator",
+  "description": "Struggling to find the perfect grandparent name that isn't 'Grandma' or 'Grandpa'? Our generator is here to sprinkle some magic and find a moniker that's as unique and awesome as the grandparent themselves! Get ready for some seriously cool grandparent names!",
+  "slug": "grandparent-name-generator",
+  "icon": "\ud83d\udc75\ud83d\udc74",
+  "introduction": "Let's face it, 'Grandma' and 'Grandpa' are a little...basic. Your parents deserve a name that reflects their awesomeness! Whether they're the adventurous type, the master chef, or the storyteller extraordinaire, we'll help you find the perfect grandparent name to match their personality. Prepare for some serious name envy from all the other grandparents!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the grandparent name glory!",
+    "Don't like the first result? Keep clicking! The possibilities are endless (almost!).",
+    "Found the perfect name? Share it with the expectant parents (or grandparents-to-be) and prepare for a flood of happy tears (maybe!).",
+    "Pro Tip: Consider the grandparent's hobbies, personality, and maybe even their favorite food when deciding if a name 'fits'.",
+    "And remember, the most important thing is that the grandparent loves the name!"
+  ],
+  "faqs": [
+    {
+      "question": "Why do I need a grandparent name generator?",
+      "answer": "Because 'Grandma' and 'Grandpa' are so last century! Give your parents a name that's as unique and special as they are. Plus, it's fun!"
+    },
+    {
+      "question": "Can I use these names for anything else?",
+      "answer": "Absolutely! Use them for pet names, nicknames, or even your next band name. The possibilities are endless (as long as it's not offensive, of course!)."
+    },
+    {
+      "question": "What if my parents don't like the names?",
+      "answer": "Well, that's a bummer. But hey, you tried! Show them the generator and let them pick their own. Consider it a bonding experience."
+    },
+    {
+      "question": "Are these names AI-generated?",
+      "answer": "Yes, but they are crafted with a touch of human creativity to avoid sounding too robotic. We aim for cool, not creepy!"
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly adding new names and combinations to keep things fresh and exciting! Check back often for new grandparent name inspiration."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You betcha! Use it as much as you like, spread the grandparent name love, and tell your friends!"
+    }
+  ],
+  "prefixes": [
+    "Papa",
+    "Mama",
+    "Gramps",
+    "Gran",
+    "Gigi",
+    "Nonno",
+    "Nonni",
+    "Oma",
+    "Opa",
+    "Baba",
+    "Pop",
+    "Mimi",
+    "Chief",
+    "Queen",
+    "King",
+    "Captain",
+    "Ace",
+    "Cool",
+    "Super",
+    "Big",
+    "Little",
+    "Wise",
+    "Old",
+    "Young",
+    "Sweet",
+    "Happy"
+  ],
+  "suffixes": [
+    "Bear",
+    "Bird",
+    "Fox",
+    "Wolf",
+    "Star",
+    "Moon",
+    "Sunshine",
+    "River",
+    "Stone",
+    "Sky",
+    "Cloud",
+    "Flower",
+    "Tree",
+    "Bean",
+    "Spark",
+    "Champ",
+    "Buddy",
+    "Pal",
+    "Dude",
+    "Gal",
+    "Boss",
+    "Magic",
+    "Wonder",
+    "Joy",
+    "Lucky",
+    "Charm"
+  ]
+}

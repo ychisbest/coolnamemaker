@@ -1,0 +1,82 @@
+{
+  "name": "Mob Boss Name Generator",
+  "description": "Need a moniker that commands respect (and maybe a little fear)? Our Mob Boss Name Generator crafts the perfect alias for your underworld empire. From 'Tony Two-Fingers' to 'Mama Rosa,' find a name that's both intimidating and unforgettable.",
+  "slug": "mob-boss-name-generator",
+  "icon": "\ud83d\udcbc",
+  "introduction": "So, you're looking to climb the ranks, eh? Every aspiring capo needs a name that sticks. Something that whispers power and hints at a past best left undisturbed. Our Mob Boss Name Generator is your shortcut to instant credibility in the... ahem... *business world*.  Forget 'John Smith,' embrace 'Vinny the Shiv'!",
+  "howToUse": [
+    "Click the 'Generate' button.  It's like shaking down a snitch, but way less messy.",
+    "Marvel at the sheer audacity of your new Mob Boss name.",
+    "Repeat until you find the perfect name that screams, 'Don't mess with me!'",
+    "Optional: Practice your menacing glare in the mirror. It helps sell the name.",
+    "Profit! (Figuratively, of course.  We wouldn't *actually* encourage illegal activities... wink wink.)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator *actually* going to make me a Mob Boss?",
+      "answer": "Highly unlikely. We provide the name; you're responsible for the... *implementation* of your business plan. (We strongly advise against engaging in illegal activities.)"
+    },
+    {
+      "question": "Can I use this name for my Dungeons & Dragons character?",
+      "answer": "Absolutely! 'Big Sal' would make an excellent rogue or even a surprisingly effective paladin."
+    },
+    {
+      "question": "Are these names copyrighted?",
+      "answer": "Nope! They're all yours to use (or abuse). Just don't blame us if someone else is already using 'Frankie Knuckles' as their DJ name."
+    },
+    {
+      "question": "What if I don't like the name it generates?",
+      "answer": "Hit that 'Generate' button again, my friend! We've got more names than there are rats in the city sewers."
+    },
+    {
+      "question": "Is this generator safe to use?",
+      "answer": "This generator is perfectly safe to use. We don't collect any personal information."
+    },
+    {
+      "question": "Can I use this generator to name my pet hamster?",
+      "answer": "You *could*, but 'Tony Squeaks' might be a bit much for a hamster.  Then again, it depends on the hamster."
+    }
+  ],
+  "prefixes": [
+    "Big",
+    "Little",
+    "Tony",
+    "Vinny",
+    "Frankie",
+    "Sal",
+    "Mama",
+    "Papa",
+    "The Butcher",
+    "The Enforcer",
+    "Ice",
+    "Razor",
+    "Silky",
+    "Fingers",
+    "Knuckles",
+    "Lips",
+    "The Hammer",
+    "The Shadow",
+    "Whispering"
+  ],
+  "suffixes": [
+    "Two-Fingers",
+    "The Shiv",
+    "Knuckles",
+    "The Hammer",
+    "Ice",
+    "Silky",
+    "The Lip",
+    "The Rat",
+    "The Shark",
+    "The Boss",
+    "The Don",
+    "The Cleaner",
+    "The Fixer",
+    "The Shadow",
+    "The Blade",
+    "The Voice",
+    "The Ghost",
+    "The Professor",
+    "The Artist"
+  ]
+}

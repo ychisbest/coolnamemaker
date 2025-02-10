@@ -1,0 +1,82 @@
+{
+  "name": "Attack on Titan Name Generator",
+  "description": "Ready to join the Survey Corps? Find out your epic Attack on Titan name and prepare to face the Titans! Whether you're a brave soldier or a cunning strategist, this generator will give you the perfect moniker for your AoT adventure.",
+  "slug": "attack-on-titan-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Ever wondered what your name would be in the world of Attack on Titan? This generator combines the grit, drama, and sheer awesomeness of the series to give you a name worthy of fighting Titans! Prepare to be amazed... and maybe a little scared.",
+  "howToUse": [
+    "Simply click the 'Generate' button, you brave soul!",
+    "Behold your new Attack on Titan name \u2013 a name whispered in fear by Titans (probably).",
+    "Share your epic name with your friends and form your own Survey Corps squad!",
+    "Repeat as many times as you like \u2013 who knows what other identities await you?"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually endorsed by the Survey Corps?",
+      "answer": "While we admire their bravery, sadly, no. But our names are Titan-approved (unofficially, of course)."
+    },
+    {
+      "question": "Can I use this name in my Attack on Titan fan fiction?",
+      "answer": "Absolutely! Unleash your creativity! Just promise to give us a shoutout when you become a literary legend."
+    },
+    {
+      "question": "What if I don't like the name I get?",
+      "answer": "Click 'Generate' again! Destiny isn't always right the first time. Keep going until you find the name that resonates with your inner Titan-slaying hero."
+    },
+    {
+      "question": "Will this generator protect me from Titans?",
+      "answer": "Unfortunately, no. But a cool name might intimidate them... maybe. We recommend also investing in some ODM gear."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Completely free! Our gift to humanity in the fight against the Titans. Now go forth and claim your destiny!"
+    },
+    {
+      "question": "Can I get a Titan name instead of a human name?",
+      "answer": "While this generator focuses on human names, feel free to get creative and imagine what your Titan form's name would be! We believe in your imagination!"
+    }
+  ],
+  "prefixes": [
+    "Eren",
+    "Mikasa",
+    "Armin",
+    "Levi",
+    "Hange",
+    "Erwin",
+    "Sasha",
+    "Conny",
+    "Jean",
+    "Reiner",
+    "Bertholdt",
+    "Annie",
+    "Ymir",
+    "Historia",
+    "Zeke",
+    "Gabi",
+    "Falco",
+    "Pieck",
+    "Porco"
+  ],
+  "suffixes": [
+    "Yeager",
+    "Ackerman",
+    "Arlert",
+    "Smith",
+    "Braus",
+    "Springer",
+    "Kirschtein",
+    "Braun",
+    "Hoover",
+    "Leonhart",
+    "Fritz",
+    "Reiss",
+    "Jeager",
+    "Galliard",
+    "Finger",
+    "Magath",
+    "Blouse",
+    "Ral",
+    "Zacharias",
+    "Pixis"
+  ]
+}

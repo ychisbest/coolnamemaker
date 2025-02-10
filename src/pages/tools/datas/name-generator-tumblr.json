@@ -1,0 +1,92 @@
+{
+  "name": "Tumblr Name Generator",
+  "description": "Stuck in a Tumblr void? Let's conjure up the perfect username that screams *you* (but, like, a cooler, more mysterious you).",
+  "slug": "tumblr-name-generator",
+  "icon": "\ud83d\udd2e",
+  "introduction": "Ready to ditch that embarrassing old Tumblr handle? Our generator is your secret weapon for crafting a username that's equal parts catchy, quirky, and totally Tumblr-worthy. Whether you're aiming for aesthetic vibes, meme-lord status, or just something that doesn't make you cringe, we've got you covered. Prepare to unleash your inner internet alter-ego!",
+  "howToUse": [
+    "First, take a deep breath and embrace the chaos that is Tumblr.",
+    "Next, hit that 'Generate' button like you're summoning a demon (a *cool* demon, obviously).",
+    "Scroll through the glorious results until you find a name that makes your heart sing (or at least doesn't make you want to hide under a rock).",
+    "If you're feeling adventurous, tweak the generated names to perfection. Add a dash of your own personality, a sprinkle of inside jokes, and a whole lotta sass.",
+    "Finally, claim your new Tumblr identity and prepare to dominate the dashboard. You're welcome."
+  ],
+  "faqs": [
+    {
+      "question": "Will this generator make me Tumblr famous?",
+      "answer": "While we can't guarantee overnight fame, a killer username is definitely a step in the right direction! Think of it as the foundation for your internet empire."
+    },
+    {
+      "question": "Can I use these names for other platforms besides Tumblr?",
+      "answer": "Absolutely! These names are versatile enough for any corner of the internet. Use them for Twitter, Instagram, your next D&D character \u2013 the possibilities are endless!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Don't fret! Just keep hitting that 'Generate' button. The algorithm gods are fickle, but eventually, they'll bless you with the perfect name. Or, you know, try tweaking the existing ones. Get creative!"
+    },
+    {
+      "question": "Are these names actually available on Tumblr?",
+      "answer": "We can't guarantee it (Tumblr is a wild place), but we try our best to generate unique and available names. Always double-check before you commit!"
+    },
+    {
+      "question": "Is this generator powered by magic?",
+      "answer": "Let's just say it involves a complex algorithm, a dash of internet pixie dust, and a whole lot of caffeine. So, yeah, pretty much magic."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We're always open to suggestions! Hit us up with your ideas \u2013 the more weird and wonderful, the better."
+    }
+  ],
+  "prefixes": [
+    "Cosmic",
+    "Ephemeral",
+    "Dreamy",
+    "Pixelated",
+    "Vaporwave",
+    "Synthwave",
+    "Retro",
+    "Lofi",
+    "Gothic",
+    "Cyberpunk",
+    "Noir",
+    "Vintage",
+    "Aesthetic",
+    "Glitched",
+    "Static",
+    "Rogue",
+    "Wandering",
+    "Lost",
+    "Silent",
+    "Neon",
+    "Pastel",
+    "Iridescent",
+    "Melancholy",
+    "Ethereal"
+  ],
+  "suffixes": [
+    "Vibes",
+    "Dreams",
+    "Aura",
+    "Echoes",
+    "Signals",
+    "Waves",
+    "Nights",
+    "Skies",
+    "Stars",
+    "Specter",
+    "Phantom",
+    "Enigma",
+    "Rhapsody",
+    "Serenade",
+    "Odyssey",
+    "Horizon",
+    "Voyager",
+    "Wanderer",
+    "Nomad",
+    "Solitude",
+    "Muse",
+    "Symphony",
+    "Melody",
+    "Whispers"
+  ]
+}

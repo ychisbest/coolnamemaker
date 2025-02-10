@@ -1,0 +1,82 @@
+{
+  "name": "Russian Girl Name Generator",
+  "description": "Need a name that screams 'mysterious Russian spy' or 'ballet prodigy'? Our Russian Girl Name Generator is here to help! We'll conjure up the perfect moniker for your character, baby, or even your new pet hamster. Get ready for a name that's as captivating as a snowy Siberian landscape!",
+  "slug": "russian-name-generator-girl",
+  "icon": "\ud83c\uddf7\ud83c\uddfa",
+  "introduction": "Da! You've arrived at the ultimate destination for crafting authentic-sounding Russian girl names. Whether you're writing a novel, naming a character in your game, or simply looking for a unique and beautiful name, our generator blends traditional Russian elements with a touch of modern flair. Prepare to be amazed!",
+  "howToUse": [
+    "Click the 'Generate' button. That's it! Seriously, it's easier than making borscht (though borscht is pretty awesome).",
+    "Keep clicking until you find a name that makes your heart sing (or at least doesn't sound like a washing machine).",
+    "Copy and paste your favorite name. Now go forth and conquer the world (or at least your social media feed) with your newfound Russian identity!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually Russian?",
+      "answer": "Absolutely! We've scoured the internet (and consulted with a few babushkas) to ensure our names are rooted in Russian tradition and culture. While some may have a modern twist, they all have that authentic Russian feel."
+    },
+    {
+      "question": "Can I use these names for my book/game/role-playing character?",
+      "answer": "Absolutely! Feel free to use them for any creative project you have in mind. No attribution needed, but we appreciate a shoutout if you love the names!"
+    },
+    {
+      "question": "Will these names bring me good luck?",
+      "answer": "While we can't promise riches or fame, a great name is a fantastic start! It certainly adds a touch of mystique and charm to your persona."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Don't despair! Our generator has an extensive database of names. Just keep clicking, and you're bound to stumble upon the perfect one. If not, feel free to mix and match prefixes and suffixes for a unique creation!"
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love to hear your suggestions! Send us your favorite Russian girl names, and we'll add them to our consideration list. We're always striving to expand and improve our generator."
+    },
+    {
+      "question": "Are there any famous people with these names?",
+      "answer": "Absolutely! Many of these names have been borne by famous figures throughout Russian history and culture. Do a little research, and you might find some inspiring role models!"
+    }
+  ],
+  "prefixes": [
+    "Anastasia",
+    "Svetlana",
+    "Irina",
+    "Natalia",
+    "Tatiana",
+    "Yelena",
+    "Olga",
+    "Maria",
+    "Ekaterina",
+    "Anna",
+    "Alexandra",
+    "Darya",
+    "Sofia",
+    "Viktoria",
+    "Polina",
+    "Ksenia",
+    "Varvara",
+    "Alina",
+    "Margarita",
+    "Veronika"
+  ],
+  "suffixes": [
+    "ovna",
+    "skaya",
+    "ina",
+    "ova",
+    "yeva",
+    "evna",
+    "ovna",
+    "ovna",
+    "ovna",
+    "ovna",
+    "ovna",
+    "ovna",
+    "ovna",
+    "ovna",
+    "ovna",
+    "ovna",
+    "ovna",
+    "ovna",
+    "ovna",
+    "ovna"
+  ]
+}

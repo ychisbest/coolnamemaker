@@ -1,0 +1,73 @@
+{
+  "name": "Dark Angel Name Generator",
+  "description": "Unleash your inner celestial warrior with our Dark Angel Name Generator! Craft a name that whispers of shadows, strength, and ethereal beauty. Perfect for characters, stories, or just embracing your mysterious side.",
+  "slug": "dark-angel-name-generator",
+  "icon": "\ud83d\ude08",
+  "introduction": "Ever wondered what your name would be if you were a fallen angel? A guardian of the night? Now's your chance to find out! Our Dark Angel Name Generator conjures names that are both hauntingly beautiful and powerfully evocative. Prepare to be reborn in darkness... with style!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the birth of your dark angel identity!",
+    "Don't like what you see? No problem! Keep clicking until a name resonates with your soul.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a truly unique name.",
+    "Share your newfound name with the world (or keep it a delicious secret)!"
+  ],
+  "faqs": [
+    {
+      "question": "What makes a good Dark Angel name?",
+      "answer": "A good Dark Angel name typically evokes a sense of mystery, power, and ethereal beauty. Think of names that suggest shadows, ancient lore, or celestial origins. Bonus points for a touch of rebellious flair!"
+    },
+    {
+      "question": "Can I use these names for my characters?",
+      "answer": "Absolutely! That's what they're here for! Feel free to use these names for your stories, games, or any other creative project. Go forth and weave tales of darkness and light!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes! We use a combination of carefully curated prefixes and suffixes, then sprinkle in a dash of randomness to create unique and intriguing names every time."
+    },
+    {
+      "question": "Will I find my *real* Dark Angel name here?",
+      "answer": "Well, we can't guarantee that! But if you feel a strong connection to a particular name, maybe it's a sign... or just a really cool coincidence. \ud83d\ude09"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions, and we might just add them to the generator. Help us spread the darkness... creatively!"
+    },
+    {
+      "question": "Is this generator really free?",
+      "answer": "Yes, it's completely free! Use it as much as you like, and spread the word. We just want to help you find the perfect name to unleash your inner Dark Angel."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Night",
+    "Dark",
+    "Ebony",
+    "Crimson",
+    "Seraph",
+    "Asmode",
+    "Nyx",
+    "Raven",
+    "Umbra",
+    "Luna",
+    "Void",
+    "Obsidian",
+    "Whisper",
+    "Silent"
+  ],
+  "suffixes": [
+    "iel",
+    "ella",
+    "iel",
+    "astra",
+    "ia",
+    "is",
+    "us",
+    "yx",
+    "ane",
+    "iel",
+    "eth",
+    "yth",
+    "yn",
+    "ora",
+    "essa"
+  ]
+}

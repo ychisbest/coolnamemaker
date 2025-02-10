@@ -1,0 +1,83 @@
+{
+  "name": "Cursed Names Generator",
+  "description": "Unleash the eerie and unsettling with our Cursed Names Generator! Perfect for villains, haunted houses, or just adding a touch of the macabre to your life. Dare to discover your dark side?",
+  "slug": "cursed-names-generator",
+  "icon": "\ud83d\udc7b",
+  "introduction": "Ever feel like your name just doesn't have that...edge? Yearning for a moniker that whispers of forgotten rituals and ancient evils? Look no further! Our Cursed Names Generator is here to conjure up the most delightfully dreadful names imaginable. Whether you're writing a horror novel, designing a villain for your next game, or simply want to spook your friends, we've got the perfect cursed name waiting to be unearthed.",
+  "howToUse": [
+    "Brace yourself! Click the 'Generate' button and prepare to be horrified...ly delighted.",
+    "Keep clicking! The generator will churn out a unique cursed name each time. Don't stop until you find the one that sends shivers down your spine.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft your own personalized curse.",
+    "Share the dread! Spread the cursed names far and wide. Let the world tremble before your newfound power (or at least be mildly amused)."
+  ],
+  "faqs": [
+    {
+      "question": "What makes a name 'cursed'?",
+      "answer": "Ah, that's the million-dollar question! Our generator uses a blend of dark imagery, historical references, and a dash of pure evil to create names that evoke a sense of unease and dread."
+    },
+    {
+      "question": "Can I actually curse someone with these names?",
+      "answer": "While we can't guarantee any actual cursing (sorry, not sorry), these names are sure to make an impression. Use them wisely...or unwisely, we're not your mom."
+    },
+    {
+      "question": "Are the names generated random?",
+      "answer": "Mostly! We use a carefully curated list of prefixes and suffixes, combined with a healthy dose of randomness, to ensure each name is unique and unsettling."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Feel free to use these names in your books, games, movies, or any other creative project. Just credit coolnamemaker.com if you're feeling generous (or cursed)."
+    },
+    {
+      "question": "What if I don't like the names generated?",
+      "answer": "Keep clicking! With infinite possibilities, you're bound to find a cursed name that resonates with your dark soul. And if not, well, maybe you're not as cursed as you thought."
+    },
+    {
+      "question": "Is this generator safe to use?",
+      "answer": "As safe as dabbling in the dark arts can be! We don't collect any personal data, so your secrets are safe with us...and the ancient spirits we consulted to build this thing."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Night",
+    "Grave",
+    "Doom",
+    "Blood",
+    "Wicked",
+    "Cursed",
+    "Rotten",
+    "Fallen",
+    "Ghastly",
+    "Marrow",
+    "Dread",
+    "Void",
+    "Abyssal",
+    "Phantom",
+    "Specter",
+    "Wraith",
+    "Blight",
+    "Venom",
+    "Morbid"
+  ],
+  "suffixes": [
+    "bane",
+    "shade",
+    "claw",
+    "fang",
+    "whisper",
+    "howl",
+    "tear",
+    "gore",
+    "soul",
+    "binder",
+    "bringer",
+    "fiend",
+    "spectre",
+    "geist",
+    "maw",
+    "rot",
+    "scythe",
+    "thorn",
+    "veil",
+    "shroud"
+  ]
+}

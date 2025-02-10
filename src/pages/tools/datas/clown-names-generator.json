@@ -1,0 +1,76 @@
+{
+  "name": "Clown Name Generator",
+  "description": "Ready to unleash your inner jester? This Clown Name Generator conjures up the silliest, goofiest, and most unforgettable clown names this side of the Big Top! Prepare for a name that's guaranteed to bring the laughs (and maybe a little bit of playful chaos).",
+  "slug": "clown-names-generator",
+  "icon": "\ud83e\udd21",
+  "introduction": "Step right up, folks! Tired of being just another face in the crowd? Yearning for a moniker that screams 'hilarious hijinks'? Our Clown Name Generator is your ticket to a world of wacky wordplay and sidesplitting silliness. Whether you're a seasoned circus performer, a budding birthday party entertainer, or just looking for a laugh, we've got the perfect clown name waiting for you. Get ready to clown around!",
+  "howToUse": [
+    "First, take a deep breath and embrace your inner goofball. Seriously, let it out!",
+    "Click that glorious 'Generate' button. Don't be shy, mash it!",
+    "Behold! A clown name so ridiculous, so utterly perfect, it'll make you snort with laughter (or at least crack a smile).",
+    "Not feeling it? Click again! We've got more clown names than you can shake a rubber chicken at.",
+    "Found 'the one'? Go forth and spread the joy (and maybe a little bit of harmless mayhem)!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe in spreading laughter far and wide, without charging a single penny. Consider it our gift to the world of clowning!"
+    },
+    {
+      "question": "Can I use these names for professional clowning?",
+      "answer": "You bet your oversized shoes you can! These names are yours to use as you wish. Just promise to bring the smiles!"
+    },
+    {
+      "question": "Are the names generated appropriate for children?",
+      "answer": "We strive to keep things lighthearted and fun, but some names might lean towards the slightly silly. Use your best judgement when sharing with younger audiences."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form, and we'll see if we can incorporate them."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep clicking! With so many possibilities, you're bound to find a name that tickles your funny bone. Or, you know, come up with your own \u2013 we're just here to spark your creativity!"
+    },
+    {
+      "question": "Will using this generator automatically make me a good clown?",
+      "answer": "While a great name is a fantastic start, remember that true clowning comes from the heart (and a healthy dose of slapstick). Practice your juggling, perfect your pie-throwing technique, and never underestimate the power of a well-timed honk!"
+    }
+  ],
+  "prefixes": [
+    "Waffles",
+    "Giggles",
+    "Squeaky",
+    "Professor",
+    "Bumbles",
+    "Captain",
+    "Zippo",
+    "Dizzy",
+    "Stumbles",
+    "Cheeky",
+    "Honkers",
+    "Loopy",
+    "Crinkle",
+    "Puddles",
+    "Tootsie",
+    "Whimsy"
+  ],
+  "suffixes": [
+    "McNoodle",
+    "Fuzzbottom",
+    "Snortington",
+    "Guffaw",
+    "Toot",
+    "Gigglepants",
+    "Wobble",
+    "Doodle",
+    "Noseworthy",
+    "Sprinkles",
+    "Zippity",
+    "Boom",
+    "Squiggle",
+    "Pop",
+    "Whizzbang",
+    "Sillypants"
+  ]
+}

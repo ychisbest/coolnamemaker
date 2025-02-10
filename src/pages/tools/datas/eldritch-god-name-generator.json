@@ -1,0 +1,113 @@
+{
+  "name": "Eldritch God Name Generator",
+  "description": "Unleash the cosmic horror within! Generate names that would make even Cthulhu shudder. Perfect for your next RPG character, novel, or just for summoning ancient beings from beyond the stars.",
+  "slug": "eldritch-god-name-generator",
+  "icon": "\ud83d\udc19",
+  "introduction": "Dare to gaze into the abyss? This Eldritch God Name Generator is your portal to the unimaginable. Craft names dripping with cosmic dread, hinting at powers beyond human comprehension. Invoke the ancient ones!",
+  "howToUse": [
+    "Simply click the 'Generate' button. Easy peasy, lemon squeezy... until the Old Ones start calling.",
+    "Keep clicking! The cosmos is vast and filled with infinite (and terrifying) possibilities.",
+    "Like a name? Copy and paste it into your campaign, story, or dark ritual. We won't judge.",
+    "Share your creations! Let the world tremble before your newly named deity.",
+    "Remember: We are not responsible for any sudden increases in tentacle sightings or existential dread."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator safe to use?",
+      "answer": "Relatively. Side effects may include: increased nightmares, sudden urges to build strange monuments, and a nagging feeling that you're being watched by something ancient and unknowable. Use at your own risk!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Just be sure to credit coolnamemaker.com when you become the new high priest of a forgotten god. It's good karma (or whatever the cosmic equivalent is)."
+    },
+    {
+      "question": "Will using these names actually summon an Eldritch God?",
+      "answer": "While we can't guarantee a full-blown summoning, using these names is like sending a cosmic bat-signal. Who knows what might answer?"
+    },
+    {
+      "question": "Are the names generated truly random?",
+      "answer": "Yes, the names are random, but they're also crafted to evoke a sense of ancient power and cosmic horror. We're aiming for unsettling elegance, not just gibberish."
+    },
+    {
+      "question": "I generated a name that sounds suspiciously like my neighbor's cat. Should I be worried?",
+      "answer": "It could be a coincidence...or maybe your neighbor's cat is more than it seems. Either way, it's probably best not to leave out any tuna offerings. Just in case."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We're always open to expanding our collection of cosmic horrors! Send your suggestions our way. If they're suitably terrifying, we might just add them."
+    }
+  ],
+  "prefixes": [
+    "Azath",
+    "Nyarlath",
+    "Yog",
+    "Cthul",
+    "Hast",
+    "Shub",
+    "Dagon",
+    "Ithaq",
+    "Zoth",
+    "Ghroth",
+    "Rhan",
+    "Tsathog",
+    "Ulthar",
+    "Vorvad",
+    "Xotha",
+    "Y'golon",
+    "Zvilpog",
+    "Gla'aki",
+    "Mordigg",
+    "Hypnos",
+    "Nodens",
+    "Atlach",
+    "Byakhee",
+    "Eihort",
+    "Ghatan",
+    "Hermaeus",
+    "Kthanid",
+    "Lloigor",
+    "Mh'ithra",
+    "Nug",
+    "Oorn",
+    "Pumori",
+    "Quyagen",
+    "Rh'thulla",
+    "Shoggoth",
+    "Tulzscha",
+    "Ubbo",
+    "Valkos",
+    "Wadjet",
+    "Xexanoth",
+    "Yibb",
+    "Zushakon"
+  ],
+  "suffixes": [
+    "oth",
+    "ogoth",
+    "lhu",
+    "noth",
+    "othua",
+    "ogghu",
+    "goth",
+    "athoth",
+    "othoth",
+    "othar",
+    "ogothar",
+    "lhua",
+    "notha",
+    "othuaa",
+    "oggua",
+    "gotha",
+    "athotha",
+    "othotha",
+    "othos",
+    "ogothos",
+    "lhus",
+    "nothos",
+    "othuas",
+    "ogguas",
+    "gothas",
+    "athothas",
+    "othothas"
+  ]
+}

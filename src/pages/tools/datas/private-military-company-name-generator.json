@@ -1,0 +1,103 @@
+{
+  "name": "Private Military Company Name Generator",
+  "description": "Need a killer name for your PMC? Look no further! Our generator crafts names that scream professionalism, intrigue, and maybe just a *hint* of danger. Dominate the battlefield (of branding) with a name that's unforgettable.",
+  "slug": "private-military-company-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "So, you're building a private military company? Excellent! But before you start securing contracts and deploying assets, you need a name that commands respect (and maybe a little fear). This generator is your secret weapon, churning out names that are both tactical and unforgettable. Prepare to be impressed!",
+  "howToUse": [
+    "Click the 'Generate' button. Duh!",
+    "Marvel at the awesome names we conjure up.",
+    "If you find a name you love, snag it before someone else does!",
+    "If not, keep hitting that button until you strike gold. We've got names for days!",
+    "And remember, with great names comes great responsibility... to use them for good (or at least, for profit)."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually available for use?",
+      "answer": "We generate names based on common patterns and word combinations. It's *your* responsibility to check for trademark conflicts and availability before using a name. We're name generators, not lawyers!"
+    },
+    {
+      "question": "Can I use these names for my video game/novel/pet hamster?",
+      "answer": "Absolutely! While designed for PMCs, these names are versatile. Unleash your creativity and use them wherever you need a dose of cool."
+    },
+    {
+      "question": "Why are some names so\u2026intense?",
+      "answer": "Hey, it's the private military industry! We aim for names that reflect the serious (and sometimes slightly over-the-top) nature of the business. If you want fluffy bunny names, you're in the wrong place."
+    },
+    {
+      "question": "Do I have to credit you if I use a name?",
+      "answer": "While not required, a shout-out is always appreciated! Link back to coolnamemaker.com and spread the word about our awesome generator."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to add to the generator?",
+      "answer": "We're always looking for ways to improve! Send us your suggestions through the contact form on our site. We can't promise we'll use them all, but we'll definitely consider them."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep generating! With countless combinations, you're bound to find a name that resonates with your PMC's mission and values. Or, you know, just pick the least awful one. Sometimes, that's the best you can hope for."
+    }
+  ],
+  "prefixes": [
+    "Apex",
+    "Shadow",
+    "Global",
+    "Strategic",
+    "Elite",
+    "Phoenix",
+    "Blackwater",
+    "Sentinel",
+    "Vanguard",
+    "Ironclad",
+    "Cerberus",
+    "Titan",
+    "Griffin",
+    "Onyx",
+    "Crimson",
+    "Spectre",
+    "Valiant",
+    "Rogue",
+    "Silent",
+    "Apex",
+    "Aurora",
+    "Celestial",
+    "Zenith",
+    "Omega",
+    "Sigma",
+    "Delta",
+    "Echo",
+    "Foxtrot",
+    "Bravo"
+  ],
+  "suffixes": [
+    "Solutions",
+    "Group",
+    "Services",
+    "Defense",
+    "Security",
+    "Consulting",
+    "Tactical",
+    "Logistics",
+    "International",
+    "Worldwide",
+    "Operations",
+    "Resources",
+    "Alliance",
+    "Syndicate",
+    "Force",
+    "Agency",
+    "Command",
+    "Division",
+    "Brigade",
+    "Corps",
+    "Systems",
+    "Global",
+    "Ventures",
+    "Holdings",
+    "Partners",
+    "Associates",
+    "Network",
+    "Frontiers",
+    "Dynamics",
+    "Innovations"
+  ]
+}

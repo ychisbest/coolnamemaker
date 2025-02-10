@@ -1,0 +1,84 @@
+{
+  "name": "Pathfinder Human Name Generator",
+  "description": "Struggling to come up with the perfect moniker for your Pathfinder character? Fear not, adventurer! Our Human Name Generator is here to rescue you from the tyranny of blank character sheets. Generate names that sound like they've been whispered from the very heart of Golarion!",
+  "slug": "human-name-generator-pathfinder",
+  "icon": "\ud83e\uddd9\u200d\u2642\ufe0f",
+  "introduction": "Welcome, weary traveler, to the forge of names! Whether you're crafting a noble knight, a cunning rogue, or a wise wizard, finding the right name is the first step on your epic journey. This generator blends classic fantasy elements with a touch of the unexpected, ensuring your Pathfinder human stands out from the crowd. Prepare to be inspired!",
+  "howToUse": [
+    "Click the 'Generate' button. It's practically begging to be pressed!",
+    "Witness the magic unfold as a brand-new, totally awesome Pathfinder human name appears.",
+    "Don't like the first result? Keep clicking! We've got enough names here to populate an entire kingdom.",
+    "Copy and paste your chosen name directly into your character sheet. Boom! Instant backstory!",
+    "Optional: Add some extra flair by crafting a backstory to match your cool new name. We won't judge if you steal inspiration from your favorite fantasy novels."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator only for Pathfinder humans?",
+      "answer": "While specifically tailored for humans in Pathfinder, feel free to use it for inspiration in other fantasy settings! We won't tell if you don't."
+    },
+    {
+      "question": "Are the names generated truly random?",
+      "answer": "As random as algorithms can be! We use a combination of carefully curated prefixes and suffixes to create a diverse range of names. No two clicks are *exactly* the same."
+    },
+    {
+      "question": "Can I use these names for my published Pathfinder campaign?",
+      "answer": "Absolutely! Consider it our contribution to the world of Golarion. Just maybe give us a shout-out if your players love the names *too* much."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! Or, use the generator as a starting point and tweak the names to your liking. It's all about sparking your creativity!"
+    },
+    {
+      "question": "Will this generator help me win Pathfinder?",
+      "answer": "While we can't guarantee victory, a great name certainly gives you a +1 to Charisma. And who knows? Maybe your character's name will intimidate your enemies into submission!"
+    },
+    {
+      "question": "Does this generator support different Pathfinder cultures?",
+      "answer": "Currently, the generator provides a broad range of names suitable for various human cultures within Pathfinder. We plan to add more specific cultural options in the future!"
+    }
+  ],
+  "prefixes": [
+    "Aella",
+    "Torvin",
+    "Lysandra",
+    "Kaelen",
+    "Seraphina",
+    "Eamon",
+    "Isolde",
+    "Gavril",
+    "Anya",
+    "Rhys",
+    "Briar",
+    "Caspian",
+    "Elara",
+    "Finnian",
+    "Genevieve",
+    "Hadrian",
+    "Imogen",
+    "Jaxon",
+    "Kira",
+    "Leif"
+  ],
+  "suffixes": [
+    "stone",
+    "wood",
+    "bright",
+    "fell",
+    "more",
+    "lyn",
+    "wick",
+    "vale",
+    "swift",
+    "ward",
+    "leaf",
+    "forge",
+    "haven",
+    "storm",
+    "brook",
+    "field",
+    "grove",
+    "hollow",
+    "mount",
+    "shade"
+  ]
+}

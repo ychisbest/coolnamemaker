@@ -1,0 +1,83 @@
+{
+  "name": "River Name Generator",
+  "description": "Struggling to name that winding waterway in your fantasy world? Or maybe you're just curious about cool river names? Our River Name Generator will flow with inspiration!",
+  "slug": "river-name-generator",
+  "icon": "\ud83c\udf0a",
+  "introduction": "Dive into a world of aquatic nomenclature! Whether you're crafting a novel, designing a game, or just brainstorming, finding the perfect river name can be tricky. Our generator combines evocative prefixes and suffixes to create names that capture the essence of any river \u2013 from the mightiest currents to the gentlest streams. Prepare to be swept away!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the river names flow!",
+    "Don't like what you see? Keep clicking! We've got a whole river basin of names waiting to be discovered.",
+    "Feeling picky? Adjust the prefixes and suffixes to fine-tune the results to your liking.",
+    "Found the perfect name? Copy and paste it into your project. Go forth and conquer (or at least name) that river!"
+  ],
+  "faqs": [
+    {
+      "question": "How many river names can I generate?",
+      "answer": "As many as your heart desires! We have a virtually endless supply of combinations, so keep those clicks coming."
+    },
+    {
+      "question": "Are the generated names actually 'good' river names?",
+      "answer": "That's subjective, of course! But we've curated our prefixes and suffixes to be evocative and fitting for a wide range of river types. We think they're pretty darn good!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! The names generated are yours to use as you see fit. No royalties, no strings attached. Go create that best-selling fantasy novel!"
+    },
+    {
+      "question": "Where do the prefixes and suffixes come from?",
+      "answer": "We've drawn inspiration from real-world river names, mythology, and a healthy dose of creative imagination. We've aimed for a blend of realism and fantasy."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form. We're always looking for ways to improve the generator and make it even more awesome."
+    },
+    {
+      "question": "Will the river names be repeated?",
+      "answer": "While there's a possibility of slight variations reappearing, the sheer number of combinations makes it unlikely you'll see the exact same name twice in a short session. If you do, just generate again!"
+    }
+  ],
+  "prefixes": [
+    "Silver",
+    "Whispering",
+    "Crystal",
+    "Shadow",
+    "Iron",
+    "Emerald",
+    "Dragon's",
+    "Serpent's",
+    "Moon",
+    "Sun",
+    "Swift",
+    "Deep",
+    "Lost",
+    "Ancient",
+    "Wild",
+    "Quiet",
+    "Storm",
+    "Ember",
+    "Frost",
+    "Glimmer"
+  ],
+  "suffixes": [
+    "brook",
+    "stream",
+    "river",
+    "creek",
+    "run",
+    "water",
+    "flow",
+    "ford",
+    "glen",
+    "dell",
+    "vale",
+    "reach",
+    "pass",
+    "bend",
+    "gorge",
+    "falls",
+    "spring",
+    "pool",
+    "mire",
+    "wash"
+  ]
+}

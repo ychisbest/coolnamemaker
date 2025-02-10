@@ -1,0 +1,104 @@
+{
+  "name": "Sith Name Generator",
+  "description": "Unleash your inner Dark Lord! This generator crafts menacing Sith names worthy of the Star Wars galaxy. Prepare to dominate!",
+  "slug": "star-wars-name-generator-sith",
+  "icon": "\ud83d\ude08",
+  "introduction": "So, you're ready to embrace the Dark Side? Excellent! But every aspiring Sith Lord needs a name that strikes fear into the hearts of Jedi and rebels alike. Our Sith Name Generator is here to forge your dark destiny. No more calling yourself 'Dave' \u2013 it's time for something truly\u2026 sinister.",
+  "howToUse": [
+    "Simply click the 'Generate' button. (It's tempting, isn't it?)",
+    "Witness the birth of your new, terrifying Sith name.",
+    "If you're not feeling the Dark Side vibes, hit that button again! We've got enough dark energy to power a Death Star.",
+    "Practice your evil laugh. It's crucial.",
+    "Go forth and conquer (responsibly, of course... mostly)."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually endorsed by Darth Vader?",
+      "answer": "While we haven't received official confirmation from Lord Vader himself, we're pretty sure he'd approve. He's a busy guy, you know, ruling the galaxy and all."
+    },
+    {
+      "question": "Can I use these names for my Star Wars fan fiction?",
+      "answer": "Absolutely! Go wild! We'd love to see what dark deeds your newly named Sith gets up to. Just don't blame us if the Jedi come knocking."
+    },
+    {
+      "question": "What if I don't like the name the generator gives me?",
+      "answer": "Then you're clearly not embracing the Dark Side enough! But seriously, just click the button again. We have countless combinations, so you're bound to find one that resonates with your inner Sith Lord."
+    },
+    {
+      "question": "Will using a Sith name make me more powerful?",
+      "answer": "Probably not in real life. But it *will* make you sound way cooler at your next Star Wars trivia night. And that's a power in itself, isn't it?"
+    },
+    {
+      "question": "Are these names copyrighted?",
+      "answer": "Nope! They're yours to use as you see fit. Unleash your creativity! Just remember, with great Sith names comes great responsibility... to be evil (in a fictional, Star Wars-y way, of course)."
+    },
+    {
+      "question": "Can I use this to name my pet?",
+      "answer": "We highly encourage it! Imagine calling your fluffy kitten 'Darth Snuggles'. The irony alone is worth it."
+    }
+  ],
+  "prefixes": [
+    "Darth",
+    "Lord",
+    "Lady",
+    "Dark",
+    "Shadow",
+    "Mal",
+    "Vor",
+    "Nyx",
+    "Ven",
+    "Mort",
+    "Desol",
+    "Crim",
+    "Obsid",
+    "Silvan",
+    "Kryll",
+    "Dread",
+    "Night",
+    "Void",
+    "Revan",
+    "Exar",
+    "Kreia",
+    "Nihil",
+    "Tyran"
+  ],
+  "suffixes": [
+    "ius",
+    "an",
+    "os",
+    "is",
+    "ex",
+    "on",
+    "ar",
+    "ak",
+    "ek",
+    "ik",
+    "ok",
+    "uk",
+    "ax",
+    "ix",
+    "ox",
+    "ux",
+    "or",
+    "ur",
+    "ath",
+    "eth",
+    "ith",
+    "oth",
+    "uth",
+    "yss",
+    "iss",
+    "oss",
+    "uss",
+    "arr",
+    "err",
+    "irr",
+    "orr",
+    "urr",
+    "aen",
+    "een",
+    "iin",
+    "oon",
+    "uun"
+  ]
+}

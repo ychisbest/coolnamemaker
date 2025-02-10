@@ -1,0 +1,104 @@
+{
+  "name": "D&D Campaign Name Generator",
+  "description": "Struggling to come up with an epic name for your next Dungeons & Dragons campaign? Fear not, adventurer! Our D&D Campaign Name Generator is here to banish your writer's block and conjure unforgettable titles that will have your players on the edge of their seats before the first die is even rolled!",
+  "slug": "dnd-campaign-name-generator",
+  "icon": "\ud83d\udc09",
+  "introduction": "Crafting the perfect D&D campaign name is crucial. It sets the tone, sparks intrigue, and hints at the grand adventures to come. But sometimes, the creative well runs dry. That's where our magical generator steps in, weaving together evocative words and fantasy-infused phrases to create names worthy of legends.",
+  "howToUse": [
+    "First, brace yourself for awesomeness. Seriously, these names are pretty cool.",
+    "Click the 'Generate' button. Prepare to be amazed.",
+    "Browse the selection of randomly generated names. Pick the one that makes your DM senses tingle.",
+    "If none of them strike your fancy, hit 'Generate' again! The possibilities are as endless as the planes themselves.",
+    "Steal the name. Use it. Love it. Let it inspire countless hours of epic gameplay. You're welcome."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually magical?",
+      "answer": "While we can't confirm the presence of actual magic (we're still working on that), the results are often so good, it feels like it! It's definitely powered by creativity and a love for all things D&D."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once a name is generated, it's yours to use as you see fit. Create your own D&D module and become famous!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "No problem! Just keep hitting the 'Generate' button. We've got a vast lexicon of fantasy goodness at our disposal. Eventually, you'll find the perfect fit. Alternatively, use the names as inspiration to create your own unique title!"
+    },
+    {
+      "question": "Does the generator consider different D&D settings?",
+      "answer": "The generator aims for versatility, but the names are intentionally broad enough to be adapted to various settings, from Forgotten Realms to Eberron, and even your own homebrew world!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! Our D&D Campaign Name Generator is completely free for all adventurers, dungeon masters, and storytellers. Spread the word and let the epic names flow!"
+    },
+    {
+      "question": "Can I suggest words or phrases to be added to the generator?",
+      "answer": "We're always looking for ways to improve! Feel free to submit your suggestions through our contact form. We appreciate your input and may even incorporate your ideas into future updates."
+    }
+  ],
+  "prefixes": [
+    "The Shadow of",
+    "The Curse of",
+    "The Rise of",
+    "The Fall of",
+    "The Legend of",
+    "The Secret of",
+    "Whispers of",
+    "Echoes of",
+    "Beneath the",
+    "Beyond the",
+    "Guardians of",
+    "Children of",
+    "The Last",
+    "The Forgotten",
+    "The Shattered",
+    "Crimson",
+    "Emerald",
+    "Golden",
+    "Silver",
+    "Obsidian",
+    "Astral",
+    "Celestial",
+    "Infernal",
+    "Ancient",
+    "Lost",
+    "New",
+    "Dark",
+    "Bright",
+    "Silent",
+    "Stormy"
+  ],
+  "suffixes": [
+    "the Dragon",
+    "the Lich King",
+    "the Forgotten City",
+    "the Crystal Caves",
+    "the Whispering Woods",
+    "the Sunken Temple",
+    "the Iron Fortress",
+    "the Obsidian Peak",
+    "the Astral Plane",
+    "the Shadowfell",
+    "the Feywild",
+    "the Giants",
+    "the Elves",
+    "the Dwarves",
+    "the Goblins",
+    "the Undead",
+    "the Stars",
+    "the Moon",
+    "the Void",
+    "Despair",
+    "Hope",
+    "Destiny",
+    "Chaos",
+    "Order",
+    "Light",
+    "Darkness",
+    "Magic",
+    "Secrets",
+    "Truth",
+    "Lies"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Steam Name Generator",
+  "description": "Stuck with a boring Steam name? Level up your online persona with our rad Steam Name Generator! Get names so cool, they'll make Gabe Newell jealous.",
+  "slug": "steam-name-generator",
+  "icon": "\ud83c\udfae",
+  "introduction": "Let's face it, your current Steam name probably isn't cutting it. You need something that screams 'pro gamer' (even if you're mostly just losing to 12-year-olds). Our Steam Name Generator is here to rescue you from name mediocrity. Prepare for names so epic, they'll give you +10 charisma in every lobby.",
+  "howToUse": [
+    "Click the 'Generate' button. Seriously, that's it. We made it *that* easy.",
+    "Marvel at the awesomeness of the name we've conjured for you.",
+    "If you're not feeling it (gasp!), click 'Generate' again. We've got names for days.",
+    "Copy your favorite name and paste it into your Steam profile.",
+    "Prepare to be showered with friend requests and compliments. You're welcome."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually cool?",
+      "answer": "Is water wet? Of course, it's cool! We've poured our hearts and souls (and a whole lot of caffeine) into making sure these names are top-tier."
+    },
+    {
+      "question": "Will this generator make me a better gamer?",
+      "answer": "While we can't guarantee instant gaming prowess, a killer name is half the battle. Think of it as a psychological advantage. Your opponents will be too intimidated to even try."
+    },
+    {
+      "question": "Can I use these names for other things besides Steam?",
+      "answer": "Absolutely! Use them for Twitch, Discord, your pet hamster... the possibilities are endless! Just promise us you'll credit us when you become famous."
+    },
+    {
+      "question": "Are the generated names unique?",
+      "answer": "We strive to generate unique and awesome names. However, with millions of users, there's a slight chance of overlap. If you find a name you love, snag it quick!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "You betcha! Our Steam Name Generator is 100% free to use. We just want to spread the joy of awesome names to the masses."
+    },
+    {
+      "question": "How often are new names added?",
+      "answer": "We are always working to improve our generator with new and interesting names. Check in regularly to see what\u2019s new!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Cyber",
+    "Pixel",
+    "Elite",
+    "Omega",
+    "Phantom",
+    "Stealth",
+    "Rogue",
+    "Nova",
+    "Titan",
+    "Crimson",
+    "Blazing",
+    "Arctic",
+    "Mystic",
+    "Iron",
+    "Digital",
+    "Silent",
+    "Void",
+    "Cosmic",
+    "Neon"
+  ],
+  "suffixes": [
+    "Hunter",
+    "Gamer",
+    "Slayer",
+    "Warrior",
+    "Knight",
+    "Legend",
+    "Master",
+    "Ace",
+    "Pro",
+    "Elite",
+    "God",
+    "Titan",
+    "Fury",
+    "Storm",
+    "Blaze",
+    "Shadow",
+    "Omega",
+    "Phantom",
+    "Vanguard",
+    "Specter"
+  ]
+}

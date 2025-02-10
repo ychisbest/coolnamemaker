@@ -1,0 +1,63 @@
+{
+  "name": "Scrabble Tile Name Generator",
+  "description": "Unleash your inner wordsmith! This generator crafts names using the letter distribution and point values of Scrabble tiles. Get ready for names that are as unique as your vocabulary... or lack thereof! \ud83d\ude09",
+  "slug": "scrabble-tile-name-generator",
+  "icon": "\ud83d\udd24",
+  "introduction": "Ever wondered what your name would be if it were built from Scrabble tiles? Prepare to be amazed (or mildly amused)! This generator uses the frequency and point values of each letter in a standard Scrabble set to create names that are statistically\u2026 interesting. Perfect for pen names, character names, or just a fun word game!",
+  "howToUse": [
+    "Simply click the 'Generate' button. We'll magically assemble a name from the Scrabble letter pool.",
+    "Don't like what you see? Hit 'Generate' again! We've got enough tiles to keep you naming for days.",
+    "Feeling creative? Tweak the prefixes and suffixes below to customize your Scrabble-fied moniker.",
+    "Share your awesome (or hilariously awful) Scrabble name with your friends. Bonus points for using it in a real Scrabble game!"
+  ],
+  "faqs": [
+    {
+      "question": "How does this generator actually work?",
+      "answer": "We use the distribution of letters in a standard Scrabble game. Letters with higher point values are less common, so names are weighted accordingly. It's like playing Scrabble, but without the arguing!"
+    },
+    {
+      "question": "Will my Scrabble name be a real word?",
+      "answer": "Possibly! But probably not. The goal is to create names that *feel* like they could be words, even if they aren't in the dictionary. Think of it as linguistic improv."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Consider them your own unique creations. Go forth and conquer the world with your Scrabble-inspired brand!"
+    },
+    {
+      "question": "Are there any limitations to the length of the generated names?",
+      "answer": "We try to keep them reasonably short and sweet (or short and weird). But feel free to experiment with the prefixes and suffixes to create longer, more elaborate names if you're feeling ambitious."
+    },
+    {
+      "question": "What if I get a name that's offensive or inappropriate?",
+      "answer": "While we do our best to avoid generating offensive names, the nature of random word generation means it's *possible*. If you stumble upon something truly awful, please let us know, and we'll tweak the algorithm. We're all about fun, not offense!"
+    },
+    {
+      "question": "Can I use numbers or special character?",
+      "answer": "No, the generator only uses the 26 letters of the alphabet to represent scrabble tiles"
+    }
+  ],
+  "prefixes": [
+    "Lexi",
+    "Word",
+    "Tile",
+    "Scrab",
+    "Graphe",
+    "Puzzl",
+    "Alpha",
+    "Syn",
+    "Voca",
+    "Quill"
+  ],
+  "suffixes": [
+    "ly",
+    "ton",
+    "ex",
+    "ica",
+    "son",
+    "ing",
+    "er",
+    "ia",
+    "ette",
+    "oid"
+  ]
+}

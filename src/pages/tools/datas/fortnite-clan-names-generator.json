@@ -1,0 +1,74 @@
+{
+  "name": "Fortnite Clan Name Generator",
+  "description": "Struggling to find the perfect name for your Fortnite clan? Fear no more! Our generator will churn out epic, memorable, and downright awesome names that'll make your squad the envy of the island. Get ready to dominate the competition with a name that screams victory!",
+  "slug": "fortnite-clan-names-generator",
+  "icon": "\ud83d\udee1\ufe0f",
+  "introduction": "So, you're ready to conquer the Fortnite world with your clan, but you're stuck on the most crucial part: the name. A killer clan name is your banner, your war cry, your digital identity! It needs to be catchy, intimidating, and reflective of your team's playstyle. That's where we come in. Our Fortnite Clan Name Generator is designed to unleash a torrent of creative possibilities, ensuring your squad stands out from the crowd. No more generic names \u2013 prepare for legendary status!",
+  "howToUse": [
+    "First, brace yourself for an avalanche of awesome names. Seriously, it's gonna be epic.",
+    "Click the 'Generate' button. That's it! (We told you it was easy.)",
+    "Browse the suggestions and find the name that resonates with your clan's vibe.",
+    "If you're feeling adventurous, mix and match prefixes and suffixes for a truly unique creation.",
+    "Once you've found the perfect name, claim it before someone else does! Victory awaits!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Fortnite Clan Name Generator is 100% free to use. We believe everyone deserves a kick-ass clan name without breaking the bank."
+    },
+    {
+      "question": "Can I use these names for other games besides Fortnite?",
+      "answer": "Of course! While it's designed with Fortnite in mind, feel free to use these names for any game, social media handle, or even your pet hamster. The possibilities are endless!"
+    },
+    {
+      "question": "The names are cool, but I want something even more unique. Any tips?",
+      "answer": "Try combining different elements from multiple generated names. Mix a prefix from one with a suffix from another. Get creative and make it your own!"
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly adding new prefixes and suffixes to keep the generator fresh and exciting. Check back often for even more awesome name possibilities!"
+    },
+    {
+      "question": "I found the PERFECT name! Can I share it with my friends?",
+      "answer": "Heck yeah! Spread the love and let your friends in on the secret to amazing clan names. Just don't blame us when everyone wants to join your squad."
+    },
+    {
+      "question": "Are the generated names trademarked?",
+      "answer": "We do our best to generate unique names, but we always recommend doing a quick search to ensure the name isn't already trademarked, especially if you plan to use it for a business or brand."
+    }
+  ],
+  "prefixes": [
+    "Apex",
+    "Shadow",
+    "Crimson",
+    "Frost",
+    "Phantom",
+    "Rogue",
+    "Elite",
+    "Titan",
+    "Nova",
+    "Omega",
+    "Stealth",
+    "Vanguard",
+    "Celestial",
+    "Inferno",
+    "Arcane"
+  ],
+  "suffixes": [
+    "Squad",
+    "Legion",
+    "Force",
+    "Division",
+    "Battalion",
+    "Order",
+    "Syndicate",
+    "Collective",
+    "Alliance",
+    "Dynasty",
+    "Empire",
+    "Guardians",
+    "Phantoms",
+    "Titans",
+    "Wolves"
+  ]
+}

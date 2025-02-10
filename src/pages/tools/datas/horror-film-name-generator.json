@@ -1,0 +1,83 @@
+{
+  "name": "Horror Film Name Generator",
+  "description": "Struggling to come up with a terrifying title for your next horror masterpiece? Unleash the screams with our Horror Film Name Generator! We conjure up bone-chilling names that will haunt your audience long before the opening credits roll.",
+  "slug": "horror-film-name-generator",
+  "icon": "\ud83d\ude31",
+  "introduction": "Welcome, brave filmmaker! Your quest for the perfect horror title ends here. Whether you're crafting a slasher, a psychological thriller, or a supernatural spookfest, a killer title is essential. Let our generator be your muse, brewing up names so chilling, they'll make even Stephen King shiver. Prepare to unleash titles that will grip your audience from the poster to the final, blood-curdling scream!",
+  "howToUse": [
+    "Ready to scare up some names? Just hit that 'Generate' button. Don't be shy, mash it repeatedly until a title makes your spine tingle!",
+    "Feeling picky? (As you should!) Tweak the prefixes and suffixes to fine-tune the terror. Mix, match, and see what horrors you can unleash.",
+    "Found a title that's pure evil genius? Copy it and start plotting how to bring your terrifying vision to life!",
+    "Remember, the best horror titles are simple, evocative, and leave a lingering sense of dread. So, keep generating until you find 'the one'!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names commercially?",
+      "answer": "Absolutely! Once generated, the names are yours to use as you see fit. However, we recommend checking for existing trademarks before you commit to a title."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Our generator uses a carefully curated list of horror-themed words and phrases, combined randomly to create unique and unsettling titles. There's a method to the madness!"
+    },
+    {
+      "question": "Will this generator guarantee my film's success?",
+      "answer": "While we can't promise box office domination, a killer title is definitely a step in the right direction! A great name can attract attention and set the perfect tone for your film. The rest is up to you\u2026 and the monsters under your bed."
+    },
+    {
+      "question": "Can I suggest words or phrases to add to the generator?",
+      "answer": "We're always looking for ways to improve! Feel free to send us your suggestions. If they're suitably spooky, we might just add them in!"
+    },
+    {
+      "question": "I generated a name that's already in use. What should I do?",
+      "answer": "Bummer! It happens. Just hit that 'Generate' button again and conjure up a fresh dose of terror. There are plenty more chilling titles waiting to be discovered."
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your dark heart desires. Unleash the creative floodgates and let the horror flow!"
+    }
+  ],
+  "prefixes": [
+    "The",
+    "A",
+    "Silent",
+    "Dead",
+    "Dark",
+    "Crimson",
+    "Eternal",
+    "Forgotten",
+    "Twisted",
+    "Haunted",
+    "Blood",
+    "Night of the",
+    "Curse of the",
+    "Whispers of",
+    "Shadows of",
+    "The Last",
+    "Seven",
+    "The Final",
+    "Don't Look",
+    "They're Inside"
+  ],
+  "suffixes": [
+    "House",
+    "Woods",
+    "Night",
+    "Curse",
+    "Scream",
+    "Shadows",
+    "Blood",
+    "Silence",
+    "Doll",
+    "Asylum",
+    "Experiment",
+    "Entity",
+    "Sacrifice",
+    "Reckoning",
+    "Harvest",
+    "Lullaby",
+    "Them",
+    "Us",
+    "Within",
+    "Below"
+  ]
+}

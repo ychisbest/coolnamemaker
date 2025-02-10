@@ -1,0 +1,82 @@
+{
+  "name": "Evil Group Name Generator",
+  "description": "Unleash your inner villain with our Evil Group Name Generator! Find the perfect moniker for your dastardly crew, guaranteed to strike fear and inspire awe (mostly fear).",
+  "slug": "evil-group-name-generator",
+  "icon": "\ud83d\ude08",
+  "introduction": "So, you're starting an evil group? Excellent choice! World domination, elaborate heists, and general mayhem await. But first, you need a name. Something that screams 'We're up to no good!' Our Evil Group Name Generator is here to help you craft the perfect title for your nefarious organization. Forget 'Team Awesome'; we're talking 'Legion of Doom' level stuff.",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A deliciously evil name appears.",
+    "Don't like the first result? Keep clicking! We've got more evil names than you can shake a stick of dynamite at.",
+    "Found the perfect name? Copy it and start plotting your world takeover! (Or, you know, just use it for your D&D campaign.)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually evil?",
+      "answer": "Only in the most delightful, fictional way. We're not responsible for any actual acts of villainy inspired by our names."
+    },
+    {
+      "question": "Can I use these names for my band?",
+      "answer": "Absolutely! Evil band names are the best band names. Just don't blame us when you accidentally summon a demon on stage."
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! Feel free to use them as you wish. Though, if someone else comes up with the same name independently, that's just cosmic coincidence (or, you know, convergent evil thinking)."
+    },
+    {
+      "question": "What if I need a name that's *really* evil?",
+      "answer": "Keep generating! Or, get creative and mix and match prefixes and suffixes to create your own unique brand of wickedness."
+    },
+    {
+      "question": "Will using one of these names make me a better villain?",
+      "answer": "A great name is a good start. The rest is up to you! Sharpen your evil laugh, perfect your monologues, and remember to always have a backup plan."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes?",
+      "answer": "We're always looking for ways to make our generator even more evil! Send your suggestions our way. We'll consider them... menacingly."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Crimson",
+    "Obsidian",
+    "Serpent's",
+    "Iron",
+    "Midnight",
+    "Void",
+    "Phantom",
+    "Silent",
+    "Eternal",
+    "Ruin",
+    "Black",
+    "Dark",
+    "Blood",
+    "Nether",
+    "Abyssal",
+    "Grim",
+    "Doom",
+    "Skull",
+    "Night"
+  ],
+  "suffixes": [
+    "Legion",
+    "Covenant",
+    "Order",
+    "Syndicate",
+    "Circle",
+    "Empire",
+    "Cult",
+    "Brotherhood",
+    "Sisterhood",
+    "Hand",
+    "Guardians",
+    "Council",
+    "Alliance",
+    "Reign",
+    "Dynasty",
+    "Vanguard",
+    "Enclave",
+    "Ascension",
+    "Dominion",
+    "Wrath"
+  ]
+}

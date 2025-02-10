@@ -1,0 +1,85 @@
+{
+  "name": "Pirate Captain Name Generator",
+  "description": "Ahoy, matey! Need a fearsome name to strike terror into the hearts of your enemies? Or perhaps a swashbuckling moniker for your next RPG character? Look no further! Our Pirate Captain Name Generator will shiver your timbers with a treasure trove of names fit for the saltiest dogs on the seven seas.",
+  "slug": "pirate-captain-name-generator",
+  "icon": "\ud83c\udff4\u200d\u2620\ufe0f",
+  "introduction": "Every great pirate captain needs a name that commands respect (and maybe a little fear). From the notorious Blackheart to the cunning Anne Bonny, a name can make or break your reputation on the high seas. This generator combines prefixes and suffixes to conjure up a hurricane of unique and unforgettable pirate names. So, hoist the Jolly Roger and get ready to find your perfect pirate persona!",
+  "howToUse": [
+    "Click the 'Generate' button \u2013 it's easier than plundering a merchant ship!",
+    "Feast your eyes on the glorious pirate name bestowed upon you.",
+    "Don't like it? Click again! We've got more names than grains of sand on Tortuga.",
+    "Mix and match prefixes and suffixes from different results to craft something truly unique.",
+    "Go forth and terrorize the high seas (or your D&D campaign) with your new name!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names historically accurate?",
+      "answer": "While we've drawn inspiration from historical pirates and nautical terms, most of these names are fictional. They're designed to be fun and evocative, not necessarily historically precise. Think of it as pirate-themed fantasy!"
+    },
+    {
+      "question": "Can I use these names for my book/game/movie?",
+      "answer": "Absolutely! Consider them a starting point for your own creative endeavors. We only ask that you don't directly copy and paste the entire list into a published work."
+    },
+    {
+      "question": "Will this generator help me find buried treasure?",
+      "answer": "Unfortunately, no. This generator is purely for name creation. We recommend consulting a reliable treasure map (or Google) for actual buried treasure."
+    },
+    {
+      "question": "I got a really silly name. Is that supposed to happen?",
+      "answer": "Avast, ye! A bit of silliness is part of the pirate life! Some names are meant to be fearsome, others are meant to be funny. Embrace the absurdity!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "Aye, you can! We're always looking for ways to expand our treasure chest of names. Send your suggestions our way, and we'll consider adding them to the generator."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Shiver me timbers! Yes, this generator is completely free to use. Enjoy plundering names to your heart's content!"
+    }
+  ],
+  "prefixes": [
+    "Black",
+    "Red",
+    "Iron",
+    "Captain",
+    "Sea",
+    "Storm",
+    "Dread",
+    "Bloody",
+    "One-Eyed",
+    "Peg-Leg",
+    "Mad",
+    "Silent",
+    "Golden",
+    "Shadow",
+    "Whispering",
+    "Cutthroat",
+    "Salty",
+    "Barnacle",
+    "Kraken",
+    "Ghost"
+  ],
+  "suffixes": [
+    "beard",
+    "heart",
+    "blade",
+    "hand",
+    "eye",
+    "tooth",
+    "Jack",
+    "Jones",
+    "Roberts",
+    "Smith",
+    "Sparrow",
+    "Black",
+    "the Terrible",
+    "the Ruthless",
+    "the Bold",
+    "the Cunning",
+    "the Swift",
+    "the Fearless",
+    "the Grim",
+    "the Vengeful",
+    "the Wicked"
+  ]
+}

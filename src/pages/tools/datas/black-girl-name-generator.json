@@ -1,0 +1,104 @@
+{
+  "name": "Black Girl Name Generator",
+  "description": "Struggling to find that perfect name for your amazing black girl character, baby, or even yourself? Look no further! Our Black Girl Name Generator is here to sprinkle some magic and help you discover a name that resonates with strength, beauty, and cultural richness. Get ready to be inspired!",
+  "slug": "black-girl-name-generator",
+  "icon": "\ud83d\udc67\ud83c\udffe",
+  "introduction": "Dive into a world of captivating names steeped in history, heritage, and undeniable coolness. Whether you're crafting a story, welcoming a new little one, or simply curious, our generator offers a diverse selection of names that celebrate the beauty and power of black girlhood. From classic elegance to modern flair, find a name that truly shines!",
+  "howToUse": [
+    "Ready to conjure up some name-tastic possibilities? It's as easy as pie (or maybe sweet potato pie, if you're feeling festive!).",
+    "Simply click the 'Generate' button and watch the magic unfold. Our generator will whip up a unique name combination just for you.",
+    "Feeling picky? No problem! Keep clicking until you stumble upon that 'aha!' moment. We've got plenty of names to go around.",
+    "Found a name you adore? Awesome! Jot it down, share it with friends, or shout it from the rooftops (we won't judge!).",
+    "Experiment! Play around with different prefixes and suffixes to create a truly personalized name that reflects your vision."
+  ],
+  "faqs": [
+    {
+      "question": "Where do these names come from?",
+      "answer": "Our database is a melting pot of inspiration! We've gathered names from various African cultures, African American traditions, and modern naming trends. We're always updating our list to ensure a diverse and inclusive selection."
+    },
+    {
+      "question": "Can I use these names for my fictional characters?",
+      "answer": "Absolutely! That's what this generator is all about! Feel free to use these names to bring your stories to life and create unforgettable characters."
+    },
+    {
+      "question": "Are all the names African or African American?",
+      "answer": "While we focus on names with roots in African and African American culture, we also include names that are popular within the black community, regardless of origin. Our goal is to provide a wide range of options to suit different tastes."
+    },
+    {
+      "question": "Is it okay to use a name from a culture that's not my own?",
+      "answer": "We encourage you to research the meaning and history of any name you choose. While appreciation is great, cultural appropriation is not. Be mindful and respectful of the origins of the name."
+    },
+    {
+      "question": "The generator isn't working! What do I do?",
+      "answer": "Oh no! First, try refreshing the page. If that doesn't work, clear your browser's cache and cookies. If you're still having trouble, shoot us a message, and we'll get it sorted out faster than you can say 'Black Girl Magic'!"
+    },
+    {
+      "question": "Can I contribute names to the generator?",
+      "answer": "We'd love that! If you have any suggestions for names that you think should be included, please send them our way. We're always looking to expand our collection."
+    }
+  ],
+  "prefixes": [
+    "Aaliyah",
+    "Imani",
+    "Nia",
+    "Khadijah",
+    "Zuri",
+    "Sanaa",
+    "Layla",
+    "Jada",
+    "Maya",
+    "Kiara",
+    "Raven",
+    "Simone",
+    "Gabrielle",
+    "Destiny",
+    "Trinity",
+    "Diamond",
+    "Ebony",
+    "Asia",
+    "India",
+    "Lyric",
+    "Summer",
+    "Autumn",
+    "Winter",
+    "Skylar",
+    "Brooklyn",
+    "Savannah",
+    "Paris",
+    "London",
+    "Milan",
+    "Cairo"
+  ],
+  "suffixes": [
+    "Marie",
+    "Michelle",
+    "Simone",
+    "Nicole",
+    "Monique",
+    "Renee",
+    "Jasmine",
+    "Danielle",
+    "Chanel",
+    "Brielle",
+    "Shay",
+    "Jade",
+    "Rose",
+    "Grace",
+    "Faith",
+    "Hope",
+    "Joy",
+    "Unique",
+    "Divine",
+    "Serenity",
+    "Amari",
+    "Nyx",
+    "Reign",
+    "Lux",
+    "Blair",
+    "Monroe",
+    "Sinclair",
+    "Valor",
+    "Lyric",
+    "Sage"
+  ]
+}

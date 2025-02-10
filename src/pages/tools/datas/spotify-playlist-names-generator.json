@@ -1,0 +1,84 @@
+{
+  "name": "Spotify Playlist Name Generator",
+  "description": "Struggling to find the *perfect* name for your killer Spotify playlist? Fear no more! Our generator crafts catchy, creative, and downright cool names that'll make your playlist stand out from the crowd. Ditch the 'Summer Vibes 2024' and unleash the power of awesome!",
+  "slug": "spotify-playlist-names-generator",
+  "icon": "\ud83c\udfb6",
+  "introduction": "Let's face it, a playlist is only as good as its name. A boring name? Instant skip. A *killer* name? People are clicking that play button faster than you can say 'auto-generated.' We're here to turn your sonic collection into a legend with names that are: \n\n*   **Memorable:** Sticks in their head like your favorite song.\n*   **Intriguing:** Makes them *want* to know what's inside.\n*   **Totally You:** Reflects your unique musical taste (even if it's guilty pleasures!).",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the sheer brilliance of the names we conjure.",
+    "If you're not feeling it (gasp!), hit 'Generate' again. We've got *millions* of possibilities.",
+    "Copy your favorite name and paste it into your Spotify playlist.",
+    "Brag to your friends about how effortlessly cool you are. (We won't tell them your secret \ud83d\ude09)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator *really* free?",
+      "answer": "Yep! Absolutely, positively, 100% free. We believe everyone deserves a playlist name worthy of a Grammy (even if your playlist is just for showering)."
+    },
+    {
+      "question": "Can I use these names for other things besides Spotify playlists?",
+      "answer": "Go for it! Use them for anything your heart desires. Band names, cocktail names, pet names... the possibilities are endless!"
+    },
+    {
+      "question": "Are the generated names actually *good*?",
+      "answer": "We think so! But beauty is in the eye (or ear) of the beholder. If you don't like a name, just generate another one. We aim to please (or at least mildly amuse)."
+    },
+    {
+      "question": "Will using this generator make me instantly famous?",
+      "answer": "While we can't guarantee instant fame, a killer playlist name will definitely get you noticed. It's a step in the right direction, right?"
+    },
+    {
+      "question": "I'm having trouble coming up with a name, even with the generator. Help!",
+      "answer": "Try thinking about the *feeling* of your playlist. Is it chill and relaxed? Energetic and upbeat? Dark and mysterious? Use those keywords as inspiration, and let the generator do its thing!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "Absolutely! We're always looking for ways to improve. Send your suggestions our way through the contact form on our website."
+    }
+  ],
+  "prefixes": [
+    "Chill",
+    "Vibe",
+    "Late Night",
+    "Sunset",
+    "Road Trip",
+    "Workout",
+    "Indie",
+    "Pop",
+    "Electro",
+    "Acoustic",
+    "Golden Hour",
+    "Dreamy",
+    "Cozy",
+    "Mellow",
+    "Upbeat",
+    "Throwback",
+    "Guilty Pleasures",
+    "Secret",
+    "Hidden",
+    "Lost"
+  ],
+  "suffixes": [
+    "Anthems",
+    "Vibes",
+    "Mix",
+    "Sounds",
+    "Beats",
+    "Jams",
+    "Tunes",
+    "Grooves",
+    "Vibez",
+    "Vibrations",
+    "Moments",
+    "Escapes",
+    "Remixes",
+    "Sessions",
+    "Rhythms",
+    "Chronicles",
+    "Diaries",
+    "Stories",
+    "Adventures",
+    "Odyssey"
+  ]
+}

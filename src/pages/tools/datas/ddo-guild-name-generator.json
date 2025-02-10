@@ -1,0 +1,97 @@
+{
+  "name": "DDO Guild Name Generator",
+  "description": "Struggling to find the perfect name for your Dungeons and Dragons Online guild? Fear not, adventurer! Our generator crafts epic, lore-friendly, and totally awesome guild names that will make your enemies tremble and your allies cheer!",
+  "slug": "ddo-guild-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Welcome, brave heroes, to the ultimate DDO Guild Name Generator! Whether you're forging a new fellowship or rebranding an existing one, a memorable name is crucial. Our generator combines elements of D&D lore, class archetypes, and a touch of whimsy to create names that resonate with the spirit of adventure. Prepare to embark on a naming quest!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the majesty of randomly generated guild names!",
+    "Don't like what you see? Keep clicking! We've got a treasure trove of names waiting to be discovered.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft your own unique masterpiece.",
+    "Once you've found the perfect name, copy it, share it with your guildmates, and prepare for glory! (And maybe some dungeon crawling...)",
+    "Remember, a great name is just the first step. Now go out there and conquer those quests!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually good?",
+      "answer": "Are you kidding? These names are so good, they'll make dragons hoard them! But seriously, we've tried to create names that are evocative and fitting for the DDO universe. Your mileage may vary, but we think you'll find something you like."
+    },
+    {
+      "question": "Can I use these names for other games?",
+      "answer": "Absolutely! While tailored for DDO, many of these names could work for any fantasy RPG. Go forth and conquer, no matter the game!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yes, completely free! We believe that everyone deserves a cool guild name, regardless of their budget. Consider it our gift to the adventuring community."
+    },
+    {
+      "question": "How often are new names added?",
+      "answer": "We're always adding new prefixes and suffixes to keep the generator fresh and exciting. Check back often for new inspiration!"
+    },
+    {
+      "question": "I found a name I love, but someone else is already using it! What do I do?",
+      "answer": "Alas, such is the fate of popular names! Try adding a unique twist, like a Roman numeral or a slight variation in spelling. Or, you know, just keep generating until you find something even better!"
+    },
+    {
+      "question": "Can I submit my own prefixes and suffixes?",
+      "answer": "While we can't promise to add every suggestion, we're always open to hearing new ideas! If you have a prefix or suffix that you think would be a great addition, feel free to send it our way. We appreciate your contribution to the community!"
+    }
+  ],
+  "prefixes": [
+    "The Order of",
+    "The Knights of",
+    "The League of",
+    "The Circle of",
+    "The Guardians of",
+    "The Shadows of",
+    "The Flame of",
+    "The Wrath of",
+    "The Hand of",
+    "The Children of",
+    "Crimson",
+    "Iron",
+    "Silver",
+    "Golden",
+    "Eternal",
+    "Forgotten",
+    "Silent",
+    "Mystic",
+    "Arcane",
+    "Celestial",
+    "Dragon's",
+    "Storm",
+    "Blood",
+    "Shadow",
+    "Star",
+    "Moon"
+  ],
+  "suffixes": [
+    "Light",
+    "Darkness",
+    "Justice",
+    "Vengeance",
+    "Valor",
+    "Wisdom",
+    "Might",
+    "Magic",
+    "Destiny",
+    "Fate",
+    "Hope",
+    "Despair",
+    "The Phoenix",
+    "The Dragon",
+    "The Gryphon",
+    "The Unicorn",
+    "The Serpent",
+    "The Wolf",
+    "The Eagle",
+    "The Bear",
+    "The Lion",
+    "The Kraken",
+    "The Void",
+    "The Abyss",
+    "The Stars",
+    "The Moon",
+    "The Sun"
+  ]
+}

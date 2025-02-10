@@ -1,0 +1,73 @@
+{
+  "name": "Knight Name Generator",
+  "description": "Unleash your inner Sir Lancelot! This generator crafts the perfect knightly moniker, fit for jousting, dragon slaying, and looking dashing in shining armor. Find a name worthy of legend!",
+  "slug": "knight-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Ever dreamt of being a noble knight? Your quest begins here! Our Knight Name Generator forges names that resonate with valor, chivalry, and a touch of medieval mystique. Whether you're writing a fantasy novel, creating a character for a game, or just embracing your inner hero, we've got the perfect name waiting for you.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A glorious knight name will appear.",
+    "Don't like what you see? Click again! We've got more names than King Arthur had knights.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create a truly unique and legendary name.",
+    "Share your awesome new name with the world! (Or at least your friends.)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Knight Name Generator is completely free to use. Consider it a gift from our kingdom to yours."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You're welcome to use the generated names for personal or creative projects, but we can't guarantee their trademark availability. Always do your due diligence before using a name commercially."
+    },
+    {
+      "question": "Are the names historically accurate?",
+      "answer": "While we've drawn inspiration from history, some names are purely for fun and fantasy. Think of it as 'historical-ish'!"
+    },
+    {
+      "question": "Will this generator make me a better knight?",
+      "answer": "Yes, but only if you wield it responsibly. A powerful name comes with great responsibility (and maybe a dragon or two)."
+    },
+    {
+      "question": "Can I get a refund if I don't like my name?",
+      "answer": "Since it's free, there's no refund policy! But we're confident you'll find a name you love. Keep clicking!"
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as you want! The supply of knightly names is virtually endless."
+    }
+  ],
+  "prefixes": [
+    "Sir",
+    "Lord",
+    "Knight",
+    "Brave",
+    "Noble",
+    "Valiant",
+    "Crimson",
+    "Iron",
+    "Shadow",
+    "Storm",
+    "Dragon",
+    "Griffin",
+    "Lionheart",
+    "Steel",
+    "Stone"
+  ],
+  "suffixes": [
+    "The Bold",
+    "The Just",
+    "The Righteous",
+    "The Brave",
+    "The Strong",
+    "The Wise",
+    "The Swift",
+    "The Loyal",
+    "The Defender",
+    "The Protector",
+    "The Dragon Slayer",
+    "Of the Vale",
+    "Of the Mountain",
+    "Of the Forest",
+    "Of the Sea"
+  ]
+}

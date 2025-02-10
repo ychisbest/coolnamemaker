@@ -1,0 +1,64 @@
+{
+  "name": "Gender Bender Name Generator",
+  "description": "Feeling fluid? Let's twist those traditional names into something fabulously unexpected! This generator playfully reimagines gendered names, offering a delightful mix-and-match experience. Discover a name that truly reflects your unique vibe \u2013 because who needs labels anyway?",
+  "slug": "gender-bender-name-generator",
+  "icon": "\u26a7\ufe0f",
+  "introduction": "Ready to break free from the binary? Our Gender Bender Name Generator is here to help you explore the delightful possibilities of name-bending! Whether you're seeking a fresh identity, brainstorming character names, or simply having a laugh, prepare for a cascade of creative and surprising results. Let's ditch the stereotypes and embrace the name-volution!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the wondrous name combinations that appear. (Prepare to be amazed!)",
+    "Keep clicking until you find a name that screams 'YOU!' (Or at least whispers it very loudly.)",
+    "Share your favorite name with friends and bask in their envy. (Optional, but highly recommended.)",
+    "Remember, names are just labels \u2013 have fun and be yourself! (The most important step!)"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* a 'Gender Bender Name Generator'?",
+      "answer": "It's a tool that takes traditionally gendered names and playfully remixes them, creating new and unexpected combinations. Think 'Robertina' or 'Ashleighton' \u2013 you get the idea!"
+    },
+    {
+      "question": "Is this generator only for people who identify as non-binary or transgender?",
+      "answer": "Absolutely not! It's for anyone who wants to have fun with names and explore different possibilities. Whether you're cisgender, transgender, non-binary, or just curious, everyone's welcome to play!"
+    },
+    {
+      "question": "Can I use these names for real?",
+      "answer": "Of course! If you find a name you love, go for it! Just remember to be respectful and consider the potential implications of your chosen name."
+    },
+    {
+      "question": "Will this generator give me the *perfect* name?",
+      "answer": "We can't guarantee perfection, but we can guarantee a good time! The 'perfect' name is subjective, so keep experimenting until you find one that resonates with you."
+    },
+    {
+      "question": "Are the names generated offensive in any way?",
+      "answer": "We strive to create names that are playful and creative, but we can't guarantee that everyone will find every name amusing. If you're easily offended, this might not be the generator for you. However, our intention is always to celebrate diversity and creativity, not to cause harm."
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We try to update the generator periodically with fresh names and combinations to keep things interesting! Check back often for new surprises."
+    }
+  ],
+  "prefixes": [
+    "Alex",
+    "Chris",
+    "Sam",
+    "Taylor",
+    "Jordan",
+    "Ryan",
+    "Casey",
+    "Jamie",
+    "Drew",
+    "Blake"
+  ],
+  "suffixes": [
+    "ina",
+    "lyn",
+    "leigh",
+    "ton",
+    "Ann",
+    "Elle",
+    "Ie",
+    "Lee",
+    "Erica",
+    "Belle"
+  ]
+}

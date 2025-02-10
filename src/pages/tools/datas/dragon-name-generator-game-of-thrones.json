@@ -1,0 +1,80 @@
+{
+  "name": "Dragon Name Generator (Game of Thrones Edition)",
+  "description": "Unleash your inner Targaryen! Forge legendary dragon names worthy of Westeros with our Game of Thrones-inspired Dragon Name Generator. Prepare to breathe fire and dominate the skies!",
+  "slug": "dragon-name-generator-game-of-thrones",
+  "icon": "\ud83d\udc09",
+  "introduction": "Winter is coming, and so are the dragons! But every magnificent beast needs a name that echoes through the ages. Whether you're writing fan fiction, creating a D&D character, or just dreaming of ruling the Seven Kingdoms from dragonback, our generator will help you find the perfect moniker. Get ready to name a dragon that would make Daenerys proud!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Keep clicking until you find a name that makes your inner dragon roar with approval.",
+    "Steal the name. We won't tell. (Just kidding... mostly.)",
+    "Use your awesome new dragon name in your stories, games, or everyday life. Imagine introducing yourself at Starbucks: 'Hi, I'm ordering for... *whispers*... Viserax the Destroyer.'",
+    "Share your favorite names with your friends and see who can come up with the most epic dragon name!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually related to Game of Thrones or George R.R. Martin?",
+      "answer": "While we're huge fans, this is an independent creation. We've drawn inspiration from the world of Westeros, but we're not officially affiliated. Think of it as fan-made with love (and a healthy dose of dragon fire!)."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "We provide these names for creative inspiration. Using them commercially is at your own risk. We recommend checking for trademark issues if you plan on using a generated name for a product or business."
+    },
+    {
+      "question": "Are the generated names truly unique?",
+      "answer": "We strive to create a diverse range of names, but with a finite number of prefixes and suffixes, there's a chance of occasional overlap. However, the combinations are vast, so you're likely to find something truly special."
+    },
+    {
+      "question": "Why are some names so weird?",
+      "answer": "Dragons are ancient, powerful, and sometimes a little eccentric. We've included some unusual options to capture that spirit. Embrace the weirdness! It's what makes dragons so cool!"
+    },
+    {
+      "question": "Will you be adding more prefixes and suffixes in the future?",
+      "answer": "Absolutely! We're always looking for ways to improve the generator and provide even more awesome names. Stay tuned for updates, and feel free to suggest your own ideas!"
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep generating! Or, use the generator as inspiration and tweak the names to your liking. The point is to spark your creativity and help you find the perfect name for your dragon."
+    }
+  ],
+  "prefixes": [
+    "Drogon",
+    "Rhae",
+    "Viser",
+    "Baler",
+    "Vhagar",
+    "Merax",
+    "Syrax",
+    "Carax",
+    "Arrax",
+    "Tyrax",
+    "Vermax",
+    "Storm",
+    "Shadow",
+    "Night",
+    "Ice",
+    "Fire",
+    "Blood",
+    "Steel",
+    "Stone",
+    "Moon"
+  ],
+  "suffixes": [
+    "yon",
+    "ax",
+    "ys",
+    "eth",
+    "ar",
+    "on",
+    "yx",
+    "ion",
+    "es",
+    "or",
+    "arax",
+    "arys",
+    "ith",
+    "ithrax",
+    "ara",
+    "yrion"
+  ]
+}

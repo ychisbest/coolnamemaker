@@ -1,0 +1,84 @@
+{
+  "name": "Female Druid Name Generator",
+  "description": "Unleash the mystical power within and discover the perfect moniker for your enchanting female druid! From names whispered by ancient forests to those echoing with the strength of nature, find a title that resonates with your character's wild spirit.",
+  "slug": "female-druid-name-generator",
+  "icon": "\ud83c\udf3f",
+  "introduction": "Are you ready to embark on a journey into the heart of the wild? Do you seek a name that embodies the grace, power, and untamed beauty of a female druid? Look no further! Our Female Druid Name Generator is your gateway to a realm of captivating names, each imbued with the essence of the natural world. Whether you're crafting a character for a tabletop RPG, writing a fantastical tale, or simply seeking inspiration, prepare to be spellbound by the possibilities!",
+  "howToUse": [
+    "Behold, the magic is simple! Just click that glorious 'Generate' button and watch as the ancient spirits conjure forth a name worthy of a true daughter of the forest.",
+    "Not feeling the first name you see? No worries! The forest is vast and teeming with possibilities. Click again, and again, until you find the perfect name that whispers to your soul.",
+    "Mix and match! Take inspiration from different generated names. Combine prefixes and suffixes to craft a truly unique and personalized name that reflects your druid's individual spirit.",
+    "Consider your druid's backstory and personality. Does she commune with the stars? Is she a fierce protector of the woodlands? Let these elements guide your choice.",
+    "Most importantly, have fun! Let your imagination run wild and embrace the creative power of the natural world."
+  ],
+  "faqs": [
+    {
+      "question": "What makes a good druid name?",
+      "answer": "A good druid name often evokes a sense of nature, mystery, and power. It might reference plants, animals, natural phenomena, or ancient lore. Ultimately, the best name is one that resonates with your character and feels authentic to their story."
+    },
+    {
+      "question": "Can I use these names for other fantasy characters?",
+      "answer": "Absolutely! While this generator is tailored for female druids, the names can easily be adapted for other nature-based characters like rangers, witches, or even mystical forest creatures. Let your creativity be your guide!"
+    },
+    {
+      "question": "Are these names based on any specific mythology?",
+      "answer": "The names draw inspiration from a variety of mythologies, including Celtic, Norse, and Greco-Roman, as well as general folklore and nature symbolism. We've aimed for a blend of familiarity and originality."
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly working to expand our collection of names and improve the generator. Check back regularly for fresh inspiration and new possibilities! We aim to update the generator monthly."
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We love hearing from our users! Feel free to send us your name suggestions through our contact form on coolnamemaker.com. While we can't guarantee that every suggestion will be added, we appreciate your input!"
+    },
+    {
+      "question": "Are the generated names trademarked?",
+      "answer": "No, the generated names are not trademarked. However, it's always a good idea to do a quick search to ensure that the name you choose isn't already in use, especially if you plan to use it for commercial purposes."
+    }
+  ],
+  "prefixes": [
+    "Sylvani",
+    "Elowen",
+    "Briar",
+    "Willow",
+    "Lyra",
+    "Aeliana",
+    "Faelan",
+    "Nimue",
+    "Rowan",
+    "Linnea",
+    "Alder",
+    "Hazel",
+    "Veridian",
+    "Astrid",
+    "Luna",
+    "Terra",
+    "Glenna",
+    "Myra",
+    "Coralia",
+    "Opal"
+  ],
+  "suffixes": [
+    "wyn",
+    "leaf",
+    "wood",
+    "song",
+    "bloom",
+    "whisper",
+    "shade",
+    "flower",
+    "stream",
+    "grove",
+    "bane",
+    "light",
+    "myst",
+    "wind",
+    "moon",
+    "heart",
+    "dew",
+    "stone",
+    "thorn",
+    "vine"
+  ]
+}

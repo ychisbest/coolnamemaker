@@ -1,0 +1,75 @@
+{
+  "name": "Japanese Female Name Generator",
+  "description": "Struggling to find the perfect Japanese name for your character, baby, or just for fun? Our generator crafts beautiful and authentic-sounding Japanese female names with a click!",
+  "slug": "japanese-name-female-generator",
+  "icon": "\ud83c\udf38",
+  "introduction": "Konnichiwa! Dive into the enchanting world of Japanese female names. Whether you're writing a novel, naming a pet, or just curious about Japanese culture, finding the right name can be a delightful journey. Our generator combines traditional elements with modern flair, offering a diverse range of options that resonate with beauty and meaning. Get ready to discover a name that truly speaks to you!",
+  "howToUse": [
+    "Simply click the 'Generate' button, and BAM! A beautiful Japanese female name appears.",
+    "Not feeling the first result? No problem! Keep clicking until you find the name that makes your heart sing.",
+    "Want to tweak it? Use the prefixes and suffixes to create a unique name that's totally *you* (or, you know, your character).",
+    "Remember, have fun with it! Naming should be an adventure, not a chore."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually Japanese?",
+      "answer": "Absolutely! We've curated a list of prefixes and suffixes based on common Japanese names and cultural elements. While the combinations are generated, the building blocks are authentic."
+    },
+    {
+      "question": "Can I use these names for my baby?",
+      "answer": "Of course! Many of the generated names are perfectly suitable for a baby. However, we always recommend doing your own research to ensure the name has a meaning and connotation that you love."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "No worries! Keep clicking! Our generator offers a vast number of combinations. You can also use the prefixes and suffixes as inspiration to create your own unique name."
+    },
+    {
+      "question": "Are there any male names on this generator?",
+      "answer": "This specific generator focuses exclusively on female names. But stay tuned! We might have a male name generator coming soon. \ud83d\ude09"
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're always striving to improve and expand our name options! We regularly update the prefixes and suffixes to reflect current trends and cultural nuances."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added?",
+      "answer": "We'd love to hear your suggestions! Please feel free to contact us through our website with your ideas."
+    }
+  ],
+  "prefixes": [
+    "Ami",
+    "Hana",
+    "Yumi",
+    "Sakura",
+    "Rina",
+    "Akari",
+    "Hotaru",
+    "Mei",
+    "Sora",
+    "Ayame",
+    "Koharu",
+    "Tsukiyo",
+    "Ren",
+    "Kiyo",
+    "Mio",
+    "Kanon"
+  ],
+  "suffixes": [
+    "ko",
+    "mi",
+    "ka",
+    "na",
+    "ri",
+    "ho",
+    "ne",
+    "no",
+    "yo",
+    "e",
+    "ri",
+    "ra",
+    "ru",
+    "re",
+    "ro",
+    "wa"
+  ]
+}

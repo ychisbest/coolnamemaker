@@ -1,0 +1,83 @@
+{
+  "name": "Soccer Name Generator",
+  "description": "Need a killer soccer name that screams victory? Our Soccer Name Generator is here to kick your creativity into high gear! Get ready to score some seriously awesome names.",
+  "slug": "soccer-name-generator",
+  "icon": "\u26bd",
+  "introduction": "Whether you're starting a new team, creating a character for a soccer game, or just looking for a fun nickname, finding the perfect name can be tough. That's where our Soccer Name Generator comes in! We've got a winning formula to help you create names that are unforgettable and totally on point.",
+  "howToUse": [
+    "First, ditch the boring names! Seriously, 'Team Awesome' is so last season.",
+    "Next, hit that 'Generate' button. Prepare to be amazed!",
+    "Keep clicking until you find a name that makes you want to do a victory dance. We won't judge if you actually do one.",
+    "Once you've found the perfect name, spread the word! Let everyone know you're the team/player with the coolest moniker on the field."
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my professional soccer team?",
+      "answer": "Absolutely! While we can't guarantee instant fame and fortune, a cool name is definitely a step in the right direction. Just imagine the headlines: 'The [Generated Name] Score Big!'"
+    },
+    {
+      "question": "Are the generated names actually any good?",
+      "answer": "We think so! We've put a lot of thought into the prefixes and suffixes to create names that are both unique and relevant to the world of soccer. But hey, beauty is in the eye of the beholder, so keep generating until you find one you love!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You bet! Our Soccer Name Generator is completely free. Use it as much as you like to find the perfect name. We're all about spreading the soccer love!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions, and we might just add them to the generator. Help us make it even more awesome!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "No problem! Just keep hitting that 'Generate' button. With so many possible combinations, you're bound to find a name that clicks. And remember, you can always tweak a generated name to make it even more perfect."
+    },
+    {
+      "question": "Will using this generator guarantee my team wins?",
+      "answer": "While we'd love to promise that, a winning name is just one piece of the puzzle. You'll still need skill, teamwork, and maybe a little bit of luck. But hey, looking good on the field is half the battle, right?"
+    }
+  ],
+  "prefixes": [
+    "Rapid",
+    "United",
+    "Dynamo",
+    "Strikers",
+    "Eagles",
+    "Phoenix",
+    "Titans",
+    "Wolves",
+    "Warriors",
+    "Galaxy",
+    "Cosmic",
+    "Inferno",
+    "Blazing",
+    "Thunder",
+    "Victory",
+    "Apex",
+    "Renegade",
+    "Elite",
+    "Legendary",
+    "Spectra"
+  ],
+  "suffixes": [
+    "FC",
+    "SC",
+    "United",
+    "Athletic",
+    "Stars",
+    "Rangers",
+    "Rovers",
+    "City",
+    "Town",
+    "Academy",
+    "Club",
+    "Legends",
+    "Warriors",
+    "Gladiators",
+    "Falcons",
+    "Tigers",
+    "Sharks",
+    "Lions",
+    "Panthers",
+    "Vipers"
+  ]
+}

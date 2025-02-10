@@ -1,0 +1,114 @@
+{
+  "name": "Duo Name Generator",
+  "description": "Struggling to find the perfect name for your dynamic duo? Look no further! Our Duo Name Generator crafts catchy, cool, and unforgettable names that perfectly capture your partnership's essence. Get ready to rock the world with a name that's as awesome as you two are!",
+  "slug": "duo-name-generator",
+  "icon": "\ud83d\udc6f",
+  "introduction": "Two heads are better than one, and two awesome names are even better! Whether you're starting a band, a business, a gaming team, or just need a fun nickname for you and your bestie, this generator has you covered. Prepare for a symphony of sensational suggestions!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic!",
+    "Don't like the first result? Keep clicking! We've got a treasure trove of names waiting to be discovered.",
+    "Found a name you adore? Copy it and share it with your partner in crime (or business!).",
+    "Feeling adventurous? Mix and match prefixes and suffixes from different results to create your own unique masterpiece. Go wild!",
+    "Remember, the best name is one that resonates with both of you. Have fun and let your creativity flow!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the Duo Name Generator work?",
+      "answer": "It uses a sophisticated algorithm (okay, it's just a list of cool words and some random selection) to combine prefixes and suffixes into captivating duo names. It's like a name-making smoothie \u2013 delicious and refreshing!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once you've generated a name you love, it's all yours. Use it for your band, your business, your Twitch stream \u2013 the sky's the limit!"
+    },
+    {
+      "question": "Are the generated names unique?",
+      "answer": "While we strive to create a wide variety of names, there's always a chance someone else might have a similar idea. We recommend doing a quick search to ensure your chosen name is truly one-of-a-kind."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added to the generator?",
+      "answer": "We're always looking for ways to improve! Send your suggestions our way through the contact form on our website. We appreciate your input!"
+    },
+    {
+      "question": "Is the Duo Name Generator free to use?",
+      "answer": "Yes, absolutely! Use it as many times as you like, completely free of charge. We're here to help you find the perfect name without breaking the bank. Because awesome names shouldn't cost a fortune!"
+    },
+    {
+      "question": "What if my duo just can't agree on a name?",
+      "answer": "If you are still unsure, you can try combine both name together!"
+    }
+  ],
+  "prefixes": [
+    "Cosmic",
+    "Mystic",
+    "Shadow",
+    "Crimson",
+    "Electric",
+    "Galactic",
+    "Lunar",
+    "Solar",
+    "Phantom",
+    "Iron",
+    "Steel",
+    "Neon",
+    "Cyber",
+    "Pixel",
+    "Nova",
+    "Sonic",
+    "Rogue",
+    "Silent",
+    "Wild",
+    "Urban",
+    "Retro",
+    "Mega",
+    "Terra",
+    "Aqua",
+    "Blaze",
+    "Frost",
+    "Storm",
+    "Zenith",
+    "Apex",
+    "Echo",
+    "Rune",
+    "Celestial",
+    "Quantum",
+    "Spectra",
+    "Vanguard"
+  ],
+  "suffixes": [
+    "Force",
+    "Strike",
+    "Guard",
+    "Claw",
+    "Edge",
+    "Shield",
+    "Blades",
+    "Storm",
+    "Fury",
+    "Heart",
+    "Soul",
+    "Fire",
+    "Ice",
+    "Light",
+    "Dark",
+    "Riders",
+    "Hunters",
+    "Wolves",
+    "Dragons",
+    "Knights",
+    "Legends",
+    "Titans",
+    "Warriors",
+    "Avengers",
+    "Sentinels",
+    "Phantoms",
+    "Specters",
+    "Guardians",
+    "Defenders",
+    "Renegades",
+    "Vanguards",
+    "Brigade",
+    "Syndicate",
+    "Alliance",
+    "Legion"
+  ]
+}

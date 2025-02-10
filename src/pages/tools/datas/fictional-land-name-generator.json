@@ -1,0 +1,99 @@
+{
+  "name": "Fictional Land Name Generator",
+  "description": "Struggling to conjure up the perfect moniker for your fantastical realm? Fear not, weary worldbuilder! Our Fictional Land Name Generator is here to whisk you away on a whirlwind of linguistic inspiration. Craft kingdoms, forge frontiers, and christen continents with names that resonate with magic and mystery.",
+  "slug": "fictional-land-name-generator",
+  "icon": "\ud83d\uddfa\ufe0f",
+  "introduction": "So, you're building a world? Awesome! Every great world needs a great name. But staring at a blank page is about as fun as a goblin tea party. That's where we come in. We'll help you dream up names so epic, so evocative, they'll practically write your story for you. Get ready to unlock a treasure trove of imaginative place names!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the birth of new lands!",
+    "Feeling picky? Keep clicking until you find the name that makes your inner bard sing.",
+    "Want to fine-tune the results? Experiment with different prefix and suffix combinations. The possibilities are as boundless as your imagination!",
+    "Don't be afraid to mix and match! Take inspiration from multiple generated names to create something truly unique.",
+    "Share your favorite creations with your fellow worldbuilders! Spread the joy of perfectly named places."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe that every worldbuilder deserves access to awesome names, regardless of budget. Consider it a gift from us to your creative endeavors."
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "You bet! Once generated, the names are yours to use as you see fit. Create a best-selling fantasy novel, a groundbreaking video game, or even a ridiculously successful brand of artisanal cheese. The choice is yours!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Mostly! We use a carefully curated collection of prefixes and suffixes, combined with a dash of randomness, to create names that are both unique and evocative. It's the perfect blend of chaos and control."
+    },
+    {
+      "question": "Will the names be grammatically correct?",
+      "answer": "We strive for grammatical correctness, but sometimes the most interesting names break the rules a little. Embrace the weirdness! After all, it's a fictional world \u2013 anything goes!"
+    },
+    {
+      "question": "Can I contribute my own prefixes and suffixes?",
+      "answer": "We're always looking for ways to improve! While we don't currently have a direct contribution system, feel free to send us your suggestions. If we love them, we might just add them to the generator!"
+    },
+    {
+      "question": "I generated a name that already exists. What should I do?",
+      "answer": "That's a bummer! While we try our best to generate unique names, overlaps can happen. Just hit that generate button again! The perfect name is out there waiting for you."
+    }
+  ],
+  "prefixes": [
+    "Aether",
+    "Eldoria",
+    "Silver",
+    "Shadow",
+    "Whisper",
+    "Dragon",
+    "Crystal",
+    "Iron",
+    "Sun",
+    "Moon",
+    "Storm",
+    "Frost",
+    "Verdant",
+    "Crimson",
+    "Obsidian",
+    "Azure",
+    "Gloom",
+    "Radiant",
+    "Ancient",
+    "New",
+    "Lost",
+    "Great",
+    "High",
+    "Low",
+    "Eastern",
+    "Western",
+    "Northern",
+    "Southern"
+  ],
+  "suffixes": [
+    "ia",
+    "gard",
+    "wood",
+    "shire",
+    "ton",
+    "ville",
+    "land",
+    "realm",
+    "dom",
+    "haven",
+    "ford",
+    "peak",
+    "dale",
+    "glen",
+    "mere",
+    "strand",
+    "coast",
+    "mount",
+    "cliff",
+    "dell",
+    "field",
+    "valley",
+    "reach",
+    "hold",
+    "mark",
+    "gate",
+    "end"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "name": "Gundam Name Generator",
+  "description": "Struggling to come up with the perfect callsign for your Mobile Suit pilot? Fear not, cadet! Our Gundam Name Generator will bestow upon you a moniker worthy of Newtype status. Get ready to launch!",
+  "slug": "gundam-name-generator",
+  "icon": "\ud83e\udd16",
+  "introduction": "In the grim darkness of the far future, there is only war... and a desperate need for cool Gundam pilot names! This generator combines prefixes and suffixes to forge names as epic as a beam saber duel. Whether you're writing fanfiction, roleplaying, or just want to sound awesome, we've got you covered. Prepare for names that resonate with the spirit of Amuro Ray and the cunning of Char Aznable!",
+  "howToUse": [
+    "Simply hit the 'Generate' button and behold! A brand new Gundam name will be conjured into existence.",
+    "Not feeling the first result? No sweat! Keep clicking until you find a name that truly resonates with your inner Newtype.",
+    "Want to get *really* creative? Mix and match prefixes and suffixes from different generations to create a name that's uniquely YOU. Go wild, pilot!",
+    "Share your awesome new name with your friends and dominate the battlefield... or at least the online forums."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names canon?",
+      "answer": "While these names are generated with Gundam aesthetics in mind, they are not officially endorsed by Sunrise. Think of them as fan-made creations, perfect for adding flavor to your own stories and games."
+    },
+    {
+      "question": "Can I use these names for my original characters?",
+      "answer": "Absolutely! These names are free for you to use in any way you see fit. Go forth and create some amazing Gundam pilots!"
+    },
+    {
+      "question": "Will this generator make me a better pilot?",
+      "answer": "While we can't guarantee improved piloting skills, a cool name is definitely a confidence booster! So, yes, indirectly, it might just give you the edge you need to defeat your rivals in Mobile Suit battles (or at least look cooler while losing)."
+    },
+    {
+      "question": "How many names can this generator create?",
+      "answer": "With our extensive list of prefixes and suffixes, the possibilities are virtually endless! You could spend a lifetime generating names and still not see them all."
+    },
+    {
+      "question": "Can I suggest prefixes and suffixes for the generator?",
+      "answer": "We're always looking for ways to improve our generator! Feel free to send us your suggestions, and we might just add them to the list. Help us create the ultimate Gundam name resource!"
+    },
+    {
+      "question": "Is this generator powered by Minovsky particles?",
+      "answer": "While we can't confirm the presence of Minovsky particles, we can assure you that the generator is powered by pure, unadulterated awesome."
+    }
+  ],
+  "prefixes": [
+    "Burning",
+    "Crimson",
+    "Azure",
+    "Iron",
+    "Steel",
+    "Thunder",
+    "Shadow",
+    "Blazing",
+    "Silent",
+    "White",
+    "Black",
+    "Golden",
+    "Silver",
+    "Jade",
+    "Omega",
+    "Delta",
+    "Nova",
+    "Phantom",
+    "Stellar",
+    "Cosmic",
+    "Lunar",
+    "Solar",
+    "Mech",
+    "Neo",
+    "Psycho",
+    "Giga",
+    "Terra",
+    "Exia",
+    "Unicorn",
+    "Destiny",
+    "Strike",
+    "Freedom",
+    "Justice",
+    "Providence",
+    "Rebellion",
+    "Victory"
+  ],
+  "suffixes": [
+    "Blade",
+    "Striker",
+    "Knight",
+    "Saber",
+    "Gundam",
+    "Warrior",
+    "Ace",
+    "Titan",
+    "Dragon",
+    "Phoenix",
+    "Zero",
+    "Angel",
+    "Hunter",
+    "Valkyrie",
+    "Spectre",
+    "Phantom",
+    "Reaper",
+    "Avenger",
+    "Destroyer",
+    "Dominator",
+    "Overlord",
+    "Crusher",
+    "Breaker",
+    "Force",
+    "Drive",
+    "Impact",
+    "Edge",
+    "Nova",
+    "Ignis",
+    "Genesis",
+    "Exodus",
+    "Legend",
+    "Savior",
+    "Rider"
+  ]
+}

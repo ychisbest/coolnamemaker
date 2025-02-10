@@ -1,0 +1,101 @@
+{
+  "name": "WoW Human Name Generator",
+  "description": "Roll up a character that screams 'For the Alliance!' with our WoW Human Name Generator. Get names worthy of Stormwind's finest!",
+  "slug": "wow-human-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "So, you're diving into the world of Azeroth as a Human? Excellent choice! Now, you need a name that resonates with valor, nobility, and maybe just a touch of that good ol' human stubbornness. Our WoW Human Name Generator is here to craft the perfect moniker for your digital avatar. Whether you're a stoic paladin, a cunning rogue, or a powerful mage, we've got the name that'll make you a legend in the making. Let's get you named and ready to defend Azeroth!",
+  "howToUse": [
+    "Simply click the 'Generate' button \u2013 like, duh! It's not rocket science, even though some Gnomes might disagree.",
+    "Keep clicking until a name jumps out and screams, 'That's ME!' (Don't worry, they usually don't *actually* scream... usually).",
+    "Copy your chosen name and paste it into the game. Prepare for glory!",
+    "If you're feeling extra creative, mix and match prefixes and suffixes to forge your own unique legacy. Go wild, you magnificent human!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator only for World of Warcraft?",
+      "answer": "While inspired by WoW Humans, the names generated can be used for any fantasy setting. Think of it as a universal name-crafting tool for all your heroic endeavors!"
+    },
+    {
+      "question": "Can I use these names for my novel?",
+      "answer": "Absolutely! Steal away! We won't tell anyone. Just promise us you'll write a character worthy of the name."
+    },
+    {
+      "question": "Are the names generated lore-accurate?",
+      "answer": "We've done our best to capture the essence of Human naming conventions in WoW. While not *every* name will be 100% lore-perfect, they'll definitely fit the vibe."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! Click away until you find 'the one'. We're not charging by the name here, friend."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Then you, my friend, are too picky! Just kidding (mostly). Keep generating! Or, use the prefixes and suffixes as inspiration to create your own masterpiece. The power is in your hands!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Totally and utterly free! Enjoy the endless stream of names without spending a single copper coin."
+    }
+  ],
+  "prefixes": [
+    "Adam",
+    "Alex",
+    "Ben",
+    "Charles",
+    "Chris",
+    "David",
+    "Edward",
+    "Ethan",
+    "Gabriel",
+    "Henry",
+    "Isaac",
+    "Jack",
+    "John",
+    "Kevin",
+    "Leo",
+    "Matt",
+    "Nathan",
+    "Oliver",
+    "Peter",
+    "Quinn",
+    "Ryan",
+    "Sam",
+    "Thomas",
+    "Victor",
+    "William",
+    "Arth",
+    "Lothar",
+    "Tirion",
+    "Gareth",
+    "Alons",
+    "Uther",
+    "Jaina",
+    "Katherine",
+    "Anduin"
+  ],
+  "suffixes": [
+    "son",
+    "ton",
+    "ford",
+    "wick",
+    "well",
+    "wood",
+    "mere",
+    "bright",
+    "light",
+    "bane",
+    "heart",
+    "shield",
+    "blade",
+    "hammer",
+    "crown",
+    "hope",
+    "valor",
+    "song",
+    "whisper",
+    "storm",
+    "wind",
+    "fire",
+    "frost",
+    "shadow"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Brothel Name Generator",
+  "description": "Spice up your\u2026 creative writing\u2026 with a dash of historical flair! Our Brothel Name Generator crafts unique and evocative names that are sure to raise eyebrows and tickle your funny bone. (Disclaimer: Use responsibly. We are not responsible for any awkward conversations.)",
+  "slug": "brothel-name-generator",
+  "icon": "\ud83c\udfee",
+  "introduction": "Ever needed a name that's both historical and a little bit naughty? Look no further! This generator conjures up names reminiscent of a bygone era, perfect for adding a touch of risque charm to your projects. Whether you're writing a novel, designing a game, or just looking for a laugh, we've got you covered. Get ready to unleash your inner rogue!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new, utterly unique brothel name will appear before your very eyes.",
+    "Don't like the first result? No problem! Just keep clicking until you find the name that perfectly captures your vision.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create your own custom concoctions. The possibilities are endless!",
+    "Use these names wisely. We are not responsible for side-eye looks or awkward silences."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually for naming brothels?",
+      "answer": "Well, technically, you *could* use it for that. But we designed it more for creative writing, games, and general amusement. Use your best judgment!"
+    },
+    {
+      "question": "Are the names historically accurate?",
+      "answer": "We've drawn inspiration from historical naming conventions, but some names are purely fictional. It's a blend of fact and fancy!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Sure, go for it! Just be mindful of potential sensitivities and make sure you're not infringing on any existing trademarks."
+    },
+    {
+      "question": "I generated a name that's a bit\u2026 *too* risque. What should I do?",
+      "answer": "Our apologies! The generator is designed to be a bit cheeky, but if you find a name offensive, just generate another one. We aim for playful, not problematic."
+    },
+    {
+      "question": "Will using these names get me in trouble?",
+      "answer": "Probably not, as long as you're using them responsibly and in appropriate contexts. We're not liable for any social faux pas or legal issues that may arise."
+    },
+    {
+      "question": "Can I contribute to the generator?",
+      "answer": "We'd love to hear your suggestions! Send us your ideas for prefixes, suffixes, or even entirely new name combinations."
+    }
+  ],
+  "prefixes": [
+    "Scarlet",
+    "Velvet",
+    "Crimson",
+    "Whispering",
+    "Midnight",
+    "Secret",
+    "Silk",
+    "Lace",
+    "Gilded",
+    "Painted",
+    "The Dancing",
+    "The Golden",
+    "The Silver",
+    "The Red",
+    "The Blue",
+    "Madame",
+    "Lady",
+    "Miss",
+    "Auntie"
+  ],
+  "suffixes": [
+    "Rose",
+    "Lily",
+    "Poppy",
+    "Lotus",
+    "Orchid",
+    "Shadows",
+    "Dreams",
+    "Delights",
+    "Whispers",
+    "Pleasures",
+    "Haven",
+    "Retreat",
+    "Emporium",
+    "Garden",
+    "Boudoir",
+    "Chambers",
+    "Den",
+    "Nest",
+    "Hideaway"
+  ]
+}

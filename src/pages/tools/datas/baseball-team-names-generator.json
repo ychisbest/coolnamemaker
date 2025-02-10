@@ -1,0 +1,92 @@
+{
+  "name": "Baseball Team Name Generator",
+  "description": "Knock it out of the park with a name that's a home run! Our Baseball Team Name Generator serves up the perfect moniker, whether you're starting a new team, rebranding an old one, or just need a laugh. Get ready to step up to the plate and swing for the fences with a name that'll have the crowd roaring!",
+  "slug": "baseball-team-names-generator",
+  "icon": "\u26be",
+  "introduction": "Tired of the same old boring team names? Yearning for a moniker that screams victory and strikes fear into the hearts of your opponents? Look no further! Our generator is the ultimate tool for crafting baseball team names that are as unique and unforgettable as your team's legendary plays. From pun-tastic creations to seriously cool titles, we've got you covered. Let's play ball... with names!",
+  "howToUse": [
+    "First, take a deep breath. Channel your inner baseball spirit.",
+    "Click the 'Generate' button. (It's the one that looks like it's begging to be clicked!)",
+    "Behold! A dazzling array of baseball team names will appear before your very eyes.",
+    "Keep clicking until you find the name that resonates with your team's vibe. Don't be afraid to get picky!",
+    "Once you've found 'the one,' shout it from the rooftops (or at least share it with your teammates).",
+    "Now go out there and dominate the diamond with your awesome new name!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe that everyone deserves a killer baseball team name, regardless of their budget. Consider it our gift to the baseball gods."
+    },
+    {
+      "question": "Can I use these names for professional teams?",
+      "answer": "While you're welcome to try, these names are primarily designed for amateur, recreational, or just-for-fun teams. But hey, who knows? Maybe you'll start a trend!"
+    },
+    {
+      "question": "Are the names generated random?",
+      "answer": "Yes, the names are generated using a combination of prefixes, suffixes, and a dash of baseball magic. So, each name is unique and often hilarious."
+    },
+    {
+      "question": "Can I suggest a name to be added to the generator?",
+      "answer": "We're always open to suggestions! Send us your best baseball-themed words and phrases. If they're good enough, we might just add them to the mix."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With our vast database of baseball-related terms, you're bound to find a name that hits it out of the park eventually. Or, you know, just use it as inspiration to create your own masterpiece."
+    },
+    {
+      "question": "Will using a cool name actually make my team better?",
+      "answer": "While we can't guarantee improved batting averages or fielding skills, a cool name can definitely boost team morale and intimidate your opponents. Plus, you'll look awesome doing it!"
+    }
+  ],
+  "prefixes": [
+    "Blazing",
+    "Mighty",
+    "Atomic",
+    "Raging",
+    "Screaming",
+    "Flying",
+    "Iron",
+    "Steel",
+    "Diamond",
+    "Golden",
+    "Silver",
+    "Crimson",
+    "Emerald",
+    "Sapphire",
+    "Obsidian",
+    "Titan",
+    "Phantom",
+    "Renegade",
+    "Voodoo",
+    "Cosmic",
+    "Galactic",
+    "Lunar",
+    "Solar"
+  ],
+  "suffixes": [
+    "Bombers",
+    "Sluggers",
+    "Stars",
+    "Comets",
+    "Rockets",
+    "Titans",
+    "Legends",
+    "Warriors",
+    "Knights",
+    "Dragons",
+    "Eagles",
+    "Hawks",
+    "Sharks",
+    "Wolves",
+    "Rams",
+    "Bears",
+    "Grizzlies",
+    "Cobras",
+    "Vipers",
+    "Jaguars",
+    "Panthers",
+    "Rhinos",
+    "Mammoths",
+    "Giants"
+  ]
+}

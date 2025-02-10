@@ -1,0 +1,84 @@
+{
+  "name": "Tiefling Name Generator",
+  "description": "Struggling to find the perfect moniker for your devilishly charming Tiefling character? Fear not, adventurer! Our Tiefling Name Generator conjures names that are both infernally inspired and delightfully unique. Unleash your inner Tiefling with a name that resonates with power, mystique, and a touch of the abyss!",
+  "slug": "tiefling-name-generator",
+  "icon": "\ud83d\ude08",
+  "introduction": "So, you've rolled up a Tiefling. Awesome! But now comes the tricky part: the name. Do you go traditional Infernal? Something that hints at their hidden pact? Or something completely off-the-wall to throw everyone for a loop? Our Tiefling Name Generator is here to spark your imagination and deliver names that are as captivating as the characters they adorn. Get ready to embrace the darkness...or at least a really cool name associated with it.",
+  "howToUse": [
+    "Simply click the 'Generate' button to conjure up a brand new Tiefling name!",
+    "Feeling picky? Keep clicking until a name resonates with your character's personality.",
+    "Want to mix things up? Try combining prefixes and suffixes from different generations for a truly unique creation.",
+    "Don't be afraid to tweak a generated name to make it your own. A little alteration can go a long way!",
+    "Share your awesome Tiefling names with your friends and fellow adventurers. Spread the infernal joy!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "This generator creates names inspired by Infernal languages, classic fantasy naming conventions, and a dash of pure imagination. Expect a mix of powerful, mysterious, and slightly sinister-sounding names."
+    },
+    {
+      "question": "Can I use these names for characters other than Tieflings?",
+      "answer": "Absolutely! While designed for Tieflings, many of these names could work well for other races or even as place names in your world. Get creative!"
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! The names generated are yours to use freely in your stories, games, and other creative projects. Go forth and conquer (or at least role-play convincingly)!"
+    },
+    {
+      "question": "How does the generator actually *work*?",
+      "answer": "It's a secret blend of carefully curated prefixes, suffixes, and a sprinkle of digital magic. Think of it as a tiny imp working tirelessly to forge the perfect name for your Tiefling."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We're always open to suggestions! Feel free to reach out with your ideas. Who knows, your contribution might inspire the next generation of Tiefling names!"
+    },
+    {
+      "question": "I don't like any of the names! What should I do?",
+      "answer": "Keep generating! There are countless possibilities. Or, use the generated names as inspiration and create your own unique twist. The abyss is your oyster!"
+    }
+  ],
+  "prefixes": [
+    "Akmenos",
+    "Zariel",
+    "Bel",
+    "Glasya",
+    "Levistus",
+    "Fierna",
+    "Mammon",
+    "Mephisto",
+    "Asmodeus",
+    "Baal",
+    "Khrastos",
+    "Vrael",
+    "Xantus",
+    "Malphas",
+    "Bael",
+    "Astaroth",
+    "Lilith",
+    "Belial",
+    "Azazel",
+    "Abaddon"
+  ],
+  "suffixes": [
+    "-thas",
+    "-iel",
+    "-on",
+    "-ana",
+    "-ius",
+    "-ia",
+    "-tor",
+    "-el",
+    "-astra",
+    "-ion",
+    "-os",
+    "-eth",
+    "-ax",
+    "-iel",
+    "-roth",
+    "-ias",
+    "-ara",
+    "-anor",
+    "-eus",
+    "-ina"
+  ]
+}

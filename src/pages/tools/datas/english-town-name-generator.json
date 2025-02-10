@@ -1,0 +1,107 @@
+{
+  "name": "English Town Name Generator",
+  "description": "Struggling to find the perfect name for your quaint English village in your novel, game, or fantasy world? Look no further! Our English Town Name Generator conjures up authentic-sounding names that will transport you straight to the heart of the Shire (or at least, somewhere vaguely nearby).",
+  "slug": "english-town-name-generator",
+  "icon": "\ud83c\udfd8\ufe0f",
+  "introduction": "Pip pip, cheerio! Need a charmingly British name for your fictional town? Whether you're writing a historical romance, designing a medieval RPG, or just daydreaming about thatched roofs and cobblestone streets, this generator is your ticket to naming nirvana. Forget 'Genericville' \u2013 let's get properly English!",
+  "howToUse": [
+    "Simply click the 'Generate' button and *poof*! A brand-spanking-new English town name appears.",
+    "Not feeling the first result? Keep clicking! We've got more names than you can shake a stick at (a very English expression, by the way).",
+    "Found a name you adore? Jot it down! Or better yet, copy and paste it into your masterpiece.",
+    "Feeling adventurous? Mix and match prefixes and suffixes from different generations for a truly unique (and possibly hilarious) result. We won't judge!",
+    "Brew a cup of tea. This is essential for maximum creative output. Earl Grey recommended."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names *actually* English?",
+      "answer": "As English as a Sunday roast! We've scoured historical records, maps, and our own delightfully British imaginations to create a list of prefixes and suffixes that sound authentically English. Some might be real, some might be inspired, but all will feel right at home in your fictional world."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once generated, the names are yours to use as you please. Go forth and conquer the literary (or gaming) world!"
+    },
+    {
+      "question": "Will this generator help me write a whole novel?",
+      "answer": "Sadly, no. But it *will* give you a fantastic starting point! A great name can inspire a whole story, so consider this your creative kickstart."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! We've got a vast database of possibilities. If you're *still* not satisfied, try refreshing the page \u2013 the generator might surprise you with a whole new set of options."
+    },
+    {
+      "question": "Is there a secret code to unlock the *perfect* English town name?",
+      "answer": "Alas, no. But rumour has it that clicking the 'Generate' button while wearing a tweed jacket and sipping tea increases your chances of finding a truly magnificent name. Give it a try!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your suggestions! Send them our way, and we'll consider adding them to our ever-growing list. The more, the merrier!"
+    }
+  ],
+  "prefixes": [
+    "North",
+    "South",
+    "West",
+    "East",
+    "Little",
+    "Great",
+    "Upper",
+    "Lower",
+    "Old",
+    "New",
+    "King's",
+    "Queen's",
+    "Bishop's",
+    "Saint",
+    "Market",
+    "Ash",
+    "Oak",
+    "Elm",
+    "Willow",
+    "Stone",
+    "Wood",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Long",
+    "Short",
+    "High",
+    "Nether",
+    "Over",
+    "Winter",
+    "Summer",
+    "Spring",
+    "Autumn"
+  ],
+  "suffixes": [
+    "ton",
+    "ham",
+    "bury",
+    "ford",
+    "wick",
+    "worth",
+    "field",
+    "wood",
+    "ley",
+    "combe",
+    "bourne",
+    "thorpe",
+    "minster",
+    "well",
+    "castle",
+    "heath",
+    "end",
+    "side",
+    "gate",
+    "hill",
+    "dale",
+    "ridge",
+    "brook",
+    "lake",
+    "mere",
+    "port",
+    "street",
+    "cross",
+    "church"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Fusion Name Generator DBZ",
+  "description": "Unleash your inner Saiyan and fuse into the ultimate warrior! This generator crafts epic fusion names straight from the Dragon Ball Z universe. Get ready to power up!",
+  "slug": "fusion-name-generator-dbz",
+  "icon": "\ud83d\udca5",
+  "introduction": "Ever wondered what your fusion name would be if you teamed up with your best bud in the Hyperbolic Time Chamber? Look no further! This generator combines the power of two names to create a fusion name worthy of challenging even Frieza. Whether you're role-playing, writing fan fiction, or just having a laugh with friends, prepare for some seriously awesome results. It's over 9000...names!",
+  "howToUse": [
+    "First, think of two names \u2013 these could be yours and a friend's, or just any two names that sound cool together. Like, Vegeta and Bulma, or Goku and Beerus!",
+    "Enter the first name into the first box. Don't be shy, type it in!",
+    "Enter the second name into the second box. Double-check the spelling, unless you WANT a weird fusion name (which is totally fine too!).",
+    "Hit that 'FUSE!' button like you're charging a Spirit Bomb. KA-ME-HA-ME-HAAAA!",
+    "Behold! Your epic fusion name is revealed! Share it with the world, or keep it a secret weapon for your next galactic battle."
+  ],
+  "faqs": [
+    {
+      "question": "Can I use this generator for non-DBZ names?",
+      "answer": "Absolutely! While it's DBZ-inspired, the generator works with any names. Feel free to get creative and fuse names from other universes, or even real-life people!"
+    },
+    {
+      "question": "Is there a limit to the length of the names I can use?",
+      "answer": "While there isn't a strict limit, shorter names generally produce better fusion names. Super long names might result in something...unpronounceable. But hey, give it a shot and see what happens!"
+    },
+    {
+      "question": "Can I generate multiple fusion names at once?",
+      "answer": "Currently, the generator creates one fusion name at a time. But feel free to hit that 'FUSE!' button as many times as you like for endless possibilities!"
+    },
+    {
+      "question": "Are the fusion names random, or is there some kind of algorithm?",
+      "answer": "It's a bit of both! The generator uses a clever algorithm to combine parts of the two names, but there's also a touch of randomness to keep things interesting and unexpected."
+    },
+    {
+      "question": "My fusion name sounds kinda weird. What gives?",
+      "answer": "Hey, even the pros have fusion mishaps! Sometimes the names just don't mesh perfectly. But that's part of the fun! Embrace the weirdness, or try different name combinations until you find the perfect fusion."
+    },
+    {
+      "question": "Will this generator help me become a Super Saiyan?",
+      "answer": "While we can't guarantee Super Saiyan status, we *can* guarantee you'll have an awesome fusion name! Training in gravity chambers and intense emotional trauma might also help with the Super Saiyan thing..."
+    }
+  ],
+  "prefixes": [
+    "Veg",
+    "Gog",
+    "Bro",
+    "Got",
+    "Cool",
+    "Super",
+    "Ultra",
+    "Mega",
+    "Hyper",
+    "Z",
+    "Saiyan",
+    "Fusion",
+    "Master",
+    "Supreme",
+    "Grand",
+    "Power",
+    "Elite",
+    "Final",
+    "Perfect",
+    "Ultimate"
+  ],
+  "suffixes": [
+    "eta",
+    "ku",
+    "han",
+    "ten",
+    "ly",
+    "to",
+    "geta",
+    "rot",
+    "ks",
+    "a",
+    "er",
+    "man",
+    "tron",
+    "x",
+    "ion",
+    "or",
+    "us",
+    "ix",
+    "ite",
+    "oid"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "D&D Campaign Name Generator",
+  "description": "Struggling to come up with a killer name for your Dungeons & Dragons campaign? Fear not, adventurer! Our generator conjures epic, mysterious, and downright awesome campaign names faster than you can say 'Roll for initiative!'",
+  "slug": "d-and-d-campaign-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Welcome, weary traveler, to the D&D Campaign Name Generator! Your quest for the perfect campaign title ends here. Whether you're delving into the depths of a forgotten dungeon or soaring through the skies on a griffon's back, a captivating name is crucial. Let us weave a tapestry of words that will inspire your players and strike fear into the hearts of your enemies (or at least make them chuckle).",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new, potentially world-shattering campaign name will appear.",
+    "Don't like the first one? Click again! We've got more names than a dragon has gold (and that's saying something).",
+    "Feeling creative? Mix and match prefixes and suffixes to craft your own unique campaign title. The fate of the realm is in your hands!",
+    "Share your awesome campaign name with your friends and bask in their envy. You're a naming genius!",
+    "Pro Tip: Add a little backstory to your chosen name to really sell it. 'The Whispering Caves of Eldoria' sounds way cooler than just 'The Caves,' right?"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "As free as a wish granted by a benevolent genie! Use it as much as you like, no strings (or silver pieces) attached."
+    },
+    {
+      "question": "Can I use these names for my published D&D campaign?",
+      "answer": "Absolutely! Consider it our gift to the D&D community. Just maybe give us a shout-out if your campaign becomes a bestseller. \ud83d\ude09"
+    },
+    {
+      "question": "The names are a bit... weird. Is that intentional?",
+      "answer": "We aim for a blend of epic, mysterious, and slightly quirky. D&D is all about embracing the unexpected, and your campaign name should reflect that!"
+    },
+    {
+      "question": "How many names can this generator create?",
+      "answer": "Enough to fill the Nine Hells! We have a vast library of prefixes and suffixes, ensuring a near-infinite supply of campaign name possibilities."
+    },
+    {
+      "question": "What if I still can't find the perfect name?",
+      "answer": "Don't despair! Try brainstorming keywords related to your campaign's setting, plot, and villains. Then, use those keywords as inspiration to tweak the generated names or create your own masterpiece."
+    },
+    {
+      "question": "Does this generator work for other TTRPGs?",
+      "answer": "While designed with D&D in mind, many of the generated names could work for other fantasy tabletop RPGs. Give it a try and see if it sparks inspiration!"
+    }
+  ],
+  "prefixes": [
+    "The Whispering",
+    "The Shadowed",
+    "The Crimson",
+    "The Obsidian",
+    "The Forgotten",
+    "The Emerald",
+    "The Frozen",
+    "The Sunken",
+    "The Shattered",
+    "The Gilded",
+    "The Iron",
+    "The Burning",
+    "The Crystal",
+    "The Lost",
+    "The Ancient",
+    "The Silent",
+    "The Twisted",
+    "The Haunted",
+    "The Silver",
+    "The Golden",
+    "The Dark",
+    "The Everlasting",
+    "The Howling",
+    "The Raven's",
+    "The Serpent's"
+  ],
+  "suffixes": [
+    "Caves",
+    "Forest",
+    "Mountains",
+    "Sea",
+    "Desert",
+    "Kingdom",
+    "Empire",
+    "Lands",
+    "Realms",
+    "Valley",
+    "Depths",
+    "Ruins",
+    "Citadel",
+    "Fortress",
+    "Shrine",
+    "Temple",
+    "Labyrinth",
+    "Maze",
+    "Tomb",
+    "Crypt",
+    "Sanctuary",
+    "Wastes",
+    "Expanse",
+    "Abyss",
+    "Domain"
+  ]
+}

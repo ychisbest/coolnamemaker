@@ -1,0 +1,95 @@
+{
+  "name": "Cabin Name Generator",
+  "description": "Struggling to find the perfect name for your cozy cabin retreat? Let our generator spark your imagination and conjure up names that are as enchanting as the wilderness that surrounds you!",
+  "slug": "cabin-name-generator",
+  "icon": "\ud83c\udf32",
+  "introduction": "Welcome, wanderer! Naming your cabin is a big deal. It's not just a label; it's the vibe, the feeling, the *essence* of your woodland haven. Whether you're aiming for rustic charm, whimsical wonder, or a touch of mountain majesty, our Cabin Name Generator is here to help you unlock the perfect moniker. Get ready to discover a name that resonates with the soul of your cabin!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! We'll combine prefixes and suffixes to create a whole host of cabin name ideas.",
+    "Don't like what you see? No worries! Keep hitting that button until a name jumps out at you. It's like panning for gold, but with words!",
+    "Feeling creative? Tweak the suggestions! Maybe a little remixing is all you need to find the ultimate cabin name.",
+    "Once you've found 'the one,' write it down, carve it in wood, shout it from the mountaintops! Your cabin has a name!"
+  ],
+  "faqs": [
+    {
+      "question": "Why do I need a name for my cabin?",
+      "answer": "Because every awesome place deserves an awesome name! It adds character, makes it easier to give directions, and it's just plain fun."
+    },
+    {
+      "question": "Can I use these names for other things besides cabins?",
+      "answer": "Absolutely! Use them for your hiking group, your fantasy character, your pet squirrel... the possibilities are endless!"
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! They're all yours to use freely. Go forth and name cabins!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep generating! Or, use them as inspiration to come up with your own unique masterpiece. We're just here to get the creative juices flowing."
+    },
+    {
+      "question": "Will my cabin be cooler with a cool name?",
+      "answer": "Scientifically speaking... probably! A great name adds to the overall awesomeness factor. Plus, think of the Instagram potential!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send them our way, and we might just add them to the mix."
+    }
+  ],
+  "prefixes": [
+    "Whispering",
+    "Eagle's",
+    "Sunset",
+    "Moonlight",
+    "Pine",
+    "Cedar",
+    "Rustic",
+    "Cozy",
+    "Hidden",
+    "Serene",
+    "Mountain",
+    "River",
+    "Bear",
+    "Wolf",
+    "Silent",
+    "Happy",
+    "Dreamy",
+    "Ember",
+    "Stone",
+    "Wild",
+    "Winding",
+    "Grand",
+    "Little",
+    "Old",
+    "New",
+    "Lucky"
+  ],
+  "suffixes": [
+    "Haven",
+    "Nook",
+    "Lodge",
+    "Creek",
+    "View",
+    "Retreat",
+    "Hideaway",
+    "Hollow",
+    "Point",
+    "Ridge",
+    "Summit",
+    "Valley",
+    "Woods",
+    "Acres",
+    "Cabin",
+    "Nest",
+    "Dream",
+    "Bluff",
+    "Bend",
+    "Brook",
+    "Glen",
+    "Peak",
+    "Place",
+    "Rest",
+    "Shack",
+    "Spot"
+  ]
+}

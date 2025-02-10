@@ -1,0 +1,105 @@
+{
+  "name": "Fire Emblem Name Generator",
+  "description": "Struggling to come up with the perfect moniker for your Fire Emblem hero? Fear not, noble tactician! Our Fire Emblem Name Generator is here to bestow upon your characters names worthy of legends. Prepare for epic battles and unforgettable stories, all starting with the perfect name!",
+  "slug": "fire-emblem-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Welcome, future tactician, to the ultimate Fire Emblem name forge! Whether you're forging a mighty lord, a cunning mage, or a stoic knight, a great name is the first step to building a memorable character. This generator blends classic fantasy elements with the distinctive flair of Fire Emblem, ensuring your heroes and villains alike will resonate with the power and mystique of the realm.",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the awesome name that appears before your very eyes. (Seriously, prepare to be amazed.)",
+    "If the gods of Fire Emblem haven't yet smiled upon you, simply click 'Generate' again! (Rinse and repeat until you find 'The One.')",
+    "Copy and paste your chosen name directly into your Fire Emblem game, fanfic, or character sheet. (Spread the awesomeness!)",
+    "Share your epic names with your friends and bask in their envy. (Bragging rights are included.)"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "Our generator crafts names inspired by the rich lore and diverse cultures of the Fire Emblem universe. Expect a blend of noble, mystical, and battle-ready names!"
+    },
+    {
+      "question": "Can I use these names for my Fire Emblem fan fiction?",
+      "answer": "Absolutely! These names are designed to spark your creativity and bring your Fire Emblem stories to life. Feel free to use them as inspiration or adopt them wholesale!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "While the generator uses a random algorithm, it's been carefully curated with Fire Emblem naming conventions in mind. This ensures that the names sound authentic and fitting for the world."
+    },
+    {
+      "question": "Can I use these names for other fantasy games or stories?",
+      "answer": "Of course! While inspired by Fire Emblem, the names are versatile enough to suit a variety of fantasy settings. Let your imagination run wild!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, absolutely! Use it as much as you like to create the perfect names for all your Fire Emblem characters. Consider it our gift to the Fire Emblem community!"
+    },
+    {
+      "question": "The generated name is close, but not quite right. Any tips?",
+      "answer": "Try generating a few more names! Or, take the parts you like from different generated names and combine them. You can also tweak a generated name slightly to make it perfectly fit your character. For example, if you like 'Eirwyn' but want something more masculine, try 'Eirion'."
+    }
+  ],
+  "prefixes": [
+    "Aethel",
+    "Ald",
+    "Alist",
+    "Bald",
+    "Brynhild",
+    "Caed",
+    "Cor",
+    "Dra",
+    "Eir",
+    "Fael",
+    "Glaed",
+    "Grim",
+    "Hild",
+    "Isol",
+    "Jor",
+    "Kael",
+    "Lysit",
+    "Myr",
+    "Nor",
+    "Olv",
+    "Pry",
+    "Qua",
+    "Ros",
+    "Sylv",
+    "Tor",
+    "Uri",
+    "Val",
+    "Wil",
+    "Xan",
+    "Ygdr",
+    "Zel"
+  ],
+  "suffixes": [
+    "an",
+    "ara",
+    "bert",
+    "den",
+    "el",
+    "faer",
+    "gard",
+    "ian",
+    "ion",
+    "lyn",
+    "mir",
+    "nys",
+    "on",
+    "ra",
+    "ric",
+    "san",
+    "thy",
+    "us",
+    "val",
+    "wyn",
+    "yr",
+    "zan",
+    "dor",
+    "win",
+    "miel",
+    "dric",
+    "lise",
+    "mund",
+    "brecht",
+    "hardt"
+  ]
+}

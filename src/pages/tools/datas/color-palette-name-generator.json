@@ -1,0 +1,75 @@
+{
+  "name": "Color Palette Name Generator",
+  "description": "Struggling to find the *perfect* name for your stunning color palette? Fear no more! This generator conjures up catchy, creative, and unforgettable names that'll make your palette the talk of the design world. Get ready to unleash your inner artist and give your colors the spotlight they deserve!",
+  "slug": "color-palette-name-generator",
+  "icon": "\ud83c\udfa8",
+  "introduction": "Welcome to the Color Palette Name Generator, your secret weapon against boring color names! We understand the frustration of crafting a beautiful palette only to be stumped on what to *call* it. That's why we've created this magical tool to spark your imagination and deliver a wealth of awesome name ideas. Prepare to be inspired!",
+  "howToUse": [
+    "Feeling artistically blocked? Just hit that 'Generate' button and let the magic happen!",
+    "Not vibing with the first result? No sweat! Keep clicking until you find the name that speaks to your colorful soul.",
+    "Found a name you adore? Copy it, paste it, and bask in the glory of your perfectly named palette!",
+    "Want even *more* unique names? Try adding a descriptive word to the beginning or end of the generated name. Example: 'Mystic' Lavender Haze or Ocean Breeze 'Serenity'."
+  ],
+  "faqs": [
+    {
+      "question": "How does the generator come up with these names?",
+      "answer": "Our generator uses a sophisticated blend of color theory, linguistic creativity, and a dash of pure imagination. We combine evocative words, color associations, and trending design terms to create names that are both descriptive and memorable."
+    },
+    {
+      "question": "Can I use the generated names for commercial projects?",
+      "answer": "Absolutely! All generated names are free for you to use in any way you see fit, including for commercial purposes. Consider them your gift from the color gods!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "While there's an element of randomness, the generator is carefully curated to produce names that are relevant to color palettes and design aesthetics. We've trained it to avoid nonsensical or inappropriate results (most of the time!)."
+    },
+    {
+      "question": "I generated a name that already exists. What should I do?",
+      "answer": "While we strive for uniqueness, there's always a chance of overlap. If you find a name that's already in use, simply generate a new one! With countless possibilities, you're sure to find the perfect fit."
+    },
+    {
+      "question": "Can I suggest new words or phrases to be added to the generator?",
+      "answer": "We're always looking for ways to improve! Feel free to send us your suggestions through our contact form. We appreciate your input and will consider it for future updates."
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart desires. We want you to find *the one* \u2013 the name that perfectly captures the essence of your color palette. Go wild!"
+    }
+  ],
+  "prefixes": [
+    "Mystic",
+    "Serene",
+    "Vibrant",
+    "Ethereal",
+    "Bold",
+    "Subtle",
+    "Rustic",
+    "Urban",
+    "Coastal",
+    "Vintage",
+    "Electric",
+    "Lush",
+    "Frozen",
+    "Golden",
+    "Silver",
+    "Crimson"
+  ],
+  "suffixes": [
+    "Dream",
+    "Haze",
+    "Bliss",
+    "Sunset",
+    "Dawn",
+    "Whisper",
+    "Serenity",
+    "Rhapsody",
+    "Symphony",
+    "Aura",
+    "Vibes",
+    "Spectrum",
+    "Palette",
+    "Canvas",
+    "Hue",
+    "Tint"
+  ]
+}

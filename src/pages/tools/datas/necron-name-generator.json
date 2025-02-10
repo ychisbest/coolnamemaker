@@ -1,0 +1,84 @@
+{
+  "name": "Necron Name Generator",
+  "description": "Unleash the ancient power within! Forge a name worthy of a Necron lord with our generator. Perfect for Warhammer 40k fans, writers, and anyone seeking a name that echoes with the chilling resonance of the Tomb Worlds.",
+  "slug": "necron-name-generator",
+  "icon": "\ud83d\udc80",
+  "introduction": "The Necrons, ancient and implacable, demand names that reflect their cold, metallic majesty. Are you ready to embrace the bio-transference and claim your place among the undying legions? Our Necron Name Generator will craft a title worthy of your dynasty!",
+  "howToUse": [
+    "First, steel your nerves \u2013 the Necrons are not known for their warmth.",
+    "Simply click the 'Generate' button and behold! A Necron name, forged in the fires of ancient technology, will appear before your very eyes.",
+    "Not quite feeling the ancient vibes? Click again! We have a whole catacomb's worth of names just waiting to be unearthed.",
+    "Found the perfect name? Excellent! Now go forth and conquer the galaxy (or at least dominate your next gaming session).",
+    "Remember, a Necron name is a statement. Make it count!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "This generator crafts names inspired by the Necrons of Warhammer 40k. Expect a mix of metallic sounds, ancient titles, and a healthy dose of intimidating power. Think words like 'Immortalis', 'Silent', 'Reanimation', and more."
+    },
+    {
+      "question": "Are the names generated lore-accurate?",
+      "answer": "We've done our best to capture the spirit of Necron naming conventions, drawing inspiration from official sources. However, remember that this is for fun and creative inspiration. Feel free to tweak any generated name to better suit your personal vision."
+    },
+    {
+      "question": "Can I use these names for my Warhammer 40k characters?",
+      "answer": "Absolutely! Whether you're creating a new Overlord, Cryptek, or even a humble Warrior, these names are perfect for adding a touch of authentic Necron flavor to your creations. Just make sure your opponent doesn't get *too* intimidated."
+    },
+    {
+      "question": "Is the generator free to use?",
+      "answer": "Yes, it's completely free! We believe that everyone should have access to the tools they need to unleash their inner Necron lord... or at least come up with a cool character name."
+    },
+    {
+      "question": "Will the generator ever run out of names?",
+      "answer": "Highly unlikely! We're constantly updating and expanding our database of prefixes and suffixes. The Necron dynasties may be undying, but so is our commitment to providing you with endless name possibilities."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We're always open to suggestions! Feel free to reach out to us with your ideas. If they fit the Necron aesthetic, we'll gladly add them to the generator."
+    }
+  ],
+  "prefixes": [
+    "Immortalis",
+    "Silent",
+    "Crimson",
+    "Obsidian",
+    "Phyrexian",
+    "Eternal",
+    "Void",
+    "Necro",
+    "Cryptek",
+    "Annihilation",
+    "Catacomb",
+    "Dynastic",
+    "Overlord",
+    "Reanimation",
+    "Tomb",
+    "Quantum",
+    "Gauss",
+    "Scarab",
+    "Monolith",
+    "Canoptek"
+  ],
+  "suffixes": [
+    "the Eternal",
+    "the Silent",
+    "the Undying",
+    "of the Crimson Dynasty",
+    "the Obsidian",
+    "the Reclaimer",
+    "the Destroyer",
+    "the Unburdened",
+    "the Architect",
+    "the Enforcer",
+    "the Implacable",
+    "the Cold",
+    "the Relentless",
+    "the Awakened",
+    "the Unyielding",
+    "the Ruthless",
+    "the Unforgiving",
+    "the Inexorable",
+    "the Metallic",
+    "the Ancient"
+  ]
+}

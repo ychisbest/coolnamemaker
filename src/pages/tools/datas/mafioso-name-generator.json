@@ -1,0 +1,73 @@
+{
+  "name": "Mafioso Name Generator",
+  "description": "Need a slick, intimidating moniker for your next big heist... or just for fun? Our Mafioso Name Generator is here to christen you with a name that screams power, respect, and maybe just a *little* bit of danger. Capiche?",
+  "slug": "mafioso-name-generator",
+  "icon": "\ud83c\uddee\ud83c\uddf9",
+  "introduction": "So, you wanna be a wiseguy? You've come to the right place. This isn't just about names; it's about crafting a persona, a legend whispered in back alleys and around dimly lit tables. Get ready to discover your inner Don!",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's easier than shaking down a local business (and way less illegal!).",
+    "Keep clicking until you find a name that resonates with your inner crime boss. Trust us, you'll know it when you see it.",
+    "Want something truly unique? Mix and match prefixes and suffixes to create a name that's as individual as your\u2026 *ahem*\u2026 'business practices'.",
+    "Once you've got the perfect name, go forth and instill respect (or at least a healthy dose of fear) in all who hear it. But remember, we're not responsible for any actual criminal activity. This is just for fun, see?"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually connected to the Mafia?",
+      "answer": "Absolutely not! This is purely for entertainment purposes. We wouldn't want to end up sleeping with the fishes."
+    },
+    {
+      "question": "Can I use these names for my novel?",
+      "answer": "Go right ahead! Just be sure to give us a shout-out in the acknowledgments. Maybe something like, 'Special thanks to coolnamemaker.com for helping me name my characters... or else.'"
+    },
+    {
+      "question": "Will this generator help me become a real mafioso?",
+      "answer": "Probably not. We recommend taking an acting class instead. Much safer, and you still get to yell things like 'Fuggedaboutit!'"
+    },
+    {
+      "question": "Are the generated names offensive?",
+      "answer": "We aim for a playful, slightly stereotypical vibe, but we try to avoid anything genuinely offensive. If you find a name that rubs you the wrong way, just generate another one!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We're always open to suggestions! Send us your ideas \u2013 just don't ask us to 'take care of' anyone who disagrees with you."
+    },
+    {
+      "question": "What if I don't like the name it gives me?",
+      "answer": "No problem! Just hit that generate button again. We've got more names than a family tree in Sicily."
+    }
+  ],
+  "prefixes": [
+    "Tony 'The",
+    "Vinny 'The",
+    "Big",
+    "Little",
+    "Johnny 'Two",
+    "Frankie 'Fingers",
+    "Sal 'The",
+    "Joey 'Ice",
+    "Don",
+    "The",
+    "Benny 'The",
+    "Paulie 'Walnuts",
+    "Tommy 'Guns",
+    "Nicky 'The",
+    "Anthony 'The"
+  ],
+  "suffixes": [
+    "Hammer",
+    "Sledge",
+    "Knuckles",
+    "Blade",
+    "Enforcer",
+    "Silencer",
+    "Shadow",
+    "Whisper",
+    "Boss",
+    "Fixer",
+    "Ghost",
+    "Weasel",
+    "Rat",
+    "Snake",
+    "Grinder"
+  ]
+}

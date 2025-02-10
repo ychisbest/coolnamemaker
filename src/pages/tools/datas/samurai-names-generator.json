@@ -1,0 +1,63 @@
+{
+  "name": "Samurai Name Generator",
+  "description": "Unleash your inner warrior with our Samurai Name Generator! Find the perfect name to honor your bushido spirit. Get ready to slice through the ordinary and embrace the extraordinary!",
+  "slug": "samurai-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Ever dreamed of wielding a katana and living by the code of the samurai? While we can't teleport you to feudal Japan, we *can* equip you with an authentic-sounding samurai name. Whether you're writing a novel, creating a game character, or just want to impress your friends, our generator will craft a name worthy of a legendary warrior.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new samurai name will appear, forged in the fires of creativity.",
+    "Not feeling the first result? No sweat! Click again for another awesome name. Keep going until you find the one that resonates with your warrior spirit.",
+    "Feeling adventurous? Mix and match prefixes and suffixes from the lists below to create your own unique samurai moniker. The possibilities are as vast as the ancient battlefields!",
+    "Share your epic samurai name with your friends and family. Let them bask in the glory of your newfound identity."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names real samurai names?",
+      "answer": "While we strive for authenticity, these names are creatively generated to capture the essence of samurai nomenclature. Think of them as 'inspired by' rather than 'historically accurate'."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once generated, the name is yours to use as you see fit. No royalties or attribution required. Go forth and conquer!"
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! There's no limit to the number of samurai names you can conjure. Keep clicking until you find the perfect fit."
+    },
+    {
+      "question": "Will the names always be Japanese?",
+      "answer": "We focus on creating names that evoke a Japanese samurai feel. While some elements might have broader cultural influences, the overall vibe will always be 'bushido-approved'."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send your suggestions our way. We're always looking for ways to improve and expand our name generation prowess."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, absolutely! Our Samurai Name Generator is completely free for everyone to enjoy. We believe that everyone deserves a cool samurai name!"
+    }
+  ],
+  "prefixes": [
+    "Ken",
+    "Take",
+    "Ryu",
+    "Shin",
+    "Hato",
+    "Kiyo",
+    "Masa",
+    "Tora",
+    "Sora",
+    "Yama"
+  ],
+  "suffixes": [
+    "moto",
+    "kawa",
+    "da",
+    "naga",
+    "shi",
+    "mura",
+    "bayashi",
+    "zaki",
+    "uchi",
+    "gawa"
+  ]
+}

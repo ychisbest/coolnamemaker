@@ -1,0 +1,84 @@
+{
+  "name": "Game Developer Name Generator",
+  "description": "Struggling to find the *perfect* name for your game development studio? Fear not, aspiring game guru! Our generator conjures up names so cool, they'll make your competitors weep with envy. Get ready to unleash your inner creative genius!",
+  "slug": "game-developer-name-generator",
+  "icon": "\ud83c\udfae",
+  "introduction": "So you're building the next big indie hit, or maybe you're dreaming of dominating the AAA scene. But before you conquer the gaming world, you need a killer name. Forget generic and embrace awesome! This generator blends creativity and coolness to give you a name that screams 'innovation' and 'fun'. Let's get you named!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A list of potential names will magically appear.",
+    "Don't like what you see? Click again! We've got more combinations than there are levels in your favorite RPG.",
+    "Found a name you love? Write it down, shout it from the rooftops, trademark it! It's yours!",
+    "Mix and match prefixes and suffixes from the generated list to create a name that's uniquely *you*.",
+    "Pro Tip: Say the names out loud! Make sure they sound as awesome as your games will be."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe that every aspiring game developer deserves a cool name, without breaking the bank. Consider it our gift to the gaming community."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You're welcome to use the generated names as inspiration and for commercial endeavors. However, we highly recommend checking for trademark availability before settling on a final name. We don't want any legal goblins ruining your launch!"
+    },
+    {
+      "question": "Will this generator guarantee my game becomes a success?",
+      "answer": "While a killer name is a great start, it's not a magic bullet. You'll still need talent, hard work, and a sprinkle of luck. But hey, a cool name certainly won't hurt!"
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're constantly adding new prefixes and suffixes to keep the name combinations fresh and exciting! Check back regularly for even more inspiration."
+    },
+    {
+      "question": "I generated a name that's already taken! What do I do?",
+      "answer": "No worries! That's bound to happen sometimes. Just hit that 'Generate' button again and keep exploring. The perfect name is out there waiting for you!"
+    },
+    {
+      "question": "Can I suggest prefixes and suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send your suggestions our way through our contact form on coolnamemaker.com. We're always looking for ways to improve!"
+    }
+  ],
+  "prefixes": [
+    "Pixel",
+    "Retro",
+    "Quantum",
+    "Digital",
+    "Cyber",
+    "Nova",
+    "Lunar",
+    "Stellar",
+    "Mystic",
+    "Arcane",
+    "Infinite",
+    "Ethereal",
+    "Chromatic",
+    "Binary",
+    "Vector",
+    "Glitch",
+    "Zenith",
+    "Apex",
+    "Rogue",
+    "Indie"
+  ],
+  "suffixes": [
+    "Studios",
+    "Games",
+    "Interactive",
+    "Entertainment",
+    "Labs",
+    "Works",
+    "Collective",
+    "Forge",
+    "Vision",
+    "Dynamics",
+    "Arts",
+    "Solutions",
+    "Creations",
+    "Innovations",
+    "Systems",
+    "Engine",
+    "Division",
+    "Realm",
+    "Guild",
+    "Inc."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Skaven Name Generator",
+  "description": "Yes-yes! Need a sneaky name for your Skaven character, clan, or plot? Look no further, man-thing! This generator will churn out names worthy of the Horned Rat himself. Quick-quick, before the Great Plague sweeps you away!",
+  "slug": "skaven-name-generator",
+  "icon": "\ud83d\udc00",
+  "introduction": "Enter the treacherous under-empire with a name that strikes fear (or at least mild annoyance) into the hearts of your foes! Whether you're plotting world domination or just trying to survive another day in the verminous hordes, a good Skaven name is essential. Prepare to embrace the warpstone-fueled madness!",
+  "howToUse": [
+    "Click the 'Generate' button. Yes, it's that easy, even for a Skaven!",
+    "Marvel at the glorious, backstabbing name that appears before you.",
+    "Don't like it? Click again! There's plenty of treachery to go around.",
+    "Claim the name as your own and spread chaos and corruption in the name of the Horned Rat!",
+    "Remember to always blame someone else if your plans go awry. It's the Skaven way!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names lore-accurate?",
+      "answer": "Mostly! We've tried to capture the chaotic and guttural essence of Skaven naming conventions. However, some names may be\u2026 *inspired* by warpstone fumes."
+    },
+    {
+      "question": "Can I use these names for my Warhammer Fantasy/Age of Sigmar characters?",
+      "answer": "Absolutely! Go forth and conquer (or be conquered, depending on your luck) with your newfound Skaven identity!"
+    },
+    {
+      "question": "Will using one of these names make me inherently treacherous?",
+      "answer": "Probably. But let's be honest, you were already thinking about it, weren't you? Yes-yes!"
+    },
+    {
+      "question": "I generated a name I don't like. Can I get a refund?",
+      "answer": "Refunds? In the Skaven under-empire? You must be joking! Just generate another one, quick-quick! And maybe consider bribing the generator\u2026 with warpstone, of course."
+    },
+    {
+      "question": "Is this generator safe to use?",
+      "answer": "Relatively. We can't guarantee it won't attract the attention of the Grey Seers or expose you to warpstone radiation. Use at your own risk, yes-yes!"
+    },
+    {
+      "question": "Can I use these names for other things besides Skaven characters?",
+      "answer": "Of course! Name your pet rat, your evil corporation, or your next diabolical scheme with these names. The possibilities are endless, like the tunnels beneath the earth!"
+    }
+  ],
+  "prefixes": [
+    "Queek",
+    "Rattus",
+    "Skrolk",
+    "Tretch",
+    "Veskit",
+    "Kritis",
+    "Snitch",
+    "Gnash",
+    "Rip",
+    "Claw",
+    "Gnaw",
+    "Warp",
+    "Plague",
+    "Slink",
+    "Squeak",
+    "Rust",
+    "Filth",
+    "Rot",
+    "Gristle",
+    "Skitter"
+  ],
+  "suffixes": [
+    "Headtaker",
+    "Quicktail",
+    "Plaguemaster",
+    "Warpsniper",
+    "Bladefiend",
+    "Doomclaw",
+    "Foultooth",
+    "Gnashmaw",
+    "Ripfang",
+    "Clawscar",
+    "Gnawtail",
+    "Warpfury",
+    "Plaguerunner",
+    "Slinkblade",
+    "Squeakheart",
+    "Rustfur",
+    "Filthsnout",
+    "Roteye",
+    "Gristlebone",
+    "Skittershank",
+    "Deathwhisker",
+    "Gutripper"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Fantasy Monster Name Generator",
+  "description": "Unleash the beast within! Need a bone-chilling name for your next RPG villain, D&D monster, or fantasy novel creature? Look no further! Our generator crafts names that are equal parts terrifying, awe-inspiring, and just plain cool.",
+  "slug": "fantasy-monster-name-generator",
+  "icon": "\ud83d\udc79",
+  "introduction": "Tired of the same old goblin and dragon names? We get it. Your monsters deserve names that strike fear into the hearts of adventurers! This generator blends fantasy elements, guttural sounds, and a touch of the bizarre to create truly unforgettable monster names. Prepare to unleash nightmares!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new, spine-tingling monster name appears.",
+    "Don't like the first result? Keep clicking! We've got a whole horde of names waiting to be unleashed.",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own custom monstrosities.",
+    "Pro Tip: Say the names out loud! Some sound even cooler when you hear them rumble from your own throat. (Just try not to scare the cat.)",
+    "Still not satisfied? Refresh the page and try again. The possibilities are as endless as the abyss itself!"
+  ],
+  "faqs": [
+    {
+      "question": "What if I get a really, REALLY cool name?",
+      "answer": "Then you should definitely use it! And maybe tell us about it \u2013 we love hearing about the awesome creations our generator inspires!"
+    }
+  ],
+  "prefixes": [
+    "Gloom",
+    "Shadow",
+    "Blood",
+    "Bone",
+    "Night",
+    "Doom",
+    "Ruin",
+    "Void",
+    "Terror",
+    "Grave",
+    "Crypt",
+    "Frost",
+    "Storm",
+    "Venom",
+    "Whisper",
+    "Cinder",
+    "Abyss",
+    "Ghoul",
+    "Dread",
+    "Plague"
+  ],
+  "suffixes": [
+    "maw",
+    "fang",
+    "claw",
+    "bane",
+    "fiend",
+    "shade",
+    "wraith",
+    "horror",
+    "geist",
+    "reaper",
+    "stalker",
+    "scourge",
+    "howler",
+    "lurker",
+    "slayer",
+    "grinder",
+    "shrieker",
+    "dread",
+    "wretch",
+    "eater"
+  ]
+}

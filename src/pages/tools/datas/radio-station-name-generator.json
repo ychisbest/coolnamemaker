@@ -1,0 +1,104 @@
+{
+  "name": "Radio Station Name Generator",
+  "description": "Struggling to find the perfect name for your radio station? Blast away the brainstorming blues with our generator! We'll help you conjure up a name that's catchy, memorable, and totally *you*.",
+  "slug": "radio-station-name-generator",
+  "icon": "\ud83d\udcfb",
+  "introduction": "Ready to rock the airwaves but stuck on square one: the *name*? Don't let a creative block keep you off the air! Our Radio Station Name Generator is here to help you strike the perfect chord. Whether you're aiming for classic rock vibes or a modern pop sound, we've got the ingredients to concoct a name that will have listeners tuning in.",
+  "howToUse": [
+    "1. Take a deep breath and envision your station's vibe. Are you all about smooth jazz or head-banging metal?",
+    "2. Click the 'Generate' button and prepare to be amazed!",
+    "3. Browse the list of names we've whipped up just for you.",
+    "4. Found a winner? Awesome! If not, keep hitting that button until inspiration strikes. We've got plenty more where that came from.",
+    "5. Make sure the name isn't already taken (a quick Google search will do the trick).",
+    "6. Boom! You're ready to conquer the airwaves!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Radio Station Name Generator is completely free to use. Crank it up to eleven!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You're welcome to use the generated names for your radio station, but it's your responsibility to ensure the name isn't trademarked and available for use."
+    },
+    {
+      "question": "How does the generator work?",
+      "answer": "We combine carefully curated prefixes and suffixes with a dash of radio magic to create unique and catchy names. It's like a sonic smoothie of inspiration!"
+    },
+    {
+      "question": "I don't like any of the names. What should I do?",
+      "answer": "No problem! Just keep hitting the 'Generate' button. We have a massive database of prefixes and suffixes, so you're bound to find something you love eventually. You can also try adjusting your mental picture of your station's vibe to get different results."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always looking for ways to improve! Feel free to send us your suggestions. If they're cool enough, we might just add them to the generator."
+    },
+    {
+      "question": "Will the generated names be available for others to use?",
+      "answer": "Yes, the names generated are not exclusive. It's possible that someone else might generate and use the same name. It's always best to check for trademark availability before committing to a name."
+    }
+  ],
+  "prefixes": [
+    "Sonic",
+    "Pulse",
+    "Vibe",
+    "Rhythm",
+    "Groove",
+    "Aura",
+    "Echo",
+    "Frequency",
+    "Melody",
+    "Harmony",
+    "Electric",
+    "Cosmic",
+    "Starlight",
+    "Midnight",
+    "Urban",
+    "Global",
+    "Indie",
+    "Retro",
+    "Future",
+    "Zenith",
+    "Apex",
+    "Radiant",
+    "Crystal",
+    "Nova",
+    "Wildfire",
+    "Renegade",
+    "Rebel",
+    "Phoenix",
+    "Voyager"
+  ],
+  "suffixes": [
+    "FM",
+    "Radio",
+    "Waves",
+    "Sound",
+    "Vibes",
+    "Mix",
+    "Station",
+    "Cast",
+    "Tune",
+    "Beat",
+    "Rhythms",
+    "Grooves",
+    "Aura",
+    "Echoes",
+    "Pulse",
+    "Fusion",
+    "Live",
+    "Network",
+    "Broadcast",
+    "Spectrum",
+    "Signal",
+    "Channel",
+    "Zone",
+    "Hub",
+    "Junction",
+    "Sphere",
+    "Orbit",
+    "Galaxy",
+    "Horizon",
+    "Summit"
+  ]
+}

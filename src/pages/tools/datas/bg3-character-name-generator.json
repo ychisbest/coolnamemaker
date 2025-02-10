@@ -1,0 +1,83 @@
+{
+  "name": "BG3 Character Name Generator",
+  "description": "Struggling to find the perfect moniker for your Baldur's Gate 3 hero? Fear not, adventurer! Our generator crafts names worthy of Faer\u00fbn's greatest legends (or most notorious villains!). Prepare to embark on your epic journey with a name that truly resonates!",
+  "slug": "bg3-character-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Welcome, brave soul, to the ultimate BG3 Character Name Generator! Whether you're a cunning rogue, a devout cleric, or a powerful wizard, a fitting name is essential. Our generator blends lore-friendly elements with a dash of fantasy flair to conjure names that'll make your character unforgettable. Roll the dice and discover your destiny!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic! We'll weave together prefixes and suffixes to create a unique and memorable name.",
+    "Don't like what you see? No problem! Keep clicking until you find a name that speaks to your character's soul (or their penchant for mischief).",
+    "Feeling creative? Use the generated names as inspiration to craft your own variations! The possibilities are as vast as the Forgotten Realms themselves.",
+    "Share your awesome new name with your friends and fellow adventurers! Let them marvel at your character's perfectly chosen identity."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names lore-accurate for Baldur's Gate 3?",
+      "answer": "We strive to create names that feel authentic to the world of Faer\u00fbn, drawing inspiration from existing lore and naming conventions. While not every name will be directly pulled from the game, they'll certainly fit the fantasy setting!"
+    },
+    {
+      "question": "Can I use these names for other D&D campaigns?",
+      "answer": "Absolutely! These names are perfect for any Dungeons & Dragons campaign, not just Baldur's Gate 3. Let your imagination run wild!"
+    },
+    {
+      "question": "Is the generator free to use?",
+      "answer": "Yes, indeed! Our BG3 Character Name Generator is completely free to use. Generate as many names as your heart desires!"
+    },
+    {
+      "question": "Will the generator create names for specific races or classes?",
+      "answer": "The generator provides a wide variety of names suitable for many races and classes. While we don't offer specific race/class filters *yet*, you're sure to find something inspiring!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We love community input! Feel free to send us your suggestions. We're always looking for ways to improve the generator and make it even more awesome."
+    },
+    {
+      "question": "Help! I found a name I love, but someone else is already using it!",
+      "answer": "Fear not, adventurer! The Forgotten Realms are vast, and there's room for multiple heroes (and villains!) with similar names. Or, you could add a title or epithet to make it unique, like 'Aella the Swift' or 'Grimbold Stonefist'."
+    }
+  ],
+  "prefixes": [
+    "Aerion",
+    "Lyra",
+    "Torvin",
+    "Sylas",
+    "Kaelen",
+    "Elowen",
+    "Grim",
+    "Anya",
+    "Zephyr",
+    "Rhys",
+    "Valerius",
+    "Seraphina",
+    "Bartholomew",
+    "Isolde",
+    "Fenris",
+    "Elara",
+    "Caspian",
+    "Rowan",
+    "Alaric",
+    "Aurora"
+  ],
+  "suffixes": [
+    "shadow",
+    "blade",
+    "heart",
+    "whisper",
+    "stone",
+    "song",
+    "bane",
+    "light",
+    "wind",
+    "forge",
+    "moon",
+    "sun",
+    "oak",
+    "stream",
+    "storm",
+    "vale",
+    "wood",
+    "haven",
+    "crest",
+    "guard"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Owl Name Generator",
+  "description": "Hoo knew naming could be this much fun? Generate the perfect, wise, and slightly mysterious owl-inspired name with our generator!",
+  "slug": "owl-name-generator",
+  "icon": "\ud83e\udd89",
+  "introduction": "Ever felt like you needed a name that reflects the silent wisdom and nocturnal charm of an owl? Look no further! Our Owl Name Generator is here to hoot-ify your identity, whether you're creating a character, naming a pet, or just looking for a cool online handle. Prepare to take flight with a name as unique and captivating as the owls themselves.",
+  "howToUse": [
+    "First, gaze into the depths of your soul... or just scroll down. Whatever works.",
+    "Next, click the 'Generate' button. Don't be shy, it's waiting for you!",
+    "Behold! A brand new, owl-some name appears before your very eyes.",
+    "Not feeling it? No problem! Click again for a fresh, feathery moniker.",
+    "Once you find the perfect name, spread your wings and soar! (Or just copy and paste it, that's cool too.)"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my pet owl?",
+      "answer": "Absolutely! We encourage you to bestow these magnificent names upon your feathered friends. Just make sure they approve with a wise hoot."
+    },
+    {
+      "question": "Are the generated names actually related to owls?",
+      "answer": "We've curated prefixes and suffixes that evoke the spirit of owls \u2013 their habitats, behaviors, and general awesomeness. So, yes, in a very hoot-iful way!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Completely and utterly free! We believe everyone deserves a touch of owl-inspired mystique in their lives, no strings (or feathers) attached."
+    },
+    {
+      "question": "Can I get a name that's specifically for a male/female owl?",
+      "answer": "While the generator doesn't distinguish between genders, many of the names are gender-neutral and sound fantastic regardless. Use your intuition \u2013 you'll know the right fit!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With countless combinations, you're bound to find a name that resonates with your inner owl. And hey, sometimes the silliest names are the best ones!"
+    },
+    {
+      "question": "Can I use these names for characters in my book or game?",
+      "answer": "Absolutely! That's exactly what it's for! Unleash your creativity and let these names inspire your characters and worlds."
+    }
+  ],
+  "prefixes": [
+    "Night",
+    "Shadow",
+    "Silent",
+    "Wise",
+    "Feather",
+    "Hoot",
+    "Strix",
+    "Moon",
+    "Star",
+    "Gloom",
+    "Dawn",
+    "Mystic",
+    "Echo",
+    "Phantom",
+    "Rune"
+  ],
+  "suffixes": [
+    "wing",
+    "claw",
+    "eye",
+    "song",
+    "flight",
+    "shade",
+    "watcher",
+    "seer",
+    "whisper",
+    "gaze",
+    "feather",
+    "talon",
+    "wind",
+    "sky",
+    "wood"
+  ]
+}

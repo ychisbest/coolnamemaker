@@ -1,0 +1,84 @@
+{
+  "name": "DJ Name Generator AI",
+  "description": "Struggling to find the perfect DJ name that screams 'legend'? Our AI-powered DJ Name Generator will drop the beat on boring names and spin up something truly unforgettable. Get ready to electrify the crowd with a moniker as cool as your mixes!",
+  "slug": "dj-name-generator-ai",
+  "icon": "\ud83c\udfa7",
+  "introduction": "In the world of electrifying beats and pulsating rhythms, your DJ name is your sonic signature. It's the first thing the crowd hears, the name on the flyer, the essence of your musical identity. Don't settle for generic! Our DJ Name Generator AI is here to help you craft a name that's as unique and unforgettable as your sound. Whether you're spinning house, techno, hip-hop, or anything in between, we've got the perfect name waiting to be discovered.",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! Our AI will conjure up a plethora of awesome DJ names.",
+    "Feeling picky? No problem! Keep clicking until you find a name that resonates with your inner DJ superstar.",
+    "Want to add your own flair? Use the generated names as inspiration to create something even more personal and unique.",
+    "Once you've found the perfect name, shout it from the rooftops (or at least update your social media profiles)!",
+    "Prepare for world domination (or at least a packed dance floor)."
+  ],
+  "faqs": [
+    {
+      "question": "How does the DJ Name Generator AI work?",
+      "answer": "Our generator uses a sophisticated algorithm that combines prefixes, suffixes, genres, and a touch of AI magic to create unique and memorable DJ names."
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "Absolutely! All generated names are free to use for any purpose, commercial or otherwise. Go forth and conquer the music scene!"
+    },
+    {
+      "question": "Will the generator create the same name twice?",
+      "answer": "While it's statistically possible, our generator has a vast database of options, making duplicates rare. If you do happen to see the same name twice, just hit 'Generate' again!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We love hearing from our users! Feel free to send us your suggestions \u2013 we're always looking for ways to improve our generator."
+    },
+    {
+      "question": "Is the DJ Name Generator AI really AI-powered?",
+      "answer": "Yes! While we keep the exact recipe a secret (it's like our sonic sauce!), our generator uses machine learning techniques to create names that are both creative and relevant. It's not just random words thrown together; it's calculated cool!"
+    },
+    {
+      "question": "I don't like any of the generated names. What should I do?",
+      "answer": "Don't despair! The generator is meant to spark your creativity. Use the generated names as a starting point and tweak them to your liking. Add your own personal touch to create a name that truly reflects your DJ style."
+    }
+  ],
+  "prefixes": [
+    "DJ",
+    "MC",
+    "The",
+    "Electro",
+    "Sonic",
+    "Rhythm",
+    "Groove",
+    "Bass",
+    "Beat",
+    "Mix",
+    "Digital",
+    "Analog",
+    "Cosmic",
+    "Lunar",
+    "Solar",
+    "Future",
+    "Retro",
+    "Urban",
+    "Global",
+    "Mystic"
+  ],
+  "suffixes": [
+    "Master",
+    "King",
+    "Queen",
+    "Vibes",
+    "Sound",
+    "Machine",
+    "System",
+    "Revolution",
+    "Force",
+    "Warrior",
+    "Wizard",
+    "Prophet",
+    "Guru",
+    "Addict",
+    "Junkie",
+    "Therapy",
+    "Control",
+    "Effect",
+    "Element",
+    "Frequency"
+  ]
+}

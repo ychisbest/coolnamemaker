@@ -1,0 +1,69 @@
+{
+  "name": "Wow Troll Name Generator",
+  "description": "Unleash your inner troll! Get a name that's as quirky and mischievous as you are. Perfect for gaming, forums, or just embracing your wild side.",
+  "slug": "wow-troll-name-generator",
+  "icon": "\ud83e\uddcc",
+  "introduction": "Ready to dive into the World of Warcraft as a Troll, but drawing a blank on the perfect name? Fear not, adventurer! Our Wow Troll Name Generator is here to conjure up names that are both lore-friendly and hilariously troll-ish. Get ready to /dance your way to victory with a name that's uniquely YOU!",
+  "howToUse": [
+    "Simply smash that 'Generate' button like you're smashing a gnome!",
+    "Keep clicking until a name resonates with your trollish soul.",
+    "Found the perfect name? Copy it and paste it into your game. Now go cause some delightful chaos!",
+    "Share your awesome troll name with your friends. Spread the troll love!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually based on WoW Troll lore?",
+      "answer": "We've channeled the spirit of the Darkspear and Zandalari Trolls, so you'll find names that feel right at home in Azeroth. While not strictly canon, they're definitely troll-approved!"
+    },
+    {
+      "question": "Can I use these names for other games or purposes?",
+      "answer": "Absolutely! While inspired by WoW Trolls, these names can be used for any character, story, or online persona that needs a touch of wild, untamed flair."
+    },
+    {
+      "question": "Are the generated names actually any good?",
+      "answer": "Well, we think they're pretty great! But ultimately, the best name is the one *you* love. So keep generating until you find the one that makes you grin like a troll who just looted a legendary item!"
+    },
+    {
+      "question": "Will using one of these names guarantee me epic loot?",
+      "answer": "We can't promise that, but a cool name is definitely a step in the right direction! Confidence is key, and a great name can boost your in-game swagger to legendary levels."
+    },
+    {
+      "question": "How often is this generator updated?",
+      "answer": "We're always tinkering and adding new prefixes and suffixes to keep the names fresh and exciting. Check back regularly for even more troll-tastic naming options!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions, and if they're troll-worthy, we might just add them to the generator!"
+    }
+  ],
+  "prefixes": [
+    "Zul'",
+    "Vol'",
+    "Sen'",
+    "Jin'",
+    "Zen'",
+    "Rak'",
+    "Mor'",
+    "Griz'",
+    "Naz'",
+    "Zek'",
+    "Braz'",
+    "Kraz'",
+    "Draz'"
+  ],
+  "suffixes": [
+    "jin",
+    "taz",
+    "zul",
+    "gor",
+    "rak",
+    "kaz",
+    "gar",
+    "za",
+    "kra",
+    "vek",
+    "darr",
+    "grim",
+    "nash"
+  ]
+}

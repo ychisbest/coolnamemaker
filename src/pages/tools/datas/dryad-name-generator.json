@@ -1,0 +1,62 @@
+{
+  "name": "Dryad Name Generator",
+  "description": "Unleash your inner forest spirit! Find the perfect Dryad name with our mystical generator. Embrace the ancient power of the trees and discover a name that resonates with nature's soul.",
+  "slug": "dryad-name-generator",
+  "icon": "\ud83c\udf33",
+  "introduction": "Ever wondered what your Dryad name would be? Step into the enchanted woods and let our generator whisper secrets of the forest. Whether you're crafting a character, seeking inspiration, or simply curious, the perfect Dryad moniker awaits you.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A unique Dryad name will bloom before your very eyes.",
+    "Feeling picky? Hit 'Generate' again for a fresh, leafy alternative. We've got more names than there are leaves on an oak tree!",
+    "Found a name you adore? Copy and paste it into your story, game, or even your social media bio. Let the world know your Dryadic essence!"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* a Dryad?",
+      "answer": "Dryads are tree nymphs in Greek mythology, each bound to a specific tree. They're the guardians of the forest, embodying nature's beauty and power."
+    },
+    {
+      "question": "Are these names only for female characters?",
+      "answer": "Not at all! While Dryads are traditionally female, these names can be adapted for any character, regardless of gender. Let your creativity blossom!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Feel free to use the generated names for your books, games, artwork, or any other creative project. Consider it a gift from the forest."
+    },
+    {
+      "question": "How are these names generated?",
+      "answer": "Our generator blends ancient lore, linguistic creativity, and a touch of magic to craft unique and evocative Dryad names. We consider the sounds, meanings, and overall vibe to create something truly special."
+    },
+    {
+      "question": "Will I get the same name every time?",
+      "answer": "Highly unlikely! Our generator uses a vast database of prefixes and suffixes, resulting in millions of possible combinations. Prepare to be amazed by the variety!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! While we can't guarantee every suggestion will be implemented, we're always open to expanding our forest of names. Send your suggestions our way!"
+    }
+  ],
+  "prefixes": [
+    "Silvan",
+    "Eldrin",
+    "Lyra",
+    "Oakhaven",
+    "Willow",
+    "Briar",
+    "Glen",
+    "Veridian",
+    "Aetheria",
+    "Lumiflora"
+  ],
+  "suffixes": [
+    "wood",
+    "leaf",
+    "song",
+    "whisper",
+    "bloom",
+    "shade",
+    "root",
+    "vine",
+    "thorn",
+    "grove"
+  ]
+}

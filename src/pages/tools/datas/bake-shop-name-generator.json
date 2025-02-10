@@ -1,0 +1,83 @@
+{
+  "name": "Bake Shop Name Generator",
+  "description": "Craving the perfect name for your sweet spot? Our Bake Shop Name Generator whips up delicious, memorable names that'll have customers lining up for a taste!",
+  "slug": "bake-shop-name-generator",
+  "icon": "\ud83e\uddc1",
+  "introduction": "So, you're about to embark on a sugary adventure and open a bake shop? Awesome! But before you start slinging croissants, you need a name that's as unforgettable as your grandma's secret recipe. That's where we come in. Our generator blends classic charm with modern flair to create names that are totally *dough*-pe. Get ready to knead some magic!",
+  "howToUse": [
+    "First, take a deep breath and imagine the aroma of freshly baked goods. (Mmm, butter.)",
+    "Click the 'Generate' button and watch the magic happen! We'll conjure up a list of potential names that'll make your taste buds tingle.",
+    "Don't be afraid to mix and match! Take inspiration from the generated names and tweak them to your heart's content. Your perfect name is just a sprinkle away!",
+    "Found 'the one'? Hooray! Now go forth and bake the world a better place, one delicious treat at a time."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Consider it our gift to the baking universe. Go forth and create (deliciously named) empires!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Yep! Once you find a name you love, it's all yours. Just be sure to check for trademark availability before you get too attached."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! We have a whole oven-load of possibilities. Or, get creative and combine elements from different names to create something totally unique."
+    },
+    {
+      "question": "Does the generator consider different types of bake shops (e.g., vegan, gluten-free)?",
+      "answer": "While the generator doesn't specifically cater to niches, the results are varied enough to spark inspiration for any type of bakery. Think of it as a blank canvas for your baking brilliance!"
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're always adding fresh ingredients to our naming recipe! Expect regular updates to keep the suggestions as sweet and relevant as possible."
+    },
+    {
+      "question": "I found a perfect name, but the domain is taken. What should I do?",
+      "answer": "Don't despair! Try adding a location (e.g., 'YourTownBakes'), using a different domain extension (.net, .org), or slightly altering the name. The perfect domain is out there, waiting to be discovered!"
+    }
+  ],
+  "prefixes": [
+    "Sweet",
+    "Golden",
+    "Sugar",
+    "Flour",
+    "Butter",
+    "The Daily",
+    "Artisan",
+    "Grandma's",
+    "Cozy",
+    "Delightful",
+    "Whisked",
+    "Baked",
+    "Rise &",
+    "Crumbs &",
+    "Honey",
+    "The Cake",
+    "Pastry",
+    "Loaf &",
+    "Sprinkle",
+    "Dreamy"
+  ],
+  "suffixes": [
+    "Bakery",
+    "Bakeshop",
+    "Sweets",
+    "Treats",
+    "Delights",
+    "Kitchen",
+    "Oven",
+    "House",
+    "Corner",
+    "Shoppe",
+    "Creations",
+    "Company",
+    "Cafe",
+    "Studio",
+    "Emporium",
+    "Pantry",
+    "Bites",
+    "Gallery",
+    "Bar",
+    "Lab"
+  ]
+}

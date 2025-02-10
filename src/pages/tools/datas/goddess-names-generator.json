@@ -1,0 +1,84 @@
+{
+  "name": "Goddess Name Generator",
+  "description": "Unleash your inner deity with our Goddess Name Generator! Find the perfect moniker to match your divine spirit and radiant aura. Whether you're writing a fantasy novel, creating a powerful character, or simply seeking a name that resonates with your inner goddess, we've got you covered. Get ready to embrace your celestial identity!",
+  "slug": "goddess-name-generator",
+  "icon": "\ud83d\udc51",
+  "introduction": "Ever felt like you were destined for greatness, maybe even\u2026 godhood? Our Goddess Name Generator is here to help you discover the perfect name to embody your divine power. From ancient mythology to modern interpretations, we'll conjure up names that are both captivating and empowering. Prepare to be amazed by the sheer variety and beauty of the names you'll uncover!",
+  "howToUse": [
+    "First, take a deep breath and channel your inner goddess. (Seriously, it helps!)",
+    "Click the 'Generate' button and watch the magic happen. We'll combine prefixes and suffixes to create unique and powerful goddess names.",
+    "Don't like the first result? Keep clicking! We've got an endless supply of divine names waiting to be discovered.",
+    "Once you find a name that resonates with your soul, claim it! Use it for your characters, your online persona, or even just to feel a little more fabulous every day.",
+    "Share your favorite goddess names with your friends and inspire them to embrace their own inner deities."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "Our Goddess Name Generator crafts names inspired by mythology, folklore, and modern interpretations of divine femininity. You'll find names that are strong, elegant, mysterious, and everything in between!"
+    },
+    {
+      "question": "Can I use these names for my book characters?",
+      "answer": "Absolutely! Feel free to use any of the generated names for your stories, games, or any other creative project. We encourage you to explore and adapt them to fit your unique vision."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes, the names are generated using a combination of random prefixes and suffixes. This ensures that each name is unique and unexpected."
+    },
+    {
+      "question": "Will I find names from specific mythologies, like Greek or Roman?",
+      "answer": "While the generator doesn't focus on specific mythologies, you'll find names that evoke a similar feeling and aesthetic. It's perfect for creating your own unique pantheon!"
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart desires. We're here to help you find the *perfect* goddess name, no matter how long it takes."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Feel free to contact us with your suggestions. We're always looking for ways to improve and expand our generator."
+    }
+  ],
+  "prefixes": [
+    "Aella",
+    "Lyssa",
+    "Nyx",
+    "Selene",
+    "Asteria",
+    "Aurora",
+    "Hestia",
+    "Freya",
+    "Eira",
+    "Isis",
+    "Danu",
+    "Rhiannon",
+    "Brigid",
+    "Calliope",
+    "Luna",
+    "Vesta",
+    "Gaia",
+    "Terra",
+    "Ceres",
+    "Demeter"
+  ],
+  "suffixes": [
+    "dria",
+    "lyn",
+    "ana",
+    "ara",
+    "elle",
+    "ia",
+    "is",
+    "iel",
+    "ine",
+    "ora",
+    "thea",
+    "phia",
+    "mene",
+    "wyn",
+    "luna",
+    "lynn",
+    "ria",
+    "sa",
+    "na",
+    "dra"
+  ]
+}

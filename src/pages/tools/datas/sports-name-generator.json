@@ -1,0 +1,122 @@
+{
+  "name": "Sports Name Generator",
+  "description": "Stuck in a naming rut for your fantasy team, sports blog, or the next big athletic sensation? Our Sports Name Generator is here to slam dunk some seriously cool and catchy names into your life! Ditch the generic and embrace the glory!",
+  "slug": "sports-name-generator",
+  "icon": "\ud83c\udfc6",
+  "introduction": "Ready to unleash a torrent of awesome sports names? Whether you're crafting a team identity, launching a new sports drink, or just need a moniker that screams victory, we've got you covered. Get ready to dominate the naming game!",
+  "howToUse": [
+    "Simply hit the 'Generate' button \u2013 like you're spiking a volleyball of inspiration!",
+    "Browse the list of generated names. We've mixed power, agility, and a dash of the unexpected!",
+    "See a name you love? Boom! Snag it and run with it. It's yours for the taking!",
+    "Customize your results by tweaking prefixes and suffixes to match your specific sport or style. Get creative!",
+    "Share your awesome new sports name with the world and watch the victories roll in!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the Sports Name Generator work?",
+      "answer": "We've compiled a massive database of sports-related words, prefixes, and suffixes. Our algorithm mixes them up with a sprinkle of magic to create unique and attention-grabbing names. It's like a coach with a thesaurus and a caffeine addiction!"
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "Absolutely! Once you find a name you love, it's yours to use for your team, brand, website, or anything else you can dream up. Just be sure to check for trademark availability before you go all-in."
+    },
+    {
+      "question": "Are the generated names actually *good*?",
+      "answer": "We think so! We've put a lot of effort into curating words and combinations that are memorable, punchy, and relevant to the world of sports. But ultimately, the best name is the one that resonates with *you*."
+    },
+    {
+      "question": "How often is the Sports Name Generator updated?",
+      "answer": "We're constantly adding new words and phrases to keep things fresh and exciting. Think of it as our commitment to keeping your naming game in peak condition!"
+    },
+    {
+      "question": "Can I suggest words or phrases to be added to the generator?",
+      "answer": "We'd love that! Send us your suggestions through our contact form, and we'll consider them for future updates. Help us make this the ultimate sports naming machine!"
+    },
+    {
+      "question": "Is this generator only for team names?",
+      "answer": "Nope! Use it for anything sports-related: blogs, podcasts, events, products, training programs \u2013 you name it (pun intended!)."
+    }
+  ],
+  "prefixes": [
+    "Thunder",
+    "Lightning",
+    "Rapid",
+    "Blaze",
+    "Steel",
+    "Iron",
+    "Elite",
+    "Victory",
+    "Apex",
+    "Summit",
+    "Titan",
+    "Vanguard",
+    "Maverick",
+    "Phantom",
+    "Shadow",
+    "Nova",
+    "Cosmic",
+    "Solar",
+    "Lunar",
+    "Zenith",
+    "Quantum",
+    "Velocity",
+    "Impact",
+    "Dynamic",
+    "Prime",
+    "Alpha",
+    "Omega",
+    "Zenith",
+    "Rogue",
+    "Rebel",
+    "Spartan",
+    "Gladiator",
+    "Samurai",
+    "Ninja",
+    "Raptor",
+    "Predator",
+    "Stryker",
+    "Renegade",
+    "Colossus"
+  ],
+  "suffixes": [
+    "Hawks",
+    "Eagles",
+    "Lions",
+    "Tigers",
+    "Bears",
+    "Wolves",
+    "Sharks",
+    "Dolphins",
+    "Jets",
+    "Knights",
+    "Warriors",
+    "Giants",
+    "Stars",
+    "Comets",
+    "Rockets",
+    "Chargers",
+    "Strikers",
+    "Blades",
+    "Storm",
+    "Force",
+    "Edge",
+    "Rush",
+    "Power",
+    "Surge",
+    "Vortex",
+    "Pulse",
+    "Drive",
+    "Impact",
+    "Zone",
+    "Crew",
+    "Legion",
+    "Squad",
+    "Nation",
+    "Empire",
+    "Dynasty",
+    "Brigade",
+    "Alliance",
+    "Federation",
+    "Collective"
+  ]
+}

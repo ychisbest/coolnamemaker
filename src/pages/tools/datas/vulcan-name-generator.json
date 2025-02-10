@@ -1,0 +1,86 @@
+{
+  "name": "Vulcan Name Generator",
+  "description": "Unleash your inner Vulcan! Generate names that are logical, sophisticated, and ready to explore the galaxy. Perfect for your next Star Trek character, sci-fi story, or just for fun!",
+  "slug": "vulcan-name-generator",
+  "icon": "\ud83d\udd96",
+  "introduction": "Live long and prosper with our Vulcan Name Generator! Are you seeking a name that embodies logic, intelligence, and a touch of the mysterious? Look no further! Our generator crafts names that resonate with the spirit of Vulcan, blending tradition with a hint of the unknown. Prepare to boldly go where no name has gone before!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the Vulcan name that awaits you!",
+    "Feeling particular? Tweak the prefix and suffix options to tailor your name to perfection. (Logic is in the details, after all!)",
+    "Don't like what you see? Generate again! The possibilities are as vast as the cosmos!",
+    "Once you've found your perfect Vulcan name, share it with your friends and let them marvel at your logical choice."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually used on Vulcan?",
+      "answer": "While we can't guarantee direct Vulcan lineage (unless you've been hiding a pointy ear), these names are inspired by Vulcan naming conventions and aesthetics."
+    },
+    {
+      "question": "Can I use these names for my Star Trek fan fiction?",
+      "answer": "Absolutely! Feel free to use these names to bring your Vulcan characters to life. Just remember to credit coolnamemaker.com if you feel so inclined. \ud83d\ude1c"
+    },
+    {
+      "question": "Will using a Vulcan name make me more logical?",
+      "answer": "While we can't promise instant enlightenment, adopting a Vulcan name might encourage you to embrace a more rational and thoughtful approach to life. Or at least, it'll be a fun conversation starter!"
+    },
+    {
+      "question": "Is this generator based on real Vulcan language?",
+      "answer": "Our generator is inspired by the *sound* and structure of Vulcan names, rather than being a direct translation. It's more about capturing the essence of Vulcan than strict linguistic accuracy."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "You can also try changing prefixes and suffixes for more interesting names!"
+    },
+    {
+      "question": "Can I combine names?",
+      "answer": "Yes, you can combine names or parts of names to create a unique Vulcan name, go ahead and experiment!"
+    }
+  ],
+  "prefixes": [
+    "T'",
+    "S'",
+    "V'",
+    "P'",
+    "St'",
+    "Sp'",
+    "T'Pa",
+    "S'Ra",
+    "V'Na",
+    "P'Lo",
+    "T'Pring",
+    "S'Chan",
+    "V'Lar",
+    "P'Tel",
+    "So",
+    "Sy",
+    "Sa",
+    "Su",
+    "Si",
+    "Se",
+    "Spok",
+    "Stonn"
+  ],
+  "suffixes": [
+    "k",
+    "r",
+    "n",
+    "l",
+    "m",
+    "sh",
+    "th",
+    "v",
+    "ck",
+    "nn",
+    "la",
+    "na",
+    "ra",
+    "vo",
+    "lok",
+    "rek",
+    "vek",
+    "nek",
+    "lek",
+    "mok",
+    "nok"
+  ]
+}

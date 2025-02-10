@@ -1,0 +1,122 @@
+{
+  "name": "GOT House Name Generator",
+  "description": "Craving a noble house name worthy of Westeros? Our generator crafts regal and fearsome house names fit for any Game of Thrones epic. Prepare to rule (or at least sound like you do)!",
+  "slug": "got-house-name-generator",
+  "icon": "\ud83c\udff0",
+  "introduction": "In the vast and treacherous world of Game of Thrones, a house name is more than just a label \u2013 it's a legacy. It's power, history, and the weight of generations. Are you ready to forge your own dynasty? Our GOT House Name Generator will bestow upon you a name that echoes through the ages, striking fear into your enemies and inspiring loyalty in your allies. From the icy north to the sunny south, let your house name be known!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A glorious, potentially world-changing house name will appear.",
+    "Don't like what you see? No problem! Click again for a fresh name, forged in the fires of creativity.",
+    "Feeling particularly ambitious? Keep clicking until you find a name that truly resonates with your inner ruler. The possibilities are as endless as the Seven Kingdoms themselves!",
+    "Once you've found the perfect name, shout it from the rooftops (or, you know, just copy and paste it). Let the world know your house has arrived!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually endorsed by George R.R. Martin?",
+      "answer": "Sadly, no. While we'd love to claim a direct connection to the master storyteller, this generator is purely fan-made with a whole lot of love for Westeros."
+    },
+    {
+      "question": "Can I use these names in my own Game of Thrones fan fiction?",
+      "answer": "Absolutely! Consider it our humble contribution to your epic tales. Just promise to give us a shout-out when your story becomes the next big thing!"
+    },
+    {
+      "question": "Will these names guarantee me a spot on the Iron Throne?",
+      "answer": "We can't guarantee world domination (sorry!), but a cool house name is definitely a good start. Confidence is key, after all!"
+    },
+    {
+      "question": "Are the generated names actually good?",
+      "answer": "We think so! We've poured our hearts (and a few dragon eggs) into crafting prefixes and suffixes that sound appropriately regal, fearsome, and occasionally slightly ridiculous (in a good way, of course). But hey, beauty is in the eye of the beholder... or the ear of the listener?"
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep generating! With countless combinations, you're bound to stumble upon a name that speaks to your soul (or at least sounds really cool on a banner)."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send them our way, and we might just add them to the mix. Together, we can build a truly legendary name generator!"
+    }
+  ],
+  "prefixes": [
+    "Iron",
+    "Stone",
+    "Winter",
+    "Storm",
+    "Fire",
+    "Blood",
+    "Shadow",
+    "Gold",
+    "Silver",
+    "Black",
+    "White",
+    "Grey",
+    "Sun",
+    "Moon",
+    "Star",
+    "Dragon",
+    "Wolf",
+    "Lion",
+    "Rose",
+    "Eagle",
+    "Falcon",
+    "Oak",
+    "River",
+    "High",
+    "Low",
+    "Long",
+    "Short",
+    "Swift",
+    "Brave",
+    "Loyal",
+    "Just",
+    "True",
+    "Wild",
+    "Silent",
+    "Great",
+    "Old",
+    "New",
+    "Free",
+    "First",
+    "Last"
+  ],
+  "suffixes": [
+    "wood",
+    "field",
+    "brook",
+    "stone",
+    "fell",
+    "more",
+    "cliff",
+    "reach",
+    "guard",
+    "shield",
+    "sword",
+    "bow",
+    "spear",
+    "helm",
+    "crown",
+    "throne",
+    "hand",
+    "eye",
+    "heart",
+    "song",
+    "wind",
+    "light",
+    "night",
+    "vale",
+    "ford",
+    "gate",
+    "tower",
+    "hall",
+    "keep",
+    "mark",
+    "ridge",
+    "burn",
+    "frost",
+    "blade",
+    "fist",
+    "claw",
+    "fang",
+    "root",
+    "branch"
+  ]
+}

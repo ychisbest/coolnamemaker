@@ -1,0 +1,90 @@
+{
+  "name": "Country Band Name Generator",
+  "description": "Struggling to find the perfect name for your country band? Saddle up, partner! This generator will lasso you the most authentic and boot-scootin' band names this side of the Mississippi.",
+  "slug": "country-band-name-generator",
+  "icon": "\ud83e\udd20",
+  "introduction": "So, you've got the twang, the talent, and the ten-gallon hat. But what about a name that screams 'Country Music Legend'? Don't fret! Our Country Band Name Generator is here to wrangle up some unforgettable monikers that'll have audiences hootin' and hollerin' for more. Get ready to hit the stage with a name that's as catchy as your best guitar riff!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic! We'll churn out a whole heapin' helpin' of country band names.",
+    "Don't like what you see? No problem! Just keep clickin' until you find that name that resonates with your soul (and your banjo).",
+    "Found the perfect name? Awesome! Now go forth and conquer the country music scene! Remember to credit us when you're famous... just kidding (mostly \ud83d\ude09)."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Yeehaw! Absolutely free! We believe everyone deserves a shot at country music stardom, even if they can't come up with a catchy name."
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "You bet your bottom dollar! Once you find a name you love, it's all yours to use as you please. Just make sure no one else is already using it, alright?"
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope. We just generate 'em. You'll need to do your due diligence and trademark the name if you want to protect it legally."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep on clickin', friend! We've got a whole lot of names in the ol' generator, so you're bound to find one that tickles your fancy eventually. Or, get creative and mix and match elements from different names!"
+    },
+    {
+      "question": "Will this generator make me famous?",
+      "answer": "While we can't guarantee fame and fortune (we're good, but not *that* good), a great name is definitely a step in the right direction. The rest is up to you and your musical prowess!"
+    },
+    {
+      "question": "Can I suggest name prefixes or suffixes?",
+      "answer": "We're always looking to improve! Send us your suggestions, and we might just add them to the generator. Who knows, you could be the reason the next big country band finds its name!"
+    }
+  ],
+  "prefixes": [
+    "Dusty",
+    "Rusty",
+    "Whispering",
+    "Rolling",
+    "Broken",
+    "Midnight",
+    "Prairie",
+    "Coyote",
+    "Blue",
+    "Silver",
+    "Golden",
+    "Wild",
+    "Lonesome",
+    "Ramblin'",
+    "Starlight",
+    "Shadow",
+    "Iron",
+    "Copper",
+    "River",
+    "Creek",
+    "Oak",
+    "Pine",
+    "Willow"
+  ],
+  "suffixes": [
+    "Riders",
+    "Outlaws",
+    "Drifters",
+    "Troubadours",
+    "Pickers",
+    "Strangers",
+    "Bandits",
+    "Rebels",
+    "Rovers",
+    "Rattlers",
+    "Howlers",
+    "Wolves",
+    "Hawks",
+    "Eagles",
+    "Stars",
+    "Moonshine",
+    "Whiskey",
+    "Dust",
+    "Road",
+    "Trail",
+    "Heart",
+    "Soul",
+    "Sons",
+    "Daughters",
+    "Company"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Funny DnD Name Generator",
+  "description": "Roll for laughter with our Funny DnD Name Generator! Because every adventurer deserves a name that's as memorable as their worst dice roll.",
+  "slug": "funny-dnd-name-generator",
+  "icon": "\ud83e\udd23",
+  "introduction": "Tired of the same old serious DnD names? Unleash your inner comedian with our generator! We'll help you craft a name that's guaranteed to elicit chuckles around the gaming table. Perfect for lighthearted campaigns, quirky characters, or just a good old-fashioned laugh.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the comedic genius!",
+    "Don't like the first result? Keep clicking! We've got a whole bag of laughs waiting.",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own hilarious concoctions.",
+    "Share your favorite funny names with your fellow adventurers and spread the joy!",
+    "Use these names for NPCs, taverns, or even your own character if you're feeling brave (or foolish!)."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator suitable for serious DnD campaigns?",
+      "answer": "While it *can* be, it's probably best suited for campaigns with a more lighthearted or comedic tone. Unless, of course, your serious campaign needs a bit of levity!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "The names generated are for your personal enjoyment. Commercial use is generally discouraged, but feel free to get creative with your own variations!"
+    },
+    {
+      "question": "Are the names generated truly random?",
+      "answer": "As random as our algorithms allow! We've curated a list of prefixes and suffixes designed to create maximum hilarity."
+    },
+    {
+      "question": "Will using a funny name impact my character's performance in the game?",
+      "answer": "That depends entirely on your Dungeon Master! But a good laugh can be a powerful advantage in any situation."
+    },
+    {
+      "question": "Can I contribute to the list of prefixes and suffixes?",
+      "answer": "We're always open to suggestions! Send us your funniest ideas, and we might just add them to the generator."
+    },
+    {
+      "question": "What if I don't find any name funny?",
+      "answer": "Humor is subjective! Keep generating, or try mixing and matching. If all else fails, maybe comedy isn't your calling (but don't give up!)."
+    }
+  ],
+  "prefixes": [
+    "Sir Fartsalot",
+    "Count Von Stinkleton",
+    "Princess Gigglepants",
+    "Captain Underpants",
+    "Baron Von Tootenstein",
+    "The Great Poopdini",
+    "Wee Willy",
+    "Butt Stallion",
+    "Dizzy",
+    "Bob the"
+  ],
+  "suffixes": [
+    "the Flatulent",
+    "the Gassy",
+    "the Hilarious",
+    "the Chuckler",
+    "the Snort-Inducer",
+    "the Guffaw-Master",
+    "McFartface",
+    "Longbottom",
+    "Fuzzynuts",
+    "the Destroyer of Worlds (of Laughter)"
+  ]
+}

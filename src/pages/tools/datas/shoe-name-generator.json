@@ -1,0 +1,84 @@
+{
+  "name": "Shoe Name Generator",
+  "description": "Stuck in a naming rut for your next footwear masterpiece? Lace up your creativity with our Shoe Name Generator! We'll help you kickstart your brand with names that are stylish, memorable, and ready to hit the runway (or the trail).",
+  "slug": "shoe-name-generator",
+  "icon": "\ud83d\udc5f",
+  "introduction": "Naming shoes is harder than it looks! You need something that captures the essence of the design, the target audience, and the overall vibe. Whether you're crafting high-end heels or rugged hiking boots, a killer name can make all the difference. Let our generator spark your imagination and help you find the perfect fit!",
+  "howToUse": [
+    "Simply click the 'Generate' button to conjure up a fresh batch of shoe name ideas.",
+    "Don't like what you see? Keep clicking! We've got an endless supply of names just waiting to be discovered.",
+    "Found a name you love? Jot it down! Mix and match prefixes and suffixes for even more unique options.",
+    "Consider your target audience and the style of your shoe when choosing the perfect name. Is it sporty? Elegant? Adventurous? The name should reflect that!",
+    "Pro Tip: Say the names out loud! Make sure they roll off the tongue and sound as good as they look on paper."
+  ],
+  "faqs": [
+    {
+      "question": "How does the Shoe Name Generator work?",
+      "answer": "Our generator combines a curated list of prefixes and suffixes related to shoes, style, and movement to create unique and catchy names. It's a blend of algorithm and artistry!"
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "Absolutely! The names generated are meant to inspire you and provide a starting point. However, we recommend checking for trademark availability before officially branding your shoes with a generated name."
+    },
+    {
+      "question": "Are the generated names actually good?",
+      "answer": "We think so! But ultimately, the 'goodness' of a name is subjective. We aim for names that are memorable, relevant, and evocative. It's up to you to decide if they fit your brand!"
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're always working on expanding our database of prefixes and suffixes! Expect regular updates with fresh and exciting additions to keep the name ideas flowing."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "No problem! Just keep hitting that 'Generate' button. With virtually endless combinations, you're bound to find something that sparks your interest. You can also use the generated names as inspiration to create your own unique variations!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added to the generator?",
+      "answer": "We'd love to hear your suggestions! Please contact us through our website's contact form with your ideas. We're always looking for ways to improve the generator."
+    }
+  ],
+  "prefixes": [
+    "Swift",
+    "Stride",
+    "Apex",
+    "Velocity",
+    "Aura",
+    "Zenith",
+    "Mystic",
+    "Lunar",
+    "Solar",
+    "Urban",
+    "Trail",
+    "Summit",
+    "Elite",
+    "Prime",
+    "Eco",
+    "Nova",
+    "Terra",
+    "Skyline",
+    "Momentum",
+    "Pulse"
+  ],
+  "suffixes": [
+    "Runner",
+    "Walker",
+    "Climber",
+    "Glider",
+    "Racer",
+    "Stepper",
+    "Bounder",
+    "Weaver",
+    "Craft",
+    "Motion",
+    "Force",
+    "Drive",
+    "Edge",
+    "Flex",
+    "Stride",
+    "Shift",
+    "Rise",
+    "Zen",
+    "Flow",
+    "Max"
+  ]
+}

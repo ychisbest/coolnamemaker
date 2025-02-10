@@ -1,0 +1,83 @@
+{
+  "name": "Cool Name Generator",
+  "description": "Struggling to find the perfect, unforgettable name? Unleash your inner wordsmith and discover names so cool, they'll make penguins jealous! Get ready to be amazed by the sheer awesomeness.",
+  "slug": "cool-name-generator",
+  "icon": "\ud83d\ude0e",
+  "introduction": "Welcome to the Cool Name Generator, the ultimate tool for crafting names that ooze coolness! Whether you're naming a band, a pet, a business, or even a super-secret spy organization, we've got the ingredients to cook up something truly epic. Prepare for a naming adventure that's more fun than a barrel of monkeys wearing sunglasses!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! Our algorithm will conjure up a random cool name, blending prefixes and suffixes into a symphony of coolness.",
+    "Don't like the first result? No sweat! Keep clicking until you find a name that resonates with your inner coolness guru.",
+    "Feeling adventurous? Mix and match different prefixes and suffixes to create your own custom cool names. The possibilities are as endless as your imagination!",
+    "Once you've found the perfect cool name, copy it and share it with the world (or keep it a closely guarded secret \u2013 we won't judge!).",
+    "Remember: Coolness is subjective, so trust your gut and choose a name that makes you feel awesome!"
+  ],
+  "faqs": [
+    {
+      "question": "What makes a name 'cool'?",
+      "answer": "Ah, the million-dollar question! Coolness is subjective, but generally, cool names are unique, memorable, and evoke a sense of awesomeness. They often have a modern, edgy vibe that sets them apart from the ordinary."
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "Absolutely! All the generated names are free for you to use however you like. Go forth and conquer the world with your newly acquired coolness!"
+    },
+    {
+      "question": "Are the generated names actually unique?",
+      "answer": "We strive to generate unique names, but with millions of users, there's always a tiny chance of overlap. To ensure absolute uniqueness, we recommend doing a quick Google search before committing to a name."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through the contact form on our website, and we'll consider adding them to our database."
+    },
+    {
+      "question": "Is this generator powered by magic?",
+      "answer": "While we can't reveal our deepest secrets, let's just say that a healthy dose of algorithms, creativity, and a sprinkle of pure awesomeness goes into every generated name."
+    },
+    {
+      "question": "Help! I'm overwhelmed by the sheer number of cool names!",
+      "answer": "Take a deep breath! Save your favorite names to a list, then narrow it down until you find the ultimate cool name champion. And remember, there's no such thing as too much coolness!"
+    }
+  ],
+  "prefixes": [
+    "Electro",
+    "Cyber",
+    "Mega",
+    "Ultra",
+    "Shadow",
+    "Phantom",
+    "Nova",
+    "Zenith",
+    "Rogue",
+    "Titan",
+    "Cosmic",
+    "Lunar",
+    "Solar",
+    "Steel",
+    "Iron",
+    "Viper",
+    "Venom",
+    "Apex",
+    "Mystic"
+  ],
+  "suffixes": [
+    "Tech",
+    "Force",
+    "Strike",
+    "Blade",
+    "Storm",
+    "Core",
+    "Drive",
+    "Pulse",
+    "Wave",
+    "Guard",
+    "Shield",
+    "Claw",
+    "Fang",
+    "Edge",
+    "Hunter",
+    "Knight",
+    "Lord",
+    "Master",
+    "Agent",
+    "Zero"
+  ]
+}

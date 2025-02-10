@@ -1,0 +1,74 @@
+{
+  "name": "Curse Name Generator",
+  "description": "Unleash your inner dark side! Generate wickedly awesome curse names that'll have everyone trembling in their boots. Perfect for your next D&D villain, a spooky story, or just for fun!",
+  "slug": "curse-name-generator",
+  "icon": "\ud83d\ude08",
+  "introduction": "Feeling a little\u2026 mischievous? Need a name that screams 'trouble'? You've come to the right place! Our Curse Name Generator is your one-stop shop for crafting names dripping with dark magic and sinister intent. Whether you're conjuring up a new character or just want to sound incredibly intimidating, we've got you covered. Prepare to be amazed (and maybe a little scared) by the results!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Prepare to be amazed by the sheer awesomeness of the curse name.",
+    "If you're not feeling it, hit 'Generate' again! We've got enough evil to go around.",
+    "Use your new curse name wisely... or wickedly. We won't judge.",
+    "Share your terrifying creation with friends and watch them cower in fear (or at least chuckle)."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "We specialize in names that sound downright evil! Think dark, mysterious, and guaranteed to send shivers down your spine. We mix and match prefixes and suffixes to create unique combinations that evoke a sense of dread."
+    },
+    {
+      "question": "Can I use these names for my Dungeons & Dragons character?",
+      "answer": "Absolutely! These names are perfect for villains, warlocks, necromancers, or any character who embraces the darker side of fantasy. Just imagine introducing 'Malazar the Accursed' to your next campaign!"
+    },
+    {
+      "question": "Are the generated names actually curses?",
+      "answer": "Relax, we're not THAT evil. These are just names, not actual spells that will turn your enemies into toads. Although... that would be pretty cool, wouldn't it?"
+    },
+    {
+      "question": "Can I use these names for my pet?",
+      "answer": "Sure! If you want to give your fluffy kitten a name like 'Nightshade' or 'Doomclaw,' go right ahead. Just don't blame us if your neighbors start avoiding you."
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're always adding new prefixes and suffixes to keep the evil flowing! Check back regularly for fresh inspiration and even more terrifying name combinations."
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yes, it is! Unleash your inner darkness without spending a dime. Consider it a public service... or a public disservice, depending on how you look at it."
+    }
+  ],
+  "prefixes": [
+    "Mal",
+    "Vor",
+    "Grim",
+    "Night",
+    "Shadow",
+    "Doom",
+    "Blood",
+    "Necro",
+    "Cryo",
+    "Pyro",
+    "Venom",
+    "Sorrow",
+    "Whisper",
+    "Dread",
+    "Ebon"
+  ],
+  "suffixes": [
+    "bane",
+    "shade",
+    "claw",
+    "heart",
+    "soul",
+    "bringer",
+    "weaver",
+    "walker",
+    "fiend",
+    "wraith",
+    "scar",
+    "gore",
+    "fang",
+    "howl",
+    "strife"
+  ]
+}

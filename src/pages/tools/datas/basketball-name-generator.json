@@ -1,0 +1,92 @@
+{
+  "name": "Basketball Name Generator",
+  "description": "Dribble into the world of awesome basketball monikers! Get ready to slam dunk your way to the coolest, most unique basketball name ever. Whether you're starting a team, creating a character, or just looking for a fresh nickname, we've got the net swishing with possibilities!",
+  "slug": "basketball-name-generator",
+  "icon": "\ud83c\udfc0",
+  "introduction": "Tired of the same old court-side calls? Our Basketball Name Generator is here to elevate your game! We're not just throwing up bricks; we're crafting names that are all net. From fierce competitor nicknames to team names that scream victory, we've got you covered. So lace up those sneakers, and let's get this show on the road!",
+  "howToUse": [
+    "First, ditch those tired old names \u2013 they're not scoring any points!",
+    "Next, hit that 'Generate' button like you're driving to the hoop for a game-winning layup.",
+    "Keep clicking until you find a name that makes you feel like you can fly, then use it to dominate the court!",
+    "Feeling creative? Mix and match prefixes and suffixes to create a name that's uniquely YOU."
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my actual basketball team?",
+      "answer": "Absolutely! That's what we're here for! Just make sure the name you choose is a total swish with your teammates and the league."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yup! We've got algorithms working harder than LeBron in the playoffs to deliver you fresh, unique names every time."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We're always looking to improve our game! Send your suggestions our way, and who knows, you might just see them in the next update."
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart (and your team) desires. Go wild, champion!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With a virtually infinite combination of prefixes and suffixes, you're bound to find a name that makes you feel like an MVP. Plus, you can always tweak them to perfection!"
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "While we provide the names for fun and inspiration, it's your responsibility to ensure the name doesn't infringe on any existing trademarks or copyrights, especially if you plan to use it commercially."
+    }
+  ],
+  "prefixes": [
+    "Air",
+    "Slam",
+    "Hoop",
+    "Court",
+    "Alley",
+    "Dunk",
+    "Swish",
+    "Rebound",
+    "Crossover",
+    "Fadeaway",
+    "Triple Threat",
+    "Full Court",
+    "Baseline",
+    "Clutch",
+    "Downtown",
+    "Rim Rocker",
+    "Net Ripper",
+    "Fast Break",
+    "Pick and Roll",
+    "Zone Buster",
+    "Sky",
+    "Turbo",
+    "Velocity",
+    "Power",
+    "Mega"
+  ],
+  "suffixes": [
+    "Kings",
+    "Lords",
+    "Stars",
+    "Comets",
+    "Rockets",
+    "Blazers",
+    "Warriors",
+    "Titans",
+    "Mavericks",
+    "Legends",
+    "Dynamos",
+    "Gladiators",
+    "Strikers",
+    "Flyers",
+    "Jammers",
+    "Shooters",
+    "Crushers",
+    "Storm",
+    "Fever",
+    "Voltage",
+    "Force",
+    "Impact",
+    "Velocity",
+    "Destroyers"
+  ]
+}

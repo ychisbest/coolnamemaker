@@ -1,0 +1,75 @@
+{
+  "name": "Skeleton Name Generator",
+  "description": "Unleash your inner bone-afide cool with the Skeleton Name Generator! Find the perfect spooky moniker to match your skeletal swagger.",
+  "slug": "skeleton-name-generator",
+  "icon": "\ud83d\udc80",
+  "introduction": "Ready to rattle some bones? Our Skeleton Name Generator is here to help you unearth a name that's both chilling and thrilling. Whether you're writing a spooky story, creating a bone-chilling character, or just looking for a wickedly awesome nickname, we've got you covered. Dig into a crypt-load of creepy combinations and find the perfect fit for your skeletal persona!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the bone-chilling brilliance!",
+    "Not feeling the first result? No worries! Click again and again until a name rises from the grave that truly speaks to your skeletal soul.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a name that's uniquely undead.",
+    "Share your spooktacular creation with the world \u2013 or keep it a secret, buried deep within your digital tomb."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! This skeletal service is 100% free. No bones about it!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You bet! Once you generate a name, it's yours to use as you please. We only ask that you credit coolnamemaker.com if you become a famous skeleton name influencer. (Okay, maybe not.)"
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're constantly adding new and eerie prefixes and suffixes to keep the bone-chilling possibilities fresh. So, check back often for new names to unearth!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Then you're clearly not a true skeleton at heart! Just kidding! Keep clicking! With countless combinations, you're bound to find a name that tickles your funny bone (or lack thereof)."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ghastly ideas! Send your suggestions through our contact form, and we'll consider adding them to the crypt."
+    },
+    {
+      "question": "Will using this generator make me cooler?",
+      "answer": "Science hasn't proven it yet, but we're 99.9% sure the answer is YES! Prepare for an avalanche of spooky compliments."
+    }
+  ],
+  "prefixes": [
+    "Bone",
+    "Skull",
+    "Grave",
+    "Death",
+    "Shadow",
+    "Phantom",
+    "Revenant",
+    "Crypt",
+    "Skeletal",
+    "Ghastly",
+    "Wither",
+    "Dust",
+    "Night",
+    "Doom",
+    "Rotten",
+    "Cadaver"
+  ],
+  "suffixes": [
+    "shatter",
+    "bane",
+    "grim",
+    "chill",
+    "claw",
+    "shade",
+    "walker",
+    "reaper",
+    "geist",
+    "howl",
+    "marrow",
+    "dust",
+    "scythe",
+    "wraith",
+    "rot",
+    "fang"
+  ]
+}

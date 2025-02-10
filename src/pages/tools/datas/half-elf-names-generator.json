@@ -1,0 +1,94 @@
+{
+  "name": "Half-Elf Name Generator",
+  "description": "Struggling to find that perfect moniker for your half-elf character? Fear not, adventurer! Our Half-Elf Name Generator conjures up names that blend elven elegance with human adaptability. Get ready to embark on your quest with a name that's both mystical and memorable!",
+  "slug": "half-elf-name-generator",
+  "icon": "\ud83e\udddd",
+  "introduction": "Half-elves are the charismatic bridge between two worlds, and their names should reflect that! Whether you're crafting a character for D&D, writing a fantasy novel, or just brainstorming cool names, this generator will provide a wealth of options that capture the unique essence of your half-elf creation. Prepare to be amazed by the possibilities!",
+  "howToUse": [
+    "Click the 'Generate' button! (Duh!)",
+    "Feast your eyes on the glorious name that appears.",
+    "Don't like it? Click again! We've got more where that came from.",
+    "Found the PERFECT name? Copy and paste it into your character sheet, novel, or brain. Bask in the awesomeness.",
+    "Share the love! Tell your friends about our amazing generator."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "This generator blends elven and human naming conventions to create names that are fitting for half-elf characters. Expect a mix of melodic elven sounds with more grounded, human-like structures."
+    },
+    {
+      "question": "Can I use these names for my Dungeons & Dragons character?",
+      "answer": "Absolutely! These names are perfect for D&D, Pathfinder, or any other fantasy role-playing game. We encourage you to use them to bring your character to life!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes and no! The generator uses a combination of curated prefixes and suffixes inspired by elven and human languages. This ensures that while the names are random, they still sound authentic and believable."
+    },
+    {
+      "question": "Can I generate female, male, or gender-neutral names?",
+      "answer": "The generator doesn't explicitly distinguish between genders. Many of the generated names are gender-neutral or can be easily adapted to suit your character's gender identity."
+    },
+    {
+      "question": "I don't like any of the names! What should I do?",
+      "answer": "Keep clicking! With a vast library of prefixes and suffixes, the possibilities are virtually endless. If you're still not satisfied, try combining elements from different generated names to create something truly unique!"
+    },
+    {
+      "question": "Will using these names make my character instantly awesome?",
+      "answer": "While we can't guarantee instant awesomeness, a cool name is definitely a step in the right direction! The rest is up to you and your roleplaying skills. Good luck, adventurer!"
+    }
+  ],
+  "prefixes": [
+    "Aer",
+    "Eld",
+    "Lyn",
+    "Val",
+    "Ser",
+    "Bry",
+    "Tor",
+    "Ren",
+    "Myr",
+    "Jor",
+    "Lys",
+    "Cor",
+    "Fael",
+    "Gwy",
+    "Had",
+    "Wil",
+    "Theo",
+    "Ari",
+    "Cas",
+    "Liv",
+    "Row",
+    "Fin",
+    "Ash",
+    "Bla",
+    "Cle"
+  ],
+  "suffixes": [
+    "wyn",
+    "anor",
+    "iel",
+    "ian",
+    "lyn",
+    "ric",
+    "den",
+    "mir",
+    "las",
+    "dan",
+    "anor",
+    "wyn",
+    "driel",
+    "las",
+    "ian",
+    "mond",
+    "ford",
+    "wick",
+    "well",
+    "ton",
+    "ley",
+    "wood",
+    "by",
+    "ers",
+    "ter"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Baby Name Generator (Last Name Inspired!)",
+  "description": "Struggling to find the *perfect* baby name that flows with your last name? Let our generator spark some seriously cool ideas! We'll twist, tweak, and blend your family name into unique first name suggestions. Get ready to discover a name as special as your little one.",
+  "slug": "baby-name-generator-last-name",
+  "icon": "\ud83d\udc76",
+  "introduction": "Congratulations on your upcoming arrival! Choosing a baby name is a big deal. It's their identity, their first impression, their legacy! But finding a name that sounds *amazing* with your last name? That's the real challenge.  That's where we come in!  We'll help you brainstorm names that are both beautiful and perfectly matched to your family surname. Prepare for a flood of inspiration!",
+  "howToUse": [
+    "First, pop in your last name. Don't worry, we won't share it with the world (unless you *want* us to... just kidding!).",
+    "Next, hit that 'Generate' button like you're striking gold! \u2728",
+    "Browse the list of awesome, last-name-inspired baby names.  Feel free to generate as many as you like!",
+    "Add your favorites to your 'shortlist'.  Maybe even share them with your partner or family for extra opinions (but remember, *you* have the final say!).",
+    "Prepare for the baby name compliments to roll in! You're welcome."
+  ],
+  "faqs": [
+    {
+      "question": "Will this generator *actually* find the 'perfect' name?",
+      "answer": "We can't guarantee perfection (what *is* perfect, anyway?), but we *can* guarantee you'll discover some incredibly cool and unique names you might never have considered otherwise. It's all about sparking inspiration!"
+    },
+    {
+      "question": "Is my last name kept private?",
+      "answer": "Absolutely! We value your privacy. Your last name is only used to generate names and is never stored or shared."
+    },
+    {
+      "question": "Can I use this generator for middle names too?",
+      "answer": "You bet! While this generator is primarily for first names, feel free to get creative and see if any of the suggestions work as a middle name option as well."
+    },
+    {
+      "question": "The generated names are a little *too* unique. Can I make them more traditional?",
+      "answer": "Of course! Consider the generated names as a starting point. You can always tweak the spelling, shorten them, or combine elements with other names you love."
+    },
+    {
+      "question": "Help! I still can't decide on a name!",
+      "answer": "Don't panic! Choosing a name is a journey. Take your time, trust your gut, and remember that whatever name you choose will be perfect for your little one. Maybe try reading the names aloud, imagining calling out to your child. Which one feels right?"
+    },
+    {
+      "question": "Are the names generated based on any specific naming conventions or origins?",
+      "answer": "The generator uses a mix of phonetic algorithms, name blending techniques, and a vast database of names from various origins to create unique suggestions. It's a bit of magic, a bit of science, and a whole lot of fun!"
+    }
+  ],
+  "prefixes": [
+    "Ari",
+    "Ben",
+    "Eli",
+    "Ava",
+    "Mia",
+    "Leo",
+    "Oak",
+    "Fin",
+    "Ren",
+    "Lux",
+    "Ash",
+    "Row",
+    "Vale",
+    "Bly",
+    "Shea",
+    "Sage",
+    "Wren",
+    "Teag",
+    "Indi",
+    "Zel",
+    "Remi",
+    "Kai",
+    "Rio"
+  ],
+  "suffixes": [
+    "son",
+    "ly",
+    "ton",
+    "er",
+    "ing",
+    "an",
+    "ett",
+    "lyn",
+    "rie",
+    "x",
+    "ar",
+    "en",
+    "ix",
+    "lee",
+    "low",
+    "ver",
+    "ker",
+    "man",
+    "win",
+    "well",
+    "den",
+    "ham",
+    "lyn"
+  ]
+}

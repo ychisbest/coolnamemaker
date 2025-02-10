@@ -1,0 +1,91 @@
+{
+  "name": "Halo Spartan Name Generator",
+  "description": "Ready to become a legendary Spartan? Forge your epic Halo identity with our Spartan Name Generator! Unlock a name worthy of the battlefield, infused with the grit and glory of the UNSC's finest.",
+  "slug": "halo-spartan-name-generator",
+  "icon": "\ud83d\udee1\ufe0f",
+  "introduction": "Step into the boots of a Spartan! This generator crafts unique and memorable names, perfect for your next Halo adventure, fan fiction, or online persona. Whether you're a seasoned veteran or a fresh recruit, discover a name that resonates with the spirit of the Halo universe. Prepare for deployment, Spartan!",
+  "howToUse": [
+    "Click the 'Generate' button. Simple, right? We're not asking you to single-handedly take down a Covenant cruiser here.",
+    "Keep clicking until you find a name that makes you want to shout 'For Reach!'",
+    "Copy your awesome new Spartan name and use it to dominate the battlefield (or your next online gaming session).",
+    "Share your legendary Spartan name with your fireteam. Let them know who the real hero is."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "This generator creates names that evoke the spirit of the Halo universe, drawing inspiration from Spartan culture, military ranks, and the epic conflicts of the Human-Covenant War. Expect a blend of call signs, designations, and a touch of futuristic flair."
+    },
+    {
+      "question": "Can I use these names for my Halo fan fiction?",
+      "answer": "Absolutely! Feel free to unleash your creativity and weave these names into your own Halo stories. Just remember to give credit where it's due (to the UNSC, of course... and maybe us \ud83d\ude09)."
+    },
+    {
+      "question": "Are the generated names actually canon in the Halo universe?",
+      "answer": "While we strive for authenticity, these names are generated for fun and creative purposes. They may not be officially recognized by 343 Industries, but that doesn't mean they can't be legendary in your own personal Halo saga!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Completely free! We believe that every aspiring Spartan deserves a cool name, regardless of their credit score. So go ahead, generate as many names as your heart desires!"
+    },
+    {
+      "question": "Can I suggest improvements or new features for the generator?",
+      "answer": "We're always looking for ways to enhance the Spartan experience! If you have any brilliant ideas or suggestions, feel free to send them our way. Your feedback could help us forge even more epic names in the future!"
+    },
+    {
+      "question": "Will this generator help me improve my K/D ratio in Halo?",
+      "answer": "While a cool name won't magically make you a better player, it will certainly strike fear into the hearts of your enemies. Plus, you'll look awesome while dominating the battlefield. It's a win-win!"
+    }
+  ],
+  "prefixes": [
+    "Noble",
+    "Crimson",
+    "Shadow",
+    "Phantom",
+    "Omega",
+    "Delta",
+    "Echo",
+    "Recon",
+    "Specter",
+    "Vanguard",
+    "Titan",
+    "Phoenix",
+    "Wraith",
+    "Havoc",
+    "Maverick",
+    "Spartan",
+    "Commander",
+    "Sergeant",
+    "Lieutenant",
+    "Alpha",
+    "Bravo",
+    "Charlie"
+  ],
+  "suffixes": [
+    "Six",
+    "Zero",
+    "One",
+    "Two",
+    "Three",
+    "Four",
+    "Five",
+    "Seven",
+    "Eight",
+    "Nine",
+    "XIII",
+    "XIV",
+    "XV",
+    "XVI",
+    "XVII",
+    "XVIII",
+    "XIX",
+    "XX",
+    "XXI",
+    "XXII",
+    "XXIII",
+    "117",
+    "051",
+    "087",
+    "104",
+    "058"
+  ]
+}

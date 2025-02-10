@@ -1,0 +1,84 @@
+{
+  "name": "Horror Game Name Generator",
+  "description": "Struggling to find the PERFECT name for your spine-chilling horror game? Don't let a lame title bury your masterpiece! Unleash the terror with our Horror Game Name Generator and craft a name that will haunt players' dreams before they even hit 'play'. Get ready to unleash the fear!",
+  "slug": "horror-game-name-generator",
+  "icon": "\ud83d\ude31",
+  "introduction": "So, you've poured your heart and soul into crafting a terrifying horror game. But now you're stuck on the name? Fear not! Our Horror Game Name Generator is here to rescue you from the abyss of uninspired titles. We'll help you conjure up a name that's as chilling and unforgettable as your game itself. Prepare to be scared... of how good these names are!",
+  "howToUse": [
+    "Simply click the 'Generate' button \u2013 we've made it ridiculously easy, even if you're already trembling with fear.",
+    "Behold! A randomly generated horror game name will materialize before your very eyes. Prepare to be thrilled (or terrified!).",
+    "Don't like the first one? Keep clicking! We've got an endless supply of terrifying titles just waiting to be unleashed.",
+    "Found the perfect name? Copy and paste it into your game's title field. Bask in the glory of your newfound naming prowess!",
+    "Share your favorite creations with your friends and see who can come up with the most terrifying title. (Warning: May cause nightmares.)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to help me create a good name?",
+      "answer": "Absolutely! We've poured our dark magic into creating a generator that sparks creativity and delivers names that are both evocative and memorable. It's like having a horror-naming muse at your fingertips!"
+    },
+    {
+      "question": "Can I use the names generated for commercial purposes?",
+      "answer": "Yes! Once the name is generated, it's yours to use as you see fit. Go forth and create a horror empire, built on a foundation of chillingly awesome names!"
+    },
+    {
+      "question": "Are the names copyrighted?",
+      "answer": "Our generator creates original combinations, but we always recommend checking for existing trademarks or copyrights before settling on a final name, just to be on the safe side. Better safe than sorry... or haunted!"
+    },
+    {
+      "question": "How often is the generator updated with new prefixes and suffixes?",
+      "answer": "We're constantly adding new and terrifying elements to our name pool to keep things fresh and horrifying. Check back often for new possibilities to unleash your inner terror!"
+    },
+    {
+      "question": "What if I don't like any of the names generated?",
+      "answer": "Keep clicking! We have a vast and ever-growing library of prefixes and suffixes. Plus, use the generated names as inspiration to brainstorm your own unique variations. The possibilities are endless... and terrifying!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We're always open to suggestions! If you have a particularly creepy or evocative word or phrase, feel free to send it our way. Who knows, it might just end up inspiring the next generation of horror games!"
+    }
+  ],
+  "prefixes": [
+    "Silent",
+    "Crimson",
+    "Eternal",
+    "Forgotten",
+    "Twisted",
+    "Shadow",
+    "Bloodstained",
+    "Whispering",
+    "Haunted",
+    "Desolate",
+    "Nightmare",
+    "Spectral",
+    "Abyssal",
+    "Cursed",
+    "Dreadful",
+    "Lost",
+    "Veiled",
+    "Unholy",
+    "Ghastly",
+    "Macabre"
+  ],
+  "suffixes": [
+    "Hills",
+    "Manor",
+    "Asylum",
+    "Woods",
+    "Creek",
+    "Sanctuary",
+    "Labyrinth",
+    "Echoes",
+    "Curse",
+    "Night",
+    "Blood",
+    "Silence",
+    "Tomb",
+    "Shadows",
+    "Screams",
+    "Whispers",
+    "Descent",
+    "Legacy",
+    "Awakening",
+    "Ritual"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Fallen Angel Name Generator",
+  "description": "Unleash your inner darkness! Create a wickedly cool name worthy of a fallen angel. Perfect for characters, usernames, or just embracing your rebellious side.",
+  "slug": "fallen-angel-name-generator",
+  "icon": "\ud83d\ude08",
+  "introduction": "Ready to ditch the halo and embrace the shadows? Our Fallen Angel Name Generator conjures up names that drip with mystique, rebellion, and a touch of forbidden allure. Whether you're writing a dark fantasy novel, creating a captivating online persona, or simply feeling a bit devilish, we've got the perfect moniker to match your fallen status.",
+  "howToUse": [
+    "Simply hit the 'Generate' button. Prepare to be tempted!",
+    "Don't like the first name you see? Keep clicking! We've got a whole legion of names waiting to be unleashed.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a truly unique and personalized fallen angel name.",
+    "Share your wickedly cool name with the world! (Or keep it a deliciously dark secret... your call.)"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "We focus on names that evoke a sense of darkness, power, and ethereal beauty. Think names with gothic undertones, hints of ancient lore, and a touch of seductive charm. Basically, names that would make Lucifer himself jealous."
+    },
+    {
+      "question": "Can I use these names for my characters?",
+      "answer": "Absolutely! That's what they're here for. Feel free to use them for your novels, games, artwork, or any other creative project where a fallen angel name is needed."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes and no. The generator uses a combination of carefully curated prefixes and suffixes to create names that sound authentic and evocative. So, while the combinations are random, the individual elements are chosen for their specific qualities."
+    },
+    {
+      "question": "I don't like any of the names I'm getting. What should I do?",
+      "answer": "Keep clicking! We have a vast database of names, and you're bound to find one that resonates with you eventually. You can also try mixing and matching prefixes and suffixes yourself to create something truly unique."
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your dark heart desires. The more, the merrier (and the more fallen)."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Yes, you are free to use the generated names for commercial purposes. We only ask that you do not resell or redistribute the name generator itself."
+    }
+  ],
+  "prefixes": [
+    "Azrael",
+    "Lilith",
+    "Belial",
+    "Morwen",
+    "Nyx",
+    "Raze",
+    "Shadow",
+    "Dusk",
+    "Seraph",
+    "Raven",
+    "Grim",
+    "Malak",
+    "Nocturne",
+    "Obsidian",
+    "Asmodeus"
+  ],
+  "suffixes": [
+    "iel",
+    "ia",
+    "thos",
+    "yx",
+    "bane",
+    "shade",
+    "whisper",
+    "claw",
+    "wing",
+    "thorn",
+    "heart",
+    "soul",
+    "moon",
+    "star",
+    "void"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Vulpera Name Generator",
+  "description": "Unleash your inner fox with our Vulpera Name Generator! Find the perfect moniker that's both cunning and charming, befitting a denizen of the sands.",
+  "slug": "vulpera-name-generator",
+  "icon": "\ud83e\udd8a",
+  "introduction": "Ready to ditch the 'basic' and embrace the desert spirit? Our Vulpera Name Generator is here to whip up names that'll make you the envy of the caravans. Whether you're roleplaying, creating a character, or just need a cool nickname, we've got you covered. Get ready to discover a name as unique and resourceful as the Vulpera themselves!",
+  "howToUse": [
+    "First, take a deep breath and channel your inner Vulpera. Imagine those sun-drenched dunes!",
+    "Then, simply click the 'Generate' button. Like magic (or really good coding!), we'll conjure up a fabulous Vulpera name.",
+    "Don't like the first result? No sweat! Keep clicking until you find the name that makes your tail wag.",
+    "Found 'the one'? Awesome! Copy it, share it, and let the world know your Vulpera is ready for adventure!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "Our generator crafts names inspired by Vulpera culture, incorporating elements of desert life, trade, and a touch of cunning. Expect names that sound both exotic and familiar."
+    },
+    {
+      "question": "Can I use these names for my World of Warcraft character?",
+      "answer": "Absolutely! That's precisely what it's for. These names are perfect for your Vulpera character in WoW or any other role-playing game."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "We use a blend of carefully curated prefixes and suffixes to create names that sound authentic and unique. It's randomness with a purpose!"
+    },
+    {
+      "question": "Will the generator create the same name twice?",
+      "answer": "While it's possible, it's highly unlikely! We have a vast library of name parts, so you're almost guaranteed a unique result every time."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions, and we might just add them to our list to make the generator even better!"
+    }
+  ],
+  "prefixes": [
+    "Kiro",
+    "Rix",
+    "Zuli",
+    "Fenna",
+    "Jaxx",
+    "Lira",
+    "Shara",
+    "Talo",
+    "Voss",
+    "Zara",
+    "Akin",
+    "Biko",
+    "Cinder",
+    "Dune",
+    "Ember",
+    "Gila",
+    "Haze",
+    "Indigo"
+  ],
+  "suffixes": [
+    "dust",
+    "sand",
+    "claw",
+    "tail",
+    "fang",
+    "shadow",
+    "wind",
+    "runner",
+    "trader",
+    "seeker",
+    "whisper",
+    "bloom",
+    "song",
+    "weaver",
+    "shaper",
+    "thorn",
+    "eye",
+    "heart"
+  ]
+}

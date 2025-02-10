@@ -1,0 +1,84 @@
+{
+  "name": "Female Saiyan Name Generator",
+  "description": "Unleash your inner Super Saiyan! Generate powerful and unique female Saiyan names that even Frieza would fear. Perfect for your fan fiction, RPG characters, or just for fun!",
+  "slug": "female-saiyan-name-generator",
+  "icon": "\u2640\ufe0f",
+  "introduction": "Ever dreamed of being a legendary Saiyan warrior? Now's your chance to find the perfect name! Our Female Saiyan Name Generator combines the raw power of Saiyan heritage with a touch of feminine mystique, creating names that are both fierce and unforgettable. Get ready to go Super Saiyan... with style!",
+  "howToUse": [
+    "Click the 'Generate' button and BAM! A brand-new Saiyan name will appear.",
+    "Not feeling that one? No problem! Hit 'Generate' again for endless possibilities.",
+    "Mix and match prefixes and suffixes for ultimate customization (if you're feeling extra creative!).",
+    "Once you've found the perfect name, shout it from the rooftops! Or, you know, just copy and paste it.",
+    "Remember, your Saiyan name is a reflection of your inner power. Choose wisely... or just keep hitting 'Generate' until something awesome pops up!"
+  ],
+  "faqs": [
+    {
+      "question": "What makes a good female Saiyan name?",
+      "answer": "A good female Saiyan name should sound strong, powerful, and maybe even a little bit intimidating! Think about names that evoke images of fire, speed, and unwavering determination."
+    },
+    {
+      "question": "Can I use these names for my fan fiction?",
+      "answer": "Absolutely! That's what they're here for. Go forth and create epic tales of Saiyan strength and adventure!"
+    },
+    {
+      "question": "Are these names actually used in Dragon Ball?",
+      "answer": "While some might sound familiar, these names are generated based on Saiyan naming conventions (often vegetable-related puns!). They're designed to feel authentic but are mostly original creations."
+    },
+    {
+      "question": "Can I combine prefixes and suffixes myself?",
+      "answer": "Go for it! We encourage experimentation. You might stumble upon a truly legendary combination that even Goku would envy."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking 'Generate'! With so many possibilities, you're bound to find a name that resonates with your inner Super Saiyan. And hey, sometimes the silliest names are the best!"
+    },
+    {
+      "question": "Is this generator really free?",
+      "answer": "Yep! Use it as much as you want. No hidden fees, no sneaky subscription traps. Just pure, unadulterated Saiyan name generation fun!"
+    }
+  ],
+  "prefixes": [
+    "Brocc",
+    "Kale",
+    "Pumpk",
+    "Radic",
+    "Turn",
+    "Beet",
+    "Cassa",
+    "Ging",
+    "Spin",
+    "Lett",
+    "Parsl",
+    "Aspar",
+    "Zucch",
+    "Artich",
+    "Celery",
+    "Celer",
+    "Cauli",
+    "Bruss",
+    "Auber",
+    "Chard"
+  ],
+  "suffixes": [
+    "ly",
+    "a",
+    "i",
+    "et",
+    "ia",
+    "ina",
+    "ana",
+    "ara",
+    "ella",
+    "issa",
+    "ica",
+    "een",
+    "ette",
+    "ora",
+    "enda",
+    "illi",
+    "umi",
+    "ylla",
+    "enna",
+    "era"
+  ]
+}

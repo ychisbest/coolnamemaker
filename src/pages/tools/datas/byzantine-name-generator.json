@@ -1,0 +1,73 @@
+{
+  "name": "Byzantine Name Generator",
+  "description": "Unleash the glory of Byzantium! Crave a name that echoes with ancient emperors, cunning strategists, and opulent palaces? Our Byzantine Name Generator will transport you to the heart of Constantinople, forging a moniker fit for royalty (or at least, a really impressive LARP character).",
+  "slug": "byzantine-name-generator",
+  "icon": "\ud83d\udc51",
+  "introduction": "Ever dreamt of ruling the Eastern Roman Empire? Okay, maybe not *ruling*, but at least having a name that sounds like you could? Our Byzantine Name Generator is your time machine to a world of mosaics, intrigue, and names that roll off the tongue like fine wine (or, you know, retsina). Prepare to be christened with a title worthy of the Golden Horn!",
+  "howToUse": [
+    "Click the 'Generate' button. (Revolutionary, we know.)",
+    "Marvel at the Byzantine-esque name bestowed upon you.",
+    "Share your newfound title with the world! (Or just your cat, we don't judge.)",
+    "Repeat as needed until you find the *perfect* name. It's like trying on crowns, but without the risk of getting beheaded."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator historically accurate?",
+      "answer": "We've taken some *artistic liberties*. While inspired by Byzantine naming conventions, we've also injected a healthy dose of fun. Think of it as historical fiction for your name."
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! In fact, we encourage it. Imagine the look on your DM's face when you introduce yourself as 'Theophylactus the Terrible, Bane of Bulgars'. Priceless."
+    },
+    {
+      "question": "Are the generated names actually *cool*?",
+      "answer": "Define 'cool'! If your definition involves words like 'basileus', 'strategos', and 'purple-born', then yes, unequivocally cool. If you're looking for 'Chad' or 'Brittany', you're in the wrong empire."
+    },
+    {
+      "question": "Will using a Byzantine name grant me superpowers?",
+      "answer": "We cannot guarantee superpowers. However, increased confidence, a heightened sense of drama, and the ability to pronounce ridiculously long words are highly probable side effects."
+    },
+    {
+      "question": "I don't like the name I got. What should I do?",
+      "answer": "Click 'Generate' again! The Byzantine Empire lasted for over a thousand years; surely we can find you a name you like within a few clicks. Don't give up, future emperor!"
+    },
+    {
+      "question": "Can I use these names for my pet?",
+      "answer": "By all means! Imagine calling your cat 'Justinian' or your dog 'Theodora'. They'll be the most distinguished pets on the block."
+    }
+  ],
+  "prefixes": [
+    "Theophylactus",
+    "Constantine",
+    "Justinian",
+    "Basil",
+    "Alexius",
+    "John",
+    "Andronicus",
+    "Manuel",
+    "Isaac",
+    "Nicephorus",
+    "Romanus",
+    "Michael",
+    "Theodosius",
+    "Heraclius"
+  ],
+  "suffixes": [
+    "the Great",
+    "the Wise",
+    "the Terrible",
+    "the Bold",
+    "the Just",
+    "the Magnificent",
+    "the Conqueror",
+    "the Usurper",
+    "the Defender",
+    "the Unready",
+    "the Pious",
+    "the Dragon-Slayer",
+    "the Purple-Born",
+    "Comnenus",
+    "Palaiologos",
+    "Doukas"
+  ]
+}

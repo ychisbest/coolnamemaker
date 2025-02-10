@@ -1,0 +1,84 @@
+{
+  "name": "Character Name Generator Based on Personality",
+  "description": "Struggling to name your next protagonist? Unleash your inner wordsmith! Describe your character's vibe, and we'll conjure up a moniker that's as unique as they are. Prepare for names that practically leap off the page!",
+  "slug": "character-name-generator-based-on-personality",
+  "icon": "\ud83c\udfad",
+  "introduction": "Crafting compelling characters is an art, and every masterpiece needs the perfect signature. Our Character Name Generator is your muse, blending personality traits with linguistic flair to forge names that resonate with depth and intrigue. Say goodbye to generic labels and hello to identities that truly captivate!",
+  "howToUse": [
+    "First, think about your character. Are they brave? Mischievous? Wise? Jot down a few keywords describing their personality.",
+    "Next, pop those keywords into our magical name-generating box. Don't be shy, the more details, the better!",
+    "Behold! A cascade of names tailored to your character's very essence. Browse, ponder, and select the one that sings to your soul.",
+    "Not quite feeling the vibe? Hit that 'Generate' button again for a fresh batch of inspiration. We've got names for days!",
+    "Once you've found 'the one,' flaunt it! Share your character's awesome new name with the world and watch them come to life."
+  ],
+  "faqs": [
+    {
+      "question": "How does the generator work?",
+      "answer": "We've brewed a secret sauce of linguistic algorithms and personality associations. By analyzing the keywords you provide, we create name suggestions that reflect your character's core traits and overall vibe. It's part science, part magic, and all awesome!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once a name pops out of our generator, it's all yours to use as you see fit. Create a bestselling novel, a blockbuster movie, or a quirky indie game \u2013 the possibilities are endless!"
+    },
+    {
+      "question": "Will the generated names be completely unique?",
+      "answer": "While we strive for originality, there's always a chance of overlap. However, the more specific your keywords, the more unique your results will be. So, dive deep into your character's psyche and let the creativity flow!"
+    },
+    {
+      "question": "Can I generate names for different genres?",
+      "answer": "You bet! Whether you're crafting a fantasy epic, a sci-fi thriller, or a contemporary romance, our generator is versatile enough to handle any genre. Just adjust your keywords to match the tone and setting of your story."
+    },
+    {
+      "question": "I don't like any of the generated names. What should I do?",
+      "answer": "No worries! That's the beauty of a generator. Just hit the 'Generate' button again for a fresh batch of names. You can also tweak your keywords or try a different combination to see what sparks your imagination. Keep experimenting, and you're sure to find the perfect fit!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! Unleash your creativity without spending a dime. Our Character Name Generator is a gift to the writing community, designed to inspire and empower storytellers of all kinds. Happy naming!"
+    }
+  ],
+  "prefixes": [
+    "Aer",
+    "Ven",
+    "Sylv",
+    "Kael",
+    "Lys",
+    "Tor",
+    "El",
+    "Bri",
+    "Jax",
+    "Rhea",
+    "Nyx",
+    "Zeph",
+    "Val",
+    "Astra",
+    "Corv",
+    "Finn",
+    "Rowan",
+    "Sage",
+    "Ever",
+    "Ash"
+  ],
+  "suffixes": [
+    "ia",
+    "on",
+    "is",
+    "ar",
+    "iel",
+    "an",
+    "yn",
+    "en",
+    "er",
+    "or",
+    "ix",
+    "yx",
+    "us",
+    "ys",
+    "ett",
+    "ette",
+    "a",
+    "e",
+    "i",
+    "o"
+  ]
+}

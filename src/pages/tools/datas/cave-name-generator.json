@@ -1,0 +1,83 @@
+{
+  "name": "Cave Name Generator",
+  "description": "Unearth the perfect name for your subterranean sanctuary! Whether you're crafting a fantasy world, designing a video game level, or just need a cool name for your basement, this generator will help you find it. Explore the depths and discover names that echo with mystery and adventure!",
+  "slug": "cave-name-generator",
+  "icon": "\u26f0\ufe0f",
+  "introduction": "Venture into the unknown and discover the perfect name for your cave! From echoing grottos to hidden chambers, every cave deserves a name that captures its unique essence. Our Cave Name Generator combines evocative prefixes and suffixes to create names that are both intriguing and memorable. Prepare to be amazed by the possibilities!",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's like magic, but with more rocks!",
+    "Keep clicking until a name resonates with your inner spelunker.",
+    "Feeling adventurous? Mix and match prefixes and suffixes for truly unique results.",
+    "Share your favorite names with your fellow adventurers. After all, sharing is caring (and makes you look super cool).",
+    "Use these names for your D&D campaigns, novels, video games, or even just to impress your friends with your vast knowledge of cave nomenclature. You're welcome!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names can I generate?",
+      "answer": "Our generator creates a wide variety of cave names, from the majestic and awe-inspiring to the mysterious and slightly spooky. Expect names that evoke images of stalactites, hidden passages, and ancient secrets."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Feel free to use the generated names for your books, games, or any other creative project. We just ask that you give a shout-out to coolnamemaker.com if you're feeling generous!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes! Our generator uses a carefully curated list of prefixes and suffixes, combined with a touch of randomness, to create unique and interesting names every time."
+    },
+    {
+      "question": "I don't like the names I'm getting. What can I do?",
+      "answer": "Keep clicking! The beauty of randomness is that you never know what gems you might unearth. You can also try mixing and matching prefixes and suffixes to create your own custom names."
+    },
+    {
+      "question": "Will this generator help me find the Lost City of Atlantis?",
+      "answer": "While we can't guarantee that, we're confident that the names you generate here will inspire you to embark on your own epic adventures. Good luck, and happy spelunking!"
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart desires. We've got an endless supply of subterranean inspiration!"
+    }
+  ],
+  "prefixes": [
+    "Crystal",
+    "Shadow",
+    "Echoing",
+    "Whispering",
+    "Forgotten",
+    "Ancient",
+    "Deep",
+    "Lost",
+    "Emerald",
+    "Silent",
+    "Glimmering",
+    "Thunder",
+    "Obsidian",
+    "Azure",
+    "Crimson",
+    "Moonlit",
+    "Sunken",
+    "Twisted",
+    "Hidden"
+  ],
+  "suffixes": [
+    "Grotto",
+    "Chamber",
+    "Caverns",
+    "Depths",
+    "Sanctuary",
+    "Labyrinth",
+    "Hollow",
+    "Abyss",
+    "Realm",
+    "Domain",
+    "Vault",
+    "Passage",
+    "Gallery",
+    "Catacombs",
+    "Maze",
+    "Gorge",
+    "Pit",
+    "Den",
+    "Keep",
+    "Halls"
+  ]
+}

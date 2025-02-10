@@ -1,0 +1,92 @@
+{
+  "name": "Lawn Care Name Generator",
+  "description": "Struggling to find the perfect name for your lawn care business? Our generator is here to cultivate the most fertile and unforgettable names, guaranteed to make your services stand out from the weeds!",
+  "slug": "lawn-care-name-generator",
+  "icon": "\ud83c\udf31",
+  "introduction": "Let's face it: a catchy name can make or break your lawn care business. It's the first impression, the billboard in people's minds. This generator combines landscaping lingo with a dash of creativity to help you unearth a name that's both memorable and professional.",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! Our algorithm will conjure up a plethora of lawn care name ideas.",
+    "Don't be afraid to mix and match! Take inspiration from different suggestions and create something truly unique.",
+    "Feeling picky? Keep hitting that button until you find the *perfect* name that resonates with your business's vibe.",
+    "Once you've found 'The One,' make sure to check its availability as a website domain and social media handle. Don't let someone else snatch your green dream!",
+    "And remember, a great name is just the beginning. Provide top-notch service, and your reputation will blossom!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe everyone deserves a shot at a killer name. No hidden fees, no pesky subscriptions, just pure naming bliss."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You bet! Once you've found a name you love, it's all yours to use for your business, branding, and world domination (in the lawn care industry, of course!)."
+    },
+    {
+      "question": "Will the generator create the same names over and over?",
+      "answer": "Our algorithm is designed to be dynamic and creative, so while there might be some overlap, you'll generally get a wide range of unique suggestions."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! Or, use the suggestions as inspiration and tweak them to better suit your vision. The possibilities are endless!"
+    },
+    {
+      "question": "Does the generator check for trademark availability?",
+      "answer": "Unfortunately, no. While our generator is awesome, it can't do *everything*. It's your responsibility to ensure the name you choose isn't already trademarked."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always looking for ways to improve! Feel free to send us your suggestions \u2013 we might just add them to our database!"
+    }
+  ],
+  "prefixes": [
+    "Green",
+    "Emerald",
+    "Lawn",
+    "Grass",
+    "Turf",
+    "Yard",
+    "Curb",
+    "Eco",
+    "Precision",
+    "Pro",
+    "Elite",
+    "Superior",
+    "Apex",
+    "Prime",
+    "Royal",
+    "King",
+    "Queen",
+    "Master",
+    "Terra",
+    "Verdant",
+    "Bloom",
+    "Fresh",
+    "Clean",
+    "Renew",
+    "Revive"
+  ],
+  "suffixes": [
+    "Care",
+    "Solutions",
+    "Services",
+    "Masters",
+    "Experts",
+    "Pros",
+    "Co",
+    "Group",
+    "Team",
+    "Scape",
+    "Scapes",
+    "Designs",
+    "Landscaping",
+    "Maintenance",
+    "Renew",
+    "Revive",
+    "FX",
+    "Unlimited",
+    "Plus",
+    "One",
+    "Now",
+    "Today",
+    "First"
+  ]
+}

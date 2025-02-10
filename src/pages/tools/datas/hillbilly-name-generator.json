@@ -1,0 +1,73 @@
+{
+  "name": "Hillbilly Name Generator",
+  "description": "Yeehaw! Need a name that screams 'born in the holler'? Our Hillbilly Name Generator's got you covered. Perfect for your next character, moonshine brand, or just a good ol' laugh!",
+  "slug": "hillbilly-name-generator",
+  "icon": "\ud83e\udd20",
+  "introduction": "Ever wonder what you'd be called if you were raised on a steady diet of cornbread and banjo music? This here generator will spit out authentic-soundin' hillbilly names faster than you can say 'fetch me my shotgun!' Get ready to embrace your inner mountain folk!",
+  "howToUse": [
+    "Click that fancy 'Generate' button. Go on, you know you wanna.",
+    "Feast your eyes on the glorious hillbilly name bestowed upon you.",
+    "Don't like it? Click again, ya city slicker! We got plenty more where that came from.",
+    "Share your newfound hillbilly identity with your friends. Hilarity WILL ensue."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names *actually* authentic hillbilly names?",
+      "answer": "Well, bless your heart! We've crafted these names to *sound* like authentic hillbilly names. We can't guarantee your great-grandpappy actually knew someone named 'Ezekiel Thunderbottom,' but it's plausible!"
+    },
+    {
+      "question": "Can I use these names for my Dungeons & Dragons character?",
+      "answer": "Absolutely! Imagine the look on your party's faces when 'Cletus the Conjurer' rolls up. Just be prepared to explain what a 'conjurer' is to Cletus."
+    },
+    {
+      "question": "Is this generator offensive?",
+      "answer": "We aim for humor, not harm. If you're easily offended, maybe stick to generating names for your pet goldfish. Otherwise, lighten up and enjoy the fun!"
+    },
+    {
+      "question": "Will using a hillbilly name improve my moonshine-making skills?",
+      "answer": "While we can't guarantee it, we reckon it couldn't hurt! There's somethin' about a name like 'Billy-Bob' that just screams 'expert distiller'."
+    },
+    {
+      "question": "Can I suggest names to add to the generator?",
+      "answer": "We're all ears! Send your suggestions our way. If we like 'em, we might just add 'em in... and give you a shout-out, too!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Free as the mountain air! Use it to your heart's content."
+    }
+  ],
+  "prefixes": [
+    "Billy-Bob",
+    "Cletus",
+    "Earlene",
+    "Jebediah",
+    "Maybelle",
+    "Ezekiel",
+    "Bertha Mae",
+    "Rufus",
+    "Delbert",
+    "Lula",
+    "Hoss",
+    "Sissy",
+    "Ray-Ray",
+    "Bobby Sue",
+    "Earl"
+  ],
+  "suffixes": [
+    "Thunderbottom",
+    "McGillicuddy",
+    "Cooter",
+    "Sue-Bob",
+    "Clampett",
+    "Redneck",
+    "Moonshine",
+    "Pickle",
+    "Huckleberry",
+    "Holler",
+    "Creek",
+    "Hawg",
+    "Daisy Duke",
+    "Two-Shoes",
+    "Jenkins"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "AI Album Name Generator",
+  "description": "Struggling to find the *perfect* title for your next AI-powered musical masterpiece? Fear not, music maker! Our AI Album Name Generator is here to banish those creative block blues and unleash a torrent of killer album titles. Get ready to drop the hottest AI beats the world has ever heard... with a name that's just as fire! \ud83d\udd25",
+  "slug": "ai-album-name-generator",
+  "icon": "\ud83c\udfb5",
+  "introduction": "So, you've poured your heart and soul (and a whole lot of electricity) into crafting an AI-generated album that's going to blow minds. But what's an epic collection of tunes without an equally epic title? That's where we come in. This generator combines the power of AI (ironically!) with a dash of human creativity to conjure up album names that are edgy, intriguing, and totally unforgettable. Prepare to be amazed!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! \u2728",
+    "Don't like the first suggestion? No problem! Keep hitting that button until you find a title that resonates with your artistic soul. \ud83c\udfb6",
+    "Feeling adventurous? Mix and match elements from different generated names to create something truly unique. \ud83d\udca1",
+    "Once you've found the perfect name, shout it from the rooftops (or at least post it on social media) and get ready for the accolades to roll in! \ud83c\udfc6"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really AI-powered?",
+      "answer": "Well, let's just say it's got a *little* bit of AI magic sprinkled in. Mostly, it's powered by a secret sauce of awesome words and clever combinations. \ud83d\ude09"
+    },
+    {
+      "question": "Can I use these album names for commercial purposes?",
+      "answer": "Absolutely! Consider these names a gift from the creativity gods (and our generator). Use them, love them, and make some sweet music (and money!). \ud83d\udcb0"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Don't despair! Keep generating! Or, use the names as inspiration to brainstorm your own. Sometimes, all you need is a little spark to ignite your creativity. \ud83d\udd25"
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're constantly adding new words and phrases to keep the generator fresh and exciting. Check back often for new title ideas! \ud83d\ude80"
+    },
+    {
+      "question": "Will this generator guarantee me a Grammy?",
+      "answer": "While we can't *guarantee* a Grammy, a killer album name is definitely a step in the right direction. Plus, you'll have a much cooler acceptance speech. \ud83c\udfa4"
+    },
+    {
+      "question": "Can I suggest words or phrases to be added to the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions and we'll see if we can work them into the mix. The more, the merrier! \ud83c\udf89"
+    }
+  ],
+  "prefixes": [
+    "Algorithmic",
+    "Digital",
+    "Synthetic",
+    "Quantum",
+    "Electric",
+    "Binary",
+    "Neural",
+    "Cybernetic",
+    "Virtual",
+    "Simulated",
+    "Autonomous",
+    "Echoes of",
+    "The Ghost in",
+    "Dreams of",
+    "Beyond the",
+    "Code &",
+    "Silicon",
+    "Data",
+    "Pixelated"
+  ],
+  "suffixes": [
+    "Reality",
+    "Synthesis",
+    "Awakening",
+    "Melodies",
+    "Landscapes",
+    "Horizons",
+    "Visions",
+    "Dreams",
+    "Reflections",
+    "Signals",
+    "Artifacts",
+    "Emotions",
+    "Code",
+    "Matrix",
+    "Algorithm",
+    "Interface",
+    "Intelligence",
+    "Resonance",
+    "Echo"
+  ]
+}

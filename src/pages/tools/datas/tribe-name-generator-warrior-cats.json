@@ -1,0 +1,83 @@
+{
+  "name": "Warrior Cats Tribe Name Generator",
+  "description": "Unleash your inner warrior cat! Forge epic tribe names that echo through the forest with our powerful name generator. Perfect for fan fiction, role-playing, or just imagining your feline adventures.",
+  "slug": "warrior-cats-tribe-name-generator",
+  "icon": "\ud83d\udc3e",
+  "introduction": "Ever dreamt of leading your own tribe of warrior cats? Tired of the same old names? Our Warrior Cats Tribe Name Generator is here to ignite your imagination! We've blended the fierce spirit of warriors with the mystical allure of the forest to create names that are both captivating and authentic. Get ready to unleash your inner leader and craft a tribe name that will be whispered in awe by all!",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's like shaking a magical, name-filled tree!",
+    "Don't like the first result? No problem! Click again for a fresh burst of inspiration. We've got more names than a squirrel has nuts!",
+    "Feeling creative? Mix and match prefixes and suffixes to create a truly unique name. It's your tribe, your rules!",
+    "Share your awesome tribe name with your friends! Let them know who's the coolest cat in the forest."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "This generator specializes in creating names that fit the style and tone of the Warrior Cats series. Expect a mix of nature-inspired words, fierce adjectives, and a touch of the mystical!"
+    },
+    {
+      "question": "Can I use these names for my fan fiction?",
+      "answer": "Absolutely! That's exactly what this generator is for. Feel free to use these names as inspiration or take them as they are. The forest is yours to explore!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes, the names are generated randomly from a curated list of prefixes and suffixes that are designed to sound authentic and engaging within the Warrior Cats universe."
+    },
+    {
+      "question": "I don't like the generated names. What can I do?",
+      "answer": "Keep clicking! We have a vast database of prefixes and suffixes, so you're bound to find something you love. You can also try mixing and matching different results to create your own unique name."
+    },
+    {
+      "question": "Will this generator create names that are already used in the Warrior Cats books?",
+      "answer": "While we strive to create unique names, there's always a slight chance of overlap. However, our extensive list of prefixes and suffixes minimizes the possibility. If you're concerned, a quick search online can confirm if a name is already in use."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to add to the generator?",
+      "answer": "We'd love to hear your suggestions! Please contact us through the website's contact form, and we'll consider adding your ideas to the generator."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Swift",
+    "Thunder",
+    "River",
+    "Wind",
+    "Stone",
+    "Sun",
+    "Moon",
+    "Star",
+    "Frost",
+    "Night",
+    "Dawn",
+    "Blaze",
+    "Storm",
+    "Echo",
+    "Silver",
+    "Golden",
+    "Dark",
+    "Brave",
+    "Silent"
+  ],
+  "suffixes": [
+    "Clan",
+    "Tribe",
+    "Pack",
+    "Guard",
+    "Stalkers",
+    "Runners",
+    "Howlers",
+    "Whispers",
+    "Leapers",
+    "Claws",
+    "Fangs",
+    "Eyes",
+    "Pelt",
+    "Heart",
+    "Spirit",
+    "Song",
+    "Shadows",
+    "Stones",
+    "Winds",
+    "Rivers"
+  ]
+}

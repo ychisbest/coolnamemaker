@@ -1,0 +1,83 @@
+{
+  "name": "Promo Code Name Generator",
+  "description": "Struggling to come up with catchy promo codes? Our generator crafts killer codes that'll have customers clicking 'apply' faster than you can say 'discount'!",
+  "slug": "promo-code-name-generator",
+  "icon": "\ud83c\udff7\ufe0f",
+  "introduction": "Let's face it: 'SUMMER20' is tired. You need promo codes that pop, sizzle, and practically scream 'USE ME!' Our Promo Code Name Generator is your secret weapon. We combine creativity and a dash of marketing magic to create codes that are memorable, relevant, and (most importantly) drive sales.",
+  "howToUse": [
+    "First, brainstorm a theme. Is it a summer sale? A back-to-school bonanza? Or just a general 'we love you' discount?",
+    "Next, tweak the settings! Do you want something short and sweet? Or something longer and more descriptive?",
+    "Finally, hit that 'Generate' button and watch the magic happen! If you don't like the first result, don't worry, we've got plenty more where that came from. Keep generating until you find the PERFECT code.",
+    "Pro Tip: Consider your target audience! A promo code for a luxury brand should sound different than a promo code for a skateboarding company."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe that everyone deserves awesome promo codes, no hidden fees or subscriptions required."
+    },
+    {
+      "question": "Can I use these promo codes for my business?",
+      "answer": "You bet! That's exactly what they're for. Go forth and generate some sales!"
+    },
+    {
+      "question": "Are the generated promo codes unique?",
+      "answer": "We do our best to generate unique combinations, but with the sheer volume of possible codes, there's always a tiny chance of overlap. We recommend checking if the code is already in use before launching your campaign."
+    },
+    {
+      "question": "Can I customize the generated promo codes further?",
+      "answer": "Of course! Think of our generator as a starting point. Feel free to tweak and refine the suggestions to perfectly match your brand and campaign."
+    },
+    {
+      "question": "What if I don't like any of the generated promo codes?",
+      "answer": "No problem! Just keep hitting that 'Generate' button. We've got tons of combinations to explore. Or, try adjusting the settings to narrow down the results."
+    },
+    {
+      "question": "Will these promo codes REALLY increase my sales?",
+      "answer": "What kind of magic is this? Seriously, how does it work?"
+    }
+  ],
+  "prefixes": [
+    "SUMMER",
+    "WINTER",
+    "FALL",
+    "SPRING",
+    "FLASH",
+    "MEGA",
+    "SUPER",
+    "GIGA",
+    "SALE",
+    "DEAL",
+    "SAVE",
+    "GET",
+    "HOLIDAY",
+    "BACK2",
+    "NEW",
+    "EXTRA",
+    "LUCKY",
+    "FRESH",
+    "COZY",
+    "SPARKLE"
+  ],
+  "suffixes": [
+    "20",
+    "OFF",
+    "NOW",
+    "DEALS",
+    "FUN",
+    "TIME",
+    "VIBES",
+    "SAVINGS",
+    "TREAT",
+    "JOY",
+    "BLISS",
+    "PARTY",
+    "MAGIC",
+    "WOW",
+    "YES",
+    "PLEASE",
+    "SCORE",
+    "BOOM",
+    "ROCKS",
+    "RULES"
+  ]
+}

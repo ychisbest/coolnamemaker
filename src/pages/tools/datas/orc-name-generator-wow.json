@@ -1,0 +1,90 @@
+{
+  "name": "Orc Name Generator (WoW Edition)",
+  "description": "Struggling to find the perfect moniker for your hulking, green-skinned warrior in World of Warcraft? Fear not, adventurer! Our Orc Name Generator is here to forge names worthy of the Horde. From the savage battle cries of the Frostwolf Clan to the cunning whispers of the Shadow Council, we've got you covered. Get ready to unleash your inner Orc!",
+  "slug": "orc-name-generator-wow",
+  "icon": "\ud83e\uddcc",
+  "introduction": "Lok'tar ogar! Welcome, brave warrior, to the ultimate Orc Name Generator! Whether you're a seasoned veteran of Azeroth or a fresh recruit eager to prove your mettle, a powerful name is essential. Our generator combines guttural sounds, tribal traditions, and a touch of Warcraft lore to create names that will strike fear into the hearts of your enemies... and maybe impress your friends too.",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the awesomeness of the Orc name bestowed upon you.",
+    "If you're not feeling it, click 'Generate' again. We won't judge. (Okay, maybe a little.)",
+    "Copy your chosen name and paste it into World of Warcraft. Bonus points for roaring it aloud while you do.",
+    "Go forth and conquer Azeroth, champion! For the Horde!",
+    "Pro Tip: Mix and match prefixes and suffixes for even wilder name combinations. We dare you."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually related to Blizzard Entertainment?",
+      "answer": "While we're huge fans of World of Warcraft, this generator is purely fan-made. We're just here to help you find the perfect Orc name, not to replace Thrall (yet)."
+    },
+    {
+      "question": "Can I use these names for other games or stories?",
+      "answer": "Absolutely! These names are designed with the spirit of Orcish culture in mind, so feel free to adapt them for any fantasy setting you desire. Just don't blame us if your friends start calling you 'Grommash' in real life."
+    },
+    {
+      "question": "The names are too similar! Can you make them more diverse?",
+      "answer": "We're always working to improve our generator! If you have suggestions for new prefixes or suffixes, please let us know. The more input we get, the more epic the names will become."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With a vast combination of prefixes and suffixes, you're bound to find a name that resonates with your inner Orc. And hey, sometimes the weirdest names are the best."
+    },
+    {
+      "question": "Are these names lore-accurate?",
+      "answer": "We strive for lore accuracy, drawing inspiration from established Orcish naming conventions. However, we also encourage creativity! Feel free to bend the rules and create a name that's uniquely yours."
+    },
+    {
+      "question": "Help! I accidentally named my Orc 'Princess Sparklehoof'. Can I change it?",
+      "answer": "Unfortunately, we can't help you with in-game name changes. Contact Blizzard Support for assistance. And maybe lay off the Felweed before your next naming session..."
+    }
+  ],
+  "prefixes": [
+    "Grom",
+    "Thrall",
+    "Garrosh",
+    "Gul",
+    "Ner",
+    "Duro",
+    "Varok",
+    "Eitrigg",
+    "Naz",
+    "Karg",
+    "Zog",
+    "Mog",
+    "Rag",
+    "Zug",
+    "Bor",
+    "Kor",
+    "Gro",
+    "Dro",
+    "Krag",
+    "Rog"
+  ],
+  "suffixes": [
+    "mash",
+    "dan",
+    "grim",
+    "gar",
+    "jin",
+    "gul",
+    "osh",
+    "ogg",
+    "gor",
+    "grom",
+    "ruk",
+    "ogg",
+    "nar",
+    "roth",
+    "bash",
+    "skull",
+    "blood",
+    "fist",
+    "tooth",
+    "bane",
+    "shadow",
+    "wind",
+    "stone",
+    "heart",
+    "claw"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Symbiote Name Generator",
+  "description": "Unleash your inner alien with our Symbiote Name Generator! Find the perfect moniker to strike fear (or maybe just mild curiosity) into the hearts of heroes and villains alike.",
+  "slug": "symbiote-name-generator",
+  "icon": "\ud83d\udc7d",
+  "introduction": "Ever wondered what your symbiote name would be? Inspired by the gooey, shape-shifting creatures from your favorite comics, this generator blends cool prefixes and suffixes to create names that are both menacing and memorable. Get ready to bond!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold your new symbiote identity!",
+    "Don't like the first result? Keep clicking! There are countless combinations waiting to be discovered.",
+    "Feeling extra creative? Mix and match prefixes and suffixes manually to craft a truly unique name.",
+    "Share your awesome symbiote name with your friends and see who gets the most terrifying title. Bonus points for dramatic readings!",
+    "Remember, with great symbiote names, comes great responsibility... or at least, great fun!"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* a symbiote name?",
+      "answer": "Think of it as the ultimate fusion of you and your alien partner! It's a name that reflects the combined essence of your personalities, powers, and general awesomeness."
+    },
+    {
+      "question": "Are these names actually *good* for anything?",
+      "answer": "Aside from sounding incredibly cool? Absolutely! Use them for character creation, online personas, or even just to spice up your everyday conversations. Imagine introducing yourself as 'Venomous Victor' at your next meeting!"
+    },
+    {
+      "question": "Can I use these names for my comic book character?",
+      "answer": "Go for it! We encourage creativity and world-building. Just remember to give us a shout-out if your character becomes the next big thing. \ud83d\ude09"
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as you desire. Our generator won't judge your thirst for cool symbiote names."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep trying! With so many combinations, you're bound to find one that resonates with your inner alien. Or, get inspired and create your own using our prefixes and suffixes as a starting point."
+    },
+    {
+      "question": "Will using this generator turn me into an actual symbiote?",
+      "answer": "While we can't guarantee any actual alien bonding, we can promise a whole lot of fun and a killer new name. Side effects may include an uncontrollable urge to wear black and a newfound appreciation for raw meat (just kidding... mostly)."
+    }
+  ],
+  "prefixes": [
+    "Venomous",
+    "Carnage",
+    "Symbiotic",
+    "Dark",
+    "Shadow",
+    "Cosmic",
+    "Parasitic",
+    "Adaptive",
+    "Lethal",
+    "Terrifying",
+    "Abyssal",
+    "Chaotic",
+    "Primeval",
+    "Apex",
+    "Mutated",
+    "Unstable",
+    "Ravenous",
+    "Spectral",
+    "Galactic",
+    "Omega"
+  ],
+  "suffixes": [
+    "Strike",
+    "Fang",
+    "Claw",
+    "Hunter",
+    "Void",
+    "Terror",
+    "Night",
+    "Wraith",
+    "Beast",
+    "Phantom",
+    "Serpent",
+    "Reaper",
+    "Specter",
+    "Tyrant",
+    "Dominion",
+    "Havoc",
+    "Torment",
+    "Oblivion",
+    "Nemesis",
+    "Entity"
+  ]
+}

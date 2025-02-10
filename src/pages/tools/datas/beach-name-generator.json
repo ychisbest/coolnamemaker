@@ -1,0 +1,83 @@
+{
+  "name": "Beach Name Generator",
+  "description": "Dreaming of sun, sand, and ridiculously awesome beach names? You've landed in the right place! Our Beach Name Generator is your ticket to crafting the perfect moniker for your coastal adventures, whether it's for your surf shack, your beach volleyball team, or just your inner beach bum.",
+  "slug": "beach-name-generator",
+  "icon": "\ud83c\udfd6\ufe0f",
+  "introduction": "Forget boring beach names! We're diving deep into a sea of possibilities, mixing and matching words that evoke the spirit of the ocean, the warmth of the sun, and the sheer joy of a day at the beach. Get ready to unleash your inner beachcomber and discover names so cool, they'll make waves!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic! We'll whip up a fresh, totally tubular beach name just for you.",
+    "Feeling picky? No problem! Keep clicking until you find a name that makes you want to grab your board and hit the waves.",
+    "Want to get creative? Mix and match prefixes and suffixes to create a name that's uniquely YOU. Go wild!",
+    "Found the perfect name? Share it with your friends and let the beach vibes flow!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Beach Name Generator is as free as the ocean breeze. Use it as much as your sandy heart desires."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we encourage creativity, please do your due diligence to ensure the name you choose isn't already trademarked or in use by another business. We provide the names for inspiration only."
+    },
+    {
+      "question": "Will the names generated be completely original?",
+      "answer": "We strive to create unique combinations, but some overlap is possible. Think of it as finding a seashell that's similar, but still special in its own way."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form, and we'll consider adding them to our database."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep clicking! We have a vast ocean of possibilities. Alternatively, try mixing and matching prefixes and suffixes to create something truly unique."
+    },
+    {
+      "question": "Does this generator work on mobile?",
+      "answer": "Yes! Our Beach Name Generator is fully responsive and works perfectly on all your devices, so you can find the perfect name while soaking up the sun."
+    }
+  ],
+  "prefixes": [
+    "Sandy",
+    "Ocean",
+    "Sunset",
+    "Coastal",
+    "Azure",
+    "Wave",
+    "Seaside",
+    "Tropical",
+    "Island",
+    "Palm",
+    "Coral",
+    "Shell",
+    "Driftwood",
+    "Seafoam",
+    "Golden",
+    "Aqua",
+    "Breezy",
+    "Paradise",
+    "Lagoon",
+    "Reef"
+  ],
+  "suffixes": [
+    "Cove",
+    "Shores",
+    "Beach",
+    "Point",
+    "Bay",
+    "Vista",
+    "Oasis",
+    "Landing",
+    "Haven",
+    "Retreat",
+    "Hideaway",
+    "Resort",
+    "Estates",
+    "Gardens",
+    "Villas",
+    "Club",
+    "Park",
+    "Terrace",
+    "Heights",
+    "Sands"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Yautja Name Generator",
+  "description": "Unleash your inner Predator! This generator crafts authentic-sounding Yautja names, perfect for role-playing, fan fiction, or simply embracing your primal hunting instincts. Get ready to stalk the shadows with a name that strikes fear into the hearts of your prey!",
+  "slug": "yautja-name-generator",
+  "icon": "\ud83d\udc7d",
+  "introduction": "Ever wondered what your Yautja name would be? Stop wondering! Our Yautja Name Generator taps into the ancient traditions and guttural sounds of the Predator race to forge a name worthy of a seasoned hunter. Prepare for a name that echoes through the jungle and resonates with the thrill of the hunt.",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A fearsome Yautja name appears.",
+    "Don't like the first one? Keep clicking! We've got enough combinations to make even the Elder Predators jealous.",
+    "Feeling creative? Tweak the generated name to your liking. After all, you're the hunter, you make the rules!",
+    "Share your awesome new Yautja name with your friends and let the hunt begin!"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly is a Yautja?",
+      "answer": "Yautja, also known as Predators, are the extraterrestrial hunters from the Predator franchise. They are known for their advanced technology, hunting prowess, and code of honor."
+    },
+    {
+      "question": "Are these names 'official' Yautja names?",
+      "answer": "While we've researched Yautja naming conventions, these names are generated for fun and creative purposes. They're inspired by the established lore, but not officially canon."
+    },
+    {
+      "question": "Can I use these names for my Predator OC (Original Character)?",
+      "answer": "Absolutely! That's exactly what this generator is for. Give your OC a name that commands respect and fear."
+    },
+    {
+      "question": "How accurate are these names?",
+      "answer": "We've strived to create names that sound authentic to the Yautja language and culture, drawing inspiration from existing names and sounds within the Predator universe. But remember, it's all in good fun!"
+    },
+    {
+      "question": "Will you add more prefixes and suffixes in the future?",
+      "answer": "We're always looking to improve and expand our generators! If you have any suggestions for Yautja-sounding prefixes or suffixes, let us know!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! This generator is completely free for you to use and abuse as much as your heart desires. Go wild, hunter!"
+    }
+  ],
+  "prefixes": [
+    "Rak",
+    "Z'ar",
+    "Vruk",
+    "Grek",
+    "H'rak",
+    "K'var",
+    "D'rek",
+    "Thrak",
+    "Krel",
+    "Vrel",
+    "Z'rel",
+    "Grak",
+    "H'tak",
+    "D'tak",
+    "Vrak",
+    "Thak",
+    "K'tak",
+    "Grax",
+    "Vrax",
+    "Z'rax",
+    "H'rax"
+  ],
+  "suffixes": [
+    "tak",
+    "var",
+    "rak",
+    "nar",
+    "kar",
+    "tar",
+    "lek",
+    "vek",
+    "rek",
+    "nek",
+    "kek",
+    "tek",
+    "lax",
+    "vax",
+    "rax",
+    "nax",
+    "kax",
+    "tax",
+    "tor",
+    "vor",
+    "ror",
+    "nor",
+    "kor",
+    "dor"
+  ]
+}

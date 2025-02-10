@@ -1,0 +1,83 @@
+{
+  "name": "Fantasy School Name Generator",
+  "description": "Struggling to name your magical academy? Fear not, aspiring world-builder! Conjure up the perfect moniker for your fantasy school with our mystical generator. Whether you're crafting a whimsical tale or a grand epic, we've got the enchanted ingredients to spark your imagination.",
+  "slug": "fantasy-school-name-generator",
+  "icon": "\ud83e\uddd9\u200d\u2642\ufe0f",
+  "introduction": "Welcome, oh wise one, to the Fantasy School Name Generator! Tired of 'Magic School' and 'Academy of Wonders'? We thought so. This tool is designed to help you create unique and memorable names for your fantasy schools, academies, and magical institutions. Let the adventure begin!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the wondrous names that appear!",
+    "Don't like what you see? Keep clicking! There's an infinite well of inspiration here.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create your own custom names!",
+    "Once you find the PERFECT name, copy it and unleash it upon your unsuspecting world. Prepare for literary glory!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Like the best kind of magic, our generator comes with no hidden fees or shady contracts. Use it as much as you like!"
+    },
+    {
+      "question": "Can I use these names in my published work?",
+      "answer": "Yes, you are free to use the generated names in your stories, games, and other creative projects. We only ask that you credit coolnamemaker.com if you feel so inclined. Spread the love!"
+    },
+    {
+      "question": "Will the names generated be completely unique?",
+      "answer": "We strive to create unique combinations, but with the vastness of the fantasy genre, some names might resemble existing ones. Always do a quick search to ensure originality."
+    },
+    {
+      "question": "Can I suggest new prefixes and suffixes?",
+      "answer": "We'd love to hear your ideas! Send your suggestions through our contact form. Your brilliance could help shape the future of magical naming!"
+    },
+    {
+      "question": "Does this generator work for other types of fantasy locations?",
+      "answer": "While designed for schools, many of the generated names can be adapted for other fantasy locations like libraries, guilds, or even entire cities! Get creative!"
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're constantly working to improve the generator and add new features. Check back regularly for fresh names and enhanced functionality!"
+    }
+  ],
+  "prefixes": [
+    "Eldoria",
+    "Silverwood",
+    "Shadowfen",
+    "Aethelgard",
+    "Wyvern's",
+    "Obsidian",
+    "Crimson",
+    "Celestial",
+    "Arcane",
+    "Whispering",
+    "Starfall",
+    "Ironclad",
+    "Sunstone",
+    "Moonwhisper",
+    "Thunderpeak",
+    "Dragon's",
+    "Phoenix",
+    "Emerald",
+    "Frostwind",
+    "Glimmering"
+  ],
+  "suffixes": [
+    "Academy",
+    "Institute",
+    "College",
+    "Sanctum",
+    "Conclave",
+    "Citadel",
+    "Hall",
+    "Lyceum",
+    "Order",
+    "Enclave",
+    "School",
+    "University",
+    "Foundation",
+    "Guild",
+    "Chapter",
+    "Circle",
+    "Assembly",
+    "Keep",
+    "Fortress",
+    "Nexus"
+  ]
+}

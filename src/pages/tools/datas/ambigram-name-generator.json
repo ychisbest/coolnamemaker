@@ -1,0 +1,74 @@
+{
+  "name": "Ambigram Name Generator",
+  "description": "Unleash your inner artist with names that read the same upside down! Discover the coolest, most mind-bending ambigram names that will make you stand out from the crowd. Prepare to be amazed!",
+  "slug": "ambigram-name-generator",
+  "icon": "\ud83d\udd04",
+  "introduction": "Ever wanted a name that's not just a name, but a work of art? Our Ambigram Name Generator crafts names that are symmetrical and visually stunning. Perfect for artists, designers, or anyone who loves a touch of the extraordinary. Get ready to flip your perspective!",
+  "howToUse": [
+    "First, think about what vibe you're going for. Edgy? Elegant? Mysterious?",
+    "Click the 'Generate' button and BAM! We'll conjure up some seriously cool ambigram-inspired names.",
+    "Don't like what you see? No sweat! Hit that button again for a fresh batch of awesome.",
+    "Found the perfect ambigram name? Copy it and share it with the world! Let them marvel at your unique identity."
+  ],
+  "faqs": [
+    {
+      "question": "What exactly is an ambigram?",
+      "answer": "An ambigram is a visual word that reads the same, or creates a new word, when oriented in a different direction, usually when rotated by 180 degrees."
+    },
+    {
+      "question": "Are these names *true* ambigrams?",
+      "answer": "While we strive for the coolest ambigram-esque vibes, these names are *inspired* by the concept. Some may be perfect, others just darn cool."
+    },
+    {
+      "question": "Can I use these names for my business/brand?",
+      "answer": "Absolutely! These names are perfect for adding a unique and artistic touch to your brand. Just be sure to check for trademark availability."
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're always tweaking and adding new prefixes and suffixes to keep the names fresh and exciting! Check back often for new possibilities."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You bet! Our Ambigram Name Generator is completely free. Go wild and find the perfect name!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through the contact form on our website. We appreciate your input!"
+    }
+  ],
+  "prefixes": [
+    "Invert",
+    "Mirror",
+    "Flip",
+    "Rotate",
+    "Reflect",
+    "Symmetry",
+    "Equinox",
+    "Paradox",
+    "Illusion",
+    "Vista",
+    "Apex",
+    "Zenith",
+    "Nadir",
+    "Kaleido",
+    "Equi"
+  ],
+  "suffixes": [
+    "Verse",
+    "Axis",
+    "Point",
+    "View",
+    "Scape",
+    "Form",
+    "Vision",
+    "Shift",
+    "Effect",
+    "Motion",
+    "Flux",
+    "Phase",
+    "Echo",
+    "Reflex",
+    "Angle",
+    "Vector"
+  ]
+}

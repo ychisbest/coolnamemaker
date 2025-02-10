@@ -1,0 +1,79 @@
+{
+  "name": "Earth Kingdom Name Generator",
+  "description": "Unearth your destiny! Need a name that resonates with the strength of mountains and the grounded spirit of the Earth Kingdom? Look no further! This generator will forge a name worthy of royalty, warriors, and humble tea makers alike. Let's get earthy!",
+  "slug": "earth-kingdom-name-generator",
+  "icon": "\u26f0\ufe0f",
+  "introduction": "Welcome, earthbender! Or perhaps you're just earth-curious? Either way, you've come to the right place to discover a name imbued with the power and stability of the Earth Kingdom. Whether you're writing a fanfic, creating a character for a game, or simply seeking a more grounded identity, this generator is your guide to a name that's rock solid.",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's easier than bending a pebble!",
+    "Like what you see? Awesome! Use it with pride.",
+    "Not feeling it? No problem! Click 'Generate' again for a whole new world of possibilities. We've got more names than Ba Sing Se has walls (and that's saying something!).",
+    "Mix and match prefixes and suffixes from different generations to create something truly unique. Experiment! Be bold! Be... earth-y!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my Avatar fanfiction?",
+      "answer": "Absolutely! That's exactly why we made this. Go forth and create epic tales!"
+    },
+    {
+      "question": "Are these names culturally accurate to the Avatar universe?",
+      "answer": "We've done our best to capture the essence and feel of Earth Kingdom naming conventions. However, creativity knows no bounds! Feel free to tweak and adapt as you see fit."
+    },
+    {
+      "question": "Can I trademark a name generated here?",
+      "answer": "Probably not. These are intended for creative use, not legal battles. Use them responsibly!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that generate button! With countless combinations, you're bound to find something that resonates with your inner earthbender. Or, you know, use it as inspiration and create your own!"
+    },
+    {
+      "question": "Why are some names longer than others?",
+      "answer": "That's just the nature of the Earth Kingdom! Some families have longer, more elaborate names, while others prefer something short and sweet. It all adds to the diversity!"
+    }
+  ],
+  "prefixes": [
+    "Wei",
+    "Jia",
+    "Lin",
+    "Bao",
+    "Mei",
+    "Sheng",
+    "Long",
+    "Tan",
+    "Huan",
+    "Zhang",
+    "Zhen",
+    "Rong",
+    "Yuan",
+    "Feng",
+    "Chen",
+    "Zhao",
+    "Ping",
+    "Kang",
+    "Yun",
+    "Ming"
+  ],
+  "suffixes": [
+    "Wei",
+    "Ling",
+    "Hua",
+    "Shan",
+    "Bao",
+    "Ying",
+    "Tao",
+    "Long",
+    "Yu",
+    "Feng",
+    "Mei",
+    "Li",
+    "Jiang",
+    "Yuan",
+    "Hui",
+    "Min",
+    "Kang",
+    "Bo",
+    "Yun",
+    "Zhen"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Apocalyptic Name Generator",
+  "description": "Ready to face the end of the world? You'll need a name that screams survival! Our Apocalyptic Name Generator crafts the perfect moniker for your wasteland wanderer, whether you're a hardened scavenger, a charismatic cult leader, or a mutant with a mission. Don't just survive, *thrive* with a name that strikes fear (or maybe just mild discomfort) into the hearts of your enemies... or allies. Let's get you named before the zombies do!",
+  "slug": "apocalyptic-name-generator",
+  "icon": "\u2622\ufe0f",
+  "introduction": "The bombs have dropped. The skies are grey. Resources are scarce. But you? You're *still here*. And you need a name that reflects your resilience, your grit, and your undeniable cool factor in the face of utter annihilation. This generator blends the bleak with the badass to forge names worthy of the apocalypse. Prepare to be reborn... with a new identity!",
+  "howToUse": [
+    "Click that big, shiny 'Generate' button. Go on, you know you want to.",
+    "Feast your eyes on the awesome apocalyptic name that destiny (and our algorithm) has bestowed upon you.",
+    "Not feeling it? No sweat! Mash that button again until a name resonates with your inner wasteland warrior.",
+    "Copy your chosen name and paste it EVERYWHERE. Claim your territory. Assert your dominance. Or, you know, just use it for your online gaming profile. Whatever floats your (radioactive) boat.",
+    "Share your epic name with your friends! Bragging rights are crucial in a post-apocalyptic world, okay?"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names *actually* apocalyptic?",
+      "answer": "As apocalyptic as we can make them without causing actual existential dread. We aim for 'gritty and cool,' not 'therapy-inducing.'"
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! In fact, we encourage it. Just promise us you'll wreak havoc and attribute it to the awesome name."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! We've got a *ton* of combinations. Or, get creative and mix and match prefixes and suffixes to create your own unique abomination... I mean, *creation*."
+    },
+    {
+      "question": "Is this generator safe to use near a nuclear fallout zone?",
+      "answer": "We haven't tested it under those conditions, but we assume if you have internet access in a nuclear fallout zone, you're probably doing okay. Good luck out there!"
+    },
+    {
+      "question": "Will using an apocalyptic name actually help me survive the end of the world?",
+      "answer": "Probably not. But you'll *look* way cooler while you're getting eaten by zombies. And let's be honest, that's half the battle."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added?",
+      "answer": "We'd love to hear your ideas! Send them our way \u2013 the more creatively bleak, the better."
+    }
+  ],
+  "prefixes": [
+    "Rust",
+    "Shadow",
+    "Bone",
+    "Ash",
+    "Wasteland",
+    "Grave",
+    "Ruin",
+    "Steel",
+    "Crimson",
+    "Iron",
+    "Nuclear",
+    "Radioactive",
+    "Silent",
+    "Broken",
+    "Ghost",
+    "Storm",
+    "Death",
+    "Plague",
+    "Toxic",
+    "Void"
+  ],
+  "suffixes": [
+    "Jaw",
+    "Fang",
+    "Grip",
+    "Stalker",
+    "Hunter",
+    "Reaper",
+    "Scourge",
+    "Drifter",
+    "Wanderer",
+    "Prophet",
+    "King",
+    "Queen",
+    "Knight",
+    "Lord",
+    "Valkyrie",
+    "Savior",
+    "Destroyer",
+    "Eater",
+    "Bringer",
+    "Howler"
+  ]
+}

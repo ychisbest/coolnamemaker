@@ -1,0 +1,84 @@
+{
+  "name": "Tag Team Name Generator",
+  "description": "Struggling to find the perfect moniker for your dynamic duo? Fear no more! Our Tag Team Name Generator is here to unleash a torrent of awesome, unforgettable names that'll have the crowds roaring. Get ready to dominate the scene with a name that's as epic as your team!",
+  "slug": "tag-team-name-generator",
+  "icon": "\ud83e\udd3c",
+  "introduction": "So, you've got the skills, the chemistry, and the killer moves. But what's a tag team without a name that strikes fear (or at least mild amusement) into the hearts of your opponents? This generator is your secret weapon, conjuring up names that are powerful, hilarious, or just plain weird \u2013 perfect for any wrestling style or quirky partnership. Prepare to be amazed!",
+  "howToUse": [
+    "1. Click the 'Generate' button. (Duh!)",
+    "2. Bask in the glory of the randomly generated tag team name.",
+    "3. Don't like it? Click again! We've got names for days.",
+    "4. Found the perfect name? Go forth and conquer! (And maybe tell us how awesome we are on social media.)",
+    "5. Still stuck? Try tweaking the prefixes and suffixes lists to create something truly unique. Get creative! (But maybe not *too* creative... we don't want any 'The Tickle Monsters' running around.)"
+  ],
+  "faqs": [
+    {
+      "question": "How does this thing even work?",
+      "answer": "Magic! Just kidding (sort of). It combines prefixes and suffixes from a curated list to create unique and, hopefully, awesome tag team names. We've put a lot of thought into making sure the combinations are at least somewhat sensible... most of the time."
+    },
+    {
+      "question": "Can I use these names for my actual wrestling tag team?",
+      "answer": "Absolutely! That's what it's here for. We just ask that you give us a shout-out when you're accepting your championship belts. (Okay, maybe not, but it'd be cool.)"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! We have a vast library of names, and we're constantly adding more. You're bound to find something you love... or at least something you can tolerate."
+    },
+    {
+      "question": "Are the names copyrighted?",
+      "answer": "Nope! All names generated are free for you to use. Go wild! Just maybe do a quick Google search to make sure someone else isn't already using it for something... embarrassing."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to add?",
+      "answer": "Yes, absolutely! We're always looking for ways to improve our generator. Send your suggestions our way, and we'll see if we can work them in. The more ridiculous, the better!"
+    },
+    {
+      "question": "Is this generator compatible with my pet hamster's wrestling career?",
+      "answer": "We haven't tested it specifically for hamsters, but we see no reason why not! Just make sure your hamster has the proper licensing and insurance before entering the ring."
+    }
+  ],
+  "prefixes": [
+    "Thunder",
+    "Shadow",
+    "Iron",
+    "Steel",
+    "Cosmic",
+    "Galactic",
+    "Atomic",
+    "Radioactive",
+    "Psycho",
+    "Mad",
+    "Voodoo",
+    "Night",
+    "Midnight",
+    "Crimson",
+    "Venom",
+    "Toxic",
+    "Silent",
+    "Furious",
+    "Brutal",
+    "Apex"
+  ],
+  "suffixes": [
+    "Strike",
+    "Force",
+    "Fury",
+    "Assault",
+    "Reign",
+    "Squad",
+    "Syndicate",
+    "Legion",
+    "Empire",
+    "Vipers",
+    "Bruisers",
+    "Anarchy",
+    "Chaos",
+    "Outlaws",
+    "Renegades",
+    "Mavericks",
+    "Enforcers",
+    "Dominion",
+    "Alliance",
+    "Dynasty"
+  ]
+}

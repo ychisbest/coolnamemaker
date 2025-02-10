@@ -1,0 +1,76 @@
+{
+  "name": "Targaryen Name Generator",
+  "description": "Unleash your inner dragon! \ud83d\udd25 Generate authentic-sounding Targaryen names fit for a king (or queen!). Conquer Westeros (or your next D&D campaign) with a name that screams fire and blood!",
+  "slug": "targaryen-names-generator",
+  "icon": "\ud83d\udc09",
+  "introduction": "Ever dreamt of soaring through the skies on dragonback, ruling the Seven Kingdoms with an iron fist (or a benevolent hand)? It all starts with the perfect name. Our Targaryen Name Generator crafts names worthy of the Dragonlords of old. From Aegon to Daenerys, find a name that embodies the power, mystique, and (let's be honest) occasional madness of House Targaryen.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new Targaryen name will appear, forged in the fires of creativity.",
+    "Don't like the first result? Keep clicking! We've got more Targaryen-esque names than there are dragons in the sky (well, almost).",
+    "Feeling picky? Mix and match prefixes and suffixes to create a truly unique name that's all your own. Just remember, with great names comes great responsibility... and maybe a little bit of incest. (Just kidding... mostly.)",
+    "Copy and paste your chosen name into your favorite fan fiction, RPG character sheet, or even your dating profile. Warning: May attract dragon riders and/or power-hungry schemers."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names *actually* from Game of Thrones/House of the Dragon?",
+      "answer": "While we draw inspiration from the world of Westeros, these names are generated using a carefully crafted algorithm designed to mimic the style and sound of Targaryen names. So, no, they're not *official*, but they sound darn close!"
+    },
+    {
+      "question": "Can I use these names for my book/game/fanfic?",
+      "answer": "Absolutely! Go forth and create! Just be sure to give us a shout-out (or at least name a dragon after us). \ud83d\ude09"
+    },
+    {
+      "question": "Will using a Targaryen name give me the ability to control dragons?",
+      "answer": "Sadly, no. Dragon control is a highly specialized skill that requires either Targaryen blood, a very strong bond, or a whole lot of luck. This generator only provides the name, you'll have to find your own dragon."
+    },
+    {
+      "question": "My generated name sounds a bit... weird. What gives?",
+      "answer": "Hey, even the Targaryens had some odd names! (Aegon the Unworthy, anyone?) But if you're truly unhappy, just hit 'Generate' again. There are countless possibilities!"
+    },
+    {
+      "question": "Is this generator safe to use? Will it steal my data?",
+      "answer": "Fear not, loyal subject! This generator is completely safe. We don't collect any personal information. The only thing you'll be giving us is your undivided attention (and maybe a share on social media if you're feeling generous)."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to add?",
+      "answer": "We're always looking for ways to improve! Send your suggestions our way and we'll consider adding them to the generator. Maybe your idea will inspire the next great Targaryen name!"
+    }
+  ],
+  "prefixes": [
+    "Aegon",
+    "Viserys",
+    "Daenerys",
+    "Rhaegar",
+    "Rhaenys",
+    "Aemma",
+    "Baelon",
+    "Jaehaerys",
+    "Alyssa",
+    "Maegor",
+    "Aelor",
+    "Daeron",
+    "Elaena",
+    "Vaegon",
+    "Naerys",
+    "Aerys",
+    "Rhaella"
+  ],
+  "suffixes": [
+    " Targaryen",
+    " Velaryon",
+    " Waters",
+    " Snow",
+    " Blackfyre",
+    " Stormborn",
+    " the Conqueror",
+    " the Dragon",
+    " the Cruel",
+    " the Wise",
+    " the Usurper",
+    " the Young",
+    " the Old",
+    " the Bold",
+    " the Mad",
+    " the Just"
+  ]
+}

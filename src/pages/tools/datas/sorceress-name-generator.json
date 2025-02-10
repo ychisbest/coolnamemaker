@@ -1,0 +1,83 @@
+{
+  "name": "Sorceress Name Generator",
+  "description": "Unleash your inner enchantress! This generator conjures up the most bewitching and powerful names for your sorceress character. Perfect for fantasy writers, gamers, and anyone who needs a touch of magical naming inspiration.",
+  "slug": "sorceress-name-generator",
+  "icon": "\ud83d\udd2e",
+  "introduction": "Step into a realm of arcane power and mystique! Our Sorceress Name Generator is your portal to crafting the perfect moniker for your spellbinding sorceress. Whether she's a benevolent healer or a formidable dark mage, we've got the names that will make her unforgettable. Prepare to be enchanted!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic!",
+    "Feeling picky? Click again and again until a name whispers to your soul.",
+    "Want a specific vibe? Tweak the prefixes and suffixes for a truly personalized touch.",
+    "Don't forget to bookmark your favorites! You wouldn't want to lose that perfect name to the ether, would you?"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! The magic is on us. Use it as much as you like, no strings (or curses) attached."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Go for it! These names are yours to command. Use them in your books, games, or whatever magical projects you have in mind."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Mostly! We use a sprinkle of our own magical algorithms, ensuring a mix of classic, unique, and downright intriguing names. Think of it as a cosmic name lottery!"
+    },
+    {
+      "question": "I don't like any of the names. What gives?",
+      "answer": "Fear not! Keep clicking! With countless combinations, you're bound to find a name that resonates with your inner sorceress. And hey, maybe she's just being picky today!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're all ears (or eyes)! Send us your suggestions, and we might just add them to the cauldron. Help us brew up even more magical names!"
+    },
+    {
+      "question": "Will these names guarantee my sorceress becomes the most powerful being in the universe?",
+      "answer": "While we can't promise universal domination, a great name is definitely a step in the right direction! The rest is up to her (and your storytelling skills)."
+    }
+  ],
+  "prefixes": [
+    "Aeliana",
+    "Seraphina",
+    "Lysandra",
+    "Morwenna",
+    "Bellamira",
+    "Nyx",
+    "Elowen",
+    "Rowan",
+    "Lilith",
+    "Vivienne",
+    "Morgana",
+    "Willow",
+    "Hazel",
+    "Opal",
+    "Luna",
+    "Stella",
+    "Aurora",
+    "Celestia",
+    "Seraphia",
+    "Zephyra"
+  ],
+  "suffixes": [
+    "bane",
+    "shadow",
+    "whisper",
+    "moon",
+    "star",
+    "night",
+    "bloom",
+    "song",
+    "wind",
+    "fire",
+    "frost",
+    "shade",
+    "light",
+    "storm",
+    "spell",
+    "charm",
+    "grace",
+    "hope",
+    "dream",
+    "song"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "name": "RobotsWillKill Graffiti Name Generator",
+  "description": "Unleash your inner street artist! Find the perfect tag name with our generator, inspired by the raw energy of RobotsWillKill's legendary graffiti crew. Get ready to bomb the scene!",
+  "slug": "robotswillkill-graffiti-name-generator",
+  "icon": "\ud83e\udd16\ud83c\udfa8",
+  "introduction": "Yo, what up, writers?! Tired of rocking the same old wack tag? Step into the world of raw, uncut street art inspiration with our RobotsWillKill Graffiti Name Generator. We're talking names that drip with attitude, echo in the alleys, and leave a mark that can't be buffed. Whether you're a seasoned vandal or just starting to find your style, we've got the fuel for your fire. Let's get up!",
+  "howToUse": [
+    "First, ditch the square vibes. We're going rogue here.",
+    "Mash that 'Generate' button like you're painting a whole car in one night. (Don't actually paint a car without permission... or do. We won't tell.)",
+    "Keep hitting it until you find a name that resonates with your soul, your style, and the message you want to spray across the city.",
+    "Don't be afraid to tweak it! Add a number, a letter, a symbol \u2013 make it your own. This is just the spark, you gotta bring the flame.",
+    "Go forth and create! Just try not to get caught. (Seriously, though, respect the law... mostly.)"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly IS RobotsWillKill?",
+      "answer": "RobotsWillKill (RWK) was a legendary graffiti crew known for their distinctive style, intricate characters, and widespread presence. They're basically street art royalty."
+    },
+    {
+      "question": "Can I use the generated name commercially?",
+      "answer": "While we're providing these names for fun and inspiration, you're responsible for ensuring your use doesn't infringe on any existing trademarks or copyrights. Play it safe, fam."
+    },
+    {
+      "question": "Will using this generator make me a famous graffiti artist?",
+      "answer": "We wish! This generator is just a tool. Fame comes from hard work, dedication, a unique style, and maybe a little bit of luck (and not getting arrested). Keep practicing!"
+    },
+    {
+      "question": "The names are kinda weird. Is that intentional?",
+      "answer": "Absolutely! Graffiti names are often unconventional, edgy, and unexpected. We're aiming for authenticity, not boring corporate branding. Embrace the weirdness!"
+    },
+    {
+      "question": "How often is the generator updated with new words?",
+      "answer": "We're always on the lookout for fresh slang, street terms, and creative word combinations. Expect updates periodically to keep the generator current and relevant. Stay tuned!"
+    },
+    {
+      "question": "I generated a name that someone else is already using! What do I do?",
+      "answer": "Respect the culture! If someone's already rocking a name, find something else. There are infinite possibilities out there. Don't be a biter."
+    }
+  ],
+  "prefixes": [
+    "Chrome",
+    "Rust",
+    "Vandal",
+    "Ghost",
+    "Shadow",
+    "Toxic",
+    "Cyber",
+    "Neon",
+    "Pixel",
+    "Static",
+    "Rogue",
+    "Renegade",
+    "Concrete",
+    "Urban",
+    "Iron",
+    "Steel",
+    "Spray",
+    "Tag",
+    "Bomb",
+    "Scribble",
+    "Artful",
+    "Wild",
+    "Mad",
+    "Grim",
+    "Dark",
+    "Lost",
+    "Silent"
+  ],
+  "suffixes": [
+    "Killa",
+    "Bomber",
+    "Writer",
+    "Slayer",
+    "Phantom",
+    "Rebel",
+    "Virus",
+    "Glitch",
+    "Burner",
+    "Marker",
+    "Artist",
+    "Soul",
+    "Heart",
+    "Mind",
+    "King",
+    "Queen",
+    "God",
+    "Goddess",
+    "Legend",
+    "One",
+    "Zero",
+    "X",
+    "Y",
+    "Z",
+    "FX",
+    "Skillz",
+    "Style",
+    "Flow"
+  ]
+}

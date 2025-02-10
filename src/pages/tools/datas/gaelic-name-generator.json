@@ -1,0 +1,67 @@
+{
+  "name": "Gaelic Name Generator",
+  "description": "Unleash your inner Celt! Discover authentic and evocative Gaelic names perfect for characters, pets, or simply embracing your heritage. Find a name steeped in history and legend. Sl\u00e1inte!",
+  "slug": "gaelic-name-generator",
+  "icon": "\ud83c\udf40",
+  "introduction": "Ever dreamed of having a name that echoes through the misty glens and ancient castles of Ireland and Scotland? Our Gaelic Name Generator is your portal to a world of captivating nomenclature. Whether you're writing a fantasy novel, naming your adorable Irish Setter, or just curious about your roots, we've got a treasure trove of authentic Gaelic names waiting to be discovered. Prepare to be enchanted!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! We'll conjure up a unique Gaelic name just for you.",
+    "Not feeling the first result? No worries! Keep clicking until a name resonates with your soul.",
+    "Want to tweak it? Use the prefixes and suffixes to customize the name to your liking. It's like being a Gaelic naming wizard!",
+    "Found the perfect name? Copy it and share it with the world! Let everyone know you've embraced your inner Celt."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually Gaelic?",
+      "answer": "Absolutely! We've meticulously curated our database of names from authentic Gaelic sources, ensuring historical accuracy and cultural relevance. We even consulted a leprechaun (just kidding... mostly!)."
+    },
+    {
+      "question": "Can I use these names for my Dungeons & Dragons character?",
+      "answer": "Of course! In fact, we encourage it! Imagine the epic adventures your Gaelic-named hero will embark on. Just be prepared to explain the pronunciation to your fellow players."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With countless combinations, you're bound to find a name that speaks to you. Think of it as a Gaelic name lottery... but you always win (eventually)!"
+    },
+    {
+      "question": "Is it okay to use these names if I'm not of Gaelic descent?",
+      "answer": "While these names are rooted in Gaelic culture, anyone is welcome to appreciate and use them respectfully. Consider it a cultural exchange \u2013 just maybe don't claim you're the rightful heir to the Scottish throne."
+    },
+    {
+      "question": "How often is the name database updated?",
+      "answer": "We're constantly adding new names and refining our algorithms to ensure the best possible experience. We're like Gaelic name archaeologists, always digging up new treasures!"
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We love suggestions! If you have a Gaelic name you think would be a great addition, feel free to send it our way. We're always looking to expand our Gaelic name arsenal."
+    }
+  ],
+  "prefixes": [
+    "Ard",
+    "Ban",
+    "Ben",
+    "Cairn",
+    "Glen",
+    "Innis",
+    "Kil",
+    "Loch",
+    "Mac",
+    "Nora",
+    "Fear",
+    "Sorcha"
+  ],
+  "suffixes": [
+    "agh",
+    "an",
+    "ara",
+    "bhan",
+    "don",
+    "dubh",
+    "eala",
+    "finn",
+    "ghlas",
+    "ian",
+    "idh",
+    "og"
+  ]
+}

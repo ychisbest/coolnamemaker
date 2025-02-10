@@ -1,0 +1,84 @@
+{
+  "name": "Robot Name Generator",
+  "description": "Need a name that screams 'future' and 'awesome'? Our Robot Name Generator is here to electrify your imagination! Get ready to unleash a legion of metallic monikers that'll make your circuits sizzle.",
+  "slug": "robot-name-generator",
+  "icon": "\ud83e\udd16",
+  "introduction": "Step into the digital age with our Robot Name Generator! Whether you're crafting characters for a sci-fi saga, branding your tech startup, or just looking for a quirky online handle, we've got the perfect blend of nuts, bolts, and lexical ingenuity to forge the ultimate robot name. Prepare for names so cool, they're practically cryogenic!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A shiny new robot name appears.",
+    "Not feeling the robo-love? Click again! We've got an endless supply of names, from the utilitarian to the utterly bizarre.",
+    "Found the perfect name? Copy it and unleash it upon the world! Your robot overlord (or friendly bot) is ready for action.",
+    "Want to tweak it? Mix and match prefixes and suffixes from our lists to create a truly unique robotic identity. Go wild!",
+    "Remember, this is all in good fun! Don't blame us if your robot army gets a little too popular."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Robot Name Generator is 100% free to use. We just want to spread the robotic love (and maybe collect some data for our own secret robot uprising...just kidding!)."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Go for it! All names generated are yours to use as you see fit. Just don't forget to credit us when your robot empire takes over the world."
+    },
+    {
+      "question": "Will the names always be random?",
+      "answer": "Pretty much! We use a sophisticated (and slightly chaotic) algorithm to ensure that each name is fresh and unexpected. You might occasionally see a repeat, but that's just the robots trying to communicate."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions, and we might just add them to the generator. Help us build the ultimate robot naming machine!"
+    },
+    {
+      "question": "My robot army has already taken over the world. Should I still use this generator?",
+      "answer": "Definitely! Even world-conquering robots need cool names. Plus, it's a great way to keep your troops entertained during those long interstellar voyages."
+    },
+    {
+      "question": "Are the generated names trademarked?",
+      "answer": "We do our best to generate unique names, but we can't guarantee that they aren't already in use. It's always a good idea to do a quick trademark search before using a name for commercial purposes."
+    }
+  ],
+  "prefixes": [
+    "Astro",
+    "Cyber",
+    "Mech",
+    "Nano",
+    "Robo",
+    "Terra",
+    "Volt",
+    "Zenith",
+    "Omega",
+    "Titan",
+    "Nova",
+    "Giga",
+    "Quantum",
+    "Binary",
+    "Circuit",
+    "Logic",
+    "Pixel",
+    "Vector",
+    "Fusion",
+    "Spectra"
+  ],
+  "suffixes": [
+    "Tron",
+    "Bot",
+    "Droid",
+    "Mech",
+    "X",
+    "Zeta",
+    "Alpha",
+    "Prime",
+    "Core",
+    "Max",
+    "Unit",
+    "Rex",
+    "Spark",
+    "Byte",
+    "Code",
+    "Wing",
+    "Claw",
+    "Guard",
+    "Storm",
+    "Knight"
+  ]
+}

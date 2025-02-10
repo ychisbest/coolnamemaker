@@ -1,0 +1,83 @@
+{
+  "name": "Korean Name Generator",
+  "description": "Unlock your inner K-drama star! Discover the perfect Korean name with our generator, blending tradition and trendiness for a name that's totally you. Get ready to shine!",
+  "slug": "korean-name-generator",
+  "icon": "\ud83c\uddf0\ud83c\uddf7",
+  "introduction": "Annyeonghaseyo! \ud83d\udc4b Dreaming of a Korean name that resonates with your soul? Whether you're diving into K-pop, K-dramas, or simply fascinated by Korean culture, finding the right name is the perfect first step. Our Korean Name Generator blends traditional meanings with modern flair, offering you a curated selection of names that are both beautiful and meaningful. Let's find your Korean identity!",
+  "howToUse": [
+    "Ready to find your Korean alter ego? It's as easy as eating kimchi! (Okay, almost.)",
+    "Just click the 'Generate' button and watch the magic happen. We'll conjure up a list of awesome Korean names just for you.",
+    "Don't like what you see? No worries! Hit that button again for a fresh batch of names. We've got options galore!",
+    "Found 'the one'? Awesome! Share it with your friends, write it in your diary, and start practicing your best Korean pronunciation. You're officially on your way to becoming a K-star! \u2728"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually Korean?",
+      "answer": "Absolutely! We've consulted with native Korean speakers and delved deep into Korean naming conventions to ensure the names generated are authentic and meaningful."
+    },
+    {
+      "question": "Can I use these names for my K-drama character?",
+      "answer": "Go for it! Our generator is perfect for writers, role-players, or anyone looking for a unique Korean name for their creative projects."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "No problem! Just keep clicking 'Generate' until you find a name that clicks with you. We've got a huge database of names to explore."
+    },
+    {
+      "question": "Do the names have meanings?",
+      "answer": "Many Korean names have deep and beautiful meanings rooted in Korean culture and language. While our generator focuses on creating aesthetically pleasing names, we encourage you to research the meanings of names that catch your eye for a richer understanding."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, absolutely! Our Korean Name Generator is completely free to use. Enjoy exploring and discovering your perfect Korean name!"
+    },
+    {
+      "question": "Can I combine parts of different names?",
+      "answer": "While you *can*, it's best to stick with a complete name. Combining elements might not make sense in Korean. Think of it like mixing sushi and pizza \u2013 adventurous, but not always delicious!"
+    }
+  ],
+  "prefixes": [
+    "Kim",
+    "Lee",
+    "Park",
+    "Choi",
+    "Jung",
+    "Kang",
+    "Han",
+    "Yoon",
+    "Jang",
+    "Lim",
+    "Oh",
+    "Seo",
+    "Shin",
+    "Kwon",
+    "Hwang",
+    "Ahn",
+    "Song",
+    "Ryu",
+    "Jeon",
+    "Hong"
+  ],
+  "suffixes": [
+    "Ji-woo",
+    "Seo-yeon",
+    "Ha-joon",
+    "Yu-na",
+    "Min-joon",
+    "Soo-ah",
+    "Do-hyun",
+    "Ji-ah",
+    "Ye-jun",
+    "Seo-ah",
+    "Si-woo",
+    "A-rin",
+    "Eun-woo",
+    "Ha-yoon",
+    "Joo-won",
+    "Ji-min",
+    "Gun-woo",
+    "Soo-bin",
+    "Hyun-woo",
+    "Ye-eun"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "name": "African Name Generator",
+  "description": "Unleash the vibrant tapestry of African culture with our African Name Generator! Discover authentic and meaningful names rooted in rich traditions. Find the perfect name that resonates with strength, beauty, and heritage.",
+  "slug": "african-name-generator",
+  "icon": "\ud83c\udf0d",
+  "introduction": "Ready to embark on a journey through the diverse and captivating world of African names? Whether you're seeking inspiration for a character, a child, or simply curious about the beauty of African nomenclature, you've come to the right place! Our generator draws from a wide array of languages and cultures across the continent, offering a glimpse into the heart of Africa's naming traditions.",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen!",
+    "Feeling picky? Keep clicking until you find a name that speaks to your soul.",
+    "Want something truly unique? Mix and match prefixes and suffixes to create your own custom masterpiece. Go wild \u2013 it's your name, after all!",
+    "Pro Tip: Consider the meaning behind the name and how it resonates with your personal story or the story you want to tell."
+  ],
+  "faqs": [
+    {
+      "question": "Where do these names come from?",
+      "answer": "Our generator draws inspiration from various African languages and cultures, including but not limited to Swahili, Yoruba, Igbo, Zulu, Xhosa, and Amharic. We strive to represent the continent's diverse heritage."
+    },
+    {
+      "question": "Are the names authentic?",
+      "answer": "We make every effort to ensure the authenticity of the names and their meanings. However, language and culture are constantly evolving, and interpretations may vary. We encourage you to research further if you're looking for a specific meaning or origin."
+    },
+    {
+      "question": "Can I use these names for my baby?",
+      "answer": "Absolutely! Many of the names generated are suitable for babies. However, always consider the cultural context and potential meanings before making a final decision. It's also a good idea to consult with elders or individuals familiar with the specific culture you're interested in."
+    },
+    {
+      "question": "Is it okay to use a name from a culture I'm not a part of?",
+      "answer": "Using a name from another culture can be a beautiful way to honor and appreciate that culture. However, it's important to do so respectfully and with awareness. Research the name's meaning and significance, and be mindful of potential cultural sensitivities."
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We're always looking to expand our database! Please feel free to contact us with your suggestions. We appreciate your contribution to making our generator even more comprehensive and representative."
+    },
+    {
+      "question": "The name I generated has a slightly different spelling or meaning than what I found elsewhere. Why?",
+      "answer": "Languages evolve, and spellings/meanings can vary across different regions or dialects. We try to provide the most common interpretations, but variations are possible. Always double-check with reliable sources for the most accurate information."
+    }
+  ],
+  "prefixes": [
+    "Aba",
+    "Abim",
+    "Adew",
+    "Akin",
+    "Bayo",
+    "Chika",
+    "Emeka",
+    "Funmi",
+    "Imani",
+    "Jengo",
+    "Kato",
+    "Lumumba",
+    "Musa",
+    "Nandi",
+    "Obi",
+    "Sefu",
+    "Tafari",
+    "Zola"
+  ],
+  "suffixes": [
+    "bayo",
+    "bola",
+    "femi",
+    "kemi",
+    "lola",
+    "mide",
+    "tayo",
+    "wale",
+    "yemi",
+    "dele",
+    "funke",
+    "jide",
+    "kofo",
+    "lanke",
+    "remilekun",
+    "segun",
+    "tope",
+    "yinka"
+  ]
+}

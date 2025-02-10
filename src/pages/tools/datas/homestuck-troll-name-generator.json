@@ -1,0 +1,95 @@
+{
+  "name": "Homestuck Troll Name Generator",
+  "description": "Craving a fantastically flamboyant and fiendishly fitting name for your Homestuck trollsona? Look no further, chum! This generator will cook up a moniker that's so authentically Alternian, you'll practically smell the sopor slime.",
+  "slug": "homestuck-troll-name-generator",
+  "icon": "\ud83e\uddcc",
+  "introduction": "Dive headfirst into the chaotic and colorful world of Homestuck with our Troll Name Generator! Whether you're roleplaying, writing fanfiction, or just creating a digital identity, this tool will help you conjure up a troll name that's both unique and perfectly in line with the established naming conventions of Alternia. Get ready to embrace your inner grey-skinned mischief-maker!",
+  "howToUse": [
+    "Simply hit the 'Generate' button and BAM! A brand-new, ridiculously rad troll name will appear.",
+    "Not feeling the first result? No sweat! Keep clicking until you find a name that resonates with your trollish soul.",
+    "Want to spice things up? Mix and match prefixes and suffixes to create your own custom troll name concoction!",
+    "Remember, true troll names are all about that perfect blend of silliness and slight edge. Go wild!"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* a Homestuck troll name?",
+      "answer": "Ah, glad you asked! Troll names in Homestuck typically follow a 6-letter first name and a 6-letter last name structure. They often incorporate themes related to the troll's personality, quirks, or role in society. Expect a healthy dose of alliteration and a slightly unsettling vibe."
+    },
+    {
+      "question": "Can I use these names for my original characters?",
+      "answer": "Absolutely! While this generator is tailored for Homestuck, the names it produces can easily be adapted for any fantasy or sci-fi character. Feel free to tweak them to your heart's content!"
+    },
+    {
+      "question": "Are these names *actually* canon?",
+      "answer": "While we strive for authenticity, these names are generated using a combination of patterns and creativity. They're not officially endorsed by Andrew Hussie (the creator of Homestuck), but they're designed to feel right at home in the Alternian universe."
+    },
+    {
+      "question": "Help! I can't pronounce my troll name!",
+      "answer": "Don't worry, that's half the fun! Troll names are often intentionally bizarre and difficult to pronounce. Embrace the absurdity and make up your own pronunciation \u2013 your fellow trolls will appreciate the effort (or at least be thoroughly confused)."
+    },
+    {
+      "question": "Why are troll names so weird?",
+      "answer": "Because Alternia is a weird place! The naming conventions reflect the harsh, hierarchical, and often nonsensical nature of troll society. It's all part of the charm (or lack thereof)."
+    },
+    {
+      "question": "Can I use these names in my fanfiction?",
+      "answer": "Yes! That's exactly what this is for! Go forth and write the most amazing Homestuck fanfiction the world has ever seen!"
+    }
+  ],
+  "prefixes": [
+    "Aradi",
+    "Sollu",
+    "Karkat",
+    "Nepet",
+    "Kanay",
+    "Terezi",
+    "Vrisk",
+    "Equiu",
+    "Gamze",
+    "Tavros",
+    "Eridan",
+    "Feferi",
+    "Rufio",
+    "Mitun",
+    "Kroni",
+    "Latul",
+    "Meulin",
+    "Porri",
+    "Lyner",
+    "Horus",
+    "Damar",
+    "Maray",
+    "Cirav",
+    "Tagre",
+    "Zahak",
+    "Nihaz"
+  ],
+  "suffixes": [
+    "Ampora",
+    "Captor",
+    "Vantas",
+    "Leijon",
+    "Maryam",
+    "Pyrope",
+    "Serket",
+    "Zahhak",
+    "Makara",
+    "Nitram",
+    "Ampora",
+    "Peixes",
+    "Nitram",
+    "Captor",
+    "Pyrope",
+    "Leijon",
+    "Maryam",
+    "Serket",
+    "Zahhak",
+    "Nitram",
+    "Captor",
+    "Pyrope",
+    "Leijon",
+    "Maryam",
+    "Serket",
+    "Makara"
+  ]
+}

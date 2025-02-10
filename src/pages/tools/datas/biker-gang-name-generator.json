@@ -1,0 +1,74 @@
+{
+  "name": "Biker Gang Name Generator",
+  "description": "Rev up your engines and unleash the ultimate biker gang name! Need a name that screams toughness, brotherhood, and a little bit of mayhem? Look no further! This generator will help you craft the perfect moniker for your motorcycle club.",
+  "slug": "biker-gang-name-generator",
+  "icon": "\ud83c\udfcd\ufe0f",
+  "introduction": "So, you're starting a biker gang? Awesome! But before you hit the road, you need a name that strikes fear into the hearts of your rivals (and maybe impresses the local authorities... a little). Forget those generic, cookie-cutter names. Our Biker Gang Name Generator delivers a unique, badass identity that'll make your crew legendary. Get ready to rumble!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Read the awesome name that appears. (Prepare to be amazed!)",
+    "Don't like it? Hit 'Generate' again! We've got more names than you have chrome!",
+    "Share your favorite name with your gang and decide on your official title. (Remember, democracy is key... unless you're the president.)",
+    "Get ready to dominate the streets! (Responsibly, of course... mostly.)"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually cool?",
+      "answer": "Are you kidding? These names are so cool, they'll freeze the asphalt! We've poured hours of research (and a whole lot of attitude) into crafting the perfect blend of grit, swagger, and pure awesomeness."
+    },
+    {
+      "question": "Can I use these names for other things besides biker gangs?",
+      "answer": "Absolutely! While designed for biker gangs, these names are versatile enough for anything that needs a touch of rebellious flair. Think rock bands, fantasy guilds, or even your fantasy football team. The possibilities are endless!"
+    },
+    {
+      "question": "Will using one of these names guarantee my gang's success?",
+      "answer": "While we can't promise world domination (or even local bar supremacy), a killer name is a crucial first step. Think of it as your gang's calling card. It's what gets you noticed, remembered, and maybe even feared... in a good way."
+    },
+    {
+      "question": "Are these names trademarked?",
+      "answer": "Nope! All names generated are free for you to use. However, we always recommend doing a quick trademark search before officially adopting a name for commercial purposes."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! With countless combinations, you're bound to find a name that resonates with your inner rebel. And hey, if all else fails, you can always use it as inspiration to create your own unique masterpiece!"
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We're always looking for fresh inspiration! Feel free to send your suggestions our way. We can't guarantee we'll use them, but we promise to give them a good look (and maybe a chuckle)."
+    }
+  ],
+  "prefixes": [
+    "Iron",
+    "Steel",
+    "Shadow",
+    "Night",
+    "Hell's",
+    "Devil's",
+    "Renegade",
+    "Outlaw",
+    "Grim",
+    "Vagabond",
+    "Road",
+    "Wild",
+    "Black",
+    "Silent",
+    "Ghost"
+  ],
+  "suffixes": [
+    "Angels",
+    "Demons",
+    "Reapers",
+    "Nomads",
+    "Riders",
+    "Wolves",
+    "Serpents",
+    "Vipers",
+    "Hounds",
+    "Legion",
+    "Crew",
+    "Syndicate",
+    "Brothers",
+    "Disciples",
+    "Kings"
+  ]
+}

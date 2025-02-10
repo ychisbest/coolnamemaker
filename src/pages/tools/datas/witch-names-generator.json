@@ -1,0 +1,80 @@
+{
+  "name": "Witch Name Generator",
+  "description": "Unleash your inner enchantress with our Witch Name Generator! Find the perfect moniker for your spells, potions, and magical adventures. Whether you're a green witch, a hedge witch, or something in between, we've got a name to bewitch you!",
+  "slug": "witch-names-generator",
+  "icon": "\ud83e\uddd9\u200d\u2640\ufe0f",
+  "introduction": "Conjure up the ideal witch name! Tired of being called 'hey you' when you're brewing up a storm? Our Witch Name Generator is here to help. From the darkly mysterious to the delightfully whimsical, discover a name that resonates with your magical soul. Prepare to be spellbound!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! \u2728",
+    "Don't like the first result? No problem! Keep clicking until a name whispers to your very being.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a truly unique appellation.",
+    "Share your bewitching new name with your coven (or your cat...they're good listeners too).",
+    "Use your new name to sign your spellbook, order magical ingredients, or just to feel extra witchy! \ud83c\udf19"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our magic is freely given (though donations of eye of newt are always appreciated \ud83d\ude09)."
+    },
+    {
+      "question": "Can I use these names for my book/game/other creative project?",
+      "answer": "Go for it! We encourage you to use these names as inspiration for your own magical creations. Just remember to credit us if you become super famous! (Just kidding... mostly.)"
+    },
+    {
+      "question": "Are the names generated truly random?",
+      "answer": "As random as we can make them! We've combined carefully curated prefixes and suffixes to create a diverse range of names. But hey, maybe the universe is guiding your choices..."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep trying! Or, get creative and tweak the names to your liking. Add a syllable, change a letter, make it your own! The magic is in your hands."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions and we'll consider adding them to the generator. Together, we can make this the most bewitching name generator on the web!"
+    }
+  ],
+  "prefixes": [
+    "Willow",
+    "Raven",
+    "Luna",
+    "Hazel",
+    "Sage",
+    "Ivy",
+    "Morgan",
+    "Aster",
+    "Nyx",
+    "Rowan",
+    "Briar",
+    "Lilith",
+    "Opal",
+    "Scarlett",
+    "Winter",
+    "Shadow",
+    "Storm",
+    "Crystal",
+    "Amber",
+    "Jade"
+  ],
+  "suffixes": [
+    "whisper",
+    "moon",
+    "shade",
+    "bloom",
+    "wood",
+    "spell",
+    "bane",
+    "night",
+    "chant",
+    "grove",
+    "song",
+    "wind",
+    "stone",
+    "brook",
+    "fire",
+    "thorn",
+    "mist",
+    "dream",
+    "charm",
+    "weaver"
+  ]
+}

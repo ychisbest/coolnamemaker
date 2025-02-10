@@ -1,0 +1,83 @@
+{
+  "name": "Sci-Fi Name Generator",
+  "description": "Blast off into a galaxy of awesome names! Need a moniker for your intergalactic hero, your cyberpunk hacker, or your alien overlord? Look no further! This generator will warp you to the perfect sci-fi title in seconds.",
+  "slug": "scifi-name-generator",
+  "icon": "\ud83d\ude80",
+  "introduction": "Tired of generic names that sound like they belong in a medieval fantasy, not a futuristic space opera? Our Sci-Fi Name Generator is your one-stop shop for crafting names that are out of this world. Whether you're writing a novel, creating a game character, or just brainstorming for fun, prepare to be amazed by the possibilities!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! A brand new, totally unique sci-fi name will appear before your very eyes.",
+    "Don't like the first result? No problem! Hit that button again for an endless stream of cosmic creations. Keep going until you find the name that resonates with your inner space explorer.",
+    "Feeling adventurous? Mix and match prefixes and suffixes from different generated names to create something truly unique. Unleash your inner mad scientist!",
+    "Write down your favorites! You don't want to forget that perfect name when inspiration strikes."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "Everything from sleek and futuristic to gritty and cyberpunk! Think space marines, rogue AIs, and enigmatic alien civilizations. We've got the whole spectrum covered."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "While there's an element of randomness, we've carefully curated our database of prefixes and suffixes to ensure that every name sounds plausible and fitting for the sci-fi genre. No more gibberish!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Feel free to use the generated names for your books, games, websites, or any other project you can dream up. The universe is yours for the taking!"
+    },
+    {
+      "question": "Will the generator ever run out of names?",
+      "answer": "Highly unlikely! With our vast combination of prefixes and suffixes, the possibilities are virtually limitless. We're constantly adding new elements to keep things fresh and exciting."
+    },
+    {
+      "question": "Is there a way to customize the type of names generated?",
+      "answer": "Not yet, but we're always looking for ways to improve! Stay tuned for future updates that may include options for specifying the tone or origin of the names."
+    },
+    {
+      "question": "My generated name is too long, what can i do?",
+      "answer": "Try generating a new one! The beauty of it is that it's unlimited, but if you like the name and just want to shorten it, try only using the prefix or suffix of the name!"
+    }
+  ],
+  "prefixes": [
+    "Astro",
+    "Cyber",
+    "Nova",
+    "Quantum",
+    "Mech",
+    "Galacti",
+    "Hyper",
+    "Zenith",
+    "Chrono",
+    "Terra",
+    "Void",
+    "Stellar",
+    "Xeno",
+    "Neo",
+    "Infini",
+    "Rogue",
+    "Shadow",
+    "Plasma",
+    "Titan",
+    "Nebula"
+  ],
+  "suffixes": [
+    "Tech",
+    "Corp",
+    "Dyne",
+    "Tron",
+    "Star",
+    "Wing",
+    "Force",
+    "Knight",
+    "Walker",
+    "Hunter",
+    "Blade",
+    "Guard",
+    "Slayer",
+    "Mancer",
+    "Prime",
+    "X",
+    "7",
+    "Alpha",
+    "Omega",
+    "One"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Halfling Name Generator",
+  "description": "Need a whimsical name for your pint-sized adventurer? Look no further! Our Halfling Name Generator conjures up names brimming with charm, mischief, and just a touch of second breakfast.",
+  "slug": "halfling-name-generator",
+  "icon": "\ud83e\udddd",
+  "introduction": "Embark on a journey to find the perfect moniker for your halfling character! Whether you're rolling up a new D&D hero, writing a fantasy novel, or just need a lighthearted name for your pet hamster, our generator is here to help. We've delved deep into the lore of halflings to create names that capture their playful spirit and love for the simple things in life. So, grab a pipe, settle into a comfy armchair, and let's find a name that's just right!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the randomly generated halfling name. (Prepare to be amazed!)",
+    "If the name doesn't quite tickle your fancy, hit 'Generate' again. (We've got plenty more where that came from!)",
+    "Copy and paste your favorite name into your character sheet, novel, or hamster's official paperwork. (Congratulations, you're now the proud owner of a perfectly named halfling\u2026 or hamster!)",
+    "Share your awesome halfling name with your friends! (Bragging rights are totally allowed.)"
+  ],
+  "faqs": [
+    {
+      "question": "What makes a good halfling name?",
+      "answer": "Halfling names often reflect their connection to nature, their love of food, or their jovial personalities. They tend to be shorter and more melodic than names from other races."
+    },
+    {
+      "question": "Can I use these names for characters in my book?",
+      "answer": "Absolutely! Feel free to use these names for any creative project you have in mind. We only ask that you credit coolnamemaker.com if you find our generator particularly helpful."
+    },
+    {
+      "question": "Are these names gender-specific?",
+      "answer": "While some names might lean towards being more masculine or feminine, most halfling names are fairly gender-neutral. Feel free to adapt them as you see fit!"
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your little heart desires! Generate until you find the *perfect* name. We won't judge if you spend all day doing it."
+    },
+    {
+      "question": "Are these names based on any specific halfling lore?",
+      "answer": "We've drawn inspiration from various sources, including Dungeons & Dragons, The Lord of the Rings, and other fantasy literature. We've tried to capture the essence of halflings while adding our own unique twist."
+    },
+    {
+      "question": "What if I want a more serious or intimidating halfling name?",
+      "answer": "While halflings are generally known for their good humor, a more serious name can add an interesting layer to your character! Try focusing on names that sound grounded or reminiscent of natural elements like stone or earth."
+    }
+  ],
+  "prefixes": [
+    "Merry",
+    "Pippin",
+    "Frodo",
+    "Rosie",
+    "Bilbo",
+    "Lily",
+    "Daisy",
+    "Poppy",
+    "Samwise",
+    "Willow",
+    "Bungo",
+    "Adelard",
+    "Milo",
+    "Ruby",
+    "Cora",
+    "Tomkin",
+    "Esmeralda",
+    "Folco",
+    "Hilda",
+    "Gaffer"
+  ],
+  "suffixes": [
+    "Baggins",
+    "Gamgee",
+    "Brandybuck",
+    "Took",
+    "Greenbottle",
+    "Goodbody",
+    "Underhill",
+    "Proudfoot",
+    "Smallburrow",
+    "Hayward",
+    "Tunnelly",
+    "Gardner",
+    "Roper",
+    "Burrows",
+    "Banks",
+    "Hill",
+    "Clayhanger",
+    "Brockhouse",
+    "Brushgather",
+    "Humble"
+  ]
+}

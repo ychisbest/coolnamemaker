@@ -1,0 +1,83 @@
+{
+  "name": "Cowboy Name Generator",
+  "description": "Saddle up, partner! Need a name that's tougher than a two-dollar steak and cooler than a desert breeze? This here Cowboy Name Generator will rustle you up the perfect moniker faster than you can say 'Howdy!'",
+  "slug": "cowboy-name-generator",
+  "icon": "\ud83e\udd20",
+  "introduction": "Dust off your boots and get ready to ride! Whether you're writing a Western, role-playing a gunslinger, or just need a good ol' fashioned nickname, our Cowboy Name Generator is your trusty steed. We'll provide you with a name that's as authentic and memorable as a tumbleweed in a ghost town.",
+  "howToUse": [
+    "Click that fancy 'Generate' button, ya hear? It's easier than lassoing a sleeping calf.",
+    "Keep clickin' 'til you find a name that makes you wanna shout 'Yeehaw!'",
+    "Don't like what you see? Well, ain't that a pickle! Just keep generatin' \u2013 we got more names than stars in the Texas sky.",
+    "Once you find your golden nugget of a name, write it down, memorize it, tattoo it on your arm \u2013 whatever floats your boat! Just make sure you claim it before some other varmint does."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually used by real cowboys?",
+      "answer": "Well, some might be! We drew inspiration from old Westerns, history books, and a whole lotta imagination. Think of these as 'cowboy-esque' \u2013 perfect for capturing the spirit of the Wild West."
+    },
+    {
+      "question": "Can I use these names for my video game character?",
+      "answer": "Absolutely! Go for it, partner. Just make sure you're the fastest draw in the West... or at least have a really good internet connection."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Don't fret! Just keep hitting that 'Generate' button. We've got a whole herd of names waiting to be discovered. You're bound to find one that tickles your fancy eventually."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Free as a bird! Use it as much as you like. We just ask that you spread the word and tell your friends about our rootin' tootin' name generator."
+    },
+    {
+      "question": "Can I combine parts of different names to create my own?",
+      "answer": "You betcha! Feel free to mix and match prefixes and suffixes to create a name that's uniquely yours. The Wild West is all about forging your own path, and that includes your name!"
+    },
+    {
+      "question": "Will using a cool cowboy name actually make me better at riding a horse?",
+      "answer": "While we can't guarantee equestrian prowess, a cool cowboy name will definitely boost your confidence! Look the part, feel the part, ride the part! (Results may vary. Horse riding lessons not included.)"
+    }
+  ],
+  "prefixes": [
+    "Dusty",
+    "Buck",
+    "Billy",
+    "Calamity",
+    "Wyatt",
+    "Jesse",
+    "Cole",
+    "Rio",
+    "Shane",
+    "Dakota",
+    "Maverick",
+    "Cody",
+    "Slim",
+    "Tex",
+    "Clint",
+    "Duke",
+    "Rooster",
+    "Blaze",
+    "Rattlesnake",
+    "Whiskey"
+  ],
+  "suffixes": [
+    "Kid",
+    "McGee",
+    "Rivers",
+    "Creek",
+    "Johnson",
+    "Smith",
+    "Walker",
+    "Hayes",
+    "Kane",
+    "Dalton",
+    "Red",
+    "Blue",
+    "Jack",
+    "Joe",
+    "Lee",
+    "Stone",
+    "Iron",
+    "Silver",
+    "Gold",
+    "Bronco"
+  ]
+}

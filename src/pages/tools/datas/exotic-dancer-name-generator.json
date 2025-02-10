@@ -1,0 +1,103 @@
+{
+  "name": "Exotic Dancer Name Generator",
+  "description": "Spice up your stage persona with a name that shimmers, sizzles, and seduces. Unleash your inner enchantress with our exotic dancer name generator!",
+  "slug": "exotic-dancer-name-generator",
+  "icon": "\ud83d\udc83",
+  "introduction": "Ready to ignite the stage with a name that's pure fire? Whether you're a seasoned performer or just dreaming of dazzling audiences, our Exotic Dancer Name Generator is your secret weapon. Get ready to unveil a moniker as unforgettable as your moves!",
+  "howToUse": [
+    "Click the 'Generate' button and watch the magic happen! We'll whip up a dazzling array of exotic dancer names.",
+    "Don't be shy! Keep clicking until a name whispers to your soul. You'll know it when you see it.",
+    "Customize! Mix and match parts of different names, or add your own personal touch to make it truly unique.",
+    "Own it! Once you've found 'The One,' strut your stuff and let that name become your signature."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Consider it our little gift to the world of performance art. Go wild!"
+    },
+    {
+      "question": "Can I use these names for other things besides exotic dancing?",
+      "answer": "Hey, your name is your oyster! Use it for anything that needs a touch of glamour, mystery, or sheer fabulousness. Pen names, drag personas, pet names... the possibilities are endless!"
+    },
+    {
+      "question": "Are the names generated appropriate?",
+      "answer": "We strive to create names that are alluring and exciting while maintaining a sense of class. However, some results may be suggestive, so use your best judgement."
+    },
+    {
+      "question": "I don't like any of the names. What do I do?",
+      "answer": "Keep hitting that 'Generate' button! We have countless combinations. Or, get inspired and use the generator as a starting point to create your own masterpiece!"
+    },
+    {
+      "question": "Can I trademark a name generated here?",
+      "answer": "We're not legal experts, so we can't give you official advice. But generally, it's a good idea to do a trademark search before investing heavily in a name. Good luck!"
+    },
+    {
+      "question": "Will this generator make me a better dancer?",
+      "answer": "While we can't guarantee killer moves, a fantastic name can definitely boost your confidence and stage presence. So, yes, in a way, it totally will!"
+    }
+  ],
+  "prefixes": [
+    "Scarlett",
+    "Mystique",
+    "Sapphire",
+    "Diamond",
+    "Velvet",
+    "Seraphina",
+    "Raven",
+    "Lila",
+    "Blaze",
+    "Luna",
+    "Elektra",
+    "Jezebel",
+    "Ophelia",
+    "Phoenix",
+    "Roxy",
+    "Zelda",
+    "Coco",
+    "Gigi",
+    "Lola",
+    "Misty",
+    "Honey",
+    "Cherry",
+    "Sasha",
+    "Zara",
+    "Valentina",
+    "Vivienne",
+    "Venus",
+    "Aurora",
+    "Athena",
+    "Isis"
+  ],
+  "suffixes": [
+    "Delight",
+    "Rouge",
+    "Moon",
+    "Star",
+    "Fire",
+    "Rose",
+    "Divine",
+    "Noir",
+    "Bliss",
+    "Angel",
+    "Storm",
+    "Ray",
+    "Lace",
+    "Velour",
+    "Siren",
+    "Flame",
+    "Kiss",
+    "Whisper",
+    "Shadow",
+    "Silk",
+    "Pearl",
+    "Charm",
+    "Enchant",
+    "Desire",
+    "Passion",
+    "Sensation",
+    "Allure",
+    "Fantasy",
+    "Ecstasy",
+    "Temptation"
+  ]
+}

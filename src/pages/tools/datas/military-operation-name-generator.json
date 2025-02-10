@@ -1,0 +1,83 @@
+{
+  "name": "Military Operation Name Generator",
+  "description": "Need a badass name for your next (fictional!) military operation? Look no further! Our generator crafts the perfect moniker, guaranteed to strike fear into the hearts of... well, whoever you're writing about. Get ready to deploy!",
+  "slug": "military-operation-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Forget 'Operation Desert Storm'. We're talking names that sound like they were ripped from the pages of a Clancy novel, infused with a dash of Hollywood blockbuster. Generate names that are tactical, thrilling, and totally unforgettable. Perfect for writers, game designers, or anyone who just wants to sound like they know what they're talking about.",
+  "howToUse": [
+    "Simply click the 'Generate' button. (Duh!)",
+    "Marvel at the awesomeness of the name that appears.",
+    "If you're not feeling it (highly unlikely), click 'Generate' again! We've got enough combinations to conquer the world... or at least your imagination.",
+    "Copy and paste your new operation name into your project.",
+    "Go forth and conquer... creatively!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually used by real military organizations?",
+      "answer": "Absolutely not! This is purely for entertainment and creative purposes. Please don't try to pass these names off as legitimate in any official capacity. You'll probably get some strange looks."
+    },
+    {
+      "question": "Can I use these names for my video game?",
+      "answer": "Of course! That's exactly what it's for. Unleash the strategic power of these names in your game and watch your players tremble (with excitement!)."
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! They're fresh out of the imagination factory, free for you to use in any way you see fit. Go wild!"
+    },
+    {
+      "question": "Will this generator help me plan an actual military operation?",
+      "answer": "Seriously? No. This is a name generator. Please leave the real-world strategic planning to the professionals... and maybe watch a few war movies for inspiration."
+    },
+    {
+      "question": "I generated a name that sounds a little... intense. Should I be worried?",
+      "answer": "Nah. It's just a name. But if you start hearing helicopters outside your window, maybe lay low for a while. Just kidding! (Probably.)"
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "Absolutely! We're always looking to expand our arsenal of awesome words. Send your suggestions our way!"
+    }
+  ],
+  "prefixes": [
+    "Operation",
+    "Task Force",
+    "Project",
+    "Initiative",
+    "Campaign",
+    "Strike",
+    "Thunder",
+    "Iron",
+    "Crimson",
+    "Silent",
+    "Vanguard",
+    "Guardian",
+    "Shadow",
+    "Phoenix",
+    "Eagle",
+    "Viper",
+    "Cobra",
+    "Spearhead",
+    "Sentinel"
+  ],
+  "suffixes": [
+    "Storm",
+    "Hammer",
+    "Anvil",
+    "Shield",
+    "Sword",
+    "Justice",
+    "Retribution",
+    "Vengeance",
+    "Recon",
+    "Blitz",
+    "Assault",
+    "Breach",
+    "Exodus",
+    "Liberation",
+    "Redemption",
+    "Overlord",
+    "Titan",
+    "Nemesis",
+    "Wrath",
+    "Fury"
+  ]
+}

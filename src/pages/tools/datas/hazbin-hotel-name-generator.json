@@ -1,0 +1,73 @@
+{
+  "name": "Hazbin Hotel Name Generator",
+  "description": "Ready to check into the Hazbin Hotel? But first, you'll need a devilishly delightful name! This generator conjures up the perfect moniker for any resident of hell or visitor to Charlie's rehabilitation project. Get ready to embrace your inner demon!",
+  "slug": "hazbin-hotel-name-generator",
+  "icon": "\ud83d\ude08",
+  "introduction": "Welcome, sinners and saints! Ever wondered what your name would be if you resided in the fiery depths of the Hazbin Hotel? Now's your chance to find out! Our generator blends the sinister with the silly, creating names that are both terrifying and terrific. So, ditch your earthly label and embrace your infernal identity!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new, hellishly cool name will appear before your very eyes.",
+    "Don't like what you see? Click again! We've got enough demonic combinations to keep you entertained for an eternity (or at least a few minutes).",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own unique hellspawn name. The possibilities are endless... and slightly terrifying!",
+    "Share your wickedly awesome name with your friends and fellow sinners. Misery loves company, after all!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually affiliated with the Hazbin Hotel?",
+      "answer": "Sadly, no. We're just fans who thought it would be fun to create a name generator inspired by the show's amazing characters and world. We're not getting paid by Alastor (yet!)."
+    },
+    {
+      "question": "Can I use these names for my fan fiction?",
+      "answer": "Absolutely! Feel free to unleash your creativity and use these names in your Hazbin Hotel fan fiction, artwork, or cosplay. Just give us a little shout-out, if you're feeling generous!"
+    },
+    {
+      "question": "Are the names generated actually evil?",
+      "answer": "They're as evil as you want them to be! While some names might sound a bit sinister, it's all in good fun. We're not responsible for any demonic possessions that may occur as a result of using this generator."
+    },
+    {
+      "question": "Will this generator help me get into Heaven?",
+      "answer": "Unlikely! This is for fun, not divine intervention. For that, you'll need to actually be good."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always open to suggestions! If you have a brilliant idea for a new demonic name component, send it our way. We might just add it to the generator!"
+    },
+    {
+      "question": "I got a really weird name. Is that normal?",
+      "answer": "Completely! The generator is designed to be a bit random and unpredictable. Embrace the weirdness! After all, you're in Hell. Normal is boring."
+    }
+  ],
+  "prefixes": [
+    "Sinful",
+    "Shadow",
+    "Crimson",
+    "Vile",
+    "Obsidian",
+    "Hellfire",
+    "Doom",
+    "Venom",
+    "Nightmare",
+    "Chaos",
+    "Vex",
+    "Mirthless",
+    "Dread",
+    "Ember",
+    "Gloom"
+  ],
+  "suffixes": [
+    "Fang",
+    "Claw",
+    "Gnash",
+    "Bane",
+    "Specter",
+    "Shade",
+    "Wraith",
+    "Sin",
+    "Void",
+    "Torment",
+    "Howler",
+    "Whisper",
+    "Grin",
+    "Stalker",
+    "Vein"
+  ]
+}

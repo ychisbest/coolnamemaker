@@ -1,0 +1,82 @@
+{
+  "name": "Animal Crossing Island Name Generator",
+  "description": "Struggling to name your Animal Crossing island? Fear not, intrepid islander! Our generator conjures up the most creative, quirky, and unforgettable island names this side of the NookPhone. Get ready to set sail for naming paradise!",
+  "slug": "animal-crossing-island-name-generator",
+  "icon": "\ud83c\udfdd\ufe0f",
+  "introduction": "Welcome, future mayor! Your island is a blank canvas, a tropical paradise waiting for the perfect moniker. But finding that *perfect* name can be harder than catching a Stringfish in January. That's where we come in! Our Animal Crossing Island Name Generator is your secret weapon for crafting a name that's both unique and totally *you*.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic! A brand new island name will appear, ready for your approval.",
+    "Don't like what you see? No problem! Keep clicking until you find the island name that makes your heart sing (or at least makes Tom Nook nod in approval).",
+    "Feeling inspired? Use the generated names as a springboard for your own creative concoctions! Mix and match, add your own flair, and create an island name that's truly one-of-a-kind.",
+    "Once you've found 'The One', copy and paste that beautiful name into your Animal Crossing game and get ready to welcome your first villagers!"
+  ],
+  "faqs": [
+    {
+      "question": "Will this generator guarantee I get my dream villager if I use a specific name?",
+      "answer": "While we can't promise a visit from Raymond just because you named your island 'Raymondville,' a great name is sure to attract positive vibes (and maybe even a few rare bugs!)."
+    },
+    {
+      "question": "Are the generated names actually *good*?",
+      "answer": "We think so! We've put a lot of love (and a little bit of island magic) into crafting names that are fun, fitting, and totally Animal Crossing-approved. But ultimately, the best name is the one *you* love!"
+    },
+    {
+      "question": "Can I use these names for other things besides Animal Crossing?",
+      "answer": "Absolutely! Use them for your fantasy novels, your pet hamster, or even your next band name. The possibilities are as endless as the sands on your virtual beach."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, completely free! Consider it our gift to the Animal Crossing community. Now go forth and name your island with confidence!"
+    },
+    {
+      "question": "I found a name I love! Can I share it with my friends?",
+      "answer": "Please do! Spread the island naming joy! We'd love to see what names you come up with. Tag us on social media! (Just kidding, we don't have social media...yet.)"
+    },
+    {
+      "question": "How often are new names added to the generator?",
+      "answer": "We're constantly updating our name database with fresh and exciting ideas! Check back regularly to discover new possibilities for your island paradise."
+    }
+  ],
+  "prefixes": [
+    "Blossom",
+    "Coral",
+    "Dream",
+    "Emerald",
+    "Harmony",
+    "Lunar",
+    "Mystic",
+    "Ocean",
+    "Pine",
+    "Serene",
+    "Star",
+    "Tranquil",
+    "Willow",
+    "Zen",
+    "Coco",
+    "Breezy",
+    "Sunset",
+    "Sunrise",
+    "Moonlit"
+  ],
+  "suffixes": [
+    " Isle",
+    " Bay",
+    " Cove",
+    " Shores",
+    " Haven",
+    " Glade",
+    " Valley",
+    " Peak",
+    " Falls",
+    " Ridge",
+    " Atoll",
+    " Lagoon",
+    " Oasis",
+    " Paradise",
+    " Village",
+    " Town",
+    " City",
+    " Land",
+    " Utopia",
+    " Key"
+  ]
+}

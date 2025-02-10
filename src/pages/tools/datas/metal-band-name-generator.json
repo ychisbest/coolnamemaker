@@ -1,0 +1,84 @@
+{
+  "name": "Metal Band Name Generator",
+  "description": "Struggling to find the perfect, skull-crushing name for your metal band? Look no further! This generator will unleash a torrent of brutal band names that will make the earth tremble.",
+  "slug": "metal-band-name-generator",
+  "icon": "\ud83e\udd18",
+  "introduction": "So, you've got the riffs, you've got the growls, but you're missing that crucial piece: a name that screams metal! Our Metal Band Name Generator is here to help you forge a moniker worthy of the gods of rock. Get ready to unleash sonic mayhem with a name that's as epic as your music.",
+  "howToUse": [
+    "Click the 'Generate' button. It's that simple! (We know you're metalheads, not rocket scientists).",
+    "Keep clicking until you find a name that makes your inner demon scream with delight.",
+    "Write it down! (Unless you have a photographic memory forged in the fires of Mount Doom).",
+    "Practice saying it aloud. Does it sound evil enough? Good.",
+    "Go forth and conquer the world, one headbang at a time!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Yes, absolutely free! We believe that every aspiring metal band deserves a killer name, regardless of their budget (which is probably spent on beer and distortion pedals anyway)."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You bet! Once you find a name you love, it's yours to use for your band, your albums, your merchandise, your world domination plans... whatever your metal heart desires."
+    },
+    {
+      "question": "Will these names make me instantly famous?",
+      "answer": "While we can't guarantee instant fame, a killer name is definitely a step in the right direction. It's like having a battle axe instead of a butter knife \u2013 you're much more likely to conquer your foes (or at least get noticed at the local dive bar)."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! The generator has countless combinations, so you're bound to find something that resonates with your inner metal god. And hey, sometimes the worst names are the best ones... think 'Cannibal Corpse'."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added to the generator?",
+      "answer": "Absolutely! We're always looking for ways to make the generator even more metal. Send your suggestions our way, and we'll see if they're worthy of inclusion in our dark lexicon of band name awesomeness."
+    },
+    {
+      "question": "Is this generator suitable for other genres besides metal?",
+      "answer": "While it's designed for metal, feel free to experiment! You might find a name that works for your doom jazz fusion project or your polka-death metal band. The possibilities are endless (and potentially terrifying)."
+    }
+  ],
+  "prefixes": [
+    "Iron",
+    "Blood",
+    "Death",
+    "Shadow",
+    "Crimson",
+    "Black",
+    "Frozen",
+    "Eternal",
+    "Silent",
+    "Raging",
+    "Unholy",
+    "Serpent",
+    "Skull",
+    "Grave",
+    "Dark",
+    "Storm",
+    "Hell",
+    "Chaos",
+    "Night",
+    "Doom"
+  ],
+  "suffixes": [
+    "Hammer",
+    "Fist",
+    "Blade",
+    "Legion",
+    "Cult",
+    "Ritual",
+    "Empire",
+    "Reign",
+    "Throne",
+    "Guardians",
+    "Wrath",
+    "Serpent",
+    "Skull",
+    "Grave",
+    "Storm",
+    "Hell",
+    "Chaos",
+    "Curse",
+    "Lord",
+    "Slayer"
+  ]
+}

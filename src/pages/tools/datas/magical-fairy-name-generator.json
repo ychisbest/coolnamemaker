@@ -1,0 +1,83 @@
+{
+  "name": "Magical Fairy Name Generator",
+  "description": "Unleash your inner enchantress with our Magical Fairy Name Generator! Discover whimsical, ethereal, and utterly captivating names fit for a fairy queen or a mischievous sprite. \u2728",
+  "slug": "magical-fairy-name-generator",
+  "icon": "\ud83e\uddda",
+  "introduction": "Ever dreamed of flitting through moonlit glades with a name that whispers of magic and wonder? Our generator is your personal fairy godmother, ready to conjure up the perfect moniker that embodies your fairy spirit. Whether you're writing a fantasy novel, creating a role-playing character, or simply seeking a touch of enchantment in your life, we've got you covered. Prepare to be amazed by the sheer variety of beautiful and unique fairy names that await!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new, dazzling fairy name will appear before your very eyes.",
+    "Not quite feeling the magic? No problem! Click again and again until a name resonates with your soul. We promise, the perfect one is out there, fluttering just for you.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a name that's uniquely yours. It's like building your own spell, but with words!",
+    "Share your newfound fairy name with the world! Post it on social media, use it in your creative writing, or simply whisper it to the trees. Let the magic spread!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "Our generator crafts names inspired by nature, mythology, folklore, and pure imagination! Expect to find names that sound whimsical, ethereal, and utterly enchanting."
+    },
+    {
+      "question": "Can I use these names for my fantasy characters?",
+      "answer": "Absolutely! These names are perfect for fantasy novels, role-playing games, and any other creative project where you need a touch of fairy magic."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes, the names are generated randomly using a combination of prefixes and suffixes. This ensures a wide variety of unique and unexpected results."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your suggestions! Feel free to contact us through our website with your ideas. We're always looking for ways to expand our magical vocabulary."
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart desires. The more you click, the more magic you'll discover!"
+    },
+    {
+      "question": "Can I use these names for my pet?",
+      "answer": "Of course! Give your furry friend a magical fairy name. Imagine calling 'Glimmerwing' or 'Moonwhisper' \u2013 pure enchantment!"
+    }
+  ],
+  "prefixes": [
+    "Glimmer",
+    "Moon",
+    "Star",
+    "Willow",
+    "Fae",
+    "Briar",
+    "Rose",
+    "Silver",
+    "Aqua",
+    "Sun",
+    "Night",
+    "Dawn",
+    "Sky",
+    "Ember",
+    "Shadow",
+    "Crystal",
+    "Dream",
+    "Whisper",
+    "Dew",
+    "Lily"
+  ],
+  "suffixes": [
+    "wing",
+    "bloom",
+    "shade",
+    "light",
+    "whisper",
+    "song",
+    "dew",
+    "shine",
+    "petal",
+    "mist",
+    "gaze",
+    "flare",
+    "stream",
+    "leaf",
+    "bell",
+    "flower",
+    "breeze",
+    "thorn",
+    "dance",
+    "glow"
+  ]
+}

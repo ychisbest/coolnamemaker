@@ -1,0 +1,76 @@
+{
+  "name": "Wu-Tang Clan Name Generator",
+  "description": "Yo! Enter the 36 Chambers of Name Generation! Find your inner RZA, GZA, or Inspectah Deck with this ridiculously cool Wu-Tang Clan name generator. Protect ya neck...and your new moniker!",
+  "slug": "wu-tang-clan-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Straight outta Shaolin! Ever wondered what your Wu-Tang Clan name would be? Look no further, young grasshopper! This generator will forge you a name worthy of battling Ghostface Killah himself. Get ready to drop some knowledge bombs with your new identity.",
+  "howToUse": [
+    "Simply click the 'Generate' button. Like, duh!",
+    "Behold! Your destiny unfolds in a flurry of lyrical genius.",
+    "Don't like the name? Hit 'Generate' again! We got more rhymes than a dictionary.",
+    "Share your ridiculously awesome Wu-Tang name with your crew. Bragging rights are mandatory.",
+    "Go forth and conquer the world...or at least your local karaoke night."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually affiliated with the Wu-Tang Clan?",
+      "answer": "Nah, fam. This is purely for fun. But hey, maybe RZA will see it and give us a shout-out. A man can dream, right?"
+    },
+    {
+      "question": "Can I use my Wu-Tang Clan name for official business?",
+      "answer": "We wouldn't recommend filing your taxes as 'Mystic Ruler of the Interwebs'. But for online gaming or creative projects? Go wild!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! The universe is vast and full of Wu-Tang potential. Eventually, you'll find the perfect fit."
+    },
+    {
+      "question": "Will this generator help me become a better rapper?",
+      "answer": "While we can't guarantee mad skills, a dope name is definitely a good starting point. Practice your flow and remember: C.R.E.A.M.!"
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate until your heart's content. We're here to fuel your Wu-Tang fantasies... one name at a time."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "Absolutely! Hit us up with your ideas. We're always looking for ways to expand the Wu-Tang universe."
+    }
+  ],
+  "prefixes": [
+    "Mystic",
+    "Shadow",
+    "Iron",
+    "Silent",
+    "Ghost",
+    "Crimson",
+    "Golden",
+    "Jade",
+    "Mad",
+    "Reckless",
+    "Shaolin",
+    "Drunken",
+    "Flying",
+    "Venomous",
+    "Ancient",
+    "Eternal"
+  ],
+  "suffixes": [
+    "Fist",
+    "Hand",
+    "Master",
+    "Ruler",
+    "Assassin",
+    "Samurai",
+    "Monk",
+    "Warrior",
+    "Blade",
+    "Specter",
+    "Prophet",
+    "Enigma",
+    "Ronin",
+    "Dragon",
+    "Phoenix",
+    "Tiger"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Striper Name Generator",
+  "description": "Ready to unleash your inner zebra? This Striper Name Generator will conjure up the perfect moniker, whether you're launching a daring new startup, creating a wild character, or just want a name that screams 'bold stripes!'",
+  "slug": "striper-name-generator",
+  "icon": "\ud83e\udd93",
+  "introduction": "Tired of the same old boring names? Step into a world of captivating stripes and unforgettable identities! Our Striper Name Generator is your gateway to a realm of creative possibilities. From edgy and modern to classic and cool, we've got the stripes to suit your style.",
+  "howToUse": [
+    "Hold on to your hat, because this is rocket science... NOT! Just hit that 'Generate' button and BAM! A striper name appears before your very eyes.",
+    "Don't like what you see? No sweat! Click again for endless stripy possibilities. We're like a never-ending roll of striped fabric, but with names.",
+    "Found the *one*? Copy that name and flaunt it! Use it for your band, your blog, your pet... the world is your stripy oyster."
+  ],
+  "faqs": [
+    {
+      "question": "Is this thing actually free?",
+      "answer": "Absolutely! We're all about spreading the stripy love. Use the Striper Name Generator as much as your heart desires, completely free of charge."
+    },
+    {
+      "question": "Can I use the names generated for commercial purposes?",
+      "answer": "You bet! Once a name is generated, it's yours to use as you see fit. Launch that business, write that book, name that fish... go wild!"
+    },
+    {
+      "question": "How does the generator actually *work*?",
+      "answer": "Magic! Okay, not really. It uses a carefully curated list of prefixes and suffixes, combined with a dash of algorithmic wizardry, to create unique and captivating names. Think of it as a stripy name-making machine."
+    },
+    {
+      "question": "Will the names be actually *good*?",
+      "answer": "We think so! We've put a lot of effort into making sure the names are catchy, memorable, and, of course, stripy. But ultimately, 'good' is in the eye of the beholder. If you don't like a name, just generate another one!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form. We're always looking for ways to improve the Striper Name Generator and make it even more awesome."
+    },
+    {
+      "question": "Are the generated names trademarked?",
+      "answer": "We have no way of knowing if the generated names are trademarked. It is your responsibility to check if a generated name is trademarked before using it for commercial purposes."
+    }
+  ],
+  "prefixes": [
+    "Striped",
+    "Zebra",
+    "Tiger",
+    "Banded",
+    "Linear",
+    "Parallel",
+    "Cross",
+    "Stripe",
+    "Uni",
+    "Multi",
+    "Astro",
+    "Cyber",
+    "Crimson",
+    "Azure",
+    "Veridian",
+    "Golden",
+    "Silver",
+    "Iron",
+    "Neon",
+    "Electro"
+  ],
+  "suffixes": [
+    "Line",
+    "Band",
+    "Pattern",
+    "Effect",
+    "Vision",
+    "Force",
+    "Tech",
+    "Stride",
+    "Motion",
+    "Flow",
+    "Wave",
+    "Mark",
+    "Art",
+    "Design",
+    "Style",
+    "Code",
+    "Matrix",
+    "System",
+    "Pulse",
+    "Drive"
+  ]
+}

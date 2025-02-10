@@ -1,0 +1,83 @@
+{
+  "name": "Steam Name Generator",
+  "description": "Stuck in naming purgatory? Unleash your inner gamer god with our Steam Name Generator! Craft a name that's as legendary as your kill streaks. Get ready to dominate the leaderboard with a moniker that screams 'pro' (even if you're still learning to bunny hop).",
+  "slug": "steam-name-generator",
+  "icon": "\ud83c\udfae",
+  "introduction": "Finding the perfect Steam name can be harder than beating the final boss. It needs to be catchy, memorable, and, most importantly, available! Our Steam Name Generator is here to save the day, offering a treasure trove of cool, quirky, and downright awesome names that'll make you stand out in the digital arena. Prepare for friend requests galore!",
+  "howToUse": [
+    "Feeling uninspired? No sweat! Just hit that 'Generate' button and watch the magic happen.",
+    "Don't like what you see? Keep clicking! We've got a universe of names waiting to be discovered.",
+    "Found 'the one'? Copy that bad boy and paste it into your Steam profile. Boom! Instant gaming legend.",
+    "Want something truly unique? Tweak the generated names, add your own flair, and create a moniker that's 100% you."
+  ],
+  "faqs": [
+    {
+      "question": "Are the generated names actually available on Steam?",
+      "answer": "While we can't guarantee every single name is up for grabs (those pesky early adopters!), we generate a wide variety of options to increase your chances of finding a winner. Always check Steam to confirm availability."
+    },
+    {
+      "question": "Can I use these names for other platforms besides Steam?",
+      "answer": "Absolutely! These names are yours to command. Use them for any game, forum, or online identity you desire. Spread the coolness!"
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope, go crazy! Generate as many names as you need until you find the perfect one. We won't judge (much)."
+    },
+    {
+      "question": "The names are a bit\u2026weird. Can I get something more serious?",
+      "answer": "Our generator aims for creativity and memorability, but sometimes that means a little bit of the absurd. Keep generating \u2013 we're bound to hit on something that suits your style. Or, tweak the suggestions to your liking!"
+    },
+    {
+      "question": "I found a name I love, but it's already taken. What do I do?",
+      "answer": "Don't despair! Try adding numbers, underscores, or slight variations to the name. Sometimes a little twist is all it takes to snag your dream moniker."
+    },
+    {
+      "question": "Do I need to credit coolnamemaker.com if I use a generated name?",
+      "answer": "While we appreciate the love, it's not required! Consider it our gift to the gaming community. But hey, if you're feeling generous, a shout-out is always welcome."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Night",
+    "Crimson",
+    "Steel",
+    "Cyber",
+    "Phantom",
+    "Mystic",
+    "Elite",
+    "Rogue",
+    "Silent",
+    "Apex",
+    "Cosmic",
+    "Inferno",
+    "Frost",
+    "Venom",
+    "Thunder",
+    "Omega",
+    "Spectre",
+    "Nova",
+    "Zenith"
+  ],
+  "suffixes": [
+    "Blade",
+    "Hunter",
+    "Striker",
+    "Gamer",
+    "Wolf",
+    "Knight",
+    "Lord",
+    "Master",
+    "Warrior",
+    "Slayer",
+    "King",
+    "Queen",
+    "Ace",
+    "Zero",
+    "X",
+    "God",
+    "Titan",
+    "Legend",
+    "Vanguard",
+    "Prime"
+  ]
+}

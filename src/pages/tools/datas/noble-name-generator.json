@@ -1,0 +1,83 @@
+{
+  "name": "Noble Name Generator",
+  "description": "Looking for a name that screams sophistication and elegance? Our Noble Name Generator crafts regal monikers fit for royalty (or at least, a really fancy dinner party). Unleash your inner aristocrat!",
+  "slug": "noble-name-generator",
+  "icon": "\ud83d\udc51",
+  "introduction": "Tired of the same old boring names? Yearning for a touch of class and distinction? You've come to the right place! This generator blends classic influences with modern flair to conjure up names that are both timeless and totally you (or whoever you're naming, no judgment). Prepare to be knighted... with an awesome name!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A noble name will appear before your very eyes.",
+    "Don't like what you see? Click again! We've got more noble names than King Arthur had knights (probably).",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own unique brand of nobility. Just don't blame us if your name is too awesome for words.",
+    "Share your newly acquired noble name with the world! (Or just your cat. We won't tell.)"
+  ],
+  "faqs": [
+    {
+      "question": "What makes a name 'noble'?",
+      "answer": "Good question! We've curated prefixes and suffixes that evoke feelings of prestige, honor, and, well, nobility! Think of words associated with royalty, bravery, and wisdom."
+    },
+    {
+      "question": "Can I use these names for my pet?",
+      "answer": "Absolutely! In fact, we encourage it. Imagine calling your hamster 'Sir Reginald Fluffington the Third.' Pure class."
+    },
+    {
+      "question": "Are these names copyrighted?",
+      "answer": "Nope! They're freshly generated, just for you. Feel free to use them for your book characters, game avatars, or even your next business venture (Noble Noodles, anyone?)."
+    },
+    {
+      "question": "Will using a noble name automatically make me rich and powerful?",
+      "answer": "While we can't guarantee riches and power, a great name is a great start! Confidence is key, and a noble name is sure to boost your self-esteem. Think of it as a self-esteem upgrade with a side of aristocracy."
+    },
+    {
+      "question": "I generated a name I really like! What should I do with it?",
+      "answer": "Embrace it! Own it! Tell everyone you meet! Or, you know, just quietly enjoy your awesome new name. The choice is yours, your Grace."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to add to the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form. We're always looking for ways to expand our collection of noble nomenclature."
+    }
+  ],
+  "prefixes": [
+    "Lord",
+    "Lady",
+    "Sir",
+    "Dame",
+    "Duke",
+    "Duchess",
+    "Prince",
+    "Princess",
+    "Earl",
+    "Count",
+    "Baron",
+    "Baroness",
+    "Royal",
+    "Noble",
+    "Grand",
+    "Worthy",
+    "Valiant",
+    "Illustrious",
+    "Honorable",
+    "Regal"
+  ],
+  "suffixes": [
+    "worth",
+    "ton",
+    "ville",
+    "shire",
+    "ford",
+    "crest",
+    "field",
+    "wood",
+    "stone",
+    "brook",
+    "ley",
+    "dale",
+    "mere",
+    "hall",
+    "court",
+    "castle",
+    "guard",
+    "blade",
+    "shield",
+    "helm"
+  ]
+}

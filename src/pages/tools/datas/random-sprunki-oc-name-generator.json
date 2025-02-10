@@ -1,0 +1,83 @@
+{
+  "name": "Random Sprunki OC Name Generator",
+  "description": "Stuck in a creative rut? Need a name that's as unique and quirky as your Sprunki Original Character? Look no further! Our generator will churn out names so cool, they'll make even the Sprunki gods jealous.",
+  "slug": "random-sprunki-oc-name-generator",
+  "icon": "\u2728",
+  "introduction": "Welcome, fellow Sprunki enthusiast! Prepare to unleash a torrent of awesomely random names perfect for your next OC masterpiece. Forget those boring, predictable names \u2013 we're diving headfirst into a pool of pure, unadulterated Sprunki-ness!",
+  "howToUse": [
+    "Ready to roll? Just smash that 'Generate' button like you're trying to win a Sprunki naming contest (because you are, in spirit!).",
+    "Don't like the first result? No problem! Keep hitting that button until you find a name that makes your Sprunki heart sing.",
+    "Found the perfect name? Awesome! Now go forth and create an OC worthy of its epic title. Don't forget to credit us for the inspiration \u2013 we thrive on Sprunki love!",
+    "Feeling adventurous? Mix and match prefixes and suffixes for ultimate Sprunki name customization!"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly is a 'Sprunki'?",
+      "answer": "Ah, the million-dollar question! A Sprunki is whatever your imagination conjures it to be! Think whimsical creatures, interdimensional beings, or even just really cool rocks with personalities. The Sprunki universe is yours to define!"
+    },
+    {
+      "question": "Are these names actually *random*?",
+      "answer": "Yep! We've carefully curated a list of prefixes and suffixes that sound appropriately Sprunki-ish, then thrown them into a blender of randomness. The results are gloriously unpredictable."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Definitely! We encourage you to tweak and personalize the names to perfectly fit your OC's unique vibe. Add a middle name, change a letter, the Sprunki world is your oyster!"
+    },
+    {
+      "question": "Will this generator steal my Sprunki OC ideas?",
+      "answer": "Of course! Sharing is caring in the Sprunki community. Just give us a little shout-out \u2013 we love seeing what amazing creations our generator inspires!"
+    },
+    {
+      "question": "I got a really weird name... is that normal?",
+      "answer": "Yes! That's the beauty of randomness! Sometimes you get gold, sometimes you get... well, something else. Keep generating until you find the perfect fit!"
+    },
+    {
+      "question": "Can I contribute prefixes and suffixes to the generator?",
+      "answer": "We'd love that! Send your suggestions our way! If they're suitably Sprunki-esque, we might just add them to the mix (with credit, of course!)."
+    }
+  ],
+  "prefixes": [
+    "Glimmer",
+    "Floof",
+    "Sparkle",
+    "Zoom",
+    "Whimsy",
+    "Chrono",
+    "Echo",
+    "Nebula",
+    "Quirk",
+    "Doodle",
+    "Snuggle",
+    "Jelly",
+    "Bumble",
+    "Cosmo",
+    "Fuzzy",
+    "Giggle",
+    "Wobble",
+    "Zizzle",
+    "Gloo",
+    "Sprocket"
+  ],
+  "suffixes": [
+    "puff",
+    "berry",
+    "noodle",
+    "tron",
+    "spark",
+    "bloom",
+    "bug",
+    "fluff",
+    "wisp",
+    "doodle",
+    "shine",
+    "pop",
+    "blip",
+    "nova",
+    "fuzz",
+    "giggles",
+    "wobbles",
+    "zizzle",
+    "gloo",
+    "sprocket"
+  ]
+}

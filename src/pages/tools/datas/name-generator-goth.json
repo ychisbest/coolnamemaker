@@ -1,0 +1,77 @@
+{
+  "name": "Goth Name Generator",
+  "description": "Unleash your inner darkness and conjure the perfect Goth name! Whether you're writing a brooding poem, creating a mysterious character, or just embracing your shadowy side, our generator will help you find a name that's as captivating as it is chilling. Let's get gloom-tastic!",
+  "slug": "name-generator-goth",
+  "icon": "\ud83e\udd87",
+  "introduction": "Dive into the depths of darkness with our Goth Name Generator! Craft names that echo with the whispers of ancient crypts, the romance of moonlit graveyards, and the allure of the unknown. Perfect for authors, role-players, and anyone who loves a touch of the macabre. Get ready to embrace the shadows and find a name that truly resonates with your soul.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the birth of a brand new, deliciously dark Goth name!",
+    "Not feeling the first creation? No worries! Click again and summon another name from the depths.",
+    "Want something truly unique? Mix and match prefixes and suffixes to forge a name that's uniquely yours. Go wild, darling!",
+    "Found the perfect name? Copy it and unleash it upon the world! Let your new identity seep into the shadows."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names can I generate?",
+      "answer": "Our generator conjures names inspired by gothic literature, dark romanticism, and all things delightfully spooky. Think mysterious, elegant, and a little bit haunting."
+    },
+    {
+      "question": "Can I use these names for my book characters?",
+      "answer": "Absolutely! These names are perfect for adding depth and intrigue to your gothic novels, short stories, or any creative writing project. Go forth and write!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "While the combinations are random, the prefixes and suffixes are carefully curated to evoke a gothic feel. We've put in the eerie effort, so you don't have to!"
+    },
+    {
+      "question": "Can I combine prefixes and suffixes myself?",
+      "answer": "Of course! Feel free to experiment and create your own unique combinations. The more creative, the better! Unleash your inner alchemist of names."
+    },
+    {
+      "question": "Is this generator really free?",
+      "answer": "Yes, absolutely! Embrace the darkness without spending a dime. We're here to fuel your gothic creativity, free of charge."
+    },
+    {
+      "question": "Can I use these names for my band?",
+      "answer": "Definitely! A cool band name can make you stand out, use it!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Crimson",
+    "Night",
+    "Raven",
+    "Obsidian",
+    "Seraphina",
+    "Mortimer",
+    "Lilith",
+    "Vlad",
+    "Whisper",
+    "Silent",
+    "Eternal",
+    "Dusk",
+    "Phantom",
+    "Gloom",
+    "Melancholy",
+    "Onyx"
+  ],
+  "suffixes": [
+    "bane",
+    "wood",
+    "shade",
+    "heart",
+    "song",
+    "veil",
+    "thorn",
+    "grave",
+    "more",
+    "wind",
+    "moon",
+    "blood",
+    "night",
+    "whisper",
+    "cry",
+    "shadows",
+    "black"
+  ]
+}

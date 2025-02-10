@@ -1,0 +1,73 @@
+{
+  "name": "Adult Pirate Name Generator",
+  "description": "Ahoy there, matey! Ready to shiver some timbers and plunder the seven seas? But first, ye need a proper pirate name. This generator will give you a name that'll make even Blackbeard tremble in his boots. (Results may vary if Blackbeard is already trembling from scurvy.)",
+  "slug": "adult-pirate-name-generator",
+  "icon": "\ud83c\udff4\u200d\u2620\ufe0f",
+  "introduction": "Forget 'Captain Jack Sparrow' \u2013 those are rookie numbers! We're talkin' names that reek of rum, gunpowder, and questionable hygiene. Get ready to embrace your inner scallywag with a pirate name that's as unique and fearsome as you are. Just don't blame us if parrots start following you around.",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the awesomeness of your new pirate identity. Seriously, soak it in.",
+    "Repeat until you find a name that makes you want to shout 'Arrr!' or at least raise a glass of grog.",
+    "Go forth and terrorize the high seas (or at least your local pub). We are not responsible for any resulting mayhem. You've been warned!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really only for adults?",
+      "answer": "Well, the names are designed to be a bit more\u2026 robust. Let's just say some might involve rum-soaked adventures and the occasional kraken encounter. Parental discretion advised!"
+    },
+    {
+      "question": "Can I use this name for official pirate business?",
+      "answer": "Absolutely! As long as your 'official pirate business' involves things like costume parties, role-playing games, or writing incredibly silly fan fiction. We don't endorse actual piracy. Plundering is bad, m'kay?"
+    },
+    {
+      "question": "What if I don't like the name I get?",
+      "answer": "Keep hitting that 'Generate' button! The sea is vast, and so is the potential for pirate names. Eventually, you'll find one that fits like a well-worn eye patch."
+    },
+    {
+      "question": "Will this generator help me find buried treasure?",
+      "answer": "Sadly, no. This generator is purely for entertainment purposes. But hey, a cool pirate name might increase your chances of convincing someone *else* to help you look for treasure!"
+    },
+    {
+      "question": "Are the names historically accurate?",
+      "answer": "Loosely. We've taken some liberties for the sake of fun. Think of it as 'historically inspired' rather than a meticulously researched historical document. If you want accuracy, go read a book. If you want a hilarious pirate name, you're in the right place."
+    },
+    {
+      "question": "Can I suggest names for the generator?",
+      "answer": "Arrr, of course ye can! Send yer suggestions to the depths of our email inbox. We'll consider 'em... after we finish our grog. But seriously, we appreciate the input!"
+    }
+  ],
+  "prefixes": [
+    "Bloody",
+    "One-Eyed",
+    "Ruthless",
+    "Dread",
+    "Captain",
+    "Crazy",
+    "Salty",
+    "Barnacle",
+    "Storm",
+    "Whiskey",
+    "Blackheart",
+    "Redbeard",
+    "Scarface",
+    "Pegleg",
+    "Cutthroat"
+  ],
+  "suffixes": [
+    "Jack",
+    "Pete",
+    "Jones",
+    "McGraw",
+    "O'Malley",
+    "Roberts",
+    "Morgan",
+    "Black",
+    "Silver",
+    "The Terrible",
+    "The Vicious",
+    "The Grim",
+    "The Wicked",
+    "The Cursed",
+    "The Unforgiving"
+  ]
+}

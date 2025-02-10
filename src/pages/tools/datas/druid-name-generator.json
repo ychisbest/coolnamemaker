@@ -1,0 +1,83 @@
+{
+  "name": "Druid Name Generator",
+  "description": "Unleash your inner nature-loving mystic with our Druid Name Generator! Find the perfect moniker that resonates with ancient forests, hidden glades, and the raw power of the earth. Perfect for your RPG character, your next creative project, or just for fun!",
+  "slug": "druid-name-generator",
+  "icon": "\ud83c\udf33",
+  "introduction": "Feeling a connection to the whispering winds and the ancient trees?  Our Druid Name Generator will conjure up names that evoke the spirit of the wild.  Whether you're channeling the power of the elements or communing with woodland creatures, we've got the perfect name to match your mystical vibe.",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! We'll weave together prefixes and suffixes inspired by nature, mythology, and a touch of druidic lore.",
+    "Not feeling the first result? Keep clicking! We've got a whole forest of names waiting to be discovered.",
+    "Want something truly unique? Mix and match prefixes and suffixes from different generations to create a name that's all your own. Go wild!",
+    "Share your awesome new druid name with your friends and fellow adventurers. Let them marvel at your newfound connection to the natural world."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "Our generator crafts names inspired by Celtic mythology, nature, and ancient druidic traditions. Expect names that sound mystical, wise, and deeply connected to the earth."
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! These names are perfect for your Druid, Ranger, or any other character who feels a kinship with nature. Use them to add depth and authenticity to your roleplaying experience."
+    },
+    {
+      "question": "Are the names historically accurate?",
+      "answer": "While inspired by history and mythology, these names are primarily designed for creative purposes. They're meant to evoke a feeling rather than be strictly historically accurate. Think of them as a starting point for your own imagination!"
+    },
+    {
+      "question": "Can I use these names for my pet?",
+      "answer": "Of course! If your furry, scaly, or feathered friend has a connection to the wild, a druid name might be the perfect fit. Imagine calling your cat 'Willowwhisper' or your dog 'Stonebark'!"
+    },
+    {
+      "question": "Is the generator free to use?",
+      "answer": "Yes! Our Druid Name Generator is completely free to use. Generate as many names as your heart desires, and share the magic with everyone you know."
+    },
+    {
+      "question": "How often are new names added?",
+      "answer": "We're constantly working to expand our database of prefixes and suffixes. Check back regularly for new and exciting name combinations!"
+    }
+  ],
+  "prefixes": [
+    "Elder",
+    "Whisper",
+    "Stone",
+    "Willow",
+    "Oak",
+    "Briar",
+    "Moon",
+    "Sun",
+    "Leaf",
+    "Stream",
+    "Shadow",
+    "Glimmer",
+    "Ember",
+    "Frost",
+    "Wild",
+    "Green",
+    "Earth",
+    "Sky",
+    "Wind",
+    "River"
+  ],
+  "suffixes": [
+    "wood",
+    "leaf",
+    "bark",
+    "stream",
+    "song",
+    "whisper",
+    "stone",
+    "shade",
+    "bloom",
+    "grove",
+    "wind",
+    "walker",
+    "seer",
+    "binder",
+    "weaver",
+    "dancer",
+    "watcher",
+    "warden",
+    "heart",
+    "hand"
+  ]
+}

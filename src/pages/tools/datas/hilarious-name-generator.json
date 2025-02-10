@@ -1,0 +1,63 @@
+{
+  "name": "Hilarious Name Generator",
+  "description": "Struggling to come up with a name that's so funny, it'll make milk shoot out of your nose? Look no further! Our Hilarious Name Generator is here to bless you with a side-splitting moniker. Get ready to ROFL!",
+  "slug": "hilarious-name-generator",
+  "icon": "\ud83e\udd23",
+  "introduction": "Let's face it, some names are just...boring. But not today! Prepare to unleash your inner comedian with names so absurd and ridiculous, they're guaranteed to get a laugh. Whether you need a funny nickname for your friend, a silly stage name, or just want to brighten your day, this generator is your ticket to hilarity.",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's that easy! (We promise, no PhD in Comedy required.)",
+    "Keep clicking until you find a name that tickles your funny bone. Don't be shy, experiment!",
+    "Share your newfound hilarious name with the world (or at least your group chat). Prepare for the laughter to commence!",
+    "If you're feeling extra creative, mix and match prefixes and suffixes to create your own comedy masterpiece. Go wild!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually funny, or just trying to be?",
+      "answer": "We've packed it with so much silliness, it's practically overflowing! We can't guarantee you'll split your sides, but we're pretty confident you'll crack a smile (or ten)."
+    },
+    {
+      "question": "Can I use these names for professional purposes?",
+      "answer": "Well, that depends on your profession! If you're a clown, absolutely! If you're a heart surgeon...maybe not. Use your best judgment."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Mostly! We've curated a collection of funny words and phrases, and then let the algorithm do its wacky thing. There's a method to the madness...sort of."
+    },
+    {
+      "question": "Will I find a name that's offensive or inappropriate?",
+      "answer": "We strive for good, clean (ish) fun. While some names might be a little edgy, we've tried to avoid anything truly offensive. If you do stumble upon something you find inappropriate, please let us know!"
+    },
+    {
+      "question": "I generated a name so funny, I snorted my coffee. Are you responsible for cleaning my keyboard?",
+      "answer": "Unfortunately, no. But we'll gladly accept the credit for the laughter! Coffee-related keyboard casualties are a risk we're willing to take in the name of comedy."
+    },
+    {
+      "question": "Can I suggest new words or phrases to add to the generator?",
+      "answer": "Absolutely! We're always looking to expand our arsenal of hilarity. Send us your suggestions, and we'll see if they make the cut!"
+    }
+  ],
+  "prefixes": [
+    "Captain",
+    "Professor",
+    "Sir",
+    "Madame",
+    "The Great",
+    "Doctor",
+    "Supreme",
+    "Grand",
+    "Tiny",
+    "Mighty"
+  ],
+  "suffixes": [
+    "McNugget",
+    "Fluffernutter",
+    "Noodlemeister",
+    "Wigglebottom",
+    "Snugglepuff",
+    "Gigglesworth",
+    "Von Snickerdoodle",
+    "The Unpredictable",
+    "The Magnificent",
+    "The Hilarious"
+  ]
+}

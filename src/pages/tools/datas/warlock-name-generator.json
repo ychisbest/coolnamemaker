@@ -1,0 +1,93 @@
+{
+  "name": "Warlock Name Generator",
+  "description": "Unleash the arcane power within! Generate wickedly cool warlock names that will strike fear (or admiration) into the hearts of mortals. Perfect for your next D&D character, novel, or just for summoning the perfect username.",
+  "slug": "warlock-name-generator",
+  "icon": "\ud83d\udd2e",
+  "introduction": "Feeling the pull of the dark arts? Need a name that screams 'I bargain with otherworldly entities for power!'? Look no further! Our Warlock Name Generator will conjure up a plethora of names, from the subtly sinister to the outright diabolical. Prepare to embrace your inner sorcerer!",
+  "howToUse": [
+    "Simply click the 'Generate' button. (It's the one that doesn't require sacrificing a goat...this time.)",
+    "Behold! A brand new, deliciously dark warlock name appears before your very eyes.",
+    "Don't like it? Click again! We've got enough names to fuel a thousand pacts.",
+    "Copy your favorite name and unleash it upon the world. Remember, with great power comes great responsibility... to look incredibly cool while wielding it."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually magical?",
+      "answer": "While we can't *guarantee* it's imbued with actual arcane energy, we can assure you it's powered by algorithms and a healthy dose of dark fantasy inspiration. So, pretty close!"
+    },
+    {
+      "question": "Can I use these names for my Dungeons & Dragons character?",
+      "answer": "Absolutely! That's precisely what it's for (well, one of the things). Go forth and terrorize your DM with your perfectly crafted warlock persona."
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! They're all yours to use as you see fit. Unleash them upon your novels, games, or even your pet hamster (if you dare)."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Then you, my friend, are a tough customer! Just keep hitting that 'Generate' button. Eventually, the perfect name will materialize from the ether. Or, you know, adjust the prefixes and suffixes to your liking."
+    },
+    {
+      "question": "Will using these names summon actual demons?",
+      "answer": "We are not responsible for any accidental demonic summoning that may occur as a result of using this generator. Proceed with caution...and maybe have a banishing ritual handy, just in case. Also, tell them we said hi."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes?",
+      "answer": "We're always open to suggestions! Send us your most delightfully wicked ideas and we might just add them to the generator."
+    }
+  ],
+  "prefixes": [
+    "Malgor",
+    "Xarthos",
+    "Nyxara",
+    "Grimfang",
+    "Shadowclaw",
+    "Baelthorn",
+    "Morwind",
+    "Voidwalker",
+    "Soulrender",
+    "Nightshade",
+    "Ebonwhisper",
+    "Dreadmire",
+    "Cryptborn",
+    "Ashenheart",
+    "Obsidian",
+    "Serpent",
+    "Raven",
+    "Storm",
+    "Blood",
+    "Death",
+    "Whisper",
+    "Silent",
+    "Dark",
+    "Iron",
+    "Stone"
+  ],
+  "suffixes": [
+    "bane",
+    "shadow",
+    "grim",
+    "whisper",
+    "thorn",
+    "shade",
+    "walker",
+    "binder",
+    "weaver",
+    "caller",
+    "fiend",
+    "blood",
+    "heart",
+    "soul",
+    "night",
+    "storm",
+    "claw",
+    "fang",
+    "mire",
+    "born",
+    "bane",
+    "crypt",
+    "forge",
+    "stone",
+    "void"
+  ]
+}

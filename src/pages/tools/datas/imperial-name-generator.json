@@ -1,0 +1,85 @@
+{
+  "name": "Imperial Name Generator",
+  "description": "Ready to rule? Unleash your inner emperor (or empress!) with our Imperial Name Generator. Craft majestic, powerful names fit for royalty, conquerors, and all-around awesome individuals. Prepare to be enthroned!",
+  "slug": "imperial-name-generator",
+  "icon": "\ud83d\udc51",
+  "introduction": "Tired of the same old boring names? Yearning for a moniker that commands respect and echoes through the ages? You've stumbled upon the right place! Our Imperial Name Generator blends historical inspiration with a touch of fantasy to forge names that are truly... imperial. Whether you're naming a character, a company, or just looking for a cool nickname, prepare for greatness!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Marvel at the glorious, regal name that appears before your eyes. (Seriously, it's pretty cool.)",
+    "If you're not feeling the imperial vibe, click 'Generate' again! We've got a whole treasury of names waiting to be discovered.",
+    "Copy your favorite name and unleash it upon the world! (Responsibly, of course. No conquering, please.)",
+    "Share your awesome imperial name with your friends. Let them bask in your regal glory!",
+    "Pro Tip: Combine prefixes and suffixes manually for even *more* unique and powerful combinations!"
+  ],
+  "faqs": [
+    {
+      "question": "What makes a name 'imperial'?",
+      "answer": "We've carefully curated prefixes and suffixes that evoke a sense of power, history, and grandeur. Think emperors, empires, and all things majestic!"
+    },
+    {
+      "question": "Can I use these names for my book/game/business?",
+      "answer": "Absolutely! These names are yours to command. Use them as inspiration or adopt them outright. Just remember where you got them (wink, wink)!"
+    },
+    {
+      "question": "Are the names historically accurate?",
+      "answer": "While we draw inspiration from history, we also add a dash of fantasy. Some names might sound historically plausible, while others are pure imagination. It's all about the vibe!"
+    },
+    {
+      "question": "I don't like the generated names. What should I do?",
+      "answer": "Keep clicking 'Generate'! We have countless combinations. You can also mix and match prefixes and suffixes manually to create something truly unique."
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yes, entirely! Our Imperial Name Generator is a gift to the world (or at least, to those seeking awesome names). Enjoy!"
+    },
+    {
+      "question": "Can I suggest new prefixes and suffixes?",
+      "answer": "We'd love to hear your ideas! Contact us with your suggestions, and we might just add them to the generator."
+    }
+  ],
+  "prefixes": [
+    "Imperator",
+    "Augustus",
+    "Caesar",
+    "Empress",
+    "Regal",
+    "Royal",
+    "Crown",
+    "Throne",
+    "Dominion",
+    "Sovereign",
+    "Grand",
+    "Majestic",
+    "Celestial",
+    "Glorious",
+    "Supreme",
+    "Ever",
+    "Noble",
+    "Valiant",
+    "Illustrious",
+    "Serene"
+  ],
+  "suffixes": [
+    "Rex",
+    "Maximus",
+    "Aurelius",
+    "The Great",
+    "The Conqueror",
+    "The Wise",
+    "The Just",
+    "The Bold",
+    "The Magnificent",
+    "The Eternal",
+    "The Illustrious",
+    "The Unyielding",
+    "The Victorious",
+    "The Lionheart",
+    "The Dragonlord",
+    "The Phoenix",
+    "The Steadfast",
+    "The Benevolent",
+    "The Resplendent",
+    "The Guardian"
+  ]
+}

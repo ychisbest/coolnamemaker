@@ -1,0 +1,93 @@
+{
+  "name": "Fantasy Land Name Generator",
+  "description": "Struggling to name your epic fantasy realm? Fear not, adventurer! Our Fantasy Land Name Generator conjures up captivating names that will transport your readers (or players!) to breathtaking worlds. Unleash your creativity and discover the perfect moniker for your kingdom, continent, or hidden valley. No more generic 'Northlands' \u2013 prepare for 'Whispering Glades' and 'Dragon's Tooth Peaks'!",
+  "slug": "fantasy-land-name-generator",
+  "icon": "\ud83c\udff0",
+  "introduction": "Welcome, world-builder! Naming a fantasy land is a crucial first step in crafting a memorable experience. A great name evokes atmosphere, hints at history, and sets the stage for adventure. This generator blends classic fantasy tropes with a dash of the unexpected, ensuring your land stands out from the crowd. Get ready to forge legendary landscapes with names that resonate with power and mystery!",
+  "howToUse": [
+    "Click the 'Generate' button (it's the sparkly one!).",
+    "Behold! A brand new, totally awesome fantasy land name appears.",
+    "Don't like it? Click again! We've got an infinite supply of names just waiting to be discovered.",
+    "Found the perfect name? Copy it, paste it, and bask in the glory of your newly christened realm.",
+    "Pro Tip: Combine elements from different generated names for even more unique results. You're the architect of this world, after all!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names truly unique?",
+      "answer": "We strive to create unique combinations, but with infinite users, there might be rare overlaps. However, the sheer variety of prefixes and suffixes ensures a high degree of originality!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes (e.g., in a published book or game)?",
+      "answer": "Absolutely! These generated names are free for you to use in any way you see fit. Consider it a gift from the realm of creativity."
+    },
+    {
+      "question": "Will this generator help me create a backstory for my land?",
+      "answer": "While the generator focuses on names, a good name can certainly spark inspiration! Think about the meaning behind the name \u2013 what events might have led to its creation? Let your imagination run wild!"
+    },
+    {
+      "question": "The names are a bit... weird. Can I customize them?",
+      "answer": "Of course! This generator is a starting point, not the final word. Feel free to tweak, combine, or completely reimagine the generated names to perfectly suit your vision."
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart desires. We've got enough fantasy goodness to fuel a thousand worlds."
+    },
+    {
+      "question": "Can I suggest new prefixes and suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form on coolnamemaker.com. We're always looking for ways to expand the generator's capabilities."
+    }
+  ],
+  "prefixes": [
+    "Eldoria",
+    "Whispering",
+    "Shadowfen",
+    "Dragon's Tooth",
+    "Silverwood",
+    "Crimson",
+    "Sunken",
+    "Frozen",
+    "Emerald",
+    "Ironclad",
+    "Celestial",
+    "Mystic",
+    "Ancient",
+    "Forgotten",
+    "Shifting",
+    "Glimmering",
+    "Stormy",
+    "Silent",
+    "Verdant",
+    "Obsidian",
+    "Astral",
+    "Twilight",
+    "Ethereal",
+    "Haunted"
+  ],
+  "suffixes": [
+    "Glades",
+    "Peaks",
+    "Valley",
+    "Forest",
+    "Wastes",
+    "Mountains",
+    "Sea",
+    "Lands",
+    "Kingdom",
+    "Empire",
+    "Reach",
+    "Hold",
+    "Expanse",
+    "Domain",
+    "Realm",
+    "Sanctuary",
+    "Citadel",
+    "Depths",
+    "Labyrinth",
+    "Wilds",
+    "Gardens",
+    "Coast",
+    "Isles",
+    "Territory",
+    "Wastes"
+  ]
+}

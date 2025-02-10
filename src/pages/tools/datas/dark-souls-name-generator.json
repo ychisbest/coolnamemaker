@@ -1,0 +1,101 @@
+{
+  "name": "Dark Souls Name Generator",
+  "description": "Struggling to find a suitably grim and gritty name for your Dark Souls character? Fear not, weary traveler! This generator summons forth names worthy of the Ashen One, the Chosen Undead, and all those who dare to face the abyss. Prepare to die... with a killer name!",
+  "slug": "dark-souls-name-generator",
+  "icon": "\ud83d\udc80",
+  "introduction": "Welcome, unkindled one, to the Dark Souls Name Generator! In the bleak and unforgiving world of Lordran, a strong name is your first line of defense (well, maybe second, after a good shield). This generator crafts names steeped in the lore and atmosphere of Dark Souls, ensuring your character is ready to face Gwyn and all his horrors. No more generic 'Warrior' or 'Mage'! Embrace the darkness and forge a legend!",
+  "howToUse": [
+    "Behold! Simply click the 'Generate' button and a name, forged in the fires of the First Flame (or something equally dramatic), will appear!",
+    "Feeling indecisive? Keep clicking! There's no limit to the number of names you can conjure. We've got enough gloom to last an eternity.",
+    "Like a particular prefix or suffix? Note it down! You can mix and match your favorites to create a truly unique moniker.",
+    "Once you've found the perfect name, write it down (lest you forget in your frenzy of undead slaying) and prepare to face the challenges that await!",
+    "Remember, your name is your destiny... or at least, it's what the other players will see when they invade your world. Choose wisely!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator officially endorsed by FromSoftware?",
+      "answer": "While we'd love to say yes, alas, no. This is a fan-made creation, born from a love (and perhaps a slight obsession) with the Dark Souls universe. But we think it's pretty darn good!"
+    },
+    {
+      "question": "Can I use these names for other games or stories?",
+      "answer": "Absolutely! While tailored for Dark Souls, these names can be used for any fantasy setting that requires a touch of darkness and despair. Go forth and spread the gloom!"
+    },
+    {
+      "question": "How are the names generated?",
+      "answer": "We've compiled a vast collection of prefixes and suffixes inspired by the lore, characters, and locations of Dark Souls. The generator then combines these elements in a (hopefully) pleasing and evocative way."
+    },
+    {
+      "question": "Some of these names sound a bit... odd. Is that intentional?",
+      "answer": "Indeed! Dark Souls is known for its cryptic and often bizarre naming conventions. We've tried to capture that essence in our generator. Embrace the weirdness!"
+    },
+    {
+      "question": "I found a name I really like! Can I share it?",
+      "answer": "Of course! Spread the word! Let your friends and fellow undead bask in the glory of your perfectly crafted name. Sharing is caring... especially when it comes to surviving in Lordran."
+    },
+    {
+      "question": "Will you be adding more prefixes and suffixes in the future?",
+      "answer": "Potentially! We're always looking for ways to improve the generator and add more variety. Keep an eye out for updates!"
+    }
+  ],
+  "prefixes": [
+    "Abyssal",
+    "Ashen",
+    "Bloodstained",
+    "Crimson",
+    "Dark",
+    "Desolate",
+    "Ember",
+    "Forgotten",
+    "Gravelord",
+    "Hollow",
+    "Iron",
+    "Lost",
+    "Moonlight",
+    "Nameless",
+    "Obsidian",
+    "Pale",
+    "Ruined",
+    "Shadow",
+    "Sunless",
+    "Undead",
+    "Void",
+    "Wrathful",
+    "Ancient",
+    "Eternal",
+    "Silent",
+    "Stone",
+    "Cursed",
+    "Fallen"
+  ],
+  "suffixes": [
+    "of Astora",
+    "the Accursed",
+    "the Black Knight",
+    "the Chosen",
+    "of Carim",
+    "the Corrupted",
+    "the Damned",
+    "of Firelink",
+    "the Forlorn",
+    "of Izalith",
+    "the Mad",
+    "of Mirrah",
+    "the Nameless",
+    "the Profaned",
+    "of the Abyss",
+    "the Silent",
+    "of the Sun",
+    "the Undying",
+    "the Vile",
+    "the Wanderer",
+    "the Watcher",
+    "the Wicked",
+    "Slayer",
+    "Seeker",
+    "Knight",
+    "Lord",
+    "Saint",
+    "Phantom",
+    "Soul"
+  ]
+}

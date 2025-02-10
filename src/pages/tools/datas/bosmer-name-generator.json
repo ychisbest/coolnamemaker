@@ -1,0 +1,93 @@
+{
+  "name": "Bosmer Name Generator",
+  "description": "Unleash your inner Wood Elf with our Bosmer Name Generator! Craft the perfect moniker for your next Elder Scrolls adventure, whether you're a master archer, a cunning rogue, or a devoted worshipper of the Green Pact.",
+  "slug": "bosmer-name-generator",
+  "icon": "\ud83c\udff9",
+  "introduction": "So, you're ready to embrace the wild heart of Valenwood? Fantastic! But every Bosmer needs a name that resonates with the whispering trees and the ancient spirits. Our generator will help you forge a name that's both authentic and uniquely yours, perfect for role-playing, character creation, or just dreaming of Tamriel.",
+  "howToUse": [
+    "First, take a deep breath and channel your inner Bosmer. Feel the connection to the Green Pact... or just grab a cup of coffee, whatever works.",
+    "Click the 'Generate' button. We've woven together the essence of Bosmer naming conventions to create a symphony of possibilities.",
+    "Don't like the first result? No problem! Keep clicking until a name whispers to your soul (or at least sounds pretty darn cool).",
+    "Copy and paste your new Bosmer name into your character sheet, your fan fiction, or your next online game. The forest awaits!"
+  ],
+  "faqs": [
+    {
+      "question": "What are Bosmer names like?",
+      "answer": "Bosmer names often reflect their connection to nature and their unique culture. They can be melodic, earthy, and sometimes a little bit whimsical. Expect to see elements referencing the forest, animals, and the Green Pact."
+    },
+    {
+      "question": "Are Bosmer names gendered?",
+      "answer": "While there are some common trends, Bosmer naming conventions are fairly flexible. Our generator aims to provide a range of names suitable for any gender identity."
+    },
+    {
+      "question": "Can I use these names for role-playing?",
+      "answer": "Absolutely! That's precisely what they're for. Let your imagination run wild and craft a compelling backstory for your newly named Bosmer character."
+    },
+    {
+      "question": "Are these names lore-accurate?",
+      "answer": "We've done our best to research and incorporate elements of established Bosmer naming conventions from the Elder Scrolls lore. However, we've also added a dash of creativity to ensure a wide variety of unique names."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! The beauty of randomness is that you never know what gem might be lurking just around the corner. And feel free to mix and match elements from different names to create something truly special."
+    },
+    {
+      "question": "Can I use these names for other fantasy settings?",
+      "answer": "While designed with Bosmer in mind, many of these names could easily fit into other fantasy worlds with forest-dwelling, nature-loving races. Adapt and enjoy!"
+    }
+  ],
+  "prefixes": [
+    "Aerin",
+    "Faelar",
+    "Glar",
+    "Idrin",
+    "Lyria",
+    "Merien",
+    "Narial",
+    "Orien",
+    "Silvan",
+    "Talas",
+    "Vanis",
+    "Eryn",
+    "Cael",
+    "Riel",
+    "Aelor",
+    "Ilar",
+    "Myril",
+    "Sael",
+    "Valen",
+    "Tiril",
+    "Falin",
+    "Gael",
+    "Eamon",
+    "Irin",
+    "Lyrian"
+  ],
+  "suffixes": [
+    "ion",
+    "iel",
+    "dir",
+    "wyn",
+    "dor",
+    "iel",
+    "ian",
+    "nor",
+    "ril",
+    "wyn",
+    "dis",
+    "las",
+    "dil",
+    "iel",
+    "dar",
+    "wyn",
+    "dor",
+    "ian",
+    "nor",
+    "ril",
+    "dis",
+    "las",
+    "wyn",
+    "dil",
+    "iel"
+  ]
+}

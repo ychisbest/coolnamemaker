@@ -1,0 +1,82 @@
+{
+  "name": "Hobbit Name Generator",
+  "description": "Struggling to find the perfect name for your little hobbit character? Look no further, dear friend! Our Hobbit Name Generator is here to whisk you away to the Shire with names that are as cozy and charming as a second breakfast.",
+  "slug": "hobbit-name-generator",
+  "icon": "\ud83e\udddd",
+  "introduction": "Welcome, welcome, good folk! Are you crafting a tale worthy of Tolkien himself? Or perhaps just need a ridiculously delightful name for your next RPG character? Either way, our Hobbit Name Generator is your trusty guide to all things Shire-ly splendid. We've gathered the finest prefixes and suffixes this side of the Brandywine River, ensuring your hobbit name will be the talk of the Green Dragon Inn!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand-new hobbit name, fresh from the oven (or should we say, the Shire?).",
+    "Don't like what you see? Click again! We've got more names than there are mushrooms in Farmer Maggot's field.",
+    "Feeling adventurous? Mix and match prefixes and suffixes for a truly unique hobbit identity. Just don't blame us if you end up with something... unusual."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually hobbit-like?",
+      "answer": "Absolutely! We've studied Tolkien's works and consulted with Gandalf himself (okay, maybe not Gandalf, but we did our research!). These names are designed to evoke the spirit of the Shire."
+    },
+    {
+      "question": "Can I use these names for my book/game/pet hamster?",
+      "answer": "Of course! Feel free to use them for any purpose you desire. Just promise us you'll give your hamster extra pats if you name him Bilbo."
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "As free as the air in the Shire! Use it to your heart's content. We just ask that you spread the word and maybe offer us a second breakfast in return (figuratively speaking, of course... unless?)."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With countless combinations, you're bound to find a name that tickles your fancy. And hey, maybe you're just not meant to be a hobbit. Have you considered being an elf? We have a generator for that too!"
+    },
+    {
+      "question": "Will using this generator make me crave second breakfast?",
+      "answer": "Warning: May cause an insatiable desire for elevenses, luncheon, afternoon tea, dinner, and supper. Side effects may also include a sudden urge to live in a cozy hole in the ground."
+    },
+    {
+      "question": "Can I suggest names for the generator?",
+      "answer": "We'd love to hear your ideas! Send them our way. If we use them, we'll name a fictional hobbit after you (or your pet hamster)."
+    }
+  ],
+  "prefixes": [
+    "Bungo",
+    "Bilbo",
+    "Frodo",
+    "Samwise",
+    "Peregrin",
+    "Meriadoc",
+    "Lobelia",
+    "Otho",
+    "Daisy",
+    "Poppy",
+    "Hamfast",
+    "Rosie",
+    "Folco",
+    "Gerontius",
+    "Adalbert",
+    "Hilda",
+    "Everard",
+    "Angelica",
+    "Saradoc",
+    "Eglantine"
+  ],
+  "suffixes": [
+    "Baggins",
+    "Gamgee",
+    "Took",
+    "Brandybuck",
+    "Bolger",
+    "Proudfoot",
+    "Grubb",
+    "Roper",
+    "Smallburrow",
+    "Greenhill",
+    "Underhill",
+    "Cotton",
+    "Boffin",
+    "Chubb",
+    "Goodbody",
+    "Brockhouse",
+    "Hayward",
+    "Hornblower",
+    "Maggot",
+    "Noakes"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Wolf Name Generator",
+  "description": "Unleash your inner beast! Need a cool, wild, or downright intimidating wolf name? Our generator howls with awesome options. Perfect for characters, pets, or just embracing your lupine spirit!",
+  "slug": "wolf-name-generator",
+  "icon": "\ud83d\udc3a",
+  "introduction": "Ever felt a primal connection to the wild? Longed to run with the pack? Our Wolf Name Generator is your first step! Whether you're crafting a fantasy character, naming your new furry friend, or simply seeking a name that embodies strength and freedom, we've got a tail-wagging selection just for you. Get ready to discover a name that's both cool and untamed!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A random wolf name will appear.",
+    "Don't like the first one? No problem! Keep clicking until you find the name that makes you howl with delight.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft your own unique lupine moniker.",
+    "Bonus points: Use your new wolf name to conquer the world (or at least your next online game)!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names can I generate?",
+      "answer": "We offer a wide variety, from fierce and powerful names to mystical and enchanting ones. Think 'Shadowfang' or 'Moonwhisper' \u2013 the possibilities are endless!"
+    },
+    {
+      "question": "Can I use these names for my pet wolf?",
+      "answer": "While we don't recommend owning a real wolf (they're wild animals!), you can absolutely use these names for your dog, your online avatar, or any fictional wolf character you create."
+    },
+    {
+      "question": "Are the names truly random?",
+      "answer": "Yes! Our generator uses a sophisticated (okay, maybe not *that* sophisticated) algorithm to ensure each name is unique and unpredictable. Prepare to be surprised!"
+    },
+    {
+      "question": "I found a name I love! Can I save it?",
+      "answer": "Absolutely! Jot it down, screenshot it, tattoo it on your arm... whatever works for you! We're just happy to help you find the perfect name."
+    },
+    {
+      "question": "Is this generator suitable for all ages?",
+      "answer": "Yes! The names are generally suitable for all ages. However, parental guidance is always recommended, especially for younger users."
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love to hear your ideas! Send them our way, and we'll consider adding them to our ever-growing list of wolfy goodness."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Moon",
+    "Storm",
+    "Ice",
+    "Blood",
+    "Night",
+    "Silver",
+    "Iron",
+    "Stone",
+    "Dark",
+    "Swift",
+    "Silent",
+    "Frost",
+    "Wild",
+    "Red",
+    "White",
+    "Black",
+    "Great",
+    "Dire",
+    "Lone"
+  ],
+  "suffixes": [
+    "fang",
+    "claw",
+    "howl",
+    "runner",
+    "walker",
+    "hunter",
+    "spirit",
+    "eye",
+    "heart",
+    "shade",
+    "wind",
+    "song",
+    "whisper",
+    "bane",
+    "strike",
+    "guard",
+    "moon",
+    "sky",
+    "shadow",
+    "blood"
+  ]
+}

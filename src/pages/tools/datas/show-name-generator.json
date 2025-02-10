@@ -1,0 +1,114 @@
+{
+  "name": "Show Name Generator",
+  "description": "Struggling to find the perfect name for your next big show? Fear no more! Our Show Name Generator is here to spark your creativity and deliver a name that's as captivating as your content. Get ready to unveil a title that'll have audiences hooked before the curtain even rises!",
+  "slug": "show-name-generator",
+  "icon": "\ud83c\udfac",
+  "introduction": "Lights, camera, ACTION! But wait... what's the show called? That's where we come in. Whether you're producing a thrilling drama, a laugh-out-loud comedy, or a mind-bending sci-fi series, a killer name is crucial. Our Show Name Generator combines prefixes and suffixes to conjure up names that are bold, memorable, and perfectly suited for your masterpiece. Let's ditch the brainstorming and dive into a world of instant inspiration!",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's like flipping a switch on a creative supernova!",
+    "Keep clicking until you find a show name that makes you shout, 'That's the one!' (Or at least nod enthusiastically).",
+    "Feeling adventurous? Mix and match your favorite prefixes and suffixes for a truly unique creation.",
+    "Don't be afraid to tweak the generated names to perfectly match your show's vibe. A little polish goes a long way!",
+    "Share your favorite finds with your team and get ready to take the world by storm!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Show Name Generator is 100% free to use. Consider it our gift to the creative community."
+    },
+    {
+      "question": "Can I use the generated names for commercial projects?",
+      "answer": "You bet! Once you find a name you love, it's all yours to use for your shows, films, or any other creative endeavor. However, we always recommend checking for trademark conflicts before you finalize your choice."
+    },
+    {
+      "question": "How many show names can I generate?",
+      "answer": "As many as your heart desires! There's no limit to the number of names you can conjure up. Keep clicking until you strike gold!"
+    },
+    {
+      "question": "Will the names be unique?",
+      "answer": "While the generator uses a combination of prefixes and suffixes, there's a chance some names might sound similar to existing titles. We encourage you to do a quick search to ensure your chosen name stands out from the crowd."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Feel free to send us your suggestions through our contact form. We're always looking for ways to make the generator even better."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Don't fret! Creativity is a journey, not a destination. Use the generated names as a starting point and brainstorm around them. Sometimes, the best ideas come from unexpected places!"
+    }
+  ],
+  "prefixes": [
+    "Crimson",
+    "Shadow",
+    "Echoing",
+    "Mystic",
+    "Silent",
+    "Burning",
+    "Frozen",
+    "Electric",
+    "Galactic",
+    "Urban",
+    "Neon",
+    "Retro",
+    "Future",
+    "Ancient",
+    "Hidden",
+    "Broken",
+    "Twisted",
+    "Emerald",
+    "Sapphire",
+    "Golden",
+    "Silver",
+    "Iron",
+    "Steel",
+    "Stone",
+    "Glass",
+    "Paper",
+    "Code",
+    "Pixel",
+    "Quantum",
+    "Binary",
+    "Alpha",
+    "Omega",
+    "Starlight",
+    "Moonlight",
+    "Sunstone"
+  ],
+  "suffixes": [
+    "Chronicles",
+    "Odyssey",
+    "Legacy",
+    "Project",
+    "Files",
+    "Paradox",
+    "Saga",
+    "Syndrome",
+    "Effect",
+    "Theory",
+    "Protocol",
+    "Enigma",
+    "Rebellion",
+    "Empire",
+    "Frontier",
+    "Horizon",
+    "Voyage",
+    "Quest",
+    "Rhapsody",
+    "Symphony",
+    "Melody",
+    "Shadows",
+    "Secrets",
+    "Destiny",
+    "Rising",
+    "Falling",
+    "Awakening",
+    "Eclipse",
+    "Convergence",
+    "Division",
+    "Alliance",
+    "Prophecy",
+    "Sanctuary",
+    "Kingdom",
+    "Dynasty"
+  ]
+}

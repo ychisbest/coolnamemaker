@@ -1,0 +1,82 @@
+{
+  "name": "Dutch Name Generator",
+  "description": "Craving a touch of Dutch coolness? Our generator conjures up awesome Dutch-inspired names that are perfect for your next character, project, or even just for fun! Get ready to add a little 'gezelligheid' to your life!",
+  "slug": "dutch-name-generator",
+  "icon": "\ud83c\uddf3\ud83c\uddf1",
+  "introduction": "Ever wondered what it would be like to have a name that sounds like it belongs in a quaint Dutch village? Well, wonder no more! Our Dutch Name Generator is here to sprinkle some Netherlands magic into your life. Whether you're writing a novel, creating a game character, or just looking for a unique online handle, we've got you covered. Prepare for a whirlwind of 'frikandelbroodje' and windmills...in name form!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand-spanking-new Dutch-inspired name appears!",
+    "Don't like what you see? No worries! Just hit that button again for another dose of Dutch delight.",
+    "Found the perfect name? Awesome! Copy and paste it wherever your heart desires. Go forth and conquer, 'lekkerbek'!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "We're talking names that evoke the spirit of the Netherlands! Think classic Dutch first names combined with surnames that sound like they belong on a canal-side sign. Some might be real, some might be inspired \u2013 all are designed to sound authentically Dutch."
+    },
+    {
+      "question": "Are these real Dutch names?",
+      "answer": "Some are, some are inspired! We blend real Dutch names with creative twists to give you a range of options that capture the essence of Dutch nomenclature. We cannot guarantee that all the name are 100% real."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once you generate a name, it's yours to use as you see fit. Just be aware that we're not responsible for any trademark issues that might arise, so do your due diligence!"
+    },
+    {
+      "question": "Is the generator free to use?",
+      "answer": "You bet your 'stroopwafel' it is! Use it as much as you like, whenever you like. No hidden costs, no sneaky subscriptions, just pure Dutch name-generating goodness."
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're always looking for ways to improve and expand our name database! Expect occasional updates with new prefixes, suffixes, and name combinations to keep the Dutch inspiration flowing."
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love to hear from you! Send us your suggestions through our contact form. We can't promise we'll use them all, but we appreciate your input!"
+    }
+  ],
+  "prefixes": [
+    "Jan",
+    "Pieter",
+    "Hendrik",
+    "Willem",
+    "Cornelis",
+    "Gerrit",
+    "Dirk",
+    "Klaas",
+    "Arie",
+    "Leendert",
+    "Femke",
+    "Lieke",
+    "Sophie",
+    "Emma",
+    "Julia",
+    "Lotte",
+    "Eva",
+    "Anna",
+    "Tess",
+    "Noa"
+  ],
+  "suffixes": [
+    "de Vries",
+    "van Dijk",
+    "Jansen",
+    "de Jong",
+    "Bakker",
+    "Visser",
+    "Smit",
+    "Meijer",
+    "de Boer",
+    "Mulder",
+    "Bosch",
+    "Vos",
+    "Peters",
+    "de Groot",
+    "Prins",
+    "Willems",
+    "Dekker",
+    "Sanders",
+    "Everts",
+    "Wolters"
+  ]
+}

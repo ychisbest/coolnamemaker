@@ -1,0 +1,111 @@
+{
+  "name": "Game of Thrones Name Generator",
+  "description": "Winter is coming... and so is your epic Game of Thrones name! Forge your destiny in Westeros with a name worthy of a king, queen, or fearsome dragon rider.",
+  "slug": "game-of-thrones-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Tired of being just another face in the crowd? Yearning for the iron throne... or at least a cool title to go with it? Our Game of Thrones Name Generator is here to whisk you away to a land of dragons, direwolves, and delicious treachery. Get ready to unleash your inner Stark, Lannister, or Targaryen!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! Behold your brand-new, totally-not-made-up-but-totally-believable Game of Thrones moniker.",
+    "Feeling picky? Click it again! We've got more names than there are ravens in the Seven Kingdoms.",
+    "Want to share your awesome name with the world? Copy and paste that bad boy onto your social media and watch the envy roll in. #GameOfThrones #NameGenerator #WinterIsComing (For Your Cool Name)",
+    "Mix and match prefixes and suffixes to create something truly unique.  (But maybe avoid anything that sounds *too* much like Joffrey... just a suggestion.)",
+    "Use it to name your pets, D&D characters, or even your future children... if you're brave enough."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually endorsed by George R.R. Martin?",
+      "answer": "While we'd love to say yes, the truth is... probably not. But hey, our names are just as awesome (and less likely to get brutally murdered). "
+    },
+    {
+      "question": "Can I use these names for my Game of Thrones fan fiction?",
+      "answer": "Absolutely! Go forth and write the most epic tale Westeros has ever seen! Just promise to mention us in the acknowledgements. \ud83d\ude09"
+    },
+    {
+      "question": "Are the names generated based on actual Game of Thrones lore?",
+      "answer": "We've infused our generator with plenty of GoT-inspired prefixes and suffixes, drawing inspiration from character names, locations, and family histories. So, while not *officially* canon, they certainly *feel* like they belong!"
+    },
+    {
+      "question": "What if I don't like the name I get?",
+      "answer": "No worries! Just hit that 'Generate' button again. We've got a whole arsenal of names waiting to be unleashed. Keep clicking until you find the perfect fit!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You betcha! Use it to your heart's content. We just ask that you spread the word and tell your friends about the magic of our Game of Thrones Name Generator."
+    },
+    {
+      "question": "Will using a generated name increase my chances of becoming the King/Queen of the Seven Kingdoms?",
+      "answer": "While we can't guarantee you'll inherit the Iron Throne, having a killer name is definitely a step in the right direction. Confidence is key, my friend!"
+    }
+  ],
+  "prefixes": [
+    "Aegon",
+    "Daenerys",
+    "Jon",
+    "Sansa",
+    "Arya",
+    "Tyrion",
+    "Cersei",
+    "Jaime",
+    "Bran",
+    "Robb",
+    "Khal",
+    "Khaleesi",
+    "Lord",
+    "Lady",
+    "Ser",
+    "Maester",
+    "Grand",
+    "High",
+    "Winter",
+    "Storm",
+    "Dragon",
+    "Iron",
+    "Stone",
+    "Black",
+    "Red",
+    "White",
+    "North",
+    "South"
+  ],
+  "suffixes": [
+    "Stark",
+    "Lannister",
+    "Targaryen",
+    "Baratheon",
+    "Greyjoy",
+    "Tully",
+    "Arryn",
+    "Tyrell",
+    "Martell",
+    "Snow",
+    "Waters",
+    "Sand",
+    "Stone",
+    "Hill",
+    "Pyke",
+    "King",
+    "Queen",
+    "Slayer",
+    "Bringer",
+    "Guard",
+    "Hand",
+    "Wolf",
+    "Dragon",
+    "Lion",
+    "Rose",
+    "Sun",
+    "Fish",
+    "Eagle",
+    "of the North",
+    "of the South",
+    "of the Iron Islands",
+    "of King's Landing",
+    "of Winterfell",
+    "the Just",
+    "the Bold",
+    "the Wise",
+    "the Cruel",
+    "the Brave",
+    "the Mad"
+  ]
+}

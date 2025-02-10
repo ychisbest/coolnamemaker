@@ -1,0 +1,70 @@
+{
+  "name": "Vampire Name Generator",
+  "description": "Unleash your inner creature of the night! This generator crafts the perfect dark and mysterious vampire name, worthy of Transylvania's elite.",
+  "slug": "vampire-name-generator",
+  "icon": "\ud83e\udddb",
+  "introduction": "Ever wondered what you'd be called if you traded sunlight for eternal life? Our Vampire Name Generator plunges you into the shadowy world of fangs, castles, and timeless elegance. Whether you're writing a gothic novel, role-playing in a dark fantasy campaign, or just embracing your inner darkness, we've got the perfect moniker to make you the envy of every bloodsucker.",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Feast your eyes on the newly conjured vampire name.",
+    "If the name doesn't quite capture your immortal essence, hit 'Generate' again. We've got centuries of names to choose from!",
+    "Copy and paste your chosen name into your story, game, or secret vampire society application. (We won't tell.)",
+    "Practice your most alluring stare and prepare to rule the night!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names suitable for male and female vampires?",
+      "answer": "Absolutely! Our generator crafts names that are both elegant and powerful, fitting for any vampire, regardless of gender (or lack thereof, given their undead status)."
+    },
+    {
+      "question": "Can I use these names for my vampire character in a novel?",
+      "answer": "Of course! Consider them a gift from the darkness. Just be sure to credit coolnamemaker.com if you become a bestseller! (Kidding... mostly.)"
+    },
+    {
+      "question": "Will these names attract real vampires?",
+      "answer": "We can't guarantee anything, but a cool name is a great start! Stock up on garlic and silver, just in case. (And maybe a stylish coffin.)"
+    },
+    {
+      "question": "Are the generated names original?",
+      "answer": "While we draw inspiration from classic vampire lore, our algorithm mixes and matches elements to create unique and chilling combinations. You won't find these names anywhere else... until everyone starts using them, that is!"
+    },
+    {
+      "question": "I don't like any of the names! What do I do?",
+      "answer": "Keep hitting that 'Generate' button! With countless possibilities, you're bound to find a name that resonates with your immortal soul. Or, you know, just pick your own. We won't judge (much)."
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We're always looking for fresh blood... I mean, ideas! Feel free to submit suggestions through our contact form. If we use your name, we'll give you eternal gratitude (which is worth more than you think)."
+    }
+  ],
+  "prefixes": [
+    "Vlad",
+    "Drac",
+    "Morbid",
+    "Silas",
+    "Lilith",
+    "Seraph",
+    "Crimson",
+    "Shadow",
+    "Night",
+    "Obsidian",
+    "Raven",
+    "Asmodeus",
+    "Belladonna"
+  ],
+  "suffixes": [
+    "ius",
+    "ia",
+    "von Carstein",
+    "Blackwood",
+    "Nightshade",
+    "Bloodworth",
+    "the Eternal",
+    "the Shadowed",
+    "the Damned",
+    "the Unliving",
+    "Strigoi",
+    "Bathory",
+    "LaCroix"
+  ]
+}

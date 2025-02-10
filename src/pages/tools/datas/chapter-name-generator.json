@@ -1,0 +1,83 @@
+{
+  "name": "Chapter Name Generator",
+  "description": "Stuck naming your next chapter? Fear not, wordsmith! Our Chapter Name Generator conjures up titles so captivating, your readers will be hooked from page one. Unleash the power of suggestion and banish writer's block forever!",
+  "slug": "chapter-name-generator",
+  "icon": "\ud83d\udcda",
+  "introduction": "Welcome, brave author! We know the struggle is real. You've poured your heart and soul into crafting a world, developing characters, and plotting twists that'll leave readers breathless. But... the chapter names? Ugh. Let's face it, sometimes those little guys are the hardest part. That's where we come in. Our Chapter Name Generator is your secret weapon against the tyranny of the blank page. Get ready for a flood of inspiration!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new, shiny chapter name appears.",
+    "Don't like the first one? Keep clicking! We've got a whole universe of possibilities waiting to be explored.",
+    "Feeling adventurous? Tweak the prefixes and suffixes to create something truly unique. It's like playing Mad Libs, but for literary geniuses!",
+    "Copy and paste your favorite into your manuscript and get back to writing the good stuff. We won't tell anyone you had a little help... \ud83d\ude09"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Consider it our gift to the writing community. Go forth and create!"
+    },
+    {
+      "question": "Can I use these chapter names for commercial purposes?",
+      "answer": "You bet! Once generated, the names are yours to use as you see fit. No royalties, no strings attached."
+    },
+    {
+      "question": "Are the chapter names original?",
+      "answer": "We strive to create unique and inspiring names. While some combinations might resemble existing titles (there are a lot of books out there!), we use a diverse range of words and phrases to minimize overlap."
+    },
+    {
+      "question": "How many chapter names can I generate?",
+      "answer": "As many as your heart desires! There's no limit. Keep generating until you find the perfect fit."
+    },
+    {
+      "question": "Will using this generator make me a better writer?",
+      "answer": "While we can't guarantee literary immortality, we *can* promise it will save you time and mental energy, allowing you to focus on the craft of writing itself. And that, my friend, is a pretty good start!"
+    },
+    {
+      "question": "Does the generator support different genres?",
+      "answer": "It's designed to be versatile! You can use it for fantasy, sci-fi, romance, thriller, or any other genre you can imagine. Just let your creativity flow!"
+    }
+  ],
+  "prefixes": [
+    "The Shadow of",
+    "Whispers of",
+    "The Secret of",
+    "A Dance with",
+    "Beneath the",
+    "Echoes of",
+    "The Fall of",
+    "The Rise of",
+    "Beyond the",
+    "Within the",
+    "The Last",
+    "The First",
+    "A Song of",
+    "A Tale of",
+    "The Legend of",
+    "The Journey of",
+    "The Price of",
+    "The Curse of",
+    "The Gift of",
+    "The Wrath of"
+  ],
+  "suffixes": [
+    "Kings",
+    "Queens",
+    "Dragons",
+    "Stars",
+    "Silence",
+    "Destiny",
+    "Hope",
+    "Despair",
+    "Magic",
+    "Shadows",
+    "Light",
+    "Darkness",
+    "Truth",
+    "Lies",
+    "The Forgotten",
+    "The Broken",
+    "The Lost",
+    "The Chosen",
+    "The Betrayer",
+    "The Savior"
+  ]
+}

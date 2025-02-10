@@ -1,0 +1,85 @@
+{
+  "name": "Anime Name Generator",
+  "description": "Stuck in a rut? Need a name that screams protagonist (or villain)? Our Anime Name Generator is here to inject some serious anime flair into your life! Get ready to unleash your inner anime character!",
+  "slug": "anime-name-generator",
+  "icon": "\ud83c\udf38",
+  "introduction": "Ever wished you could be transported into your favorite anime? It all starts with the perfect name! Whether you're creating a new character, writing fanfiction, or just want a cool nickname, our generator will conjure up names that are brimming with anime energy. Prepare for names so epic, they'll make your screen explode (not really, but they'll be awesome)!",
+  "howToUse": [
+    "First, brace yourself for awesomeness. Seriously, these names are *that* good.",
+    "Click the 'Generate' button. (It's the one that doesn't look like a dragon...hopefully).",
+    "Bask in the glory of your new anime-inspired moniker.",
+    "Repeat until you find the name that resonates with your inner otaku.",
+    "Go forth and conquer the anime world (or at least impress your friends)."
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my anime character?",
+      "answer": "Absolutely! That's what they're made for. Go forth and create the most epic character the anime world has ever seen!"
+    },
+    {
+      "question": "Are these names actually used in anime?",
+      "answer": "Some might be, but most are inspired by anime naming conventions. We blend coolness with a touch of the unexpected!"
+    },
+    {
+      "question": "Will this generator make me fluent in Japanese?",
+      "answer": "Sadly, no. But it *will* give you a name that sounds like you should be fluent. Baby steps!"
+    },
+    {
+      "question": "Is this generator safe to use?",
+      "answer": "Safer than facing a Titan without your 3D Maneuver Gear! We promise no viruses or hidden jutsu techniques."
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We're always open to suggestions! Send us your coolest anime name ideas, and we might just add them in."
+    },
+    {
+      "question": "What if I don't like the names it generates?",
+      "answer": "Then you're clearly a villain in disguise! Just kidding (mostly). Keep generating, and you'll find something you love. Or, embrace your villainous side!"
+    }
+  ],
+  "prefixes": [
+    "Aki",
+    "Ren",
+    "Sora",
+    "Hoshi",
+    "Kaze",
+    "Tsuki",
+    "Yami",
+    "Ryu",
+    "Ken",
+    "Shin",
+    "Mai",
+    "Emi",
+    "Yumi",
+    "Ayumi",
+    "Hotaru",
+    "Kaede",
+    "Sakura",
+    "Botan"
+  ],
+  "suffixes": [
+    "to",
+    "ka",
+    "ki",
+    "ko",
+    "ku",
+    "na",
+    "mi",
+    "mu",
+    "ra",
+    "ri",
+    "ru",
+    "sei",
+    "ya",
+    "yo",
+    "yu",
+    "ichi",
+    "jiro",
+    "taro",
+    "hiko",
+    "hide",
+    "aki",
+    "e",
+    "ichi"
+  ]
+}

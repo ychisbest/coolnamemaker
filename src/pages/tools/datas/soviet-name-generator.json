@@ -1,0 +1,74 @@
+{
+  "name": "Soviet Name Generator",
+  "description": "Comrade, are you in need of a name that exudes the strength and spirit of the Soviet Union? Look no further! Our Soviet Name Generator will forge you a moniker worthy of the Motherland. Ideal for role-playing, historical fiction, or just adding a touch of revolutionary flair to your online persona. Get your proletarian pseudonym today!",
+  "slug": "soviet-name-generator",
+  "icon": "\u262d",
+  "introduction": "Welcome, tovarish! Tired of your bourgeois name? Yearning for a title that resonates with the might of the proletariat? Our Soviet Name Generator is here to serve the people! Generate a name steeped in history, ready to lead the revolution, or at least sound really cool at your next cosplay event.",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's easier than collectivizing a farm!",
+    "Marvel at the glorious Soviet name bestowed upon you by the algorithm.",
+    "Feel free to generate as many names as you like! The revolution never sleeps, and neither does our generator.",
+    "Share your newly acquired Soviet name with your comrades on social media. Spread the word!",
+    "Use your new name for all your secret agent missions... or, you know, just online gaming."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator historically accurate?",
+      "answer": "While we strive for authenticity, our primary goal is fun! Some names might be more\u2026creative than others. Think of it as 'historical inspiration' rather than a doctoral thesis."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Go for it! Just remember to credit coolnamemaker.com for inspiring your glorious Soviet-themed enterprise."
+    },
+    {
+      "question": "Will this generator get me on a government watchlist?",
+      "answer": "Highly unlikely. Unless you start advocating for the overthrow of your local government using your new Soviet name. Then, maybe? But that's on you, comrade."
+    },
+    {
+      "question": "What if I don't like the name I get?",
+      "answer": "Generate another one! The beauty of the revolution is that there are always more opportunities. And more names."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "Absolutely! We're always looking for ways to improve the generator and better serve the people. Send your suggestions our way!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Da! Freedom, like this name generator, is for everyone!"
+    }
+  ],
+  "prefixes": [
+    "Vlad",
+    "Dimitri",
+    "Svetlana",
+    "Natalia",
+    "Boris",
+    "Yuri",
+    "Irina",
+    "Anatoli",
+    "Nikolai",
+    "Viktor",
+    "Aleksandr",
+    "Mikhail",
+    "Sergei",
+    "Yelena",
+    "Tatyana"
+  ],
+  "suffixes": [
+    "Volkov",
+    "Ivanov",
+    "Smirnov",
+    "Kuznetsov",
+    "Popov",
+    "Vasiliev",
+    "Petrov",
+    "Sokolov",
+    "Mikhailov",
+    "Fedorov",
+    "Morozov",
+    "Pavlov",
+    "Lebedev",
+    "Semyonov",
+    "Yershov"
+  ]
+}

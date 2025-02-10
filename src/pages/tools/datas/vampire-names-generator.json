@@ -1,0 +1,73 @@
+{
+  "name": "Vampire Name Generator",
+  "description": "Unleash your inner creature of the night! Get a wickedly cool vampire name that's perfect for your next role-playing game, story, or just for fun. Dare to delve into the shadows and discover your true vampiric identity.",
+  "slug": "vampire-names-generator",
+  "icon": "\ud83e\udddb",
+  "introduction": "Ever wondered what your vampire name would be? Something suitably spooky and sophisticated? Our Vampire Name Generator is here to help! Whether you're writing a gothic novel, creating a character for a game, or simply embracing your dark side, we'll conjure up a name that's sure to make you the envy of every bloodsucker in the crypt.",
+  "howToUse": [
+    "Simply click the 'Generate' button and let the magic happen!",
+    "Don't like the first result? No problem! Keep clicking until you find a name that truly resonates with your immortal soul.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft your own unique vampire moniker. Go wild \u2013 after all, you've got eternity!",
+    "Share your awesome new name with your friends (or enemies) and watch them tremble with envy."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually cool?",
+      "answer": "Are you kidding? These names are so cool, they'll give you frostbite! We've carefully curated a list of prefixes and suffixes that scream sophistication, mystery, and just the right amount of menace."
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! Our Vampire Name Generator is perfect for D&D, Vampire: The Masquerade, or any other role-playing game where you need a name that commands respect (and perhaps a little fear)."
+    },
+    {
+      "question": "Will this generator turn me into a real vampire?",
+      "answer": "While we can't guarantee eternal life or a thirst for blood, we can promise you'll have a killer name. The rest is up to you... and maybe a conveniently placed vampire bite."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! Our Vampire Name Generator is completely free. Use it as many times as you like to find the perfect name for your undead alter ego."
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're constantly adding new prefixes and suffixes to keep the names fresh and exciting. So, check back often to discover even more wickedly cool vampire names!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions and we'll consider adding them to the generator. Help us make it even more terrifyingly awesome!"
+    }
+  ],
+  "prefixes": [
+    "Vlad",
+    "Drac",
+    "Morbius",
+    "Lilith",
+    "Nyx",
+    "Crimson",
+    "Shadow",
+    "Obsidian",
+    "Seraph",
+    "Eternal",
+    "Nocturne",
+    "Raven",
+    "Silas",
+    "Bellamy",
+    "Lucien"
+  ],
+  "suffixes": [
+    "ius",
+    "a",
+    "ian",
+    "esku",
+    "aire",
+    "thys",
+    "mond",
+    "garde",
+    "ius",
+    "Von Blood",
+    "Nightshade",
+    "Blackwood",
+    "Evermore",
+    "Sinclair",
+    "Crowley"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Assassin Name Generator",
+  "description": "Craft the perfect moniker for your shadowy alter ego. Because every assassin needs a name that strikes fear into the hearts of their targets (and sounds cool on a business card).",
+  "slug": "assassin-name-generator",
+  "icon": "\ud83d\udd2a",
+  "introduction": "Ready to ditch your boring everyday name and embrace the thrilling life of a master assassin? Our Assassin Name Generator is here to arm you with a chillingly awesome alias. Whether you're writing a thriller, creating a game character, or just want to sound intimidating at the coffee shop, we've got you covered. Prepare to enter the shadows with a name that's as deadly as you are (or pretend to be).",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold your new, deadly identity!",
+    "Don't like what you see? Keep clicking! We've got more names than you can shake a shuriken at.",
+    "Feeling creative? Mix and match prefixes and suffixes to forge your ultimate assassin name.",
+    "Once you've found the perfect name, whisper it dramatically to yourself in the mirror. (Optional, but highly recommended.)",
+    "Now go forth and conquer...or at least conquer your to-do list with newfound confidence!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to turn me into a real assassin?",
+      "answer": "Absolutely not! This is purely for entertainment purposes. We are not responsible for any sudden urges to wear all black and lurk in the shadows...unless it looks really cool."
+    },
+    {
+      "question": "Can I use these names for my video game character?",
+      "answer": "Yes, absolutely! Feel free to use these names for your games, stories, or any other creative projects. Just promise us you'll make them super badass."
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! All names generated are free for you to use. Consider them a gift from the shadows...a totally legal gift."
+    },
+    {
+      "question": "What if I don't like any of the names generated?",
+      "answer": "Keep hitting that 'Generate' button! We have a vast database of prefixes and suffixes, so you're bound to find something that resonates with your inner assassin. Or, you know, just try again later. Inspiration strikes at odd times."
+    },
+    {
+      "question": "Can I suggest new prefixes and suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions, and we might just add them to our list. The more deadly, the better."
+    },
+    {
+      "question": "Is it safe to share my generated assassin name online?",
+      "answer": "While the names are fictional, it's always a good idea to be cautious about sharing personal information online. Use your best judgment, and remember: even assassins need to practice good online safety."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Crimson",
+    "Silent",
+    "Venom",
+    "Night",
+    "Iron",
+    "Steel",
+    "Serpent",
+    "Raven",
+    "Phantom",
+    "Death",
+    "Blood",
+    "Obsidian",
+    "Midnight",
+    "Ghost"
+  ],
+  "suffixes": [
+    "Blade",
+    "Strike",
+    "Shade",
+    "Claw",
+    "Whisper",
+    "Reaper",
+    "Viper",
+    "Hunter",
+    "Spectre",
+    "Stalker",
+    "Hand",
+    "Fang",
+    "Veil",
+    "Void",
+    "Mask"
+  ]
+}

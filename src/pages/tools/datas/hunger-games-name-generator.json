@@ -1,0 +1,88 @@
+{
+  "name": "Hunger Games Name Generator",
+  "description": "May the odds be *ever* in your favor...especially when choosing a killer name for your Hunger Games character! Ditch the District doldrums and forge a moniker worthy of a tribute. Are you ready to volunteer?",
+  "slug": "hunger-games-name-generator",
+  "icon": "\ud83c\udff9",
+  "introduction": "Welcome, tribute! Step right up and get ready to enter the arena with a name that screams 'victor'! Our Hunger Games Name Generator is your one-stop shop for crafting a cool, quirky, or downright intimidating alias. Whether you're writing fan fiction, role-playing, or just dreaming of overthrowing the Capitol, we've got the goods to get you started. From the fiery Katniss-inspired to the cunning Snow-esque, discover the perfect name to embody your Hunger Games persona. Remember, a great name can be the difference between survival and becoming a mockingjay memory!",
+  "howToUse": [
+    "Feeling uninspired? Fear not, future victor! Just click the 'Generate' button.",
+    "Keep clicking until a name resonates with your inner tribute.",
+    "Want something *really* special? Mix and match prefixes and suffixes to create a truly unique name!",
+    "Don't forget to share your awesome name with your fellow rebels \u2013 and may the best tribute win!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Like the rebellion, this name generator is for the people. Use it as much as you like, no Capitol credits required."
+    },
+    {
+      "question": "Can I use these names for my Hunger Games fan fiction?",
+      "answer": "Go for it! We encourage creativity and tribute-fueled storytelling. Just remember, with great power (and a cool name) comes great responsibility...to write awesome stories!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Mostly! We've curated lists of prefixes and suffixes inspired by the Hunger Games universe, but the combinations are randomly generated to ensure a unique experience every time."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always looking to expand our arsenal! Feel free to send us your suggestions \u2013 just don't expect us to promise they'll make the cut (unless they're *really* good)."
+    },
+    {
+      "question": "Why are some names weird?",
+      "answer": "Hey, Panem is a weird place! We embrace the bizarre and believe that even a strange name can be powerful. Plus, who wants to be boring?"
+    }
+  ],
+  "prefixes": [
+    "Ash",
+    "Blaze",
+    "Cinder",
+    "Ember",
+    "Gale",
+    "Kat",
+    "Rue",
+    "Finn",
+    "Prim",
+    "Snow",
+    "Corvus",
+    "Lys",
+    "Vale",
+    "Shadow",
+    "Night",
+    "Dawn",
+    "Whisper",
+    "Ember",
+    "Iron",
+    "Stone",
+    "Thorn",
+    "River",
+    "Sky",
+    "Sage"
+  ],
+  "suffixes": [
+    "wood",
+    "fire",
+    "stone",
+    "song",
+    "whisper",
+    "thorn",
+    "gale",
+    "snow",
+    "shade",
+    "light",
+    "brook",
+    "willow",
+    "mint",
+    "ivy",
+    "flame",
+    "shine",
+    "flower",
+    "leaf",
+    "bane",
+    "strike",
+    "heart",
+    "claw",
+    "eye",
+    "sky",
+    "shade"
+  ]
+}

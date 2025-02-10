@@ -1,0 +1,75 @@
+{
+  "name": "Greek Name Generator",
+  "description": "Unleash your inner Olympian! Generate epic Greek names fit for gods, heroes, and philosophers. Perfect for characters, projects, or just discovering your ancient alter ego.",
+  "slug": "greek-name-generator",
+  "icon": "\ud83c\udfdb\ufe0f",
+  "introduction": "Ever felt a pang of longing for the sun-drenched shores of ancient Greece? Yearn to be known as something more\u2026 *heroic*? Our Greek Name Generator is your portal! Craft legendary names with a click, whether you're writing a fantasy novel, creating a game character, or simply seeking a touch of Hellenic flair. Prepare to be amazed at the powerful, evocative names you'll uncover!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Behold! A brand new, totally awesome Greek name appears.",
+    "Don't like it? Click again! We've got an endless supply of names that would make Zeus jealous.",
+    "Copy and paste your favorite name into your project, character sheet, or online persona.",
+    "Bask in the glory of your newfound Greek identity!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "We're talking names inspired by Greek mythology, history, and culture. Think gods, goddesses, heroes, philosophers, and even some everyday citizens of ancient Greece. You'll find names that sound powerful, wise, and sometimes a little bit mischievous."
+    },
+    {
+      "question": "Can I use these names for my book/game/character?",
+      "answer": "Absolutely! That's what it's here for! Feel free to use these names for any creative project you can dream up. Just maybe give us a shout-out if your character becomes super famous. \ud83d\ude09"
+    },
+    {
+      "question": "Are these names actually 'real' Greek names?",
+      "answer": "Many are based on authentic Greek names, but we also take some creative liberties to generate names that *sound* Greek and fit the desired tone. So, while not every name is historically accurate, they all evoke the spirit of ancient Greece."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! We've got enough names to populate Mount Olympus ten times over. Keep clicking until you find the perfect one."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Completely and utterly free! No hidden costs, no sneaky subscriptions, just pure, unadulterated Greek name generation goodness."
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love to hear your suggestions! Send us your ideas, and we'll see if we can incorporate them into the generator. The more awesome names, the better!"
+    }
+  ],
+  "prefixes": [
+    "Agatho",
+    "Alex",
+    "Aristo",
+    "Cleo",
+    "Demo",
+    "Theo",
+    "Hero",
+    "Lysi",
+    "Nico",
+    "Ptole",
+    "Soph",
+    "Xeno",
+    "Peri",
+    "Poly",
+    "Phil",
+    "Eury"
+  ],
+  "suffixes": [
+    "cles",
+    "stratos",
+    "machus",
+    "menes",
+    "crates",
+    "dorus",
+    "phon",
+    "genes",
+    "pater",
+    "ander",
+    "archus",
+    "cles",
+    "tion",
+    "tias",
+    "bius"
+  ]
+}

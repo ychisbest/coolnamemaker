@@ -1,0 +1,74 @@
+{
+  "name": "Stripper Name Generator",
+  "description": "Spice up your life with a stage name that screams 'confidence' and 'charisma'! Unleash your inner performer with our Stripper Name Generator. Whether you're looking for something sultry, sassy, or downright hilarious, we've got the perfect moniker to make you shine under the spotlight.",
+  "slug": "stripper-name-generator",
+  "icon": "\ud83d\udc83",
+  "introduction": "Ready to ignite the stage but need a name that packs a punch? Our Stripper Name Generator is your secret weapon! Forget boring labels \u2013 we're talking names that sizzle, names that captivate, names that leave the audience begging for more. Get ready to embrace your alter ego and conquer the world, one tantalizing performance at a time.",
+  "howToUse": [
+    "Feeling uninspired? Just hit that 'Generate' button and watch the magic happen!",
+    "Don't like the first result? No sweat! Keep clicking until you find the name that makes your heart skip a beat.",
+    "Want to get creative? Mix and match prefixes and suffixes to craft a name that's uniquely YOU.",
+    "Found 'the one'? Copy that name and prepare to unleash your inner goddess (or god!).",
+    "Pro Tip: Say your name out loud! Does it roll off the tongue? Does it make you feel powerful? If yes, you've struck gold!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator only for strippers?",
+      "answer": "Absolutely not! While it's called the Stripper Name Generator, it's perfect for anyone seeking a bold, memorable, and slightly cheeky name. Think burlesque performers, drag queens, or anyone who wants to add a little spice to their online persona."
+    },
+    {
+      "question": "Are the generated names appropriate?",
+      "answer": "We aim for playful and suggestive, but we also want to keep things (mostly) PG-13. If you're looking for something super explicit, you might need to get a little creative on your own."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once you find a name you love, it's yours to use as you see fit. Go forth and conquer the world (legally, of course)!"
+    },
+    {
+      "question": "Will I become instantly famous if I use one of these names?",
+      "answer": "We can't guarantee fame, but we CAN guarantee you'll have a killer name that's sure to turn heads. The rest is up to you, superstar!"
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart desires. We're here to fuel your creativity, not limit it."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions, and we'll see if we can add them to the mix. The more, the merrier!"
+    }
+  ],
+  "prefixes": [
+    "Velvet",
+    "Crimson",
+    "Midnight",
+    "Diamond",
+    "Sultry",
+    "Electric",
+    "Raven",
+    "Sugar",
+    "Honey",
+    "Mystic",
+    "Lace",
+    "Silk",
+    "Storm",
+    "Whisper",
+    "Secret"
+  ],
+  "suffixes": [
+    "Delight",
+    "Rose",
+    "Moon",
+    "Star",
+    "Kiss",
+    "Fire",
+    "Shimmer",
+    "Shadow",
+    "Desire",
+    "Angel",
+    "Sin",
+    "Bliss",
+    "Venus",
+    "Envy",
+    "Xstasy"
+  ]
+}

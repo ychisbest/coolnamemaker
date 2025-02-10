@@ -1,0 +1,73 @@
+{
+  "name": "Cool Name Generator",
+  "description": "Struggling to find the perfect, jaw-droppingly awesome name? Look no further! Our Cool Name Generator is here to rescue you from the depths of naming despair. Whether it's for your next big project, a quirky character, or just a fun nickname, we've got you covered. Prepare to be amazed!",
+  "slug": "cool-name-generator",
+  "icon": "\ud83d\ude0e",
+  "introduction": "Tired of the same old boring names? Unleash your inner cool with our generator! We've blended creativity with a dash of randomness to conjure up names that are guaranteed to turn heads and spark conversations. Get ready to discover names so cool, they'll make penguins jealous.",
+  "howToUse": [
+    "Simply smash that 'Generate' button \u2013 don't be shy!",
+    "Keep hitting it until a name pops up that makes you say, 'Heck yeah!'",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create your own unique concoctions.",
+    "Once you've found the ultimate cool name, copy and paste it with pride! Go forth and conquer!"
+  ],
+  "faqs": [
+    {
+      "question": "What makes a name 'cool'?",
+      "answer": "Ah, the million-dollar question! 'Cool' is subjective, of course, but we aim for names that are memorable, unique, and have a certain je ne sais quoi. Think edgy, modern, and a little bit unexpected."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once the name is generated, it's yours to use as you see fit. Go launch that startup, write that novel, or name that pet rock. The possibilities are endless!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Mostly! We use a combination of carefully curated prefixes and suffixes, combined with a touch of randomness, to create a diverse range of cool names. It's a bit like a mad scientist's naming laboratory."
+    },
+    {
+      "question": "I didn't find a name I liked. What should I do?",
+      "answer": "Keep generating! There are literally thousands of combinations. You can also try manually combining prefixes and suffixes to create something truly unique. Persistence is key to coolness!"
+    },
+    {
+      "question": "Will this generator steal my ideas?",
+      "answer": "Nope! Our generator is just a tool to spark your creativity. We don't save or store any of the generated names. Your cool ideas are safe with us. Think of it as a brainstorming buddy, not a corporate spy."
+    },
+    {
+      "question": "Can I contribute prefixes and suffixes to the generator?",
+      "answer": "We're always looking for fresh inspiration! While we don't have a direct submission form, feel free to reach out with your suggestions. If we love them, we might just add them to the mix!"
+    }
+  ],
+  "prefixes": [
+    "Neo",
+    "Zen",
+    "Hyper",
+    "Shadow",
+    "Mystic",
+    "Nova",
+    "Rogue",
+    "Cyber",
+    "Phantom",
+    "Titan",
+    "Echo",
+    "Vortex",
+    "Blaze",
+    "Frost",
+    "Crimson"
+  ],
+  "suffixes": [
+    "Tech",
+    "Blade",
+    "Storm",
+    "Fire",
+    "Hawk",
+    "Strike",
+    "Force",
+    "Guard",
+    "Wing",
+    "Shield",
+    "Claw",
+    "Heart",
+    "Soul",
+    "Mind",
+    "Core"
+  ]
+}

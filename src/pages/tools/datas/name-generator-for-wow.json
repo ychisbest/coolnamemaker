@@ -1,0 +1,93 @@
+{
+  "name": "WoW Name Generator",
+  "description": "Struggling to find the perfect name for your World of Warcraft character? Fear not, adventurer! Our WoW Name Generator is here to forge legendary monikers worthy of Azeroth.",
+  "slug": "wow-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Embark on your epic journey with a name that resonates with power, mystique, or maybe just a touch of silliness. Whether you're a noble Paladin, a cunning Rogue, or a fearsome Warlock, a great name is the first step to becoming a legend. Let's craft yours!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic!",
+    "Don't like what you see? Click it again! We've got an endless supply of names just waiting to be discovered.",
+    "Feeling creative? Mix and match prefixes and suffixes to create a truly unique name.",
+    "Once you've found the perfect name, copy it and proudly paste it into the character creation screen. Now go forth and conquer Azeroth!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator only for World of Warcraft?",
+      "answer": "While primarily designed for WoW, feel free to use these names for any fantasy game, story, or even your pet hamster! The possibilities are endless."
+    },
+    {
+      "question": "Are the generated names lore-friendly?",
+      "answer": "We've tried to incorporate elements that fit within the WoW universe, but ultimately, it's about finding a name that *you* love. Don't be afraid to get creative!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "The generated names are free for personal use. For commercial use, please check the specific terms of use for the individual words or names generated."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! We have an endless supply of prefixes and suffixes to create countless combinations."
+    },
+    {
+      "question": "My generated name is already taken! What do I do?",
+      "answer": "Ah, the plight of every adventurer! Simply generate a new name. With so many possibilities, you're bound to find one that's both awesome and available."
+    },
+    {
+      "question": "Will this generator help me become a better WoW player?",
+      "answer": "While we can't guarantee improved skills, having an epic name is definitely a step in the right direction! Confidence is key, adventurer!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Storm",
+    "Fire",
+    "Frost",
+    "Iron",
+    "Blood",
+    "Void",
+    "Light",
+    "Swift",
+    "Silent",
+    "Grizzly",
+    "Moon",
+    "Star",
+    "Sun",
+    "Ancient",
+    "Mystic",
+    "Grim",
+    "Valiant",
+    "Dark",
+    "Noble",
+    "Cinder",
+    "Rune",
+    "Stone",
+    "Silver",
+    "Gold"
+  ],
+  "suffixes": [
+    "blade",
+    "bane",
+    "heart",
+    "fury",
+    "strike",
+    "whisper",
+    "claw",
+    "eye",
+    "song",
+    "walker",
+    "runner",
+    "shaper",
+    "weaver",
+    "binder",
+    "caller",
+    "bringer",
+    "guard",
+    "hand",
+    "wind",
+    "shade",
+    "seer",
+    "whisper",
+    "howl",
+    "storm",
+    "light"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Korean Name Generator",
+  "description": "Struggling to find the perfect Korean name for your character, baby, or even just for fun? \uace0\ubbfc\ud558\uc9c0 \ub9c8\uc138\uc694 (Don't worry)! Our Korean Name Generator is here to whisk you away on a journey of beautiful syllables and meaningful monikers. Discover a name that resonates with your soul, imbued with history and charm.",
+  "slug": "korean-name-generator",
+  "icon": "\ud83c\uddf0\ud83c\uddf7",
+  "introduction": "Unlock the secrets of Korean nomenclature! Whether you're writing a K-drama, naming your adorable puppy kimchi, or simply indulging your curiosity, our generator offers a diverse array of Korean names, complete with potential meanings and a touch of cultural flair. Get ready to say \"annyeong\" to your brand new Korean identity!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A unique Korean name will magically appear.",
+    "Not feeling it? No problem! Click again for another enchanting option. We've got names galore!",
+    "Feeling adventurous? Use the 'prefixes' and 'suffixes' to create your own name",
+    "Once you find a name that sparks joy, copy it and share it with the world! (Or keep it your little secret... we won't tell.)",
+    "Pro Tip: Imagine yourself starring in your own K-drama while browsing. It adds to the fun!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my baby?",
+      "answer": "Absolutely! While we can't guarantee cultural appropriateness (always do your research!), many of the names generated are authentic and suitable for newborns. We recommend checking the meaning and origin for the best fit."
+    },
+    {
+      "question": "Are these names only for girls or boys?",
+      "answer": "Our generator includes both traditionally masculine and feminine names, as well as some that are considered gender-neutral. The results are randomized, so you'll get a nice mix!"
+    },
+    {
+      "question": "How accurate are the meanings of the names?",
+      "answer": "We strive for accuracy, but Korean names can have multiple interpretations depending on the hanja (Chinese characters) used. We suggest further research to confirm the meaning you prefer."
+    },
+    {
+      "question": "Can I use these names for characters in my novel or game?",
+      "answer": "Definitely! Our generator is a fantastic source of inspiration for writers and game developers seeking authentic-sounding Korean names. Just remember to credit us if you use a name directly!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, absolutely! Our Korean Name Generator is completely free to use as many times as you like. Enjoy!"
+    },
+    {
+      "question": "Where do these names come from?",
+      "answer": "We've curated a database of common and less common Korean names, drawing from historical sources, popular culture, and linguistic analysis. We're always expanding our collection to bring you the freshest and most interesting options!"
+    }
+  ],
+  "prefixes": [
+    "Ji",
+    "Seo",
+    "Min",
+    "Ha",
+    "Ye",
+    "Eun",
+    "Hye",
+    "Soo",
+    "Hyun",
+    "Woo",
+    "Da",
+    "Bo",
+    "Ae",
+    "Ri",
+    "Na",
+    "Ga",
+    "Bae",
+    "Bin",
+    "Seul",
+    "Su",
+    "Yoon"
+  ],
+  "suffixes": [
+    "Ah",
+    "Bin",
+    "Eun",
+    "Hee",
+    "Ji",
+    "Min",
+    "Seo",
+    "Woo",
+    "Hyun",
+    "Young",
+    "Ri",
+    "Na",
+    "Ae",
+    "Bo",
+    "Da",
+    "Hye",
+    "Soo",
+    "Seul",
+    "Su",
+    "Ga",
+    "Yoon",
+    "Jin"
+  ]
+}

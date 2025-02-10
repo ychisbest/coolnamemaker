@@ -1,0 +1,73 @@
+{
+  "name": "Cereal Name Generator",
+  "description": "Craving a breakfast-themed identity? Our Cereal Name Generator serves up delicious and unforgettable names, perfect for characters, projects, or just a fun online persona. Get ready to be the crunch of the town!",
+  "slug": "cereal-name-generator",
+  "icon": "\ud83e\udd63",
+  "introduction": "Ever dreamt of being a sugary-sweet sensation? Or maybe a nutty, wholesome delight? Our Cereal Name Generator is your one-stop shop for crafting the perfect breakfast-inspired moniker. Whether you're naming a cartoon character, a new flavor of cereal, or just looking for a quirky online handle, we've got the ingredients for success!",
+  "howToUse": [
+    "Simply click the 'Generate' button and let our magical algorithm whip up a batch of cereal-ously awesome names.",
+    "Don't like what you see? No problem! Hit 'Generate' again for a fresh bowl of possibilities.",
+    "Feeling creative? Mix and match your favorite prefixes and suffixes to invent a name that's uniquely you.",
+    "Once you've found the perfect name, go forth and conquer the world (or at least your social media feed) with your newfound breakfast-inspired identity!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Like a free sample box of your favorite cereal, our generator is completely free to use. Enjoy!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we provide the names for fun, it's your responsibility to ensure the name isn't already trademarked or in use. We're not liable for any legal battles over 'Frosted Flakes 2.0'!"
+    },
+    {
+      "question": "How does the generator come up with these names?",
+      "answer": "Our secret recipe combines elements of popular cereal brands, catchy adjectives, and a sprinkle of pure imagination. It's a trade secret, so don't ask us for the ingredients list!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always hungry for new ideas! Feel free to send your suggestions our way. If we like them, we might just add them to the mix."
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate as many names as your heart (and stomach) desires. We won't judge if you spend all day finding the perfect cereal-inspired identity."
+    },
+    {
+      "question": "Will this generator help me invent a new cereal?",
+      "answer": "While it might spark inspiration, our generator is primarily for names. But hey, a great name is the first step to a great cereal empire!"
+    }
+  ],
+  "prefixes": [
+    "Frosted",
+    "Honey",
+    "Cocoa",
+    "Berry",
+    "Sugar",
+    "Crispy",
+    "Fruity",
+    "Peanut",
+    "Cinnamon",
+    "Golden",
+    "Oat",
+    "Rainbow",
+    "Magic",
+    "Galaxy",
+    "Choco"
+  ],
+  "suffixes": [
+    "Loops",
+    "Puffs",
+    "Crisps",
+    "Flakes",
+    "Squares",
+    "Stars",
+    "Clusters",
+    "Crunch",
+    "Os",
+    "Bites",
+    "Sweets",
+    "Jacks",
+    "Blasts",
+    "Bombs",
+    "Doodles"
+  ]
+}

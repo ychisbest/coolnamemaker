@@ -1,0 +1,74 @@
+{
+  "name": "Scottish Name Generator",
+  "description": "Craving a name that echoes with the rugged beauty of the Highlands and the mystical whispers of ancient clans? Our Scottish Name Generator is your portal to a world of kilts, castles, and captivating monikers!",
+  "slug": "scottish-name-generator",
+  "icon": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+  "introduction": "Whether you're writing a fantasy novel, creating a character for a game, or simply searching for a unique and evocative name, our generator will conjure up a bonny selection steeped in Scottish history and folklore. Get ready to be transported to the land of legends!",
+  "howToUse": [
+    "Click the 'Generate' button and BAM! A brand-new Scottish name appears, like magic from a haggis-filled hat!",
+    "Don't like the first result? Keep clicking! We've got more names than Nessie has secrets.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create your own personalized Gaelic masterpiece!",
+    "Share your favorite names with your friends and family \u2013 spread the Scottish cheer!",
+    "Use these names for characters, pets, businesses, or anything your heart desires. Let your imagination run wild, ya wee scamp!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names authentic Scottish names?",
+      "answer": "Aye, mostly! We've drawn inspiration from historical records, Gaelic etymology, and a wee bit of creative license to craft names that sound genuinely Scottish. Some are traditional, some are modern twists, and some are just plain fun!"
+    },
+    {
+      "question": "Can I use these names for my baby?",
+      "answer": "Absolutely! Just be sure to do your own research to ensure the name resonates with you and your family. We're just here to provide inspiration, not parenting advice!"
+    },
+    {
+      "question": "What do the prefixes and suffixes mean?",
+      "answer": "Many prefixes and suffixes have Gaelic origins and carry specific meanings, often related to nature, nobility, or personal characteristics. Dig a little deeper online to uncover the hidden stories behind your chosen name!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Free as a bird soaring over Loch Ness! Use it as much as you like, no strings attached (unless you're wearing a kilt, of course!)."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always open to suggestions! Send us your ideas and we'll consider adding them to our ever-expanding list. The more the merrier, as they say in Scotland!"
+    },
+    {
+      "question": "Will this generator help me find Nessie?",
+      "answer": "While we can't guarantee a Nessie sighting, a cool Scottish name might just give you the luck you need! Keep your eyes peeled and your camera ready!"
+    }
+  ],
+  "prefixes": [
+    "Alasdair",
+    "Eilidh",
+    "Brodie",
+    "Fiona",
+    "Hamish",
+    "Islay",
+    "Kenneth",
+    "Morag",
+    "Torin",
+    "Skye",
+    "Lachlan",
+    "Mairi",
+    "Calum",
+    "Shona",
+    "Dougal"
+  ],
+  "suffixes": [
+    "MacLeod",
+    "Cameron",
+    "Campbell",
+    "Stewart",
+    "Fraser",
+    "Munro",
+    "Wallace",
+    "Bruce",
+    "Gordon",
+    "Grant",
+    "Sinclair",
+    "Mackenzie",
+    "Hamilton",
+    "Scott",
+    "Davidson"
+  ]
+}

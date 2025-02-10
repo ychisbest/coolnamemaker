@@ -1,0 +1,84 @@
+{
+  "name": "Roller Derby Name Generator",
+  "description": "Lace up your skates and unleash your inner derby demon! This generator crafts the perfect tough-as-nails, totally rad roller derby name. Get ready to dominate the track!",
+  "slug": "roller-derby-name-generator",
+  "icon": "\ud83d\udefc",
+  "introduction": "So, you're ready to join the roller derby revolution? Awesome! But before you hit the track, you need a name that screams attitude, skill, and a healthy dose of intimidation. Forget boring monikers \u2013 we're talking names that strike fear into the hearts of your opponents (and maybe make them laugh a little, too). Our Roller Derby Name Generator is here to help you find that perfect blend of badassery and creativity. Let's roll!",
+  "howToUse": [
+    "Click the 'Generate' button. Like, duh!",
+    "Keep clicking until you find a name that makes you want to knock someone off their skates. Seriously, if it doesn't inspire a primal urge to jam, keep searching!",
+    "Consider your personality and playing style. Are you a speed demon? A brutal blocker? A sneaky jammer? Let your name reflect your inner derby beast!",
+    "Don't be afraid to tweak the generated names. Add a number, change a vowel, make it your own! It's your derby identity, after all.",
+    "Once you've got 'the one', shout it from the rooftops (or at least to your teammates). Let the world know who's about to own the track!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use the names generated here for real?",
+      "answer": "Absolutely! These names are free for you to use in your roller derby adventures. Just be sure to check if the name is already taken in your league!"
+    },
+    {
+      "question": "Are the names generated offensive?",
+      "answer": "We strive to create names that are fun and empowering, but derby names can be edgy. If you find a name offensive, please generate another one. We're all about good sportsmanship and respect."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes?",
+      "answer": "We're always looking for ways to improve! Send us your suggestions, and we might just add them to the generator."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep generating! There are literally thousands of combinations possible. Or, use the generated names as inspiration to create your own unique derby moniker."
+    },
+    {
+      "question": "Why is having a cool derby name so important?",
+      "answer": "Your derby name is your identity on the track. It's a way to express your personality, intimidate your opponents, and connect with your fans. Plus, it's just plain fun!"
+    },
+    {
+      "question": "Will this generator make me a better roller derby player?",
+      "answer": "While we can't guarantee improved skating skills, a killer name will definitely boost your confidence and make you feel like a derby superstar! Think of it as a psychological advantage."
+    }
+  ],
+  "prefixes": [
+    "Bruise",
+    "Pain",
+    "Slam",
+    "Crash",
+    "Venom",
+    "Riot",
+    "Thunder",
+    "Steel",
+    "Iron",
+    "Shadow",
+    "Blitz",
+    "Rogue",
+    "Vixen",
+    "Atomic",
+    "Danger",
+    "Rebel",
+    "Queen",
+    "Mystic",
+    "Chaos",
+    "Havoc"
+  ],
+  "suffixes": [
+    "Hammer",
+    "Fist",
+    "Fury",
+    "Strike",
+    "Smash",
+    "Mayhem",
+    "Rage",
+    "Blaster",
+    "Bomber",
+    "Storm",
+    "Shadow",
+    "Zero",
+    "Inferno",
+    "Dynamite",
+    "Menace",
+    "Renegade",
+    "Vandal",
+    "Phantom",
+    "Whisper",
+    "Blitz"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Plant Name Generator",
+  "description": "Struggling to find the perfect moniker for your leafy friend? Our Plant Name Generator will sprout some blooming brilliant ideas! From the whimsical to the wonderfully weird, we've got a name to suit every green goddess and botanical badass.",
+  "slug": "plant-name-generator",
+  "icon": "\ud83c\udf3f",
+  "introduction": "Welcome, fellow plant parent! Are you tired of calling your ficus 'Ficus'? Does your succulent deserve a title more majestic than 'Succulent #3'? You've come to the right place! Our generator combines a dash of botanical brilliance with a sprinkle of silly to conjure up the perfect name for your verdant companion. Prepare to be amazed by the sheer plant-naming power at your fingertips!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the botanical brilliance!",
+    "Don't like the first suggestion? Keep clicking! We've got a whole garden of names waiting to be discovered.",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own unique plant name masterpiece. Go wild!",
+    "Once you've found the perfect name, shout it from the rooftops (or at least whisper it lovingly to your plant).",
+    "Pro Tip: Say the name out loud a few times. Does it roll off the tongue? Does it make you smile? If so, you've found a winner!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator only for houseplants?",
+      "answer": "Absolutely not! Whether you've got a sprawling garden, a humble windowsill herb, or even a particularly enthusiastic patch of moss, this generator can find a name for it."
+    },
+    {
+      "question": "Can I use these names for my pet?",
+      "answer": "While these names are designed for plants, we're not the boss of you! If you think 'Sir Sproutington' is the perfect name for your hamster, go for it! Just be prepared for some confused looks."
+    },
+    {
+      "question": "Are the names generated scientifically accurate?",
+      "answer": "Nope! We prioritize fun and creativity over botanical accuracy. If you're looking for a scientifically accurate name, consult a botanist (or Wikipedia)."
+    },
+    {
+      "question": "I generated a name that's already in use. What do I do?",
+      "answer": "Consider it a sign! Great minds (and plant parents) think alike. You can either tweak the name slightly or generate a new one. The choice is yours!"
+    },
+    {
+      "question": "My plant died. Can I still use the name?",
+      "answer": "Of course! Consider it a tribute to your fallen friend. Or, you know, recycle the name for your next botanical adventure."
+    },
+    {
+      "question": "Are there any inappropriate names generated?",
+      "answer": "We've done our best to keep things PG (Plant-G rated!), but the internet is a wild place. If you encounter a name you find offensive, please let us know, and we'll prune it from the garden."
+    }
+  ],
+  "prefixes": [
+    "Verdant",
+    "Emerald",
+    "Whispering",
+    "Glimmering",
+    "Mystic",
+    "Shadow",
+    "Golden",
+    "Starlight",
+    "Crimson",
+    "Moonlit",
+    "Jade",
+    "Silver",
+    "Iron",
+    "Copper",
+    "Stone",
+    "Bloom",
+    "Root",
+    "Leaf",
+    "Stem",
+    "Sprout"
+  ],
+  "suffixes": [
+    "Willow",
+    "Ivy",
+    "Bloom",
+    "Fern",
+    "Creeper",
+    "Vine",
+    "Thorn",
+    "Bud",
+    "Sprout",
+    "Blossom",
+    "Leaf",
+    "Root",
+    "Stem",
+    "Seed",
+    "Petal",
+    "Whisper",
+    "Dream",
+    "Song",
+    "Shade",
+    "Dew"
+  ]
+}

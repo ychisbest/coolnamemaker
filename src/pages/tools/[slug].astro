@@ -1,0 +1,224 @@
+---
+import Layout from "../../layouts/Layout.astro";
+// 读取datas目录下的所有json文件并合并
+
+// Get the slug from URL params
+export async function getStaticPaths() {
+    const tools = await Astro.glob("./datas/*.json");
+    const allTools = tools.flatMap((file) => file.default) as Tool[];
+    return allTools.map((tool) => ({
+        params: { slug: tool.slug },
+        props: { tool },
+    }));
+}
+
+const { tool } = Astro.props;
+
+// 定义工具数据的类型
+type Tool = {
+    name: string;
+    description: string;
+    slug: string;
+    icon: string;
+    introduction: string;
+    howToUse: string[];
+    faqs: Array<{ question: string; answer: string }>;
+    prefixes: string[];
+    suffixes: string[];
+};
+
+// 将tool声明为全局变量
+declare global {
+    interface Window {
+        tool: Tool;
+    }
+}
+---
+
+<Layout title={`${tool.name} - CoolNameMaker`}>
+    <main class="min-h-screen bg-gradient-to-b from-gray-50 to-white">
+        <div class="container mx-auto px-4 py-16">
+            <div class="max-w-4xl mx-auto">
+                <!-- Tool Header -->
+                <div class="text-center mb-12">
+                    <div class="text-7xl mb-6 animate-bounce">{tool.icon}</div>
+                    <h1
+                        class="text-3xl font-extrabold mb-4 bg-gradient-to-r from-purple-600 via-blue-500 to-purple-600 bg-clip-text text-transparent"
+                    >
+                        {tool.name}
+                    </h1>
+                    <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+                        {tool.description}
+                    </p>
+                </div>
+
+                <!-- Tool Content -->
+                <div
+                    class="bg-white p-10 rounded-3xl shadow-xl mb-12 transform hover:scale-[1.01] transition-all duration-300"
+                >
+                    <div class="max-w-2xl mx-auto">
+                        <div class="mb-8">
+                            <label
+                                class="block text-gray-700 text-lg font-bold mb-3"
+                                for="input"
+                            >
+                                Enter your base word (optional):
+                            </label>
+                            <input
+                                type="text"
+                                id="input"
+                                class="shadow-lg appearance-none border-2 border-gray-200 rounded-xl w-full py-3 px-4 text-gray-700 leading-tight focus:outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200 transition-all"
+                                placeholder="Enter a word to base your name on"
+                            />
+                        </div>
+
+                        <button
+                            id="generate"
+                            class="w-full bg-gradient-to-r from-purple-600 to-blue-600 text-white text-xl font-bold py-4 px-8 rounded-xl hover:shadow-lg hover:opacity-90 transform hover:-translate-y-0.5 transition-all duration-300"
+                        >
+                            Generate Name
+                        </button>
+
+                        <div
+                            id="result"
+                            class="mt-8 p-8 bg-gradient-to-br from-purple-50 to-blue-50 rounded-xl hidden"
+                        >
+                            <h2
+                                class="text-3xl font-bold text-center mb-3 bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent"
+                                id="generatedName"
+                            >
+                            </h2>
+                            <p class="text-center text-gray-600">
+                                Click generate again for more names!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Introduction Section -->
+                <div
+                    class="bg-white p-8 rounded-3xl shadow-xl mb-12 transform hover:scale-[1.01] transition-all duration-300"
+                >
+                    <h2
+                        class="text-3xl font-bold mb-6 text-gray-800 bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent"
+                    >
+                        About This Tool
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-lg">
+                        {tool.introduction}
+                    </p>
+                </div>
+
+                <!-- How to Use Section -->
+                <div
+                    class="bg-white p-8 rounded-3xl shadow-xl mb-12 transform hover:scale-[1.01] transition-all duration-300"
+                >
+                    <h2
+                        class="text-3xl font-bold mb-8 text-gray-800 bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent"
+                    >
+                        How to Use
+                    </h2>
+                    <ol class="list-decimal list-inside space-y-4">
+                        {
+                            tool.howToUse.map((step) => (
+                                <li class="text-gray-600 text-lg pl-2">
+                                    {step}
+                                </li>
+                            ))
+                        }
+                    </ol>
+                </div>
+
+                <!-- FAQs Section -->
+                <div
+                    class="bg-white p-8 rounded-3xl shadow-xl transform hover:scale-[1.01] transition-all duration-300"
+                >
+                    <h2
+                        class="text-3xl font-bold mb-8 text-gray-800 bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent"
+                    >
+                        Frequently Asked Questions
+                    </h2>
+                    <div class="space-y-8">
+                        {
+                            tool.faqs.map((faq) => (
+                                <div class="border-b border-gray-200 pb-6 last:border-b-0">
+                                    <h3 class="text-xl font-bold mb-3 text-gray-800">
+                                        {faq.question}
+                                    </h3>
+                                    <p class="text-gray-600 text-lg">
+                                        {faq.answer}
+                                    </p>
+                                </div>
+                            ))
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</Layout>
+
+<!-- Pass tool data to client script -->
+<script define:vars={{ tool }}>
+    // Make tool data available globally
+    window.tool = tool;
+</script>
+
+<script>
+    // 获取DOM元素
+    const generateBtn = document.getElementById("generate");
+    const input = document.getElementById("input") as HTMLInputElement;
+    const result = document.getElementById("result");
+    const generatedName = document.getElementById("generatedName");
+
+    // 从window对象获取工具数据
+    const currentTool = window.tool;
+    const prefixes: string[] = currentTool.prefixes;
+    const suffixes: string[] = currentTool.suffixes;
+
+    // 生成名字的函数
+    function generateName(baseWord = "") {
+        // 随机获取数组中的一个元素
+        const getRandomElement = (arr: string[]) =>
+            arr[Math.floor(Math.random() * arr.length)];
+
+        // 如果有baseWord,使用它作为随机种子来确保结果一致
+        let prefix, suffix;
+
+        if (baseWord) {
+            // 使用baseWord生成一个确定性的随机数
+            const hashCode = (str: string) => {
+                let hash = 0;
+                for (let i = 0; i < str.length; i++) {
+                    const char = str.charCodeAt(i);
+                    hash = (hash << 5) - hash + char;
+                    hash = hash & hash; // Convert to 32-bit integer
+                }
+                return Math.abs(hash);
+            };
+
+            const seed = hashCode(baseWord);
+            // 使用seed来确定性地选择前缀和后缀
+            prefix = prefixes[seed % prefixes.length];
+            suffix = suffixes[(seed * 13) % suffixes.length]; // 乘以质数以获得不同的索引
+        } else {
+            // 如果没有baseWord，则完全随机选择
+            prefix = getRandomElement(prefixes);
+            suffix = getRandomElement(suffixes);
+        }
+
+        // 组合名字
+        return `${prefix} ${suffix}`;
+    }
+
+    // 添加点击事件监听器
+    generateBtn?.addEventListener("click", () => {
+        const baseWord = input?.value || "";
+        const newName = generateName(baseWord);
+
+        if (result && generatedName) {
+            result.classList.remove("hidden");
+            generatedName.textContent = newName;
+        }
+    });
+</script>

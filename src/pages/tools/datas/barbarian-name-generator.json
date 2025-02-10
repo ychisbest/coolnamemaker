@@ -1,0 +1,73 @@
+{
+  "name": "Barbarian Name Generator",
+  "description": "Unleash your inner warrior! Forge a name worthy of legends with our Barbarian Name Generator. Are you ready to conquer the naming battlefield?",
+  "slug": "barbarian-name-generator",
+  "icon": "\u2694\ufe0f",
+  "introduction": "Tired of boring, run-of-the-mill names? Yearning for a moniker that screams raw power and untamed ferocity? Look no further! Our Barbarian Name Generator is here to arm you with the perfect appellation for your next character, story, or even just your own personal brand. Prepare to be amazed!",
+  "howToUse": [
+    "First, take a deep breath and channel your inner barbarian. Feel the rage!",
+    "Next, smash that 'Generate' button like you're smashing a skull (metaphorically, of course... mostly).",
+    "Keep hitting it until a name resonates with your primal instincts. You'll know it when you see it.",
+    "Finally, claim your name and go forth! Conquer the world (or at least your next gaming session)."
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! These names are perfect for your next barbarian, warrior, or any character that needs a touch of savage flair."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yep! We use a sophisticated (but secretly chaotic) algorithm to blend prefixes and suffixes, ensuring a unique and fearsome name every time."
+    },
+    {
+      "question": "Can I use these names for my pet hamster?",
+      "answer": "You *could*, but be warned: your hamster might develop a sudden urge to raid the pantry and overthrow your authority."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep smashing that button! With countless combinations, the perfect name is out there waiting to be discovered. Or, tweak a name you almost like \u2013 a little bit of personalization never hurt anyone (except maybe your enemies)."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Totally free! Unleash your inner barbarian without spending a single gold coin. We only ask that you spread the word about our awesome generator!"
+    },
+    {
+      "question": "Will using a barbarian name make me stronger?",
+      "answer": "While we can't guarantee superhuman strength, a cool barbarian name will definitely boost your confidence and intimidation factor. Try it and see!"
+    }
+  ],
+  "prefixes": [
+    "Grim",
+    "Blood",
+    "Rage",
+    "Steel",
+    "Stone",
+    "Iron",
+    "Skull",
+    "War",
+    "Frost",
+    "Doom",
+    "Thunder",
+    "Shadow",
+    "Gore",
+    "Bone",
+    "Brute"
+  ],
+  "suffixes": [
+    "fist",
+    "breaker",
+    "crusher",
+    "claw",
+    "tooth",
+    "bane",
+    "hammer",
+    "helm",
+    "rage",
+    "scar",
+    "slayer",
+    "maul",
+    "heart",
+    "shield",
+    "blood"
+  ]
+}

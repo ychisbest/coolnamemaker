@@ -1,0 +1,94 @@
+{
+  "name": "Alien Name Generator",
+  "description": "Blast off to another galaxy with our Alien Name Generator! Discover names that are out of this world, perfect for your sci-fi characters, games, stories, or just for fun. Unearth your cosmic identity today!",
+  "slug": "alien-name-generator",
+  "icon": "\ud83d\udc7d",
+  "introduction": "Ever wondered what your alien alter ego would be called? Stop wondering and start discovering! Our Alien Name Generator crafts unique and otherworldly names, drawing inspiration from nebulae, distant planets, and the vast unknown. Whether you're role-playing, writing a sci-fi epic, or just curious, prepare for names that are truly stellar. Get ready to boldly go where no name has gone before!",
+  "howToUse": [
+    "Simply click the 'Generate' button, and *poof*, an alien name appears!",
+    "Not feeling that name? No sweat! Hit 'Generate' again for a brand new, intergalactic moniker.",
+    "Want to save your favorite? Jot it down, screenshot it, or mentally beam it into your memory banks. The universe is your oyster!",
+    "Experiment! Use it for characters, pets, Wi-Fi passwords, or anything that needs a touch of cosmic coolness. The possibilities are as endless as space itself!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the Alien Name Generator work?",
+      "answer": "We've combined a database of cosmic words, planetary names, and a healthy dose of imagination to create a name-generating algorithm that's truly out of this world. It's science...sort of."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once a name pops up, it's yours to use as you see fit. Create a character, name a product, write a book \u2013 the galaxy is the limit!"
+    },
+    {
+      "question": "Are the generated names truly unique?",
+      "answer": "We strive for uniqueness, but with billions of possible combinations, there's always a tiny chance of overlap. If you find a duplicate in the real world, consider it a cosmic coincidence!"
+    },
+    {
+      "question": "Is the generator free to use?",
+      "answer": "Yes! Our Alien Name Generator is completely free. Enjoy unlimited name generation without any hidden costs or subscriptions. It's our gift to the universe!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We love suggestions! Feel free to contact us with your ideas. We're always looking to expand our cosmic vocabulary and make the generator even better."
+    },
+    {
+      "question": "Will the names be suitable for my alien species?",
+      "answer": "That's up to you to decide! We try to generate a wide variety of names that sound alien. The name might sound more suitable for one alien species over another, but it's all subjective!"
+    }
+  ],
+  "prefixes": [
+    "Xylar",
+    "Zorgon",
+    "Kryll",
+    "Glarth",
+    "Vrax",
+    "Lyra",
+    "Zenith",
+    "Nova",
+    "Quasar",
+    "Rylan",
+    "Terra",
+    "Astra",
+    "Sol",
+    "Vega",
+    "Orion",
+    "Cygnus",
+    "Andromeda",
+    "Cassiopeia",
+    "Nebula",
+    "Comet",
+    "Pluto",
+    "Jupiter",
+    "Saturn",
+    "Uranus",
+    "Neptune",
+    "Mars",
+    "Venus",
+    "Mercury"
+  ],
+  "suffixes": [
+    "on-7",
+    "ar-X",
+    "ax-9",
+    "yx-4",
+    "oth",
+    "ar",
+    "yx",
+    "ia",
+    "os",
+    "ex",
+    "is",
+    "us",
+    "ix",
+    "ax",
+    "ox",
+    "ez",
+    "uz",
+    "ez",
+    "oz",
+    "iz",
+    "ar",
+    "or",
+    "ir"
+  ]
+}

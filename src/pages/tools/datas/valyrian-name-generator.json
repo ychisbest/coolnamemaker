@@ -1,0 +1,83 @@
+{
+  "name": "Valyrian Name Generator",
+  "description": "Unleash your inner dragon and forge a name worthy of the Iron Throne! This generator will craft epic Valyrian names, steeped in ancient lore and dripping with power. Perfect for your next fantasy character, role-playing game, or just to feel ridiculously cool.",
+  "slug": "valyrian-name-generator",
+  "icon": "\ud83d\udc09",
+  "introduction": "Ever dreamt of being a Targaryen, Velaryon, or some other ridiculously awesome noble from the world of ice and fire?  Well, your dream just got a whole lot closer!  Our Valyrian Name Generator is here to conjure up names that sound like they were whispered by dragons themselves.  Get ready to claim your legacy!",
+  "howToUse": [
+    "Click the 'Generate' button. (Duh!)",
+    "Keep clicking until you find a name that resonates with your dragon soul.  Seriously, trust your gut.  If it feels right, it's probably right.",
+    "Steal that name!  Use it for your D&D character, your online persona, your pet dragon (if you have one...lucky you!).  The possibilities are endless.",
+    "Brag to your friends about how awesome your new Valyrian name is.  (Optional, but highly encouraged.)"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names *actually* Valyrian?",
+      "answer": "While we can't guarantee 100% authenticity (we haven't exactly been hanging out with Daenerys), we've studied the naming conventions from the books and show to create names that feel authentically Valyrian.  Think of it as 'Valyrian-inspired'."
+    },
+    {
+      "question": "Can I use these names for my book?",
+      "answer": "Absolutely! Consider it a gift from the Mother of Dragons (that's us!).  Just maybe give us a shout-out in the acknowledgements?  We're not greedy... just looking for a little dragon-love."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button!  There are countless combinations, and eventually, you'll find the name that sings to your soul.  Or, you know, just tweak one you almost like.  We won't tell."
+    },
+    {
+      "question": "Can I combine prefixes and suffixes myself?",
+      "answer": "Go for it!  Get creative!  We've provided the building blocks, but you're the architect of your own Valyrian destiny.  Just don't blame us if you accidentally create a name that sounds like a sneeze."
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "As free as a dragon soaring through the sky! Use it as much as you want, no strings (or dragon chains) attached."
+    },
+    {
+      "question": "Will using a Valyrian name make me better at role-playing?",
+      "answer": "While we can't promise you'll suddenly become a master strategist or dragon rider, having a cool name is definitely a step in the right direction. Confidence is key, and a Valyrian name oozes confidence!"
+    }
+  ],
+  "prefixes": [
+    "Aegon",
+    "Viserys",
+    "Daenerys",
+    "Rhaegar",
+    "Aemond",
+    "Jaehaerys",
+    "Alyssa",
+    "Baelon",
+    "Daemon",
+    "Elaena",
+    "Vaegon",
+    "Maegon",
+    "Rhaenys",
+    "Aerion",
+    "Nymeria",
+    "Corlys",
+    "Addam",
+    "Alyn",
+    "Baela",
+    "Rhaena"
+  ],
+  "suffixes": [
+    "gon",
+    "rys",
+    "erys",
+    "gar",
+    "mond",
+    "haerys",
+    "yssa",
+    "lon",
+    "mon",
+    "ena",
+    "gon",
+    "on",
+    "nys",
+    "ion",
+    "ria",
+    "lys",
+    "am",
+    "yn",
+    "ela",
+    "ena"
+  ]
+}

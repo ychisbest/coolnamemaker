@@ -1,0 +1,83 @@
+{
+  "name": "Strip Club Name Generator",
+  "description": "Spice up your nightlife imagination (or actual venture!) with our Strip Club Name Generator. Because every dazzling den of dance deserves a name that's just as unforgettable as its atmosphere.",
+  "slug": "strip-club-name-generator",
+  "icon": "\ud83d\udc83",
+  "introduction": "Ready to open the hottest spot in town, but stuck on a name? Our Strip Club Name Generator is here to ignite your creativity. We'll help you conjure up names that are sexy, sophisticated, and a little bit scandalous \u2013 perfect for attracting the clientele you desire. Whether you're aiming for classy, edgy, or downright cheeky, we've got a name to match your vibe. Let's get this party started!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! We'll conjure up a dazzling array of names, each more tempting than the last.",
+    "Don't like what you see? No problem! Keep clicking until you find the name that makes you say, 'That's it!'",
+    "Feeling inspired? Mix and match your favorite prefixes and suffixes to create a truly unique name that's all your own.",
+    "Once you've found the perfect name, shout it from the rooftops (or at least register the domain name before someone else does!)."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Strip Club Name Generator is 100% free to use. We believe everyone deserves a shot at naming their dream establishment (or their Sims 4 venue!)."
+    },
+    {
+      "question": "Can I use these names for a real strip club?",
+      "answer": "Of course! We encourage you to use these names for any purpose you see fit. Just be sure to check for trademark availability before you go all-in."
+    },
+    {
+      "question": "Are the generated names appropriate?",
+      "answer": "We aim for a balance of sexy and sophisticated, but some names may be a bit on the risqu\u00e9 side. Use your best judgment and choose a name that aligns with your brand."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "You can generate as many names as you want! Our generator is tireless and ready to provide you with endless options."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We're always open to suggestions! Feel free to send us your ideas and we'll consider adding them to our list. The more, the merrier!"
+    },
+    {
+      "question": "Help! I can't decide on a name!",
+      "answer": "Take a deep breath! Try writing down your top three choices and then ask a few trusted friends for their opinions. Sometimes a fresh perspective is all you need."
+    }
+  ],
+  "prefixes": [
+    "Velvet",
+    "Diamond",
+    "Sapphire",
+    "Crimson",
+    "Electric",
+    "Midnight",
+    "Sugar",
+    "Silk",
+    "Secret",
+    "Temptation",
+    "Sinful",
+    "Fantasy",
+    "Exotic",
+    "Starlight",
+    "Platinum",
+    "Golden",
+    "Shadow",
+    "Whisper",
+    "Desire",
+    "Mystic"
+  ],
+  "suffixes": [
+    "Lounge",
+    "Club",
+    "Cabaret",
+    "Room",
+    "Palace",
+    "Emporium",
+    "Hideaway",
+    "Sanctuary",
+    "Oasis",
+    "Garden",
+    "Paradise",
+    "Delights",
+    "Illusions",
+    "Nights",
+    "Dreams",
+    "Pleasures",
+    "Sins",
+    "Whispers",
+    "Secrets",
+    "Fantasies"
+  ]
+}

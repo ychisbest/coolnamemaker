@@ -1,0 +1,97 @@
+{
+  "name": "House Name Generator",
+  "description": "Struggling to find the perfect name for your humble abode? Our House Name Generator will conjure up names that are cozy, classy, and totally you! Prepare to be amazed by the possibilities!",
+  "slug": "house-name-generator",
+  "icon": "\ud83c\udfe0",
+  "introduction": "Your house is more than just bricks and mortar; it's your sanctuary, your castle, your happy place. It deserves a name that reflects its unique character and your personal style. Whether you're after something traditional, whimsical, or downright quirky, our generator is here to spark your imagination and help you find 'the one'. Get ready to discover names that resonate with warmth, charm, and a whole lot of personality!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! We'll whip up a selection of house names faster than you can say 'home sweet home'.",
+    "Don't like the first batch? No problem! Keep clicking until you find a name that makes your heart sing. It's like speed dating, but for house names!",
+    "Feeling creative? Use the generated names as inspiration to create your very own masterpiece. Mix and match, add your own flair, and let your imagination run wild!",
+    "Once you've found the perfect name, proudly display it on a sign, a plaque, or even just shout it from the rooftops! (We're not responsible for any neighborly confusion.)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our House Name Generator is completely free to use. We believe everyone deserves a fantastic house name without breaking the bank."
+    },
+    {
+      "question": "Can I use these names for my business?",
+      "answer": "While the generator is designed for personal use, you're welcome to draw inspiration from the generated names for your business. However, we recommend checking for trademark availability before using any name commercially."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! There's no limit to the number of names you can generate. Keep clicking until you find the perfect fit."
+    },
+    {
+      "question": "Will the generated names be unique?",
+      "answer": "We strive to provide a diverse range of names, but some may be similar to existing house names. We encourage you to check online to ensure your chosen name is sufficiently unique."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added?",
+      "answer": "We're always open to suggestions! Feel free to contact us with your ideas, and we'll consider adding them to our database."
+    },
+    {
+      "question": "I found a name I love! What should I do next?",
+      "answer": "Congratulations! Now it's time to make it official! Get a sign made, tell all your friends, and start using your fabulous new house name!"
+    }
+  ],
+  "prefixes": [
+    "The",
+    "Old",
+    "New",
+    "Green",
+    "Red",
+    "Blue",
+    "White",
+    "Black",
+    "Rose",
+    "Willow",
+    "Oak",
+    "Pine",
+    "Sunnyside",
+    "Riverview",
+    "Hilltop",
+    "Valley",
+    "Seaside",
+    "Westwood",
+    "Eastwood",
+    "Northwood",
+    "Southwood",
+    "Grand",
+    "Little",
+    "Cozy",
+    "Happy",
+    "Dream",
+    "Secret",
+    "Hidden"
+  ],
+  "suffixes": [
+    "House",
+    "Cottage",
+    "Villa",
+    "Manor",
+    "Lodge",
+    "Estate",
+    "Acres",
+    "Gardens",
+    "Farm",
+    "Hall",
+    "Place",
+    "Haven",
+    "Retreat",
+    "View",
+    "Ridge",
+    "Lane",
+    "End",
+    "Corner",
+    "Creek",
+    "Woods",
+    "Glen",
+    "Oaks",
+    "Pines",
+    "Roses",
+    "Willows",
+    "Heights"
+  ]
+}

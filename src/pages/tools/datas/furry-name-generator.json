@@ -1,0 +1,75 @@
+{
+  "name": "Furry Name Generator",
+  "description": "Unleash your inner animal! Find the purr-fectly wild and wonderfully whimsical furry name with our generator. Whether you're roleplaying, creating a character, or just looking for a fun alter ego, we've got you covered. Get ready to embrace your furry side!",
+  "slug": "furry-name-generator",
+  "icon": "\ud83d\udc3e",
+  "introduction": "Tired of the same old boring names? Yearning for something with a little more... *fur*? Then you've come to the right place! Our Furry Name Generator is your one-stop shop for creating names that are as unique and expressive as the furry community itself. From the cute and cuddly to the fierce and fabulous, we've got the tools to help you discover your ultimate furry persona.",
+  "howToUse": [
+    "Simply click the 'Generate' button and prepare to be amazed!",
+    "Don't like what you see? No problem! Click again for a fresh batch of furry-tastic names.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create your own custom combinations. The possibilities are endless!",
+    "Once you've found the purr-fect name, copy it and share it with the world! (Or keep it your little secret... we won't judge \ud83d\ude09)"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names can I generate?",
+      "answer": "Our generator creates a wide variety of furry names, from the traditional and whimsical to the modern and edgy. You'll find names suitable for all kinds of furry characters and personalities."
+    },
+    {
+      "question": "Can I use these names for my original characters (OCs)?",
+      "answer": "Absolutely! That's exactly what this generator is for! Feel free to use any name you generate for your OCs, roleplaying characters, or anything else your furry heart desires."
+    },
+    {
+      "question": "Are the names generated randomly?",
+      "answer": "Yes, the names are generated randomly using a combination of prefixes and suffixes. This ensures that you'll get a unique and surprising result every time."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your suggestions! Feel free to contact us with your ideas, and we'll consider adding them to our database."
+    },
+    {
+      "question": "Is it okay to use a name that someone else is already using?",
+      "answer": "While the names are generated randomly, it's always a good idea to do a quick search to make sure the name isn't already heavily associated with another character or person. Ultimately, the choice is yours, but it's best to be mindful and respectful of others."
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We try to update the generator regularly with new and exciting prefixes and suffixes to keep the names fresh and interesting. Check back often to see what's new!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Silver",
+    "Crimson",
+    "Aqua",
+    "Storm",
+    "Wild",
+    "Frost",
+    " Ember",
+    "Midnight",
+    "Honey",
+    "Pixel",
+    "Glitch",
+    "Neon",
+    "Cosmic",
+    "Lunar",
+    "Solar"
+  ],
+  "suffixes": [
+    "claw",
+    "fang",
+    "tail",
+    "whisker",
+    "paw",
+    "fur",
+    "shade",
+    "bloom",
+    "storm",
+    "heart",
+    "byte",
+    "spark",
+    "glow",
+    "nova",
+    "moon",
+    "flare"
+  ]
+}

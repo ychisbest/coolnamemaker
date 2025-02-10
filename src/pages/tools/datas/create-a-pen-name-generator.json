@@ -1,0 +1,91 @@
+{
+  "name": "Pen Name Generator",
+  "description": "Stuck with your real name? Unleash your inner author with our Pen Name Generator! Find the perfect nom de plume and become the literary sensation you were always meant to be.",
+  "slug": "pen-name-generator",
+  "icon": "\u270d\ufe0f",
+  "introduction": "Let's face it, sometimes your birth name just doesn't *scream* 'bestselling author.' Whether you're looking for a touch of mystery, a dash of intrigue, or just something a little more... you, our Pen Name Generator is here to help you craft the perfect literary alias. Say goodbye to writer's block and hello to a name that's as captivating as your stories!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! We'll conjure up a plethora of potential pen names for your consideration.",
+    "Don't like what you see? No problem! Keep hitting that button until a name whispers to your soul (or at least sounds vaguely plausible).",
+    "Feeling creative? Mix and match prefixes and suffixes to create a truly unique pen name masterpiece.",
+    "Once you've found 'the one,' write it down! (Seriously, don't forget it.) And get ready to become a literary legend!"
+  ],
+  "faqs": [
+    {
+      "question": "Why do I need a pen name?",
+      "answer": "Maybe your real name is too common, too difficult to pronounce, or just doesn't fit your writing style. Or perhaps you want to separate your writing life from your personal life. Whatever the reason, a pen name can be a powerful tool for authors."
+    },
+    {
+      "question": "Can I use any pen name I want?",
+      "answer": "Technically, yes! But it's a good idea to do a quick search online to make sure your chosen name isn't already in use by another author, especially in your genre. You don't want any confusion (or legal trouble!)."
+    },
+    {
+      "question": "Is it illegal to use a pen name?",
+      "answer": "Not at all! Using a pen name is perfectly legal as long as you're not trying to deceive anyone or commit fraud. You'll still need to use your real name for legal and financial purposes, like contracts and royalties."
+    },
+    {
+      "question": "How do I protect my pen name?",
+      "answer": "While you can't copyright a name itself, you can trademark it. This protects your pen name from being used by others in a way that could cause confusion with your work. Consult with a legal professional for more information."
+    },
+    {
+      "question": "Will using a pen name affect my royalties or publishing contracts?",
+      "answer": "No, as long as you properly register your pen name with your publisher and provide your legal name for contracts and royalty payments, everything will be smooth sailing. The pen name is simply the name that appears on your book cover."
+    },
+    {
+      "question": "Can I change my pen name later?",
+      "answer": "You *can*, but it's generally not recommended. Building a brand and readership takes time, and changing your name can confuse your fans. Choose wisely, young padawan!"
+    }
+  ],
+  "prefixes": [
+    "A.",
+    "J.",
+    "K.",
+    "M.",
+    "S.",
+    "Ember",
+    "Shadow",
+    "Crimson",
+    "Iron",
+    "Silver",
+    "Whisper",
+    "Storm",
+    "Raven",
+    "Willow",
+    "Hazel",
+    "River",
+    "Skye",
+    "Ash",
+    "Sage",
+    "Rowan",
+    "Indigo",
+    "Jasper",
+    "Lyric",
+    "Zephyr"
+  ],
+  "suffixes": [
+    "Blackwood",
+    "Thorne",
+    "Rivers",
+    "Stone",
+    "Vale",
+    "Hollow",
+    "Creek",
+    "Wells",
+    "Briar",
+    "Frost",
+    "Night",
+    "Day",
+    "Moon",
+    "Sun",
+    "Light",
+    "West",
+    "East",
+    "North",
+    "South",
+    "Bell",
+    "Winter",
+    "Summer",
+    "Spring",
+    "Autumn"
+  ]
+}

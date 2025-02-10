@@ -1,0 +1,84 @@
+{
+  "name": "Flower Name Generator",
+  "description": "Unleash your inner botanist and blossom with the perfect flower-inspired name! Whether you're naming a character, a business, or just looking for a unique online handle, our Flower Name Generator will cultivate a bouquet of beautiful possibilities. Get ready to be rooted in awesome!",
+  "slug": "flower-name-generator",
+  "icon": "\ud83c\udf38",
+  "introduction": "Stuck in a thorny situation trying to come up with the perfect name? Don't wilt! Our Flower Name Generator is here to help you bloom with creativity. We've cultivated a garden of prefixes and suffixes inspired by the beauty and diversity of flowers. From the delicate petals of a rose to the vibrant hues of a sunflower, we've got the ingredients to create a name that's uniquely you... or your character... or your pet goldfish. Let's get growing!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! Our generator will combine prefixes and suffixes to create a variety of flower-inspired names.",
+    "Don't like what you see? No problem! Click 'Generate' again for a fresh batch of floral fantasies.",
+    "Found a name you love? Copy it and share it with the world! Or keep it a secret... we won't tell.",
+    "Feeling adventurous? Try generating names multiple times and mix and match parts of different names to create your own unique masterpiece. Think 'Sun' from Sunflower and 'Bloom' from BloomBerry. You're the artist!",
+    "Remember, there are no rules! Let your imagination run wild and have fun!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names can I generate?",
+      "answer": "Our generator creates names inspired by flowers, combining prefixes and suffixes that evoke the beauty and essence of the floral world. Expect a mix of realistic and fantastical names!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we provide the generator for creative inspiration, it's your responsibility to ensure that the name you choose is not already trademarked or in use by another entity. Do your due diligence before using a generated name for commercial purposes."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes, the names are generated randomly by combining elements from our curated list of prefixes and suffixes. This ensures a wide variety of unique and unexpected results!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes to be added to the generator?",
+      "answer": "We're always open to suggestions! Feel free to reach out to us with your ideas. While we can't guarantee that every suggestion will be implemented, we appreciate your input and will consider it for future updates."
+    },
+    {
+      "question": "Is the Flower Name Generator free to use?",
+      "answer": "Absolutely! Our Flower Name Generator is completely free to use. We want to spread the joy of creativity and help you find the perfect name without costing you a dime."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! There are no limits. Keep clicking that 'Generate' button until you find 'the one'!"
+    }
+  ],
+  "prefixes": [
+    "Sun",
+    "Rose",
+    "Lily",
+    "Daisy",
+    "Bloom",
+    "Petal",
+    "Thorn",
+    "Violet",
+    "Astra",
+    "Flora",
+    "Aqua",
+    "Shadow",
+    "Moon",
+    "Star",
+    "Whisper",
+    "Dawn",
+    "Ever",
+    "Wild",
+    "Sky",
+    "Amber"
+  ],
+  "suffixes": [
+    "Bloom",
+    "Petal",
+    "Thorn",
+    "Field",
+    "Berry",
+    "Leaf",
+    "Bud",
+    "Blossom",
+    "Vine",
+    "Dew",
+    "Glow",
+    "Shade",
+    "Light",
+    "Song",
+    "Wind",
+    "Heart",
+    "Stone",
+    "River",
+    "Vale",
+    "Wood"
+  ]
+}

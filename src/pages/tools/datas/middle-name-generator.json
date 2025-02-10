@@ -1,0 +1,83 @@
+{
+  "name": "Middle Name Generator",
+  "description": "Stuck with a middle name that's, well, *meh*?  Unleash your inner awesome with our Middle Name Generator! We're not just tossing out random syllables; we're crafting middle names that add a dash of spice, a sprinkle of cool, and a whole lotta 'Wow, that's *your* middle name?!'",
+  "slug": "middle-name-generator",
+  "icon": "\ud83d\ude0e",
+  "introduction": "Let's face it, middle names often get the short end of the stick. They're like the backup dancers of your personal brand. But what if your middle name could be as epic as your first and last? Our generator is here to transform your middle name from 'forgettable' to 'absolutely unforgettable.' Get ready to discover a middle name that's so cool, people will start asking for *your* autograph!",
+  "howToUse": [
+    "Ready to ditch the 'blah' middle name? Just hit the 'Generate' button!",
+    "Keep clicking until you find a middle name that makes you go 'Ooh, I like that!' (or even 'OMG, I *love* that!')",
+    "Steal it! (Okay, maybe not *steal* it, but definitely consider adopting it as your new online persona, pen name, or secret identity!)",
+    "Share your awesome new middle name with the world (or keep it your little secret \u2013 we won't judge!)."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to give me a *good* middle name?",
+      "answer": "Good is subjective, my friend. But we're aiming for *amazing*. We're talking middle names that'll make your grandma raise an eyebrow and your friends say, 'Whoa, where'd you get *that*?'"
+    },
+    {
+      "question": "Can I legally change my middle name to something from this generator?",
+      "answer": "That's between you, your local government, and your sense of adventure! We're just here to provide inspiration.  Always check local laws and regulations before making any legal name changes."
+    },
+    {
+      "question": "Are the middle names generated completely random?",
+      "answer": "Not entirely! We've got a secret sauce blend of classic, modern, quirky, and downright bizarre names. We carefully curate our lists to ensure a mix of awesome possibilities."
+    },
+    {
+      "question": "I don't like any of the middle names. What do I do?",
+      "answer": "Keep clicking!  Seriously, that's the beauty of a generator.  There are infinite possibilities (or at least a whole lot of them).  Eventually, you'll find one that sparks joy."
+    },
+    {
+      "question": "Will using a cooler middle name actually make my life better?",
+      "answer": "We can't guarantee world peace or a winning lottery ticket, but a cooler middle name *will* make you slightly more interesting at parties. And that's gotta count for something, right?"
+    },
+    {
+      "question": "Can I use these middle names for my characters in a book or game?",
+      "answer": "Absolutely! That's a fantastic idea. Go forth and bestow awesome middle names upon your fictional creations!"
+    }
+  ],
+  "prefixes": [
+    "Storm",
+    "Shadow",
+    "Blaze",
+    "Phoenix",
+    "Titan",
+    "Nova",
+    "Zenith",
+    "Echo",
+    "Crimson",
+    "Azure",
+    "Onyx",
+    "Mystic",
+    "Rebel",
+    "Valiant",
+    "Seraph",
+    "Iron",
+    "Steel",
+    "Rogue",
+    "Legend",
+    "Phantom"
+  ],
+  "suffixes": [
+    "Rider",
+    "Hunter",
+    "Blade",
+    "Heart",
+    "Strike",
+    "Song",
+    "Wolf",
+    "Hawk",
+    "Flame",
+    "Frost",
+    "Stone",
+    "Wind",
+    "Bloom",
+    "Gaze",
+    "Thorn",
+    "Shield",
+    "Claw",
+    "Fang",
+    "Dream",
+    "Light"
+  ]
+}

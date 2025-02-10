@@ -1,0 +1,96 @@
+{
+  "name": "Baby Name Generator (Parents' Names)",
+  "description": "Struggling to find the *perfect* name for your little bundle of joy? Let's face it, naming a human is HARD. This generator blends your names (or any two names, really \u2013 get creative!) to create unique and meaningful baby names. Prepare for some seriously adorable results!",
+  "slug": "baby-name-generator-parents-names",
+  "icon": "\ud83d\udc76",
+  "introduction": "So, you're about to welcome a tiny human into the world, congratulations! But the age-old question looms: What to name them? Forget endless baby name books and exhausting family debates. Our Baby Name Generator uses a dash of parental magic (aka, your names!) to conjure up unique and heartwarming names. It's fun, it's easy, and it might just be the answer you've been searching for. Get ready to unleash the naming possibilities!",
+  "howToUse": [
+    "First, bravely enter the first parent's name. Don't worry, we won't tell anyone if you're using your pet's name instead... \ud83d\ude09",
+    "Next, input the second parent's name (or whoever's name you want to blend!).",
+    "Hit that 'Generate' button and prepare to be amazed (or at least mildly amused).",
+    "Scroll through the list of generated names. Some might be silly, some might be surprisingly perfect!",
+    "Don't be afraid to mix and match, tweak, or use the generated names as inspiration for your own creations. Happy naming!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator *actually* going to give me the perfect baby name?",
+      "answer": "While we can't guarantee perfection (perfection is subjective, after all!), we're confident this generator will spark some creative ideas and maybe even lead you to 'the one'. Think of it as a fun brainstorming session with a slightly-too-enthusiastic AI."
+    },
+    {
+      "question": "Can I use this generator for things other than baby names?",
+      "answer": "Absolutely! Name a pet, a character in your novel, a new company \u2013 the possibilities are endless! We won't judge (much)."
+    },
+    {
+      "question": "Are the generated names actually 'real' names?",
+      "answer": "Some might be, some might not be. The generator blends names in unique ways, so you might end up with something totally original. It's all part of the fun!"
+    },
+    {
+      "question": "The generated names are... interesting. What if I don't like any of them?",
+      "answer": "That's perfectly okay! Use them as inspiration. Maybe you like part of one name and part of another. The goal is to get your creative juices flowing!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yep! Use it as much as your heart desires. We just hope you find the perfect name (or at least have a good laugh trying)."
+    },
+    {
+      "question": "Can I use names from famous people?",
+      "answer": "You sure can! Just be prepared for potential associations (good or bad) that come with those names."
+    }
+  ],
+  "prefixes": [
+    "Al",
+    "Ben",
+    "Cha",
+    "Dav",
+    "Eli",
+    "Flo",
+    "Gre",
+    "Han",
+    "Isa",
+    "Jac",
+    "Kel",
+    "Leo",
+    "Mic",
+    "Nat",
+    "Oli",
+    "Pet",
+    "Qui",
+    "Rob",
+    "Sam",
+    "The",
+    "Uri",
+    "Vic",
+    "Wil",
+    "Xan",
+    "Yar",
+    "Zac"
+  ],
+  "suffixes": [
+    "a",
+    "er",
+    "ie",
+    "on",
+    "an",
+    "ia",
+    "lyn",
+    "son",
+    "ton",
+    "iel",
+    "ing",
+    "ard",
+    "ett",
+    "ice",
+    "ine",
+    "ley",
+    "man",
+    "ney",
+    "ock",
+    "old",
+    "uel",
+    "vis",
+    "win",
+    "yer",
+    "zel",
+    "air"
+  ]
+}

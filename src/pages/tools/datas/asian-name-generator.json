@@ -1,0 +1,62 @@
+{
+  "name": "Asian Name Generator",
+  "description": "Struggling to find the perfect Asian name? Whether you're writing a story, naming a character, or just curious, our Asian Name Generator is here to sprinkle some cultural magic into your search!",
+  "slug": "asian-name-generator",
+  "icon": "\ud83c\udf8e",
+  "introduction": "Unlock a world of beautiful and authentic Asian names! From the serene mountains of Japan to the bustling streets of Hong Kong, discover names that resonate with history, meaning, and a touch of the exotic. Get ready to be inspired!",
+  "howToUse": [
+    "Simply click the 'Generate' button \u2013 it's like shaking a fortune cookie, but instead of wisdom, you get a name!",
+    "Keep clicking until a name jumps out at you like a perfectly ripe mango.",
+    "Feeling adventurous? Tweak the prefixes and suffixes to create a truly unique and unforgettable name. It's your name-making destiny, embrace it!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names authentic?",
+      "answer": "We've scoured the globe (virtually, of course!) to bring you a diverse selection of names from various Asian cultures. While we can't guarantee 100% authenticity for every single name combination, we strive to provide a respectful and accurate representation."
+    },
+    {
+      "question": "Can I use these names for my story characters?",
+      "answer": "Absolutely! That's what this generator is for! Use them as inspiration, or take them as is. Just be mindful of cultural sensitivity and do your research if you want to delve deeper into the meaning and origin of the name."
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yes, it's as free as the air you breathe! Generate as many names as your heart desires without spending a single penny."
+    },
+    {
+      "question": "How often is the name list updated?",
+      "answer": "We're constantly adding new names and refining our algorithm to keep things fresh and exciting. Check back often for new possibilities!"
+    },
+    {
+      "question": "Can I suggest names to be added to the generator?",
+      "answer": "We'd love to hear from you! If you have any suggestions for names or cultural nuances we should consider, please send us a message through our contact form. We appreciate your help in making our generator even better!"
+    },
+    {
+      "question": "Will the generated name be unique?",
+      "answer": "While we strive to generate a wide variety of names, there's always a chance of overlap. If you're looking for absolute uniqueness, we recommend tweaking the generated name or combining elements to create something truly special."
+    }
+  ],
+  "prefixes": [
+    "Mei",
+    "Lin",
+    "Ken",
+    "Haru",
+    "Aki",
+    "Jia",
+    "Sun",
+    "Lee",
+    "Min",
+    "Soo"
+  ],
+  "suffixes": [
+    "ko",
+    "ka",
+    "shi",
+    "ya",
+    "ri",
+    "hua",
+    "jung",
+    "hyun",
+    "ah",
+    "na"
+  ]
+}

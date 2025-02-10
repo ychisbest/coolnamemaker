@@ -1,0 +1,79 @@
+{
+  "name": "Mermaid Name Generator",
+  "description": "Dive into the enchanting depths and discover your mystical mermaid name! Unleash your inner siren with our fin-tastic generator.",
+  "slug": "mermaid-name-generator",
+  "icon": "\ud83e\udddc\u200d\u2640\ufe0f",
+  "introduction": "Ever dreamed of trading your feet for fins? Of course you have! Our Mermaid Name Generator is here to grant you a glimpse into that underwater world. Whether you're writing a fantasy novel, role-playing, or just feeling a little whimsical, we'll conjure up a name worthy of the deepest, most glamorous ocean realms. So, ditch the landlubber life for a moment and embrace your inner mermaid!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A dazzling mermaid name will appear, shimmering like sunlight on the waves.",
+    "Don't like the first name you see? Keep clicking! The ocean is vast, and so are the possibilities.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a name that's uniquely *you*.",
+    "Share your newfound mermaid name with your friends and start your own underwater coven! (Mermaid parties are way cooler than land parties, just sayin')."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "Our generator crafts names inspired by mythology, folklore, and the sheer magic of the ocean. Expect names that sound both beautiful and powerful, fit for a mermaid queen or a mischievous sea nymph."
+    },
+    {
+      "question": "Can I use these names for my book/game/character?",
+      "answer": "Absolutely! Consider these names a gift from the sea. Use them freely to bring your creative projects to life. Just promise to mention us to all your mermaid friends, okay?"
+    },
+    {
+      "question": "Are the names generated unique?",
+      "answer": "While we strive for variety, some names might overlap. The ocean is big, but sometimes currents cross! Feel free to tweak and customize any name to make it truly your own."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, it's as free as the ocean is deep! Dive in and generate as many mermaid names as your heart desires. No hidden fees, no catches \u2013 just pure, unadulterated mermaid magic."
+    },
+    {
+      "question": "Will this generator turn me into a real mermaid?",
+      "answer": "While we can't guarantee actual transformation (sadly, we're not *that* magical), we *can* promise to ignite your imagination and bring a little bit of mermaid sparkle into your day. So, close your eyes, make a wish, and who knows what might happen?"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions via the contact form on our website. We're always looking for ways to expand our mermaid vocabulary and make the generator even more enchanting."
+    }
+  ],
+  "prefixes": [
+    "Aqua",
+    "Coral",
+    "Marina",
+    "Ocea",
+    "Serena",
+    "Tide",
+    "Wave",
+    "Pearl",
+    "Siren",
+    "Deep",
+    "Azure",
+    "Mystic",
+    "Neptu",
+    "Sea",
+    "Storm",
+    "Reef",
+    "Glitter",
+    "Shimmer"
+  ],
+  "suffixes": [
+    "ia",
+    "na",
+    "lynn",
+    "belle",
+    "dria",
+    "dine",
+    "mara",
+    "ella",
+    "luna",
+    "sea",
+    "wave",
+    "star",
+    "fin",
+    "tail",
+    "whisper",
+    "song",
+    "shine",
+    "bloom"
+  ]
+}

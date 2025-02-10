@@ -1,0 +1,73 @@
+{
+  "name": "My Little Pony Name Generator",
+  "description": "Gallop into the magical world of Equestria and discover your perfect pony persona! This generator creates names that sparkle with friendship, adventure, and a dash of pony power. \u2728 Neigh problem finding your inner pony!",
+  "slug": "my-little-pony-name-generator",
+  "icon": "\ud83e\udd84",
+  "introduction": "Ever dreamed of being a dazzling pony in Ponyville? Now you can! Our My Little Pony Name Generator conjures up names worthy of a princess, a brave adventurer, or a charming baker. Get ready to embrace your pony side and discover the name that's destined for you!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic!",
+    "Not feeling the pony love with the first name? Keep clicking! We've got a whole stable of names waiting for you.",
+    "Found the *perfect* name? Copy it and share it with your friends! Let them know who your pony self really is.",
+    "Want to get really creative? Mix and match prefixes and suffixes to craft a truly unique pony identity. Go wild!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names *actually* good?",
+      "answer": "Are you kidding? These names are *neigh*-believably fantastic! We've consulted with the Mane Six themselves to ensure maximum pony awesomeness."
+    },
+    {
+      "question": "Can I use these names for my fan fiction?",
+      "answer": "Absolutely! We encourage creativity and spreading the pony love. Go forth and write epic tales of friendship and magic!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With countless combinations, you're bound to find a name that resonates with your inner pony. Or, get inspired and create your own based on the prefixes and suffixes!"
+    },
+    {
+      "question": "Will this generator turn me into a real pony?",
+      "answer": "While we can't guarantee physical transformation (sorry!), we *can* guarantee a boost in your pony spirit and a whole lot of fun. Embrace the magic!"
+    },
+    {
+      "question": "Is this generator safe for foals?",
+      "answer": "Yes! This generator is family-friendly and full of sparkly, wholesome fun. Share the pony joy with everyone!"
+    },
+    {
+      "question": "Can I use these names for my pet?",
+      "answer": "Of course! If you have a pet that embodies the spirit of a pony, feel free to use these names. Just imagine calling your dog 'Rainbow Daschund'!"
+    }
+  ],
+  "prefixes": [
+    "Sparkle",
+    "Rainbow",
+    "Flutter",
+    "Apple",
+    "Twilight",
+    "Pinkie",
+    "Shining",
+    "Crystal",
+    "Daring",
+    "Sugar",
+    "Moon",
+    "Star",
+    "Royal",
+    "Princess",
+    "Diamond"
+  ],
+  "suffixes": [
+    "Shine",
+    "Dash",
+    "shy",
+    "Bloom",
+    "Sparkle",
+    "Pie",
+    "Armor",
+    "Heart",
+    "Do",
+    "Sweet",
+    "Gleam",
+    "Dust",
+    "Majesty",
+    "Belle",
+    "Tiara"
+  ]
+}

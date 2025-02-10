@@ -1,0 +1,77 @@
+{
+  "name": "Russian Name Generator",
+  "description": "Need a cool, mysterious, or just plain fun Russian name? Look no further! Our generator crafts authentic-sounding names perfect for characters, pen names, or just sparking your imagination. Unleash your inner Dimitri (or Anastasia!).",
+  "slug": "russian-name-generator",
+  "icon": "\ud83c\uddf7\ud83c\uddfa",
+  "introduction": "Da! You've arrived at the ultimate destination for generating awesome Russian names. Whether you're writing a novel, creating a game character, or simply curious, we'll conjure up a name that's as captivating as a winter's night in Moscow. Prepare to be amazed by the sheer coolness!",
+  "howToUse": [
+    "Simply click the 'Generate' button. Like, seriously, that's it. We've made it idiot-proof (because we love you).",
+    "Keep clicking until you find a name that resonates with your soul. Don't settle for anything less than pure, unadulterated Russian awesomeness.",
+    "Copy and paste your newfound name into your project. Become the envy of all your friends (or at least mildly impress them)."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually Russian?",
+      "answer": "Mostly! We use a combination of common Russian names, prefixes, and suffixes to create names that sound authentic. While some might be a bit\u2026 creative, they're all inspired by the rich tapestry of Russian nomenclature."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once you generate a name, it's yours to use as you see fit. Go forth and conquer the world with your awesome Russian moniker!"
+    },
+    {
+      "question": "Will I offend anyone by using one of these names?",
+      "answer": "Probably not. These names are generated for fun and creative purposes. However, it's always a good idea to be mindful of cultural sensitivities. If you're unsure, do a little research!"
+    },
+    {
+      "question": "Why are some of the names so\u2026 unusual?",
+      "answer": "We like to add a little spice! Some names might sound a bit quirky or unexpected, but that's part of the fun. Embrace the weirdness!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form. We're always looking for ways to improve our generator and make it even more awesome."
+    },
+    {
+      "question": "Is this generator endorsed by the Russian government?",
+      "answer": "Haha! No. We're just a bunch of nerds who love names. No political affiliations here, just pure, unadulterated naming fun."
+    }
+  ],
+  "prefixes": [
+    "Vlad",
+    "Dimitri",
+    "Nikolai",
+    "Sergei",
+    "Ivan",
+    "Yuri",
+    "Alexei",
+    "Mikhail",
+    "Boris",
+    "Fyodor",
+    "Anastasia",
+    "Svetlana",
+    "Natalia",
+    "Irina",
+    "Elena",
+    "Olga",
+    "Tatiana",
+    "Maria",
+    "Ekaterina",
+    "Sofia"
+  ],
+  "suffixes": [
+    "mir",
+    "slav",
+    "vich",
+    "ov",
+    "ova",
+    "enko",
+    "ina",
+    "sky",
+    "skaya",
+    "ev",
+    "eva",
+    "enko",
+    "ova",
+    "in",
+    "ina"
+  ]
+}

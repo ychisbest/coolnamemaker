@@ -1,0 +1,69 @@
+{
+  "name": "Earth Horse Name Generator",
+  "description": "Unleash your inner equestrian spirit with names forged from the very essence of the earth and the untamed power of horses! Find a name that's both grounded and gallops with energy.",
+  "slug": "earth-horse-name-generator",
+  "icon": "\ud83d\udc34\ud83c\udf0d",
+  "introduction": "Ever felt a connection to both the solid ground beneath your feet and the majestic grace of a horse? This generator is your portal to a world where earthy tones meet equine elegance. Whether you're naming a character, a project, or just searching for a cool, unique moniker, prepare to be inspired by the raw beauty of nature and the spirited energy of these magnificent creatures.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A name crafted from earthy prefixes and horsey suffixes will appear.",
+    "Not feeling the current vibe? No problemo! Click again for a fresh, new combination. We've got more names than a stable has hay!",
+    "Found 'the one'? Copy that name and gallop off to use it for your book, game, or whatever your heart desires. It's yours to claim!",
+    "Feeling adventurous? Mix and match prefixes and suffixes yourself. You're the stable master here!"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names will this generator produce?",
+      "answer": "Expect names that evoke the strength of the earth and the freedom of a horse. Think along the lines of 'Stonehoof', 'Embermane', or 'Claygallop'. They're earthy, equestrian, and totally awesome."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once you've generated a name and decided it's perfect, it's yours to use as you see fit. Go forth and conquer the world with your perfectly named creation!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes, the names are generated using a random combination of prefixes and suffixes, ensuring each result is unique and surprising. You might get something truly unexpected!"
+    },
+    {
+      "question": "Will the generator ever run out of names?",
+      "answer": "Highly unlikely! We have a vast stable of prefixes and suffixes, providing countless possible combinations. You'll be generating names until the cows (or horses!) come home."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form. We're always looking for ways to expand our name-generating horizons and make this tool even better."
+    },
+    {
+      "question": "Why Earth Horse? What's the big deal?",
+      "answer": "Because the earth is grounding, powerful, and provides life. Horses are symbols of freedom, strength, and beauty. Combine them, and you get names that resonate with both inner peace and untamed spirit. What's NOT to love?"
+    }
+  ],
+  "prefixes": [
+    "Stone",
+    "Ember",
+    "Clay",
+    "Iron",
+    "Dust",
+    "Copper",
+    "Willow",
+    "Shadow",
+    "Crimson",
+    "Wild",
+    "Terra",
+    "Rocky",
+    "Granite"
+  ],
+  "suffixes": [
+    "hoof",
+    "mane",
+    "gallop",
+    "stride",
+    "wind",
+    "blaze",
+    "runner",
+    "rider",
+    "heart",
+    "spirit",
+    "song",
+    "dancer",
+    "creek"
+  ]
+}

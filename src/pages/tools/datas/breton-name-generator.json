@@ -1,0 +1,74 @@
+{
+  "name": "Breton Name Generator",
+  "description": "Struggling to find the perfect Breton name that screams adventure, mystery, and maybe just a hint of sea salt? Look no further! Our Breton Name Generator is here to conjure up names worthy of legends, inspired by the rugged coastlines and enchanting folklore of Brittany. Get ready to embark on a naming quest that's more fun than a treasure hunt!",
+  "slug": "breton-name-generator",
+  "icon": "\ud83c\udf0a",
+  "introduction": "Dive into the rich tapestry of Breton culture with our name generator! Whether you're crafting a character for your next fantasy novel, naming a pet with a touch of Celtic flair, or simply curious about Breton naming traditions, we've got you covered. Prepare to be amazed by the unique and evocative names that await!",
+  "howToUse": [
+    "Simply click the 'Generate' button and *voil\u00e0!* A brand new, totally awesome Breton name appears!",
+    "Not feeling the first result? No worries! Keep clicking until a name resonates with your inner bard or brave knight.",
+    "Want something *extra* special? Tweak the prefixes and suffixes to craft a name that's uniquely yours. It's like being a name alchemist, but without the messy potions!",
+    "Share your amazing Breton name with the world! Brag about it to your friends, use it in your online games, or even name your next boat after it. The possibilities are endless!"
+  ],
+  "faqs": [
+    {
+      "question": "What makes a name 'Breton'?",
+      "answer": "Breton names often draw inspiration from the Breton language, Celtic mythology, and historical figures from Brittany. They frequently feature unique sounds and combinations that set them apart."
+    },
+    {
+      "question": "Can I use these names for characters in my book or game?",
+      "answer": "Absolutely! That's exactly what this generator is for. Feel free to use any name you generate for your creative projects. Just give us a shout-out if you become a bestseller! \ud83d\ude09"
+    },
+    {
+      "question": "Are these names suitable for boys and girls?",
+      "answer": "Some names are traditionally more masculine or feminine, but many Breton names are wonderfully gender-neutral. Use your intuition and choose the name that feels right for your character or purpose."
+    },
+    {
+      "question": "Does the generator create real Breton names?",
+      "answer": "The generator combines common Breton name elements to create names that *sound* authentically Breton. While not all names will be historically accurate, they capture the essence and spirit of Breton naming traditions."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Please feel free to contact us with your suggestions. We're always looking for ways to improve and expand our name generator's capabilities."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes, absolutely! Use it as much as you like. We just hope you find the perfect name for your needs!"
+    }
+  ],
+  "prefixes": [
+    "Alan",
+    "Gwen",
+    "Riwal",
+    "Morvan",
+    "Yvon",
+    "Kaer",
+    "Bran",
+    "Edern",
+    "Hoel",
+    "Jud",
+    "Mael",
+    "Nol",
+    "Per",
+    "Ronan",
+    "Tanguy"
+  ],
+  "suffixes": [
+    "nec",
+    "a\u00ebl",
+    "van",
+    "wen",
+    "gan",
+    "nou",
+    "wenn",
+    "dig",
+    "rik",
+    "val",
+    "ian",
+    "ig",
+    "dreuz",
+    "laouen",
+    "mael",
+    "hael"
+  ]
+}

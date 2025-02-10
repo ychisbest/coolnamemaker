@@ -1,0 +1,84 @@
+{
+  "name": "Fantasy Nation Name Generator",
+  "description": "Struggling to name your epic fantasy nation? Fear not, adventurer! Our generator conjures up names worthy of legends, from shimmering kingdoms to shadow-haunted republics. Get ready to unleash a realm of possibilities!",
+  "slug": "fantasy-nation-name-generator",
+  "icon": "\ud83c\udff0",
+  "introduction": "Welcome, world-builder! Every great fantasy story starts with a compelling location. And what's a location without a name that resonates with power, mystery, and maybe just a touch of whimsy? This generator is your magical quill, ready to scribe the perfect moniker for your burgeoning empire, hidden village, or even that suspiciously swampy collective of goblins. Prepare to be inspired!",
+  "howToUse": [
+    "Click the 'Generate' button. Duh!",
+    "Observe the awesome name that appears before your very eyes. (It's like magic, but with less chanting.)",
+    "If the name doesn't quite tickle your fancy, hit 'Generate' again! We've got enough fantasy names to fill a dragon's hoard.",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own unique masterpiece! The fate of your fictional nation rests in your hands!",
+    "Copy and paste your chosen name into your worldbuilding document, novel, or D&D campaign. Bask in the glory of your naming prowess."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator truly free?",
+      "answer": "Absolutely! We believe that every aspiring fantasy author and world-builder deserves access to awesome names without breaking the bank. Consider it a gift from the realm of creativity."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You bet! Once a name is generated, it's yours to use as you see fit. Create a best-selling novel, design a hit video game, or even start a real-world nation (though we can't guarantee its success)."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Mostly! Our algorithm combines elements of classic fantasy nomenclature with a dash of chaotic inspiration. It's a delicate balance of structure and surprise."
+    },
+    {
+      "question": "Will this generator help me write a better fantasy novel?",
+      "answer": "While we can't guarantee literary success, a great name is definitely a step in the right direction! A captivating name can instantly draw readers into your world and set the tone for your story."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! With countless combinations, you're bound to find a name that resonates with your vision. And remember, you can always tweak the names to make them your own. After all, you're the ruler of this fictional realm!"
+    },
+    {
+      "question": "Can I suggest new prefixes and suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Feel free to contact us with your suggestions, and we'll consider adding them to our ever-expanding list of fantasy name components."
+    }
+  ],
+  "prefixes": [
+    "Eldoria",
+    "Silverwood",
+    "Northwind",
+    "Shadowfen",
+    "Sunstone",
+    "Dragonpeak",
+    "Whisperwind",
+    "Ironclad",
+    "Stormhaven",
+    "Aethel",
+    "Grim",
+    "Ever",
+    "Frost",
+    "Gloom",
+    "Dawn",
+    "Duskhaven",
+    "Ember",
+    "Wyvern",
+    "Serpent",
+    "Gryphon"
+  ],
+  "suffixes": [
+    "gard",
+    "vale",
+    "wood",
+    "fell",
+    "shire",
+    "hold",
+    "ton",
+    "wick",
+    "ford",
+    "stead",
+    "heim",
+    "ia",
+    "mere",
+    "crest",
+    "glade",
+    "reach",
+    "spire",
+    "dell",
+    "brook",
+    "mount"
+  ]
+}

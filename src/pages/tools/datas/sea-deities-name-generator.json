@@ -1,0 +1,83 @@
+{
+  "name": "Sea Deity Name Generator",
+  "description": "Unleash the power of the ocean! Generate mythical names fit for gods and goddesses of the deep. Perfect for your next fantasy character, game, or just a splash of inspiration.",
+  "slug": "sea-deities-name-generator",
+  "icon": "\ud83c\udf0a",
+  "introduction": "Dive into a world of ancient lore and oceanic majesty. Our Sea Deity Name Generator crafts names that echo with the power of the tides, the mystery of the abyss, and the grace of marine legends. Whether you're creating a powerful Poseidon-like figure or a serene mermaid queen, find the perfect name to bring your sea deity to life!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A new, awe-inspiring sea deity name will surface.",
+    "Don't like the first one? Keep clicking! The ocean is vast and full of possibilities \u2013 just like our generator.",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own unique deity name! Go wild, you magnificent kraken!",
+    "Use these names for characters, stories, games, or even your pet goldfish (if they're worthy)."
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! These names are generated for your creative enjoyment. Feel free to use them in your books, games, or any other project you dream up. No royalties required!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes, the names are generated using a combination of prefixes and suffixes, ensuring a wide variety of unique and evocative results. Embrace the randomness!"
+    },
+    {
+      "question": "Will the generator create the same name twice?",
+      "answer": "While it's possible, it's statistically unlikely due to the vast number of combinations. But hey, if you get the same name twice, maybe it's a sign from the ocean depths!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added to the generator?",
+      "answer": "We'd love to hear your ideas! Send your suggestions our way, and we'll consider adding them to our ever-expanding collection. Help us make the ocean even more epic!"
+    },
+    {
+      "question": "Is this generator only for names of deities related to water?",
+      "answer": "While themed around the sea, the names can inspire characters beyond deities! Think water elementals, powerful sailors, or even mythical sea monsters. Let your imagination set sail!"
+    },
+    {
+      "question": "Does this generator create names for male and female deities?",
+      "answer": "The generator produces names that are generally gender-neutral or can be easily adapted. Let your creativity decide the gender of your sea deity!"
+    }
+  ],
+  "prefixes": [
+    "Aqua",
+    "Poseid",
+    "Nere",
+    "Trita",
+    "Ocea",
+    "Mari",
+    "Hydr",
+    "Thala",
+    "Pont",
+    "Abys",
+    "Levi",
+    "Sire",
+    "Coral",
+    "Sargass",
+    "Aegir",
+    "Ran",
+    "Dagon",
+    "Amphi",
+    "Prote",
+    "Thety"
+  ],
+  "suffixes": [
+    "on",
+    "a",
+    "us",
+    "ia",
+    "es",
+    "is",
+    "os",
+    "ys",
+    "ex",
+    "ax",
+    "yx",
+    "or",
+    "ar",
+    "ir",
+    "yr",
+    "iel",
+    "ael",
+    "iel",
+    "ynn",
+    "enn"
+  ]
+}

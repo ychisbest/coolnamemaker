@@ -1,0 +1,93 @@
+{
+  "name": "Fae Name Generator",
+  "description": "Unleash your inner woodland sprite with our Fae Name Generator! Craft enchanting names fit for any mystical being.",
+  "slug": "fae-name-generator",
+  "icon": "\ud83e\uddda",
+  "introduction": "Ever wondered what your name would be if you were a creature of the forest, a guardian of ancient trees, or a mischievous sprite flitting through moonlit glades? Our Fae Name Generator is your portal to that world! We conjure names brimming with magic, mystery, and a touch of woodland whimsy. Perfect for fantasy characters, role-playing games, or simply discovering your own hidden fae identity.",
+  "howToUse": [
+    "Ready to get your glitter on? Just hit the 'Generate' button and *poof* \u2013 a brand new, totally enchanting fae name will appear!",
+    "Don't like what you see? No worries! Keep clicking until a name whispers to your soul and makes your wings flutter.",
+    "Feeling fancy? Mix and match prefixes and suffixes from our list to create a truly unique and personalized fae moniker. Go wild, little sprite!",
+    "Share your fabulous new name with the world! (Or keep it a secret, just for you. We won't tell.)"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "We're talking names inspired by folklore, mythology, and all things fae! Expect a blend of elegant, whimsical, and slightly mischievous monikers."
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! These names are perfect for bringing your fairy, elf, or other fantastical character to life. Go forth and conquer (or, you know, frolic)!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "While there's a healthy dose of randomness involved, we've carefully curated our lists of prefixes and suffixes to ensure that every name sounds authentic and magical."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send them our way, and we might just add them to our ever-growing collection of fae-tastic name components."
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Absolutely free! We believe everyone deserves a touch of magic in their lives, so generate as many names as your heart desires without spending a single gold coin."
+    },
+    {
+      "question": "Will this generator tell me my true fae lineage?",
+      "answer": "While we can't guarantee it'll unlock your deepest ancestral secrets, it's a fun way to explore your connection to the magical realm! Consider it a starting point for your fae-tastic journey."
+    }
+  ],
+  "prefixes": [
+    "Aer",
+    "Briar",
+    "Celest",
+    "Dawn",
+    "Ember",
+    "Faelar",
+    "Glen",
+    "Hazel",
+    "Ivy",
+    "Jade",
+    "Lys",
+    "Moon",
+    "Nyx",
+    "Opal",
+    "Peri",
+    "Quill",
+    "Rune",
+    "Silvan",
+    "Thistle",
+    "Umbriel",
+    "Veridian",
+    "Willow",
+    "Xylo",
+    "Yarrow",
+    "Zephyr"
+  ],
+  "suffixes": [
+    "bloom",
+    "brook",
+    "dew",
+    "feather",
+    "glade",
+    "haven",
+    "leaf",
+    "mist",
+    "petal",
+    "shade",
+    "song",
+    "thorn",
+    "whisper",
+    "wing",
+    "wood",
+    "flare",
+    "gaze",
+    "light",
+    "shine",
+    "sprite",
+    "stream",
+    "dream",
+    "wyn",
+    "ielle",
+    "aria"
+  ]
+}

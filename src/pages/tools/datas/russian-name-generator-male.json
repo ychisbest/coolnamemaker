@@ -1,0 +1,73 @@
+{
+  "name": "Russian Male Name Generator",
+  "description": "Struggling to find the perfect Russian name for your character, baby, or\u2026 well, anything?  Fear not, comrade! Our generator crafts authentic-sounding Russian male names faster than you can say 'Babushka'. Get ready to unleash the power of Dimitri, Vladimir, and more!",
+  "slug": "russian-name-generator-male",
+  "icon": "\ud83c\uddf7\ud83c\uddfa",
+  "introduction": "Dive into the rich tapestry of Russian culture with our Russian Male Name Generator. Whether you're writing a novel, naming a game character, or just curious about Russian nomenclature, we've got you covered. We blend traditional and modern names to give you a diverse range of options, each with a distinctly Russian flair.  Prepare to be amazed at the sheer awesomeness we're about to unleash!  From the stoic strength of a Tsar to the quirky charm of a village blacksmith, find a name that resonates with power, history, and a dash of vodka-fueled adventure.",
+  "howToUse": [
+    "Simply click the 'Generate' button.  Seriously, that's it. We've made it so easy, even a bear could do it (if they had opposable thumbs and a penchant for name generation).",
+    "Keep clicking until you find a name that makes you shout '\u0443\u0440\u0430!' (that's 'hooray!' in Russian, by the way).",
+    "Copy and paste your chosen name into your project.  Then, bask in the glory of your perfectly named creation.",
+    "Share your favorite finds with your friends!  Spread the Russian name love!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually Russian?",
+      "answer": "Da! (Yes!) We've curated a list of names that are commonly used in Russia, both historically and in modern times.  We've even consulted with actual Russians (no, really!) to ensure authenticity."
+    },
+    {
+      "question": "Can I use these names for fictional characters?",
+      "answer": "Absolutely! Go wild!  Name every character in your epic Russian saga with our generator.  We won't judge (unless you name them all Boris... then we might raise an eyebrow)."
+    },
+    {
+      "question": "Will these names help me win a chess tournament?",
+      "answer": "While we can't guarantee chess mastery, a strong Russian name might intimidate your opponent.  Think of it as psychological warfare... with a hint of Slavic charm."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Completely and utterly free!  We believe everyone deserves access to awesome Russian names.  Consider it our gift to the internet (and to you, specifically!)."
+    },
+    {
+      "question": "Can I suggest names to add to the generator?",
+      "answer": "We'd love to hear your suggestions!  Send us your favorite Russian male names and we'll consider adding them to our ever-growing list.  Help us make this the ultimate Russian name resource!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! We have thousands of name combinations. If you *still* don't find one you like, you might be too picky (but that's okay, we still love you). Or maybe you should try our 'Russian Female Name Generator' for inspiration!"
+    }
+  ],
+  "prefixes": [
+    "Vlad",
+    "Dimitri",
+    "Alex",
+    "Sergei",
+    "Ivan",
+    "Nikolai",
+    "Yuri",
+    "Boris",
+    "Mikhail",
+    "Pavel",
+    "Andrei",
+    "Konstantin",
+    "Fyodor",
+    "Artyom",
+    "Igor"
+  ],
+  "suffixes": [
+    "mir",
+    "slav",
+    "ovich",
+    "enko",
+    "ev",
+    "ov",
+    "sky",
+    "tski",
+    "chuk",
+    "ko",
+    "in",
+    "yan",
+    "yuk",
+    "enko",
+    "iev"
+  ]
+}

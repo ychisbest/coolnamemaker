@@ -1,0 +1,84 @@
+{
+  "name": "Scandinavian City Name Generator",
+  "description": "Dreaming of fjords, Vikings, and effortlessly cool urban landscapes? Our Scandinavian City Name Generator conjures up the perfect names for your fantasy metropolis, game world, or even just a quirky pet project! Get ready for a dose of Nordic inspiration!",
+  "slug": "scandinavian-city-name-generator",
+  "icon": "\ud83c\udfd9\ufe0f",
+  "introduction": "Ever wanted a city name that just *sounds* sophisticated, a little bit mysterious, and undeniably Scandinavian? Look no further! This generator blends authentic Nordic linguistic elements with a touch of fantasy to create city names that are both believable and utterly captivating. Whether you're building a Viking saga, designing a video game, or simply brainstorming for fun, we've got the names to transport you to the heart of Scandinavia. Forget generic town names \u2013 embrace the allure of the North!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand-new, totally awesome Scandinavian city name appears!",
+    "Don't like what you see? Keep clicking! We've got a virtually endless supply of names just waiting to be discovered.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create your own unique combinations!",
+    "Use these names for your stories, games, world-building projects, or even as inspiration for your next vacation destination. The possibilities are endless!",
+    "Share your favorite names with friends and let them bask in the glory of your Nordic naming prowess."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names real Scandinavian city names?",
+      "answer": "Some might sound familiar, but most are creatively crafted using genuine Scandinavian linguistic elements and place name patterns. Think of them as 'inspired by' rather than strictly 'copied from' real life!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Feel free to use these names in your books, games, businesses, or any other project you can dream up. No royalties required!"
+    },
+    {
+      "question": "What languages are these names based on?",
+      "answer": "Primarily Swedish, Norwegian, Danish, and a touch of Icelandic influence. We've blended the best of the Nordic linguistic world to create these captivating names."
+    },
+    {
+      "question": "Will this generator help me learn Scandinavian languages?",
+      "answer": "While it won't make you fluent, it might spark your curiosity! Pay attention to the prefixes and suffixes \u2013 you might just pick up a few interesting linguistic tidbits along the way."
+    },
+    {
+      "question": "I don't like the name that was generated. What should I do?",
+      "answer": "Just hit the 'Generate' button again! We have literally thousands of combinations, so you're bound to find something that clicks. Keep exploring!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes to be added?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form, and we'll consider them for future updates."
+    }
+  ],
+  "prefixes": [
+    "Nord",
+    "Vest",
+    "\u00d8st",
+    "S\u00f8r",
+    "Is",
+    "Vind",
+    "Fjord",
+    "Berg",
+    "Dal",
+    "L\u00f6v",
+    "Sj\u00f6",
+    "\u00c4lv",
+    "Ny",
+    "Gamla",
+    "H\u00f6g",
+    "L\u00e5g",
+    "Stor",
+    "Liten",
+    "Vit",
+    "Svart"
+  ],
+  "suffixes": [
+    "stad",
+    "by",
+    "borg",
+    "hamn",
+    "vik",
+    "str\u00f6m",
+    "land",
+    "heim",
+    "gard",
+    "mark",
+    "torp",
+    "sund",
+    "nes",
+    "dalen",
+    "fjell",
+    "vatn",
+    "\u00e4ng",
+    "skog",
+    "holm",
+    "strand"
+  ]
+}

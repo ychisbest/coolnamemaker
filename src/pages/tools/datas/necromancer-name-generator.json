@@ -1,0 +1,74 @@
+{
+  "name": "Necromancer Name Generator",
+  "description": "Conjure the perfect moniker for your dark arts persona! Unleash your inner necromancer with names that reek of power, mystery, and a touch of delightful decay. Find the ideal name to strike fear (and maybe a little awe) into the hearts of the living.",
+  "slug": "necromancer-name-generator",
+  "icon": "\ud83d\udc80",
+  "introduction": "Tired of being called 'Steve' when you're clearly channeling the spirits of the dead? Our Necromancer Name Generator is here to banish the mundane and embrace the macabre! Whether you're writing a fantasy novel, creating a D&D character, or just want a cooler email address, we've got the perfectly chilling name waiting for you.",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the awesome (and slightly terrifying) names we've summoned from the ether.",
+    "Don't like what you see? Click again! The generator will keep churning out names until you find the one that makes your undead heart sing.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a truly unique and horrifying name.",
+    "Once you've found the perfect name, copy and paste it into your novel, game, or dark ritual. We won't judge.",
+    "Share your favorite names with your fellow necromancers! Misery (and awesome names) loves company."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually summoning names from the underworld?",
+      "answer": "While we can't *guarantee* it, we've used some pretty dark magic to create this generator. So... maybe? Use at your own risk!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Consider it a gift from the realm of the dead. Just don't blame us if your customers start complaining about ghostly apparitions."
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! They're fresh out of the grave and free for you to use as you please. Though, if you become a wildly successful necromancer, maybe send us a thank you note (or a small portion of your soul)."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! Or, you know, try combining different prefixes and suffixes. If all else fails, maybe necromancy isn't for you. Have you considered flower arranging?"
+    },
+    {
+      "question": "Will using a necromancer name attract unwanted attention from demons or other dark entities?",
+      "answer": "Possibly! But hey, at least you'll have a cool name to use when you're negotiating with them. We recommend having a good lawyer... and maybe a powerful exorcist on speed dial."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "Yes, please! We're always looking for new ways to expand our arsenal of dark and spooky name components. Send your suggestions our way!"
+    }
+  ],
+  "prefixes": [
+    "Mort",
+    "Necro",
+    "Shadow",
+    "Grave",
+    "Doom",
+    "Night",
+    "Crypt",
+    "Soul",
+    "Revenant",
+    "Blight",
+    "Death",
+    "Void",
+    "Ebon",
+    "Ashen",
+    "Cadaver"
+  ],
+  "suffixes": [
+    "mancer",
+    "bane",
+    "shade",
+    "wraith",
+    "fiend",
+    "lord",
+    "weaver",
+    "caller",
+    "binder",
+    "reaver",
+    "scourge",
+    "whisper",
+    "grim",
+    "shroud",
+    "seer"
+  ]
+}

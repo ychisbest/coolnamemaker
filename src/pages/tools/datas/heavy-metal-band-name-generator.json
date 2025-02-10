@@ -1,0 +1,83 @@
+{
+  "name": "Heavy Metal Band Name Generator",
+  "description": "Struggling to find the perfect, face-melting name for your heavy metal band? Crank up the volume and let our generator forge a moniker worthy of Valhalla!",
+  "slug": "heavy-metal-band-name-generator",
+  "icon": "\ud83e\udd18",
+  "introduction": "So, you're ready to unleash sonic fury upon the world, but your band is currently rocking the name 'Generic Garage Band'? Fear not! Our Heavy Metal Band Name Generator is here to rescue you from the depths of blandness. We'll conjure up names so epic, so metal, they'll make Odin himself headbang.",
+  "howToUse": [
+    "Simply hit the 'Generate' button and witness the birth of legendary band names!",
+    "Feeling picky? Keep smashing that button until you find a name that resonates with your inner metal god.",
+    "Don't be afraid to mix and match elements from different generated names for ultimate customization.",
+    "Once you've found 'the one,' blast it from the rooftops (or at least your social media) and prepare for world domination!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to make my band famous?",
+      "answer": "While we can't guarantee platinum records or sold-out stadiums, a killer name is definitely a step in the right direction! The rest is up to you and your shredding skills."
+    },
+    {
+      "question": "Can I use these names for other things besides heavy metal bands?",
+      "answer": "Absolutely! Use them for your fantasy football team, your D&D character, your pet dragon... the possibilities are endless (and metal!)."
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! We're just providing the raw materials. It's up to you to make sure the name isn't already taken before you start printing those band t-shirts."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep trying! Or, use them as inspiration to brainstorm your own unique and devastatingly metal name. The power is in your hands!"
+    },
+    {
+      "question": "My band already has a name. Should I still use this?",
+      "answer": "Hey, a little rebranding never hurt anyone! Or, just use it to laugh at the terrible names you *could* have had. Either way, it's a win-win."
+    },
+    {
+      "question": "Is this generator powered by dark magic?",
+      "answer": "We neither confirm nor deny the use of ancient incantations and demonic pacts in the creation of this generator. But... maybe?"
+    }
+  ],
+  "prefixes": [
+    "Iron",
+    "Steel",
+    "Black",
+    "Crimson",
+    "Frozen",
+    "Raging",
+    "Silent",
+    "Unholy",
+    "Atomic",
+    "Electric",
+    "Screaming",
+    "Shadow",
+    "Skull",
+    "Doom",
+    "Death",
+    "Blood",
+    "Stone",
+    "Thunder",
+    "War",
+    "Night"
+  ],
+  "suffixes": [
+    "Hammer",
+    "Fist",
+    "Legion",
+    "Blade",
+    "Storm",
+    "Reign",
+    "Cult",
+    "Ritual",
+    "Serpent",
+    "Wolf",
+    "Angel",
+    "Demon",
+    "Guardians",
+    "Kings",
+    "Lords",
+    "Empire",
+    "Division",
+    "Brigade",
+    "Force",
+    "Battalion"
+  ]
+}

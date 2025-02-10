@@ -1,0 +1,99 @@
+{
+  "name": "Professional Wrestler Name Generator",
+  "description": "Unleash your inner champion! This generator crafts larger-than-life wrestler names that'll have the crowd roaring. Get ready to enter the ring with a moniker that's as unforgettable as your signature move.",
+  "slug": "professional-wrestler-name-generator",
+  "icon": "\ud83e\udd3c",
+  "introduction": "Ever dreamt of becoming a wrestling superstar? It all starts with the perfect name! Whether you're a high-flying daredevil, a bone-crushing behemoth, or a cunning strategist, our Professional Wrestler Name Generator will forge a legendary identity for your wrestling persona. No more generic nicknames \u2013 it's time to become a household name!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new wrestling name appears, ready to strike fear into the hearts of your opponents.",
+    "Don't like the first result? Keep clicking! We've got a whole arsenal of names waiting to be unleashed.",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own unique wrestling identity. The possibilities are endless!",
+    "Once you've found the perfect name, practice your signature pose and get ready to dominate the ring! (We're not responsible for any broken tables or bruised egos.)"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my actual wrestling career?",
+      "answer": "Absolutely! These names are yours to command. Just be sure to check if the name is already in use by another wrestler to avoid any copyright chaos."
+    },
+    {
+      "question": "Are the names generated random?",
+      "answer": "Yes, the names are generated using a combination of prefixes and suffixes for maximum wrestling awesomeness. It's a scientific process...sort of."
+    },
+    {
+      "question": "Will this generator make me a better wrestler?",
+      "answer": "While we can't guarantee wrestling skills, a killer name is half the battle! Confidence is key, and a great name can boost your in-ring presence."
+    },
+    {
+      "question": "Can I suggest prefixes and suffixes?",
+      "answer": "We're always looking for ways to improve! Send us your suggestions, and who knows, your idea might just become the next wrestling sensation."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep generating! With countless combinations, you're bound to find a name that resonates with your wrestling spirit. Or, get inspired and tweak a name to make it your own!"
+    },
+    {
+      "question": "Is this generator suitable for creating names for wrestling video game characters?",
+      "answer": "Heck yeah! This generator is perfect for creating names for all your virtual wrestling superstars. Dominate the digital ring with a name that commands respect!"
+    }
+  ],
+  "prefixes": [
+    "The",
+    "Iron",
+    "Steel",
+    "Stone",
+    "Shadow",
+    "Night",
+    "Thunder",
+    "Lightning",
+    "Crimson",
+    "Mad",
+    "Psycho",
+    "Dr.",
+    "Mega",
+    "Ultra",
+    "Super",
+    "Big",
+    "Giant",
+    "King",
+    "Queen",
+    "Prince",
+    "Princess",
+    "Dark",
+    "The Amazing",
+    "Captain",
+    "The Great",
+    "The Mighty",
+    "The Unstoppable",
+    "The Immortal"
+  ],
+  "suffixes": [
+    "Hammer",
+    "Anvil",
+    "Crusher",
+    "Destroyer",
+    "Mauler",
+    "Smasher",
+    "Wrecker",
+    "Beast",
+    "Machine",
+    "Viper",
+    "Cobra",
+    "Python",
+    "Wolf",
+    "Hawk",
+    "Eagle",
+    "Warrior",
+    "Gladiator",
+    "Titan",
+    "Colossus",
+    "Phantom",
+    "Reaper",
+    "Enforcer",
+    "Dominator",
+    "Nightmare",
+    "The Great",
+    "The Magnificent",
+    "The Terrible",
+    "The Almighty"
+  ]
+}

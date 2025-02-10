@@ -1,0 +1,73 @@
+{
+  "name": "Essay Name Generator",
+  "description": "Struggling to title your masterpiece? Let our Essay Name Generator conjure up captivating titles that'll make your professors say, 'Wow!'.",
+  "slug": "essay-name-generator",
+  "icon": "\ud83d\udcdd",
+  "introduction": "Facing the blank page blues? Your essay deserves a title that's as brilliant as the content inside. Our Essay Name Generator is here to spark your creativity and deliver titles that are both informative and intriguing. Get ready to impress!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen!",
+    "If you're feeling picky (and who isn't?), keep clicking until you find the perfect title that resonates with your essay's core message.",
+    "Feeling extra creative? Use the generated titles as inspiration and tweak them to your heart's content!",
+    "Share your newfound title with your friends and bask in their admiration. (We won't tell them where you got it!)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Consider it our gift to the stressed-out student community. Go forth and conquer those essays!"
+    },
+    {
+      "question": "Will these titles guarantee me an A+?",
+      "answer": "While we can't promise academic perfection, a killer title is definitely a step in the right direction! It grabs attention and sets the stage for a great essay. The rest is up to you!"
+    },
+    {
+      "question": "Can I use these titles for other types of writing?",
+      "answer": "You bet! While designed for essays, these titles can be adapted for articles, blog posts, or even your grocery list if you're feeling fancy."
+    },
+    {
+      "question": "Are the generated titles unique?",
+      "answer": "We strive for originality, but with a vast database, some similarities might occur. Consider each generated title as a starting point for your own creative journey."
+    },
+    {
+      "question": "Do I need to cite this generator in my essay?",
+      "answer": "Haha, no! The titles are meant to inspire you, not to be directly copied and claimed as your own original thought. Use them as a springboard for your own creativity."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us a message through our contact form with your suggestions and we'll consider adding them to our database."
+    }
+  ],
+  "prefixes": [
+    "The Art of",
+    "A Study of",
+    "Exploring",
+    "Unveiling",
+    "The Impact of",
+    "Analyzing",
+    "Deconstructing",
+    "The Significance of",
+    "Rethinking",
+    "The Future of",
+    "A Critical Analysis of",
+    "The Paradox of",
+    "Beyond",
+    "The Power of",
+    "In Defense of"
+  ],
+  "suffixes": [
+    "in the 21st Century",
+    "and its Implications",
+    "Through the Lens of",
+    "A New Perspective",
+    "The Untold Story",
+    "A Comparative Study",
+    "The Challenges and Opportunities",
+    "A Historical Overview",
+    "The Role of",
+    "A Call to Action",
+    "Revisited",
+    "The Ethical Considerations",
+    "A Socio-Political Analysis",
+    "The Psychological Effects",
+    "A Philosophical Inquiry"
+  ]
+}

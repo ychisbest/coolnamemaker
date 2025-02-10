@@ -1,0 +1,84 @@
+{
+  "name": "Evil Castle Name Generator: Unleash the Darkness!",
+  "description": "Craft the perfect sinister title for your dark fortress with our Evil Castle Name Generator! From forbidding citadels to dread-inspiring keeps, discover names that will send shivers down the spines of your enemies (and delight fantasy readers everywhere).",
+  "slug": "evil-castle-name-generator-fantasy",
+  "icon": "\ud83c\udff0",
+  "introduction": "So, you're building an evil castle, huh? Excellent! But even the most menacing fortress needs a name that strikes fear into the hearts of mortals. Forget 'Castle Grayskull Lite' \u2013 we're talking names that ooze darkness, power, and a touch of the theatrical. Our Evil Castle Name Generator is here to help you conjure up the perfect moniker for your bastion of wickedness. Prepare to be inspired!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the terrifying possibilities!",
+    "Feeling picky? Keep clicking until a name resonates with your inner dark lord.",
+    "Want something truly unique? Combine elements from different generated names to create your own custom masterpiece.",
+    "Share your wickedly awesome castle name with the world (or keep it a secret weapon for your next campaign).",
+    "Remember, the more dramatic you are when you say the name aloud, the better it sounds! Practice your evil laugh for optimal results."
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my D&D campaign?",
+      "answer": "Absolutely! These names are perfect for dungeons, fortresses, and lairs in any fantasy tabletop role-playing game. Go forth and terrorize your players!"
+    },
+    {
+      "question": "Are these names copyrighted?",
+      "answer": "Nope! All generated names are original and free for you to use as you see fit. Unleash your creativity!"
+    },
+    {
+      "question": "Will this generator help me build an actual evil castle?",
+      "answer": "While we can't provide blueprints or construction crews, a great name is the first step towards world domination... or at least a really cool story."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! The generator has countless combinations, and you're bound to find something that tickles your fancy. Or, use the names as inspiration to create your own!"
+    },
+    {
+      "question": "Can I use these names for good castles?",
+      "answer": "Technically, yes. But wouldn't you rather embrace the dark side? We have other generators for good castles, but evil is way more fun."
+    },
+    {
+      "question": "Is this generator fueled by dark magic?",
+      "answer": "We neither confirm nor deny the involvement of ancient rituals in the creation of this generator. Let's just say it's powered by a healthy dose of imagination and a pinch of malevolence."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Doom",
+    "Night",
+    "Gloom",
+    "Raven",
+    "Skull",
+    "Blood",
+    "Iron",
+    "Obsidian",
+    "Crimson",
+    "Whispering",
+    "Cursed",
+    "Forgotten",
+    "Silent",
+    "Eternal",
+    "Dread",
+    "Grim",
+    "Ashen",
+    "Abyssal",
+    "Serpent's"
+  ],
+  "suffixes": [
+    "hold",
+    "spire",
+    "gate",
+    "keep",
+    "fort",
+    "citadel",
+    "tower",
+    "bastion",
+    "reach",
+    "garrison",
+    "stronghold",
+    "domain",
+    "realm",
+    "sanctum",
+    "chasm",
+    "maw",
+    "throne",
+    "crypt",
+    "depths",
+    "abyss"
+  ]
+}

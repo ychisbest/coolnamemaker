@@ -1,0 +1,84 @@
+{
+  "name": "Hotel Name Generator",
+  "description": "Struggling to find the perfect name for your hotel? Our Hotel Name Generator will conjure up catchy, memorable, and downright luxurious names that'll have guests flocking to book a stay. Get ready to unlock a treasure trove of hospitality-inspired monikers!",
+  "slug": "hotel-name-generator",
+  "icon": "\ud83c\udfe8",
+  "introduction": "Welcome, weary traveler, to the Hotel Name Generator \u2013 your oasis of inspiration in a desert of naming dilemmas! Whether you're launching a boutique B&B, a sprawling resort, or a quirky motel, a killer name is the first step to attracting guests. Ditch the generic 'Hotel' and 'Inn' clich\u00e9s and prepare for a flood of creative possibilities. This isn't just a name generator; it's your secret weapon for hospitality success. Let's transform your vision into a brand that resonates with comfort, style, and unforgettable experiences!",
+  "howToUse": [
+    "Simply click the 'Generate' button. Like, seriously, that's it. We've made it so easy, even your grandma could name a five-star hotel.",
+    "Browse the generated names. Some will be brilliant, some will be\u2026 well, let's just say 'unique.' That's the fun of it!",
+    "If you find a name you love, jot it down! (Or, you know, copy and paste \u2013 it's the 21st century after all.)",
+    "Keep generating until you find *the* perfect name that screams 'Book me!'",
+    "Once you've chosen your name, snag that domain and start building your empire! (We're not responsible for your sudden urge to wear a tiny bellhop hat.)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Hotel Name Generator is completely free to use. Consider it our gift to the hospitality industry (and to anyone who appreciates a good name!)."
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "You bet! Once a name is generated, it's yours to use as you see fit. Just be sure to check for trademark availability before you commit."
+    },
+    {
+      "question": "Will the generator create names that are already trademarked?",
+      "answer": "While we strive to generate unique names, we can't guarantee that every name is 100% original. It's always a good idea to conduct a thorough trademark search before using any name for your business."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! There's no limit to the number of names you can generate. Keep clicking until you find the one that makes you say, 'That's it!'"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to add to the generator?",
+      "answer": "We're always open to suggestions! Feel free to send us your ideas. Who knows, your brilliant addition might just help someone find the perfect name for their dream hotel!"
+    },
+    {
+      "question": "Why are some of the names so\u2026 weird?",
+      "answer": "Hey, creativity comes in many forms! We aim for variety, and sometimes that means venturing into the wonderfully wacky. Embrace the weird \u2013 it might just be what sets your hotel apart!"
+    }
+  ],
+  "prefixes": [
+    "Grand",
+    "Royal",
+    "The",
+    "Serene",
+    "Coastal",
+    "Mountain",
+    "Urban",
+    "Luxury",
+    "Boutique",
+    "Hidden",
+    "Whispering",
+    "Starlight",
+    "Golden",
+    "Silver",
+    "Emerald",
+    "Rustic",
+    "Charming",
+    "Historic",
+    "Modern",
+    "Avant-Garde"
+  ],
+  "suffixes": [
+    "Hotel",
+    "Resort",
+    "Inn",
+    "Suites",
+    "Lodge",
+    "Manor",
+    "Retreat",
+    "Gardens",
+    "View",
+    "Plaza",
+    "Park",
+    "Heights",
+    "Bay",
+    "Oasis",
+    "Haven",
+    "Terrace",
+    "Club",
+    "House",
+    "Place",
+    "Residence"
+  ]
+}

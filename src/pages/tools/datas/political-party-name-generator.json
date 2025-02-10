@@ -1,0 +1,115 @@
+{
+  "name": "Political Party Name Generator",
+  "description": "Struggling to come up with a killer name for your new political party? Don't let a boring name doom your movement before it even begins! Our generator will spit out some seriously catchy (and sometimes ridiculous) names that will get people talking. Get ready to make some noise!",
+  "slug": "political-party-name-generator",
+  "icon": "\ud83d\uddf3\ufe0f",
+  "introduction": "So, you're starting a political party? Fantastic! But before you can change the world, you need a name. Something memorable, impactful, and maybe even a little bit cheeky. That's where we come in. Our Political Party Name Generator is here to unleash a torrent of creative (and occasionally absurd) names that will have your rivals shaking in their boots. Ditch the brainstorming sessions and let our generator spark your political revolution!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the majesty of the Political Party Name Generator!",
+    "Not feeling the first result? Keep clicking! We've got a whole arsenal of names ready to go.",
+    "Found a name you love? Awesome! Copy it, share it, and start building your political empire!",
+    "Feeling adventurous? Mix and match elements from different generated names to create something truly unique. Go wild!",
+    "Remember, a great name is the first step to world domination... or at least a successful local election. Good luck!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually going to help me start a successful political party?",
+      "answer": "While we can't guarantee electoral victory, a catchy name is definitely a good start! Think of it as your political secret weapon."
+    },
+    {
+      "question": "Are the names generated actually usable, or are they just random gibberish?",
+      "answer": "We've tried to strike a balance between creativity and practicality. Some names are serious, some are silly, but all are designed to spark inspiration. Use them as a starting point and tweak them to your liking!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "The names generated are free for you to use however you like. Go forth and conquer the political landscape!"
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly adding new prefixes and suffixes to keep the generator fresh and exciting. Check back often for new possibilities!"
+    },
+    {
+      "question": "What if I don't like any of the names the generator creates?",
+      "answer": "No worries! Just keep clicking! With a virtually limitless combination of prefixes and suffixes, you're bound to find something that resonates with your political vision. Or, you know, come up with your own. We're just here to help get the creative juices flowing."
+    },
+    {
+      "question": "Is this generator biased towards any particular political ideology?",
+      "answer": "Absolutely not! Our generator is a politically neutral zone. We're here to help everyone, from the far left to the extreme right (though we might gently nudge you towards centrism... just kidding!)."
+    }
+  ],
+  "prefixes": [
+    "United",
+    "Progressive",
+    "Conservative",
+    "Radical",
+    "Democratic",
+    "Republican",
+    "Green",
+    "Libertarian",
+    "Socialist",
+    "People's",
+    "Workers'",
+    "New",
+    "Revolutionary",
+    "Independent",
+    "National",
+    "Federal",
+    "Global",
+    "Patriotic",
+    "Justice",
+    "Freedom",
+    "Equality",
+    "Prosperity",
+    "Empowerment",
+    "Sunrise",
+    "Future",
+    "Hope",
+    "Visionary",
+    "Forward",
+    "True",
+    "Real",
+    "Authentic",
+    "Elite",
+    "Common",
+    "Everyday",
+    "Grassroots"
+  ],
+  "suffixes": [
+    "Party",
+    "Movement",
+    "Alliance",
+    "Coalition",
+    "League",
+    "Union",
+    "Front",
+    "Congress",
+    "Assembly",
+    "Forum",
+    "Collective",
+    "Society",
+    "Federation",
+    "Circle",
+    "Bloc",
+    "Force",
+    "Action",
+    "Vision",
+    "Way",
+    "Path",
+    "Agenda",
+    "Project",
+    "Initiative",
+    "Platform",
+    "Republic",
+    "Nation",
+    "States",
+    "Citizens",
+    "Voters",
+    "Choice",
+    "Voice",
+    "Power",
+    "Change",
+    "Renewal",
+    "Liberation",
+    "Solidarity"
+  ]
+}

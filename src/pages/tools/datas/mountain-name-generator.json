@@ -1,0 +1,83 @@
+{
+  "name": "Mountain Name Generator",
+  "description": "Unleash your inner peak! Need a majestic moniker for your hiking blog, a fantasy character scaling Everest, or just a cool name inspired by the great outdoors? Our Mountain Name Generator is here to help you reach new heights!",
+  "slug": "mountain-name-generator",
+  "icon": "\u26f0\ufe0f",
+  "introduction": "Tired of the same old boring names? Yearning for something with more\u2026altitude? This generator combines rugged prefixes and evocative suffixes to create names that echo through the valleys and resonate with the spirit of adventure. Get ready to discover a name as epic as the mountains themselves!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen!",
+    "Don't like the first result? No problem! Keep clicking until you find the perfect name that makes you feel like you're standing on top of the world.",
+    "Feeling creative? Use the generated names as inspiration to craft your own unique mountain-inspired masterpiece. Mix and match elements, add your own flair, and let your imagination soar!",
+    "Share your awesome new mountain name with friends and family. Bragging rights are totally included."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "This generator crafts names inspired by mountains, peaks, valleys, and all things alpine! Expect to see names that evoke feelings of strength, grandeur, and natural beauty."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Absolutely! Once you generate a name, it's yours to use as you see fit. Whether it's for your business, book, or game, go for it!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes, the names are generated using a combination of carefully curated prefixes and suffixes. This ensures a wide variety of unique and interesting results every time you click the 'Generate' button."
+    },
+    {
+      "question": "Will I ever get the same name twice?",
+      "answer": "While it's theoretically possible, the sheer number of combinations makes it highly unlikely. Consider yourself lucky if you stumble upon the same majestic moniker twice!"
+    },
+    {
+      "question": "Can I contribute prefixes and suffixes to the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form, and we'll consider adding them to our ever-expanding database of mountain-inspired words."
+    },
+    {
+      "question": "Is this generator suitable for naming my pet mountain goat?",
+      "answer": "100% YES! In fact, we highly encourage it. Your goat deserves a name as epic as its climbing skills."
+    }
+  ],
+  "prefixes": [
+    "Ever",
+    "Frost",
+    "Shadow",
+    "Peak",
+    "Stone",
+    "Crystal",
+    "Wild",
+    "Silent",
+    "Iron",
+    "Thunder",
+    "Great",
+    "White",
+    "Black",
+    "Red",
+    "Blue",
+    "Gold",
+    "Silver",
+    "Ancient",
+    "New",
+    "Hidden"
+  ],
+  "suffixes": [
+    "Ridge",
+    "Summit",
+    "Crest",
+    "Peak",
+    "Vale",
+    "Pass",
+    "Horn",
+    "Fang",
+    "Tooth",
+    "Spire",
+    "Rock",
+    "Stone",
+    "Mound",
+    "Hill",
+    "Point",
+    "Top",
+    "View",
+    "Gorge",
+    "Canyon",
+    "Edge"
+  ]
+}

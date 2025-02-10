@@ -1,0 +1,83 @@
+{
+  "name": "Fantasy Realm Name Generator",
+  "description": "Struggling to find the perfect name for your epic fantasy world? Fear not, adventurer! Our Fantasy Realm Name Generator conjures up names that resonate with magic, mystery, and magnificent adventure. Unleash your creativity and forge a world that captivates!",
+  "slug": "fantasy-realm-name-generator",
+  "icon": "\ud83c\udff0",
+  "introduction": "Welcome, world-builder! Whether you're crafting a novel, designing a game, or just daydreaming about fantastical lands, a great name is essential. This generator is your portal to realms unknown, offering a plethora of names dripping with fantasy flavor. Get ready to be inspired!",
+  "howToUse": [
+    "Behold! Simply click the 'Generate' button and witness the magic unfold. A brand new realm name will appear before your very eyes!",
+    "Feeling picky? Keep clicking! The generator is tireless and brimming with possibilities.",
+    "Found a name you adore? Copy it, cherish it, and let it be the cornerstone of your epic creation!",
+    "Experiment! Mix and match elements from different generated names to create something truly unique. The possibilities are endless, just like your imagination!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our goal is to empower your creativity, not empty your pockets. Generate as many names as your heart desires, completely free of charge."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You bet! Once a name is generated, it's yours to use as you see fit. Create your game, write your book, build your empire! Just remember where you got the inspiration \ud83d\ude09."
+    },
+    {
+      "question": "Will the generator ever run out of names?",
+      "answer": "Never! We're constantly adding new prefixes and suffixes to ensure an endless stream of fresh and exciting names. The well of fantasy is bottomless!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send your suggestions our way through our contact form. Who knows, your contribution might inspire the next great fantasy realm!"
+    },
+    {
+      "question": "The names are cool, but I want something *really* unique. Any tips?",
+      "answer": "Definitely! Try combining generated names, altering their spelling slightly, or adding a historical or mythical twist. For example, 'Eldoria' could become 'Eldoriah' or 'The Sunken City of Eldor'."
+    },
+    {
+      "question": "Is there a limit to how many names I can generate?",
+      "answer": "Nope! Generate to your heart's content. We encourage you to explore all the possibilities until you find the PERFECT name for your fantasy realm."
+    }
+  ],
+  "prefixes": [
+    "Eld",
+    "Silver",
+    "Shadow",
+    "Storm",
+    "Whisper",
+    "Dragon",
+    "Crystal",
+    "Sun",
+    "Moon",
+    "Iron",
+    "Blood",
+    "Night",
+    "Dawn",
+    "Frost",
+    "Ember",
+    "Verdant",
+    "Azure",
+    "Crimson",
+    "Obsidian",
+    "Celestial"
+  ],
+  "suffixes": [
+    "ia",
+    "wood",
+    "gard",
+    "vale",
+    "heim",
+    "fell",
+    "wyn",
+    "mire",
+    "oria",
+    "crest",
+    "holm",
+    "shadows",
+    "grove",
+    "reach",
+    "glen",
+    "dell",
+    "ridge",
+    "peaks",
+    "coast",
+    "strand"
+  ]
+}

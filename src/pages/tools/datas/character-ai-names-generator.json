@@ -1,0 +1,85 @@
+{
+  "name": "Character AI Name Generator",
+  "description": "Struggling to name your next AI character? Fear no more! Our Character AI Name Generator conjures up names that are as unique and intelligent as your AI creations. Get ready to unleash a naming storm!",
+  "slug": "character-ai-names-generator",
+  "icon": "\ud83e\udd16",
+  "introduction": "Welcome to the ultimate playground for naming your AI characters! Whether you're building a helpful assistant, a quirky chatbot, or a futuristic overlord (we won't judge!), a killer name is crucial. Our generator blends creativity and technology to deliver names that are memorable, relevant, and oh-so-cool. Prepare to be amazed by the sheer naming genius!",
+  "howToUse": [
+    "First, brace yourself for an avalanche of awesome names.",
+    "Click the 'Generate' button. (It's the one that looks like it's begging to be clicked.)",
+    "Marvel at the generated names. Seriously, some of these are pure gold.",
+    "If a name tickles your fancy, copy it! If not, hit 'Generate' again. We've got an endless supply.",
+    "Repeat until you find the PERFECT name for your AI masterpiece. You'll know it when you see it \u2013 trust your gut!",
+    "Go forth and conquer the world with your newly named AI!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe that naming your AI should be a joyful, cost-free experience. Consider it our gift to the AI community!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You bet! Once you've chosen a name, it's all yours. Use it for your apps, games, stories \u2013 whatever your heart desires. Just try not to name two AIs with the same name in the same project, that might get confusing."
+    },
+    {
+      "question": "Are the generated names truly random?",
+      "answer": "As random as a digital algorithm can be! We've combined a vast library of words and naming conventions to create a system that spits out surprisingly unique and fitting names."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking 'Generate'! With millions of possible combinations, you're bound to find a name that resonates with you. Or, you know, get inspired and create your own. We're just here to spark your imagination!"
+    },
+    {
+      "question": "Will using this generator make my AI smarter?",
+      "answer": "While we can't guarantee a higher IQ for your AI, a great name will definitely make it stand out from the digital crowd! Think of it as a stylish hat for your AI's personality."
+    },
+    {
+      "question": "Can I suggest words or prefixes/suffixes for the generator?",
+      "answer": "We're always looking for ways to improve! Send your suggestions our way. If we like them, we might just add them to the generator. You could become a naming legend!"
+    }
+  ],
+  "prefixes": [
+    "Aether",
+    "Nova",
+    "Cyber",
+    "Quantum",
+    "Syntho",
+    "Veridian",
+    "Zenith",
+    "Infin",
+    "Echo",
+    "Lumino",
+    "Code",
+    "Byte",
+    "Alpha",
+    "Omega",
+    "Virtu",
+    "Nexus",
+    "Axiom",
+    "Pixel",
+    "Vector",
+    "Terra"
+  ],
+  "suffixes": [
+    "AI",
+    "Bot",
+    "Core",
+    "Matrix",
+    "X",
+    "Zeta",
+    "Omega",
+    "System",
+    "Mind",
+    "Unit",
+    "Engine",
+    "OS",
+    "Net",
+    "Cloud",
+    "Sphere",
+    "Link",
+    "Node",
+    "Force",
+    "Gen",
+    "Prime"
+  ]
+}

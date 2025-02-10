@@ -1,0 +1,83 @@
+{
+  "name": "TV Show Name Generator",
+  "description": "Stuck in a creative rut? Need a catchy title that screams 'binge-worthy'? Our TV Show Name Generator is here to rescue you from the abyss of boring titles! Get ready to unleash a torrent of awesome names that will have network execs begging for your pitch.",
+  "slug": "tv-show-name-generator",
+  "icon": "\ud83c\udfac",
+  "introduction": "Forget writer's block! This generator blends genres, themes, and a healthy dose of absurdity to conjure up TV show titles that are both memorable and attention-grabbing. Whether you're crafting a gritty crime drama, a lighthearted sitcom, or a mind-bending sci-fi epic, we've got the name that'll hook your audience from episode one.",
+  "howToUse": [
+    "Ready to roll? Just hit that 'Generate' button and BAM! A brand new title appears, ready to be the star of your next big hit.",
+    "Don't like what you see? No problem! Keep clicking until you find the perfect name that resonates with your creative soul.",
+    "Feeling adventurous? Mix and match prefixes and suffixes to craft your own unique TV show title. The possibilities are endless!",
+    "Pro Tip: Say the generated name out loud! Does it roll off the tongue? Does it sound intriguing? If so, you've got a winner!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Consider it our gift to the world of storytelling. Use it, abuse it, and create amazing things!"
+    },
+    {
+      "question": "Can I use these names commercially?",
+      "answer": "You bet! Once you generate a name, it's yours to use for your TV show. We just ask that you give us a shout-out if your show becomes a massive hit (we're kidding... mostly!)."
+    },
+    {
+      "question": "Will this generator guarantee my TV show gets made?",
+      "answer": "While we can't promise you a golden ticket to Hollywood, a killer title is a crucial first step. The rest is up to your amazing storytelling skills!"
+    },
+    {
+      "question": "How often are new names added to the generator?",
+      "answer": "We're constantly updating our database with fresh and exciting words and phrases. So, keep coming back for new inspiration!"
+    },
+    {
+      "question": "What if I want to suggest a prefix or suffix?",
+      "answer": "We'd love to hear from you! Send us your suggestions via our contact form, and we'll consider adding them to the generator. Help us make it even more awesome!"
+    },
+    {
+      "question": "I generated a really weird name. Is that normal?",
+      "answer": "Totally! Sometimes the best ideas come from the most unexpected places. Embrace the weirdness! It might just be the next big thing."
+    }
+  ],
+  "prefixes": [
+    "The Crimson",
+    "Midnight",
+    "Echoes of",
+    "Silent",
+    "Quantum",
+    "Eternal",
+    "Twisted",
+    "Forgotten",
+    "Cyberpunk",
+    "Parallel",
+    "Ghostly",
+    "Shadow",
+    "Neon",
+    "Digital",
+    "Starlight",
+    "Renegade",
+    "The Last",
+    "Rise of the",
+    "Curse of",
+    "The Secret of"
+  ],
+  "suffixes": [
+    "Syndicate",
+    "Chronicles",
+    "Project",
+    "Paradox",
+    "Protocol",
+    "Odyssey",
+    "Conspiracy",
+    "Legacy",
+    "Awakening",
+    "Rebellion",
+    "Frontier",
+    "Equation",
+    "Algorithm",
+    "Horizon",
+    "Prophecy",
+    "Empire",
+    "Order",
+    "Division",
+    "The Fallen",
+    "The Chosen"
+  ]
+}

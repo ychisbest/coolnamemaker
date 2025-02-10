@@ -1,0 +1,92 @@
+{
+  "name": "Transformer Name Generator",
+  "description": "Struggling to find the perfect name for your transforming robot? Fear no more! Our Transformer Name Generator will forge a name worthy of the greatest Autobot or the sneakiest Decepticon. Unleash the power within!",
+  "slug": "transformer-name-generator",
+  "icon": "\ud83e\udd16",
+  "introduction": "Ever wished you could christen your own Optimus Prime or Megatron? This is your chance! Dive into a universe where names resonate with power, mystery, and pure robotic awesomeness. Get ready to roll out... names!",
+  "howToUse": [
+    "Click the 'Generate' button. Prepare to be amazed!",
+    "Like a name? Awesome! Copy it and unleash it upon the world.",
+    "Don't like it? No sweat! Hit 'Generate' again for a fresh, electrifying option.",
+    "Experiment with different combinations \u2013 the possibilities are as limitless as the cosmos!",
+    "Share your epic Transformer names with your friends and spark some robotic inspiration!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the Transformer Name Generator work?",
+      "answer": "It combines prefixes and suffixes inspired by the Transformer universe to create unique and powerful names. It's like a mini-Cybertron in your browser!"
+    },
+    {
+      "question": "Can I use these names for my fan fiction or original characters?",
+      "answer": "Absolutely! These names are designed to ignite your creativity. Go forth and populate your stories with legendary Transformers!"
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! The names are randomly generated and free for you to use in your creative projects. Consider them a gift from the Allspark!"
+    },
+    {
+      "question": "Will the generator create names that already exist in the Transformer universe?",
+      "answer": "While we strive for uniqueness, there's a slight chance of overlap. But hey, even Optimus Prime needs a doppelganger sometimes, right?"
+    },
+    {
+      "question": "Is the Transformer Name Generator free to use?",
+      "answer": "Totally free! We believe everyone deserves a shot at naming their own Transformer. No energon credits required!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We're always looking for ways to improve! Send us your suggestions and feedback, and we'll consider them for future updates."
+    }
+  ],
+  "prefixes": [
+    "Opti",
+    "Mega",
+    "Astro",
+    "Cyber",
+    "Star",
+    "Thunder",
+    "Nova",
+    "Iron",
+    "Steel",
+    "Shadow",
+    "Blaze",
+    "Storm",
+    "Vector",
+    "Quantum",
+    "Titan",
+    "Galva",
+    "Ultra",
+    "Sonic",
+    "Plasma",
+    "Void",
+    "Sky",
+    "Earth",
+    "Sun",
+    "Moon"
+  ],
+  "suffixes": [
+    "tron",
+    "Prime",
+    "wave",
+    "strike",
+    "fire",
+    "bolt",
+    "claw",
+    "horn",
+    "wing",
+    "blast",
+    "storm",
+    "hawk",
+    "drive",
+    "force",
+    "knight",
+    "lord",
+    "scream",
+    "shadow",
+    "spark",
+    "quake",
+    "breaker",
+    "runner",
+    "hunter",
+    "guard"
+  ]
+}

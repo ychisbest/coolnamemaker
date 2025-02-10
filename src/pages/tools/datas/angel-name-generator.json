@@ -1,0 +1,104 @@
+{
+  "name": "Angel Name Generator",
+  "description": "Unleash your inner celestial being! Discover the perfect angel name that resonates with your divine essence. Are you ready to embrace your angelic identity?",
+  "slug": "angel-name-generator",
+  "icon": "\ud83d\ude07",
+  "introduction": "Ever wondered what your angel name would be? This generator crafts unique and ethereal names, blending heavenly sounds with a touch of mystique. Whether you're writing a fantasy novel, creating a character, or simply curious, find your angelic moniker here! Prepare for a name that's truly heaven-sent.",
+  "howToUse": [
+    "Simply click the 'Generate' button and let the celestial inspiration flow!",
+    "Don't like the first result? Keep clicking! The angels have plenty of names to share.",
+    "Feeling adventurous? Mix and match prefixes and suffixes for a truly personalized angelic title.",
+    "Once you find the perfect name, share it with your friends and spread the heavenly joy!",
+    "Consider the meaning of your angel name and how it reflects your personality or the character you're creating. It's all about the vibes!"
+  ],
+  "faqs": [
+    {
+      "question": "What makes these names 'angelic'?",
+      "answer": "We've curated prefixes and suffixes that evoke feelings of purity, light, and celestial power. They often incorporate elements from mythology and religious texts."
+    },
+    {
+      "question": "Can I use these names for characters in my book or game?",
+      "answer": "Absolutely! Feel free to use these names for any creative project. We encourage you to let your imagination soar!"
+    },
+    {
+      "question": "Are these names based on any specific religion?",
+      "answer": "While we draw inspiration from various mythologies and religious traditions, the names are designed to be generally evocative of angelic qualities rather than tied to one specific belief system."
+    },
+    {
+      "question": "How often is the generator updated with new names?",
+      "answer": "We're constantly adding new prefixes and suffixes to keep the generator fresh and inspiring. Check back regularly for new possibilities!"
+    },
+    {
+      "question": "Is there a way to save my favorite names?",
+      "answer": "Not directly on the site, but we recommend copying and pasting your favorite names into a document or note for safekeeping. You wouldn't want to lose your divine inspiration!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes for the generator?",
+      "answer": "We love hearing from our users! Feel free to contact us with your suggestions. We're always looking for ways to improve the generator and make it even more heavenly."
+    }
+  ],
+  "prefixes": [
+    "Aella",
+    "Seraph",
+    "Cherub",
+    "Michael",
+    "Gabriel",
+    "Raphael",
+    "Uriel",
+    "Auriel",
+    "Metatron",
+    "Sandalphon",
+    "Raguel",
+    "Remiel",
+    "Azrael",
+    "Jophiel",
+    "Zadkiel",
+    "Haniel",
+    "Chamuel",
+    "Raziel",
+    "Ariel",
+    "Israfel",
+    "Cassiel",
+    "Ambriel",
+    "Muriel",
+    "Verchiel",
+    "Adnachiel",
+    "Hamaliel",
+    "Zuriel",
+    "Barchiel",
+    "Gabbiel",
+    "Tzaphqiel"
+  ],
+  "suffixes": [
+    "iel",
+    "ina",
+    "iel",
+    "iel",
+    "iel",
+    "iel",
+    "iel",
+    "iel",
+    "iel",
+    "el",
+    "el",
+    "el",
+    "el",
+    "el",
+    "el",
+    "el",
+    "el",
+    "el",
+    "el",
+    "el",
+    "el",
+    "el",
+    "el",
+    "el",
+    "el",
+    "el",
+    "el",
+    "el",
+    "el",
+    "el"
+  ]
+}

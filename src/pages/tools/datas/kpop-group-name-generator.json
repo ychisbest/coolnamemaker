@@ -1,0 +1,92 @@
+{
+  "name": "K-Pop Group Name Generator",
+  "description": "Ready to debut your killer K-Pop group but struggling with the name? Don't let a boring moniker hold you back! Our K-Pop Group Name Generator will unleash a torrent of catchy, trendy, and totally unforgettable names that'll have fans screaming for more! Get ready to top the charts!",
+  "slug": "kpop-group-name-generator",
+  "icon": "\ud83c\udfa4",
+  "introduction": "So, you've got the talent, the choreography, and the killer visuals. All you need now is a name that screams 'global sensation'! This generator blends Korean influences with modern trends to create names that are unique, memorable, and perfect for your next big act. From edgy and fierce to cute and bubbly, we've got you covered. Let's find the perfect name to launch your group into superstardom!",
+  "howToUse": [
+    "First, take a deep breath and visualize your group's vibe. Are you fierce and powerful? Sweet and innocent? Or maybe a little bit of both?",
+    "Next, click that tantalizing 'Generate' button! (You know you want to.)",
+    "Feast your eyes on the glorious names that appear! Don't be afraid to click 'Generate' multiple times \u2013 the perfect name might be just a click away!",
+    "Found a name you love? Awesome! Write it down, share it with your members, and prepare for world domination!",
+    "Still not feeling it? No problem! Tweak the prefixes and suffixes (if available) to create a name that's 100% you. Get creative!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we provide these names for inspiration and fun, it's essential to do your due diligence and check for trademark availability before using a name commercially. We don't guarantee that any name is free from existing trademarks."
+    },
+    {
+      "question": "Are the generated names actually Korean?",
+      "answer": "Not all names are directly Korean words, but they are inspired by Korean naming conventions, pop culture, and sounds. They're designed to sound authentic and appealing to K-Pop fans."
+    },
+    {
+      "question": "How many times can I use the generator?",
+      "answer": "As many times as your heart desires! Generate until you find the absolute perfect name. We're here to fuel your K-Pop dreams!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We're always open to suggestions! Feel free to reach out to us with your ideas. We love hearing from our users and incorporating their creativity."
+    },
+    {
+      "question": "What if someone else uses the same name as my group?",
+      "answer": "It's crucial to research and trademark your chosen name as soon as possible. This will help protect your brand and prevent others from using the same name. We are not responsible for any trademark disputes."
+    },
+    {
+      "question": "Why are some names better than others?",
+      "answer": "Taste is subjective! What sounds amazing to one person might not resonate with another. The goal is to find a name that perfectly embodies your group's unique identity and appeals to your target audience."
+    }
+  ],
+  "prefixes": [
+    "Starlight",
+    "Neon",
+    "Cosmic",
+    "Lunar",
+    "Solar",
+    "Crimson",
+    "Velvet",
+    "Sapphire",
+    "Mystic",
+    "Echo",
+    "Nova",
+    "Zenith",
+    "Infinity",
+    "Serendipity",
+    "Euphoria",
+    "Aurora",
+    "Celestial",
+    "Dream",
+    "Ethereal",
+    "Vivid",
+    "Radiant",
+    "Phoenix",
+    "Shadow",
+    "Whisper"
+  ],
+  "suffixes": [
+    "X",
+    "7",
+    "Pulse",
+    "Bloom",
+    "Rise",
+    "Vibe",
+    "Wave",
+    "Shine",
+    "Spark",
+    "Code",
+    "Flux",
+    "Era",
+    "Vision",
+    "Soul",
+    "Heart",
+    "Beat",
+    "Crew",
+    "Squad",
+    "Unit",
+    "Nation",
+    "Empire",
+    "Galaxy",
+    "Orbit",
+    "Zone"
+  ]
+}

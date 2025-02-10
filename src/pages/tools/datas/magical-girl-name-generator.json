@@ -1,0 +1,87 @@
+{
+  "name": "Magical Girl Name Generator",
+  "description": "Unleash your inner sparkle with our Magical Girl Name Generator! \u2728 From dazzling defenders to enchanting emissaries, discover the perfect moniker for your heroic alter ego. Get ready to transform!",
+  "slug": "magical-girl-name-generator",
+  "icon": "\ud83d\udc96",
+  "introduction": "Ever dreamt of being a magical girl, saving the world with a dazzling transformation sequence and a name that resonates with power and grace? Well, dream no more! Our Magical Girl Name Generator is here to conjure the perfect identity for your heroic persona. Whether you're battling interdimensional baddies or just trying to make your neighborhood a little brighter, a fantastic name is the first step. So, grab your wand (or your keyboard) and let's get magical!",
+  "howToUse": [
+    "Simply click the 'Generate' button and *poof*! A brand new magical girl name will appear!",
+    "Don't like the first result? Keep clicking! The possibilities are as endless as the cosmos.",
+    "Feeling creative? Tweak the generated name to your liking. Add a middle name, change a vowel \u2013 make it *yours*!",
+    "Share your awesome new name with your friends and start planning your world-saving adventures! (Capes optional, but highly encouraged.)",
+    "Remember, the best magical girl name is one that makes you feel powerful and ready to take on anything! So have fun and embrace your inner magic!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my magical girl character in a story or game?",
+      "answer": "Absolutely! These names are here to inspire your creativity. Feel free to use them as-is or modify them to fit your character's unique personality and story."
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes, the names are generated using a combination of prefixes and suffixes to create unique and whimsical combinations. It's all a bit of magic (and a dash of code!)."
+    },
+    {
+      "question": "Will the generator create the same name twice?",
+      "answer": "While it's *possible*, it's highly unlikely! We have a vast library of prefixes and suffixes, ensuring a wide variety of name combinations."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added to the generator?",
+      "answer": "We'd love to hear your suggestions! Send us your ideas through the contact form on our website. We're always looking for ways to improve the generator and make it even more magical."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Don't worry! Just keep clicking! With so many possible combinations, you're bound to find a name that resonates with you. Or, get inspired and create your own perfect moniker!"
+    },
+    {
+      "question": "Is this generator really free?",
+      "answer": "Yes, completely free! Our mission is to spread a little magic and inspiration, and we believe everyone deserves a fantastic magical girl name."
+    }
+  ],
+  "prefixes": [
+    "Starlight",
+    "Moonbeam",
+    "Crystal",
+    "Rainbow",
+    "Sakura",
+    "Celestial",
+    "Mystic",
+    "Ethereal",
+    "Sparkle",
+    "Enchant",
+    "Nova",
+    "Astra",
+    "Lumina",
+    "Seraphina",
+    "Willow",
+    "Blossom",
+    "Aria",
+    "Aurora",
+    "Celestia",
+    "Lyra",
+    "Veridia"
+  ],
+  "suffixes": [
+    "Glimmer",
+    "Shine",
+    "Spark",
+    "Star",
+    "Bloom",
+    "Belle",
+    "Bliss",
+    "Charm",
+    "Dawn",
+    "Dream",
+    "Fae",
+    "Heart",
+    "Hope",
+    "Joy",
+    "Light",
+    "Melody",
+    "Mystique",
+    "Ray",
+    "Rhapsody",
+    "Song",
+    "Wish",
+    "Zephyr"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Transformer Name Generator",
+  "description": "Unleash your inner Autobot or Decepticon! This generator crafts the ultimate Transformer name, blending power, mystery, and a touch of robotic awesomeness. Prepare to ROLL OUT... with a brand new identity!",
+  "slug": "transformer-name-generator",
+  "icon": "\ud83e\udd16",
+  "introduction": "Ever wondered what your Transformer name would be? Are you more of a 'Megatron' or a 'Bumblebee'? Our generator combines a potent mix of prefixes and suffixes to forge a name that's both unique and undeniably Transformer-esque. Get ready to discover your robotic alter ego!",
+  "howToUse": [
+    "Simply click the 'Generate' button. (Yeah, it's *that* easy.)",
+    "Marvel at the glorious Transformer name that appears before your very eyes.",
+    "Not feeling it? Hit 'Generate' again! We've got enough combinations to keep you transforming all day long.",
+    "Share your awesome name with your friends and challenge them to find theirs!",
+    "Use your new Transformer name wisely. World domination... or saving the planet... it's your call."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually affiliated with Hasbro or the Transformers franchise?",
+      "answer": "Nope! We're just massive fans having some fun. This is purely for entertainment purposes."
+    },
+    {
+      "question": "Can I use the generated names for my own Transformers fan fiction?",
+      "answer": "Absolutely! Go wild! We'd love to see what you create. Just maybe give us a shout-out? \ud83d\ude09"
+    },
+    {
+      "question": "Are the generated names actually *good* Transformer names?",
+      "answer": "We think so! We've carefully curated the prefixes and suffixes to sound as authentic as possible. But hey, taste is subjective, right?"
+    },
+    {
+      "question": "I got a really weird name. Is the generator broken?",
+      "answer": "Probably not! Part of the fun is getting a name that's a little... unexpected. Embrace the weirdness! Maybe you're a *really* unique Transformer."
+    },
+    {
+      "question": "How many different names can this generator create?",
+      "answer": "A LOT! We're talking thousands of potential combinations. You're unlikely to get the same name twice, unless you're *really* unlucky... or lucky, depending on how you look at it."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added to the generator?",
+      "answer": "Definitely! We're always looking for ways to improve. Send your suggestions our way!"
+    }
+  ],
+  "prefixes": [
+    "Auto",
+    "Decepti",
+    "Mega",
+    "Opti",
+    "Ultra",
+    "Cyber",
+    "Astro",
+    "Star",
+    "Thunder",
+    "Nova",
+    "Blast",
+    "Iron",
+    "Steel",
+    "Shadow",
+    "Sky",
+    "Storm",
+    "Night",
+    "Quick",
+    "Power",
+    "Sonic",
+    "Inferno",
+    "Volt",
+    "Magna",
+    "Vector",
+    "Titan"
+  ],
+  "suffixes": [
+    "tron",
+    "mus",
+    "prime",
+    "wing",
+    "fire",
+    "bolt",
+    "claw",
+    "strike",
+    "wave",
+    "storm",
+    "blade",
+    "shot",
+    "drive",
+    "force",
+    "jet",
+    "hawk",
+    "knight",
+    "lord",
+    "master",
+    "rage",
+    "scream",
+    "shadow",
+    "spark",
+    "surge",
+    "titan"
+  ]
+}

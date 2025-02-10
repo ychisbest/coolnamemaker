@@ -1,0 +1,75 @@
+{
+  "name": "Girl Cyberpunk Name Generator",
+  "description": "Ready to jack in and redefine cool? Ditch the mundane and dive headfirst into the neon-drenched world of cyberpunk with our Girl Cyberpunk Name Generator! Craft a moniker that screams rebellion, tech-savviness, and a whole lotta attitude. Perfect for your next RPG character, online persona, or just for fun!",
+  "slug": "girl-cyberpunk-name-generator",
+  "icon": "\ud83d\udc7e",
+  "introduction": "Forget sugar and spice \u2013 in the cyberpunk future, girls are made of circuits, code, and kickass attitudes. This generator will arm you with a name that's as sharp as a monokatana and as unforgettable as a glitched-out memory. Get ready to unleash your inner digital rebel!",
+  "howToUse": [
+    "Click the 'Generate' button. Like, duh! \ud83d\ude09",
+    "Stare in awe at the awesome cyberpunk names conjured from the digital ether.",
+    "Repeat until you find the *perfect* name that resonates with your inner hacker goddess.",
+    "Use your new name to dominate the virtual world, one line of code at a time. (Or just impress your friends, that works too!)"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "We're talking names that blend futuristic tech with a touch of rebellious femininity. Think 'NovaByte', 'CrimsonCode', or 'EchoShift'. Names that sound like they could lead a revolution or hack into any mainframe."
+    },
+    {
+      "question": "Can I use these names for my cyberpunk character?",
+      "answer": "Absolutely! That's exactly what they're for. Whether you're writing a novel, playing a tabletop RPG, or just creating a badass online avatar, these names will give your character the edge they need."
+    },
+    {
+      "question": "Are the names generated random?",
+      "answer": "Yep! We use a combination of prefixes and suffixes, carefully curated to evoke the cyberpunk aesthetic. This ensures that each name is unique and surprising."
+    },
+    {
+      "question": "I don't like the name that was generated. What do I do?",
+      "answer": "No problem! Just hit the 'Generate' button again. We've got an endless supply of cool cyberpunk names just waiting to be discovered. Keep clicking until you find the one that clicks."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Totally free! Unleash your inner cyberpunk without spending a single credit. Our gift to the digital underground."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We're always looking for ways to improve! Send us your suggestions through our contact form. If we like them, we might just add them to the generator!"
+    }
+  ],
+  "prefixes": [
+    "Cyber",
+    "Neo",
+    "Tech",
+    "Data",
+    "Code",
+    "Nova",
+    "Crimson",
+    "Echo",
+    "Shadow",
+    "Ghost",
+    "Pixel",
+    "Vapor",
+    "Synth",
+    "Zero",
+    "Rogue",
+    "Static"
+  ],
+  "suffixes": [
+    "Byte",
+    "Shift",
+    "Code",
+    "Matrix",
+    "Pulse",
+    "Wire",
+    "Hacker",
+    "Runner",
+    "Blade",
+    "Storm",
+    "Net",
+    "Siren",
+    "Angel",
+    "X",
+    "AI",
+    "Zen"
+  ]
+}

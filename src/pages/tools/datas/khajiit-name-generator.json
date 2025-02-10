@@ -1,0 +1,61 @@
+{
+  "name": "Khajiit Name Generator",
+  "description": "Unleash your inner feline with our Khajiit Name Generator! Craft purr-fectly unique names inspired by the mystical world of Elsweyr. Whether you're roleplaying, writing fan fiction, or just curious, discover your Khajiit identity here!",
+  "slug": "khajiit-name-generator",
+  "icon": "\ud83d\udc31",
+  "introduction": "J'zargo welcomes you, traveler! Are you ready to embrace the moon-sugar dreams and sand-swept lands of Elsweyr? Our Khajiit Name Generator will transport you to the heart of Khajiit culture, providing you with authentic and intriguing names that resonate with the spirit of adventure. Let the naming begin!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the magic! \u2728",
+    "Not feeling the first result? Keep clicking until you find a name that makes your tail twitch with excitement. \ud83d\udc3e",
+    "Want something truly unique? Mix and match prefixes and suffixes to create your own purr-sonal masterpiece. \ud83c\udfa8",
+    "Share your awesome Khajiit name with your friends and fellow adventurers. Let them know who's boss (or should we say, 'who's cat'). \ud83d\ude3c"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly *is* a Khajiit?",
+      "answer": "Ah, a curious one! Khajiit are a feline race from the province of Elsweyr, known for their intelligence, agility, and... fondness for moon sugar. They come in many forms, from the housecat-like Alfiq to the towering Senche-raht."
+    },
+    {
+      "question": "Are these names lore-accurate?",
+      "answer": "We've delved deep into the lore of Tamriel to bring you names that feel authentic and true to the Khajiit spirit. While we can't guarantee 100% accuracy (because, magic!), we've done our best to capture the essence of Khajiit naming conventions."
+    },
+    {
+      "question": "Can I use these names for my roleplaying character?",
+      "answer": "Absolutely! That's what they're here for! Go forth and create a Khajiit character so compelling, even Azura will be impressed. Just remember to share your tales of adventure!"
+    },
+    {
+      "question": "Why do Khajiit talk in the third person?",
+      "answer": "It's a cultural quirk, my friend! Some scholars believe it's a way for Khajiit to emphasize their individuality, while others think it's just... how they talk. Either way, it adds to their charm, doesn't it?"
+    },
+    {
+      "question": "Help! I can't choose a name. They're all so good!",
+      "answer": "A common Khajiit problem! Take your time, let the names sink in, and perhaps even roll a die to decide. Or, you know, just pick the one that sounds the coolest. Your Khajiit character will thank you."
+    },
+    {
+      "question": "Are all Khajiit thieves?",
+      "answer": "Absolutely not! That's a nasty stereotype! While some Khajiit may have a knack for acquiring things (let's call it 'resourcefulness'), they're a diverse people with all sorts of skills and professions. Don't judge a cat by its claws!"
+    }
+  ],
+  "prefixes": [
+    "Ja'",
+    "Ra'",
+    "Ri'",
+    "Jo'",
+    "Dro'",
+    "S'",
+    "Ma'",
+    "Do'"
+  ],
+  "suffixes": [
+    "zargo",
+    "vashti",
+    "dar",
+    "jirr",
+    "mira",
+    "shan",
+    "si",
+    "jo",
+    "dasi",
+    "farahn"
+  ]
+}

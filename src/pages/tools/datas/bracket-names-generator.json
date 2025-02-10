@@ -1,0 +1,104 @@
+{
+  "name": "Bracket Name Generator",
+  "description": "Struggling to find the perfect moniker for your team, tournament, or even your pet goldfish? Our Bracket Name Generator is here to inject some serious fun and flair into your life! Say goodbye to boring labels and hello to unforgettable names that will have everyone talking.",
+  "slug": "bracket-name-generator",
+  "icon": "\ud83c\udfc6",
+  "introduction": "Whether you're organizing a sports competition, a gaming tournament, or just need a catchy name for your fantasy league, the Bracket Name Generator is your go-to tool. We've got a treasure trove of prefixes and suffixes guaranteed to spark your creativity. Get ready to unleash your inner naming ninja!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen! We'll conjure up a list of awesome bracket names.",
+    "Feeling picky? No problem! Keep clicking until you find the absolute *perfect* name that screams 'YOU!'",
+    "Copy and paste your winning name wherever you need it \u2013 spreadsheets, posters, t-shirts...the possibilities are endless!",
+    "Share your favorite finds with your friends and let them in on the naming fun. Because sharing is caring (and also good karma).",
+    "If you're feeling extra creative, try mixing and matching prefixes and suffixes to create your own unique masterpieces!"
+  ],
+  "faqs": [
+    {
+      "question": "Is the Bracket Name Generator really free?",
+      "answer": "Absolutely! We believe that awesome names should be accessible to everyone. Use it as much as you want, no strings attached."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You sure can! Once you generate a name, it's all yours to use as you see fit. Go forth and conquer the world with your amazing bracket name!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes, they are! Our algorithm combines prefixes and suffixes in a completely random way, ensuring that each name is a unique creation."
+    },
+    {
+      "question": "I don't like any of the names generated. What should I do?",
+      "answer": "Keep clicking that 'Generate' button! With a vast library of prefixes and suffixes, you're bound to stumble upon a name that resonates with you. Or, get inspired and use the generated names as a starting point for your own creations."
+    },
+    {
+      "question": "Will the Bracket Name Generator steal my personal information?",
+      "answer": "Nope! We don't collect any personal data. Your naming adventures are completely private and secure."
+    },
+    {
+      "question": "Can I suggest new prefixes and suffixes?",
+      "answer": "We'd love that! Send us your ideas through our contact form. We're always looking for ways to make the generator even better."
+    }
+  ],
+  "prefixes": [
+    "Elite",
+    "Supreme",
+    "Ultimate",
+    "Epic",
+    "Grand",
+    "Master",
+    "Legendary",
+    "Prime",
+    "Apex",
+    "Zenith",
+    "Celestial",
+    "Galactic",
+    "Quantum",
+    "Mystic",
+    "Shadow",
+    "Crimson",
+    "Golden",
+    "Silver",
+    "Iron",
+    "Titan",
+    "Vanguard",
+    "Phoenix",
+    "Rogue",
+    "Silent",
+    "Alpha",
+    "Omega",
+    "Nova",
+    "Stellar",
+    "Cosmic",
+    "Astral"
+  ],
+  "suffixes": [
+    "Champions",
+    "Warriors",
+    "Titans",
+    "Legends",
+    "Masters",
+    "Kings",
+    "Queens",
+    "Guardians",
+    "Strikers",
+    "Gladiators",
+    "Avengers",
+    "Renegades",
+    "Specters",
+    "Phantoms",
+    "Vanguards",
+    "Sentinels",
+    "Dominators",
+    "Conquerors",
+    "Destroyers",
+    "Invaders",
+    "Defenders",
+    "Elite",
+    "Force",
+    "Squad",
+    "Crew",
+    "Syndicate",
+    "Dynasty",
+    "Empire",
+    "Alliance",
+    "Legion"
+  ]
+}

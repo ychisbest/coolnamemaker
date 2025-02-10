@@ -1,0 +1,73 @@
+{
+  "name": "Pirate Name Generator",
+  "description": "Ahoy, matey! Need a fearsome pirate name to strike terror in the hearts of your enemies (or just sound cool at the next costume party)? Our Pirate Name Generator be here to help ye shiver me timbers and find the perfect moniker!",
+  "slug": "pirate-name-generator",
+  "icon": "\ud83c\udff4\u200d\u2620\ufe0f",
+  "introduction": "Yo ho ho, and a bottle of\u2026 awesome names! This generator crafts swashbuckling pirate names faster than you can say 'walk the plank!' Whether you're writing a pirate novel, creating a character for a game, or just embracing your inner buccaneer, we've got the plunder you need.",
+  "howToUse": [
+    "Simply click the 'Generate' button, ye scurvy dog!",
+    "Keep clicking until ye find a name that makes ye want to pillage and plunder (responsibly, of course).",
+    "Feel free to mix and match prefixes and suffixes for extra pirate-y flair!",
+    "Once ye have a name ye love, shout it from the crow's nest! (Or, you know, just copy and paste it.)"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names *real* pirate names?",
+      "answer": "Well, some might be inspired by historical figures, but mostly they're designed to *sound* like they belong to a legendary pirate. Think of them as pirate-adjacent\u2026 or pirate-inspired. Arrr!"
+    },
+    {
+      "question": "Can I use these names for my book/game/character?",
+      "answer": "Absolutely! That's what they're here for! Go forth and create the most fearsome pirate the seven seas have ever seen (or read about)."
+    },
+    {
+      "question": "Will using one of these names guarantee me a buried treasure?",
+      "answer": "While we can't guarantee treasure, we *can* guarantee you'll sound a lot more convincing when you say 'X marks the spot!'. Good luck on your hunt!"
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're always adding new prefixes and suffixes to keep the pirate names fresh and exciting! So check back often for new possibilities."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep clicking! There are countless combinations, and we're confident you'll find one that tickles your fancy. Or, get creative and mix and match your favorites!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Aye, matey! This treasure be completely free! Plunder away to your heart's content!"
+    }
+  ],
+  "prefixes": [
+    "Blackheart",
+    "Captain",
+    "One-Eyed",
+    "Pegleg",
+    "Bloody",
+    "Cutthroat",
+    "Dread",
+    "Storm",
+    "Iron",
+    "Silent",
+    "Mad",
+    "Salty",
+    "Crimson",
+    "Shadow",
+    "Whispering"
+  ],
+  "suffixes": [
+    "Jack",
+    "Jones",
+    "Roberts",
+    "Sparrow",
+    "Beard",
+    "Blade",
+    "Hook",
+    "Revenge",
+    "Bones",
+    "Skull",
+    "Shadow",
+    "Storm",
+    "Rum",
+    "Fin",
+    "Grog"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Wizard Name Generator",
+  "description": "Unleash your inner sorcerer with our Wizard Name Generator! Craft the perfect moniker worthy of Merlin himself. Because every wizard needs a name that's as magical as their spells.",
+  "slug": "wizard-name-generator",
+  "icon": "\ud83e\uddd9\u200d\u2642\ufe0f",
+  "introduction": "Conjure up enchanting wizard names with our mystical generator. Whether you're writing a fantasy novel, creating a role-playing character, or just dreaming of wielding a wand, we've got the perfect name to ignite your imagination. Prepare to be spellbound!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new wizardly name will appear before your very eyes.",
+    "Not feeling it? No worries! Click again, and again, and again... until you find the name that resonates with your magical soul.",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a truly unique and personalized wizard name.",
+    "Share your awesome wizard name with the world! (Or keep it a secret, like a powerful spell only you know.)"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really magical?",
+      "answer": "While we can't guarantee actual magic, we've poured plenty of enchanted code into it. The results are pretty darn close!"
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! Our Wizard Name Generator is perfect for Dungeons & Dragons, fantasy novels, video games, or any other creative project that needs a touch of wizardry."
+    },
+    {
+      "question": "Are the names copyrighted?",
+      "answer": "Nope! All generated names are free for you to use however you like. Go forth and create, young wizard!"
+    },
+    {
+      "question": "Will this generator teach me actual spells?",
+      "answer": "Sadly, no. But a great name is the first step to becoming a legendary wizard. The rest is up to you (and maybe a good spellbook)."
+    },
+    {
+      "question": "I don't like any of the names. What should I do?",
+      "answer": "Keep generating! With countless combinations, you're bound to find a name that speaks to your inner wizard. Or try mixing and matching prefixes and suffixes for a truly unique result."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Contact us through our website and share your magical inspiration."
+    }
+  ],
+  "prefixes": [
+    "Alatar",
+    "Gand",
+    "Merlin",
+    "Zarthus",
+    "Eldrin",
+    "Mystic",
+    "Shadow",
+    "Arcane",
+    "Storm",
+    "Frost",
+    "Pyre",
+    "Aether",
+    "Lumino",
+    "Chrono"
+  ],
+  "suffixes": [
+    "bane",
+    "staff",
+    "whisper",
+    "heart",
+    "weaver",
+    "stone",
+    "fyre",
+    "shade",
+    "wind",
+    "gaze",
+    "spark",
+    "mage",
+    "warden",
+    "seer",
+    "walker"
+  ]
+}

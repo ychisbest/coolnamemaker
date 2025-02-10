@@ -1,0 +1,82 @@
+{
+  "name": "Naruto Name Generator",
+  "description": "Unleash your inner ninja! Generate awesome Naruto-inspired names and discover your destiny in the Hidden Leaf Village (or wherever your ninja heart desires!).",
+  "slug": "naruto-name-generator",
+  "icon": "\ud83e\udd77",
+  "introduction": "Ever wondered what your name would be if you were a character in the legendary world of Naruto? Now you can find out! Our Naruto Name Generator combines classic ninja elements with a touch of whimsy to create unique and memorable names. Get ready to embrace your inner shinobi!",
+  "howToUse": [
+    "Simply click the 'Generate' button \u2013 like performing a summoning jutsu, but for names!",
+    "Keep clicking until you find a name that resonates with your chakra (or just sounds cool).",
+    "Share your awesome ninja name with your friends and show them who's the real Hokage of nicknames!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator officially endorsed by Masashi Kishimoto?",
+      "answer": "While we'd love to say yes, the truth is, it's fan-made with lots of love (and a healthy dose of ramen). So, no official endorsement, but plenty of ninja spirit!"
+    },
+    {
+      "question": "Can I use these names for my Naruto fan fiction?",
+      "answer": "Absolutely! Go wild! We encourage creativity and would be honored if our generator inspired your next epic Naruto adventure."
+    },
+    {
+      "question": "Are the generated names actually meaningful in Japanese?",
+      "answer": "Some elements might have Japanese roots, but the generator focuses on creating names that *sound* like they belong in the Naruto universe. Think of it as ninja-flavored wordplay!"
+    },
+    {
+      "question": "What if I don't like the names it generates?",
+      "answer": "Keep clicking! The generator has countless combinations. Plus, you can always tweak a name to make it truly your own. After all, even Naruto's name has variations!"
+    },
+    {
+      "question": "Will this generator give me super ninja powers?",
+      "answer": "Sadly, no. But a cool name is the first step to feeling like a super ninja, right? You'll have to learn the Chidori on your own, though. We recommend starting with YouTube tutorials (and maybe a good first-aid kit)."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions. We're always looking for ways to make our generator even more awesome!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Crimson",
+    "Silent",
+    "Lightning",
+    "Mystic",
+    "Iron",
+    "Burning",
+    "Serpent",
+    "Wind",
+    "Stone",
+    "Aqua",
+    "Swift",
+    "Dark",
+    "Blazing",
+    "Frost",
+    "Raging",
+    "Storm",
+    "Hidden",
+    "Ancient",
+    "Lunar"
+  ],
+  "suffixes": [
+    "Blade",
+    "Fist",
+    "Eye",
+    "Strike",
+    "Whisper",
+    "Fang",
+    "Gale",
+    "Sage",
+    "Hunter",
+    "Walker",
+    "Dreamer",
+    "Heart",
+    "Shade",
+    "Flame",
+    "Shield",
+    "Roar",
+    "Bringer",
+    "Guard",
+    "Master",
+    "Spirit"
+  ]
+}

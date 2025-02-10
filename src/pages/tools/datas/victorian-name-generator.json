@@ -1,0 +1,97 @@
+{
+  "name": "Victorian Name Generator",
+  "description": "Step back in time and discover your elegant Victorian alter ego! This generator crafts exquisitely sophisticated names worthy of a novel by Dickens or a portrait in a grand manor.",
+  "slug": "victorian-name-generator",
+  "icon": "\ud83c\udfa9",
+  "introduction": "Tired of your humdrum modern moniker? Yearning for a name with a touch of class, a hint of intrigue, and the weight of history? Our Victorian Name Generator is your portal to a bygone era. Prepare to be transported to gaslit streets, opulent parlors, and a world of refined sensibilities. Discover the name that will make you the toast of London (or at least, the most interesting person at your next tea party)!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch as a symphony of Victorian-era syllables combine to create your new, distinguished name.",
+    "Feeling adventurous? Click it again! The possibilities are as endless as the Victorian era was\u2026 well, long!",
+    "Don't like what you see? Don't fret! The name generator is as tireless as a Victorian workhorse. Keep clicking until you find the perfect fit for your refined sensibilities.",
+    "Found *the* name? Copy and paste it into your social media bio, your next creative writing project, or even your dating profile. Prepare for an influx of suitors (or at least, an increase in likes).",
+    "Remember, a great name is a terrible thing to waste! Use your newfound Victorian identity wisely."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names *actually* Victorian?",
+      "answer": "While we can't guarantee that Queen Victoria herself would approve, we've meticulously researched common naming conventions, popular surnames, and overall vibes of the era to craft names that feel authentically Victorian."
+    },
+    {
+      "question": "Can I use these names for characters in my book?",
+      "answer": "Absolutely! That's what they're for! Give your characters the gravitas and authenticity they deserve with a name straight from the Victorian era."
+    },
+    {
+      "question": "Will using a Victorian name make me more sophisticated?",
+      "answer": "We can't promise an instant upgrade to your manners or vocabulary, but it's a *start*. At the very least, you'll sound incredibly cultured."
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "As free as the air you breathe! (Though we wouldn't mind if you told all your friends about it...consider it a Victorian-era referral bonus)."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We're always open to suggestions! Send your ideas our way, and we'll see if they fit the Victorian aesthetic. After all, collaboration is a virtue, especially in a society built on empire and industry!"
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Have patience, dear friend! The generator is a tireless artist, constantly churning out new possibilities. Keep refreshing, and eventually, the perfect name will reveal itself to you like a hidden treasure in a dusty attic."
+    }
+  ],
+  "prefixes": [
+    "Augustus",
+    "Beatrice",
+    "Clarence",
+    "Eleanor",
+    "Frederick",
+    "Georgiana",
+    "Humphrey",
+    "Isabella",
+    "Jasper",
+    "Lillian",
+    "Montgomery",
+    "Penelope",
+    "Reginald",
+    "Seraphina",
+    "Theodore",
+    "Wilhelmina",
+    "Arthur",
+    "Florence",
+    "Edmund",
+    "Victoria",
+    "Albert",
+    "Cecilia",
+    "Barnaby",
+    "Prudence",
+    "Clifford",
+    "Agnes"
+  ],
+  "suffixes": [
+    "Ashworth",
+    "Bingham",
+    "Caldwell",
+    "Devereux",
+    "Ellington",
+    "Fairchild",
+    "Grantham",
+    "Hawthorne",
+    "Inglewood",
+    "Livingston",
+    "Montague",
+    "Northumberland",
+    "Osborne",
+    "Pembroke",
+    "Quentin",
+    "Rutherford",
+    "Sinclair",
+    "Tremaine",
+    "Underwood",
+    "Vauxhall",
+    "Wellington",
+    "Yarborough",
+    "Zimmerman",
+    "Abernathy",
+    "Beaumont",
+    "Chamberlain",
+    "Darlington"
+  ]
+}

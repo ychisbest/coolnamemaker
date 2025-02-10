@@ -1,0 +1,82 @@
+{
+  "name": "World of Warships Name Generator",
+  "description": "Ahoy there, Captain! Need a name that strikes fear into the hearts of your enemies in World of Warships? Look no further! This generator will conjure up a name worthy of a legendary admiral, guaranteed to make you the terror of the high seas (or at least, the in-game chat).",
+  "slug": "world-of-warships-name-generator",
+  "icon": "\u2693",
+  "introduction": "Tired of being 'Player12345'? Yearning for a moniker that reflects your naval prowess? Our World of Warships Name Generator is here to save the day! We'll combine historical naval terms, mythical sea creatures, and a dash of pure awesomeness to create a name that's both unique and intimidating. Prepare to command respect on the digital battlefield!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold the might of our name-conjuring algorithms!",
+    "Don't like the first result? Keep clicking! We've got more combinations than there are barnacles on a battleship.",
+    "Found a name you love? Copy it and paste it into World of Warships. Now go forth and conquer!",
+    "Feeling creative? Mix and match prefixes and suffixes to create your own custom masterpiece. Just try not to break the game, okay?"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually affiliated with World of Warships?",
+      "answer": "Nope! We're just huge fans who thought it would be fun to create a name generator. We're not endorsed or sponsored by Wargaming. But hey, maybe they'll notice us someday!"
+    },
+    {
+      "question": "Can I use these names outside of World of Warships?",
+      "answer": "Absolutely! Use them for forum names, online aliases, or even name your pet goldfish. The possibilities are endless!"
+    },
+    {
+      "question": "Are the generated names historically accurate?",
+      "answer": "We try to incorporate some historical elements, but mostly we're going for cool. Think of it as 'historically inspired' rather than 'historically accurate'. We're not responsible if you get laughed at for naming your ship 'The Flying Spaghetti Monster'."
+    },
+    {
+      "question": "I got a name that's already taken in World of Warships. What do I do?",
+      "answer": "Bummer! Just hit the 'Generate' button again. There are millions of possible combinations, so you're bound to find something unique eventually."
+    },
+    {
+      "question": "Will using a name from this generator make me a better player?",
+      "answer": "Sadly, no. Skill still matters. But you'll definitely look cooler while you're sinking enemy ships (or getting sunk, no judgement)."
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yes! Use it as much as you like! We're all about spreading the joy of awesome names."
+    }
+  ],
+  "prefixes": [
+    "Iron",
+    "Steel",
+    "Crimson",
+    "Silent",
+    "Raging",
+    "Storm",
+    "Sea",
+    "Shadow",
+    "Thunder",
+    "Wave",
+    "Leviathan",
+    "Kraken",
+    "Poseidon's",
+    "Neptune's",
+    "Admiral",
+    "Captain",
+    "First Mate",
+    "Ghost",
+    "Phantom",
+    "Unsinkable"
+  ],
+  "suffixes": [
+    "Hammer",
+    "Fury",
+    "Wave",
+    "Storm",
+    "Revenge",
+    "Hunter",
+    "Ghost",
+    "Shadow",
+    "Tide",
+    "Serpent",
+    "Dragon",
+    "Leviathan",
+    "Kraken",
+    "Destroyer",
+    "Battleship",
+    "Cruiser",
+    "Valkyrie",
+    "Vindicator",
+    "Conqueror"
+  ]
+}

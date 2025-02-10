@@ -1,0 +1,83 @@
+{
+  "name": "Rhys & Destin Ship Name Generator",
+  "description": "Ever wondered what a power couple like Rhys and Destin's ship name would be? Look no further! Our generator crafts the perfect blend of their awesomeness into one epic title.",
+  "slug": "rhys-destin-ship-name-generator",
+  "icon": "\ud83d\udea2",
+  "introduction": "Forget boring ship names! This is where Rhys meets Destin, and their combined awesomeness gets a nautical (or space-faring!) identity. Get ready to set sail on a sea of creativity!",
+  "howToUse": [
+    "Simply click the 'Generate' button. (Yeah, it's *that* easy.)",
+    "Marvel at the genius name that appears before your very eyes.",
+    "Share your favorites with your friends and bask in the glory of your newfound naming prowess.",
+    "Repeat until you find the *perfect* ship name. Or until you get bored. We don't judge."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator *actually* good?",
+      "answer": "Are you kidding? It's the BEST! (Okay, we might be a little biased.) But seriously, we think you'll love the results."
+    },
+    {
+      "question": "Can I use these names for, like, *anything*?",
+      "answer": "Absolutely! Ships, businesses, pets, your next D&D character... the sky's the limit! (Or, uh, the sea's the limit... or the space's the limit... you get the idea.)"
+    },
+    {
+      "question": "Are the names generated totally random?",
+      "answer": "They're *intelligently* random. We use a sophisticated algorithm (ahem... a list of cool words) to create unique and awesome combinations."
+    },
+    {
+      "question": "What if I don't like the names?",
+      "answer": "Keep hitting that 'Generate' button! Eventually, you'll find one that makes you say, 'Ahoy, matey! That's the one!'"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "You betcha! Use it to your heart's content. Just promise to tell all your friends about it!"
+    },
+    {
+      "question": "Can I suggest words to add to the generator?",
+      "answer": "We'd love to hear your ideas! Send them our way, and we might just include them in a future update."
+    }
+  ],
+  "prefixes": [
+    "Rhys's",
+    "Destin's",
+    "Rhystiny",
+    "DestinyRhys",
+    "The Rhys-Destin",
+    "R&D",
+    "The Dynamic",
+    "Eternal",
+    "Stellar",
+    "Cosmic",
+    "Unbreakable",
+    "Valiant",
+    "Indomitable",
+    "Fearless",
+    "Audacious",
+    "Resolute",
+    "Phoenix",
+    "Dragon",
+    "Griffin",
+    "Titan"
+  ],
+  "suffixes": [
+    "Voyager",
+    "Explorer",
+    "Wanderer",
+    "Odyssey",
+    "Venture",
+    "Quest",
+    "Crusader",
+    "Horizon",
+    "Star",
+    "Dream",
+    "Hope",
+    "Legacy",
+    "Empire",
+    "Dominion",
+    "Sanctuary",
+    "Citadel",
+    "Fortress",
+    "Haven",
+    "Guardian",
+    "Sentinel"
+  ]
+}

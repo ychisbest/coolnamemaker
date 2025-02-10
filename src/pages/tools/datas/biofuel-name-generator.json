@@ -1,0 +1,84 @@
+{
+  "name": "Biofuel Name Generator",
+  "description": "Struggling to find the perfect name for your groundbreaking biofuel? Unleash the power of our Biofuel Name Generator and ignite innovation with a name that's as sustainable as your fuel! \ud83d\ude80",
+  "slug": "biofuel-name-generator",
+  "icon": "\ud83c\udf31",
+  "introduction": "Welcome to the ultimate Biofuel Name Generator! Whether you're a scientist, entrepreneur, or just brainstorming for a school project, a catchy and relevant name is crucial. Our generator combines scientific accuracy with creative flair to deliver names that are both memorable and impactful. Get ready to fuel your brand!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen!",
+    "Don't like the first result? Keep clicking \u2013 we've got endless possibilities!",
+    "Feeling adventurous? Mix and match prefixes and suffixes to create your own unique biofuel name masterpiece!",
+    "Once you find the perfect name, make sure to check if it's available as a domain name and trademark. We don't want any naming squabbles!",
+    "Share your awesome new biofuel name with the world and watch your brand take off!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Our Biofuel Name Generator is 100% free to use. We believe in democratizing innovation, one awesome name at a time."
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "Yes! Once you've found a name you love, it's all yours to use for your business, product, or project. Just be sure to do your due diligence and check for trademark availability."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart desires! There's no limit to the number of biofuel names you can generate. Keep clicking until you find the perfect fit."
+    },
+    {
+      "question": "Are the generated names scientifically accurate?",
+      "answer": "We strive for a balance between scientific relevance and creative appeal. While the generator incorporates biofuel-related terms, it's always a good idea to consult with a scientific expert if you need absolute precision."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes to add to the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form, and we'll consider adding them to our database. Let's build the ultimate biofuel naming tool together!"
+    },
+    {
+      "question": "I found a name I love! What should I do next?",
+      "answer": "Fantastic! First, celebrate! Then, check its availability as a domain name and trademark. Secure your brand and start spreading the word about your innovative biofuel!"
+    }
+  ],
+  "prefixes": [
+    "Eco",
+    "Bio",
+    "Green",
+    "Terra",
+    "Aqua",
+    "Novo",
+    "Verdi",
+    "Lumina",
+    "Sol",
+    "Renew",
+    "Sustain",
+    "Pure",
+    "Clean",
+    "Future",
+    "Enviro",
+    "Agri",
+    "Hydro",
+    "Carbo",
+    "Nova",
+    "Excel"
+  ],
+  "suffixes": [
+    "Fuel",
+    "Gen",
+    "Power",
+    "Sol",
+    "Energy",
+    "Life",
+    "Tech",
+    "Flow",
+    "Boost",
+    "Drive",
+    "Zyme",
+    "Lution",
+    "Nova",
+    "Synergy",
+    "Source",
+    "Blend",
+    "Max",
+    "Prime",
+    "Core",
+    "Plus"
+  ]
+}

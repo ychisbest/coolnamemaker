@@ -1,0 +1,84 @@
+{
+  "name": "Clan Name Generator",
+  "description": "Struggling to find the perfect name for your clan? Fear not, noble warrior! Our Clan Name Generator will forge legendary titles worthy of your fierce fellowship. Unleash the power of epic nomenclature!",
+  "slug": "clan-name-generator",
+  "icon": "\ud83d\udee1\ufe0f",
+  "introduction": "In the realm of warriors, guilds, and epic alliances, a name is more than just a label \u2013 it's a banner, a war cry, a legend in the making. Our Clan Name Generator is your forge for crafting the perfect moniker that resonates with strength, unity, and a touch of the fantastical. Ready to rally your troops under a banner of awesome?",
+  "howToUse": [
+    "Simply hit the 'Generate' button and behold the birth of awesome clan names!",
+    "Not feeling the first roll? No sweat! Keep clicking until a name resonates with your inner chieftain.",
+    "Found the perfect name? Awesome! Copy it, share it, and let the world tremble before your newly christened clan!",
+    "Feeling creative? Mix and match prefixes and suffixes to create a truly unique name!",
+    "Pro Tip: Add a touch of your clan's lore or inside jokes to the generated name for extra flair!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the Clan Name Generator work?",
+      "answer": "It combines a curated list of prefixes and suffixes associated with strength, mythology, and fantasy, then spits them out in glorious combinations!"
+    },
+    {
+      "question": "Can I use these names for my video game clan?",
+      "answer": "Absolutely! That's precisely what it's for. Go forth and conquer, noble gamer!"
+    },
+    {
+      "question": "Are the generated names trademarked?",
+      "answer": "Nope! But it's always a good idea to do a quick search to ensure your chosen name isn't already in use, especially for commercial purposes."
+    },
+    {
+      "question": "Can I suggest new prefixes and suffixes?",
+      "answer": "We're always looking to expand our arsenal of awesome! Feel free to send your suggestions our way. If they're epic enough, we'll add them!"
+    },
+    {
+      "question": "I don't like any of the generated names. What do I do?",
+      "answer": "Keep hitting that 'Generate' button! Or, get inspired by the names and craft your own masterpiece. The possibilities are endless!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Totally! Enjoy the power of epic clan names, on the house!"
+    }
+  ],
+  "prefixes": [
+    "Crimson",
+    "Shadow",
+    "Iron",
+    "Storm",
+    "Dragon",
+    "Phoenix",
+    "Silent",
+    "Eternal",
+    "Celestial",
+    "Dark",
+    "Blood",
+    "Frost",
+    "Golden",
+    "Rune",
+    "Stone",
+    "Wild",
+    "Mystic",
+    "Arcane",
+    "Silver",
+    "Obsidian"
+  ],
+  "suffixes": [
+    "Guardians",
+    "Wolves",
+    "Knights",
+    "Legion",
+    "Order",
+    "Empire",
+    "Council",
+    "Brotherhood",
+    "Slayers",
+    "Reapers",
+    "Hunters",
+    "Vanguard",
+    "Sentinels",
+    "Keepers",
+    "Blades",
+    "Fists",
+    "Claws",
+    "Shades",
+    "Specters",
+    "Lords"
+  ]
+}

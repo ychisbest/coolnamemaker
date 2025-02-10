@@ -1,0 +1,84 @@
+{
+  "name": "Alter Ego Name Generator",
+  "description": "Unleash your inner superhero (or supervillain!) with our Alter Ego Name Generator. Find the perfect moniker to match your secret identity, whether you're fighting crime or plotting world domination. Get ready to transform!",
+  "slug": "alter-ego-name-generator",
+  "icon": "\ud83c\udfad",
+  "introduction": "Ever dreamt of a life less ordinary? A life where you're not just *you*, but a force to be reckoned with? Our Alter Ego Name Generator is your first step into that world. Whether you're a mild-mannered accountant by day or a nocturnal vigilante by night, you need a name that screams 'awesome'. Forget the mundane \u2013 embrace the extraordinary!",
+  "howToUse": [
+    "Simply click the 'Generate' button. (Duh!)",
+    "Marvel (pun intended!) at the amazing alter ego names we conjure up.",
+    "Don't like the first result? Keep hitting that button! We've got more names than there are villains in Gotham.",
+    "Once you find the perfect name, shout it from the rooftops! (Or, you know, just write it down.)",
+    "Go forth and conquer\u2026 or at least, conquer your to-do list. With your new alter ego name, anything is possible!"
+  ],
+  "faqs": [
+    {
+      "question": "What if I don't like the names the generator creates?",
+      "answer": "No sweat! Just keep hitting the 'Generate' button. We have a vast database of prefixes and suffixes, guaranteeing a unique (and hopefully awesome) name every time."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "Technically, yes. But we're not responsible if Marvel or DC comes knocking. Use at your own risk! (But seriously, probably best to use them for fun.)"
+    },
+    {
+      "question": "Is this generator truly random?",
+      "answer": "As random as we can make it! We use a sophisticated algorithm (aka a bunch of code) to ensure that each name is unique and unpredictable."
+    },
+    {
+      "question": "Will this generator make me a superhero?",
+      "answer": "Sadly, no. But it will give you the perfect name to *feel* like one. The rest is up to you. (Maybe start with some light calisthenics.)"
+    },
+    {
+      "question": "I think I found a bug in the generator! What should I do?",
+      "answer": "First, congratulations on being a super sleuth! Second, please contact us with details about the bug. We appreciate your help in making this generator even more awesome!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "Absolutely! We're always looking for fresh ideas. Send your suggestions our way, and we might just add them to the mix."
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Night",
+    "Crimson",
+    "Steel",
+    "Mystic",
+    "Quantum",
+    "Cyber",
+    "Thunder",
+    "Viper",
+    "Phantom",
+    "Iron",
+    "Silver",
+    "Golden",
+    "Dark",
+    "Omega",
+    "Alpha",
+    "Nova",
+    "Solar",
+    "Lunar",
+    "Galactic"
+  ],
+  "suffixes": [
+    "Strike",
+    "Claw",
+    "Hawk",
+    "Blade",
+    "Shield",
+    "Force",
+    "Knight",
+    "Storm",
+    "Wing",
+    "Guard",
+    "Hunter",
+    "Specter",
+    "Warrior",
+    "Slayer",
+    "Master",
+    "Aegis",
+    "Sentinel",
+    "Vanguard",
+    "Enforcer",
+    "Avenger"
+  ]
+}

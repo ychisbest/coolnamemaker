@@ -1,0 +1,85 @@
+{
+  "name": "Operation Name Generator",
+  "description": "Need a codename for your top-secret mission? Or maybe you're just roleplaying? This generator crafts names that sound straight out of a spy thriller or action movie. Get ready to deploy with style!",
+  "slug": "operation-name-generator",
+  "icon": "\ud83d\udd75\ufe0f\u200d\u2640\ufe0f",
+  "introduction": "Welcome, agent. Your mission, should you choose to accept it, is to generate the perfect operation name. Whether it's a clandestine rendezvous, a daring rescue, or a strategic maneuver, a cool operation name is crucial. Let's get you suited and booted with a name that screams 'success' (or at least 'interesting failure').",
+  "howToUse": [
+    "Step 1: Gaze intensely at the 'Generate' button. Channel your inner secret agent.",
+    "Step 2: Click the button! (It's not rocket science, but feel free to pretend it is).",
+    "Step 3: Behold! A brand new operation name appears, ready to be deployed. If it's not quite right, keep clicking until you find the perfect fit. Remember, the fate of the world (or at least your game night) may depend on it!",
+    "Step 4: Use your new operation name with confidence. Remember, you are a super agent!"
+  ],
+  "faqs": [
+    {
+      "question": "What makes a good operation name?",
+      "answer": "A good operation name is memorable, evocative, and slightly mysterious. It hints at the operation's purpose without revealing too much. Think 'Operation Red Dawn' or 'Operation Silent Storm'."
+    },
+    {
+      "question": "Can I use these names for my D&D campaign?",
+      "answer": "Absolutely! These names are perfect for any tabletop RPG, video game, or creative writing project. Unleash your imagination!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "Yes! We have a database of many words and we are constantly adding more!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send them our way through the contact form on our website."
+    },
+    {
+      "question": "What if I don't like the generated names?",
+      "answer": "No problem! Just keep clicking the 'Generate' button until you find one that resonates with you. We've got plenty to go around."
+    },
+    {
+      "question": "Is this generator secure? I don't want my operation names leaking to the enemy!",
+      "answer": "Your secrets are safe with us. We use state-of-the-art name-generating technology to ensure complete confidentiality. (Okay, maybe not state-of-the-art, but it's pretty good!)."
+    }
+  ],
+  "prefixes": [
+    "Crimson",
+    "Silent",
+    "Shadow",
+    "Golden",
+    "Iron",
+    "Steel",
+    "Emerald",
+    "Azure",
+    "Midnight",
+    "Phantom",
+    "Omega",
+    "Delta",
+    "Echo",
+    "Vanguard",
+    "Phoenix",
+    "Rogue",
+    "Spectre",
+    "Titan",
+    "Wraith",
+    "Nova",
+    "Celestial"
+  ],
+  "suffixes": [
+    "Strike",
+    "Dawn",
+    "Storm",
+    "Shield",
+    "Hammer",
+    "Edge",
+    "Blade",
+    "Guard",
+    "Specter",
+    "Viper",
+    "Serpent",
+    "Dragon",
+    "Phoenix",
+    "Wolf",
+    "Eagle",
+    "Shadow",
+    "Vigil",
+    "Reign",
+    "Protocol",
+    "Directive",
+    "Initiative"
+  ]
+}

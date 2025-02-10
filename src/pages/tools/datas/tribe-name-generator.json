@@ -1,0 +1,93 @@
+{
+  "name": "Tribe Name Generator",
+  "description": "Unleash your inner chieftain! Need a name for your epic fantasy tribe, your online gaming squad, or that killer band you're starting? This generator crafts names that resonate with power, mystery, and a touch of the untamed.",
+  "slug": "tribe-name-generator",
+  "icon": "\ud83c\udff9",
+  "introduction": "Forget generic labels!  This Tribe Name Generator is your gateway to evocative names that tell a story before you even begin.  Whether you're building a world, forging a community, or just looking for a cool moniker, we've got you covered. Get ready to discover names that echo through the ages!",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's like summoning a council of elders (but way faster).",
+    "Like what you see? Awesome! Copy that name and claim it as your own.",
+    "Not feeling the vibe? No worries! Hit 'Generate' again for a fresh batch of tribal inspiration. Keep going until you find the perfect fit!",
+    "Feeling creative? Mix and match prefixes and suffixes to craft a truly unique tribe name that screams *you*."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of tribe names can I generate?",
+      "answer": "From fierce warrior clans to mystical shamanic groups, this generator covers a wide range of tribal aesthetics. Think ancient civilizations, fantasy realms, and even futuristic societies!"
+    },
+    {
+      "question": "Are the generated names actually meaningful?",
+      "answer": "While the names are generated randomly, they're built from carefully selected prefixes and suffixes designed to evoke a sense of history, power, and cultural significance. They *sound* meaningful, and that's half the battle!"
+    },
+    {
+      "question": "Can I use these tribe names for commercial purposes (e.g., a video game)?",
+      "answer": "Can I use these tribe names for commercial purposes (e.g., a video game)?\nAbsolutely! Once you generate a name, it's yours to use as you see fit. Go forth and conquer (or, you know, create a really awesome game)."
+    },
+    {
+      "question": "How often is the generator updated with new prefixes and suffixes?",
+      "answer": "How often is the generator updated with new prefixes and suffixes?\nWe're constantly adding new elements to keep the generator fresh and exciting. Check back regularly for even more tribal naming possibilities!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "Can I suggest prefixes or suffixes for the generator?\nWe love community input! Feel free to send us your suggestions via the contact form on our website. We're always looking for ways to improve the generator and make it even more awesome."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Yes! The Tribe Name Generator is completely free to use. Generate as many names as your heart desires!"
+    }
+  ],
+  "prefixes": [
+    "Shadow",
+    "Storm",
+    "Iron",
+    "Sun",
+    "Moon",
+    "Blood",
+    "Stone",
+    "Whisper",
+    "Silent",
+    "Frost",
+    "Star",
+    "Wild",
+    "Rune",
+    "Ancient",
+    "Elder",
+    "Crimson",
+    "Obsidian",
+    "Silver",
+    "Golden",
+    "Jade",
+    "Emerald",
+    "Onyx",
+    "Titan",
+    "Dragon",
+    "Phoenix"
+  ],
+  "suffixes": [
+    "Clan",
+    "Tribe",
+    "Guard",
+    "Watch",
+    "Hand",
+    "Fist",
+    "Blade",
+    "Shield",
+    "Song",
+    "Wind",
+    "Walker",
+    "Hunter",
+    "Seeker",
+    "Keepers",
+    "Lords",
+    "Legion",
+    "Circle",
+    "Council",
+    "Order",
+    "Brotherhood",
+    "Sisterhood",
+    "Empire",
+    "Dynasty",
+    "Kindred",
+    "Host"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Informative Essay Name Generator",
+  "description": "Struggling to find the perfect title for your informative essay? Fear not, wordsmith! Our generator conjures up captivating titles that will hook your reader from the get-go. Say goodbye to boring essays and hello to irresistible information!",
+  "slug": "informative-essay-name-generator",
+  "icon": "\u270d\ufe0f",
+  "introduction": "Crafting an informative essay is hard enough. Don't let the title be another hurdle! This generator mixes powerful keywords and intriguing phrases to create titles that are both informative and engaging. Prepare to impress your professor (or boss) with your stellar essay title!",
+  "howToUse": [
+    "Simply click the 'Generate' button and watch the magic happen!",
+    "Don't like the first result? Keep clicking! We've got a whole treasure trove of titles waiting to be discovered.",
+    "Feeling creative? Tweak the generated titles to perfectly match your essay's tone and content. It's all about making it your own!",
+    "Share your favorite titles with your friends and see which one gets the most 'oohs' and 'aahs'."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! Consider it our gift to the world of knowledge-seekers. Use it as much as you like, no strings attached."
+    },
+    {
+      "question": "Can I use these titles for commercial purposes?",
+      "answer": "Yes, you are free to use the generated titles for any purpose, commercial or personal. However, we are not responsible for any copyright issues that may arise from using a title that is already in use."
+    },
+    {
+      "question": "How many titles can I generate?",
+      "answer": "As many as your heart desires! We've got an endless supply of title combinations, so keep clicking until you find the perfect one."
+    },
+    {
+      "question": "Are the generated titles actually good?",
+      "answer": "We think so! We've designed this generator to create titles that are both informative and attention-grabbing. But ultimately, the best title is the one that you think best represents your essay."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through the contact form on our website, and we'll consider adding them to the generator."
+    },
+    {
+      "question": "The generator isn't working! What do I do?",
+      "answer": "Oh no! That's not good. Try refreshing the page. If that doesn't work, please contact our support team, and we'll get it sorted out faster than you can say 'informative essay'."
+    }
+  ],
+  "prefixes": [
+    "Unveiling the Secrets of",
+    "The Ultimate Guide to",
+    "Exploring the Depths of",
+    "A Comprehensive Look at",
+    "Decoding the Mystery of",
+    "The Power of",
+    "Mastering the Art of",
+    "The Future of",
+    "The Impact of",
+    "Understanding the Science Behind"
+  ],
+  "suffixes": [
+    "A Deep Dive",
+    "Everything You Need to Know",
+    "A Beginner's Guide",
+    "The Complete Handbook",
+    "A Critical Analysis",
+    "A New Perspective",
+    "A Step-by-Step Approach",
+    "The Untold Story",
+    "A Practical Guide",
+    "The Key to Success"
+  ]
+}

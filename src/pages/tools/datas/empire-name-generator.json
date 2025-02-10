@@ -1,0 +1,74 @@
+{
+  "name": "Empire Name Generator",
+  "description": "Ready to rule the world? Our Empire Name Generator will conjure up the perfect moniker for your burgeoning dynasty, galactic federation, or just a really cool gaming clan. Because every empire, no matter how small, deserves a name that strikes fear (or at least mild curiosity) into the hearts of its rivals!",
+  "slug": "empire-name-generator",
+  "icon": "\ud83d\udc51",
+  "introduction": "So, you're building an empire, huh? Awesome! But before you conquer anything, you need a name. A name that echoes through the ages, a name that inspires loyalty (or at least prevents mutiny), a name that fits perfectly on a flag. That's where we come in. Our Empire Name Generator will help you forge a legendary title worthy of your grand ambitions. Prepare for world domination... or at least a really impressive spreadsheet.",
+  "howToUse": [
+    "First, banish all thoughts of boring names. Seriously, no 'Bob's Empire' allowed.",
+    "Next, click that glorious 'Generate' button. Keep clicking until you find a name that resonates with your imperial soul.",
+    "Don't be afraid to mix and match! Take a prefix from one generation and a suffix from another. Unleash your inner naming genius!",
+    "Once you've found the perfect name, write it in big, bold letters. Announce it from the rooftops (or at least post it on social media).",
+    "Now go forth and conquer... responsibly, of course. And remember, all empires eventually fall. But with a name this cool, yours will be remembered forever!"
+  ],
+  "faqs": [
+    {
+      "question": "Will this generator help me actually build an empire?",
+      "answer": "While we'd love to promise you world domination, this generator is strictly for naming purposes. Building an actual empire requires resources, strategy, and probably a really good lawyer. But hey, a great name is a start!"
+    },
+    {
+      "question": "Can I use these names for my book/game/band?",
+      "answer": "Absolutely! Consider these names a gift from the internet gods. Use them freely, modify them, build your world around them. Just maybe give us a shout-out if your empire becomes globally successful. (We accept tributes in pizza.)"
+    },
+    {
+      "question": "The names are cool, but not *exactly* what I want. What should I do?",
+      "answer": "That's the beauty of inspiration! Use the generated names as a starting point. Tweak them, combine them, or let them spark entirely new ideas. The possibilities are as vast as your empire's potential territory!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "They're *mostly* random. We've curated lists of prefixes and suffixes that evoke a sense of power, mystery, and, well, empire-ness. But the combinations are practically limitless, so get ready for some seriously unique results."
+    },
+    {
+      "question": "What if someone else is already using the name I generated?",
+      "answer": "Welcome to the club! Great minds think alike. But seriously, a quick Google search is always a good idea. If the name is already taken by a major world power, you might want to reconsider. Otherwise, go for it! There's room for more than one 'Crimson Dynasty' in the metaverse."
+    },
+    {
+      "question": "Help! I clicked 'Generate' too many times and now I'm overwhelmed with awesome names!",
+      "answer": "Congratulations! You've achieved peak empire-naming potential. Take a deep breath, make a list of your favorites, and maybe hold a naming ceremony. (We recommend cake.)"
+    }
+  ],
+  "prefixes": [
+    "Crimson",
+    "Iron",
+    "Starlight",
+    "Shadow",
+    "Celestial",
+    "Galactic",
+    "Silent",
+    "Emerald",
+    "Obsidian",
+    "Phoenix",
+    "Dragon",
+    "Serpent",
+    "Quantum",
+    "Mystic",
+    "Solaris"
+  ],
+  "suffixes": [
+    "Dynasty",
+    "Dominion",
+    "Federation",
+    "Imperium",
+    "Ascendancy",
+    "Collective",
+    "Republic",
+    "Kingdom",
+    "Consortium",
+    "Authority",
+    "Supremacy",
+    "Alliance",
+    "Order",
+    "Legion",
+    "Empire"
+  ]
+}

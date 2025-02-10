@@ -1,0 +1,85 @@
+{
+  "name": "Pun Generator",
+  "description": "Stuck in a wordplay rut? Our Pun Generator is here to inject some laughter into your life! Get ready for a hilarious avalanche of puns, guaranteed to tickle your funny bone and make you the life of the party (or at least the office).",
+  "slug": "pun-generator",
+  "icon": "\ud83d\ude02",
+  "introduction": "Prepare for a pun-tastic adventure! This generator is your secret weapon for crafting clever and comical puns. Whether you need a witty caption for Instagram, a memorable name for your pet hamster, or just a good chuckle, we've got you covered. Get ready to unleash your inner pun master!",
+  "howToUse": [
+    "Think of a keyword, any keyword!",
+    "Type your keyword into the magical box above.",
+    "Click the 'Generate' button and behold the punny possibilities!",
+    "Prepare for a wave of laughter (or at least a smirk).",
+    "Share your favorite puns with the world (or keep them for yourself, we won't judge).",
+    "Repeat as needed to achieve maximum pun saturation!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator actually funny?",
+      "answer": "Well, we think so! Humor is subjective, but we've poured our hearts (and a whole lot of wordplay) into creating puns that are at least mildly amusing. If you don't laugh, we'll offer you a virtual high-five and a sincere apology."
+    },
+    {
+      "question": "Can I use these puns for commercial purposes?",
+      "answer": "Absolutely! Go forth and punify the world of marketing! Just remember to credit us if you become a millionaire from our puns (kidding... mostly)."
+    },
+    {
+      "question": "What if I don't like any of the generated puns?",
+      "answer": "No problem! Just hit the 'Generate' button again. We have an endless supply of puns, some good, some bad, some downright atrocious. Keep trying, and you're bound to find a few gems (or at least some that are so bad they're good)."
+    },
+    {
+      "question": "Will this generator make me a better person?",
+      "answer": "While we can't guarantee moral improvement, we can promise that it will make you more pun-aware. And that's a superpower in its own right, right?"
+    },
+    {
+      "question": "How often is this generator updated?",
+      "answer": "We're constantly adding new words, phrases, and punny algorithms to keep things fresh and exciting. So check back often for new and improved pun-tastic experiences!"
+    },
+    {
+      "question": "Is there a limit to how many puns I can generate?",
+      "answer": "Nope! Pun away to your heart's content! We believe in the power of unlimited puns. Just don't blame us if your friends start avoiding you."
+    }
+  ],
+  "prefixes": [
+    "",
+    "Un",
+    "Re",
+    "Mis",
+    "Dis",
+    "Pre",
+    "Sub",
+    "Super",
+    "Over",
+    "Under",
+    "Semi",
+    "Anti",
+    "Co",
+    "Counter",
+    "Inter",
+    "Ex",
+    "Post",
+    "Neo",
+    "Pro",
+    "Trans"
+  ],
+  "suffixes": [
+    "",
+    "ly",
+    "ed",
+    "ing",
+    "er",
+    "est",
+    "ness",
+    "ment",
+    "ion",
+    "able",
+    "ible",
+    "ful",
+    "less",
+    "ous",
+    "ish",
+    "ward",
+    "wise",
+    "esque",
+    "aholic",
+    "mania"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Succubus Name Generator",
+  "description": "Unleash your inner demon with our Succubus Name Generator! Find the perfect seductive moniker to match your dark allure. Crafted for those who embrace the night and command attention.",
+  "slug": "succubus-name-generator",
+  "icon": "\ud83d\ude08",
+  "introduction": "Feeling a little... mischievous? Ready to embrace your inner enchantress? Then you've come to the right place! Our Succubus Name Generator will conjure up the perfect name to match your seductive spirit. Whether you're role-playing, writing a dark fantasy novel, or just looking for a wickedly cool alias, we've got you covered. Prepare to be bewitched!",
+  "howToUse": [
+    "Simply click the 'Generate' button and BAM! A brand new, deliciously devilish name will appear.",
+    "Not feeling the first name? No problem! Keep clicking until you find the one that truly resonates with your dark soul.",
+    "Want to get *really* creative? Mix and match prefixes and suffixes to craft a name that is uniquely, undeniably YOU.",
+    "Don't forget to share your fabulous new moniker with the world! (Or, you know, keep it a secret... your call.)",
+    "Remember, these names are just for fun. Use them wisely... or not. We won't judge. \ud83d\ude09"
+  ],
+  "faqs": [
+    {
+      "question": "What exactly is a succubus?",
+      "answer": "Historically, a succubus is a female demon or supernatural entity that appears in dreams to seduce men, often draining their energy. Think alluring, powerful, and definitely not someone you want to cross!"
+    },
+    {
+      "question": "Can I use these names for my D&D character?",
+      "answer": "Absolutely! These names are perfect for your next dark elf, tiefling, or any character with a touch of the infernal. Go forth and conquer (hearts, preferably)!"
+    },
+    {
+      "question": "Are these names appropriate for children?",
+      "answer": "Ehhh... probably not. These names are designed to be seductive and suggestive, so they're best suited for mature audiences."
+    },
+    {
+      "question": "Will using one of these names actually make me more seductive?",
+      "answer": "We can't guarantee it, but a great name is a great start! Confidence is key, darling. Own that name and work it!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions and we'll see if we can add them to the generator. The more wicked, the better!"
+    },
+    {
+      "question": "Are these names copyrighted?",
+      "answer": "Nope! Feel free to use them for whatever your dark heart desires. Just remember to give credit where credit is due (to the succubi of inspiration, of course!)."
+    }
+  ],
+  "prefixes": [
+    "Lilith",
+    "Morrigan",
+    "Nyx",
+    "Seraphina",
+    "Ravenna",
+    "Scarlett",
+    "Shadow",
+    "Velvet",
+    "Crimson",
+    "Obsidian",
+    "Whisper",
+    "Venom",
+    "Lust",
+    "Malice",
+    "Nightshade"
+  ],
+  "suffixes": [
+    "ia",
+    "el",
+    "ys",
+    "ane",
+    "elle",
+    "ythe",
+    "ina",
+    "ise",
+    "yss",
+    "anth",
+    "aria",
+    "endra",
+    "yst",
+    "ayre",
+    "yth"
+  ]
+}

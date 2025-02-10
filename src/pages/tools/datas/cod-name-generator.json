@@ -1,0 +1,75 @@
+{
+  "name": "Cool Name Generator",
+  "description": "Struggling to find the perfect, unforgettable name? Unleash your inner wordsmith with our Cool Name Generator!  We're not talking boring, run-of-the-mill names. We're talking names that POP, that SHINE, that practically scream, 'Hey, look at me!'  Whether you're naming a startup, a character in your epic fantasy novel, or just need a killer online handle, we've got you covered.",
+  "slug": "cool-name-generator",
+  "icon": "\ud83d\ude0e",
+  "introduction": "Tired of names that sound like everyone else's? Our Cool Name Generator is your secret weapon for crafting monikers that are as unique as you are.  Dive in, experiment, and discover the name that's been waiting to be born!",
+  "howToUse": [
+    "First, take a deep breath and prepare to be amazed. Seriously, the names we generate are *that* good.",
+    "Next, click that big, beautiful 'Generate' button.  Don't be shy, give it a good click!",
+    "Behold! A selection of outrageously cool names will appear before your very eyes.",
+    "If a name tickles your fancy, jot it down! If not, click 'Generate' again for a fresh batch of awesomeness.",
+    "Repeat until you find the name that makes your heart sing... or at least makes you nod and say, 'Yeah, that's pretty cool.'",
+    "Profit!"
+  ],
+  "faqs": [
+    {
+      "question": "Is this thing actually free?",
+      "answer": "Absolutely! We're all about spreading the cool name love. Use it as much as your little heart desires."
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "You bet! Once you see a name you love, it's yours to use however you see fit. We only provide the inspiration."
+    },
+    {
+      "question": "Are the generated names trademarked?",
+      "answer": "We can't guarantee that.  It's always a good idea to do a quick trademark search before you commit to a name for your business or product."
+    },
+    {
+      "question": "Why are some of the names kind of weird?",
+      "answer": "That's the point! We aim for cool, unique, and sometimes a little bit quirky.  Embrace the weirdness! That's where the magic happens."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions through our contact form. We're always looking for ways to make the generator even cooler."
+    },
+    {
+      "question": "What if I don't like any of the names?",
+      "answer": "Keep clicking! With enough tries, you're bound to find something that resonates with you. Or, you know, lower your standards. Just kidding! (Mostly.)"
+    }
+  ],
+  "prefixes": [
+    "Mega",
+    "Hyper",
+    "Ultra",
+    "Neo",
+    "Cyber",
+    "Astro",
+    "Zenith",
+    "Quantum",
+    "Mystic",
+    "Shadow",
+    "Crimson",
+    "Electric",
+    "Lunar",
+    "Solar",
+    "Galactic"
+  ],
+  "suffixes": [
+    "Tech",
+    "Tron",
+    "Force",
+    "Storm",
+    "Blade",
+    "Strike",
+    "Core",
+    "Pulse",
+    "Wave",
+    "Shift",
+    "Wing",
+    "Claw",
+    "Guard",
+    "Shield",
+    "Knight"
+  ]
+}

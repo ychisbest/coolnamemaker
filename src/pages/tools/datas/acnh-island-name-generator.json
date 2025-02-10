@@ -1,0 +1,83 @@
+{
+  "name": "ACNH Island Name Generator",
+  "description": "Struggling to find the perfect name for your Animal Crossing: New Horizons island? Fear not, friend! Our generator will whisk you away to naming paradise. Get ready for some seriously cool island vibes!",
+  "slug": "acnh-island-name-generator",
+  "icon": "\ud83c\udfdd\ufe0f",
+  "introduction": "Welcome, soon-to-be island ruler! Your island is your sanctuary, your digital escape, and it deserves a name that's as unique and awesome as you are. Ditch the boring and embrace the extraordinary with our ACNH Island Name Generator. Get ready to discover the perfect moniker for your slice of paradise!",
+  "howToUse": [
+    "First, take a deep breath and imagine your dream island. Is it lush and tropical? Mysterious and spooky? Quirky and cute?",
+    "Now, simply mash that 'Generate' button! Don't be shy, give it a good workout.",
+    "Scroll through the names and see what resonates with your island's personality. Trust your gut!",
+    "Found a winner? Awesome! If not, keep generating until you find the island name of your dreams. We've got plenty to go around!"
+  ],
+  "faqs": [
+    {
+      "question": "Will these names actually work in Animal Crossing: New Horizons?",
+      "answer": "Yep! We've made sure the generated names are within the character limit for island names in ACNH. Go forth and name with confidence!"
+    },
+    {
+      "question": "Can I use spaces in my island name?",
+      "answer": "Unfortunately, Animal Crossing: New Horizons doesn't allow spaces in island names. But don't worry, our generator will provide you with plenty of awesome, space-free options!"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "While there is an element of randomness, we've carefully curated prefixes and suffixes to create names that sound fitting for an ACNH island. No bizarre, nonsensical names here!"
+    },
+    {
+      "question": "I don't like any of the names! What should I do?",
+      "answer": "Keep generating! There are tons of possibilities. Or, use the generated names as inspiration to come up with your own unique creation. The possibilities are endless!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "Absolutely! Use it as much as you like. We want everyone to have an amazing island name without breaking the bank."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send us your suggestions, and we might just add them to the generator."
+    }
+  ],
+  "prefixes": [
+    "Bloom",
+    "Sun",
+    "Moon",
+    "Star",
+    "Willow",
+    "Pine",
+    "Coral",
+    "Shell",
+    "Dream",
+    "Mystic",
+    "Serene",
+    "Cozy",
+    "Pixel",
+    "Retro",
+    "Neon",
+    "Cloud",
+    "Ocean",
+    "Forest",
+    "Rainbow",
+    "Zen"
+  ],
+  "suffixes": [
+    "wood",
+    " Isle",
+    "ton",
+    "ville",
+    "Cove",
+    "Bay",
+    "Shores",
+    " Reef",
+    "topia",
+    "Haven",
+    "Land",
+    "Glade",
+    "Creek",
+    "Falls",
+    "Peak",
+    "Breeze",
+    "Nest",
+    "Bluff",
+    "Valley",
+    "Port"
+  ]
+}

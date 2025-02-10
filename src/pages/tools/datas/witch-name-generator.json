@@ -1,0 +1,84 @@
+{
+  "name": "Witch Name Generator",
+  "description": "Brew up the perfect moniker with our Witch Name Generator! Unearth mystical names that resonate with power and intrigue. Perfect for your next RPG character, story, or just for a bit of spellbinding fun. Because every witch deserves a name as unique as their craft!",
+  "slug": "witch-name-generator",
+  "icon": "\ud83e\uddd9\u200d\u2640\ufe0f",
+  "introduction": "Feeling witchy? Need a name that screams 'powerful sorceress' or 'enigmatic enchantress'? Our Witch Name Generator is here to conjure up the perfect title for you. Whether you're writing a fantasy novel, playing a tabletop RPG, or simply embracing your inner witch, we've got you covered. Get ready to discover names that are as enchanting and unique as your magical spirit!",
+  "howToUse": [
+    "First, take a deep breath and channel your inner magic (or just grab a cup of coffee, whatever works).",
+    "Click the 'Generate' button and watch the magic happen!",
+    "Browse through the bewitching names until one calls to your soul (or at least sounds really cool).",
+    "Copy your favorite witchy name and use it wisely...or wickedly. Your call!",
+    "Share the magic with your friends! Because everyone deserves a touch of enchantment in their lives."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of names does this generator create?",
+      "answer": "We conjure up a wide variety of witch names, from traditional and historical to modern and fantastical. Think 'Morgana LeFay' meets 'Willow Rosenberg' with a dash of 'Elphaba'!"
+    },
+    {
+      "question": "Can I use these names for my book characters?",
+      "answer": "Absolutely! These names are perfect for your novels, short stories, RPG characters, or any creative project that needs a touch of magic. Just please, credit us if you become a bestseller. \ud83d\ude09"
+    },
+    {
+      "question": "Are the names generated completely random?",
+      "answer": "While there's an element of randomness, we've carefully curated our lists of prefixes and suffixes to ensure that the names sound authentic and evocative. It's like a spell, but with code!"
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your suggestions! Send them our way through the contact form on the website. We're always looking to expand our magical lexicon."
+    },
+    {
+      "question": "Is this generator actually magical?",
+      "answer": "Well... we can't guarantee that using these names will grant you actual magical powers. But we can promise that they'll add a touch of enchantment to your life! Use at your own risk (of becoming incredibly awesome)."
+    },
+    {
+      "question": "I don't like the names, what can i do?",
+      "answer": "Keep clicking! The generator creates an infinite number of names. You're bound to find one that resonates with your inner witch eventually. Or, try adjusting your search parameters (if we had any!)."
+    }
+  ],
+  "prefixes": [
+    "Willow",
+    "Morgana",
+    "Elara",
+    "Seraphina",
+    "Rowan",
+    "Luna",
+    "Astrid",
+    "Hazel",
+    "Sage",
+    "Briar",
+    "Nyx",
+    "Lilith",
+    "Belladonna",
+    "Hecate",
+    "Circe",
+    "Persephone",
+    "Titania",
+    "Fay",
+    "Rhiannon",
+    "Guinevere"
+  ],
+  "suffixes": [
+    "bane",
+    "whisper",
+    "moon",
+    "shade",
+    "spell",
+    "thorn",
+    "night",
+    "grove",
+    "brook",
+    "wind",
+    "song",
+    "light",
+    "shadow",
+    "wood",
+    "fire",
+    "water",
+    "stone",
+    "leaf",
+    "flower",
+    "sky"
+  ]
+}

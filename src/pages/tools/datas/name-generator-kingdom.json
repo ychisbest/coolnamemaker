@@ -1,0 +1,103 @@
+{
+  "name": "Kingdom Name Generator",
+  "description": "Ready to rule? Unearth the perfect, powerful name for your kingdom with our generator. From majestic empires to hidden realms, find a name that resonates with strength and glory!",
+  "slug": "kingdom-name-generator",
+  "icon": "\ud83d\udc51",
+  "introduction": "Every great kingdom needs a name that echoes through the ages. Whether you're crafting a fantasy world, building a gaming empire, or just daydreaming of ruling your own land, our Kingdom Name Generator is here to help you forge a legendary identity. Prepare for world domination... or at least, a really cool story!",
+  "howToUse": [
+    "Simply click the 'Generate' button and behold! A brand new kingdom name will appear before your very eyes.",
+    "Don't like what you see? No problem! Mash that button again until you find the name that makes your royal heart sing.",
+    "Feeling fancy? Tweak the prefixes and suffixes to create a name that's uniquely yours. The fate of your kingdom is in your hands!",
+    "Once you've found the perfect name, copy and paste it into your project and start building your empire! We won't tell anyone you got the idea from us."
+  ],
+  "faqs": [
+    {
+      "question": "Is this generator really free?",
+      "answer": "Absolutely! We believe every aspiring ruler deserves a majestic name without breaking the royal bank. It's free to use as much as you like."
+    },
+    {
+      "question": "Can I use these names for my book/game/other creative project?",
+      "answer": "Go for it! All names generated here are free for you to use in any way you see fit. We just ask that you maybe mention us to your adoring fans... just kidding (mostly)!"
+    },
+    {
+      "question": "Are the names generated original?",
+      "answer": "Our generator combines prefixes and suffixes in unique ways, so while some combinations might sound familiar, the vast majority are freshly minted and ready for your kingdom's glorious history."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your royal heart desires! There are no limits. Keep generating until you stumble upon the perfect name that resonates with your vision."
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes for the generator?",
+      "answer": "We're always looking for ways to improve! Feel free to send us your suggestions through our contact form. You might just see your idea appear in the generator!"
+    },
+    {
+      "question": "Will this generator help me actually build a kingdom?",
+      "answer": "While we can't promise you a real-life kingdom (we're working on it!), we can definitely provide you with the perfect starting point: a killer name! The rest is up to you."
+    }
+  ],
+  "prefixes": [
+    "North",
+    "South",
+    "East",
+    "West",
+    "Silver",
+    "Golden",
+    "Dark",
+    "Light",
+    "Iron",
+    "Stone",
+    "Sun",
+    "Moon",
+    "Winter",
+    "Summer",
+    "Ember",
+    "Storm",
+    "Whisper",
+    "Shadow",
+    "Crystal",
+    "Dragon",
+    "Eagle",
+    "Lion",
+    "Wolf",
+    "Raven",
+    "Elven",
+    "Dwarven",
+    "Ancient",
+    "New",
+    "Great",
+    "High"
+  ],
+  "suffixes": [
+    "wood",
+    "field",
+    "shire",
+    "ton",
+    "burg",
+    "ford",
+    "wall",
+    "gate",
+    "haven",
+    "land",
+    "realm",
+    "dom",
+    "guard",
+    "crest",
+    "hold",
+    "peak",
+    "vale",
+    "glade",
+    "dell",
+    "reach",
+    "glen",
+    "ridge",
+    "point",
+    "fall",
+    "brook",
+    "river",
+    "sea",
+    "coast",
+    "bay",
+    "isle"
+  ]
+}

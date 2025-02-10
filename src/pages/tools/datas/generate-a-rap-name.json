@@ -1,0 +1,90 @@
+{
+  "name": "Rap Name Generator",
+  "description": "Unleash your inner MC with our Rap Name Generator! Craft the perfect moniker to dominate the mic and leave your mark on the hip-hop scene. From gritty street names to lyrical legends, we've got the ingredients for your rap persona.",
+  "slug": "rap-name-generator",
+  "icon": "\ud83c\udfa4",
+  "introduction": "Ready to drop beats and rhymes? Your rap name is your brand, your identity, your weapon! Our Rap Name Generator will help you forge a name that's as unique and unforgettable as your flow. Get ready to become a rap superstar!",
+  "howToUse": [
+    "Hit that 'Generate' button and watch the magic happen! We'll serve up a platter of potential rap names.",
+    "Don't settle for ordinary! Keep clicking until you find a name that resonates with your style and swagger.",
+    "Feeling creative? Tweak the generated names, mix and match prefixes and suffixes, and add your own personal flair.",
+    "Once you've found 'The One', claim it! Start spitting fire under your new rap alias and conquer the world of hip-hop!"
+  ],
+  "faqs": [
+    {
+      "question": "How does the Rap Name Generator work?",
+      "answer": "We use a super-secret algorithm (okay, it's just a list of cool prefixes and suffixes) to combine words and create fresh, unique rap names. It's like a hip-hop name-making machine!"
+    },
+    {
+      "question": "Can I use the generated names for commercial purposes?",
+      "answer": "Absolutely! Once you find a name you love, it's all yours to use for your music, branding, and world domination. Just make sure nobody else has it first!"
+    },
+    {
+      "question": "Are the generated names copyrighted?",
+      "answer": "Nope! We're just providing suggestions. It's up to you to make sure your chosen name is unique and doesn't infringe on anyone else's copyright."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! We have endless combinations. Or, get inspired and use the generated names as a starting point to create your own masterpiece."
+    },
+    {
+      "question": "Will this generator make me a good rapper?",
+      "answer": "Sadly, no. This generator gives you a name, not talent! But a great name is a great start. The rest is up to you \u2013 practice, passion, and a whole lot of rhyming skills are essential!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to be added?",
+      "answer": "We love hearing from our users! Send us your suggestions, and we might just add them to our ever-growing list. Help us make the Rap Name Generator even more awesome!"
+    }
+  ],
+  "prefixes": [
+    "Lil'",
+    "Young",
+    "MC",
+    "DJ",
+    "Sir",
+    "Lord",
+    "Big",
+    "The Real",
+    "Crazy",
+    "Golden",
+    "Silent",
+    "Mystic",
+    "Iron",
+    "Shadow",
+    "Ice",
+    "King",
+    "Queen",
+    "Prince",
+    "Princess",
+    "Doctor",
+    "Professor",
+    "General",
+    "Captain",
+    "Major"
+  ],
+  "suffixes": [
+    "Rhymer",
+    "Master",
+    "Dope",
+    "Flow",
+    "Lyric",
+    "Beat",
+    "Rhyme",
+    "Mic",
+    "Shadow",
+    "Ice",
+    "King",
+    "Queen",
+    "Prince",
+    "Princess",
+    "Viper",
+    "Ninja",
+    "Samurai",
+    "Ghost",
+    "Rebel",
+    "Renegade",
+    "Outlaw",
+    "Legend",
+    "Prophet"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Tiefling Name Generator D&D",
+  "description": "Unleash the infernal creativity with our Tiefling Name Generator! Forge names worthy of your charismatic, cunning, and sometimes chaotic D&D character. Whether you're playing a devilish diplomat or a rebellious rogue, find the perfect moniker to strike fear (or admiration) into the hearts of your fellow adventurers.",
+  "slug": "tiefling-name-generator-dnd",
+  "icon": "\ud83d\ude08",
+  "introduction": "So, you're playing a Tiefling? Excellent choice! But a Tiefling's name is more than just a label; it's a statement. It whispers of infernal pacts, forgotten legacies, and a touch of the abyss. Our generator blends the ominous with the alluring, providing names that are both evocative and uniquely Tiefling. Get ready to embrace your inner devil!",
+  "howToUse": [
+    "Simply hit that glorious 'Generate' button and watch the magic happen! We'll conjure up a list of Tiefling names, each more captivating than the last.",
+    "Don't like what you see? No problem! Keep clicking until a name resonates with your soul (or at least tickles your fancy).",
+    "Found 'the one'? Copy it, cherish it, and unleash it upon your D&D world! Your Tiefling awaits their destiny.",
+    "Feeling adventurous? Mix and match prefixes and suffixes from different generations to create a truly unique name. We dare you!"
+  ],
+  "faqs": [
+    {
+      "question": "What makes a name 'Tiefling-y'?",
+      "answer": "Tiefling names often have a hint of the infernal, a dash of the exotic, and a general air of 'don't mess with me.' They can be derived from Infernal, Draconic, or even Human languages, but with a twist that reflects their unique heritage."
+    },
+    {
+      "question": "Can I use these names for other RPGs?",
+      "answer": "Absolutely! While designed with D&D in mind, these names can easily be adapted for any fantasy RPG where you need a touch of the demonic or otherworldly."
+    },
+    {
+      "question": "Are these names randomly generated?",
+      "answer": "Yes and no. We use a curated list of prefixes and suffixes, combined with a sprinkle of algorithmic magic, to ensure the names sound authentic and interesting. It's controlled chaos, if you will."
+    },
+    {
+      "question": "What if I don't like any of the generated names?",
+      "answer": "Keep hitting that 'Generate' button! With countless combinations, you're bound to find one that clicks. Or, use them as inspiration to create your own masterpiece!"
+    },
+    {
+      "question": "Is this generator actually powered by dark magic?",
+      "answer": "We neither confirm nor deny the presence of infernal influences in our code. Let's just say we have... sources."
+    },
+    {
+      "question": "Can I use a generated name as a surname?",
+      "answer": "Definitely! Many Tieflings adopt surnames that reflect their heritage or personal choices. Feel free to use a generated name as a family name for added depth."
+    }
+  ],
+  "prefixes": [
+    "Asmode",
+    "Baalze",
+    "Fierna",
+    "Glasya",
+    "Levis",
+    "Malbol",
+    "Mephis",
+    "Zariel",
+    "Crim",
+    "Shad",
+    "Nyx",
+    "Umbra",
+    "Ebon",
+    "Obsid",
+    "Pyro",
+    "Ignis",
+    "Noct",
+    "Mort",
+    "Vor",
+    "Hex",
+    "Soul",
+    "Rune"
+  ],
+  "suffixes": [
+    "thrax",
+    "daine",
+    "mordai",
+    "vayne",
+    "fyre",
+    "shadow",
+    "bane",
+    "grim",
+    "whisper",
+    "night",
+    "blood",
+    "scar",
+    "thorn",
+    "stone",
+    "steel",
+    "heart",
+    "soul",
+    "shade",
+    "storm",
+    "brand",
+    "mark",
+    "sight"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Cool Car Name Generator",
+  "description": "Stuck in neutral trying to name your ride? Rev up your imagination with our Cool Car Name Generator! We'll help you find the perfect moniker that's as unique and awesome as your vehicle.",
+  "slug": "cool-car-name-generator",
+  "icon": "\ud83d\ude97",
+  "introduction": "Your car deserves a name that turns heads and screams personality. Whether you're cruising in a classic, tearing up the track, or just commuting to work, a cool name can make all the difference. Ditch the generic and embrace the extraordinary with our generator!",
+  "howToUse": [
+    "Simply click the 'Generate' button. It's like hitting the gas pedal of name creation!",
+    "Keep clicking until you find a name that makes you say, 'Vroom, that's the one!'",
+    "Don't be afraid to mix and match prefixes and suffixes for a truly custom creation.",
+    "Share your awesome car name with the world! (And maybe tag us? We love seeing what you come up with!)"
+  ],
+  "faqs": [
+    {
+      "question": "How does the generator work?",
+      "answer": "We've compiled a massive database of cool prefixes and suffixes, then use a little bit of magic (and some clever algorithms) to combine them into awesome car names. Think of it as a turbocharged naming engine!"
+    },
+    {
+      "question": "Can I use these names for commercial purposes?",
+      "answer": "While we encourage creativity, these names are primarily for fun. If you plan to use a generated name for a business or product, we recommend doing a trademark search to avoid any potential issues."
+    },
+    {
+      "question": "Are the generated names actually 'cool'?",
+      "answer": "We think so! But coolness is subjective. If you don't like a name, just generate another one. We've got plenty to go around!"
+    },
+    {
+      "question": "Can I suggest prefixes or suffixes to add to the generator?",
+      "answer": "Absolutely! We love hearing from our users. Send your suggestions our way, and we'll consider adding them to our database."
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You betcha! Our Cool Car Name Generator is completely free. Use it as much as you like to find the perfect name for your ride."
+    },
+    {
+      "question": "Will the generator name my car for real?",
+      "answer": "While we'd love to have that power, this generator only provides suggestions. The final decision is up to you! But we're confident you'll find the perfect name here."
+    }
+  ],
+  "prefixes": [
+    "Thunder",
+    "Shadow",
+    "Steel",
+    "Crimson",
+    "Midnight",
+    "Phantom",
+    "Iron",
+    "Blaze",
+    "Turbo",
+    "Nitro",
+    "Velocity",
+    "Apex",
+    "Drift",
+    "Rogue",
+    "Titan"
+  ],
+  "suffixes": [
+    "Bolt",
+    "Hawk",
+    "Fury",
+    "Storm",
+    "Hunter",
+    "Blade",
+    "Fire",
+    "Rider",
+    "Force",
+    "Surge",
+    "Viper",
+    "King",
+    "Queen",
+    "Warrior",
+    "Machine"
+  ]
+}

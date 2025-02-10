@@ -1,0 +1,100 @@
+{
+  "name": "Vampire Name Generator D&D",
+  "description": "Unleash your inner creature of the night! Generate wickedly cool and suitably spooky vampire names for your D&D character, story, or just for fun. Because who *doesn't* want to be a vampire?",
+  "slug": "vampire-name-generator-dnd",
+  "icon": "\ud83e\udddb",
+  "introduction": "Step into the shadows, mortal! Our Vampire Name Generator D&D is your gateway to crafting the perfect moniker for your undead alter ego. Whether you're playing a cunning vampire lord in a D&D campaign, writing a gothic novel, or simply indulging in a bit of dark fantasy, we've got the names that will make you the envy (and terror) of every creature of the night. Forget those generic Dracula rip-offs; we're talking names that drip with ancient power, subtle menace, and just the right amount of gothic flair. So, embrace the darkness and let's conjure up a name that's as immortal as you are about to become!",
+  "howToUse": [
+    "First, steel your nerves. (Just kidding... mostly.)",
+    "Click that gloriously ominous 'Generate' button. Don't be shy!",
+    "Marvel at the wickedly cool vampire name that appears before your very eyes.",
+    "If you're not feeling it, hit 'Generate' again! We've got enough names to populate a whole vampire court.",
+    "Copy and paste your favorite name into your D&D character sheet, your novel, or your secret vampire diary. (We won't tell.)",
+    "Go forth and terrorize... responsibly, of course. We're not liable for any stake-related incidents."
+  ],
+  "faqs": [
+    {
+      "question": "Are these names suitable for D&D characters?",
+      "answer": "Absolutely! These names are crafted with D&D in mind, drawing inspiration from classic gothic horror and fantasy lore. They're perfect for adding depth and intrigue to your vampire character."
+    },
+    {
+      "question": "Can I use these names for other things besides D&D?",
+      "answer": "Of course! Use them for books, games, roleplaying, or just to give yourself a cool vampire-themed nickname. The possibilities are as endless as immortality itself!"
+    },
+    {
+      "question": "Are the names randomly generated?",
+      "answer": "Yes, the names are generated using a combination of prefixes, suffixes, and other elements to create unique and evocative results every time. There's a touch of dark magic in the algorithm, we swear!"
+    },
+    {
+      "question": "Will the names always be 'evil' sounding?",
+      "answer": "While many names have a dark and mysterious vibe, not all of them are inherently 'evil'. Some might sound aristocratic, ancient, or even alluring. It's up to you to decide how you want to interpret them!"
+    },
+    {
+      "question": "Can I get a duplicate name?",
+      "answer": "It's possible, but highly unlikely! With the vast combination of prefixes and suffixes, the chances of getting the exact same name twice are slim. But hey, if it happens, maybe it's a sign you've found your true vampire identity!"
+    },
+    {
+      "question": "Do I have to give credit if I use a name?",
+      "answer": "While not required, a little nod to coolnamemaker.com would be greatly appreciated! Think of it as a small offering to the dark gods of name generation. Plus, it helps others find our awesome tool!"
+    }
+  ],
+  "prefixes": [
+    "Vlad",
+    "Seraph",
+    "Morbius",
+    "Lysand",
+    "Cassian",
+    "Elys",
+    "Nyx",
+    "Draven",
+    "Bellam",
+    "Corvus",
+    "Silas",
+    "Thorne",
+    "Lucien",
+    "Israfel",
+    "Ramses",
+    "Azrael",
+    "Lilith",
+    "Vladislav",
+    "Constant",
+    "Barthol",
+    "Sever",
+    "Radu",
+    "Vladim",
+    "Alistair",
+    "Eber",
+    "Vesper",
+    "Ignatius"
+  ],
+  "suffixes": [
+    "us",
+    "a",
+    "ian",
+    "ius",
+    "ova",
+    "escu",
+    "ovich",
+    "son",
+    "more",
+    "gard",
+    "grim",
+    "bane",
+    "thorne",
+    "wood",
+    "shade",
+    "night",
+    "blood",
+    "claw",
+    "fang",
+    "shadow",
+    "moon",
+    "strider",
+    "weaver",
+    "keeper",
+    "slayer",
+    "walker",
+    "mourn",
+    "bane"
+  ]
+}

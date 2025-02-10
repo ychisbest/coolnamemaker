@@ -1,0 +1,91 @@
+{
+  "name": "Pokemon Name Generator",
+  "description": "Gotta name 'em all! (Or at least, generate some awesome ones). Unleash your inner Professor Oak with our Pokemon Name Generator. Perfect for fan fiction, role-playing games, or just dreaming up your ultimate team!",
+  "slug": "pokemon-name-generator",
+  "icon": "\u26a1",
+  "introduction": "Ever wondered what a fusion of Pikachu and Charizard would be called? Or maybe you're creating a new Pokemon region and need some fresh names. Our generator is here to spark your imagination and deliver electrifying, fiery, and downright cool Pokemon names. Get ready to catch some inspiration!",
+  "howToUse": [
+    "Simply click the 'Generate' button. Seriously, that's it! We've made it easier than catching a Magikarp.",
+    "Keep clicking! Each click will conjure a brand-new, potentially legendary, Pokemon name.",
+    "Found a name you love? Copy and paste it into your story, game, or Pokedex. (We won't tell if you claim it as your own creation... but maybe give us a shout-out? \ud83d\ude09)",
+    "Experiment with different combinations and see what crazy creatures you can imagine!"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use these names for my Pokemon fan fiction?",
+      "answer": "Absolutely! That's what they're here for. Go forth and write epic tales of Pokemon adventures!"
+    },
+    {
+      "question": "Are these names based on real Pokemon names?",
+      "answer": "Some may have familiar elements, but most are completely original creations designed to capture the essence of the Pokemon world."
+    },
+    {
+      "question": "Will this generator help me win Pokemon battles?",
+      "answer": "Sadly, no. But a cool name might intimidate your opponent! It's all about psychological warfare, right?"
+    },
+    {
+      "question": "How often is the generator updated?",
+      "answer": "We're always adding new prefixes and suffixes to keep the names fresh and exciting. Check back regularly for new possibilities!"
+    },
+    {
+      "question": "Is this generator free to use?",
+      "answer": "You betcha! Use it as much as you like. Our goal is to spread the Pokemon love (and cool names) far and wide."
+    },
+    {
+      "question": "Can I suggest new prefixes or suffixes?",
+      "answer": "We'd love to hear your ideas! Send them our way, and we might just add them to the generator."
+    }
+  ],
+  "prefixes": [
+    "Elec",
+    "Pyro",
+    "Aqua",
+    "Terra",
+    "Lumi",
+    "Shadow",
+    "Chrono",
+    "Aero",
+    "Cryo",
+    "Mega",
+    "Giga",
+    "Ultra",
+    "Nova",
+    "Zenith",
+    "Apex",
+    "Stellar",
+    "Cosmi",
+    "Mysti",
+    "Draco",
+    "Fera",
+    "Planta",
+    "Toxi",
+    "Spectro",
+    "Vibra"
+  ],
+  "suffixes": [
+    "zard",
+    "chu",
+    "mite",
+    "drake",
+    "puff",
+    "spike",
+    "wing",
+    "claw",
+    "tail",
+    "horn",
+    "beam",
+    "blast",
+    "volt",
+    "wave",
+    "strike",
+    "flare",
+    "shade",
+    "bloom",
+    "vine",
+    "fang",
+    "scale",
+    "geist",
+    "nova",
+    "tron"
+  ]
+}

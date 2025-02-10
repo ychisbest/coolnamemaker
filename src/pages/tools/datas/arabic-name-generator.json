@@ -1,0 +1,72 @@
+{
+  "name": "Arabic Name Generator",
+  "description": "Unlock the mystique and elegance of Arabic names! Find the perfect moniker that resonates with history, culture, and a touch of desert magic. Ready to discover your Arabic alter ego?",
+  "slug": "arabic-name-generator",
+  "icon": "\ud83d\udd4c",
+  "introduction": "Ahlan wa Sahlan! Welcome to the Arabic Name Generator, where we weave together the beauty of the Arabic language and the allure of its rich heritage. Whether you're seeking a name for a character, a project, or just for fun, prepare to be transported to a world of captivating sounds and profound meanings. Let's find you a name that's as unforgettable as a starry desert night!",
+  "howToUse": [
+    "First, ditch the camel. (Unless you're *on* a camel, in which case, kudos!)",
+    "Simply click the 'Generate' button and watch the magic unfold. We'll conjure up a unique Arabic name just for you.",
+    "Don't like what you see? No problem! Hit 'Generate' again for a fresh, new name. We've got more combinations than grains of sand in the Sahara.",
+    "Found 'the one'? Copy that name and share it with the world! (Or keep it a secret, your call.)",
+    "Pro Tip: Pair your new Arabic name with a cool backstory. Makes it even more epic!"
+  ],
+  "faqs": [
+    {
+      "question": "Are these names actually Arabic?",
+      "answer": "Absolutely! We draw from a vast database of authentic Arabic names, ensuring you get the real deal. We're not just making stuff up (though sometimes the combinations feel pretty magical!)."
+    },
+    {
+      "question": "Can I use these names for my baby?",
+      "answer": "Definitely! Many of these names have beautiful meanings and rich history. However, always double-check the meaning and cultural significance to ensure it resonates with your values and beliefs."
+    },
+    {
+      "question": "Will these names get me into trouble?",
+      "answer": "Probably not! We strive to provide names that are respectful and culturally appropriate. However, context is key. Use your best judgment and be mindful of the potential impact of your name choice."
+    },
+    {
+      "question": "How many names can I generate?",
+      "answer": "As many as your heart (or your keyboard) desires! There's no limit. Keep generating until you find the perfect fit. We're here for you, name after name."
+    },
+    {
+      "question": "Can I suggest names to add to the generator?",
+      "answer": "We'd love that! Send us your suggestions. We're always looking to expand our collection and make our generator even better. Help us spread the beauty of Arabic names!"
+    },
+    {
+      "question": "Is this generator free?",
+      "answer": "Yes, it's absolutely free! Enjoy generating as many Arabic names as you want without spending a dime. Our gift to you, Habibi!"
+    }
+  ],
+  "prefixes": [
+    "Abdul",
+    "Aisha",
+    "Omar",
+    "Fatima",
+    "Ali",
+    "Layla",
+    "Yusuf",
+    "Zahra",
+    "Khalid",
+    "Salma",
+    "Hassan",
+    "Nadia",
+    "Karim",
+    "Samira"
+  ],
+  "suffixes": [
+    "Rahman",
+    "Aziz",
+    "Malik",
+    "Jamil",
+    "Sharif",
+    "Fahd",
+    "Amir",
+    "Nasir",
+    "Saeed",
+    "Iman",
+    "Jamal",
+    "Rayan",
+    "Wael",
+    "Hisham"
+  ]
+}

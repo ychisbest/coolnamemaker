@@ -1,81 +1,237 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import GeneratorComponet from "../components/Generator.jsx";
 ---
 
 <Layout>
+    <main class="container mx-auto px-4 py-12 max-w-5xl">
+        <!-- Hero Section with Notion-style -->
+        <section class="text-center mb-20 animate-fade-in">
+            <div class="mb-6 flex justify-center">
+                <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="64"
+                    height="64"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    class="text-gray-800 hover:scale-110 transition-transform duration-300"
+                >
+                    <path d="M12 2l10 6.5v7L12 22 2 15.5v-7L12 2zM12 22v-6.5"
+                    ></path>
+                    <path d="M2 9l10 6.5 10-6.5"></path>
+                    <path d="M12 2v6.5"></path>
+                </svg>
+            </div>
 
-<main class="container mx-auto px-4 py-12">
-    <!-- Hero Section -->
-    <section class="text-center mb-16">
-        
-        <h1 class="text-5xl font-bold mb-6 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+            <h1 class="text-6xl font-bold mb-6 text-gray-800">
+                AI Name Generator
+            </h1>
+            <p
+                class="text-xl text-gray-600 mb-10 max-w-3xl mx-auto font-light tracking-wide leading-relaxed"
+            >
+                Generate unique, memorable names for any project with our AI-powered tools. From business brands to fictional characters, find the perfect name in seconds.
+            </p>
 
-            Create Perfect Names for Everything
-        </h1>
-        <div class="flex flex-row justify-center my-5">
-            <a href="https://startupfa.me/s/coolnamemaker?utm_source=coolnamemaker.com" target="_blank"><img src="https://startupfa.me/badges/featured-badge-small.webp" alt="CoolNameMaker - Create perfect names for everything | Startup Fame" width="224" height="36" /></a>
-        </div>
-    
-        <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-            Discover the perfect name for your next project with our intelligent name generators. Whether you need names for characters, businesses, or creative projects, we've got you covered.
-        </p>
-        <a href="/tools" class="inline-block bg-blue-600 text-white px-8 py-4 rounded-lg hover:bg-blue-700 transition-colors text-lg font-semibold">
-            Explore Our Tools
-        </a>
-    </section>
+            <div
+                class="flex flex-row justify-center my-8 hover:opacity-90 transition-opacity"
+            >
+                <a
+                    href="https://startupfa.me/s/coolnamemaker?utm_source=coolnamemaker.com"
+                    target="_blank"
+                    class="transform hover:scale-105 transition-transform"
+                >
+                    <img
+                        src="https://startupfa.me/badges/featured-badge-small.webp"
+                        alt="CoolNameMaker - AI Name Generator for everything | Startup Fame"
+                        width="224"
+                        height="36"
+                        class="shadow-sm rounded"
+                    />
+                </a>
+            </div>
 
-    <!-- Features Section -->
-    <section class="grid md:grid-cols-3 gap-8 mb-16">
-        <div class="bg-white p-8 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
-            <div class="text-blue-600 text-4xl mb-4">🎯</div>
-            <h2 class="text-2xl font-bold mb-4">Specialized Generators</h2>
-            <p class="text-gray-600">Access a wide range of name generators tailored for different purposes - from fantasy characters to business names.</p>
-        </div>
-        <div class="bg-white p-8 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
-            <div class="text-blue-600 text-4xl mb-4">⚡</div>
-            <h2 class="text-2xl font-bold mb-4">Instant Results</h2>
-            <p class="text-gray-600">Get creative and unique name suggestions instantly with our fast and efficient generators.</p>
-        </div>
-        <div class="bg-white p-8 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
-            <div class="text-blue-600 text-4xl mb-4">🎨</div>
-            <h2 class="text-2xl font-bold mb-4">Creative Freedom</h2>
-            <p class="text-gray-600">Customize your search with various options and filters to find the perfect name that matches your vision.</p>
-        </div>
-    </section>
 
-    <!-- Popular Tools Section -->
-    <!-- <section class="mb-16">
-        <h2 class="text-3xl font-bold text-center mb-8">Popular Name Generators</h2>
-        <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-            <a href="/tools/wu-tang-name-generator​" class="block p-6 bg-white rounded-lg border border-gray-100 hover:shadow-md transition-shadow">
-                <h3 class="font-bold mb-2">Wu-Tang Name Generator</h3>
+        </section>
 
-                <p class="text-gray-600 text-sm">Generate a Wu-Tang clan name</p>
-            </a>
-            <a href="/tools/business-name" class="block p-6 bg-white rounded-lg border border-gray-100 hover:shadow-md transition-shadow">
-                <h3 class="font-bold mb-2">Business Names</h3>
+        <GeneratorComponet client:only></GeneratorComponet>
 
-                <p class="text-gray-600 text-sm">Generate creative names for your company</p>
-            </a>
-            <a href="/tools/username" class="block p-6 bg-white rounded-lg border border-gray-100 hover:shadow-md transition-shadow">
-                <h3 class="font-bold mb-2">Usernames</h3>
-                <p class="text-gray-600 text-sm">Find available usernames for social media</p>
-            </a>
-            <a href="/tools/fantasy-name" class="block p-6 bg-white rounded-lg border border-gray-100 hover:shadow-md transition-shadow">
-                <h3 class="font-bold mb-2">Fantasy Names</h3>
-                <p class="text-gray-600 text-sm">Create magical names for fantasy worlds</p>
-            </a>
-        </div>
-    </section> -->
+        <!-- Features Section with Notion-style cards -->
+        <section class="grid md:grid-cols-3 gap-8 mb-20">
+            <div
+                class="bg-white p-8 rounded-lg border border-gray-200 hover:border-gray-400 transition-all shadow-sm hover:shadow-md hover:translate-y-[-4px] duration-300"
+            >
+                <div
+                    class="p-3 bg-gray-100 rounded-lg inline-flex mb-5 transition-colors"
+                >
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="24"
+                        height="24"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="2"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        class="text-gray-600"
+                    >
+                        <circle cx="12" cy="12" r="10"></circle>
+                        <circle cx="12" cy="12" r="4"></circle>
+                        <line x1="4.93" y1="4.93" x2="9.17" y2="9.17"></line>
+                        <line x1="14.83" y1="14.83" x2="19.07" y2="19.07"
+                        ></line>
+                    </svg>
+                </div>
+                <h2 class="text-xl font-semibold mb-3 text-gray-800">
+                    Specialized Generators
+                </h2>
+                <p class="text-gray-600">
+                    Access a wide range of name generators tailored for
+                    different purposes - from fantasy characters to business
+                    names.
+                </p>
+            </div>
 
-    <!-- Call to Action -->
-    <section class="text-center bg-gradient-to-r from-blue-600 to-purple-600 text-white p-12 rounded-2xl my-24">
-        <h2 class="text-3xl font-bold mb-4">Start Creating Perfect Names Today</h2>
-        <p class="mb-8 max-w-2xl mx-auto">Join thousands of satisfied users who have found the perfect names for their projects using our generators.</p>
-        <a href="/tools" class="inline-block bg-white text-blue-600 px-8 py-4 rounded-lg hover:bg-gray-100 transition-colors text-lg font-semibold">
-            Get Started Now
-        </a>
-    </section>
-</main>
+            <div
+                class="bg-white p-8 rounded-lg border border-gray-200 hover:border-gray-400 transition-all shadow-sm hover:shadow-md hover:translate-y-[-4px] duration-300"
+            >
+                <div
+                    class="p-3 bg-gray-100 rounded-lg inline-flex mb-5 transition-colors"
+                >
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="24"
+                        height="24"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="2"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        class="text-gray-600"
+                    >
+                        <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"></path>
+                    </svg>
+                </div>
+                <h2 class="text-xl font-semibold mb-3 text-gray-800">
+                    Instant Results
+                </h2>
+                <p class="text-gray-600">
+                    Get creative and unique name suggestions instantly with our
+                    fast and efficient generators.
+                </p>
+            </div>
 
+            <div
+                class="bg-white p-8 rounded-lg border border-gray-200 hover:border-gray-400 transition-all shadow-sm hover:shadow-md hover:translate-y-[-4px] duration-300"
+            >
+                <div
+                    class="p-3 bg-gray-100 rounded-lg inline-flex mb-5 transition-colors"
+                >
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="24"
+                        height="24"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="2"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        class="text-gray-600"
+                    >
+                        <path
+                            d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm0 16a1 1 0 1 1 0-2 1 1 0 0 1 0 2zm-1-5v-4h2v4h-2z"
+                        ></path>
+                    </svg>
+                </div>
+                <h2 class="text-xl font-semibold mb-3 text-gray-800">
+                    Creative Freedom
+                </h2>
+                <p class="text-gray-600">
+                    Customize your search with various options and filters to
+                    find the perfect name that matches your vision.
+                </p>
+            </div>
+        </section>
+
+        <!-- Call to Action with Notion-style -->
+        <section
+            class="bg-gray-100 text-gray-800 p-12 rounded-lg my-24 shadow-sm hover:shadow-md transition-all duration-300"
+        >
+            <div class="flex flex-col items-center text-center">
+                <div class="p-4 bg-white rounded-full mb-6 shadow-sm">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="32"
+                        height="32"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="2"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        class="text-gray-800"
+                    >
+                        <path
+                            d="M20 11.08V8l-6-6H6a2 2 0 0 0-2 2v16c0 1.1.9 2 2 2h12a2 2 0 0 0 2-2v-3.08"
+                        ></path>
+                        <path d="M14 3v5h5"></path>
+                        <path d="M18 21v-6"></path>
+                        <path d="M15 18h6"></path>
+                    </svg>
+                </div>
+                <h2 class="text-3xl font-bold mb-4 text-gray-800">
+                    More Kind of Generators
+                </h2>
+                <p class="mb-8 max-w-2xl mx-auto text-gray-600">
+                    Explore our extensive collection of generators for various
+                    needs, including business names, character names, and more.
+                    Each generator is designed to spark creativity and help you
+                    find the perfect name for your project.
+                </p>
+                <a
+                    href="/tools"
+                    class="inline-flex items-center gap-2 bg-gray-800 text-white px-8 py-4 rounded-lg hover:bg-gray-700 transition-all shadow-sm hover:shadow-md text-lg font-medium group"
+                >
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="2"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        class="group-hover:translate-x-1 transition-transform"
+                    >
+                        <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                    </svg>
+                    Explore More Generators
+                </a>
+            </div>
+        </section>
+    </main>
 </Layout>
+
+<style>
+    @keyframes fadeIn {
+        0% {
+            opacity: 0;
+            transform: translateY(10px);
+        }
+        100% {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    .animate-fade-in {
+        animation: fadeIn 0.8s ease-out forwards;
+    }
+</style>

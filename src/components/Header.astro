@@ -1,55 +1,59 @@
-<header class="bg-white shadow-sm">
-    <nav class="container mx-auto px-4 py-4">
+<header class="bg-white border-b border-gray-200">
+    <nav class="container mx-auto px-6 py-4">
         <div class="flex justify-between items-center">
-            <div class="text-2xl font-bold cursor-pointer">
-                <a href="/" class="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent hover:from-purple-600 hover:to-blue-600 transition-all">
+            <div class="text-xl font-medium cursor-pointer">
+                <a href="/" class="text-gray-800 hover:text-gray-600 transition-all">
                     CoolNameMaker
                 </a>
             </div>
             <div class="md:hidden">
-                <button id="menu-btn" class="text-gray-600 hover:text-blue-600">
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+                <button id="menu-btn" class="text-gray-700 hover:text-gray-900 p-1">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 6h16M4 12h16M4 18h16" />
                     </svg>
                 </button>
-                <div id="mobile-menu" class="hidden fixed inset-0 bg-white z-50">
-                    <div class="p-4">
-                        <button id="close-menu" class="absolute top-4 right-4 text-gray-600 hover:text-blue-600">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                <div id="mobile-menu" class="hidden fixed inset-0 bg-white z-50 transform transition-transform duration-300 translate-x-full">
+                    <div class="p-6">
+                        <button id="close-menu" class="absolute top-4 right-4 text-gray-700 hover:text-gray-900 p-1">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M6 18L18 6M6 6l12 12" />
                             </svg>
                         </button>
-                        <div class="flex flex-col space-y-4 mt-8">
-                            <a href="/tools" class="text-gray-600 hover:text-blue-600 text-lg">Tools</a>
-                            <a href="/blog" class="text-gray-600 hover:text-blue-600 text-lg">Blog</a>
-                            <a href="/about" class="text-gray-600 hover:text-blue-600 text-lg">About</a>
+                        <div class="flex flex-col space-y-6 mt-10">
+                            <a href="/tools" class="text-gray-700 hover:text-gray-900 text-base font-medium">Tools</a>
+                            <a href="/blog" class="text-gray-700 hover:text-gray-900 text-base font-medium">Blog</a>
+                            <a href="/about" class="text-gray-700 hover:text-gray-900 text-base font-medium">About</a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="hidden md:flex space-x-4">
-                <a href="/tools" class="text-gray-600 hover:text-blue-600">Tools</a>
-                <a href="/blog" class="text-gray-600 hover:text-blue-600">Blog</a>
-                <a href="/about" class="text-gray-600 hover:text-blue-600">About</a>
+            <div class="hidden md:flex space-x-8">
+                <a href="/tools" class="text-gray-600 hover:text-gray-900 text-sm font-medium">Tools</a>
+                <a href="/blog" class="text-gray-600 hover:text-gray-900 text-sm font-medium">Blog</a>
+                <a href="/about" class="text-gray-600 hover:text-gray-900 text-sm font-medium">About</a>
             </div>
         </div>
     </nav>
 </header>
 
 <script>
-    // 获取菜单按钮和移动菜单元素
-    const menuBtn = document.getElementById('menu-btn') as any;
-    const mobileMenu = document.getElementById('mobile-menu') as any;
-    const closeMenu = document.getElementById('close-menu') as any;
+    const menuBtn = document.getElementById('menu-btn') as HTMLButtonElement;
+    const mobileMenu = document.getElementById('mobile-menu') as HTMLDivElement;
+    const closeMenu = document.getElementById('close-menu') as HTMLButtonElement;
 
-
-    // 点击菜单按钮时显示菜单
     menuBtn.addEventListener('click', () => {
         mobileMenu.classList.remove('hidden');
+        // Add small delay before removing transform to trigger animation
+        setTimeout(() => {
+            mobileMenu.classList.remove('translate-x-full');
+        }, 10);
     });
 
-    // 点击关闭按钮时隐藏菜单
     closeMenu.addEventListener('click', () => {
-        mobileMenu.classList.add('hidden');
+        mobileMenu.classList.add('translate-x-full');
+        // Wait for transition to finish before hiding
+        setTimeout(() => {
+            mobileMenu.classList.add('hidden');
+        }, 300);
     });
 </script>

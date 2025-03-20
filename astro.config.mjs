@@ -11,6 +11,14 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
 
-  integrations: [sitemap(), react()],
+  integrations: [sitemap(
+
+    {
+      filter: (page) => {
+        return !page.includes('/page');
+      }
+    }
+
+  ), react()],
   site: 'https://www.coolnamemaker.com',
 });

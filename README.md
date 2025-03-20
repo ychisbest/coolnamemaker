@@ -1,57 +1,32 @@
-# Astro Navigation Site Template / Astro导航站模板
+# Cool Name Maker - AI Name Generator
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/fasttoolhub)
+## Overview
+Cool Name Maker is an innovative AI-powered name generator that helps users create unique, memorable names for various purposes. Visit us at [coolnamemaker.com](https://coolnamemaker.com) to start generating creative names instantly.
 
-[English](#english) | [中文](#中文)
+## Features
+- **AI-Powered Generation**: Our sophisticated algorithms create names tailored to your specific needs
+- **Multiple Categories**: Generate names for businesses, products, characters, domains, and more
+- **Customization Options**: Adjust parameters to control name length, style, and uniqueness
+- **Instant Results**: Get dozens of creative name suggestions in seconds
+- **User-Friendly Interface**: Easy to use with no technical knowledge required
 
-## English
+## How It Works
+Our AI name generator analyzes patterns from thousands of successful names to create meaningful, catchy suggestions that resonate with your audience. Simply select your preferences, click generate, and choose from the list of custom-created names.
 
-A navigation website template built with Astro that automatically generates content based on data files.
+## Use Cases
+- Entrepreneurs looking for business or startup names
+- Authors seeking character names for their stories
+- Developers needing project or app names
+- Marketing teams brainstorming product names
+- Domain hunters searching for available website names
 
-### Features
-- Automatically generates navigation content from files in `src/data` directory
-- Fast and efficient static site generation
-- Easy to customize and extend
-- One-click deployment to Vercel
+## Why Choose Our AI Name Generator
+- Save hours of brainstorming time
+- Overcome creative blocks with fresh ideas
+- Discover unique names that stand out from competitors
+- Ensure your name has the right feel and connotations
+- Find available domains that match your brand
 
-### Getting Started
-1. Install dependencies:
-```bash
-npm install
-```
+Visit [coolnamemaker.com](https://coolnamemaker.com) today and discover the perfect name with our AI name generator!
 
-2. Development:
-```bash
-npm run dev
-```
-
-3. Build for production:
-```bash
-npm run build
-```
-
-## 中文
-
-基于Astro构建的导航网站模板，可以自动根据数据文件生成内容。
-
-### 特性
-- 自动从`src/data`目录的文件生成导航内容
-- 快速高效的静态站点生成
-- 易于定制和扩展
-- 一键部署到Vercel平台
-
-### 开始使用
-1. 安装依赖：
-```bash
-npm install
-```
-
-2. 开发模式：
-```bash
-npm run dev
-```
-
-3. 生产构建：
-```bash
-npm run build
-```
+*Keywords: ai name generator, business name generator, product name ideas, character name creator, domain name suggestions*

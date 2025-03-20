@@ -1,0 +1,41 @@
+{
+  "name": "Ship Name Generator - For Couples!",
+  "description": "Okay, so you're totally smitten, head-over-heels, and everyone knows it. But what's your *official* couple name? You know, the one your friends whisper? (Or, you know, shout from the rooftops!) Don't worry, this generator's got you covered. 😉",
+  "slug": "ship-name-generator",
+  "icon": "❤️",
+  "introduction": "Alright, lovebirds! So you've found 'the one'. Congrats! Now comes the *really* important part: finding that perfect, ridiculously cute, maybe-slightly-embarrassing ship name. This generator is like your own personal Cupid, armed with a keyboard instead of arrows. Let's find that name that screams 'YOU TWO!'",
+  "howToUse": [
+    "Hit that 'Generate' button! Boom! Instant ship name magic.",
+    "Hate it? No sweat. Just click again! There are, like, a *million* possibilities. (Okay, maybe not a million, but a LOT.)",
+    "Feeling creative? Try mixing the names, adding nicknames...get weird with it!",
+    "Found 'the one'? (The ship name, I mean...hopefully you already found your person!) Jot that sucker down before you forget!",
+    "Now go plaster that ship name *everywhere*. (Okay, maybe not *everywhere*...but you get the idea.)"
+  ],
+  "faqs": [
+    {
+      "question": "Wait, what *is* a 'ship name'?",
+      "answer": "It's a mashup of two people's names! Think 'Brangelina' (RIP) or 'Bennifer'. It's your couple name, but...cooler."
+    },
+    {
+      "question": "Are these names, like, *actually* good?",
+      "answer": "Define 'good'. 😂 We're going for fun, cute, and maybe a little cheesy. But hey, love is cheesy, right?"
+    },
+    {
+      "question": "Can I use this for my friends?",
+      "answer": "Totally! Be the ultimate matchmaker (or the ultimate troll...) and generate ship names for all your coupled-up friends."
+    },
+     {
+      "question": "My ship name is kind of awkward...",
+      "answer": "Embrace the awkwardness! Or, you know, just keep clicking that 'Generate' button until you find one you like. No judgment here."
+    },
+    {
+      "question": "What if my partner hates the name?",
+      "answer": "Well, that's a relationship problem, not a generator problem. 😬 Maybe try again? Or, you know, *talk* to them. Communication is key, people!"
+    },
+    {
+      "question": "I accidentally generated a ship name for myself and my cat. Is that weird?",
+      "answer": "Um...yes? But also, kind of adorable. We won't tell anyone. 😉"
+    }
+  ],
+  "prompt": "Generate a couple's ship name\nname1 is belly\nname2 is lily"
+}

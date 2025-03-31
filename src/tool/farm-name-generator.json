@@ -1,0 +1,236 @@
+{
+  "name": {
+    "en": "Farm Name Generator",
+    "ar": "مولد أسماء المزارع",
+    "es": "Generador de Nombres de Granja",
+    "fr": "Générateur de Noms de Ferme",
+    "zh-cn": "农场名称生成器",
+    "ja": "農場名ジェネレーター",
+    "pt": "Gerador de Nomes de Fazenda",
+    "ru": "Генератор Названий Ферм"
+  },
+  "description": {
+    "en": "Searching for the perfect name for your homestead, agricultural venture, or cozy countryside retreat? Our Farm Name Generator is here to cultivate a field of creative, charming, and memorable names! Find a name that evokes rolling hills, bountiful harvests, and rustic charm.",
+    "ar": "هل تبحث عن الاسم المثالي لمزرعتك، مشروعك الزراعي، أو ملاذك الريفي المريح؟ مولد أسماء المزارع لدينا هنا لزراعة حقل من الأسماء الإبداعية والساحرة والتي لا تُنسى! ابحث عن اسم يستحضر التلال المتموجة والحصاد الوفير والسحر الريفي.",
+    "es": "¿Buscas el nombre perfecto para tu granja, emprendimiento agrícola o acogedor refugio en el campo? ¡Nuestro Generador de Nombres de Granja está aquí para cultivar un campo de nombres creativos, encantadores y memorables! Encuentra un nombre que evoque colinas onduladas, cosechas abundantes y encanto rústico.",
+    "fr": "À la recherche du nom parfait pour votre propriété, entreprise agricole ou retraite confortable à la campagne? Notre Générateur de Noms de Ferme est là pour cultiver un champ de noms créatifs, charmants et mémorables! Trouvez un nom qui évoque des collines ondulantes, des récoltes abondantes et un charme rustique.",
+    "zh-cn": "正在为您的家园、农业企业或舒适的乡村度假胜地寻找完美的名字？我们的农场名称生成器在此为您培育一片充满创意、迷人且令人难忘的名字！找到一个能唤起连绵起伏的山丘、丰收和乡村魅力的名字。",
+    "ja": "あなたの家屋敷、農業事業、または居心地の良い田舎の隠れ家にぴったりの名前をお探しですか？私たちの農場名ジェネレーターは、創造的で魅力的で記憶に残る名前の畑を耕すためにここにあります！なだらかな丘、豊かな収穫、そして素朴な魅力を思い起こさせる名前を見つけてください。",
+    "pt": "Procurando o nome perfeito para sua propriedade, empreendimento agrícola ou retiro acolhedor no campo? Nosso Gerador de Nomes de Fazenda está aqui para cultivar um campo de nomes criativos, charmosos e memoráveis! Encontre um nome que evoque colinas ondulantes, colheitas abundantes e charme rústico.",
+    "ru": "Ищете идеальное название для вашей усадьбы, сельскохозяйственного предприятия или уютного загородного уголка? Наш Генератор Названий Ферм здесь, чтобы взрастить поле креативных, очаровательных и запоминающихся имен! Найдите имя, которое вызывает в воображении холмистые пейзажи, обильные урожаи и деревенский шарм."
+  },
+  "slug": "farm-name-generator",
+  "prompt": {
+    "en": "Generate a farm name",
+    "ar": "قم بإنشاء اسم مزرعة",
+    "es": "Generar un nombre de granja",
+    "fr": "Générer un nom de ferme",
+    "zh-cn": "生成一个农场名称",
+    "ja": "農場名を生成する",
+    "pt": "Gerar um nome de fazenda",
+    "ru": "Сгенерировать название фермы"
+  },
+  "icon": "🚜",
+  "introduction": {
+    "en": "Move beyond the mundane and embrace the pastoral! This isn't just a name generator; it's your tool for crafting an identity as fresh and wholesome as your farm's produce. Whether naming your family farm, a new organic brand, or even just your backyard garden, we've got the seeds for great names. Prepare to harvest some truly inspiring (and sometimes quirky) options!",
+    "ar": "تجاوز المألوف واحتضن الرعوي! هذا ليس مجرد مولد أسماء؛ إنها أداتك لصياغة هوية منعشة وصحية مثل منتجات مزرعتك. سواء كنت تسمي مزرعة عائلتك، علامة تجارية عضوية جديدة، أو حتى حديقتك الخلفية فقط، لدينا بذور لأسماء رائعة. استعد لحصاد بعض الخيارات الملهمة حقًا (وأحيانًا غريبة الأطوار)!",
+    "es": "¡Ve más allá de lo mundano y abraza lo pastoral! Esto no es solo un generador de nombres; es tu herramienta para crear una identidad tan fresca y saludable como los productos de tu granja. Ya sea para nombrar tu granja familiar, una nueva marca orgánica o incluso solo tu jardín trasero, tenemos las semillas para grandes nombres. ¡Prepárate para cosechar algunas opciones verdaderamente inspiradoras (y a veces peculiares)!",
+    "fr": "Dépassez le banal et embrassez le pastoral ! Ce n'est pas seulement un générateur de noms ; c'est votre outil pour créer une identité aussi fraîche et saine que les produits de votre ferme. Que ce soit pour nommer votre ferme familiale, une nouvelle marque bio, ou même simplement votre jardin, nous avons les graines pour de grands noms. Préparez-vous à récolter des options vraiment inspirantes (et parfois excentriques) !",
+    "zh-cn": "超越平凡，拥抱田园！这不仅仅是一个名称生成器；它是您打造与农场产品一样新鲜健康身份的工具。无论是为您的家庭农场、新的有机品牌，甚至只是您的后院花园命名，我们都有好名字的种子。准备好收获一些真正鼓舞人心（有时还有点古怪）的选择吧！",
+    "ja": "ありふれたものを超えて、牧歌的なものを受け入れましょう！これは単なる名前生成器ではありません。あなたの農場の生産物と同じくらい新鮮で健康的なアイデンティティを作り出すためのツールです。家族経営の農場、新しいオーガニックブランド、あるいは裏庭の庭に名前を付ける場合でも、素晴らしい名前の種があります。本当にインスピレーションを与える（そして時には風変わりな）選択肢を収穫する準備をしてください！",
+    "pt": "Vá além do mundano e abrace o pastoral! Isto não é apenas um gerador de nomes; é sua ferramenta para criar uma identidade tão fresca e saudável quanto os produtos da sua fazenda. Seja para nomear sua fazenda familiar, uma nova marca orgânica, ou até mesmo seu jardim, temos as sementes para ótimos nomes. Prepare-se para colher algumas opções verdadeiramente inspiradoras (e às vezes peculiares)!",
+    "ru": "Выйдите за рамки обыденного и примите пастораль! Это не просто генератор имен; это ваш инструмент для создания идентичности, такой же свежей и здоровой, как продукция вашей фермы. Будь то название вашей семейной фермы, нового органического бренда или даже просто вашего огорода, у нас есть семена для отличных имен. Приготовьтесь собрать урожай действительно вдохновляющих (а иногда и причудливых) вариантов!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the inviting 'Generate' button. Feel the earth move!",
+      "Watch as a crop of unique farm names sprouts on your screen.",
+      "Browse the list and admire the possibilities!",
+      "Found a name that feels like home? Copy it!",
+      "Now, go cultivate your farm's identity with your fantastic new name!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' الجذاب. اشعر بالأرض تتحرك!",
+      "شاهد كيف تنبت مجموعة من أسماء المزارع الفريدة على شاشتك.",
+      "تصفح القائمة واستمتع بالإمكانيات!",
+      "هل وجدت اسمًا يجعلك تشعر وكأنك في بيتك؟ انسخه!",
+      "الآن، اذهب وازرع هوية مزرعتك باسمك الجديد الرائع!"
+    ],
+    "es": [
+      "Haz clic en el atractivo botón 'Generar'. ¡Siente cómo se mueve la tierra!",
+      "Observa cómo brota una cosecha de nombres de granja únicos en tu pantalla.",
+      "¡Explora la lista y admira las posibilidades!",
+      "¿Encontraste un nombre que te haga sentir como en casa? ¡Cópialo!",
+      "¡Ahora, ve a cultivar la identidad de tu granja con tu fantástico nuevo nombre!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton invitant 'Générer'. Sentez la terre bouger !",
+      "Regardez une récolte de noms de ferme uniques germer sur votre écran.",
+      "Parcourez la liste et admirez les possibilités !",
+      "Vous avez trouvé un nom qui vous fait sentir chez vous ? Copiez-le !",
+      "Maintenant, allez cultiver l'identité de votre ferme avec votre nouveau nom fantastique !"
+    ],
+    "zh-cn": [
+      "点击诱人的“生成”按钮。感受大地的脉动！",
+      "观看屏幕上涌现出一批独特的农场名称。",
+      "浏览列表并欣赏各种可能性！",
+      "找到一个感觉像家一样的名字了吗？复制它！",
+      "现在，用你这个极好的新名字去培育你农场的身份吧！"
+    ],
+    "ja": [
+      "魅力的な「生成」ボタンをクリックしてください。大地が動くのを感じてください！",
+      "画面にユニークな農場名の作物が芽生えるのを見てください。",
+      "リストを閲覧し、可能性を賞賛してください！",
+      "家にいるような気分にさせる名前を見つけましたか？コピーしましょう！",
+      "さあ、あなたの素晴らしい新しい名前であなたの農場のアイデンティティを育てに行きましょう！"
+    ],
+    "pt": [
+      "Clique no convidativo botão 'Gerar'. Sinta a terra tremer!",
+      "Veja como uma safra de nomes de fazenda únicos brota na sua tela.",
+      "Navegue pela lista e admire as possibilidades!",
+      "Encontrou um nome que parece lar? Copie-o!",
+      "Agora, vá cultivar a identidade da sua fazenda com seu fantástico novo nome!"
+    ],
+    "ru": [
+      "Нажмите на привлекательную кнопку 'Создать'. Почувствуйте, как движется земля!",
+      "Наблюдайте, как на вашем экране прорастает урожай уникальных названий ферм.",
+      "Просмотрите список и восхититесь возможностями!",
+      "Нашли имя, которое кажется родным? Скопируйте его!",
+      "Теперь идите и взращивайте идентичность вашей фермы с вашим фантастическим новым именем!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Farm Name Generator really free?",
+        "ar": "هل مولد أسماء المزارع هذا مجاني حقًا؟",
+        "es": "¿Este Generador de Nombres de Granja es realmente gratis?",
+        "fr": "Ce Générateur de Noms de Ferme est-il vraiment gratuit?",
+        "zh-cn": "这个农场名称生成器真的是免费的吗？",
+        "ja": "この農場名ジェネレーターは本当に無料ですか？",
+        "pt": "Este Gerador de Nomes de Fazenda é realmente gratuito?",
+        "ru": "Этот Генератор Названий Ферм действительно бесплатный?"
+      },
+      "answer": {
+        "en": "Absolutely! We believe every farmer, gardener, and homesteader deserves a great name without plowing through their budget. Generate away!",
+        "ar": "بالتأكيد! نحن نؤمن بأن كل مزارع وبستاني وصاحب منزل يستحق اسمًا رائعًا دون الحاجة إلى إنفاق ميزانيته. قم بالإنشاء كما تشاء!",
+        "es": "¡Absolutamente! Creemos que cada agricultor, jardinero y propietario de una granja merece un gran nombre sin tener que gastar su presupuesto. ¡Genera sin límites!",
+        "fr": "Absolument ! Nous pensons que chaque agriculteur, jardinier et propriétaire mérite un nom génial sans avoir à épuiser son budget. Générez à volonté !",
+        "zh-cn": "当然！我们相信每个农民、园丁和农场主都应该拥有一个好名字，而无需花费预算。尽情生成吧！",
+        "ja": "もちろんです！すべての農家、庭師、そして自給自足者が予算を使い果たさずに素晴らしい名前を持つ権利があると信じています。どんどん生成してください！",
+        "pt": "Absolutamente! Acreditamos que todo agricultor, jardineiro e proprietário de terras merece um ótimo nome sem ter que esgotar seu orçamento. Gere à vontade!",
+        "ru": "Абсолютно! Мы считаем, что каждый фермер, садовник и владелец усадьбы заслуживает отличное имя, не тратя при этом свой бюджет. Генерируйте сколько угодно!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my farm business?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لأعمال مزرعتي؟",
+        "es": "¿Puedo usar estos nombres para mi negocio agrícola?",
+        "fr": "Puis-je utiliser ces noms pour mon entreprise agricole?",
+        "zh-cn": "我可以将这些名称用于我的农场业务吗？",
+        "ja": "これらの名前を私の農場ビジネスに使用できますか？",
+        "pt": "Posso usar esses nomes para o meu negócio agrícola?",
+        "ru": "Могу ли я использовать эти названия для своего фермерского бизнеса?"
+      },
+      "answer": {
+        "en": "While we provide fertile ground for ideas, we can't guarantee trademark availability. Always check local regulations and trademark databases before officially branding your farm or products.",
+        "ar": "بينما نوفر أرضًا خصبة للأفكار، لا يمكننا ضمان توفر العلامة التجارية. تحقق دائمًا من اللوائح المحلية وقواعد بيانات العلامات التجارية قبل وضع علامة تجارية رسمية على مزرعتك أو منتجاتك.",
+        "es": "Aunque proporcionamos un terreno fértil para las ideas, no podemos garantizar la disponibilidad de la marca registrada. Siempre verifica las regulaciones locales y las bases de datos de marcas registradas antes de marcar oficialmente tu granja o productos.",
+        "fr": "Bien que nous fournissions un terrain fertile pour les idées, nous ne pouvons garantir la disponibilité des marques. Vérifiez toujours les réglementations locales et les bases de données de marques avant de marquer officiellement votre ferme ou vos produits.",
+        "zh-cn": "虽然我们为创意提供了沃土，但我们不能保证商标的可用性。在正式为您的农场或产品注册品牌之前，请务必检查当地法规和商标数据库。",
+        "ja": "アイデアのための肥沃な土壌を提供していますが、商標の利用可能性を保証することはできません。農場や製品を公式にブランド化する前に、必ず地域の規制や商標データベースを確認してください。",
+        "pt": "Embora forneçamos terreno fértil para ideias, não podemos garantir a disponibilidade de marcas registradas. Sempre verifique os regulamentos locais e bancos de dados de marcas registradas antes de registrar oficialmente sua fazenda ou produtos.",
+        "ru": "Хотя мы предоставляем плодородную почву для идей, мы не можем гарантировать доступность товарных знаков. Всегда проверяйте местные правила и базы данных товарных знаков перед официальным брендированием вашей фермы или продукции."
+      }
+    },
+    {
+      "question": {
+        "en": "How many names can I generate?",
+        "ar": "كم عدد الأسماء التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres puedo generar?",
+        "fr": "Combien de noms puis-je générer?",
+        "zh-cn": "我可以生成多少个名称？",
+        "ja": "いくつの名前を生成できますか？",
+        "pt": "Quantos nomes posso gerar?",
+        "ru": "Сколько имен я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "As many as there are stars in the country sky! No limits here. Keep clicking until you find the name that perfectly suits your patch of land.",
+        "ar": "بقدر عدد النجوم في سماء الريف! لا حدود هنا. استمر في النقر حتى تجد الاسم الذي يناسب قطعة أرضك تمامًا.",
+        "es": "¡Tantos como estrellas hay en el cielo del campo! No hay límites aquí. Sigue haciendo clic hasta que encuentres el nombre que se adapte perfectamente a tu pedazo de tierra.",
+        "fr": "Autant qu'il y a d'étoiles dans le ciel de campagne ! Aucune limite ici. Continuez à cliquer jusqu'à ce que vous trouviez le nom qui convient parfaitement à votre lopin de terre.",
+        "zh-cn": "就像乡村夜空中的星星一样多！这里没有限制。继续点击，直到找到完全适合您那片土地的名字。",
+        "ja": "田舎の空に星がある限り！ここに制限はありません。あなたの土地に完全に合う名前を見つけるまでクリックし続けてください。",
+        "pt": "Tantas quantas estrelas no céu do campo! Sem limites aqui. Continue clicando até encontrar o nome que se adapta perfeitamente ao seu pedaço de terra.",
+        "ru": "Столько, сколько звезд на деревенском небе! Здесь нет ограничений. Продолжайте нажимать, пока не найдете имя, которое идеально подходит для вашего участка земли."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names actually good?",
+        "ar": "هل الأسماء التي تم إنشاؤها جيدة حقًا؟",
+        "es": "¿Los nombres generados son realmente buenos?",
+        "fr": "Les noms générés sont-ils vraiment bons?",
+        "zh-cn": "生成的名称真的好吗？",
+        "ja": "生成された名前は実際に良いものですか？",
+        "pt": "Os nomes gerados são realmente bons?",
+        "ru": "Действительно ли сгенерированные имена хороши?"
+      },
+      "answer": {
+        "en": "We think they capture the spirit of the farm! We've blended traditional terms with creative twists. But taste varies like crop yields – if you don't love the first batch, generate another!",
+        "ar": "نعتقد أنها تجسد روح المزرعة! لقد مزجنا المصطلحات التقليدية مع لمسات إبداعية. لكن الأذواق تختلف مثل غلة المحاصيل - إذا لم تعجبك الدفعة الأولى، فأنشئ دفعة أخرى!",
+        "es": "¡Creemos que capturan el espíritu de la granja! Hemos mezclado términos tradicionales con giros creativos. Pero el gusto varía como los rendimientos de los cultivos: si no te encanta el primer lote, ¡genera otro!",
+        "fr": "Nous pensons qu'ils capturent l'esprit de la ferme ! Nous avons mélangé des termes traditionnels avec des touches créatives. Mais les goûts varient comme les rendements des cultures – si vous n'aimez pas le premier lot, générez-en un autre !",
+        "zh-cn": "我们认为它们抓住了农场的精髓！我们将传统术语与创意转折相结合。但口味如同作物产量一样各不相同——如果你不喜欢第一批，就再生成一批！",
+        "ja": "私たちはそれらが農場の精神を捉えていると思います！伝統的な用語と創造的なひねりを融合させました。しかし、好みは作物の収穫量のように異なります – 最初のバッチが気に入らなければ、別のものを生成してください！",
+        "pt": "Achamos que eles capturam o espírito da fazenda! Misturamos termos tradicionais com toques criativos. Mas o gosto varia como o rendimento das colheitas – se não gostar do primeiro lote, gere outro!",
+        "ru": "Мы думаем, они передают дух фермы! Мы смешали традиционные термины с творческими изюминками. Но вкус варьируется, как урожайность – если вам не нравится первая партия, сгенерируйте другую!"
+      }
+    },
+    {
+      "question": {
+        "en": "Will using a name generated here guarantee my farm's success?",
+        "ar": "هل استخدام اسم تم إنشاؤه هنا يضمن نجاح مزرعتي؟",
+        "es": "¿Usar un nombre generado aquí garantizará el éxito de mi granja?",
+        "fr": "L'utilisation d'un nom généré ici garantira-t-elle le succès de ma ferme?",
+        "zh-cn": "使用在这里生成的名称能保证我的农场成功吗？",
+        "ja": "ここで生成された名前を使用することで、私の農場の成功は保証されますか？",
+        "pt": "Usar um nome gerado aqui garantirá o sucesso da minha fazenda?",
+        "ru": "Гарантирует ли использование сгенерированного здесь имени успех моей фермы?"
+      },
+      "answer": {
+        "en": "A strong name is a good seed, but success grows with hard work, good soil, and maybe a little luck with the weather. A great name helps your farm stand out!",
+        "ar": "الاسم القوي هو بذرة جيدة، لكن النجاح ينمو بالعمل الجاد، والتربة الجيدة، وربما القليل من الحظ مع الطقس. الاسم الرائع يساعد مزرعتك على التميز!",
+        "es": "Un nombre fuerte es una buena semilla, pero el éxito crece con trabajo duro, buena tierra y quizás un poco de suerte con el clima. ¡Un gran nombre ayuda a que tu granja se destaque!",
+        "fr": "Un nom fort est une bonne graine, mais le succès grandit avec le travail acharné, une bonne terre et peut-être un peu de chance avec la météo. Un nom génial aide votre ferme à se démarquer !",
+        "zh-cn": "一个响亮的名字是一颗好种子，但成功需要辛勤工作、肥沃的土壤，也许还需要一点天气带来的运气。一个好名字有助于让您的农场脱颖而出！",
+        "ja": "強い名前は良い種ですが、成功は努力、良い土壌、そしておそらく天候の少しの運で育ちます。素晴らしい名前はあなたの農場を目立たせるのに役立ちます！",
+        "pt": "Um nome forte é uma boa semente, mas o sucesso cresce com trabalho árduo, bom solo e talvez um pouco de sorte com o tempo. Um ótimo nome ajuda sua fazenda a se destacar!",
+        "ru": "Сильное имя - это хорошее семя, но успех растет благодаря упорному труду, хорошей почве и, возможно, немного удачи с погодой. Отличное имя помогает вашей ферме выделиться!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest farm-related words for the generator?",
+        "ar": "هل يمكنني اقتراح كلمات متعلقة بالمزرعة للمولد؟",
+        "es": "¿Puedo sugerir palabras relacionadas con la granja para el generador?",
+        "fr": "Puis-je suggérer des mots liés à la ferme pour le générateur?",
+        "zh-cn": "我可以为生成器建议与农场相关的词语吗？",
+        "ja": "ジェネレーターに農場関連の単語を提案できますか？",
+        "pt": "Posso sugerir palavras relacionadas à fazenda para o gerador?",
+        "ru": "Могу ли я предложить слова, связанные с фермой, для генератора?"
+      },
+      "answer": {
+        "en": "Please do! We're always looking to enrich our word harvest. Use our feedback form to share your favorite farm terms, nature words, or rustic concepts!",
+        "ar": "من فضلك افعل! نحن نبحث دائمًا عن إثراء حصاد كلماتنا. استخدم نموذج التعليقات الخاص بنا لمشاركة مصطلحات المزرعة المفضلة لديك، أو كلمات الطبيعة، أو المفاهيم الريفية!",
+        "es": "¡Por favor! Siempre estamos buscando enriquecer nuestra cosecha de palabras. ¡Usa nuestro formulario de comentarios para compartir tus términos agrícolas favoritos, palabras sobre la naturaleza o conceptos rústicos!",
+        "fr": "S'il vous plaît ! Nous cherchons toujours à enrichir notre récolte de mots. Utilisez notre formulaire de commentaires pour partager vos termes agricoles préférés, mots de la nature ou concepts rustiques !",
+        "zh-cn": "请这样做！我们一直在寻求丰富我们的词汇库。请使用我们的反馈表分享您最喜欢的农场术语、自然词汇或乡村概念！",
+        "ja": "ぜひお願いします！私たちは常に言葉の収穫を豊かにすることを目指しています。フィードバックフォームを使用して、お気に入りの農場用語、自然の言葉、または素朴なコンセプトを共有してください！",
+        "pt": "Por favor! Estamos sempre procurando enriquecer nossa colheita de palavras. Use nosso formulário de feedback para compartilhar seus termos agrícolas favoritos, palavras da natureza ou conceitos rústicos!",
+        "ru": "Пожалуйста! Мы всегда стремимся обогатить наш словарный урожай. Используйте нашу форму обратной связи, чтобы поделиться вашими любимыми фермерскими терминами, словами о природе или деревенскими концепциями!"
+      }
+    }
+  ]
+}

@@ -2,6 +2,7 @@ from time import sleep
 import requests
 import os
 import traceback
+import json
 
 def call_gemini_api(prompt):
     url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro-exp-03-25:generateContent"
@@ -50,25 +51,43 @@ def callai(prompt):
 {json}
 
 """
-    return call_gemini_api(prompt)
+    return call_gemini_api(prompt).replace("```json", "").replace("```", "")
 
 def main():
-    with open('data.txt', 'r+') as f:
-        lines = f.readlines()
+    while(True):
+        with open('data.txt', 'r') as f:
+            lines = f.readlines()
         if lines:
             line = lines[0]
-            
+            print(f"Processing line: {line.strip()}")
             response = callai(line)
                 
-            # Save the response to a file
-            if response:
-                output_filename = f"output-{len(os.listdir('.')) + 1}.json"
-                with open(output_filename, 'w', encoding='utf-8') as output_file:
-                    output_file.write(response)
-                print(f"Generated content saved to {output_filename}")
-            else:
-                print("Failed to generate content")
+            try:
+                # Try to parse the response as JSON
+                json_data = json.loads(response)
+                
+                # If parsing succeeds, save with slug as filename
+                if 'slug' in json_data:
+                    filename = f"{json_data['slug']}.json"
+                else:
+                    filename = "unnamed.json"
+                
+                with open(filename, 'w', encoding='utf-8') as f:
+                    json.dump(json_data, f, ensure_ascii=False, indent=2)
+                print(f"Successfully saved to {filename}")
+                
+            except json.JSONDecodeError:
+                # If parsing fails, save the raw response to error.json
+                with open('error.json', 'w', encoding='utf-8') as f:
+                    f.write(response)
+                print("Failed to parse JSON, saved response to error.json")
+                break;
             
-            f.writelines(lines[1:])
-            
+            if lines:
+                with open('data.txt', 'w') as f:
+                    f.writelines(lines[1:])
+        else:
+            break;
+        sleep(20)  # Sleep for a while before checking again
+
 main()

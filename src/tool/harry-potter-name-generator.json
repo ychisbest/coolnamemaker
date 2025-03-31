@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Harry Potter Name Generator",
+    "ar": "مولد أسماء هاري بوتر",
+    "es": "Generador de Nombres de Harry Potter",
+    "fr": "Générateur de Noms Harry Potter",
+    "zh-cn": "哈利·波特名字生成器",
+    "ja": "ハリー・ポッター名前ジェネレーター",
+    "pt": "Gerador de Nomes de Harry Potter",
+    "ru": "Генератор Имен Гарри Поттера"
+  },
+  "description": {
+    "en": "Ever wondered what your name would be if you received a Hogwarts letter? Step into the Wizarding World with our Harry Potter Name Generator! Discover your magical alias, perfect for fan fiction, role-playing, or just for fun. Find a name worthy of the Sorting Hat!",
+    "ar": "هل تساءلت يومًا كيف سيكون اسمك لو تلقيت رسالة هوجورتس؟ ادخل إلى عالم السحرة مع مولد أسماء هاري بوتر الخاص بنا! اكتشف اسمك المستعار السحري، المثالي لقصص المعجبين، أو لعب الأدوار، أو لمجرد التسلية. ابحث عن اسم يستحق قبعة التنسيق!",
+    "es": "¿Alguna vez te has preguntado cuál sería tu nombre si recibieras una carta de Hogwarts? ¡Entra en el Mundo Mágico con nuestro Generador de Nombres de Harry Potter! Descubre tu alias mágico, perfecto para fan fiction, juegos de rol o simplemente por diversión. ¡Encuentra un nombre digno del Sombrero Seleccionador!",
+    "fr": "Vous êtes-vous déjà demandé quel serait votre nom si vous receviez une lettre de Poudlard ? Entrez dans le Monde des Sorciers avec notre Générateur de Noms Harry Potter ! Découvrez votre alias magique, parfait pour la fan fiction, le jeu de rôle ou juste pour le plaisir. Trouvez un nom digne du Choixpeau magique !",
+    "zh-cn": "是否曾想过，如果你收到霍格沃茨的录取通知书，你的名字会是什么？使用我们的哈利·波特名字生成器，步入魔法世界！发现你的魔法别名，非常适合用于同人小说、角色扮演或纯粹娱乐。找到一个配得上分院帽的名字！",
+    "ja": "ホグワーツの手紙を受け取ったら、あなたの名前はどうなるのだろうと思ったことはありませんか？私たちのハリー・ポッター名前ジェネレーターで魔法界に足を踏み入れましょう！ファンフィクション、ロールプレイング、または単なる楽しみのために完璧な、あなたの魔法の別名を発見してください。組分け帽子にふさわしい名前を見つけましょう！",
+    "pt": "Já se perguntou qual seria seu nome se você recebesse uma carta de Hogwarts? Entre no Mundo Bruxo com nosso Gerador de Nomes de Harry Potter! Descubra seu pseudônimo mágico, perfeito para fan fiction, RPG ou apenas por diversão. Encontre um nome digno do Chapéu Seletor!",
+    "ru": "Вы когда-нибудь задумывались, каким было бы ваше имя, если бы вы получили письмо из Хогвартса? Шагните в Волшебный мир с нашим Генератором Имен Гарри Поттера! Откройте для себя свой магический псевдоним, идеально подходящий для фанфиков, ролевых игр или просто для развлечения. Найдите имя, достойное Распределяющей шляпы!"
+  },
+  "slug": "harry-potter-name-generator",
+  "prompt": {
+    "en": "Generate a Harry Potter name",
+    "ar": "قم بإنشاء اسم هاري بوتر",
+    "es": "Generar un nombre de Harry Potter",
+    "fr": "Générer un nom Harry Potter",
+    "zh-cn": "生成一个哈利·波特名字",
+    "ja": "ハリー・ポッターの名前を生成する",
+    "pt": "Gerar um nome de Harry Potter",
+    "ru": "Сгенерировать имя в стиле Гарри Поттера"
+  },
+  "icon": "🪄",
+  "introduction": {
+    "en": "Forget your Muggle moniker for a moment! This generator is your personal Portkey to finding an authentic-sounding wizarding name. Whether you envision yourself as a brave Gryffindor, a cunning Slytherin, a wise Ravenclaw, or a loyal Hufflepuff, we conjure names that fit right into the magical tapestry of the Harry Potter universe. Get ready to discover your inner witch or wizard!",
+    "ar": "انسَ اسمك الماجل للحظة! هذا المولد هو مفتاحك الشخصي للعثور على اسم ساحر يبدو أصيلًا. سواء كنت تتخيل نفسك جريفندوريًا شجاعًا، أو سليذرينيًا ماكرًا، أو رافنكلو حكيمًا، أو هافلباف مخلصًا، فإننا نستحضر أسماء تتناسب تمامًا مع النسيج السحري لعالم هاري بوتر. استعد لاكتشاف الساحر أو الساحرة بداخلك!",
+    "es": "¡Olvida tu nombre Muggle por un momento! Este generador es tu Traslador personal para encontrar un nombre de mago o bruja que suene auténtico. Ya sea que te imagines como un valiente Gryffindor, un astuto Slytherin, un sabio Ravenclaw o un leal Hufflepuff, conjuramos nombres que encajan perfectamente en el tapiz mágico del universo de Harry Potter. ¡Prepárate para descubrir tu bruja o mago interior!",
+    "fr": "Oubliez votre nom de Moldu un instant ! Ce générateur est votre Portoloin personnel pour trouver un nom de sorcier ou de sorcière à consonance authentique. Que vous vous imaginiez en courageux Gryffondor, en rusé Serpentard, en sage Serdaigle ou en loyal Poufsouffle, nous conjurons des noms qui s'intègrent parfaitement à la tapisserie magique de l'univers Harry Potter. Préparez-vous à découvrir la sorcière ou le sorcier qui sommeille en vous !",
+    "zh-cn": "暂时忘掉你的麻瓜名字吧！这个生成器是你找到听起来地道的巫师名字的个人门钥匙。无论你想象自己是勇敢的格兰芬多、狡猾的斯莱特林、智慧的拉文克劳，还是忠诚的赫奇帕奇，我们都能变出完美融入哈利·波特宇宙魔法织锦的名字。准备好发现你内心的女巫或巫师吧！",
+    "ja": "ちょっとの間、あなたのマグルの名前を忘れてください！このジェネレーターは、本物らしい魔法使いの名前を見つけるためのあなたの個人的なポートキーです。あなたが勇敢なグリフィンドール、狡猾なスリザリン、賢いレイブンクロー、または忠実なハッフルパフとして自分自身を想像するかどうかにかかわらず、私たちはハリー・ポッターの世界の魔法のタペストリーにぴったり合う名前を呼び出します。あなたの内なる魔女または魔法使いを発見する準備をしてください！",
+    "pt": "Esqueça seu nome de Trouxa por um momento! Este gerador é sua Chave de Portal pessoal para encontrar um nome bruxo com som autêntico. Quer você se imagine como um corajoso Grifinório, um astuto Sonserino, um sábio Corvino ou um leal Lufano, nós conjuramos nomes que se encaixam perfeitamente na tapeçaria mágica do universo de Harry Potter. Prepare-se para descobrir sua bruxa ou bruxo interior!",
+    "ru": "Забудьте на мгновение о своем магловском имени! Этот генератор — ваш личный Портал для поиска подлинно звучащего волшебного имени. Представляете ли вы себя храбрым Гриффиндорцем, хитрым Слизеринцем, мудрым Когтевранцем или верным Пуффендуйцем, мы создаем имена, которые идеально вписываются в волшебное полотно вселенной Гарри Поттера. Приготовьтесь открыть в себе ведьму или волшебника!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button (like casting a spell!).",
+      "Instantly see a unique Harry Potter-style name appear.",
+      "Keep clicking until a name resonates with your inner witch or wizard.",
+      "Found the perfect magical name? Copy it!",
+      "Use your new name for role-playing, fan stories, or just showing off your Potter pride!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' (مثل إلقاء تعويذة!).",
+      "شاهد فورًا اسمًا فريدًا بأسلوب هاري بوتر يظهر.",
+      "استمر في النقر حتى يتردد صدى اسم مع الساحر أو الساحرة بداخلك.",
+      "هل وجدت الاسم السحري المثالي؟ انسخه!",
+      "استخدم اسمك الجديد للعب الأدوار، أو قصص المعجبين، أو لمجرد إظهار فخرك ببوتر!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' (¡como lanzar un hechizo!).",
+      "Verás aparecer instantáneamente un nombre único al estilo de Harry Potter.",
+      "Sigue haciendo clic hasta que un nombre resuene con tu bruja o mago interior.",
+      "¿Encontraste el nombre mágico perfecto? ¡Cópialo!",
+      "¡Usa tu nuevo nombre para juegos de rol, historias de fans o simplemente para mostrar tu orgullo Potterhead!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' (comme lancer un sort !).",
+      "Voyez instantanément apparaître un nom unique dans le style Harry Potter.",
+      "Continuez à cliquer jusqu'à ce qu'un nom résonne avec la sorcière ou le sorcier qui est en vous.",
+      "Vous avez trouvé le nom magique parfait ? Copiez-le !",
+      "Utilisez votre nouveau nom pour le jeu de rôle, les fanfictions ou simplement pour montrer votre fierté de Potterhead !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮（就像施放咒语！）。",
+      "立即看到一个独特的哈利·波特风格的名字出现。",
+      "继续点击，直到某个名字与你内心的女巫或巫师产生共鸣。",
+      "找到完美的魔法名字了吗？复制它！",
+      "将你的新名字用于角色扮演、同人故事，或者仅仅是炫耀你对波特的喜爱！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックします（呪文を唱えるように！）。",
+      "ユニークなハリー・ポッタースタイルの名前がすぐに表示されます。",
+      "あなたの内なる魔女または魔法使いに響く名前が見つかるまでクリックし続けてください。",
+      "完璧な魔法の名前を見つけましたか？コピーしましょう！",
+      "新しい名前をロールプレイング、ファンストーリー、または単にポッターへの誇りを示すために使用してください！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' (como lançar um feitiço!).",
+      "Veja instantaneamente um nome único no estilo Harry Potter aparecer.",
+      "Continue clicando até que um nome ressoe com sua bruxa ou bruxo interior.",
+      "Encontrou o nome mágico perfeito? Copie-o!",
+      "Use seu novo nome para RPG, histórias de fãs ou apenas para mostrar seu orgulho Potterhead!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Сгенерировать' (как будто произносите заклинание!).",
+      "Мгновенно увидите уникальное имя в стиле Гарри Поттера.",
+      "Продолжайте нажимать, пока имя не найдет отклик у вашей внутренней ведьмы или волшебника.",
+      "Нашли идеальное волшебное имя? Скопируйте его!",
+      "Используйте свое новое имя для ролевых игр, фанфиков или просто чтобы показать свою гордость Поттеромана!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Are these names from the actual Harry Potter books/movies?",
+        "ar": "هل هذه الأسماء من كتب/أفلام هاري بوتر الفعلية؟",
+        "es": "¿Son estos nombres de los libros/películas reales de Harry Potter?",
+        "fr": "Ces noms proviennent-ils des livres/films Harry Potter ?",
+        "zh-cn": "这些名字是来自真实的哈利·波特书籍/电影吗？",
+        "ja": "これらの名前は実際のハリー・ポッターの本や映画からのものですか？",
+        "pt": "Esses nomes são dos livros/filmes reais de Harry Potter?",
+        "ru": "Эти имена взяты из настоящих книг/фильмов о Гарри Поттере?"
+      },
+      "answer": {
+        "en": "No, these names are generated to *sound like* they could be from the Wizarding World. They are original creations inspired by the style and tone of J.K. Rowling's universe, perfect for fan use.",
+        "ar": "لا، يتم إنشاء هذه الأسماء لتبدو وكأنها يمكن أن تكون من عالم السحرة. إنها إبداعات أصلية مستوحاة من أسلوب ونبرة عالم ج. ك. رولينج، وهي مثالية لاستخدام المعجبين.",
+        "es": "No, estos nombres se generan para que *suenen como si* pudieran ser del Mundo Mágico. Son creaciones originales inspiradas en el estilo y el tono del universo de J.K. Rowling, perfectas para uso de los fans.",
+        "fr": "Non, ces noms sont générés pour *ressembler* à des noms qui pourraient provenir du Monde des Sorciers. Ce sont des créations originales inspirées du style et du ton de l'univers de J.K. Rowling, parfaites pour une utilisation par les fans.",
+        "zh-cn": "不，这些名字是生成出来*听起来像是*可能来自魔法世界的。它们是受J.K.罗琳宇宙的风格和基调启发的原创作品，非常适合粉丝使用。",
+        "ja": "いいえ、これらの名前は魔法界に存在しそうな*響き*を持つように生成されています。これらはJ.K.ローリングの世界のスタイルとトーンに触発されたオリジナルの創作であり、ファンによる使用に最適です。",
+        "pt": "Não, esses nomes são gerados para *soar como se* pudessem ser do Mundo Bruxo. São criações originais inspiradas no estilo e tom do universo de J.K. Rowling, perfeitas para uso dos fãs.",
+        "ru": "Нет, эти имена генерируются так, чтобы *звучать*, как будто они могли бы быть из Волшебного мира. Это оригинальные творения, вдохновленные стилем и тоном вселенной Дж.К. Роулинг, идеально подходящие для фанатского использования."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my fan fiction character?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لشخصيتي في قصص المعجبين؟",
+        "es": "¿Puedo usar estos nombres para mi personaje de fan fiction?",
+        "fr": "Puis-je utiliser ces noms pour mon personnage de fan fiction ?",
+        "zh-cn": "我可以将这些名字用于我的同人小说角色吗？",
+        "ja": "これらの名前をファンフィクションのキャラクターに使用できますか？",
+        "pt": "Posso usar esses nomes para meu personagem de fan fiction?",
+        "ru": "Могу ли я использовать эти имена для своего персонажа из фанфика?"
+      },
+      "answer": {
+        "en": "Absolutely! That's one of the main reasons we created this tool. Feel free to use these names to bring your original characters to life in the Harry Potter universe.",
+        "ar": "بالتأكيد! هذا أحد الأسباب الرئيسية التي جعلتنا ننشئ هذه الأداة. لا تتردد في استخدام هذه الأسماء لإحياء شخصياتك الأصلية في عالم هاري بوتر.",
+        "es": "¡Absolutamente! Esa es una de las principales razones por las que creamos esta herramienta. Siéntete libre de usar estos nombres para dar vida a tus personajes originales en el universo de Harry Potter.",
+        "fr": "Absolument ! C'est l'une des principales raisons pour lesquelles nous avons créé cet outil. N'hésitez pas à utiliser ces noms pour donner vie à vos personnages originaux dans l'univers d'Harry Potter.",
+        "zh-cn": "当然可以！这是我们创建此工具的主要原因之一。请随意使用这些名字，让你在哈利·波特宇宙中的原创角色栩栩如生。",
+        "ja": "もちろんです！それが私たちがこのツールを作成した主な理由の1つです。ハリー・ポッターの世界でオリジナルのキャラクターに命を吹き込むために、これらの名前を自由に使用してください。",
+        "pt": "Com certeza! Esse é um dos principais motivos pelos quais criamos esta ferramenta. Sinta-se à vontade para usar esses nomes para dar vida aos seus personagens originais no universo de Harry Potter.",
+        "ru": "Абсолютно! Это одна из главных причин, по которой мы создали этот инструмент. Смело используйте эти имена, чтобы оживить своих оригинальных персонажей во вселенной Гарри Поттера."
+      }
+    },
+    {
+      "question": {
+        "en": "How many names can I generate?",
+        "ar": "كم عدد الأسماء التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres puedo generar?",
+        "fr": "Combien de noms puis-je générer ?",
+        "zh-cn": "我可以生成多少个名字？",
+        "ja": "いくつの名前を生成できますか？",
+        "pt": "Quantos nomes posso gerar?",
+        "ru": "Сколько имен я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "As many as you like! Generate names until you find the one that feels perfectly magical for you or your character. There's no limit. Accio, names!",
+        "ar": "بقدر ما تريد! قم بإنشاء الأسماء حتى تجد الاسم الذي يبدو سحريًا تمامًا لك أو لشخصيتك. لا يوجد حد. آكيو، أسماء!",
+        "es": "¡Tantos como quieras! Genera nombres hasta que encuentres el que te parezca perfectamente mágico para ti o tu personaje. No hay límite. ¡Accio, nombres!",
+        "fr": "Autant que vous le souhaitez ! Générez des noms jusqu'à ce que vous trouviez celui qui vous semble parfaitement magique pour vous ou votre personnage. Il n'y a pas de limite. Accio, noms !",
+        "zh-cn": "随心所欲！生成名字，直到找到那个让你或你的角色感觉完美魔法的名字。没有限制。名字飞来！",
+        "ja": "好きなだけ！あなたやあなたのキャラクターにとって完全に魔法のように感じる名前が見つかるまで、名前を生成してください。制限はありません。アクシオ、名前！",
+        "pt": "Quantos você quiser! Gere nomes até encontrar aquele que pareça perfeitamente mágico para você ou seu personagem. Não há limite. Accio, nomes!",
+        "ru": "Сколько угодно! Генерируйте имена, пока не найдете то, которое покажется идеально волшебным для вас или вашего персонажа. Ограничений нет. Акцио, имена!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are the names suitable for any Hogwarts house?",
+        "ar": "هل الأسماء مناسبة لأي منزل من منازل هوجورتس؟",
+        "es": "¿Son los nombres adecuados para cualquier casa de Hogwarts?",
+        "fr": "Les noms conviennent-ils à n'importe quelle maison de Poudlard ?",
+        "zh-cn": "这些名字适合任何霍格沃茨学院吗？",
+        "ja": "名前はどのホグワーツの寮にも適していますか？",
+        "pt": "Os nomes são adequados para qualquer casa de Hogwarts?",
+        "ru": "Подходят ли имена для любого факультета Хогвартса?"
+      },
+      "answer": {
+        "en": "The generator creates a variety of names. While some might sound more suited to a particular house based on stereotypes (e.g., elegant for Slytherin, sturdy for Hufflepuff), any name can belong to any witch or wizard, regardless of their house!",
+        "ar": "المولد ينشئ مجموعة متنوعة من الأسماء. بينما قد يبدو بعضها أكثر ملاءمة لمنزل معين بناءً على الصور النمطية (مثل، أنيق لسليذرين، قوي لهافلباف)، يمكن لأي اسم أن ينتمي إلى أي ساحر أو ساحرة، بغض النظر عن منزلهم!",
+        "es": "El generador crea una variedad de nombres. Aunque algunos puedan sonar más adecuados para una casa en particular según los estereotipos (p. ej., elegante para Slytherin, robusto para Hufflepuff), ¡cualquier nombre puede pertenecer a cualquier bruja o mago, independientemente de su casa!",
+        "fr": "Le générateur crée une variété de noms. Bien que certains puissent sembler mieux adaptés à une maison particulière en fonction des stéréotypes (par exemple, élégant pour Serpentard, robuste pour Poufsouffle), n'importe quel nom peut appartenir à n'importe quelle sorcière ou sorcier, quelle que soit sa maison !",
+        "zh-cn": "生成器会创建各种各样的名字。虽然根据刻板印象，有些名字可能听起来更适合某个特定的学院（例如，斯莱特林的优雅，赫奇帕奇的稳重），但任何名字都可以属于任何女巫或巫师，无论他们属于哪个学院！",
+        "ja": "ジェネレーターはさまざまな名前を作成します。ステレオタイプに基づいて特定の寮により適しているように聞こえるかもしれませんが（例：スリザリンにはエレガント、ハッフルパフには頑丈）、どの名前も、寮に関係なく、どの魔女や魔法使いにも属することができます！",
+        "pt": "O gerador cria uma variedade de nomes. Embora alguns possam soar mais adequados para uma casa específica com base em estereótipos (por exemplo, elegante para Sonserina, robusto para Lufana), qualquer nome pode pertencer a qualquer bruxa ou bruxo, independentemente de sua casa!",
+        "ru": "Генератор создает разнообразные имена. Хотя некоторые могут звучать более подходящими для определенного факультета, исходя из стереотипов (например, элегантные для Слизерина, крепкие для Пуффендуя), любое имя может принадлежать любой ведьме или волшебнику, независимо от их факультета!"
+      }
+    },
+    {
+      "question": {
+        "en": "Is this tool affiliated with J.K. Rowling or Warner Bros.?",
+        "ar": "هل هذه الأداة تابعة لـ ج. ك. رولينج أو وارنر براذرز؟",
+        "es": "¿Está esta herramienta afiliada a J.K. Rowling o Warner Bros.?",
+        "fr": "Cet outil est-il affilié à J.K. Rowling ou Warner Bros. ?",
+        "zh-cn": "这个工具是否隶属于J.K.罗琳或华纳兄弟？",
+        "ja": "このツールはJ.K.ローリングやワーナー・ブラザースと提携していますか？",
+        "pt": "Esta ferramenta é afiliada à J.K. Rowling ou à Warner Bros.?",
+        "ru": "Связан ли этот инструмент с Дж.К. Роулинг или Warner Bros.?"
+      },
+      "answer": {
+        "en": "No, this is an unofficial fan-made tool created for entertainment purposes only. It is not endorsed by, affiliated with, or associated with J.K. Rowling, Warner Bros., or any official Harry Potter entities.",
+        "ar": "لا، هذه أداة غير رسمية من صنع المعجبين تم إنشاؤها لأغراض الترفيه فقط. لم يتم اعتمادها أو الانتماء إليها أو الارتباط بها من قبل ج. ك. رولينج أو وارنر براذرز أو أي كيانات رسمية لهاري بوتر.",
+        "es": "No, esta es una herramienta no oficial hecha por fans creada únicamente con fines de entretenimiento. No está respaldada, afiliada ni asociada con J.K. Rowling, Warner Bros. ni ninguna entidad oficial de Harry Potter.",
+        "fr": "Non, il s'agit d'un outil non officiel créé par des fans à des fins de divertissement uniquement. Il n'est ni approuvé, ni affilié, ni associé à J.K. Rowling, Warner Bros. ou à toute entité officielle de Harry Potter.",
+        "zh-cn": "不，这是一个非官方的粉丝制作工具，仅用于娱乐目的。它未得到J.K.罗琳、华纳兄弟或任何哈利·波特官方实体的认可、附属或关联。",
+        "ja": "いいえ、これは娯楽目的でのみ作成された非公式のファン製ツールです。J.K.ローリング、ワーナー・ブラザース、または公式のハリー・ポッター関連団体によって承認、提携、または関連付けられているものではありません。",
+        "pt": "Não, esta é uma ferramenta não oficial feita por fãs, criada apenas para fins de entretenimento. Não é endossada, afiliada ou associada a J.K. Rowling, Warner Bros. ou quaisquer entidades oficiais de Harry Potter.",
+        "ru": "Нет, это неофициальный фанатский инструмент, созданный исключительно в развлекательных целях. Он не одобрен, не связан и не ассоциирован с Дж.К. Роулинг, Warner Bros. или любыми официальными структурами Гарри Поттера."
+      }
+    }
+  ]
+}

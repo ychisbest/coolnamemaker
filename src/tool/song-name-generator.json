@@ -1,0 +1,236 @@
+{
+  "name": {
+    "en": "Song Name Generator",
+    "ar": "مولد أسماء الأغاني",
+    "es": "Generador de Nombres de Canciones",
+    "fr": "Générateur de Noms de Chanson",
+    "zh-cn": "歌曲名称生成器",
+    "ja": "曲名ジェネレーター",
+    "pt": "Gerador de Nomes de Músicas",
+    "ru": "Генератор Названий Песен"
+  },
+  "description": {
+    "en": "Hit a creative wall finding the perfect title for your next hit song, album track, or instrumental piece? Our Song Name Generator is tuned to spark your imagination with endless unique, catchy, and evocative titles! Get ready to top the charts with a name that resonates.",
+    "ar": "هل تواجه صعوبة إبداعية في العثور على العنوان المثالي لأغنيتك القادمة، أو مقطوعة الألبوم، أو القطعة الموسيقية؟ مولد أسماء الأغاني لدينا مضبوط لإثارة خيالك بعناوين لا نهاية لها فريدة وجذابة ومعبرة! استعد لتصدر القوائم باسم يتردد صداه.",
+    "es": "¿Te has topado con un muro creativo buscando el título perfecto para tu próximo éxito, pista de álbum o pieza instrumental? ¡Nuestro Generador de Nombres de Canciones está afinado para despertar tu imaginación con títulos infinitos, únicos, pegadizos y evocadores! Prepárate para encabezar las listas con un nombre que resuene.",
+    "fr": "Vous êtes bloqué pour trouver le titre parfait pour votre prochain tube, morceau d'album ou pièce instrumentale ? Notre Générateur de Noms de Chanson est réglé pour stimuler votre imagination avec une infinité de titres uniques, accrocheurs et évocateurs ! Préparez-vous à dominer les classements avec un nom qui résonne.",
+    "zh-cn": "为你的下一首热门歌曲、专辑曲目或器乐作品寻找完美标题时遇到创意瓶颈？我们的歌曲名称生成器旨在激发您的想象力，提供无尽独特、朗朗上口且引人入胜的标题！准备好用一个能引起共鸣的名字登顶排行榜吧。",
+    "ja": "次のヒット曲、アルバムトラック、またはインストゥルメンタル曲の完璧なタイトルを見つけるのに創造的な壁にぶつかっていますか？当社の曲名ジェネレーターは、無限のユニークでキャッチーで感情を呼び起こすタイトルであなたの想像力を刺激するように調整されています！響き渡る名前でチャートのトップを目指す準備をしましょう。",
+    "pt": "Atingiu uma parede criativa ao encontrar o título perfeito para sua próxima música de sucesso, faixa de álbum ou peça instrumental? Nosso Gerador de Nomes de Músicas está afinado para despertar sua imaginação com títulos infinitos, únicos, cativantes e evocativos! Prepare-se para liderar as paradas com um nome que ressoa.",
+    "ru": "Столкнулись с творческим кризисом в поисках идеального названия для вашего следующего хита, трека альбома или инструментальной композиции? Наш Генератор Названий Песен настроен разжечь ваше воображение бесконечными уникальными, запоминающимися и выразительными названиями! Готовьтесь возглавить чарты с названием, которое находит отклик."
+  },
+  "slug": "song-name-generator",
+  "prompt": {
+    "en": "Generate a song name",
+    "ar": "قم بإنشاء اسم أغنية",
+    "es": "Generar un nombre de canción",
+    "fr": "Générer un nom de chanson",
+    "zh-cn": "生成一个歌曲名称",
+    "ja": "曲名を生成する",
+    "pt": "Gerar um nome de música",
+    "ru": "Сгенерировать название песни"
+  },
+  "icon": "🎵",
+  "introduction": {
+    "en": "Tune out the silence and amplify your creativity! This isn't just a random word shuffler; it's your co-writer for crafting song titles that capture the essence of your music. Whether you're a solo artist, a band member, or just jamming for fun, find titles ranging from poetic and profound to punchy and playful. Let the rhythm of inspiration flow!",
+    "ar": "تخلص من الصمت وقم بتضخيم إبداعك! هذا ليس مجرد خلط عشوائي للكلمات؛ إنه مساعدك في صياغة عناوين الأغاني التي تجسد جوهر موسيقاك. سواء كنت فنانًا منفردًا، أو عضوًا في فرقة، أو مجرد تعزف للمتعة، ابحث عن عناوين تتراوح بين الشعرية والعميقة إلى القوية والمرحة. دع إيقاع الإلهام يتدفق!",
+    "es": "¡Apaga el silencio y amplifica tu creatividad! Esto no es solo un mezclador de palabras al azar; es tu coautor para crear títulos de canciones que capturen la esencia de tu música. Ya seas un artista en solitario, miembro de una banda o simplemente improvisando por diversión, encuentra títulos que van desde poéticos y profundos hasta impactantes y juguetones. ¡Deja que fluya el ritmo de la inspiración!",
+    "fr": "Faites taire le silence et amplifiez votre créativité ! Ce n'est pas juste un mélangeur de mots aléatoire ; c'est votre co-auteur pour créer des titres de chansons qui capturent l'essence de votre musique. Que vous soyez un artiste solo, un membre d'un groupe ou que vous jammez simplement pour le plaisir, trouvez des titres allant du poétique et profond au percutant et ludique. Laissez le rythme de l'inspiration couler !",
+    "zh-cn": "消除沉寂，放大你的创造力！这不仅仅是一个随机的文字洗牌器；它是你创作歌曲标题的合作者，捕捉你音乐的精髓。无论你是独立艺术家、乐队成员，还是仅仅为了娱乐而即兴演奏，都能找到从诗意深刻到有力俏皮的各种标题。让灵感的节奏流淌吧！",
+    "ja": "沈黙を消し去り、創造性を増幅させましょう！これは単なるランダムな単語シャッフルではありません。あなたの音楽の本質を捉える曲名を作成するための共同制作者です。ソロアーティスト、バンドメンバー、または単に楽しみでジャムしている場合でも、詩的で深遠なものからパンチの効いた遊び心のあるものまで、さまざまなタイトルを見つけてください。インスピレーションのリズムを流しましょう！",
+    "pt": "Afaste o silêncio e amplifique sua criatividade! Isso não é apenas um embaralhador de palavras aleatório; é seu coautor para criar títulos de músicas que capturam a essência da sua música. Seja você um artista solo, membro de uma banda ou apenas tocando por diversão, encontre títulos que variam de poéticos e profundos a impactantes e divertidos. Deixe o ritmo da inspiração fluir!",
+    "ru": "Заглушите тишину и усильте свое творчество! Это не просто случайный перетасовщик слов; это ваш соавтор для создания названий песен, которые отражают суть вашей музыки. Независимо от того, являетесь ли вы сольным исполнителем, участником группы или просто джемуете для удовольствия, найдите названия от поэтических и глубоких до резких и игривых. Пусть ритм вдохновения течет!"
+  },
+  "howToUse": {
+    "en": [
+      "Hit the 'Generate' button to start the music magic.",
+      "See a list of potential chart-toppers appear.",
+      "Scroll through the melodies of words!",
+      "Found a title that strikes a chord? Copy it!",
+      "Now, go make some beautiful noise with your killer new song title!"
+    ],
+    "ar": [
+      "اضغط على زر 'إنشاء' لبدء سحر الموسيقى.",
+      "شاهد قائمة بالمتصدرين المحتملين للوائح تظهر.",
+      "قم بالتمرير عبر ألحان الكلمات!",
+      "هل وجدت عنوانًا يلامس وترًا؟ انسخه!",
+      "الآن، انطلق واصنع بعض الضوضاء الجميلة بعنوان أغنيتك الجديد القاتل!"
+    ],
+    "es": [
+      "Pulsa el botón 'Generar' para iniciar la magia musical.",
+      "Mira aparecer una lista de posibles éxitos.",
+      "¡Desplázate por las melodías de las palabras!",
+      "¿Encontraste un título que te toca la fibra sensible? ¡Cópialo!",
+      "¡Ahora, ve a hacer ruido hermoso con tu nuevo y genial título de canción!"
+    ],
+    "fr": [
+      "Appuyez sur le bouton 'Générer' pour démarrer la magie musicale.",
+      "Voyez apparaître une liste de potentiels succès.",
+      "Faites défiler les mélodies des mots !",
+      "Vous avez trouvé un titre qui vous touche ? Copiez-le !",
+      "Maintenant, allez faire du beau bruit avec votre nouveau titre de chanson génial !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮，开启音乐魔法。",
+      "查看出现的潜在排行榜冠军列表。",
+      "滚动浏览文字的旋律！",
+      "找到一个触动心弦的标题了吗？复制它！",
+      "现在，用你酷毙了的新歌名去制造一些美妙的声响吧！"
+    ],
+    "ja": [
+      "「生成」ボタンを押して、音楽の魔法を始めましょう。",
+      "潜在的なチャートトップのリストが表示されます。",
+      "言葉のメロディーをスクロールしてください！",
+      "心に響くタイトルを見つけましたか？コピーしましょう！",
+      "さあ、あなたのキラーな新しい曲名で美しいノイズを作りに行きましょう！"
+    ],
+    "pt": [
+      "Aperte o botão 'Gerar' para iniciar a magia musical.",
+      "Veja uma lista de potenciais sucessos aparecer.",
+      "Navegue pelas melodias das palavras!",
+      "Encontrou um título que tocou seu coração? Copie-o!",
+      "Agora, vá fazer um som bonito com seu novo título de música matador!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Создать', чтобы начать музыкальное волшебство.",
+      "Смотрите, как появляется список потенциальных хитов.",
+      "Пролистайте мелодии слов!",
+      "Нашли название, которое задело за живое? Скопируйте его!",
+      "А теперь идите и создайте прекрасный шум с вашим убойным новым названием песни!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Song Name Generator really free?",
+        "ar": "هل مولد أسماء الأغاني هذا مجاني حقًا؟",
+        "es": "¿Este Generador de Nombres de Canciones es realmente gratis?",
+        "fr": "Ce Générateur de Noms de Chanson est-il vraiment gratuit ?",
+        "zh-cn": "这个歌曲名称生成器真的是免费的吗？",
+        "ja": "この曲名ジェネレーターは本当に無料ですか？",
+        "pt": "Este Gerador de Nomes de Músicas é realmente gratuito?",
+        "ru": "Этот Генератор Названий Песен действительно бесплатный?"
+      },
+      "answer": {
+        "en": "Totally! We believe musical inspiration should be accessible to everyone. Generate as many titles as you need, free of charge.",
+        "ar": "تماما! نحن نؤمن بأن الإلهام الموسيقي يجب أن يكون متاحًا للجميع. قم بإنشاء العديد من العناوين التي تحتاجها، مجانًا.",
+        "es": "¡Totalmente! Creemos que la inspiración musical debe ser accesible para todos. Genera tantos títulos como necesites, de forma gratuita.",
+        "fr": "Absolument ! Nous pensons que l'inspiration musicale devrait être accessible à tous. Générez autant de titres que nécessaire, gratuitement.",
+        "zh-cn": "完全免费！我们相信音乐灵感应该对每个人开放。您可以根据需要免费生成任意数量的标题。",
+        "ja": "完全に無料です！私たちは、音楽のインスピレーションは誰にでもアクセス可能であるべきだと信じています。必要なだけ、無料でタイトルを生成してください。",
+        "pt": "Totalmente! Acreditamos que a inspiração musical deve ser acessível a todos. Gere quantos títulos precisar, gratuitamente.",
+        "ru": "Абсолютно! Мы считаем, что музыкальное вдохновение должно быть доступно каждому. Генерируйте столько названий, сколько вам нужно, бесплатно."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these song titles commercially?",
+        "ar": "هل يمكنني استخدام عناوين الأغاني هذه تجاريًا؟",
+        "es": "¿Puedo usar estos títulos de canciones comercialmente?",
+        "fr": "Puis-je utiliser ces titres de chansons à des fins commerciales ?",
+        "zh-cn": "我可以将这些歌曲标题用于商业用途吗？",
+        "ja": "これらの曲名を商業的に使用できますか？",
+        "pt": "Posso usar esses títulos de músicas comercialmente?",
+        "ru": "Могу ли я использовать эти названия песен в коммерческих целях?"
+      },
+      "answer": {
+        "en": "While the generated titles are great starting points, we can't guarantee they aren't already in use or trademarked. Always check for existing usage before releasing your masterpiece commercially.",
+        "ar": "بينما العناوين التي تم إنشاؤها هي نقاط انطلاق رائعة، لا يمكننا ضمان أنها ليست قيد الاستخدام بالفعل أو مسجلة كعلامة تجارية. تحقق دائمًا من الاستخدام الحالي قبل إصدار تحفتك الفنية تجاريًا.",
+        "es": "Si bien los títulos generados son excelentes puntos de partida, no podemos garantizar que no estén ya en uso o registrados. Siempre verifica el uso existente antes de lanzar tu obra maestra comercialmente.",
+        "fr": "Bien que les titres générés soient d'excellents points de départ, nous ne pouvons garantir qu'ils ne sont pas déjà utilisés ou déposés. Vérifiez toujours l'utilisation existante avant de publier votre chef-d'œuvre commercialement.",
+        "zh-cn": "虽然生成的标题是不错的起点，但我们无法保证它们尚未被使用或注册商标。在商业发布您的杰作之前，请务必检查现有使用情况。",
+        "ja": "生成されたタイトルは素晴らしい出発点ですが、それらが既に使用されていないか、商標登録されていないことを保証することはできません。商業的に傑作をリリースする前に、常に既存の使用状況を確認してください。",
+        "pt": "Embora os títulos gerados sejam ótimos pontos de partida, não podemos garantir que já não estejam em uso ou registrados. Sempre verifique o uso existente antes de lançar sua obra-prima comercialmente.",
+        "ru": "Хотя сгенерированные названия являются отличными отправными точками, мы не можем гарантировать, что они еще не используются или не зарегистрированы как товарные знаки. Всегда проверяйте существующее использование перед коммерческим выпуском вашего шедевра."
+      }
+    },
+    {
+      "question": {
+        "en": "How many song names can I generate?",
+        "ar": "كم عدد أسماء الأغاني التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres de canciones puedo generar?",
+        "fr": "Combien de noms de chansons puis-je générer ?",
+        "zh-cn": "我可以生成多少个歌曲名称？",
+        "ja": "いくつの曲名を生成できますか？",
+        "pt": "Quantos nomes de músicas posso gerar?",
+        "ru": "Сколько названий песен я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "Unlimited! Keep clicking 'Generate' until you find the title that perfectly harmonizes with your tune.",
+        "ar": "غير محدود! استمر في النقر على 'إنشاء' حتى تجد العنوان الذي يتناغم تمامًا مع لحنك.",
+        "es": "¡Ilimitados! Sigue haciendo clic en 'Generar' hasta que encuentres el título que armonice perfectamente con tu melodía.",
+        "fr": "Illimité ! Continuez à cliquer sur 'Générer' jusqu'à ce que vous trouviez le titre qui s'harmonise parfaitement avec votre mélodie.",
+        "zh-cn": "无限！继续点击“生成”，直到找到与您的曲调完美协调的标题。",
+        "ja": "無制限です！あなたの曲と完璧に調和するタイトルが見つかるまで、「生成」をクリックし続けてください。",
+        "pt": "Ilimitados! Continue clicando em 'Gerar' até encontrar o título que harmoniza perfeitamente com sua melodia.",
+        "ru": "Без ограничений! Продолжайте нажимать 'Создать', пока не найдете название, которое идеально гармонирует с вашей мелодией."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated song names actually good?",
+        "ar": "هل أسماء الأغاني التي تم إنشاؤها جيدة حقًا؟",
+        "es": "¿Los nombres de canciones generados son realmente buenos?",
+        "fr": "Les noms de chansons générés sont-ils vraiment bons ?",
+        "zh-cn": "生成的歌曲名称真的好吗？",
+        "ja": "生成された曲名は実際に良いものですか？",
+        "pt": "Os nomes de músicas gerados são realmente bons?",
+        "ru": "Действительно ли сгенерированные названия песен хороши?"
+      },
+      "answer": {
+        "en": "We've mixed creativity, common structures, and a bit of flair to generate interesting options. Taste is subjective, but we aim to provide a wide range of inspiring starting points. If one doesn't fit, the next one might!",
+        "ar": "لقد مزجنا الإبداع والهياكل الشائعة وقليلًا من الذوق لتوليد خيارات مثيرة للاهتمام. الذوق شخصي، لكننا نهدف إلى توفير مجموعة واسعة من نقاط البداية الملهمة. إذا لم يناسب أحدها، فقد يناسب التالي!",
+        "es": "Hemos mezclado creatividad, estructuras comunes y un poco de estilo para generar opciones interesantes. El gusto es subjetivo, pero nuestro objetivo es proporcionar una amplia gama de puntos de partida inspiradores. ¡Si uno no encaja, el siguiente podría hacerlo!",
+        "fr": "Nous avons mélangé créativité, structures courantes et un peu de flair pour générer des options intéressantes. Le goût est subjectif, mais nous visons à fournir un large éventail de points de départ inspirants. Si l'un ne convient pas, le suivant pourrait convenir !",
+        "zh-cn": "我们混合了创意、常见结构和一些风格来生成有趣的选项。品味是主观的，但我们的目标是提供广泛的鼓舞人心的起点。如果一个不合适，下一个可能就合适了！",
+        "ja": "創造性、一般的な構造、そして少しのセンスを混ぜ合わせて、興味深いオプションを生成しました。好みは主観的ですが、幅広いインスピレーションを与える出発点を提供することを目指しています。もし一つが合わなくても、次のが合うかもしれません！",
+        "pt": "Misturamos criatividade, estruturas comuns e um toque de talento para gerar opções interessantes. O gosto é subjetivo, mas nosso objetivo é fornecer uma ampla gama de pontos de partida inspiradores. Se um não servir, o próximo pode servir!",
+        "ru": "Мы смешали креативность, общие структуры и немного изюминки, чтобы сгенерировать интересные варианты. Вкус субъективен, но мы стремимся предоставить широкий спектр вдохновляющих отправных точек. Если один не подходит, может подойти следующий!"
+      }
+    },
+    {
+      "question": {
+        "en": "Will using a generated name guarantee my song is a hit?",
+        "ar": "هل استخدام اسم تم إنشاؤه يضمن أن تكون أغنيتي ناجحة؟",
+        "es": "¿Usar un nombre generado garantizará que mi canción sea un éxito?",
+        "fr": "L'utilisation d'un nom généré garantira-t-elle que ma chanson soit un succès ?",
+        "zh-cn": "使用生成的名称能保证我的歌曲大卖吗？",
+        "ja": "生成された名前を使用することで、私の曲がヒットすることは保証されますか？",
+        "pt": "Usar um nome gerado garantirá que minha música seja um sucesso?",
+        "ru": "Гарантирует ли использование сгенерированного имени, что моя песня станет хитом?"
+      },
+      "answer": {
+        "en": "A great title helps, but a hit song needs killer music, lyrics, performance, and maybe a bit of luck! Think of this as finding the perfect album cover – it draws people in, but the music keeps them listening.",
+        "ar": "العنوان الرائع يساعد، لكن الأغنية الناجحة تحتاج إلى موسيقى وكلمات وأداء رائع، وربما القليل من الحظ! فكر في الأمر على أنه العثور على غلاف الألبوم المثالي - إنه يجذب الناس، لكن الموسيقى هي التي تجعلهم يستمعون.",
+        "es": "Un gran título ayuda, ¡pero una canción exitosa necesita música, letras y actuación geniales, y quizás un poco de suerte! Piensa en esto como encontrar la portada de álbum perfecta: atrae a la gente, pero la música los mantiene escuchando.",
+        "fr": "Un bon titre aide, mais une chanson à succès a besoin d'une musique, de paroles et d'une performance exceptionnelles, et peut-être un peu de chance ! Considérez cela comme trouver la pochette d'album parfaite – elle attire les gens, mais c'est la musique qui les fait écouter.",
+        "zh-cn": "一个好的标题有帮助，但一首热门歌曲需要杀手级的音乐、歌词、表演，也许还需要一点运气！把它想象成找到完美的专辑封面——它吸引人们，但音乐让他们继续听下去。",
+        "ja": "素晴らしいタイトルは助けになりますが、ヒット曲にはキラーな音楽、歌詞、パフォーマンス、そしておそらく少しの運が必要です！これを完璧なアルバムカバーを見つけることだと考えてください – それは人々を引きつけますが、音楽が彼らを聴き続けさせます。",
+        "pt": "Um ótimo título ajuda, mas uma música de sucesso precisa de música, letra e performance matadoras, e talvez um pouco de sorte! Pense nisso como encontrar a capa de álbum perfeita – ela atrai as pessoas, mas a música as mantém ouvindo.",
+        "ru": "Отличное название помогает, но для хита нужна убойная музыка, тексты, исполнение и, возможно, немного удачи! Думайте об этом как о поиске идеальной обложки альбома – она привлекает людей, но музыка заставляет их слушать."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest genres or moods for the generator?",
+        "ar": "هل يمكنني اقتراح أنواع أو أمزجة للمولد؟",
+        "es": "¿Puedo sugerir géneros o estados de ánimo para el generador?",
+        "fr": "Puis-je suggérer des genres ou des ambiances pour le générateur ?",
+        "zh-cn": "我可以为生成器建议流派或情绪吗？",
+        "ja": "ジェネレーターにジャンルやムードを提案できますか？",
+        "pt": "Posso sugerir gêneros ou humores para o gerador?",
+        "ru": "Могу ли я предложить жанры или настроения для генератора?"
+      },
+      "answer": {
+        "en": "Currently, the generator provides a broad mix. We're always looking to improve! Send us your feedback on features you'd like to see, like genre or mood filters.",
+        "ar": "حاليًا، يوفر المولد مزيجًا واسعًا. نحن نتطلع دائمًا إلى التحسين! أرسل لنا ملاحظاتك حول الميزات التي ترغب في رؤيتها، مثل مرشحات النوع أو المزاج.",
+        "es": "Actualmente, el generador proporciona una mezcla amplia. ¡Siempre estamos buscando mejorar! Envíanos tus comentarios sobre las características que te gustaría ver, como filtros de género o estado de ánimo.",
+        "fr": "Actuellement, le générateur fournit un large mélange. Nous cherchons toujours à nous améliorer ! Envoyez-nous vos commentaires sur les fonctionnalités que vous aimeriez voir, comme des filtres de genre ou d'ambiance.",
+        "zh-cn": "目前，生成器提供广泛的混合。我们一直在寻求改进！请将您希望看到的功能（如流派或情绪过滤器）的反馈发送给我们。",
+        "ja": "現在、ジェネレーターは幅広いミックスを提供しています。私たちは常に改善を目指しています！ジャンルやムードフィルターなど、ご覧になりたい機能についてのフィードバックをお送りください。",
+        "pt": "Atualmente, o gerador fornece uma mistura ampla. Estamos sempre buscando melhorar! Envie-nos seus comentários sobre recursos que você gostaria de ver, como filtros de gênero ou humor.",
+        "ru": "В настоящее время генератор предоставляет широкую смесь. Мы всегда стремимся к улучшению! Присылайте нам свои отзывы о функциях, которые вы хотели бы видеть, например, фильтры по жанрам или настроению."
+      }
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "name": {
+    "en": "Orc Name Generator",
+    "ar": "مولد أسماء الأورك",
+    "es": "Generador de Nombres de Orco",
+    "fr": "Générateur de Noms d'Orque",
+    "zh-cn": "兽人名称生成器",
+    "ja": "オーク名ジェネレーター",
+    "pt": "Gerador de Nomes de Orc",
+    "ru": "Генератор Имен Орков"
+  },
+  "description": {
+    "en": "Need a powerful, guttural, and fearsome name for your orc character, clan, or stronghold? Our Orc Name Generator forges brutal and unforgettable names worthy of the mightiest warlords and shamans! Find the perfect name to strike fear into the hearts of your enemies. WAAAGH!",
+    "ar": "هل تحتاج إلى اسم قوي وحنجري ومخيف لشخصية الأورك أو العشيرة أو المعقل الخاص بك؟ مولد أسماء الأورك لدينا يصوغ أسماء وحشية لا تُنسى تليق بأعظم أمراء الحرب والشامان! اعثر على الاسم المثالي لزرع الخوف في قلوب أعدائك. وااغ!",
+    "es": "¿Necesitas un nombre poderoso, gutural y temible para tu personaje orco, clan o fortaleza? ¡Nuestro Generador de Nombres de Orco forja nombres brutales e inolvidables dignos de los más poderosos señores de la guerra y chamanes! Encuentra el nombre perfecto para infundir miedo en los corazones de tus enemigos. ¡WAAAGH!",
+    "fr": "Besoin d'un nom puissant, guttural et redoutable pour votre personnage orque, votre clan ou votre forteresse ? Notre Générateur de Noms d'Orque forge des noms brutaux et inoubliables dignes des plus grands chefs de guerre et chamans ! Trouvez le nom parfait pour semer la peur dans le cœur de vos ennemis. WAAAGH !",
+    "zh-cn": "需要为你的兽人角色、氏族或据点取一个强大、喉音浓重且令人畏惧的名字吗？我们的兽人名称生成器能锻造出配得上最强大酋长和萨满的野蛮而难忘的名字！找到完美的名字，让你的敌人闻风丧胆。为了部落！",
+    "ja": "あなたのオークのキャラクター、クラン、または拠点のために、パワフルで、喉の奥から出すような、恐ろしい名前が必要ですか？私たちのオーク名ジェネレーターは、最強のウォーロードやシャーマンにふさわしい、残忍で忘れられない名前を鍛え上げます！敵の心に恐怖を植え付ける完璧な名前を見つけてください。ワーッ！",
+    "pt": "Precisa de um nome poderoso, gutural e temível para seu personagem orc, clã ou fortaleza? Nosso Gerador de Nomes de Orc forja nomes brutais e inesquecíveis dignos dos mais poderosos senhores da guerra e xamãs! Encontre o nome perfeito para instilar medo nos corações de seus inimigos. WAAAGH!",
+    "ru": "Нужно мощное, гортанное и устрашающее имя для вашего персонажа-орка, клана или крепости? Наш Генератор Имен Орков выковывает брутальные и незабываемые имена, достойные величайших вождей и шаманов! Найдите идеальное имя, чтобы вселить страх в сердца ваших врагов. ВАААГХ!"
+  },
+  "slug": "orc-name-generator",
+  "prompt": {
+    "en": "Generate an orc name",
+    "ar": "قم بإنشاء اسم أورك",
+    "es": "Generar un nombre de orco",
+    "fr": "Générer un nom d'orque",
+    "zh-cn": "生成一个兽人名称",
+    "ja": "オーク名を生成する",
+    "pt": "Gerar um nome de orc",
+    "ru": "Сгенерировать имя орка"
+  },
+  "icon": "🧌",
+  "introduction": {
+    "en": "Forget flimsy elf names and pretentious dwarf titles! This generator hammers out names forged in the heat of battle and steeped in raw power. Whether you're naming a fearsome warrior for your RPG campaign, a brutal chieftain in your fantasy novel, or just want a tough-sounding alias, you've come to the right war camp. Prepare for names that sound like crunching bones and roaring battle cries!",
+    "ar": "انس أسماء الجان الواهية وألقاب الأقزام المتكلفة! هذا المولد يصوغ أسماء تم تشكيلها في خضم المعركة وغارقة في القوة الخام. سواء كنت تسمي محاربًا مخيفًا لحملة RPG الخاصة بك، أو زعيمًا وحشيًا في روايتك الخيالية، أو تريد فقط اسمًا مستعارًا قويًا، فقد أتيت إلى معسكر الحرب الصحيح. استعد لأسماء تبدو مثل طحن العظام وصرخات المعركة الهادرة!",
+    "es": "¡Olvida los nombres débiles de elfos y los títulos pretenciosos de enanos! Este generador forja nombres en el fragor de la batalla, impregnados de poder puro. Ya sea que estés nombrando a un guerrero temible para tu campaña de rol, a un cacique brutal en tu novela de fantasía, o simplemente quieras un alias que suene rudo, has venido al campamento de guerra correcto. ¡Prepárate para nombres que suenan como huesos crujiendo y rugidos de batalla!",
+    "fr": "Oubliez les noms d'elfes fragiles et les titres de nains prétentieux ! Ce générateur forge des noms dans le feu de la bataille, imprégnés de puissance brute. Que vous nommiez un guerrier redoutable pour votre campagne de JDR, un chef brutal dans votre roman de fantasy, ou que vous vouliez simplement un alias qui sonne dur, vous êtes au bon camp de guerre. Préparez-vous à des noms qui sonnent comme des os qui craquent et des cris de guerre rugissants !",
+    "zh-cn": "忘掉那些软弱的精灵名字和自命不凡的矮人头衔吧！这个生成器锤炼出的名字是在战斗的烈火中锻造、浸透着原始力量的。无论你是为你的RPG战役命名一个可怕的战士，为你的奇幻小说命名一个残暴的酋长，还是只想找一个听起来强悍的别名，你都来对了战营。准备好迎接听起来像骨头碎裂和战斗咆哮的名字吧！",
+    "ja": "ひ弱なエルフの名前や気取ったドワーフの称号は忘れましょう！このジェネレーターは、戦いの熱気の中で鍛えられ、生の力に浸された名前を打ち出します。RPGキャンペーンの恐るべき戦士、ファンタジー小説の残忍な首長、あるいは単にタフに聞こえる別名が必要な場合でも、あなたは正しいウォーキャンプに来ました。骨が砕ける音や轟く鬨の声のような名前に備えてください！",
+    "pt": "Esqueça nomes de elfos frágeis e títulos de anões pretenciosos! Este gerador forja nomes no calor da batalha, imbuídos de poder bruto. Seja nomeando um guerreiro temível para sua campanha de RPG, um chefe brutal em seu romance de fantasia, ou apenas querendo um apelido que soe durão, você veio ao acampamento de guerra certo. Prepare-se para nomes que soam como ossos esmagando e gritos de batalha retumbantes!",
+    "ru": "Забудьте хлипкие эльфийские имена и претенциозные дварфийские титулы! Этот генератор выковывает имена в пылу битвы, пропитанные грубой силой. Называете ли вы грозного воина для вашей RPG-кампании, жестокого вождя в вашем фэнтези-романе или просто хотите круто звучащий псевдоним - вы пришли в правильный военный лагерь. Готовьтесь к именам, которые звучат как хруст костей и ревущие боевые кличи!"
+  },
+  "howToUse": {
+    "en": [
+      "Slam that 'Generate' button like you're smashing a skull!",
+      "Brace yourself for a wave of brutally awesome orc names.",
+      "Scan the list for a name that screams 'unstoppable'!",
+      "Found one worthy of your might? Copy it!",
+      "Now, go forth and conquer... or at least name your character impressively!"
+    ],
+    "ar": [
+      "اضغط على زر 'إنشاء' بقوة كما لو كنت تسحق جمجمة!",
+      "استعد لموجة من أسماء الأورك الرائعة بوحشية.",
+      "تفحص القائمة بحثًا عن اسم يصرخ 'لا يمكن إيقافه'!",
+      "هل وجدت واحدًا يستحق قوتك؟ انسخه!",
+      "الآن، انطلق واغزو... أو على الأقل سمّ شخصيتك بشكل مثير للإعجاب!"
+    ],
+    "es": [
+      "¡Golpea ese botón 'Generar' como si estuvieras aplastando un cráneo!",
+      "Prepárate para una oleada de nombres de orco brutalmente impresionantes.",
+      "¡Revisa la lista en busca de un nombre que grite 'imparable'!",
+      "¿Encontraste uno digno de tu poder? ¡Cópialo!",
+      "Ahora, ¡adelante y conquista... o al menos nombra a tu personaje de forma impresionante!"
+    ],
+    "fr": [
+      "Frappez ce bouton 'Générer' comme si vous écrasiez un crâne !",
+      "Préparez-vous à une vague de noms d'orques brutalement géniaux.",
+      "Parcourez la liste à la recherche d'un nom qui crie 'imparable' !",
+      "Vous en avez trouvé un digne de votre puissance ? Copiez-le !",
+      "Maintenant, partez à la conquête... ou au moins nommez votre personnage de manière impressionnante !"
+    ],
+    "zh-cn": [
+      "像砸碎头骨一样猛击那个“生成”按钮！",
+      "准备迎接一波残酷而强大的兽人名字。",
+      "浏览列表，寻找一个喊着“不可阻挡”的名字！",
+      "找到了配得上你力量的名字？复制它！",
+      "现在，前进并征服……或者至少给你的角色起个令人印象深刻的名字！"
+    ],
+    "ja": [
+      "頭蓋骨を叩き割るように、その「生成」ボタンを叩け！",
+      "残忍で素晴らしいオークの名前の波に備えよ。",
+      "「止められない」と叫ぶ名前をリストから探せ！",
+      "あなたの力にふさわしいものを見つけましたか？コピーしろ！",
+      "さあ、前進して征服せよ... あるいは少なくとも、キャラクターに印象的な名前を付けろ！"
+    ],
+    "pt": [
+      "Bata nesse botão 'Gerar' como se estivesse esmagando um crânio!",
+      "Prepare-se para uma onda de nomes de orcs brutalmente incríveis.",
+      "Percorra a lista em busca de um nome que grite 'imparável'!",
+      "Encontrou um digno do seu poder? Copie-o!",
+      "Agora, vá em frente e conquiste... ou pelo menos nomeie seu personagem de forma impressionante!"
+    ],
+    "ru": [
+      "Ударь по кнопке 'Сгенерировать', как будто крушишь череп!",
+      "Приготовься к волне брутально крутых орочьих имен.",
+      "Просмотри список в поисках имени, которое кричит 'неостановимый'!",
+      "Нашел одно, достойное твоей мощи? Скопируй его!",
+      "А теперь, вперед и покоряй... или хотя бы впечатляюще назови своего персонажа!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Orc Name Generator really free?",
+        "ar": "هل مولد أسماء الأورك هذا مجاني حقًا؟",
+        "es": "¿Este Generador de Nombres de Orco es realmente gratis?",
+        "fr": "Ce Générateur de Noms d'Orque est-il vraiment gratuit ?",
+        "zh-cn": "这个兽人名称生成器真的是免费的吗？",
+        "ja": "このオーク名ジェネレーターは本当に無料ですか？",
+        "pt": "Este Gerador de Nomes de Orc é realmente gratuito?",
+        "ru": "Этот Генератор Имен Орков действительно бесплатный?"
+      },
+      "answer": {
+        "en": "Yes! Even the mightiest warlord appreciates free loot. Generate as many brutal names as you need, no gold required!",
+        "ar": "نعم! حتى أقوى أمراء الحرب يقدرون الغنائم المجانية. قم بإنشاء أكبر عدد تريده من الأسماء الوحشية، لا حاجة للذهب!",
+        "es": "¡Sí! Incluso el señor de la guerra más poderoso aprecia el botín gratuito. ¡Genera tantos nombres brutales como necesites, sin necesidad de oro!",
+        "fr": "Oui ! Même le plus puissant chef de guerre apprécie le butin gratuit. Générez autant de noms brutaux que nécessaire, sans or requis !",
+        "zh-cn": "是的！即使是最强大的军阀也喜欢免费的战利品。随心所欲生成任意数量的野蛮名字，无需黄金！",
+        "ja": "はい！最強のウォーロードでさえ無料の戦利品を高く評価します。必要なだけ残忍な名前を生成してください、金は不要です！",
+        "pt": "Sim! Até o senhor da guerra mais poderoso aprecia um saque grátis. Gere quantos nomes brutais precisar, sem necessidade de ouro!",
+        "ru": "Да! Даже самый могучий военачальник ценит бесплатную добычу. Генерируйте столько брутальных имен, сколько вам нужно, золото не требуется!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my RPG character, story, or game?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لشخصية RPG أو قصة أو لعبة؟",
+        "es": "¿Puedo usar estos nombres para mi personaje de rol, historia o juego?",
+        "fr": "Puis-je utiliser ces noms pour mon personnage de JDR, mon histoire ou mon jeu ?",
+        "zh-cn": "我可以将这些名称用于我的RPG角色、故事或游戏吗？",
+        "ja": "これらの名前を私のRPGキャラクター、物語、またはゲームに使用できますか？",
+        "pt": "Posso usar esses nomes para meu personagem de RPG, história ou jogo?",
+        "ru": "Могу ли я использовать эти имена для своего RPG-персонажа, истории или игры?"
+      },
+      "answer": {
+        "en": "Generally, yes! These names are great for personal projects like tabletop campaigns or writing. For commercial use (like a published game or book), it's wise to double-check if the name is already trademarked elsewhere. We provide the hammer, you check the battlefield.",
+        "ar": "بشكل عام، نعم! هذه الأسماء رائعة للمشاريع الشخصية مثل حملات الطاولة أو الكتابة. للاستخدام التجاري (مثل لعبة أو كتاب منشور)، من الحكمة التحقق مرة أخرى مما إذا كان الاسم مسجلاً كعلامة تجارية في مكان آخر. نحن نوفر المطرقة، وأنت تتحقق من ساحة المعركة.",
+        "es": "¡Generalmente, sí! Estos nombres son geniales para proyectos personales como campañas de mesa o escritura. Para uso comercial (como un juego o libro publicado), es prudente verificar si el nombre ya está registrado como marca en otro lugar. Nosotros proporcionamos el martillo, tú revisas el campo de batalla.",
+        "fr": "Généralement, oui ! Ces noms sont parfaits pour des projets personnels comme des campagnes sur table ou l'écriture. Pour un usage commercial (comme un jeu ou un livre publié), il est sage de vérifier si le nom est déjà une marque déposée ailleurs. Nous fournissons le marteau, vous vérifiez le champ de bataille.",
+        "zh-cn": "一般来说，可以！这些名字非常适合个人项目，如桌面战役或写作。对于商业用途（如出版的游戏或书籍），最好仔细检查该名称是否已在其他地方注册商标。我们提供锤子，你检查战场。",
+        "ja": "一般的には、はい！これらの名前は、テーブルトークキャンペーンや執筆などの個人的なプロジェクトに最適です。商業利用（出版されたゲームや本など）の場合は、その名前が他の場所で既に商標登録されていないか再確認するのが賢明です。私たちはハンマーを提供し、あなたは戦場を確認します。",
+        "pt": "Geralmente, sim! Esses nomes são ótimos para projetos pessoais como campanhas de mesa ou escrita. Para uso comercial (como um jogo ou livro publicado), é sensato verificar se o nome já está registrado como marca em outro lugar. Nós fornecemos o martelo, você verifica o campo de batalha.",
+        "ru": "В целом, да! Эти имена отлично подходят для личных проектов, таких как настольные кампании или написание текстов. Для коммерческого использования (например, в публикуемой игре или книге) разумно перепроверить, не зарегистрировано ли имя где-либо еще в качестве товарного знака. Мы даем молот, вы проверяете поле боя."
+      }
+    },
+    {
+      "question": {
+        "en": "How many orc names can I generate?",
+        "ar": "كم عدد أسماء الأورك التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres de orco puedo generar?",
+        "fr": "Combien de noms d'orques puis-je générer ?",
+        "zh-cn": "我可以生成多少个兽人名称？",
+        "ja": "いくつのオーク名を生成できますか？",
+        "pt": "Quantos nomes de orc posso gerar?",
+        "ru": "Сколько орочьих имен я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "As many as there are skulls to crush! Generate endlessly until you find the name that truly resonates with your inner WAAAGH!",
+        "ar": "بقدر عدد الجماجم التي يمكن سحقها! قم بالإنشاء بلا نهاية حتى تجد الاسم الذي يتردد صداه حقًا مع صيحة الـ WAAAGH الداخلية لديك!",
+        "es": "¡Tantos como cráneos haya para aplastar! ¡Genera sin fin hasta que encuentres el nombre que realmente resuene con tu WAAAGH interior!",
+        "fr": "Autant qu'il y a de crânes à écraser ! Générez à l'infini jusqu'à ce que vous trouviez le nom qui résonne vraiment avec votre WAAAGH intérieur !",
+        "zh-cn": "就像有无数头骨可以粉碎一样多！无限生成，直到找到真正与你内心的 WAAAGH 产生共鸣的名字！",
+        "ja": "粉砕すべき頭蓋骨の数だけ！あなたの内なるワーッ！と真に共鳴する名前を見つけるまで、無限に生成してください！",
+        "pt": "Tantos quantos crânios houver para esmagar! Gere infinitamente até encontrar o nome que realmente ressoa com seu WAAAGH interior!",
+        "ru": "Столько, сколько черепов можно сокрушить! Генерируйте бесконечно, пока не найдете имя, которое действительно резонирует с вашим внутренним ВАААГХ!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are these generated orc names actually good?",
+        "ar": "هل أسماء الأورك التي تم إنشاؤها جيدة حقًا؟",
+        "es": "¿Estos nombres de orco generados son realmente buenos?",
+        "fr": "Ces noms d'orques générés sont-ils vraiment bons ?",
+        "zh-cn": "这些生成的兽人名称真的好吗？",
+        "ja": "これらの生成されたオーク名は実際に良いものですか？",
+        "pt": "Esses nomes de orc gerados são realmente bons?",
+        "ru": "Действительно ли эти сгенерированные орочьи имена хороши?"
+      },
+      "answer": {
+        "en": "We think they're brutally effective! We aimed for names that sound strong, guttural, and suitably intimidating for an orc. If a name doesn't feel right, just smash that generate button again for more options!",
+        "ar": "نعتقد أنها فعالة بوحشية! لقد استهدفنا أسماء تبدو قوية وحنجرية ومخيفة بشكل مناسب للأورك. إذا لم يكن الاسم مناسبًا، فقط اضغط على زر الإنشاء مرة أخرى لمزيد من الخيارات!",
+        "es": "¡Creemos que son brutalmente efectivos! Buscamos nombres que suenen fuertes, guturales y adecuadamente intimidantes para un orco. Si un nombre no te convence, ¡simplemente golpea el botón de generar de nuevo para obtener más opciones!",
+        "fr": "Nous pensons qu'ils sont brutalement efficaces ! Nous avons visé des noms qui sonnent forts, gutturaux et suffisamment intimidants pour un orque. Si un nom ne vous convient pas, frappez simplement à nouveau le bouton de génération pour plus d'options !",
+        "zh-cn": "我们认为它们非常有效！我们的目标是听起来强壮、喉音重、并且适合兽人的威吓性名字。如果某个名字感觉不对，只需再次猛击生成按钮获取更多选项！",
+        "ja": "私たちはそれらが残忍なほど効果的だと考えています！オークに適した、強く、喉音で、威圧的に聞こえる名前を目指しました。名前がしっくりこない場合は、生成ボタンをもう一度叩いて、さらに多くのオプションを入手してください！",
+        "pt": "Achamos que são brutalmente eficazes! Buscamos nomes que soem fortes, guturais e adequadamente intimidantes para um orc. Se um nome não parecer certo, apenas bata no botão gerar novamente para mais opções!",
+        "ru": "Мы считаем их брутально эффективными! Мы стремились к именам, которые звучат сильно, гортанно и достаточно устрашающе для орка. Если имя не подходит, просто ударьте по кнопке генерации снова для получения новых вариантов!"
+      }
+    },
+    {
+      "question": {
+        "en": "Will using a name generated here make my orc character instantly powerful?",
+        "ar": "هل استخدام اسم تم إنشاؤه هنا سيجعل شخصية الأورك الخاصة بي قوية على الفور؟",
+        "es": "¿Usar un nombre generado aquí hará que mi personaje orco sea instantáneamente poderoso?",
+        "fr": "Utiliser un nom généré ici rendra-t-il mon personnage orque instantanément puissant ?",
+        "zh-cn": "使用在这里生成的名称会让我的兽人角色立刻变得强大吗？",
+        "ja": "ここで生成された名前を使用すると、私のオークキャラクターは即座に強力になりますか？",
+        "pt": "Usar um nome gerado aqui tornará meu personagem orc instantaneamente poderoso?",
+        "ru": "Сделает ли использование сгенерированного здесь имени моего персонажа-орка мгновенно могущественным?"
+      },
+      "answer": {
+        "en": "A fearsome name helps, but true power comes from sharp axes, loud roars, and maybe some lucky dice rolls. Think of the name as intimidating war paint - it looks good, but you still need to swing the axe!",
+        "ar": "الاسم المخيف يساعد، لكن القوة الحقيقية تأتي من الفؤوس الحادة، والزئير العالي، وربما بعض رميات النرد المحظوظة. فكر في الاسم على أنه طلاء حرب مخيف - يبدو جيدًا، لكنك لا تزال بحاجة إلى تأرجح الفأس!",
+        "es": "Un nombre temible ayuda, pero el verdadero poder proviene de hachas afiladas, rugidos fuertes y quizás algunas tiradas de dados afortunadas. Piensa en el nombre como una pintura de guerra intimidante: ¡se ve bien, pero aún necesitas blandir el hacha!",
+        "fr": "Un nom redoutable aide, mais le vrai pouvoir vient des haches aiguisées, des rugissements forts et peut-être de quelques jets de dés chanceux. Considérez le nom comme une peinture de guerre intimidante - ça a l'air bien, mais vous devez toujours manier la hache !",
+        "zh-cn": "一个可怕的名字有帮助，但真正的力量来自锋利的斧头、响亮的咆哮，也许还有一些幸运的骰子。把这个名字想象成令人生畏的战纹——它看起来很棒，但你仍然需要挥动斧头！",
+        "ja": "恐ろしい名前は役立ちますが、真の力は鋭い斧、大きな咆哮、そしておそらく幸運なダイスロールから来ます。名前を威圧的なウォーペイントと考えてください - 見栄えは良いですが、それでも斧を振るう必要があります！",
+        "pt": "Um nome temível ajuda, mas o verdadeiro poder vem de machados afiados, rugidos altos e talvez algumas rolagens de dados sortudas. Pense no nome como uma pintura de guerra intimidadora - parece bom, mas você ainda precisa brandir o machado!",
+        "ru": "Устрашающее имя помогает, но истинная сила исходит от острых топоров, громкого рева и, возможно, удачных бросков кубиков. Думайте об имени как об устрашающей боевой раскраске - она хорошо выглядит, но вам все равно нужно махать топором!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest orcish-sounding syllables or name parts?",
+        "ar": "هل يمكنني اقتراح مقاطع صوتية أو أجزاء أسماء تبدو أوركية؟",
+        "es": "¿Puedo sugerir sílabas o partes de nombres que suenen orcas?",
+        "fr": "Puis-je suggérer des syllabes ou des parties de noms à consonance orque ?",
+        "zh-cn": "我可以建议听起来像兽人的音节或名称部分吗？",
+        "ja": "オークっぽい響きの音節や名前の部分を提案できますか？",
+        "pt": "Posso sugerir sílabas ou partes de nomes que soem órquicas?",
+        "ru": "Могу ли я предложить оркоподобные слоги или части имен?"
+      },
+      "answer": {
+        "en": "WAAAGH! Yes! More ideas make the generator stronger! Send your guttural grunts and brutal bits through our feedback channel. If they're worthy, they might join the name-forging process!",
+        "ar": "وااغ! نعم! المزيد من الأفكار تجعل المولد أقوى! أرسل همهماتك الحنجرية وقطعك الوحشية عبر قناة التعليقات الخاصة بنا. إذا كانت جديرة بالاهتمام، فقد تنضم إلى عملية صياغة الأسماء!",
+        "es": "¡WAAAGH! ¡Sí! ¡Más ideas hacen que el generador sea más fuerte! Envía tus gruñidos guturales y partes brutales a través de nuestro canal de comentarios. ¡Si son dignos, podrían unirse al proceso de forja de nombres!",
+        "fr": "WAAAGH ! Oui ! Plus d'idées rendent le générateur plus fort ! Envoyez vos grognements gutturaux et vos morceaux brutaux via notre canal de commentaires. S'ils en sont dignes, ils pourraient rejoindre le processus de forge de noms !",
+        "zh-cn": "为了部落！是的！更多的想法让生成器更强大！通过我们的反馈渠道发送你那喉音浓重的咕哝声和野蛮的片段。如果它们够格，就可能加入名称锻造过程！",
+        "ja": "ワーッ！はい！より多くのアイデアがジェネレーターをより強くします！あなたの喉音のうなり声や残忍なビットをフィードバックチャネルを通じて送ってください。それらがふさわしければ、名前鍛造プロセスに参加するかもしれません！",
+        "pt": "WAAAGH! Sim! Mais ideias tornam o gerador mais forte! Envie seus grunhidos guturais e partes brutais através do nosso canal de feedback. Se forem dignos, podem juntar-se ao processo de forja de nomes!",
+        "ru": "ВАААГХ! Да! Больше идей делают генератор сильнее! Отправляйте ваши гортанные рыки и брутальные кусочки через наш канал обратной связи. Если они окажутся достойными, они могут присоединиться к процессу ковки имен!"
+      }
+    }
+  ]
+}

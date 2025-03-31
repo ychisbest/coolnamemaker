@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Dragonborn Name Generator",
+    "ar": "مولد أسماء دراجون بورن",
+    "es": "Generador de Nombres de Dracónido",
+    "fr": "Générateur de Noms de Sang-Dragon",
+    "zh-cn": "龙裔名称生成器",
+    "ja": "ドラゴンボーン名ジェネレーター",
+    "pt": "Gerador de Nomes de Draconato",
+    "ru": "Генератор Имен Драконорожденных"
+  },
+  "description": {
+    "en": "Forge a name worthy of your draconic heritage! Our Dragonborn Name Generator crafts powerful, resonant names reflecting the honor, strength, and ancient lineage of Dragonborn characters in D&D. Find the perfect name for your mighty warrior or cunning sorcerer!",
+    "ar": "اصنع اسمًا يليق بتراثك التنيني! مولد أسماء دراجون بورن لدينا يصوغ أسماء قوية ورنانة تعكس الشرف والقوة والسلالة القديمة لشخصيات دراجون بورن في D&D. اعثر على الاسم المثالي لمحاربك الجبار أو ساحرك الماكر!",
+    "es": "¡Forja un nombre digno de tu herencia dracónica! Nuestro Generador de Nombres de Dracónido crea nombres poderosos y resonantes que reflejan el honor, la fuerza y el antiguo linaje de los personajes Dracónido en D&D. ¡Encuentra el nombre perfecto para tu poderoso guerrero o astuto hechicero!",
+    "fr": "Forgez un nom digne de votre héritage draconique ! Notre Générateur de Noms de Sang-Dragon crée des noms puissants et résonnants qui reflètent l'honneur, la force et l'ancienne lignée des personnages Sang-Dragon dans D&D. Trouvez le nom parfait pour votre puissant guerrier ou votre sorcier rusé !",
+    "zh-cn": "锻造一个配得上你龙族血统的名字！我们的龙裔名称生成器能够创造出强大、洪亮的名字，反映出 D&D 中龙裔角色的荣誉、力量和古老血脉。为你的强大战士或狡猾术士找到完美的名字！",
+    "ja": "ドラゴンの遺産にふさわしい名前を鍛え上げましょう！当社のドラゴンボーン名ジェネレーターは、D&Dにおけるドラゴンボーンキャラクターの名誉、強さ、古代の血統を反映した、パワフルで響きのある名前を作り出します。あなたの強力な戦士や狡猾なソーサラーにぴったりの名前を見つけてください！",
+    "pt": "Forje um nome digno de sua herança dracônica! Nosso Gerador de Nomes de Draconato cria nomes poderosos e ressonantes que refletem a honra, a força e a antiga linhagem dos personagens Draconatos em D&D. Encontre o nome perfeito para seu poderoso guerreiro ou astuto feiticeiro!",
+    "ru": "Выкуйте имя, достойное вашего драконьего наследия! Наш Генератор Имен Драконорожденных создает мощные, звучные имена, отражающие честь, силу и древнюю родословную персонажей-Драконорожденных в D&D. Найдите идеальное имя для вашего могучего воина или хитроумного колдуна!"
+  },
+  "slug": "dragonborn-name-generator",
+  "prompt": {
+    "en": "Generate a Dragonborn name",
+    "ar": "قم بإنشاء اسم دراجون بورن",
+    "es": "Generar un nombre de Dracónido",
+    "fr": "Générer un nom de Sang-Dragon",
+    "zh-cn": "生成一个龙裔名称",
+    "ja": "ドラゴンボーン名を生成する",
+    "pt": "Gerar um nome de Draconato",
+    "ru": "Сгенерировать имя Драконорожденного"
+  },
+  "icon": "🐉",
+  "introduction": {
+    "en": "Step into the scales of your Dragonborn character! A name is more than a label; it's a declaration of identity, echoing ancestral power and clan loyalty. This generator dives deep into the lore, combining harsh consonants, guttural sounds, and elements of draconic language to produce names that feel authentic and imposing. Whether you seek a personal name or a proud clan name, find the perfect fit to bring your Dragonborn to life.",
+    "ar": "ادخل في حراشف شخصية دراجون بورن الخاصة بك! الاسم هو أكثر من مجرد تسمية؛ إنه إعلان عن الهوية، يردد صدى قوة الأجداد وولاء العشيرة. يغوص هذا المولد عميقًا في التقاليد، ويجمع بين الحروف الساكنة القاسية والأصوات الحلقية وعناصر اللغة التنينية لإنتاج أسماء تبدو أصيلة ومهيبة. سواء كنت تبحث عن اسم شخصي أو اسم عشيرة فخور، ابحث عن الاسم المثالي لإحياء شخصية دراجون بورن الخاصة بك.",
+    "es": "¡Ponte en las escamas de tu personaje Dracónido! Un nombre es más que una etiqueta; es una declaración de identidad, que hace eco del poder ancestral y la lealtad al clan. Este generador profundiza en el lore, combinando consonantes ásperas, sonidos guturales y elementos del lenguaje dracónico para producir nombres que se sienten auténticos e imponentes. Ya sea que busques un nombre personal o un orgulloso nombre de clan, encuentra el ajuste perfecto para dar vida a tu Dracónido.",
+    "fr": "Entrez dans les écailles de votre personnage Sang-Dragon ! Un nom est plus qu'une étiquette ; c'est une déclaration d'identité, faisant écho à la puissance ancestrale et à la loyauté envers le clan. Ce générateur plonge profondément dans le lore, combinant des consonnes dures, des sons gutturaux et des éléments de la langue draconique pour produire des noms qui semblent authentiques et imposants. Que vous cherchiez un nom personnel ou un fier nom de clan, trouvez celui qui convient parfaitement pour donner vie à votre Sang-Dragon.",
+    "zh-cn": "踏入你龙裔角色的鳞甲之下！名字不仅仅是一个标签；它是身份的宣言，回响着先祖的力量和氏族的忠诚。本生成器深入研究背景知识，结合了硬辅音、喉音和龙语元素，生成感觉真实且威严的名字。无论你是在寻找个人名字还是引以为傲的氏族名称，都能找到完美的匹配，让你的龙裔角色栩栩如生。",
+    "ja": "ドラゴンボーンキャラクターの鱗になりきりましょう！名前は単なるラベルではありません。それはアイデンティティの宣言であり、祖先の力と氏族への忠誠を響かせます。このジェネレーターは伝承を深く掘り下げ、硬い子音、喉音、ドラゴニック言語の要素を組み合わせて、本物らしく威圧感のある名前を生み出します。個人名を探している場合でも、誇り高い氏族名を探している場合でも、ドラゴンボーンに命を吹き込むのに最適な名前を見つけてください。",
+    "pt": "Entre nas escamas do seu personagem Draconato! Um nome é mais do que um rótulo; é uma declaração de identidade, ecoando poder ancestral e lealdade ao clã. Este gerador mergulha fundo na lore, combinando consoantes ásperas, sons guturais e elementos da língua dracônica para produzir nomes que parecem autênticos e imponentes. Quer você procure um nome pessoal ou um orgulhoso nome de clã, encontre o ajuste perfeito para dar vida ao seu Draconato.",
+    "ru": "Встаньте в чешую вашего персонажа-Драконорожденного! Имя - это больше, чем просто ярлык; это заявление идентичности, эхо силы предков и верности клану. Этот генератор глубоко погружается в лор, сочетая резкие согласные, гортанные звуки и элементы драконьего языка для создания имен, которые кажутся подлинными и внушительными. Ищете ли вы личное имя или гордое имя клана, найдите идеальный вариант, чтобы оживить вашего Драконорожденного."
+  },
+  "howToUse": {
+    "en": [
+      "Click the mighty 'Generate' button!",
+      "Witness a surge of powerful Dragonborn names.",
+      "Browse the list for a name that resonates with your character's spirit.",
+      "Found the perfect moniker? Copy it!",
+      "Unleash your Dragonborn upon the world with their new, formidable name!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' الجبار!",
+      "شاهد تدفقًا من أسماء دراجون بورن القوية.",
+      "تصفح القائمة بحثًا عن اسم يتردد صداه مع روح شخصيتك.",
+      "هل وجدت اللقب المثالي؟ انسخه!",
+      "أطلق العنان لشخصية دراجون بورن الخاصة بك على العالم باسمها الجديد الهائل!"
+    ],
+    "es": [
+      "¡Haz clic en el poderoso botón 'Generar'!",
+      "Sé testigo de una oleada de poderosos nombres de Dracónido.",
+      "Explora la lista en busca de un nombre que resuene con el espíritu de tu personaje.",
+      "¿Encontraste el apodo perfecto? ¡Cópialo!",
+      "¡Libera a tu Dracónido sobre el mundo con su nuevo y formidable nombre!"
+    ],
+    "fr": [
+      "Cliquez sur le puissant bouton 'Générer' !",
+      "Soyez témoin d'une vague de noms de Sang-Dragon puissants.",
+      "Parcourez la liste à la recherche d'un nom qui résonne avec l'esprit de votre personnage.",
+      "Vous avez trouvé le surnom parfait ? Copiez-le !",
+      "Lancez votre Sang-Dragon sur le monde avec son nouveau nom formidable !"
+    ],
+    "zh-cn": [
+      "点击强大的“生成”按钮！",
+      "见证涌现出的大量强大的龙裔名称。",
+      "浏览列表，寻找与你角色精神产生共鸣的名字。",
+      "找到完美的称号了吗？复制它！",
+      "用他们强大的新名字，将你的龙裔释放到世界上吧！"
+    ],
+    "ja": [
+      "強力な「生成」ボタンをクリックしてください！",
+      "パワフルなドラゴンボーン名の波を目撃してください。",
+      "あなたのキャラクターの精神に響く名前をリストから探してください。",
+      "完璧な呼び名を見つけましたか？コピーしましょう！",
+      "新しく手に入れた恐るべき名前で、あなたのドラゴンボーンを世界に解き放ちましょう！"
+    ],
+    "pt": [
+      "Clique no poderoso botão 'Gerar'!",
+      "Testemunhe uma onda de nomes poderosos de Draconato.",
+      "Navegue pela lista em busca de um nome que ressoe com o espírito do seu personagem.",
+      "Encontrou o apelido perfeito? Copie-o!",
+      "Liberte seu Draconato sobre o mundo com seu novo e formidável nome!"
+    ],
+    "ru": [
+      "Нажмите могучую кнопку 'Сгенерировать'!",
+      "Станьте свидетелем потока мощных имен Драконорожденных.",
+      "Просмотрите список в поисках имени, которое резонирует с духом вашего персонажа.",
+      "Нашли идеальное прозвище? Скопируйте его!",
+      "Выпустите вашего Драконорожденного в мир с его новым, грозным именем!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Do Dragonborn have first and last names?",
+        "ar": "هل لدى دراجون بورن أسماء أولى وأسماء عائلة؟",
+        "es": "¿Los Dracónidos tienen nombre y apellido?",
+        "fr": "Les Sang-Dragons ont-ils des prénoms et des noms de famille ?",
+        "zh-cn": "问：龙裔有名字和姓氏吗？",
+        "ja": "ドラゴンボーンにはファーストネームとラストネームがありますか？",
+        "pt": "Os Draconatos têm nome e sobrenome?",
+        "ru": "У Драконорожденных есть имя и фамилия?"
+      },
+      "answer": {
+        "en": "Dragonborn typically have a personal name given at birth and a clan name reflecting their heritage. This generator can inspire both!",
+        "ar": "عادةً ما يكون لدى دراجون بورن اسم شخصي يُعطى عند الولادة واسم عشيرة يعكس تراثهم. يمكن لهذا المولد أن يلهم كليهما!",
+        "es": "Los Dracónidos suelen tener un nombre personal dado al nacer y un nombre de clan que refleja su herencia. ¡Este generador puede inspirar ambos!",
+        "fr": "Les Sang-Dragons ont généralement un nom personnel donné à la naissance et un nom de clan reflétant leur héritage. Ce générateur peut inspirer les deux !",
+        "zh-cn": "答：龙裔通常有一个出生时获得的名字和一个反映其传统的氏族名称。这个生成器可以为两者提供灵感！",
+        "ja": "ドラゴンボーンは通常、生まれたときに与えられる個人名と、その血統を反映する氏族名を持っています。このジェネレーターは両方のインスピレーションを与えることができます！",
+        "pt": "Os Draconatos geralmente têm um nome pessoal dado ao nascer e um nome de clã refletindo sua herança. Este generador pode inspirar ambos!",
+        "ru": "О: У Драконорожденных обычно есть личное имя, данное при рождении, и имя клана, отражающее их наследие. Этот генератор может вдохновить на оба!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are these names gender-specific?",
+        "ar": "هل هذه الأسماء محددة للجنس؟",
+        "es": "¿Son estos nombres específicos de género?",
+        "fr": "Ces noms sont-ils spécifiques au genre ?",
+        "zh-cn": "问：这些名字有性别区分吗？",
+        "ja": "これらの名前は性別固有ですか？",
+        "pt": "Esses nomes são específicos de gênero?",
+        "ru": "Эти имена зависят от пола?"
+      },
+      "answer": {
+        "en": "Dragonborn names often sound harsh and aren't strictly gendered in the human sense. Many names generated can suit any Dragonborn character, regardless of gender identity.",
+        "ar": "غالبًا ما تبدو أسماء دراجون بورن قاسية وليست محددة للجنس بالمعنى البشري الصارم. العديد من الأسماء التي تم إنشاؤها يمكن أن تناسب أي شخصية دراجون بورن، بغض النظر عن الهوية الجنسية.",
+        "es": "Los nombres de Dracónido a menudo suenan ásperos y no tienen un género estricto en el sentido humano. Muchos nombres generados pueden adaptarse a cualquier personaje Dracónido, independientemente de su identidad de género.",
+        "fr": "Les noms de Sang-Dragon sonnent souvent durs et ne sont pas strictement genrés au sens humain. De nombreux noms générés peuvent convenir à n'importe quel personnage Sang-Dragon, quelle que soit son identité de genre.",
+        "zh-cn": "答：龙裔的名字通常听起来比较硬朗，并且不像人类那样有严格的性别区分。许多生成的名字可以适用于任何龙裔角色，无论其性别认同如何。",
+        "ja": "ドラゴンボーンの名前はしばしば厳しく聞こえ、人間の意味での厳密な性別はありません。生成された多くの名前は、性自認に関係なく、どのドラゴンボーンキャラクターにも適しています。",
+        "pt": "Nomes de Draconato muitas vezes soam ásperos e não são estritamente de gênero no sentido humano. Muitos nomes gerados podem servir para qualquer personagem Draconato, independentemente da identidade de gênero.",
+        "ru": "О: Имена Драконорожденных часто звучат резко и не имеют строгой гендерной привязки в человеческом понимании. Многие сгенерированные имена могут подойти любому персонажу-Драконорожденному, независимо от гендерной идентичности."
+      }
+    },
+    {
+      "question": {
+        "en": "Do the generated names have specific meanings?",
+        "ar": "هل للأسماء التي تم إنشاؤها معاني محددة؟",
+        "es": "¿Tienen significados específicos los nombres generados?",
+        "fr": "Les noms générés ont-ils des significations spécifiques ?",
+        "zh-cn": "问：生成的名字有具体含义吗？",
+        "ja": "生成された名前には特定の意味がありますか？",
+        "pt": "Os nomes gerados têm significados específicos?",
+        "ru": "Имеют ли сгенерированные имена конкретные значения?"
+      },
+      "answer": {
+        "en": "While designed to sound authentic based on D&D lore, the generated names don't have predefined dictionary meanings. Their meaning comes from the character you create!",
+        "ar": "بينما تم تصميمها لتبدو أصيلة بناءً على تقاليد D&D، فإن الأسماء التي تم إنشاؤها ليس لها معاني قاموسية محددة مسبقًا. معناها يأتي من الشخصية التي تنشئها!",
+        "es": "Aunque están diseñados para sonar auténticos basados en el lore de D&D, los nombres generados no tienen significados de diccionario predefinidos. ¡Su significado proviene del personaje que crees!",
+        "fr": "Bien que conçus pour paraître authentiques basés sur le lore de D&D, les noms générés n'ont pas de significations prédéfinies dans le dictionnaire. Leur signification vient du personnage que vous créez !",
+        "zh-cn": "答：虽然这些名字是根据 D&D 的背景知识设计的，听起来很真实，但它们没有预定义的字典含义。它们的意义来自于你创造的角色！",
+        "ja": "D&Dの伝承に基づいて本物らしく聞こえるように設計されていますが、生成された名前には事前に定義された辞書の意味はありません。その意味は、あなたが作成するキャラクターから生まれます！",
+        "pt": "Embora projetados para soar autênticos com base na lore de D&D, os nomes gerados não têm significados de dicionário predefinidos. O significado deles vem do personagem que você cria!",
+        "ru": "О: Хотя они разработаны так, чтобы звучать аутентично на основе лора D&D, сгенерированные имена не имеют предопределенных словарных значений. Их значение исходит от персонажа, которого вы создаете!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my D&D character or story?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لشخصيتي في D&D أو قصتي؟",
+        "es": "¿Puedo usar estos nombres para mi personaje de D&D o mi historia?",
+        "fr": "Puis-je utiliser ces noms pour mon personnage D&D ou mon histoire ?",
+        "zh-cn": "问：我可以将这些名字用于我的 D&D 角色或故事吗？",
+        "ja": "これらの名前をD&Dのキャラクターやストーリーに使用できますか？",
+        "pt": "Posso usar esses nomes para meu personagem de D&D ou história?",
+        "ru": "Могу ли я использовать эти имена для своего персонажа D&D или истории?"
+      },
+      "answer": {
+        "en": "Absolutely! These names are generated for inspiration and use in your roleplaying games, stories, or other creative projects. Feel free to use them freely.",
+        "ar": "بالتأكيد! تم إنشاء هذه الأسماء للإلهام والاستخدام في ألعاب تقمص الأدوار أو القصص أو المشاريع الإبداعية الأخرى. لا تتردد في استخدامها بحرية.",
+        "es": "¡Absolutamente! Estos nombres se generan para inspiración y uso en tus juegos de rol, historias u otros proyectos creativos. Siéntete libre de usarlos libremente.",
+        "fr": "Absolument ! Ces noms sont générés pour l'inspiration et l'utilisation dans vos jeux de rôle, histoires ou autres projets créatifs. N'hésitez pas à les utiliser librement.",
+        "zh-cn": "答：当然可以！这些名字是为了给你的角色扮演游戏、故事或其他创意项目提供灵感和使用而生成的。请随意免费使用它们。",
+        "ja": "もちろんです！これらの名前は、ロールプレイングゲーム、ストーリー、その他のクリエイティブなプロジェクトでのインスピレーションと使用のために生成されます。自由に使用してください。",
+        "pt": "Com certeza! Esses nomes são gerados para inspiração e uso em seus jogos de RPG, histórias ou outros projetos criativos. Sinta-se à vontade para usá-los livremente.",
+        "ru": "О: Абсолютно! Эти имена генерируются для вдохновения и использования в ваших ролевых играх, историях или других творческих проектах. Не стесняйтесь использовать их свободно."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I modify the generated names?",
+        "ar": "هل يمكنني تعديل الأسماء التي تم إنشاؤها؟",
+        "es": "¿Puedo modificar los nombres generados?",
+        "fr": "Puis-je modifier les noms générés ?",
+        "zh-cn": "问：我可以修改生成的名字吗？",
+        "ja": "生成された名前を変更できますか？",
+        "pt": "Posso modificar os nomes gerados?",
+        "ru": "Могу ли я изменять сгенерированные имена?"
+      },
+      "answer": {
+        "en": "Of course! Think of these as starting points. Feel free to tweak spellings, combine parts of different names, or add your own flair to make the name truly unique to your character.",
+        "ar": "بالطبع! فكر فيها كنقاط انطلاق. لا تتردد في تعديل التهجئة، أو دمج أجزاء من أسماء مختلفة، أو إضافة لمستك الخاصة لجعل الاسم فريدًا حقًا لشخصيتك.",
+        "es": "¡Por supuesto! Piense en ellos como puntos de partida. Siéntase libre de ajustar la ortografía, combinar partes de diferentes nombres o agregar su propio estilo para que el nombre sea verdaderamente único para su personaje.",
+        "fr": "Bien sûr ! Considérez-les comme des points de départ. N'hésitez pas à modifier l'orthographe, à combiner des parties de noms différents ou à ajouter votre propre touche pour rendre le nom vraiment unique à votre personnage.",
+        "zh-cn": "答：当然！将这些视为起点。随意调整拼写、组合不同名称的部分，或添加您自己的风格，使名称真正独一无二地属于您的角色。",
+        "ja": "もちろんです！これらを出発点と考えてください。スペルを微調整したり、異なる名前の部分を組み合わせたり、独自のセンスを加えて、キャラクターにとって本当にユニークな名前にしてください。",
+        "pt": "Claro! Pense neles como pontos de partida. Sinta-se à vontade para ajustar a ortografia, combinar partes de nomes diferentes ou adicionar seu próprio toque para tornar o nome verdadeiramente único para seu personagem.",
+        "ru": "О: Конечно! Рассматривайте их как отправные точки. Не стесняйтесь изменять написание, комбинировать части разных имен или добавлять свой собственный штрих, чтобы сделать имя по-настоящему уникальным для вашего персонажа."
+      }
+    }
+  ]
+}

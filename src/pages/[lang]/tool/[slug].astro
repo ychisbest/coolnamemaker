@@ -223,7 +223,7 @@ declare global {
                     </h2>
                     <ol class="list-decimal list-inside space-y-3 pl-2 text-gray-700">
                         {
-                            tool.howToUse[currentLang].map((step) => (
+                            tool.howToUse[currentLang].map((step:any) => (
                                 <li class="py-1 hover:bg-gray-50 rounded-md px-2 transition-colors duration-200">{step}</li>
                             ))
                         }
@@ -249,7 +249,7 @@ declare global {
                     </h2>
                     <div class="space-y-7">
                         {
-                            tool.faqs.map((faq) => (
+                            tool.faqs.map((faq:any) => (
                                 <div class="border-t border-gray-100 pt-5 first:border-t-0 first:pt-0 hover:bg-gray-50 p-3 rounded-lg -mx-3 transition-colors duration-200">
                                     <h3 class="text-lg font-medium mb-3 text-gray-900">
                                         {faq.question[currentLang]}

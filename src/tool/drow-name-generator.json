@@ -1,0 +1,236 @@
+{
+  "name": {
+    "en": "Drow Name Generator",
+    "ar": "مولد أسماء درو",
+    "es": "Generador de Nombres Drow",
+    "fr": "Générateur de Noms Drows",
+    "zh-cn": "卓尔名称生成器",
+    "ja": "ドラウ名ジェネレーター",
+    "pt": "Gerador de Nomes Drow",
+    "ru": "Генератор Имен Дроу"
+  },
+  "description": {
+    "en": "Delve into the shadowy depths of the Underdark! Need the perfect, menacingly elegant name for your Drow character, city, or noble house? Our Drow Name Generator weaves together the dark beauty and intricate sounds of the Drow language to conjure names that resonate with power, mystery, and ancient tradition. Find a name worthy of Lolth's chosen!",
+    "ar": "انغمس في أعماق أندردارك المظلمة! هل تحتاج إلى الاسم المثالي والأنيق بشكل خطير لشخصية درو أو مدينة أو منزل نبيل؟ يمزج مولد أسماء درو الخاص بنا بين الجمال المظلم والأصوات المعقدة للغة درو لاستحضار أسماء يتردد صداها بالقوة والغموض والتقاليد القديمة. ابحث عن اسم يليق بمختاري لوث!",
+    "es": "¡Adéntrate en las sombrías profundidades de la Infraoscuridad! ¿Necesitas el nombre perfecto, amenazadoramente elegante, para tu personaje Drow, ciudad o casa noble? Nuestro Generador de Nombres Drow entrelaza la oscura belleza y los intrincados sonidos del idioma Drow para conjurar nombres que resuenan con poder, misterio y tradición ancestral. ¡Encuentra un nombre digno de los elegidos de Lolth!",
+    "fr": "Plongez dans les profondeurs ténébreuses de l'Outreterre ! Besoin du nom parfait, menaçant et élégant, pour votre personnage Drow, votre ville ou votre maison noble ? Notre Générateur de Noms Drows tisse ensemble la beauté sombre et les sons complexes de la langue Drow pour évoquer des noms qui résonnent de puissance, de mystère et de tradition ancienne. Trouvez un nom digne des élus de Lolth !",
+    "zh-cn": "深入幽暗地域的阴影深处！需要为你的卓尔角色、城市或贵族家族寻找完美、带有威胁感的优雅名字吗？我们的卓尔名称生成器将卓尔语言的黑暗之美和复杂发音编织在一起，召唤出充满力量、神秘和古老传统的名字。找到一个配得上罗丝选民的名字！",
+    "ja": "アンダーダークの影深い深淵へ！あなたのドラウのキャラクター、都市、または貴族の家系に、完璧で脅威的にエレガントな名前が必要ですか？当社のドラウ名ジェネレーターは、ドラウ語の暗い美しさと複雑な響きを織り交ぜ、力、神秘、古代の伝統に共鳴する名前を呼び起こします。ロルスの選民にふさわしい名前を見つけましょう！",
+    "pt": "Mergulhe nas profundezas sombrias do Subterrâneo! Precisa do nome perfeito, ameaçadoramente elegante, para seu personagem Drow, cidade ou casa nobre? Nosso Gerador de Nomes Drow entrelaça a beleza sombria e os sons intrincados da língua Drow para conjurar nomes que ressoam com poder, mistério e tradição antiga. Encontre um nome digno dos escolhidos de Lolth!",
+    "ru": "Погрузитесь в темные глубины Подземья! Нуждаетесь в идеальном, угрожающе элегантном имени для вашего персонажа-дроу, города или благородного дома? Наш Генератор Имен Дроу сплетает темную красоту и сложные звуки языка дроу, чтобы вызвать имена, которые резонируют с силой, тайной и древней традицией. Найдите имя, достойное избранных Ллос!"
+  },
+  "slug": "drow-name-generator",
+  "prompt": {
+    "en": "Generate a Drow name",
+    "ar": "قم بإنشاء اسم درو",
+    "es": "Generar un nombre Drow",
+    "fr": "Générer un nom Drow",
+    "zh-cn": "生成一个卓尔名称",
+    "ja": "ドラウ名を生成する",
+    "pt": "Gerar um nome Drow",
+    "ru": "Сгенерировать имя Дроу"
+  },
+  "icon": "🕷️",
+  "introduction": {
+    "en": "Step out of the light and embrace the shadows. This isn't just a name generator; it's your portal to the complex and often treacherous world of the Drow. Craft an identity that embodies the grace, ambition, and danger of this iconic fantasy race. Whether you're creating a cunning priestess, a deadly assassin, a noble matriarch, or even naming a dark elven outpost, we provide the authentic-sounding inspiration you need. Prepare for names steeped in the lore of the Underdark.",
+    "ar": "اخرج من النور واحتضن الظلال. هذا ليس مجرد مولد أسماء؛ إنه بوابتك إلى عالم درو المعقد والمليء بالمخاطر غالبًا. اصنع هوية تجسد النعمة والطموح والخطر لهذا العرق الخيالي الشهير. سواء كنت تنشئ كاهنة ماكرة، أو قاتلًا مميتًا، أو أمًا نبيلة، أو حتى تسمي موقعًا قزمًا مظلمًا، فإننا نقدم الإلهام الأصيل الذي تحتاجه. استعد لأسماء غارقة في تقاليد أندردارك.",
+    "es": "Sal de la luz y abraza las sombras. Esto no es solo un generador de nombres; es tu portal al complejo y a menudo traicionero mundo de los Drow. Crea una identidad que encarne la gracia, la ambición y el peligro de esta icónica raza de fantasía. Ya sea que estés creando una astuta sacerdotisa, un asesino letal, una matriarca noble, o incluso nombrando un puesto avanzado de elfos oscuros, te proporcionamos la inspiración de sonido auténtico que necesitas. Prepárate para nombres impregnados de la tradición de la Infraoscuridad.",
+    "fr": "Sortez de la lumière et embrassez les ombres. Ce n'est pas seulement un générateur de noms ; c'est votre portail vers le monde complexe et souvent dangereux des Drows. Créez une identité qui incarne la grâce, l'ambition et le danger de cette race fantastique emblématique. Que vous créiez une prêtresse rusée, un assassin mortel, une matriarche noble, ou même que vous nommiez un avant-poste elfe noir, nous fournissons l'inspiration au son authentique dont vous avez besoin. Préparez-vous à des noms imprégnés de la tradition de l'Outreterre.",
+    "zh-cn": "走出光明，拥抱阴影。这不仅仅是一个名称生成器；它是你通往复杂且常常充满危险的卓尔世界的传送门。塑造一个体现这个标志性奇幻种族的优雅、野心和危险的身份。无论你是在创造一个狡猾的女祭司、一个致命的刺客、一个贵族主母，还是仅仅为一个黑暗精灵前哨站命名，我们都能提供你所需要的听起来真实的名字灵感。准备好迎接沉浸在幽暗地域传说中的名字吧。",
+    "ja": "光の中から出て、影を受け入れましょう。これは単なる名前生成器ではありません。これは、複雑でしばしば危険なドラウの世界へのあなたのポータルです。この象徴的なファンタジー種族の優雅さ、野心、そして危険を体現するアイデンティティを作り上げましょう。狡猾な女司祭、致命的な暗殺者、高貴な女家長を作成する場合でも、ダークエルフの前哨基地に名前を付ける場合でも、必要な本物らしい響きのインスピレーションを提供します。アンダーダークの伝承に深く根ざした名前に備えましょう。",
+    "pt": "Saia da luz e abrace as sombras. Isto não é apenas um gerador de nomes; é o seu portal para o mundo complexo e muitas vezes traiçoeiro dos Drow. Crie uma identidade que incorpore a graça, a ambição e o perigo desta icônica raça de fantasia. Quer esteja criando uma sacerdotisa astuta, um assassino mortal, uma matriarca nobre, ou mesmo nomeando um posto avançado de elfos negros, nós fornecemos a inspiração de som autêntico que você precisa. Prepare-se para nomes imersos na tradição do Subterrâneo.",
+    "ru": "Выйдите из света и примите тени. Это не просто генератор имен; это ваш портал в сложный и часто коварный мир Дроу. Создайте личность, воплощающую грацию, амбиции и опасность этой культовой фэнтезийной расы. Создаете ли вы хитрую жрицу, смертоносного убийцу, благородную матрону или даже называете аванпост темных эльфов — мы предоставим вам подлинно звучащее вдохновение, которое вам нужно. Приготовьтесь к именам, пропитанным преданиями Подземья."
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button to summon names from the abyss.",
+      "Witness an array of dark, elegant, and evocative Drow names appear.",
+      "Scroll through the shadowy list and feel the power of the Underdark!",
+      "Found a name that whispers secrets to your soul? Copy it!",
+      "Now, unleash your Drow creation upon your fantasy world with its perfectly fitting name!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' لاستدعاء الأسماء من الهاوية.",
+      "شاهد مجموعة من أسماء درو المظلمة والأنيقة والمثيرة للذكريات تظهر.",
+      "قم بالتمرير عبر القائمة المظللة واشعر بقوة أندردارك!",
+      "هل وجدت اسمًا يهمس بالأسرار لروحك؟ انسخه!",
+      "الآن، أطلق العنان لإبداعك الدرو في عالم الخيال الخاص بك باسمه المناسب تمامًا!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' para invocar nombres desde el abismo.",
+      "Observa cómo aparece una variedad de nombres Drow oscuros, elegantes y evocadores.",
+      "¡Desplázate por la lista sombría y siente el poder de la Infraoscuridad!",
+      "¿Encontraste un nombre que susurra secretos a tu alma? ¡Cópialo!",
+      "¡Ahora, libera tu creación Drow en tu mundo de fantasía con su nombre perfectamente adecuado!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' pour invoquer des noms depuis l'abîme.",
+      "Soyez témoin de l'apparition d'un éventail de noms Drows sombres, élégants et évocateurs.",
+      "Parcourez la liste ténébreuse et ressentez la puissance de l'Outreterre !",
+      "Vous avez trouvé un nom qui murmure des secrets à votre âme ? Copiez-le !",
+      "Maintenant, libérez votre création Drow sur votre monde fantastique avec son nom parfaitement adapté !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮，从深渊中召唤名字。",
+      "见证一系列黑暗、优雅、引人遐想的卓尔名字出现。",
+      "滚动浏览阴影列表，感受幽暗地域的力量！",
+      "找到一个向你灵魂低语秘密的名字了吗？复制它！",
+      "现在，用它完美契合的名字，将你创造的卓尔释放在你的幻想世界中！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、深淵から名前を召喚します。",
+      "暗く、エレガントで、喚起的なドラウの名前の配列が現れるのを目撃してください。",
+      "影のリストをスクロールして、アンダーダークの力を感じてください！",
+      "あなたの魂に秘密をささやく名前を見つけましたか？コピーしましょう！",
+      "さあ、あなたのドラウの創造物を、完璧にフィットする名前でファンタジーの世界に解き放ちましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' para invocar nomes do abismo.",
+      "Testemunhe uma variedade de nomes Drow sombrios, elegantes e evocativos aparecerem.",
+      "Role pela lista sombria e sinta o poder do Subterrâneo!",
+      "Encontrou um nome que sussurra segredos para sua alma? Copie-o!",
+      "Agora, liberte sua criação Drow em seu mundo de fantasia com seu nome perfeitamente adequado!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Создать', чтобы вызвать имена из бездны.",
+      "Станьте свидетелем появления множества темных, элегантных и вызывающих воспоминания имен Дроу.",
+      "Пролистайте сумрачный список и почувствуйте силу Подземья!",
+      "Нашли имя, которое шепчет секреты вашей душе? Скопируйте его!",
+      "Теперь выпустите свое творение-дроу в ваш фэнтезийный мир с его идеально подходящим именем!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Drow Name Generator really free?",
+        "ar": "هل مولد أسماء درو هذا مجاني حقًا؟",
+        "es": "¿Este Generador de Nombres Drow es realmente gratis?",
+        "fr": "Ce Générateur de Noms Drows est-il vraiment gratuit ?",
+        "zh-cn": "这个卓尔名称生成器真的是免费的吗？",
+        "ja": "このドラウ名ジェネレーターは本当に無料ですか？",
+        "pt": "Este Gerador de Nomes Drow é realmente gratuito?",
+        "ru": "Этот Генератор Имен Дроу действительно бесплатный?"
+      },
+      "answer": {
+        "en": "Absolutely! We believe every adventurer deserves an authentic Drow name without spending a single gold piece. Generate as many names as you need!",
+        "ar": "بالتأكيد! نحن نؤمن بأن كل مغامر يستحق اسم درو أصيلًا دون إنفاق قطعة ذهبية واحدة. قم بإنشاء أكبر عدد تريده من الأسماء!",
+        "es": "¡Absolutamente! Creemos que todo aventurero merece un nombre Drow auténtico sin gastar una sola pieza de oro. ¡Genera tantos nombres como necesites!",
+        "fr": "Absolument ! Nous pensons que chaque aventurier mérite un nom Drow authentique sans dépenser une seule pièce d'or. Générez autant de noms que nécessaire !",
+        "zh-cn": "当然！我们相信每个冒险者都应该拥有一个真实的卓尔名字，而无需花费一枚金币。您可以根据需要生成任意数量的名字！",
+        "ja": "もちろんです！すべての冒険者が金貨一枚も費やすことなく、本物のドラウの名前を得る権利があると信じています。必要なだけ名前を生成してください！",
+        "pt": "Absolutamente! Acreditamos que todo aventureiro merece um nome Drow autêntico sem gastar uma única peça de ouro. Gere quantos nomes precisar!",
+        "ru": "Абсолютно! Мы считаем, что каждый искатель приключений заслуживает подлинное имя Дроу, не тратя ни единой золотой монеты. Генерируйте столько имен, сколько вам нужно!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my RPG character or story?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لشخصية لعب الأدوار أو قصتي؟",
+        "es": "¿Puedo usar estos nombres para mi personaje de rol o historia?",
+        "fr": "Puis-je utiliser ces noms pour mon personnage de JDR ou mon histoire ?",
+        "zh-cn": "我可以将这些名称用于我的 RPG 角色或故事吗？",
+        "ja": "これらの名前を私のRPGキャラクターや物語に使用できますか？",
+        "pt": "Posso usar esses nomes para meu personagem de RPG ou história?",
+        "ru": "Могу ли я использовать эти имена для моего персонажа RPG или истории?"
+      },
+      "answer": {
+        "en": "Yes, these names are perfect for personal use in your tabletop games, stories, or online roleplaying! However, be mindful if using them commercially or within specific established universes (like Forgotten Realms), as some names or concepts might have existing lore or IP considerations. Always check specific usage rights for your project.",
+        "ar": "نعم، هذه الأسماء مثالية للاستخدام الشخصي في ألعاب الطاولة أو القصص أو لعب الأدوار عبر الإنترنت! ومع ذلك، كن حذرًا إذا كنت تستخدمها تجاريًا أو ضمن عوالم محددة (مثل Forgotten Realms)، حيث قد يكون لبعض الأسماء أو المفاهيم اعتبارات تتعلق بالتقاليد الحالية أو الملكية الفكرية. تحقق دائمًا من حقوق الاستخدام المحددة لمشروعك.",
+        "es": "¡Sí, estos nombres son perfectos para uso personal en tus juegos de mesa, historias o rol en línea! Sin embargo, ten cuidado si los usas comercialmente o dentro de universos específicos establecidos (como los Reinos Olvidados), ya que algunos nombres o conceptos pueden tener consideraciones de lore existente o propiedad intelectual. Siempre verifica los derechos de uso específicos para tu proyecto.",
+        "fr": "Oui, ces noms sont parfaits pour un usage personnel dans vos jeux de rôle sur table, vos histoires ou vos jeux de rôle en ligne ! Cependant, soyez prudent si vous les utilisez à des fins commerciales ou dans des univers spécifiques établis (comme les Royaumes Oubliés), car certains noms ou concepts peuvent avoir des considérations de lore existant ou de propriété intellectuelle. Vérifiez toujours les droits d'utilisation spécifiques pour votre projet.",
+        "zh-cn": "是的，这些名字非常适合在您的桌面游戏、故事或在线角色扮演中个人使用！但是，如果在商业上或在特定的既定宇宙（如被遗忘的国度）中使用它们，请注意，因为某些名称或概念可能存在现有的传说或知识产权考虑。请始终检查您项目的特定使用权。",
+        "ja": "はい、これらの名前はテーブルトークRPG、物語、またはオンラインロールプレイングでの個人使用に最適です！ただし、商業的に使用する場合や特定の確立された世界観（フォーゴトン・レルムなど）内で使用する場合は注意が必要です。一部の名前や概念には既存の伝承やIPに関する考慮事項がある場合があります。プロジェクトの特定の利用権を常に確認してください。",
+        "pt": "Sim, esses nomes são perfeitos para uso pessoal em seus jogos de mesa, histórias ou roleplaying online! No entanto, esteja atento ao usá-los comercialmente ou dentro de universos específicos estabelecidos (como Forgotten Realms), pois alguns nomes ou conceitos podem ter lore existente ou considerações de PI. Sempre verifique os direitos de uso específicos para o seu projeto.",
+        "ru": "Да, эти имена идеально подходят для личного использования в ваших настольных играх, рассказах или онлайн-ролевых играх! Однако будьте внимательны при коммерческом использовании или в рамках конкретных установленных вселенных (например, Забытые Королевства), так как некоторые имена или концепции могут иметь существующие лорные или IP-соображения. Всегда проверяйте конкретные права использования для вашего проекта."
+      }
+    },
+    {
+      "question": {
+        "en": "How many Drow names can I generate?",
+        "ar": "كم عدد أسماء درو التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres Drow puedo generar?",
+        "fr": "Combien de noms Drows puis-je générer ?",
+        "zh-cn": "我可以生成多少个卓尔名称？",
+        "ja": "いくつのドラウ名を生成できますか？",
+        "pt": "Quantos nomes Drow posso gerar?",
+        "ru": "Сколько имен Дроу я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "The shadows hold infinite possibilities! There's no limit. Keep clicking 'Generate' until the perfect Drow name reveals itself from the darkness.",
+        "ar": "الظلال تحمل إمكانيات لا حصر لها! لا يوجد حد. استمر في النقر على 'إنشاء' حتى يكشف اسم درو المثالي عن نفسه من الظلام.",
+        "es": "¡Las sombras albergan infinitas posibilidades! No hay límite. Sigue haciendo clic en 'Generar' hasta que el nombre Drow perfecto se revele desde la oscuridad.",
+        "fr": "Les ombres recèlent des possibilités infinies ! Il n'y a pas de limite. Continuez à cliquer sur 'Générer' jusqu'à ce que le nom Drow parfait se révèle depuis les ténèbres.",
+        "zh-cn": "阴影拥有无限的可能性！没有限制。继续点击“生成”，直到完美的卓尔名字从黑暗中显现出来。",
+        "ja": "影は無限の可能性を秘めています！制限はありません。完璧なドラウの名前が闇から現れるまで、「生成」をクリックし続けてください。",
+        "pt": "As sombras guardam infinitas possibilidades! Não há limite. Continue clicando em 'Gerar' até que o nome Drow perfeito se revele das trevas.",
+        "ru": "Тени хранят бесконечные возможности! Ограничений нет. Продолжайте нажимать 'Создать', пока идеальное имя Дроу не явится из тьмы."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names authentic-sounding?",
+        "ar": "هل الأسماء التي تم إنشاؤها تبدو أصيلة؟",
+        "es": "¿Los nombres generados suenan auténticos?",
+        "fr": "Les noms générés ont-ils un son authentique ?",
+        "zh-cn": "生成的名称听起来真实吗？",
+        "ja": "生成された名前は本物らしく聞こえますか？",
+        "pt": "Os nomes gerados soam autênticos?",
+        "ru": "Звучат ли сгенерированные имена аутентично?"
+      },
+      "answer": {
+        "en": "We've meticulously crafted the generator based on established Drow naming conventions from popular fantasy lore, aiming for that signature blend of elegance, harshness, and mystery. While they are generated, they are designed to *feel* authentic for the Drow aesthetic. Find one that resonates with your vision!",
+        "ar": "لقد صممنا المولد بدقة بناءً على اصطلاحات تسمية درو الراسخة من تقاليد الخيال الشائعة، بهدف تحقيق هذا المزيج المميز من الأناقة والقسوة والغموض. على الرغم من أنها مولدة، إلا أنها مصممة لتبدو أصيلة لجمالية درو. ابحث عن اسم يتردد صداه مع رؤيتك!",
+        "es": "Hemos elaborado meticulosamente el generador basándonos en las convenciones de nombres Drow establecidas en la tradición popular de fantasía, buscando esa mezcla característica de elegancia, dureza y misterio. Aunque son generados, están diseñados para *sentirse* auténticos para la estética Drow. ¡Encuentra uno que resuene con tu visión!",
+        "fr": "Nous avons méticuleusement conçu le générateur en nous basant sur les conventions de dénomination Drow établies dans le lore fantastique populaire, visant ce mélange signature d'élégance, de dureté et de mystère. Bien qu'ils soient générés, ils sont conçus pour *sembler* authentiques à l'esthétique Drow. Trouvez celui qui résonne avec votre vision !",
+        "zh-cn": "我们根据流行的奇幻传说中既定的卓尔命名惯例精心制作了生成器，旨在实现那种优雅、严酷和神秘的标志性融合。虽然它们是生成的，但它们被设计成*感觉*符合卓尔的美学。找到一个与您的构想产生共鸣的名字吧！",
+        "ja": "私たちは、人気のファンタジー伝承における確立されたドラウの命名規則に基づいてジェネレーターを細心の注意を払って作成し、優雅さ、厳しさ、神秘性の特徴的なブレンドを目指しました。これらは生成されますが、ドラウの美学にとって本物であると*感じる*ように設計されています。あなたのビジョンに共鳴するものを見つけてください！",
+        "pt": "Criamos meticulosamente o gerador com base nas convenções de nomenclatura Drow estabelecidas na lore popular de fantasia, visando aquela mistura característica de elegância, aspereza e mistério. Embora sejam gerados, eles são projetados para *parecer* autênticos para a estética Drow. Encontre um que ressoe com sua visão!",
+        "ru": "Мы тщательно разработали генератор на основе установленных конвенций именования Дроу из популярного фэнтезийного лора, стремясь к фирменному сочетанию элегантности, суровости и тайны. Хотя они сгенерированы, они разработаны так, чтобы *ощущаться* аутентичными для эстетики Дроу. Найдите тот, который резонирует с вашим видением!"
+      }
+    },
+    {
+      "question": {
+        "en": "Will using a generated name make my Drow character instantly cool?",
+        "ar": "هل استخدام اسم تم إنشاؤه سيجعل شخصية درو الخاصة بي رائعة على الفور؟",
+        "es": "¿Usar un nombre generado hará que mi personaje Drow sea genial al instante?",
+        "fr": "L'utilisation d'un nom généré rendra-t-elle mon personnage Drow instantanément cool ?",
+        "zh-cn": "使用生成的名称会让我的卓尔角色立刻变酷吗？",
+        "ja": "生成された名前を使用すると、私のドラウキャラクターはすぐにクールになりますか？",
+        "pt": "Usar um nome gerado tornará meu personagem Drow instantaneamente legal?",
+        "ru": "Сделает ли использование сгенерированного имени моего персонажа-дроу мгновенно крутым?"
+      },
+      "answer": {
+        "en": "A great name is a fantastic start and sets the tone! It adds flavor and depth. However, true character coolness comes from your roleplaying, backstory, and actions within the game or story. Think of the name as the perfect dark cloak – you still need to embody the Drow beneath it!",
+        "ar": "الاسم الرائع هو بداية رائعة ويحدد النغمة! يضيف نكهة وعمقًا. ومع ذلك، فإن روعة الشخصية الحقيقية تأتي من لعب الأدوار والخلفية الدرامية والأفعال داخل اللعبة أو القصة. فكر في الاسم على أنه العباءة المظلمة المثالية - ما زلت بحاجة إلى تجسيد الدرو تحتها!",
+        "es": "¡Un gran nombre es un comienzo fantástico y marca el tono! Añade sabor y profundidad. Sin embargo, la verdadera genialidad del personaje proviene de tu interpretación, trasfondo y acciones dentro del juego o la historia. ¡Piensa en el nombre como la capa oscura perfecta – todavía necesitas encarnar al Drow que hay debajo!",
+        "fr": "Un grand nom est un début fantastique et donne le ton ! Il ajoute de la saveur et de la profondeur. Cependant, la vraie classe du personnage vient de votre interprétation, de son histoire et de ses actions dans le jeu ou l'histoire. Pensez au nom comme à la cape sombre parfaite – vous devez toujours incarner le Drow qui se trouve dessous !",
+        "zh-cn": "一个好名字是一个绝佳的开始，并奠定了基调！它增添了风味和深度。然而，角色真正的酷炫来自于你的角色扮演、背景故事以及在游戏或故事中的行动。把名字想象成完美的黑暗斗篷——你仍然需要体现其下的卓尔！",
+        "ja": "素晴らしい名前は素晴らしいスタートであり、トーンを設定します！それは風味と深みを加えます。しかし、真のキャラクターのクールさは、あなたのロールプレイング、バックストーリー、そしてゲームや物語の中での行動から生まれます。名前を完璧なダーククロークと考えてください – あなたはその下にいるドラウを体現する必要があります！",
+        "pt": "Um ótimo nome é um começo fantástico e define o tom! Ele adiciona sabor e profundidade. No entanto, a verdadeira 'legalidade' do personagem vem do seu roleplaying, história de fundo e ações dentro do jogo ou história. Pense no nome como a capa escura perfeita – você ainda precisa incorporar o Drow por baixo dela!",
+        "ru": "Отличное имя — это фантастическое начало, задающее тон! Оно добавляет колорит и глубину. Однако настоящая крутость персонажа исходит из вашей ролевой игры, предыстории и действий в игре или истории. Думайте об имени как об идеальном темном плаще — вам все еще нужно воплощать Дроу под ним!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest Drow name elements or patterns?",
+        "ar": "هل يمكنني اقتراح عناصر أو أنماط لأسماء درو؟",
+        "es": "¿Puedo sugerir elementos o patrones de nombres Drow?",
+        "fr": "Puis-je suggérer des éléments ou des motifs de noms Drows ?",
+        "zh-cn": "我可以建议卓尔名称的元素或模式吗？",
+        "ja": "ドラウ名の要素やパターンを提案できますか？",
+        "pt": "Posso sugerir elementos ou padrões de nomes Drow?",
+        "ru": "Могу ли я предложить элементы или шаблоны имен Дроу?"
+      },
+      "answer": {
+        "en": "We welcome insights from fellow Underdark explorers! If you have ideas for syllables, structures, or meanings that would enhance the generator, please share them via our feedback channels. Your contribution might help shape future dark creations!",
+        "ar": "نرحب بالأفكار من زملائنا مستكشفي أندردارك! إذا كانت لديك أفكار للمقاطع أو الهياكل أو المعاني التي من شأنها تحسين المولد، فيرجى مشاركتها عبر قنوات التعليقات الخاصة بنا. قد تساعد مساهمتك في تشكيل إبداعات مظلمة مستقبلية!",
+        "es": "¡Agradecemos las ideas de otros exploradores de la Infraoscuridad! Si tienes ideas de sílabas, estructuras o significados que mejorarían el generador, compártelas a través de nuestros canales de comentarios. ¡Tu contribución podría ayudar a dar forma a futuras creaciones oscuras!",
+        "fr": "Nous accueillons volontiers les idées des autres explorateurs de l'Outreterre ! Si vous avez des idées de syllabes, de structures ou de significations qui pourraient améliorer le générateur, veuillez les partager via nos canaux de commentaires. Votre contribution pourrait aider à façonner de futures créations sombres !",
+        "zh-cn": "我们欢迎来自幽暗地域探险家同伴的见解！如果您有可以增强生成器的音节、结构或含义的想法，请通过我们的反馈渠道分享。您的贡献可能有助于塑造未来的黑暗创作！",
+        "ja": "アンダーダークの探検家仲間からの洞察を歓迎します！ジェネレーターを強化するような音節、構造、または意味に関するアイデアがあれば、フィードバックチャネルを通じて共有してください。あなたの貢献が将来の闇の創造物を形作るのに役立つかもしれません！",
+        "pt": "Agradecemos insights de outros exploradores do Subterrâneo! Se você tiver ideias de sílabas, estruturas ou significados que melhorariam o gerador, compartilhe-os através de nossos canais de feedback. Sua contribuição pode ajudar a moldar futuras criações sombrias!",
+        "ru": "Мы приветствуем идеи от товарищей-исследователей Подземья! Если у вас есть идеи слогов, структур или значений, которые улучшили бы генератор, пожалуйста, поделитесь ими через наши каналы обратной связи. Ваш вклад может помочь сформировать будущие темные творения!"
+      }
+    }
+  ]
+}

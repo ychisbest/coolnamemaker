@@ -1,0 +1,236 @@
+{
+  "name": {
+    "en": "Wu-Tang Name Generator",
+    "ar": "مولد أسماء وو-تانج",
+    "es": "Generador de Nombres Wu-Tang",
+    "fr": "Générateur de Noms Wu-Tang",
+    "zh-cn": "武当派名称生成器",
+    "ja": "ウータン・クラン ネームジェネレーター",
+    "pt": "Gerador de Nomes Wu-Tang",
+    "ru": "Генератор Имен Wu-Tang"
+  },
+  "description": {
+    "en": "Enter the 36 Chambers of naming! Need a legendary alias worthy of the Wu-Tang Clan? Our Wu-Tang Name Generator crafts powerful, mystical, and unforgettable names. Protect ya neck and find your inner Shaolin warrior name!",
+    "ar": "ادخل غرف التسمية الـ 36! هل تحتاج إلى اسم مستعار أسطوري يليق بـ وو-تانج كلان؟ مولد أسماء وو-تانج لدينا يصنع أسماء قوية وغامضة لا تُنسى. احمِ رقبتك واعثر على اسم محارب الشاولين بداخلك!",
+    "es": "¡Entra en las 36 Cámaras de la nominación! ¿Necesitas un alias legendario digno del Wu-Tang Clan? Nuestro Generador de Nombres Wu-Tang crea nombres poderosos, místicos e inolvidables. ¡Protege tu cuello y encuentra tu nombre de guerrero Shaolin interior!",
+    "fr": "Entrez dans les 36 Chambres des noms ! Besoin d'un alias légendaire digne du Wu-Tang Clan ? Notre Générateur de Noms Wu-Tang crée des noms puissants, mystiques et inoubliables. Protégez votre cou et trouvez votre nom de guerrier Shaolin intérieur !",
+    "zh-cn": "进入命名的三十六房！需要一个配得上武当派的传奇别名吗？我们的武当派名称生成器能创造强大、神秘且令人难忘的名字。保护好你的脖子，找到你内心的少林武士之名！",
+    "ja": "名前の三十六房へようこそ！ウータン・クランにふさわしい伝説的な別名が必要ですか？当社のウータン・クラン ネームジェネレーターは、パワフルで神秘的、そして忘れられない名前を作り出します。首を守り、内なる少林寺の戦士の名前を見つけましょう！",
+    "pt": "Entre nas 36 Câmaras da nomeação! Precisa de um apelido lendário digno do Wu-Tang Clan? Nosso Gerador de Nomes Wu-Tang cria nomes poderosos, místicos e inesquecíveis. Proteja seu pescoço e encontre seu nome de guerreiro Shaolin interior!",
+    "ru": "Войдите в 36 Комнат именования! Нужен легендарный псевдоним, достойный Wu-Tang Clan? Наш Генератор Имен Wu-Tang создает мощные, мистические и незабываемые имена. Защити свою шею и найди свое внутреннее имя воина Шаолиня!"
+  },
+  "slug": "wu-tang-name-generator",
+  "prompt": {
+    "en": "Generate a Wu-Tang name",
+    "ar": "قم بإنشاء اسم وو-تانج",
+    "es": "Generar un nombre Wu-Tang",
+    "fr": "Générer un nom Wu-Tang",
+    "zh-cn": "生成一个武当派名称",
+    "ja": "ウータン・クランの名前を生成する",
+    "pt": "Gerar um nome Wu-Tang",
+    "ru": "Сгенерировать имя Wu-Tang"
+  },
+  "icon": "🥷",
+  "introduction": {
+    "en": "Forget your government name. This generator is your key to the Wu-Tang universe, forging an identity steeped in lyrical kung-fu and Shaolin wisdom. Whether you're spitting rhymes, dominating online games, or just need a killer nickname, discover the raw power of a true Wu-Tang alias. Prepare for enlightenment (and a seriously cool name).",
+    "ar": "انس اسمك الحكومي. هذا المولد هو مفتاحك لعالم وو-تانج، لصياغة هوية غارقة في كونغ فو الكلمات وحكمة الشاولين. سواء كنت تلقي القوافي، أو تهيمن على الألعاب عبر الإنترنت، أو تحتاج فقط إلى لقب قاتل، اكتشف القوة الخام لاسم وو-تانج المستعار الحقيقي. استعد للتنوير (واسم رائع جدًا).",
+    "es": "Olvida tu nombre de pila. Este generador es tu llave al universo Wu-Tang, forjando una identidad impregnada de kung-fu lírico y sabiduría Shaolin. Ya sea que estés soltando rimas, dominando juegos en línea o simplemente necesites un apodo genial, descubre el poder crudo de un verdadero alias Wu-Tang. Prepárate para la iluminación (y un nombre realmente genial).",
+    "fr": "Oubliez votre nom officiel. Ce générateur est votre clé pour l'univers Wu-Tang, forgeant une identité imprégnée de kung-fu lyrique et de sagesse Shaolin. Que vous crachiez des rimes, dominiez les jeux en ligne ou ayez simplement besoin d'un surnom qui tue, découvrez la puissance brute d'un véritable alias Wu-Tang. Préparez-vous à l'illumination (et à un nom vraiment cool).",
+    "zh-cn": "忘掉你的本名。这个生成器是你通往武当宇宙的钥匙，锻造一个沉浸在歌词功夫和少林智慧中的身份。无论你是在说唱、称霸在线游戏，还是只需要一个超酷的绰号，都能发现真正武当别名的原始力量。准备好迎接启迪（以及一个非常酷的名字）吧。",
+    "ja": "本名は忘れましょう。このジェネレーターはウータン・ユニバースへの鍵であり、リリカルなカンフーと少林寺の知恵に満ちたアイデンティティを築き上げます。あなたが韻を踏んでいるときも、オンラインゲームを支配しているときも、あるいは単にキラーなニックネームが必要なときも、真のウータン・エイリアスの生の力を発見してください。悟り（そして真剣にクールな名前）に備えましょう。",
+    "pt": "Esqueça seu nome de batismo. Este gerador é sua chave para o universo Wu-Tang, forjando uma identidade imersa no kung-fu lírico e na sabedoria Shaolin. Esteja você cuspindo rimas, dominando jogos online ou apenas precisando de um apelido matador, descubra o poder bruto de um verdadeiro pseudônimo Wu-Tang. Prepare-se para a iluminação (e um nome muito legal).",
+    "ru": "Забудьте свое официальное имя. Этот генератор - ваш ключ во вселенную Wu-Tang, создающий личность, пропитанную лирическим кунг-фу и мудростью Шаолиня. Независимо от того, читаете ли вы рэп, доминируете в онлайн-играх или просто нуждаетесь в убойном никнейме, откройте для себя сырую силу настоящего псевдонима Wu-Tang. Приготовьтесь к просветлению (и серьезно крутому имени)."
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button like you're dropping a dope beat.",
+      "Witness the wisdom: A Wu-Tang inspired name appears.",
+      "Meditate on the possibilities. Is this The One?",
+      "Found your killer alias? Copy it, master.",
+      "Now go forth, represent the Clan, and bring the ruckus!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' كأنك تسقط إيقاعًا رائعًا.",
+      "شاهد الحكمة: يظهر اسم مستوحى من وو-تانج.",
+      "تأمل في الاحتمالات. هل هذا هو الاسم؟",
+      "هل وجدت اسمك المستعار القاتل؟ انسخه يا معلم.",
+      "الآن انطلق، مثّل الكلان، وأحدث الضجة!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' como si estuvieras soltando un ritmo increíble.",
+      "Observa la sabiduría: Aparece un nombre inspirado en Wu-Tang.",
+      "Medita sobre las posibilidades. ¿Es este El Elegido?",
+      "¿Encontraste tu alias mortal? Cópialo, maestro.",
+      "¡Ahora ve, representa al Clan y arma alboroto!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' comme si vous lâchiez un beat de malade.",
+      "Contemplez la sagesse : Un nom inspiré du Wu-Tang apparaît.",
+      "Méditez sur les possibilités. Est-ce Le Bon ?",
+      "Vous avez trouvé votre alias de tueur ? Copiez-le, maître.",
+      "Maintenant, allez de l'avant, représentez le Clan et mettez le désordre !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮，就像你在投放一个超棒的节拍。",
+      "见证智慧：一个受武当启发的名称出现了。",
+      "沉思各种可能性。这就是那个名字吗？",
+      "找到你的杀手别名了吗？复制它，大师。",
+      "现在前进，代表氏族，带来骚动！"
+    ],
+    "ja": [
+      "ドープなビートをドロップするように「生成」ボタンをクリックします。",
+      "知恵を目撃せよ：ウータンにインスパイアされた名前が現れます。",
+      "可能性について瞑想してください。これが「その名前」ですか？",
+      "キラーエイリアスを見つけましたか？コピーしてください、マスター。",
+      "さあ、前進し、クランを代表し、騒ぎを起こしましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' como se estivesse soltando uma batida incrível.",
+      "Testemunhe a sabedoria: Um nome inspirado no Wu-Tang aparece.",
+      "Medite sobre as possibilities. É este O Escolhido?",
+      "Encontrou seu apelido matador? Copie-o, mestre.",
+      "Agora vá em frente, represente o Clã e cause alvoroço!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Создать', как будто вы запускаете крутой бит.",
+      "Узрите мудрость: Появляется имя в духе Wu-Tang.",
+      "Помедитируйте над возможностями. Это То Самое Имя?",
+      "Нашли свой убойный псевдоним? Скопируйте его, мастер.",
+      "Теперь идите, представляйте Клан и наводите шороху!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Wu-Tang Name Generator free like the knowledge of Shaolin?",
+        "ar": "هل مولد أسماء وو-تانج هذا مجاني مثل معرفة الشاولين؟",
+        "es": "¿Este Generador de Nombres Wu-Tang es gratuito como el conocimiento de Shaolin?",
+        "fr": "Ce Générateur de Noms Wu-Tang est-il gratuit comme la connaissance de Shaolin ?",
+        "zh-cn": "这个武当派名称生成器像少林知识一样免费吗？",
+        "ja": "このウータン・クラン ネームジェネレーターは少林寺の知識のように無料ですか？",
+        "pt": "Este Gerador de Nomes Wu-Tang é gratuito como o conhecimento de Shaolin?",
+        "ru": "Этот Генератор Имен Wu-Tang бесплатен, как знание Шаолиня?"
+      },
+      "answer": {
+        "en": "For the children! Yes, it's absolutely free. We believe every aspiring MC, gamer, or fan deserves a legendary Wu-Tang style name. Generate endlessly!",
+        "ar": "من أجل الأطفال! نعم، إنه مجاني تمامًا. نحن نؤمن بأن كل إم سي طموح، أو لاعب، أو معجب يستحق اسمًا أسطوريًا بأسلوب وو-تانج. قم بالإنشاء بلا نهاية!",
+        "es": "¡Para los niños! Sí, es absolutely gratis. Creemos que todo aspirante a MC, jugador o fanático merece un nombre legendario al estilo Wu-Tang. ¡Genera sin fin!",
+        "fr": "Pour les enfants ! Oui, c'est absolument gratuit. Nous pensons que chaque aspirant MC, joueur ou fan mérite un nom légendaire de style Wu-Tang. Générez à l'infini !",
+        "zh-cn": "为了孩子们！是的，完全免费。我们相信每个有抱负的MC、玩家或粉丝都应该拥有一个传奇的武当风格名称。无限生成！",
+        "ja": "子供たちのために！はい、完全に無料です。すべての意欲的なMC、ゲーマー、またはファンは、伝説的なウータンスタイルの名前を持つに値すると信じています。無限に生成してください！",
+        "pt": "Pelas crianças! Sim, é absolutamente gratuito. Acreditamos que todo aspirante a MC, jogador ou fã merece um nome lendário no estilo Wu-Tang. Gere infinitamente!",
+        "ru": "Для детей! Да, абсолютно бесплатно. Мы верим, что каждый начинающий MC, геймер или фанат заслуживает легендарное имя в стиле Wu-Tang. Генерируйте бесконечно!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use this name for my rap career or mixtape? Is it RZA approved?",
+        "ar": "هل يمكنني استخدام هذا الاسم لمسيرتي في الراب أو الميكستايب؟ هل هو معتمد من RZA؟",
+        "es": "¿Puedo usar este nombre para mi carrera de rap o mi mixtape? ¿Está aprobado por RZA?",
+        "fr": "Puis-je utiliser ce nom pour ma carrière de rap ou ma mixtape ? Est-il approuvé par RZA ?",
+        "zh-cn": "我可以将这个名字用于我的说唱事业或混音带吗？它得到RZA的批准了吗？",
+        "ja": "この名前をラップキャリアやミックステープに使用できますか？RZAの承認は得ていますか？",
+        "pt": "Posso usar este nome para minha carreira de rap ou mixtape? É aprovado pelo RZA?",
+        "ru": "Могу ли я использовать это имя для своей рэп-карьеры или микстейпа? Одобрено ли оно RZA?"
+      },
+      "answer": {
+        "en": "The names are generated for fun! While awesome, we can't guarantee they're unique or trademark-free. As for RZA's approval, you might need to consult the Abbot himself. Always check legal stuff before commercial use.",
+        "ar": "الأسماء تم إنشاؤها للمتعة! على الرغم من روعتها، لا يمكننا ضمان أنها فريدة أو خالية من العلامات التجارية. أما بالنسبة لموافقة RZA، فقد تحتاج إلى استشارة الأباتي نفسه. تحقق دائمًا من الأمور القانونية قبل الاستخدام التجاري.",
+        "es": "¡Los nombres se generan por diversión! Aunque son geniales, no podemos garantizar que sean únicos o libres de marcas registradas. En cuanto a la aprobación de RZA, es posible que necesites consultar al propio Abbot. Siempre verifica los aspectos legales antes del uso comercial.",
+        "fr": "Les noms sont générés pour le plaisir ! Bien qu'ils soient géniaux, nous ne pouvons garantir qu'ils soient uniques ou libres de droits de marque. Quant à l'approbation de RZA, vous devrez peut-être consulter l'Abbé lui-même. Vérifiez toujours les aspects légaux avant une utilisation commerciale.",
+        "zh-cn": "这些名字是为了娱乐而生成的！虽然很棒，但我们不能保证它们是独一无二或没有商标的。至于RZA的批准，你可能需要咨询方丈本人。在商业使用前务必检查法律事宜。",
+        "ja": "名前は楽しみのために生成されます！素晴らしいものですが、ユニークであることや商標フリーであることを保証することはできません。RZAの承認については、アボット本人に相談する必要があるかもしれません。商業利用の前に必ず法的な事項を確認してください。",
+        "pt": "Os nomes são gerados por diversão! Embora incríveis, não podemos garantir que sejam únicos ou livres de marcas registradas. Quanto à aprovação do RZA, talvez você precise consultar o próprio Abbot. Sempre verifique questões legais antes do uso comercial.",
+        "ru": "Имена генерируются для развлечения! Хотя они и потрясающие, мы не можем гарантировать, что они уникальны или свободны от товарных знаков. Что касается одобрения RZA, вам, возможно, придется проконсультироваться с самим Аббатом. Всегда проверяйте юридические вопросы перед коммерческим использованием."
+      }
+    },
+    {
+      "question": {
+        "en": "How many Wu-Tang names can I generate? Enough to form my own Clan?",
+        "ar": "كم عدد أسماء وو-تانج التي يمكنني إنشاؤها؟ هل يكفي لتشكيل كلان خاص بي؟",
+        "es": "¿Cuántos nombres Wu-Tang puedo generar? ¿Suficientes para formar mi propio Clan?",
+        "fr": "Combien de noms Wu-Tang puis-je générer ? Assez pour former mon propre Clan ?",
+        "zh-cn": "我可以生成多少个武当派名称？足够组建我自己的氏族吗？",
+        "ja": "いくつのウータン・クランの名前を生成できますか？自分のクランを結成するのに十分ですか？",
+        "pt": "Quantos nomes Wu-Tang posso gerar? O suficiente para formar meu próprio Clã?",
+        "ru": "Сколько имен Wu-Tang я могу сгенерировать? Достаточно, чтобы основать свой собственный Клан?"
+      },
+      "answer": {
+        "en": "The chamber is infinite! Generate as many names as you need to assemble your crew. Click until your Wu-Tang dynasty is complete!",
+        "ar": "الغرفة لا نهائية! قم بإنشاء أكبر عدد ممكن من الأسماء التي تحتاجها لتجميع طاقمك. انقر حتى تكتمل سلالة وو-تانج الخاصة بك!",
+        "es": "¡La cámara es infinita! Genera tantos nombres como necesites para reunir a tu equipo. ¡Haz clic hasta que tu dinastía Wu-Tang esté completa!",
+        "fr": "La chambre est infinie ! Générez autant de noms que nécessaire pour assembler votre équipe. Cliquez jusqu'à ce que votre dynastie Wu-Tang soit complète !",
+        "zh-cn": "房间是无限的！生成尽可能多的名字来组建你的团队。点击直到你的武当王朝完成！",
+        "ja": "部屋は無限です！クルーを編成するために必要なだけ名前を生成してください。あなたのウータン王朝が完成するまでクリックしてください！",
+        "pt": "A câmara é infinita! Gere quantos nomes precisar para montar sua equipe. Clique até que sua dinastia Wu-Tang esteja completa!",
+        "ru": "Комната бесконечна! Генерируйте столько имен, сколько вам нужно, чтобы собрать свою команду. Кликайте, пока ваша династия Wu-Tang не будет завершена!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are these names actually sharp like Inspectah Deck's lyrics?",
+        "ar": "هل هذه الأسماء حادة بالفعل مثل كلمات Inspectah Deck؟",
+        "es": "¿Son estos nombres realmente agudos como las letras de Inspectah Deck?",
+        "fr": "Ces noms sont-ils vraiment tranchants comme les paroles d'Inspectah Deck ?",
+        "zh-cn": "这些名字真的像Inspectah Deck的歌词一样犀利吗？",
+        "ja": "これらの名前はInspectah Deckのリリックのようにシャープですか？",
+        "pt": "Esses nomes são realmente afiados como as letras do Inspectah Deck?",
+        "ru": "Действительно ли эти имена остры, как тексты Inspectah Deck?"
+      },
+      "answer": {
+        "en": "We studied the classics! The generator combines elements inspired by the Clan members' legendary names and Shaolin lore. While taste is subjective, we aimed for authentic Wu-Tang energy. If one doesn't resonate, generate another!",
+        "ar": "لقد درسنا الكلاسيكيات! يجمع المولد بين عناصر مستوحاة من أسماء أعضاء الكلان الأسطورية وتقاليد الشاولين. بينما الذوق شخصي، هدفنا إلى طاقة وو-تانج الأصيلة. إذا لم يتردد صدى اسم ما، قم بإنشاء آخر!",
+        "es": "¡Estudiamos los clásicos! El generador combina elementos inspirados en los nombres legendarios de los miembros del Clan y la tradición Shaolin. Si bien el gusto es subjetivo, buscamos la auténtica energía Wu-Tang. Si uno no resuena, ¡genera otro!",
+        "fr": "Nous avons étudié les classiques ! Le générateur combine des éléments inspirés des noms légendaires des membres du Clan et de la tradition Shaolin. Bien que le goût soit subjectif, nous avons visé une énergie Wu-Tang authentique. Si un nom ne résonne pas, générez-en un autre !",
+        "zh-cn": "我们研究了经典！生成器结合了受氏族成员传奇名字和少林传说启发的元素。虽然品味是主观的，但我们的目标是真实的武当能量。如果某个名字没有引起共鸣，就生成另一个！",
+        "ja": "クラシックを研究しました！ジェネレーターは、クランメンバーの伝説的な名前と少林寺の伝承に触発された要素を組み合わせています。好みは主観的ですが、本物のウータン・エネルギーを目指しました。もし響かなければ、別のものを生成してください！",
+        "pt": "Estudamos os clássicos! O gerador combina elementos inspirados nos nomes lendários dos membros do Clã e na tradição Shaolin. Embora o gosto seja subjetivo, buscamos a autêntica energia Wu-Tang. Se um não ressoar, gere outro!",
+        "ru": "Мы изучили классику! Генератор сочетает элементы, вдохновленные легендарными именами членов Клана и преданиями Шаолиня. Хотя вкус субъективен, мы стремились к подлинной энергии Wu-Tang. Если одно имя не находит отклика, сгенерируйте другое!"
+      }
+    },
+    {
+      "question": {
+        "en": "Will having a dope Wu-Tang name make my rhymes C.R.E.A.M.?",
+        "ar": "هل امتلاك اسم وو-تانج رائع سيجعل قوافيّ C.R.E.A.M.؟",
+        "es": "¿Tener un nombre genial de Wu-Tang hará que mis rimas sean C.R.E.A.M.?",
+        "fr": "Avoir un nom Wu-Tang génial rendra-t-il mes rimes C.R.E.A.M. ?",
+        "zh-cn": "拥有一个超酷的武当派名字会让我的押韵变成C.R.E.A.M.吗？",
+        "ja": "ドープなウータン・クランの名前を持つことで、私のライムはC.R.E.A.M.になりますか？",
+        "pt": "Ter um nome incrível do Wu-Tang fará minhas rimas serem C.R.E.A.M.?",
+        "ru": "Сделает ли крутое имя Wu-Tang мои рифмы C.R.E.A.M.?"
+      },
+      "answer": {
+        "en": "A powerful name is a good start, like choosing your fighting style. But true mastery comes from practice, flow, and lyrical skill. The name gives you the aura; you gotta bring the ruckus yourself!",
+        "ar": "الاسم القوي هو بداية جيدة، مثل اختيار أسلوب قتالك. لكن الإتقان الحقيقي يأتي من الممارسة والتدفق والمهارة الغنائية. الاسم يمنحك الهالة؛ عليك أن تحدث الضجة بنفسك!",
+        "es": "Un nombre poderoso es un buen comienzo, como elegir tu estilo de lucha. Pero la verdadera maestría proviene de la práctica, el flow y la habilidad lírica. El nombre te da el aura; ¡tú tienes que armar el alboroto!",
+        "fr": "Un nom puissant est un bon début, comme choisir son style de combat. Mais la vraie maîtrise vient de la pratique, du flow et de l'habileté lyrique. Le nom vous donne l'aura ; c'est à vous d'apporter le tumulte !",
+        "zh-cn": "一个强大的名字是一个好的开始，就像选择你的战斗风格一样。但真正的掌握来自练习、流畅度和歌词技巧。名字给你气场；你必须自己带来骚动！",
+        "ja": "強力な名前は、戦闘スタイルを選ぶような良いスタートです。しかし、真の熟練は練習、フロー、そしてリリカルなスキルから生まれます。名前はあなたにオーラを与えます。騒ぎは自分で起こさなければなりません！",
+        "pt": "Um nome poderoso é um bom começo, como escolher seu estilo de luta. Mas a verdadeira maestria vem da prática, do fluxo e da habilidade lírica. O nome te dá a aura; você tem que trazer o alvoroço!",
+        "ru": "Мощное имя - хорошее начало, как выбор боевого стиля. Но истинное мастерство приходит с практикой, флоу и лирическим талантом. Имя дает вам ауру; вы сами должны навести шороху!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest new styles or elements for the generator, like 'Liquid Swords' style?",
+        "ar": "هل يمكنني اقتراح أنماط أو عناصر جديدة للمولد، مثل نمط 'Liquid Swords'؟",
+        "es": "¿Puedo sugerir nuevos estilos o elementos para el generador, como el estilo 'Liquid Swords'?",
+        "fr": "Puis-je suggérer de nouveaux styles ou éléments pour le générateur, comme le style 'Liquid Swords' ?",
+        "zh-cn": "我可以为生成器建议新的风格或元素吗，比如“液态剑”风格？",
+        "ja": "ジェネレーターに新しいスタイルや要素、例えば「Liquid Swords」スタイルなどを提案できますか？",
+        "pt": "Posso sugerir novos estilos ou elementos para o gerador, como o estilo 'Liquid Swords'?",
+        "ru": "Могу ли я предложить новые стили или элементы для генератора, например, в стиле 'Liquid Swords'?"
+      },
+      "answer": {
+        "en": "Word up! We're always looking to expand the Wu-niverse. Drop your ideas via our feedback form. If your suggestion has the right flavor, it might just make it into the next chamber!",
+        "ar": "بالتأكيد! نحن نبحث دائمًا عن توسيع عالم وو-تانج. أرسل أفكارك عبر نموذج التعليقات الخاص بنا. إذا كان اقتراحك له النكهة الصحيحة، فقد يصل إلى الغرفة التالية!",
+        "es": "¡Claro que sí! Siempre estamos buscando expandir el Wu-niverso. Envía tus ideas a través de nuestro formulario de comentarios. Si tu sugerencia tiene el sabor adecuado, ¡podría llegar a la próxima cámara!",
+        "fr": "Carrément ! Nous cherchons toujours à étendre le Wu-niverse. Déposez vos idées via notre formulaire de commentaires. Si votre suggestion a la bonne saveur, elle pourrait bien se retrouver dans la prochaine chambre !",
+        "zh-cn": "当然！我们一直在寻求扩展武当宇宙。通过我们的反馈表提交您的想法。如果您的建议具有正确的风味，它很可能进入下一个房间！",
+        "ja": "もちろんです！私たちは常にウーニバースを拡大しようとしています。フィードバックフォームを通じてアイデアをお寄せください。あなたの提案に適切なフレーバーがあれば、次のチャンバーに入るかもしれません！",
+        "pt": "Com certeza! Estamos sempre buscando expandir o Wu-niverso. Deixe suas ideias através do nosso formulário de feedback. Se sua sugestão tiver o sabor certo, pode chegar à próxima câmara!",
+        "ru": "Конечно! Мы всегда стремимся расширить Ву-ниверсум. Отправляйте свои идеи через нашу форму обратной связи. Если ваше предложение имеет правильный вкус, оно вполне может попасть в следующую комнату!"
+      }
+    }
+  ]
+}

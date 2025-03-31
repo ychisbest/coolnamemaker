@@ -1,0 +1,192 @@
+{
+  "name": {
+    "en": "Demon Name Generator",
+    "ar": "مولد أسماء الشياطين",
+    "es": "Generador de Nombres de Demonio",
+    "fr": "Générateur de Noms de Démon",
+    "zh-cn": "恶魔名称生成器",
+    "ja": "悪魔の名前ジェネレーター",
+    "pt": "Gerador de Nomes de Demônio",
+    "ru": "Генератор Имен Демонов"
+  },
+  "description": {
+    "en": "Unleash the darkness! Need a terrifying name for your story's villain, a powerful RPG demon lord, or just a wickedly cool alias? Our Demon Name Generator conjures names steeped in malice, ancient power, and infernal grandeur. Find the perfect appellation to strike fear into mortal hearts!",
+    "ar": "أطلق العنان للظلام! هل تحتاج إلى اسم مرعب لشرير قصتك، أو سيد شياطين قوي في لعبة تقمص أدوار، أو مجرد اسم مستعار شرير رائع؟ مولد أسماء الشياطين لدينا يستحضر أسماء مشبعة بالحقد والقوة القديمة والعظمة الجهنمية. اعثر على اللقب المثالي لزرع الخوف في قلوب البشر!",
+    "es": "¡Desata la oscuridad! ¿Necesitas un nombre aterrador para el villano de tu historia, un poderoso señor demonio de RPG o simplemente un alias malvadamente genial? Nuestro Generador de Nombres de Demonio conjura nombres imbuidos de malicia, poder antiguo y grandeza infernal. ¡Encuentra la denominación perfecta para infundir miedo en los corazones mortales!",
+    "fr": "Libérez les ténèbres ! Besoin d'un nom terrifiant pour le méchant de votre histoire, un puissant seigneur démon de JDR, ou juste un alias méchamment cool ? Notre Générateur de Noms de Démon évoque des noms imprégnés de malice, de pouvoir ancien et de grandeur infernale. Trouvez l'appellation parfaite pour semer la peur dans le cœur des mortels !",
+    "zh-cn": "释放黑暗！需要为你的故事反派、强大的RPG恶魔领主，或者只是一个邪恶酷炫的别名寻找一个可怕的名字吗？我们的恶魔名称生成器能召唤出充满恶意、古老力量和地狱般宏伟的名字。找到完美的称谓，让凡人的心中充满恐惧！",
+    "ja": "闇を解き放て！物語の悪役、強力なRPGのデーモンロード、あるいは単に邪悪でクールな別名のための恐ろしい名前が必要ですか？当サイトの悪魔の名前ジェネレーターは、悪意、古代の力、そして地獄の壮大さに満ちた名前を呼び出します。定命の者の心に恐怖を植え付ける完璧な呼称を見つけましょう！",
+    "pt": "Liberte a escuridão! Precisa de um nome aterrorizante para o vilão da sua história, um poderoso lorde demônio de RPG, ou apenas um pseudônimo perversamente legal? Nosso Gerador de Nomes de Demônio conjura nomes imersos em malícia, poder antigo e grandeza infernal. Encontre a denominação perfeita para instilar medo nos corações mortais!",
+    "ru": "Высвободите тьму! Нужно устрашающее имя для злодея вашей истории, могущественного повелителя демонов в RPG или просто дьявольски крутой псевдоним? Наш Генератор Имен Демонов создает имена, пропитанные злобой, древней силой и адским величием. Найдите идеальное имя, чтобы вселить страх в сердца смертных!"
+  },
+  "slug": "demon-name-generator",
+  "prompt": {
+    "en": "Generate a demon name",
+    "ar": "قم بإنشاء اسم شيطان",
+    "es": "Generar un nombre de demonio",
+    "fr": "Générer un nom de démon",
+    "zh-cn": "生成一个恶魔名称",
+    "ja": "悪魔の名前を生成する",
+    "pt": "Gerar um nome de demônio",
+    "ru": "Сгенерировать имя демона"
+  },
+  "icon": "😈",
+  "introduction": {
+    "en": "Step into the abyss and discover names whispered in forgotten tongues. This generator isn't just random syllables; it draws inspiration from mythology, dark fantasy, and the very essence of the infernal. Whether you seek a subtle tempter, a monstrous overlord, or a chaotic fiend, find the name that embodies true demonic power and malevolence.",
+    "ar": "ادخل إلى الهاوية واكتشف أسماء تُهمس بلغات منسية. هذا المولد ليس مجرد مقاطع عشوائية؛ إنه يستلهم من الأساطير، والخيال المظلم، وجوهر الجحيم ذاته. سواء كنت تبحث عن مُغوي ماكر، أو سيد وحشي، أو شيطان فوضوي، اعثر على الاسم الذي يجسد القوة الشيطانية الحقيقية والخبث.",
+    "es": "Adéntrate en el abismo y descubre nombres susurrados en lenguas olvidadas. Este generador no son solo sílabas aleatorias; se inspira en la mitología, la fantasía oscura y la esencia misma de lo infernal. Ya sea que busques un tentador sutil, un señor supremo monstruoso o un demonio caótico, encuentra el nombre que encarna el verdadero poder demoníaco y la malevolencia.",
+    "fr": "Entrez dans l'abîme et découvrez des noms murmurés dans des langues oubliées. Ce générateur n'est pas seulement fait de syllabes aléatoires ; il puise son inspiration dans la mythologie, la dark fantasy et l'essence même de l'infernal. Que vous cherchiez un tentateur subtil, un suzerain monstrueux ou un démon chaotique, trouvez le nom qui incarne la véritable puissance démoniaque et la malveillance.",
+    "zh-cn": "步入深渊，发现以被遗忘的语言低语的名字。这个生成器不仅仅是随机音节；它从神话、黑暗奇幻以及地狱的本质中汲取灵感。无论你是在寻找一个狡猾的诱惑者、一个庞大的霸主，还是一个混乱的恶魔，都能找到体现真正恶魔力量和恶意的名字。",
+    "ja": "深淵に足を踏み入れ、忘れられた言語で囁かれる名前を発見してください。このジェネレーターは単なるランダムな音節ではありません。神話、ダークファンタジー、そして地獄の本質そのものからインスピレーションを得ています。あなたが巧妙な誘惑者、怪物のような大君主、または混沌とした悪鬼を探しているかどうかにかかわらず、真の悪魔の力と悪意を体現する名前を見つけてください。",
+    "pt": "Entre no abismo e descubra nomes sussurrados em línguas esquecidas. Este gerador não é apenas sílabas aleatórias; ele se inspira na mitologia, na fantasia sombria e na própria essência do infernal. Quer você procure um tentador sutil, um suserano monstruoso ou um demônio caótico, encontre o nome que incorpora o verdadeiro poder demoníaco e a malevolência.",
+    "ru": "Шагните в бездну и откройте для себя имена, нашептанные на забытых языках. Этот генератор — не просто случайные слоги; он черпает вдохновение из мифологии, темного фэнтези и самой сути инфернального. Ищете ли вы утонченного искусителя, чудовищного повелителя или хаотичного изверга — найдите имя, воплощающее истинную демоническую силу и злобу."
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button to summon a name from the depths.",
+      "Behold the dark appellation presented before you.",
+      "Not sinister enough? Click again for another infernal option.",
+      "Found a name that resonates with the darkness within? Copy it!",
+      "Use your new demonic name to command fear and respect (in your fictional worlds, of course!)."
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' لاستدعاء اسم من الأعماق.",
+      "شاهد اللقب المظلم المعروض أمامك.",
+      "ليس شريراً بما فيه الكفاية؟ انقر مرة أخرى لخيار جهنمي آخر.",
+      "هل وجدت اسمًا يتردد صداه مع الظلام بداخلك؟ انسخه!",
+      "استخدم اسمك الشيطاني الجديد لفرض الخوف والاحترام (في عوالمك الخيالية، بالطبع!)."
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' para invocar un nombre desde las profundidades.",
+      "Contempla la oscura denominación presentada ante ti.",
+      "¿No es lo suficientemente siniestro? Haz clic de nuevo para otra opción infernal.",
+      "¿Encontraste un nombre que resuena con la oscuridad interior? ¡Cópialo!",
+      "¡Usa tu nuevo nombre demoníaco para infundir miedo y respeto (en tus mundos ficticios, por supuesto!)."
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' pour invoquer un nom des profondeurs.",
+      "Contemplez la sombre appellation présentée devant vous.",
+      "Pas assez sinistre ? Cliquez à nouveau pour une autre option infernale.",
+      "Vous avez trouvé un nom qui résonne avec les ténèbres intérieures ? Copiez-le !",
+      "Utilisez votre nouveau nom démoniaque pour commander la peur et le respect (dans vos mondes fictifs, bien sûr !)."
+    ],
+    "zh-cn": [
+      "点击“生成”按钮，从深渊中召唤一个名字。",
+      "注视呈现在你面前的黑暗称谓。",
+      "不够邪恶？再次点击以获取另一个地狱般的名字。",
+      "找到了一个与内心黑暗产生共鸣的名字？复制它！",
+      "使用你新的恶魔名字来命令恐惧和尊重（当然，是在你的虚构世界里！）。"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、深淵から名前を召喚します。",
+      "あなたの前に提示された暗黒の呼称をご覧ください。",
+      "十分に邪悪ではありませんか？別の地獄のオプションのために再度クリックしてください。",
+      "内なる闇と共鳴する名前を見つけましたか？コピーしましょう！",
+      "新しい悪魔の名前を使って、恐怖と尊敬を命じましょう（もちろん、あなたの架空の世界で！）。"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' para invocar um nome das profundezas.",
+      "Contemple a denominação sombria apresentada a você.",
+      "Não é sinistro o suficiente? Clique novamente para outra opção infernal.",
+      "Encontrou um nome que ressoa com a escuridão interior? Copie-o!",
+      "Use seu novo nome demoníaco para comandar medo e respeito (em seus mundos fictícios, é claro!)."
+    ],
+    "ru": [
+      "Нажмите кнопку 'Сгенерировать', чтобы призвать имя из глубин.",
+      "Узрите темное имя, представленное вам.",
+      "Недостаточно зловеще? Нажмите еще раз для другого адского варианта.",
+      "Нашли имя, которое резонирует с тьмой внутри? Скопируйте его!",
+      "Используйте ваше новое демоническое имя, чтобы внушать страх и уважение (в ваших вымышленных мирах, конечно!)."
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Are these 'real' demon names from mythology?",
+        "ar": "هل هذه أسماء شياطين 'حقيقية' من الأساطير؟",
+        "es": "¿Son estos nombres de demonios 'reales' de la mitología?",
+        "fr": "Ces noms de démons sont-ils 'réels' et issus de la mythologie ?",
+        "zh-cn": "这些是神话中“真实”的恶魔名字吗？",
+        "ja": "これらは神話に登場する「本物の」悪魔の名前ですか？",
+        "pt": "Estes são nomes 'reais' de demônios da mitologia?",
+        "ru": "Это 'настоящие' имена демонов из мифологии?"
+      },
+      "answer": {
+        "en": "Some names might be inspired by or resemble figures from various mythologies and folklore, but many are algorithmically generated for a dark, imposing sound. We don't claim historical or mythological accuracy for all names.",
+        "ar": "قد تكون بعض الأسماء مستوحاة من شخصيات من أساطير وفلكلور مختلفة أو تشبهها، ولكن يتم إنشاء العديد منها خوارزميًا للحصول على صوت مظلم ومهيب. نحن لا ندعي الدقة التاريخية أو الأسطورية لجميع الأسماء.",
+        "es": "Algunos nombres pueden estar inspirados o parecerse a figuras de diversas mitologías y folclore, pero muchos se generan algorítmicamente para obtener un sonido oscuro e imponente. No reivindicamos la precisión histórica o mitológica de todos los nombres.",
+        "fr": "Certains noms peuvent être inspirés ou ressembler à des figures de diverses mythologies et folklores, mais beaucoup sont générés de manière algorithmique pour un son sombre et imposant. Nous ne revendiquons pas l'exactitude historique ou mythologique pour tous les noms.",
+        "zh-cn": "有些名字可能受到各种神话和民间传说中人物的启发或相似，但许多名字是算法生成的，以获得黑暗、威严的音感。我们不声称所有名字都具有历史或神话准确性。",
+        "ja": "一部の名前は様々な神話や民間伝承の人物に触発されたり、似ているかもしれませんが、多くは暗く、威圧的な響きのためにアルゴリズムで生成されています。すべての名前について歴史的または神話的な正確性を主張するものではありません。",
+        "pt": "Alguns nomes podem ser inspirados ou assemelhar-se a figuras de várias mitologias e folclore, mas muitos são gerados algoritmicamente para um som sombrio e imponente. Não reivindicamos precisão histórica ou mitológica para todos os nomes.",
+        "ru": "Некоторые имена могут быть вдохновлены или напоминать фигуры из различных мифологий и фольклора, но многие генерируются алгоритмически для создания темного, внушительного звучания. Мы не претендуем на историческую или мифологическую точность всех имен."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these demon names for my book, game, or character?",
+        "ar": "هل يمكنني استخدام أسماء الشياطين هذه في كتابي أو لعبتي أو شخصيتي؟",
+        "es": "¿Puedo usar estos nombres de demonios para mi libro, juego o personaje?",
+        "fr": "Puis-je utiliser ces noms de démons pour mon livre, mon jeu ou mon personnage ?",
+        "zh-cn": "我可以将这些恶魔名称用于我的书籍、游戏或角色吗？",
+        "ja": "これらの悪魔の名前を私の本、ゲーム、またはキャラクターに使用できますか？",
+        "pt": "Posso usar esses nomes de demônios para meu livro, jogo ou personagem?",
+        "ru": "Могу ли я использовать эти имена демонов для своей книги, игры или персонажа?"
+      },
+      "answer": {
+        "en": "Absolutely! That's what they're here for. Feel free to use the generated names for your creative projects. However, we can't guarantee uniqueness or trademark availability, so do your own checks if using them commercially.",
+        "ar": "بالتأكيد! هذا هو الغرض منها. لا تتردد في استخدام الأسماء التي تم إنشاؤها لمشاريعك الإبداعية. ومع ذلك، لا يمكننا ضمان التفرد أو توفر العلامة التجارية، لذا قم بإجراء فحوصاتك الخاصة إذا كنت تستخدمها تجاريًا.",
+        "es": "¡Absolutamente! Para eso están aquí. Siéntete libre de usar los nombres generados para tus proyectos creativos. Sin embargo, no podemos garantizar la unicidad ni la disponibilidad de marcas registradas, así que haz tus propias comprobaciones si los usas comercialmente.",
+        "fr": "Absolument ! C'est pour cela qu'ils sont là. N'hésitez pas à utiliser les noms générés pour vos projets créatifs. Cependant, nous ne pouvons garantir l'unicité ou la disponibilité des marques déposées, alors effectuez vos propres vérifications si vous les utilisez commercialement.",
+        "zh-cn": "当然！这就是它们的目的。请随意将生成的名字用于您的创意项目。但是，我们不能保证其独特性或商标可用性，因此如果用于商业用途，请自行检查。",
+        "ja": "もちろんです！それがこれらの名前の目的です。生成された名前をあなたの創造的なプロジェクトに自由に使用してください。ただし、独自性や商標の利用可能性を保証することはできませんので、商業的に使用する場合はご自身で確認してください。",
+        "pt": "Absolutamente! É para isso que eles servem. Sinta-se à vontade para usar os nomes gerados em seus projetos criativos. No entanto, não podemos garantir a exclusividade ou a disponibilidade de marcas registradas, portanto, faça suas próprias verificações se for usá-los comercialmente.",
+        "ru": "Абсолютно! Для этого они и созданы. Смело используйте сгенерированные имена для своих творческих проектов. Однако мы не можем гарантировать уникальность или доступность товарного знака, поэтому проводите собственную проверку, если используете их в коммерческих целях."
+      }
+    },
+    {
+      "question": {
+        "en": "How many demon names can I generate?",
+        "ar": "كم عدد أسماء الشياطين التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres de demonios puedo generar?",
+        "fr": "Combien de noms de démons puis-je générer ?",
+        "zh-cn": "我可以生成多少个恶魔名称？",
+        "ja": "いくつの悪魔の名前を生成できますか？",
+        "pt": "Quantos nomes de demônios posso gerar?",
+        "ru": "Сколько имен демонов я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "As many as the infernal legions themselves! There's no limit. Keep clicking until the perfect dark name reveals itself to you.",
+        "ar": "بقدر عدد جحافل الجحيم نفسها! لا يوجد حد. استمر في النقر حتى يكشف لك الاسم المظلم المثالي عن نفسه.",
+        "es": "¡Tantos como las propias legiones infernales! No hay límite. Sigue haciendo clic hasta que el nombre oscuro perfecto se te revele.",
+        "fr": "Autant que les légions infernales elles-mêmes ! Il n'y a pas de limite. Continuez à cliquer jusqu'à ce que le nom sombre parfait se révèle à vous.",
+        "zh-cn": "和地狱军团一样多！没有限制。继续点击，直到完美的黑暗名字向你显现。",
+        "ja": "地獄の軍団そのものと同じくらい！制限はありません。完璧な暗黒の名前があなたに明らかになるまでクリックし続けてください。",
+        "pt": "Tantos quanto as próprias legiões infernais! Não há limite. Continue clicando até que o nome sombrio perfeito se revele a você.",
+        "ru": "Столько, сколько самих адских легионов! Ограничений нет. Продолжайте нажимать, пока идеальное темное имя не откроется вам."
+      }
+    },
+    {
+      "question": {
+        "en": "What kind of demon names does this generate?",
+        "ar": "ما نوع أسماء الشياطين التي يولدها هذا؟",
+        "es": "¿Qué tipo de nombres de demonios genera esto?",
+        "fr": "Quel genre de noms de démons cela génère-t-il ?",
+        "zh-cn": "这个生成器会生成哪种恶魔名称？",
+        "ja": "これはどのような種類の悪魔の名前を生成しますか？",
+        "pt": "Que tipo de nomes de demônios isso gera?",
+        "ru": "Какие типы имен демонов генерирует этот инструмент?"
+      },
+      "answer": {
+        "en": "It generates a wide variety, from guttural and harsh-sounding names to more melodic yet sinister ones. You might find names suitable for powerful archdemons, cunning imps, terrifying beasts, or seductive succubi.",
+        "ar": "يولد مجموعة متنوعة، من الأسماء الحلقية والخشنة إلى الأسماء الأكثر لحنية ولكنها شريرة. قد تجد أسماء مناسبة لرؤساء الشياطين الأقوياء، أو العفاريت الماكرة، أو الوحوش المرعبة، أو الساقطات المغريات.",
+        "es": "Genera una amplia variedad, desde nombres guturales y de sonido áspero hasta otros más melódicos pero siniestros. Podrías encontrar nombres adecuados para archidemonios poderosos, diablillos astutos, bestias aterradoras o súcubos seductores.",
+        "fr": "Il génère une grande variété, des noms gutturaux et durs aux noms plus mélodieux mais sinistres. Vous pourriez trouver des noms adaptés à de puissants archidémons, des diablotins rusés, des bêtes terrifiantes ou des succubes séductrices.",
+        "zh-cn": "它生成各种各样的名字，从喉音、刺耳的名字到更悦耳但邪恶的名字。你可能会找到适合强大的大恶魔、狡猾的小恶魔、可怕的野兽或诱人的魅魔的名字。",
+        "ja": "喉音で耳障りな響きの名前から、より旋律的でありながら邪悪な名前まで、多種多様な名前を生成します。強力なアークデーモン、狡猾なインプ、恐ろしい獣、または魅惑的なサキュバスに適した名前が見つかるかもしれません。",
+        "pt": "Ele gera uma ampla variedade, desde nomes guturais e ásperos até nomes mais melódicos, porém sinistros. Você pode encontrar nomes adequados para arquidemônios poderosos, diabinhos astutos, feras aterrorizantes ou súcubos sedutores.",
+        "ru": "Он генерирует широкий спектр имен: от гортанных и резких до более мелодичных, но зловещих. Вы можете найти имена, подходящие для могущественных архидемонов, хитрых бесов, ужасающих зверей или соблазнительных суккубов."
+      }
+    }
+  ]
+}

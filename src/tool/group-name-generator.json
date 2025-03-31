@@ -1,0 +1,236 @@
+{
+  "name": {
+    "en": "Group Name Generator",
+    "ar": "مولد أسماء المجموعات",
+    "es": "Generador de Nombres de Grupo",
+    "fr": "Générateur de Noms de Groupe",
+    "zh-cn": "团队名称生成器",
+    "ja": "グループ名ジェネレーター",
+    "pt": "Gerador de Nomes de Grupo",
+    "ru": "Генератор Названий Групп"
+  },
+  "description": {
+    "en": "Struggling to find the perfect name for your team, club, project, or friend squad? Our Group Name Generator is here to spark creativity and deliver awesome, memorable names for any collective! Get ready to unite under a banner that truly represents your crew.",
+    "ar": "هل تجد صعوبة في العثور على الاسم المثالي لفريقك أو ناديك أو مشروعك أو مجموعة أصدقائك؟ مولد أسماء المجموعات لدينا هنا لإثارة الإبداع وتقديم أسماء رائعة لا تُنسى لأي تجمع! استعدوا للتوحد تحت راية تمثل فريقكم حقًا.",
+    "es": "¿Luchando por encontrar el nombre perfecto para tu equipo, club, proyecto o pandilla de amigos? ¡Nuestro Generador de Nombres de Grupo está aquí para despertar la creatividad y ofrecer nombres increíbles y memorables para cualquier colectivo! Prepárense para unirse bajo un estandarte que realmente represente a su grupo.",
+    "fr": "Vous avez du mal à trouver le nom parfait pour votre équipe, club, projet ou groupe d'amis ? Notre Générateur de Noms de Groupe est là pour stimuler la créativité et fournir des noms géniaux et mémorables pour n'importe quel collectif ! Préparez-vous à vous unir sous une bannière qui représente vraiment votre équipe.",
+    "zh-cn": "正在为你的团队、俱乐部、项目或朋友小队寻找完美名称而苦恼吗？我们的团队名称生成器旨在激发创意，为任何集体提供超棒、难忘的名称！准备好在一个真正代表你们团队的旗帜下团结起来吧。",
+    "ja": "チーム、クラブ、プロジェクト、または友達のグループにぴったりの名前を見つけるのに苦労していますか？私たちのグループ名ジェネレーターが、創造性を刺激し、あらゆる集団のための素晴らしく記憶に残る名前を提供します！あなたのクルーを真に表す旗印の下で団結する準備をしてください。",
+    "pt": "Lutando para encontrar o nome perfeito para sua equipe, clube, projeto ou grupo de amigos? Nosso Gerador de Nomes de Grupo está aqui para despertar a criatividade e entregar nomes incríveis e memoráveis para qualquer coletivo! Prepare-se para se unir sob uma bandeira que realmente representa sua turma.",
+    "ru": "Пытаетесь найти идеальное название для вашей команды, клуба, проекта или компании друзей? Наш Генератор Названий Групп здесь, чтобы разжечь креативность и предложить потрясающие, запоминающиеся имена для любого коллектива! Готовьтесь объединиться под знаменем, которое действительно представляет вашу команду."
+  },
+  "slug": "group-name-generator",
+  "prompt": {
+    "en": "Generate a group name",
+    "ar": "قم بإنشاء اسم مجموعة",
+    "es": "Generar un nombre de grupo",
+    "fr": "Générer un nom de groupe",
+    "zh-cn": "生成一个团队名称",
+    "ja": "グループ名を生成する",
+    "pt": "Gerar um nome de grupo",
+    "ru": "Сгенерировать название группы"
+  },
+  "icon": "👥",
+  "introduction": {
+    "en": "Ditch the dull and discover the dynamic! This tool isn't just about random words; it's your partner in forging an identity that captures the spirit of your group. Whether it's a sports team, a book club, a startup project, or just your weekend hangout crew, find a name that resonates. Prepare for a wave of inspiration (and maybe a few laughs) as you explore the possibilities.",
+    "ar": "تخلص من الملل واكتشف الديناميكية! هذه الأداة ليست مجرد كلمات عشوائية؛ إنها شريكك في صياغة هوية تجسد روح مجموعتك. سواء كان فريقًا رياضيًا، أو ناديًا للكتاب، أو مشروعًا ناشئًا، أو مجرد مجموعة لقاءات نهاية الأسبوع، ابحث عن اسم يتردد صداه. استعد لموجة من الإلهام (وربما بعض الضحكات) أثناء استكشاف الاحتمالات.",
+    "es": "¡Abandona lo aburrido y descubre lo dinámico! Esta herramienta no se trata solo de palabras al azar; es tu socio para forjar una identidad que capture el espíritu de tu grupo. Ya sea un equipo deportivo, un club de lectura, un proyecto de startup o simplemente tu pandilla de fin de semana, encuentra un nombre que resuene. Prepárate para una ola de inspiración (y quizás algunas risas) mientras exploras las posibilidades.",
+    "fr": "Abandonnez le terne et découvrez le dynamique ! Cet outil ne se contente pas de mots aléatoires ; c'est votre partenaire pour forger une identité qui capture l'esprit de votre groupe. Qu'il s'agisse d'une équipe sportive, d'un club de lecture, d'un projet de startup ou simplement de votre bande de potes du week-end, trouvez un nom qui résonne. Préparez-vous à une vague d'inspiration (et peut-être à quelques rires) en explorant les possibilités.",
+    "zh-cn": "抛弃沉闷，发现活力！这个工具不仅仅是随机词汇；它是你锻造能够捕捉团队精神的身份标识的伙伴。无论是运动队、读书俱乐部、创业项目，还是仅仅是你的周末好友小队，找到一个能引起共鸣的名字。准备好迎接灵感的浪潮（也许还有一些笑声），探索各种可能性吧。",
+    "ja": "退屈なものから離れて、ダイナミックなものを発見しましょう！このツールは単なるランダムな単語ではありません。あなたのグループの精神を捉えるアイデンティティを築くためのパートナーです。スポーツチーム、読書クラブ、スタートアッププロジェクト、または単なる週末の集まりの仲間であっても、共感を呼ぶ名前を見つけてください。可能性を探る中で、インスピレーションの波（そしておそらくいくつかの笑い）に備えましょう。",
+    "pt": "Abandone o monótono e descubra o dinâmico! Esta ferramenta não é apenas sobre palavras aleatórias; é seu parceiro na criação de uma identidade que captura o espírito do seu grupo. Seja uma equipe esportiva, um clube do livro, um projeto de startup ou apenas sua turma de fim de semana, encontre um nome que ressoe. Prepare-se para uma onda de inspiração (e talvez algumas risadas) enquanto explora as possibilities.",
+    "ru": "Отбросьте скучное и откройте для себя динамичное! Этот инструмент - не просто случайные слова; это ваш партнер в создании идентичности, отражающей дух вашей группы. Будь то спортивная команда, книжный клуб, стартап-проект или просто ваша компания для встреч на выходных - найдите имя, которое находит отклик. Приготовьтесь к волне вдохновения (и, возможно, к паре смешков), исследуя возможности."
+  },
+  "howToUse": {
+    "en": [
+      "Hit that 'Generate' button – let the naming magic begin!",
+      "Get ready for a list brimming with diverse group name ideas.",
+      "Scroll through and see what catches your eye!",
+      "Found the perfect fit? Copy it instantly!",
+      "Go forth and unite your group under its awesome new name!"
+    ],
+    "ar": [
+      "اضغط على زر 'إنشاء' - دع سحر التسمية يبدأ!",
+      "استعد لقائمة مليئة بأفكار أسماء مجموعات متنوعة.",
+      "قم بالتمرير وشاهد ما يلفت انتباهك!",
+      "هل وجدت الاسم المثالي؟ انسخه فورًا!",
+      "انطلق ووحّد مجموعتك تحت اسمها الجديد الرائع!"
+    ],
+    "es": [
+      "Pulsa el botón 'Generar': ¡que comience la magia de los nombres!",
+      "Prepárate para una lista repleta de diversas ideas de nombres de grupos.",
+      "¡Desplázate y mira qué te llama la atención!",
+      "¿Encontraste el ajuste perfecto? ¡Cópialo al instante!",
+      "¡Adelante, une a tu grupo bajo su nuevo e increíble nombre!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' – que la magie des noms commence !",
+      "Préparez-vous à une liste débordante d'idées de noms de groupes variés.",
+      "Faites défiler et voyez ce qui attire votre attention !",
+      "Vous avez trouvé la solution idéale ? Copiez-la instantanément !",
+      "Allez de l'avant et unissez votre groupe sous son nouveau nom génial !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮——让命名的魔法开始吧！",
+      "准备好迎接一个充满各种团队名称创意的列表。",
+      "滚动浏览，看看哪个吸引了你的眼球！",
+      "找到完美匹配的了？立即复制！",
+      "去吧，用这个超棒的新名字团结你的团队！"
+    ],
+    "ja": [
+      "「生成」ボタンを押してください – 名付けの魔法を始めましょう！",
+      "多様なグループ名のアイデアが満載のリストにご期待ください。",
+      "スクロールして、目に留まったものを見てみましょう！",
+      "完璧にフィットするものを見つけましたか？すぐにコピーしましょう！",
+      "さあ、その素晴らしい新しい名前の下であなたのグループを団結させましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' – deixe a mágica dos nomes começar!",
+      "Prepare-se para uma lista cheia de diversas ideias de nomes de grupos.",
+      "Role e veja o que chama sua atenção!",
+      "Encontrou o ajuste perfeito? Copie instantaneamente!",
+      "Vá em frente e una seu grupo sob seu novo nome incrível!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Создать' – пусть начнется магия имен!",
+      "Приготовьтесь к списку, полному разнообразных идей для названий групп.",
+      "Пролистайте и посмотрите, что привлечет ваше внимание!",
+      "Нашли идеальный вариант? Скопируйте его мгновенно!",
+      "Идите вперед и объедините свою группу под ее новым потрясающим именем!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Group Name Generator really free?",
+        "ar": "هل مولد أسماء المجموعات هذا مجاني حقًا؟",
+        "es": "¿Este Generador de Nombres de Grupo es realmente gratis?",
+        "fr": "Ce Générateur de Noms de Groupe est-il vraiment gratuit?",
+        "zh-cn": "这个团队名称生成器真的是免费的吗？",
+        "ja": "このグループ名ジェネレーターは本当に無料ですか？",
+        "pt": "Este Gerador de Nomes de Grupo é realmente gratuito?",
+        "ru": "Этот Генератор Названий Групп действительно бесплатный?"
+      },
+      "answer": {
+        "en": "Absolutely! We believe every group deserves an awesome name, free of charge. Generate as many names as you need!",
+        "ar": "بالتأكيد! نحن نؤمن بأن كل مجموعة تستحق اسمًا رائعًا، مجانًا. قم بإنشاء أي عدد تريده من الأسماء!",
+        "es": "¡Absolutamente! Creemos que cada grupo merece un nombre increíble, de forma gratuita. ¡Genera tantos nombres como necesites!",
+        "fr": "Absolument ! Nous pensons que chaque groupe mérite un nom génial, gratuitement. Générez autant de noms que nécessaire !",
+        "zh-cn": "当然！我们相信每个团队都应该有一个很棒的名字，而且是免费的。随心所欲地生成您需要的任意数量的名称吧！",
+        "ja": "もちろんです！すべてのグループが無料で素晴らしい名前を持つ権利があると信じています。必要なだけ名前を生成してください！",
+        "pt": "Absolutamente! Acreditamos que todo grupo merece um nome incrível, gratuitamente. Gere quantos nomes precisar!",
+        "ru": "Абсолютно! Мы считаем, что каждая группа заслуживает потрясающее название, бесплатно. Генерируйте столько имен, сколько вам нужно!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for commercial purposes?",
+        "ar": "هل يمكنني استخدام هذه الأسماء للأغراض التجارية؟",
+        "es": "¿Puedo usar estos nombres con fines comerciales?",
+        "fr": "Puis-je utiliser ces noms à des fins commerciales?",
+        "zh-cn": "我可以将这些名称用于商业目的吗？",
+        "ja": "これらの名前を商業目的で使用できますか？",
+        "pt": "Posso usar esses nomes para fins comerciais?",
+        "ru": "Могу ли я использовать эти названия в коммерческих целях?"
+      },
+      "answer": {
+        "en": "While the names generated are creative sparks, we can't guarantee their availability as trademarks or for exclusive commercial use. Always perform your own checks before using a name commercially.",
+        "ar": "بينما الأسماء التي تم إنشاؤها هي شرارات إبداعية، لا يمكننا ضمان توفرها كعلامات تجارية أو للاستخدام التجاري الحصري. قم دائمًا بإجراء الفحوصات الخاصة بك قبل استخدام اسم تجاريًا.",
+        "es": "Si bien los nombres generados son chispas creativas, no podemos garantizar su disponibilidad como marcas registradas o para uso comercial exclusivo. Siempre realiza tus propias comprobaciones antes de usar un nombre comercialmente.",
+        "fr": "Bien que les noms générés soient des étincelles créatives, nous ne pouvons garantir leur disponibilité en tant que marques déposées ou pour un usage commercial exclusif. Effectuez toujours vos propres vérifications avant d'utiliser un nom commercialement.",
+        "zh-cn": "虽然生成的名称是创意的火花，但我们无法保证它们可以作为商标或用于独家商业用途。在商业上使用名称之前，请务必自行进行检查。",
+        "ja": "生成された名前は創造的なひらめきですが、商標としての利用可能性や独占的な商業利用を保証することはできません。商業的に名前を使用する前に、必ずご自身で確認を行ってください。",
+        "pt": "Embora os nomes gerados sejam faíscas criativas, não podemos garantir sua disponibilidade como marcas registradas ou para uso comercial exclusivo. Sempre faça suas próprias verificações antes de usar um nome comercialmente.",
+        "ru": "Хотя сгенерированные имена - это творческие искры, мы не можем гарантировать их доступность в качестве товарных знаков или для эксклюзивного коммерческого использования. Всегда проводите собственную проверку перед коммерческим использованием имени."
+      }
+    },
+    {
+      "question": {
+        "en": "How many names can I generate?",
+        "ar": "كم عدد الأسماء التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres puedo generar?",
+        "fr": "Combien de noms puis-je générer?",
+        "zh-cn": "我可以生成多少个名称？",
+        "ja": "いくつの名前を生成できますか？",
+        "pt": "Quantos nomes posso gerar?",
+        "ru": "Сколько имен я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "As many as you like! There's no limit. Keep clicking until you find that perfect name (or several!) for your group.",
+        "ar": "بقدر ما تريد! لا يوجد حد. استمر في النقر حتى تجد الاسم المثالي (أو عدة أسماء!) لمجموعتك.",
+        "es": "¡Tantos como quieras! No hay límite. Sigue haciendo clic hasta que encuentres ese nombre perfecto (¡o varios!) para tu grupo.",
+        "fr": "Autant que vous le souhaitez ! Il n'y a pas de limite. Continuez à cliquer jusqu'à ce que vous trouviez le nom parfait (ou plusieurs !) pour votre groupe.",
+        "zh-cn": "随心所欲！没有限制。继续点击，直到为你的团队找到那个完美的名字（或几个！）",
+        "ja": "好きなだけ！制限はありません。あなたのグループにぴったりの名前（またはいくつか！）が見つかるまでクリックし続けてください。",
+        "pt": "Quantos quiser! Não há limite. Continue clicando até encontrar o nome perfeito (ou vários!) para o seu grupo.",
+        "ru": "Сколько угодно! Ограничений нет. Продолжайте нажимать, пока не найдете то самое идеальное имя (или несколько!) для вашей группы."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names actually any good?",
+        "ar": "هل الأسماء التي تم إنشاؤها جيدة حقًا؟",
+        "es": "¿Los nombres generados son realmente buenos?",
+        "fr": "Les noms générés sont-ils vraiment bons?",
+        "zh-cn": "生成的名称真的好吗？",
+        "ja": "生成された名前は実際に良いものですか？",
+        "pt": "Os nomes gerados são realmente bons?",
+        "ru": "Действительно ли сгенерированные имена хороши?"
+      },
+      "answer": {
+        "en": "We strive for creativity and relevance! We've designed the generator to offer a wide variety of styles, from serious to silly. Name preference is subjective, so keep generating until something clicks!",
+        "ar": "نحن نسعى جاهدين للإبداع والملاءمة! لقد صممنا المولد لتقديم مجموعة واسعة من الأساليب، من الجاد إلى السخيف. تفضيل الاسم شخصي، لذا استمر في التوليد حتى ينقر شيء ما!",
+        "es": "¡Nos esforzamos por la creatividad y la relevancia! Hemos diseñado el generador para ofrecer una amplia variedad de estilos, desde serios hasta tontos. La preferencia de nombre es subjetiva, ¡así que sigue generando hasta que algo haga clic!",
+        "fr": "Nous visons la créativité et la pertinence ! Nous avons conçu le générateur pour offrir une grande variété de styles, du sérieux au loufoque. La préférence pour un nom est subjective, alors continuez à générer jusqu'à ce que quelque chose clique !",
+        "zh-cn": "我们力求创意和相关性！我们设计的生成器旨在提供从严肃到有趣的各种风格。名称偏好是主观的，所以继续生成，直到找到让你心动的那个！",
+        "ja": "私たちは創造性と関連性を目指しています！真面目なものから面白いものまで、多種多様なスタイルを提供できるようにジェネレーターを設計しました。名前の好みは主観的なので、何かがピンとくるまで生成し続けてください！",
+        "pt": "Nós nos esforçamos pela criatividade e relevância! Projetamos o gerador para oferecer uma ampla variedade de estilos, do sério ao bobo. A preferência de nome é subjetiva, então continue gerando até que algo clique!",
+        "ru": "Мы стремимся к креативности и релевантности! Мы разработали генератор так, чтобы он предлагал широкий спектр стилей, от серьезных до забавных. Предпочтения в именах субъективны, поэтому продолжайте генерировать, пока что-нибудь не \"щелкнет\"!"
+      }
+    },
+    {
+      "question": {
+        "en": "Will using a name generated here guarantee my group's success?",
+        "ar": "هل استخدام اسم تم إنشاؤه هنا يضمن نجاح مجموعتي؟",
+        "es": "¿Usar un nombre generado aquí garantizará el éxito de mi grupo?",
+        "fr": "L'utilisation d'un nom généré ici garantira-t-elle le succès de mon groupe?",
+        "zh-cn": "使用在这里生成的名称能保证我的团队成功吗？",
+        "ja": "ここで生成された名前を使用することで、私のグループの成功は保証されますか？",
+        "pt": "Usar um nome gerado aqui garantirá o sucesso do meu grupo?",
+        "ru": "Гарантирует ли использование сгенерированного здесь имени успех моей группы?"
+      },
+      "answer": {
+        "en": "A great name helps build identity, but group success comes from teamwork, shared goals, and effort. Think of the name as a cool starting point!",
+        "ar": "الاسم الرائع يساعد في بناء الهوية، لكن نجاح المجموعة يأتي من العمل الجماعي والأهداف المشتركة والجهد. فكر في الاسم كنقطة انطلاق رائعة!",
+        "es": "Un gran nombre ayuda a construir identidad, pero el éxito del grupo proviene del trabajo en equipo, los objetivos compartidos y el esfuerzo. ¡Piensa en el nombre como un punto de partida genial!",
+        "fr": "Un bon nom aide à construire une identité, mais le succès d'un groupe vient du travail d'équipe, d'objectifs partagés et d'efforts. Considérez le nom comme un point de départ sympa !",
+        "zh-cn": "一个好名字有助于建立身份认同，但团队的成功来自团队合作、共同目标和努力。把这个名字看作一个很酷的起点吧！",
+        "ja": "素晴らしい名前はアイデンティティを築くのに役立ちますが、グループの成功はチームワーク、共通の目標、そして努力から生まれます。名前をクールな出発点と考えてください！",
+        "pt": "Um ótimo nome ajuda a construir identidade, mas o sucesso do grupo vem do trabalho em equipe, objetivos compartilhados e esforço. Pense no nome como um ponto de partida legal!",
+        "ru": "Отличное имя помогает создать идентичность, но успех группы зависит от командной работы, общих целей и усилий. Считайте имя классной отправной точкой!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest new types of names or themes for the generator?",
+        "ar": "هل يمكنني اقتراح أنواع جديدة من الأسماء أو السمات للمولد؟",
+        "es": "¿Puedo sugerir nuevos tipos de nombres o temas para el generador?",
+        "fr": "Puis-je suggérer de nouveaux types de noms ou thèmes pour le générateur?",
+        "zh-cn": "我可以为生成器建议新的名称类型或主题吗？",
+        "ja": "ジェネレーターに新しい名前のタイプやテーマを提案できますか？",
+        "pt": "Posso sugerir novos tipos de nomes ou temas para o gerador?",
+        "ru": "Могу ли я предложить новые типы имен или тем для генератора?"
+      },
+      "answer": {
+        "en": "Absolutely! We love hearing user ideas. If you have suggestions for themes or name styles, please use our feedback form. Your input helps us improve!",
+        "ar": "بالتأكيد! نحب سماع أفكار المستخدمين. إذا كانت لديك اقتراحات للمواضيع أو أنماط الأسماء، فيرجى استخدام نموذج الملاحظات الخاص بنا. مدخلاتك تساعدنا على التحسين!",
+        "es": "¡Absolutamente! Nos encanta escuchar las ideas de los usuarios. Si tienes sugerencias de temas o estilos de nombres, utiliza nuestro formulario de comentarios. ¡Tu opinión nos ayuda a mejorar!",
+        "fr": "Absolument ! Nous adorons entendre les idées des utilisateurs. Si vous avez des suggestions de thèmes ou de styles de noms, veuillez utiliser notre formulaire de commentaires. Votre contribution nous aide à nous améliorer !",
+        "zh-cn": "当然！我们乐于听取用户的想法。如果您对主题或名称风格有任何建议，请使用我们的反馈表。您的意见有助于我们改进！",
+        "ja": "もちろんです！ユーザーのアイデアを聞くのが大好きです。テーマや名前のスタイルに関する提案があれば、フィードバックフォームを使用してください。あなたの入力は改善に役立ちます！",
+        "pt": "Absolutamente! Adoramos ouvir as ideias dos usuários. Se você tiver sugestões de temas ou estilos de nomes, use nosso formulário de feedback. Sua contribuição nos ajuda a melhorar!",
+        "ru": "Абсолютно! Мы любим слушать идеи пользователей. Если у вас есть предложения по темам или стилям имен, пожалуйста, используйте нашу форму обратной связи. Ваш вклад помогает нам стать лучше!"
+      }
+    }
+  ]
+}

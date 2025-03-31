@@ -1,0 +1,236 @@
+{
+  "name": {
+    "en": "Wizard Name Generator",
+    "ar": "مولد أسماء السحرة",
+    "es": "Generador de Nombres de Mago",
+    "fr": "Générateur de Noms de Sorcier",
+    "zh-cn": "巫师名称生成器",
+    "ja": "魔法使いの名前ジェネレーター",
+    "pt": "Gerador de Nomes de Mago",
+    "ru": "Генератор Имен Волшебников"
+  },
+  "description": {
+    "en": "Seeking the perfect, mystical name for your wizard, sorcerer, or mage character? Our Wizard Name Generator conjures a myriad of powerful, ancient, and enchanting names! Prepare to weave spells and command respect with a name whispered in arcane legends.",
+    "ar": "هل تبحث عن الاسم المثالي والغامض لشخصية الساحر أو المشعوذ أو الخبير بالسحر؟ مولد أسماء السحرة لدينا يستحضر عددًا لا يحصى من الأسماء القوية والقديمة والساحرة! استعد لنسج التعاويذ وفرض الاحترام باسم يُهمس في الأساطير الغامضة.",
+    "es": "¿Buscas el nombre perfecto y místico para tu personaje de mago, hechicero o brujo? ¡Nuestro Generador de Nombres de Mago conjura una miríada de nombres poderosos, antiguos y encantadores! Prepárate para lanzar hechizos e infundir respeto con un nombre susurrado en leyendas arcanas.",
+    "fr": "À la recherche du nom parfait et mystique pour votre personnage de sorcier, magicien ou mage ? Notre Générateur de Noms de Sorcier évoque une myriade de noms puissants, anciens et enchanteurs ! Préparez-vous à tisser des sorts et à imposer le respect avec un nom murmuré dans les légendes arcaniques.",
+    "zh-cn": "正在为你的巫师、术士或法师角色寻找完美而神秘的名字吗？我们的巫师名称生成器能召唤出无数强大、古老且迷人的名字！准备好用一个在奥术传奇中低语的名字来编织咒语、赢得尊重吧。",
+    "ja": "あなたの魔法使い、ソーサラー、またはメイジのキャラクターにぴったりの神秘的な名前をお探しですか？当社の魔法使いの名前ジェネレーターは、強力で、古く、魅力的な名前を無数に呼び出します！秘儀の伝説で囁かれる名前で、呪文を織りなし、尊敬を集める準備をしましょう。",
+    "pt": "Procurando o nome perfeito e místico para seu personagem mago, feiticeiro ou bruxo? Nosso Gerador de Nomes de Mago conjura uma miríade de nomes poderosos, antigos e encantadores! Prepare-se para lançar feitiços e impor respeito com um nome sussurrado em lendas arcanas.",
+    "ru": "Ищете идеальное, мистическое имя для вашего персонажа-волшебника, колдуна или мага? Наш Генератор Имен Волшебников создает мириады мощных, древних и чарующих имен! Приготовьтесь плести заклинания и вызывать уважение с именем, что шепчут в тайных легендах."
+  },
+  "slug": "wizard-name-generator",
+  "prompt": {
+    "en": "Generate a wizard name",
+    "ar": "قم بإنشاء اسم ساحر",
+    "es": "Generar un nombre de mago",
+    "fr": "Générer un nom de sorcier",
+    "zh-cn": "生成一个巫师名称",
+    "ja": "魔法使いの名前を生成する",
+    "pt": "Gerar um nome de mago",
+    "ru": "Сгенерировать имя волшебника"
+  },
+  "icon": "🧙‍♂️",
+  "introduction": {
+    "en": "Step beyond the mundane and into the realm of magic! This isn't just a generator; it's your portal to finding the quintessential name that embodies arcane power and ancient wisdom. Whether crafting a character for your next RPG campaign, writing a fantasy novel, or just seeking a cool magical alias, we've got the incantations. Prepare for names drawn from forgotten lore and shimmering with mystical energy.",
+    "ar": "تخطَّ المألوف وادخل إلى عالم السحر! هذا ليس مجرد مولد؛ إنها بوابتك للعثور على الاسم الجوهري الذي يجسد القوة الغامضة والحكمة القديمة. سواء كنت تصمم شخصية لحملة RPG القادمة، أو تكتب رواية خيالية، أو تبحث فقط عن اسم مستعار سحري رائع، فلدينا التعاويذ اللازمة. استعد لأسماء مستمدة من التراث المنسي ومتلألئة بالطاقة الغامضة.",
+    "es": "¡Adéntrate más allá de lo mundano y entra en el reino de la magia! Esto no es solo un generador; es tu portal para encontrar el nombre por excelencia que encarna el poder arcano y la sabiduría ancestral. Ya sea creando un personaje para tu próxima campaña de rol, escribiendo una novela de fantasía o simplemente buscando un alias mágico genial, tenemos los encantamientos. Prepárate para nombres extraídos de saberes olvidados y resplandecientes con energía mística.",
+    "fr": "Dépassez le banal et entrez dans le royaume de la magie ! Ce n'est pas seulement un générateur ; c'est votre portail pour trouver le nom par excellence qui incarne le pouvoir arcanique et la sagesse ancienne. Que vous créiez un personnage pour votre prochaine campagne de JDR, écriviez un roman de fantasy ou cherchiez simplement un alias magique cool, nous avons les incantations. Préparez-vous à des noms tirés de savoirs oubliés et chatoyants d'énergie mystique.",
+    "zh-cn": "超越平凡，踏入魔法的领域！这不仅仅是一个生成器；它是你寻找体现奥术力量和古老智慧的典型名称的传送门。无论你是为下一个RPG战役构思角色、撰写奇幻小说，还是仅仅寻找一个酷炫的魔法别名，我们都有咒语。准备好迎接那些源自被遗忘的传说、闪耀着神秘能量的名字吧。",
+    "ja": "日常を超えて、魔法の領域へ足を踏み入れましょう！これは単なるジェネレーターではありません。秘儀の力と古代の知恵を体現する典型的な名前を見つけるためのあなたのポータルです。次のRPGキャンペーンのキャラクターを作成する場合でも、ファンタジー小説を書く場合でも、単にクールな魔法の別名を探している場合でも、私たちは呪文を用意しています。忘れられた伝承から引き出され、神秘的なエネルギーで輝く名前に備えましょう。",
+    "pt": "Vá além do mundano e entre no reino da magia! Este não é apenas um gerador; é o seu portal para encontrar o nome quintessencial que incorpora poder arcano e sabedoria antiga. Seja criando um personagem para sua próxima campanha de RPG, escrevendo um romance de fantasia ou apenas buscando um pseudônimo mágico legal, nós temos os encantamentos. Prepare-se para nomes extraídos de conhecimentos esquecidos e cintilantes com energia mística.",
+    "ru": "Шагните за пределы обыденного в царство магии! Это не просто генератор; это ваш портал к поиску квинтэссенции имени, воплощающего тайную силу и древнюю мудрость. Создаете ли вы персонажа для следующей ролевой кампании, пишете фэнтезийный роман или просто ищете крутой магический псевдоним — у нас есть заклинания. Приготовьтесь к именам, извлеченным из забытых знаний и мерцающим мистической энергией."
+  },
+  "howToUse": {
+    "en": [
+      "Click the mystical 'Generate' button. Feel the power surge!",
+      "Witness a scroll of potent wizard names unfurl before you.",
+      "Peruse the list – let the perfect arcane moniker choose you!",
+      "Found a name resonating with magical energy? Copy it!",
+      "Now, wield your new, powerful name in realms both real and imagined!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' الغامض. اشعر بتدفق القوة!",
+      "شاهد قائمة بأسماء السحرة القوية تتكشف أمامك.",
+      "تصفح القائمة – دع اللقب الغامض المثالي يختارك!",
+      "هل وجدت اسمًا يتردد صداه مع الطاقة السحرية؟ انسخه!",
+      "الآن، استخدم اسمك الجديد والقوي في العوالم الحقيقية والمتخيلة!"
+    ],
+    "es": [
+      "Haz clic en el místico botón 'Generar'. ¡Siente la oleada de poder!",
+      "Observa cómo se despliega ante ti un pergamino de potentes nombres de mago.",
+      "¡Examina la lista y deja que el apodo arcano perfecto te elija!",
+      "¿Encontraste un nombre que resuena con energía mágica? ¡Cópialo!",
+      "¡Ahora, empuña tu nuevo y poderoso nombre en reinos tanto reales como imaginarios!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton mystique 'Générer'. Sentez la montée en puissance !",
+      "Soyez témoin du déroulement d'un parchemin de noms de sorciers puissants devant vous.",
+      "Parcourez la liste – laissez le parfait sobriquet arcanique vous choisir !",
+      "Vous avez trouvé un nom qui résonne avec l'énergie magique ? Copiez-le !",
+      "Maintenant, maniez votre nouveau nom puissant dans les royaumes réels et imaginaires !"
+    ],
+    "zh-cn": [
+      "点击神秘的“生成”按钮。感受力量的涌动！",
+      "见证一卷强大的巫师名字在你面前展开。",
+      "仔细阅读列表——让完美的奥术称号选择你！",
+      "找到一个与魔法能量产生共鸣的名字了吗？复制它！",
+      "现在，在现实和想象的领域中挥舞你那强大而崭新的名字吧！"
+    ],
+    "ja": [
+      "神秘的な「生成」ボタンをクリックしてください。力の高まりを感じてください！",
+      "強力な魔法使いの名前の巻物が目の前で展開されるのを目撃してください。",
+      "リストを熟読し、完璧な秘儀の呼び名にあなたを選ばせてください！",
+      "魔法のエネルギーと共鳴する名前を見つけましたか？コピーしましょう！",
+      "さあ、現実と想像の両方の領域で、あなたの新しく強力な名前を振るいましょう！"
+    ],
+    "pt": [
+      "Clique no místico botão 'Gerar'. Sinta a onda de poder!",
+      "Testemunhe um pergaminho de potentes nomes de mago se desenrolar diante de você.",
+      "Examine a lista – deixe o apelido arcano perfeito escolher você!",
+      "Encontrou um nome que ressoa com energia mágica? Copie-o!",
+      "Agora, empunhe seu novo e poderoso nome em reinos reais e imaginários!"
+    ],
+    "ru": [
+      "Нажмите мистическую кнопку 'Создать'. Почувствуйте прилив силы!",
+      "Станьте свидетелем того, как перед вами разворачивается свиток могущественных имен волшебников.",
+      "Просмотрите список – позвольте идеальному тайному прозвищу выбрать вас!",
+      "Нашли имя, резонирующее с магической энергией? Скопируйте его!",
+      "Теперь владейте своим новым, могущественным именем в мирах реальных и воображаемых!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Wizard Name Generator truly free to use?",
+        "ar": "هل مولد أسماء السحرة هذا مجاني للاستخدام حقًا؟",
+        "es": "¿Es este Generador de Nombres de Mago realmente gratuito?",
+        "fr": "Ce Générateur de Noms de Sorcier est-il vraiment gratuit ?",
+        "zh-cn": "这个巫师名称生成器真的是免费使用的吗？",
+        "ja": "この魔法使いの名前ジェネレーターは本当に無料で使用できますか？",
+        "pt": "Este Gerador de Nomes de Mago é realmente gratuito?",
+        "ru": "Этот Генератор Имен Волшебников действительно бесплатный?"
+      },
+      "answer": {
+        "en": "Absolutely! We believe every aspiring wizard deserves a name worthy of legend, free of charge. Conjure as many names as you need!",
+        "ar": "بالتأكيد! نحن نؤمن بأن كل ساحر طموح يستحق اسمًا يليق بالأسطورة، مجانًا. استدعِ أي عدد تريده من الأسماء!",
+        "es": "¡Absolutamente! Creemos que todo aspirante a mago merece un nombre digno de leyenda, sin coste alguno. ¡Conjura tantos nombres como necesites!",
+        "fr": "Absolument ! Nous pensons que chaque sorcier en herbe mérite un nom digne de la légende, gratuitement. Conjurez autant de noms que nécessaire !",
+        "zh-cn": "当然！我们相信每一位有抱负的巫师都应该拥有一个传奇般的名字，而且是免费的。随心所欲地召唤尽可能多的名字吧！",
+        "ja": "もちろんです！私たちは、すべての魔法使い志望者が伝説に値する名前を無料で手に入れるべきだと信じています。必要なだけ名前を呼び出してください！",
+        "pt": "Com certeza! Acreditamos que todo mago aspirante merece um nome digno de lenda, gratuitamente. Conjure quantos nomes precisar!",
+        "ru": "Абсолютно! Мы верим, что каждый начинающий волшебник заслуживает имя, достойное легенды, бесплатно. Создавайте столько имен, сколько вам нужно!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these wizard names for my book, game, or character?",
+        "ar": "هل يمكنني استخدام أسماء السحرة هذه لكتابي أو لعبتي أو شخصيتي؟",
+        "es": "¿Puedo usar estos nombres de mago para mi libro, juego o personaje?",
+        "fr": "Puis-je utiliser ces noms de sorcier pour mon livre, mon jeu ou mon personnage ?",
+        "zh-cn": "我可以将这些巫师名字用于我的书、游戏或角色吗？",
+        "ja": "これらの魔法使いの名前を私の本、ゲーム、またはキャラクターに使用できますか？",
+        "pt": "Posso usar esses nomes de mago para meu livro, jogo ou personagem?",
+        "ru": "Могу ли я использовать эти имена волшебников для своей книги, игры или персонажа?"
+      },
+      "answer": {
+        "en": "While the names are generated for inspiration, we can't guarantee uniqueness or trademark availability. Use them as a starting point, but always perform your own checks if using them commercially or in published works.",
+        "ar": "بينما يتم إنشاء الأسماء للإلهام، لا يمكننا ضمان التفرد أو توفر العلامة التجارية. استخدمها كنقطة انطلاق، ولكن قم دائمًا بإجراء فحوصاتك الخاصة إذا كنت تستخدمها تجاريًا أو في أعمال منشورة.",
+        "es": "Si bien los nombres se generan como inspiración, no podemos garantizar su unicidad ni la disponibilidad de marcas registradas. Úsalos como punto de partida, pero siempre realiza tus propias comprobaciones si los utilizas comercialmente o en obras publicadas.",
+        "fr": "Bien que les noms soient générés pour l'inspiration, nous ne pouvons garantir leur unicité ou leur disponibilité en tant que marque déposée. Utilisez-les comme point de départ, mais effectuez toujours vos propres vérifications si vous les utilisez commercialement ou dans des œuvres publiées.",
+        "zh-cn": "虽然这些名字是为激发灵感而生成的，但我们无法保证其独特性或商标可用性。请将它们作为起点，但如果用于商业用途或出版作品，请务必自行检查。",
+        "ja": "名前はインスピレーションのために生成されますが、独自性や商標の利用可能性を保証することはできません。出発点として使用してくださいが、商業的にまたは出版物で使用する場合は、必ず独自の確認を行ってください。",
+        "pt": "Embora os nomes sejam gerados para inspiração, não podemos garantir a exclusividade ou a disponibilidade de marcas registradas. Use-os como ponto de partida, mas sempre faça suas próprias verificações se for usá-los comercialmente ou em trabalhos publicados.",
+        "ru": "Хотя имена генерируются для вдохновения, мы не можем гарантировать уникальность или доступность товарных знаков. Используйте их как отправную точку, но всегда проводите собственную проверку, если используете их в коммерческих целях или в публикуемых работах."
+      }
+    },
+    {
+      "question": {
+        "en": "How many wizard names can I generate?",
+        "ar": "كم عدد أسماء السحرة التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres de mago puedo generar?",
+        "fr": "Combien de noms de sorcier puis-je générer ?",
+        "zh-cn": "我可以生成多少个巫师名称？",
+        "ja": "いくつの魔法使いの名前を生成できますか？",
+        "pt": "Quantos nomes de mago posso gerar?",
+        "ru": "Сколько имен волшебников я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "As many as the mystical energies allow! There's no limit. Keep clicking 'Generate' until the perfect incantation reveals itself.",
+        "ar": "بقدر ما تسمح به الطاقات الغامضة! لا يوجد حد. استمر في النقر على 'إنشاء' حتى تكشف التعويذة المثالية عن نفسها.",
+        "es": "¡Tantos como permitan las energías místicas! No hay límite. Sigue haciendo clic en 'Generar' hasta que el encantamiento perfecto se revele.",
+        "fr": "Autant que les énergies mystiques le permettent ! Il n'y a pas de limite. Continuez à cliquer sur 'Générer' jusqu'à ce que l'incantation parfaite se révèle.",
+        "zh-cn": "只要神秘能量允许，多少都可以！没有限制。持续点击“生成”，直到完美的咒语显现。",
+        "ja": "神秘的なエネルギーが許す限り！制限はありません。「生成」をクリックし続けて、完璧な呪文が現れるまで続けてください。",
+        "pt": "Quantos as energias místicas permitirem! Não há limite. Continue clicando em 'Gerar' até que o encantamento perfeito se revele.",
+        "ru": "Столько, сколько позволят мистические энергии! Ограничений нет. Продолжайте нажимать 'Создать', пока не откроется идеальное заклинание."
+      }
+    },
+    {
+      "question": {
+        "en": "Are these generated wizard names actually cool and authentic-sounding?",
+        "ar": "هل أسماء السحرة التي تم إنشاؤها رائعة حقًا وتبدو أصيلة؟",
+        "es": "¿Son estos nombres de mago generados realmente geniales y con sonido auténtico?",
+        "fr": "Ces noms de sorcier générés sont-ils vraiment cool et semblent-ils authentiques ?",
+        "zh-cn": "这些生成的巫师名字真的够酷并且听起来很正宗吗？",
+        "ja": "これらの生成された魔法使いの名前は、実際にクールで本物らしく聞こえますか？",
+        "pt": "Esses nomes de mago gerados são realmente legais e com som autêntico?",
+        "ru": "Действительно ли эти сгенерированные имена волшебников крутые и звучат аутентично?"
+      },
+      "answer": {
+        "en": "We've consulted ancient grimoires (and modern algorithms) to conjure names brimming with arcane potential! We aim for variety, from the classic to the unique. If one doesn't suit your magic, generate another!",
+        "ar": "لقد استشرنا المخطوطات القديمة (والخوارزميات الحديثة) لاستحضار أسماء مليئة بالإمكانات الغامضة! نهدف إلى التنوع، من الكلاسيكي إلى الفريد. إذا لم يناسب اسم سحرك، فأنشئ اسمًا آخر!",
+        "es": "¡Hemos consultado grimorios antiguos (y algoritmos modernos) para conjurar nombres rebosantes de potencial arcano! Buscamos la variedad, desde lo clásico hasta lo único. Si uno no se adapta a tu magia, ¡genera otro!",
+        "fr": "Nous avons consulté d'anciens grimoires (et des algorithmes modernes) pour conjurer des noms débordant de potentiel arcanique ! Nous visons la variété, du classique à l'unique. Si un nom ne convient pas à votre magie, générez-en un autre !",
+        "zh-cn": "我们查阅了古老的魔典（以及现代算法）来召唤充满奥术潜力的名字！我们的目标是多样性，从经典到独特。如果某个名字不适合你的魔法，就再生成一个！",
+        "ja": "古代のグリモア（そして現代のアルゴリズム）を参照して、秘儀の可能性に満ちた名前を呼び出しました！クラシックなものからユニークなものまで、多様性を目指しています。あなたの魔法に合わない場合は、別のものを生成してください！",
+        "pt": "Consultamos grimórios antigos (e algoritmos modernos) para conjurar nomes repletos de potencial arcano! Buscamos variedade, do clássico ao único. Se um não se adequar à sua magia, gere outro!",
+        "ru": "Мы обращались к древним гримуарам (и современным алгоритмам), чтобы создать имена, полные тайного потенциала! Мы стремимся к разнообразию, от классики до уникальности. Если одно имя не подходит вашей магии, сгенерируйте другое!"
+      }
+    },
+    {
+      "question": {
+        "en": "Will using a name generated here make my wizard character instantly legendary?",
+        "ar": "هل استخدام اسم تم إنشاؤه هنا سيجعل شخصية الساحر الخاصة بي أسطورية على الفور؟",
+        "es": "¿Usar un nombre generado aquí hará que mi personaje mago sea instantáneamente legendario?",
+        "fr": "L'utilisation d'un nom généré ici rendra-t-elle mon personnage sorcier instantanément légendaire ?",
+        "zh-cn": "使用在这里生成的名称能让我的巫师角色立刻成为传奇吗？",
+        "ja": "ここで生成された名前を使用すると、私の魔法使いのキャラクターは即座に伝説になりますか？",
+        "pt": "Usar um nome gerado aqui tornará meu personagem mago instantaneamente lendário?",
+        "ru": "Сделает ли использование сгенерированного здесь имени моего персонажа-волшебника мгновенно легендарным?"
+      },
+      "answer": {
+        "en": "A powerful name is a great first step on the path to legend! But true renown comes from epic deeds, mastering spells, and perhaps outsmarting a dragon or two. The name sets the stage; your story makes it legendary.",
+        "ar": "الاسم القوي هو خطوة أولى رائعة على طريق الأسطورة! لكن الشهرة الحقيقية تأتي من الأعمال الملحمية، وإتقان التعاويذ، وربما التفوق بذكاء على تنين أو اثنين. الاسم يمهد الطريق؛ قصتك تجعله أسطوريًا.",
+        "es": "¡Un nombre poderoso es un gran primer paso en el camino hacia la leyenda! Pero el verdadero renombre proviene de hazañas épicas, dominar hechizos y quizás ser más astuto que uno o dos dragones. El nombre prepara el escenario; tu historia lo hace legendario.",
+        "fr": "Un nom puissant est un excellent premier pas sur le chemin de la légende ! Mais la vraie renommée vient des actes épiques, de la maîtrise des sorts et peut-être de déjouer un dragon ou deux. Le nom prépare le terrain ; votre histoire le rend légendaire.",
+        "zh-cn": "一个强大的名字是通往传奇之路的第一步！但真正的声望来自于史诗般的功绩、精通咒语，或许还要智取一两条龙。名字为你搭建舞台；你的故事使其成为传奇。",
+        "ja": "強力な名前は伝説への道の素晴らしい第一歩です！しかし、真の名声は、壮大な功績、呪文の習得、そしておそらく1匹か2匹のドラゴンを出し抜くことから生まれます。名前は舞台を設定します。あなたの物語がそれを伝説にするのです。",
+        "pt": "Um nome poderoso é um ótimo primeiro passo no caminho para a lenda! Mas o verdadeiro renome vem de feitos épicos, dominar feitiços e talvez enganar um dragão ou dois. O nome prepara o palco; sua história o torna lendário.",
+        "ru": "Могущественное имя — отличный первый шаг на пути к легенде! Но истинная слава приходит от эпических деяний, овладения заклинаниями и, возможно, перехитрения дракона-другого. Имя создает сцену; ваша история делает ее легендарной."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest magical elements or themes for the generator?",
+        "ar": "هل يمكنني اقتراح عناصر أو مواضيع سحرية للمولد؟",
+        "es": "¿Puedo sugerir elementos o temas mágicos para el generador?",
+        "fr": "Puis-je suggérer des éléments ou des thèmes magiques pour le générateur ?",
+        "zh-cn": "我可以为生成器建议魔法元素或主题吗？",
+        "ja": "ジェネレーターに魔法の要素やテーマを提案できますか？",
+        "pt": "Posso sugerir elementos ou temas mágicos para o gerador?",
+        "ru": "Могу ли я предложить магические элементы или темы для генератора?"
+      },
+      "answer": {
+        "en": "We welcome your arcane insights! If you have ideas for new name components, styles, or magical themes, please share them via our feedback channel. Your contribution might empower future versions!",
+        "ar": "نرحب برؤاك الغامضة! إذا كانت لديك أفكار لمكونات أسماء جديدة أو أنماط أو مواضيع سحرية، فيرجى مشاركتها عبر قناة التعليقات الخاصة بنا. قد تُمكّن مساهمتك الإصدارات المستقبلية!",
+        "es": "¡Agradecemos tus percepciones arcanas! Si tienes ideas para nuevos componentes de nombres, estilos o temas mágicos, compártelas a través de nuestro canal de comentarios. ¡Tu contribución podría potenciar versiones futuras!",
+        "fr": "Nous accueillons vos idées arcaniques ! Si vous avez des idées pour de nouveaux composants de noms, styles ou thèmes magiques, veuillez les partager via notre canal de commentaires. Votre contribution pourrait enrichir les versions futures !",
+        "zh-cn": "我们欢迎你的奥术见解！如果你对新的名称组成部分、风格或魔法主题有想法，请通过我们的反馈渠道分享。你的贡献可能会为未来的版本赋能！",
+        "ja": "あなたの秘儀的な洞察を歓迎します！新しい名前の構成要素、スタイル、または魔法のテーマに関するアイデアがあれば、フィードバックチャネルを通じて共有してください。あなたの貢献が将来のバージョンを強化するかもしれません！",
+        "pt": "Agradecemos suas percepções arcanas! Se você tem ideias para novos componentes de nomes, estilos ou temas mágicos, compartilhe-os através do nosso canal de feedback. Sua contribuição pode capacitar versões futuras!",
+        "ru": "Мы приветствуем ваши тайные прозрения! Если у вас есть идеи для новых компонентов имен, стилей или магических тем, пожалуйста, поделитесь ими через наш канал обратной связи. Ваш вклад может усилить будущие версии!"
+      }
+    }
+  ]
+}

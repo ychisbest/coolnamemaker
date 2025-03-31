@@ -1,0 +1,236 @@
+{
+  "name": {
+    "en": "Rap Name Generator",
+    "ar": "مولد أسماء الراب",
+    "es": "Generador de Nombres de Rap",
+    "fr": "Générateur de Noms de Rap",
+    "zh-cn": "说唱名称生成器",
+    "ja": "ラップネームジェネレーター",
+    "pt": "Gerador de Nomes de Rap",
+    "ru": "Генератор Рэп-Имен"
+  },
+  "description": {
+    "en": "Struggling to find that killer rap name that screams 'legend'? Our Rap Name Generator is here to drop fire names that fit your flow, style, and attitude. Get ready to dominate the mic with a name that's unforgettable and 100% fresh.",
+    "ar": "هل تكافح للعثور على اسم الراب القاتل الذي يصرخ 'أسطورة'؟ مولد أسماء الراب لدينا هنا لإطلاق أسماء نارية تناسب تدفقك وأسلوبك وموقفك. استعد للسيطرة على الميكروفون باسم لا يُنسى وجديد 100٪.",
+    "es": "¿Luchando por encontrar ese nombre de rap brutal que grite 'leyenda'? Nuestro Generador de Nombres de Rap está aquí para soltar nombres ardientes que se ajusten a tu flow, estilo y actitud. Prepárate para dominar el micrófono con un nombre inolvidable y 100% fresco.",
+    "fr": "Vous avez du mal à trouver ce nom de rap percutant qui crie 'légende' ? Notre Générateur de Noms de Rap est là pour lâcher des noms incendiaires qui correspondent à votre flow, votre style et votre attitude. Préparez-vous à dominer le micro avec un nom inoubliable et 100% frais.",
+    "zh-cn": "还在为找不到那个喊着“传奇”的杀手级说唱名字而苦恼吗？我们的说唱名称生成器在此为您提供符合您的flow、风格和态度的火爆名字。准备好用一个令人难忘且100%新鲜的名字来统治麦克风吧。",
+    "ja": "「レジェンド」と叫ぶようなキラーラップネームを見つけるのに苦労していませんか？当社のラップネームジェネレーターは、あなたのフロー、スタイル、態度に合ったホットな名前を提供します。忘れられず、100％フレッシュな名前でマイクを支配する準備をしましょう。",
+    "pt": "Lutando para encontrar aquele nome de rap matador que grita 'lenda'? Nosso Gerador de Nomes de Rap está aqui para lançar nomes de fogo que se encaixam no seu flow, estilo e atitude. Prepare-se para dominar o microfone com um nome inesquecível e 100% fresco.",
+    "ru": "Пытаетесь найти то самое убойное рэп-имя, которое кричит 'легенда'? Наш Генератор Рэп-Имен здесь, чтобы выдать огненные имена, соответствующие вашему флоу, стилю и настрою. Приготовьтесь доминировать у микрофона с незабываемым и 100% свежим именем."
+  },
+  "slug": "rap-name-generator",
+  "prompt": {
+    "en": "Generate a rap name",
+    "ar": "قم بإنشاء اسم راب",
+    "es": "Generar un nombre de rap",
+    "fr": "Générer un nom de rap",
+    "zh-cn": "生成一个说唱名称",
+    "ja": "ラップネームを生成する",
+    "pt": "Gerar um nome de rap",
+    "ru": "Сгенерировать рэп-имя"
+  },
+  "icon": "🎤",
+  "introduction": {
+    "en": "Step up your rap game! This ain't just a generator, it's your hype man for crafting a stage persona that hits hard. Whether you're spitting fire in battles, dropping tracks online, or just freestyling with friends, find a name that resonates with your unique voice. Prepare for a flood of authentic, powerful, and sometimes straight-up wild rap names.",
+    "ar": "ارتقِ بلعبة الراب الخاصة بك! هذا ليس مجرد مولد، إنه مساعدك الحماسي لصياغة شخصية مسرحية تضرب بقوة. سواء كنت تطلق النار في المعارك، أو تنشر الأغاني عبر الإنترنت، أو مجرد الارتجال مع الأصدقاء، ابحث عن اسم يتردد صداه مع صوتك الفريد. استعد لفيض من أسماء الراب الأصيلة والقوية وأحيانًا الجامحة تمامًا.",
+    "es": "¡Sube el nivel de tu juego de rap! Esto no es solo un generador, es tu 'hype man' para crear una personalidad escénica que golpee fuerte. Ya sea que estés escupiendo fuego en batallas, lanzando temas en línea o simplemente haciendo freestyle con amigos, encuentra un nombre que resuene con tu voz única. Prepárate para una avalancha de nombres de rap auténticos, poderosos y, a veces, directamente salvajes.",
+    "fr": "Améliorez votre jeu de rap ! Ce n'est pas juste un générateur, c'est votre 'hype man' pour créer un personnage de scène qui frappe fort. Que vous crachiez du feu dans des battles, que vous sortiez des morceaux en ligne ou que vous fassiez simplement du freestyle avec des amis, trouvez un nom qui résonne avec votre voix unique. Préparez-vous à un déluge de noms de rap authentiques, puissants et parfois carrément sauvages.",
+    "zh-cn": "提升你的说唱游戏！这不仅仅是一个生成器，它是你打造震撼舞台形象的助推器。无论你是在battle中喷火、在线发布歌曲，还是仅仅和朋友freestyle，找到一个与你独特声音共鸣的名字。准备迎接大量真实、有力，有时甚至完全狂野的说唱名字吧。",
+    "ja": "ラップゲームをレベルアップ！これは単なるジェネレーターではなく、強烈なステージペルソナを作り上げるためのあなたのハイプマンです。バトルで火を噴くときも、オンラインでトラックをドロップするときも、友達とフリースタイルするときも、あなたのユニークな声に響く名前を見つけてください。本物でパワフル、そして時には完全にワイルドなラップネームの洪水に備えましょう。",
+    "pt": "Eleve seu jogo de rap! Isso não é apenas um gerador, é seu 'hype man' para criar uma persona de palco que bate forte. Seja cuspindo fogo em batalhas, lançando faixas online ou apenas fazendo freestyle com amigos, encontre um nome que ressoe com sua voz única. Prepare-se para uma enxurrada de nomes de rap autênticos, poderosos e às vezes totalmente selvagens.",
+    "ru": "Прокачай свою рэп-игру! Это не просто генератор, это твой хайпмен для создания сценического образа, который бьет точно в цель. Неважно, плюешься ли ты огнем в баттлах, дропаешь треки онлайн или просто фристайлишь с друзьями — найди имя, которое резонирует с твоим уникальным голосом. Приготовься к потоку аутентичных, мощных, а иногда и совершенно диких рэп-имен."
+  },
+  "howToUse": {
+    "en": [
+      "Hit that 'Generate' button like you're dropping the mic.",
+      "Get ready for a stream of dope rap name ideas.",
+      "Scroll through the list – feel the rhythm and flow.",
+      "Found the one that defines your sound? Copy that!",
+      "Now go grab the spotlight and own that stage with your new legendary name!"
+    ],
+    "ar": [
+      "اضغط على زر 'إنشاء' كأنك تسقط الميكروفون.",
+      "استعد لتدفق من أفكار أسماء الراب الرائعة.",
+      "مرر عبر القائمة - اشعر بالإيقاع والتدفق.",
+      "هل وجدت الاسم الذي يحدد صوتك؟ انسخه!",
+      "الآن اذهب واخطف الأضواء وسيطر على المسرح باسمك الأسطوري الجديد!"
+    ],
+    "es": [
+      "Pulsa ese botón 'Generar' como si estuvieras soltando el micro.",
+      "Prepárate para un flujo de ideas geniales de nombres de rap.",
+      "Desplázate por la lista: siente el ritmo y el flow.",
+      "¿Encontraste el que define tu sonido? ¡Cópialo!",
+      "¡Ahora ve a por el foco y domina ese escenario con tu nuevo nombre legendario!"
+    ],
+    "fr": [
+      "Appuyez sur ce bouton 'Générer' comme si vous laissiez tomber le micro.",
+      "Préparez-vous à un flux d'idées de noms de rap géniales.",
+      "Faites défiler la liste - sentez le rythme et le flow.",
+      "Vous avez trouvé celui qui définit votre son ? Copiez-le !",
+      "Maintenant, allez chercher les projecteurs et appropriez-vous cette scène avec votre nouveau nom légendaire !"
+    ],
+    "zh-cn": [
+      "像扔麦克风一样点击那个“生成”按钮。",
+      "准备好迎接一连串超酷的说唱名字创意。",
+      "滚动列表——感受节奏和flow。",
+      "找到那个定义你声音的名字了吗？复制它！",
+      "现在，用你新的传奇名字去抓住聚光灯，掌控舞台吧！"
+    ],
+    "ja": [
+      "マイクをドロップするように「生成」ボタンを押してください。",
+      "ドープなラップネームのアイデアの流れに備えましょう。",
+      "リストをスクロールして、リズムとフローを感じてください。",
+      "あなたのサウンドを定義するものを見つけましたか？それをコピー！",
+      "さあ、スポットライトを掴み、新しい伝説的な名前でそのステージを自分のものにしましょう！"
+    ],
+    "pt": [
+      "Aperte o botão 'Gerar' como se estivesse largando o microfone.",
+      "Prepare-se para um fluxo de ideias incríveis de nomes de rap.",
+      "Role pela lista – sinta o ritmo e o flow.",
+      "Encontrou aquele que define seu som? Copie!",
+      "Agora vá pegar os holofotes e domine aquele palco com seu novo nome lendário!"
+    ],
+    "ru": [
+      "Нажми кнопку 'Сгенерировать', будто бросаешь микрофон.",
+      "Приготовься к потоку крутых идей для рэп-имен.",
+      "Пролистай список – почувствуй ритм и флоу.",
+      "Нашел то, что определяет твой звук? Скопируй!",
+      "А теперь иди, лови свет софитов и зажги на сцене со своим новым легендарным именем!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Rap Name Generator really free?",
+        "ar": "هل مولد أسماء الراب هذا مجاني حقًا؟",
+        "es": "¿Este Generador de Nombres de Rap es realmente gratis?",
+        "fr": "Ce Générateur de Noms de Rap est-il vraiment gratuit ?",
+        "zh-cn": "这个说唱名称生成器真的是免费的吗？",
+        "ja": "このラップネームジェネレーターは本当に無料ですか？",
+        "pt": "Este Gerador de Nomes de Rap é realmente gratuito?",
+        "ru": "Этот Генератор Рэп-Имен действительно бесплатный?"
+      },
+      "answer": {
+        "en": "100%! Every aspiring MC deserves a killer name without dropping cash. Generate as many names as you need, on the house.",
+        "ar": "100%! كل منسق أغاني طموح يستحق اسمًا قاتلًا دون إنفاق المال. قم بإنشاء أي عدد تريده من الأسماء، على حسابنا.",
+        "es": "¡100%! Todo MC aspirante merece un nombre brutal sin soltar pasta. Genera tantos nombres como necesites, por cuenta de la casa.",
+        "fr": "100% ! Chaque MC en herbe mérite un nom qui tue sans dépenser d'argent. Générez autant de noms que nécessaire, c'est la maison qui régale.",
+        "zh-cn": "100%！每个有抱负的MC都应该拥有一个杀手级的名字，而无需花费现金。随心所欲生成任意数量的名字，完全免费。",
+        "ja": "100％！すべての意欲的なMCは、お金をかけずにキラーネームを持つに値します。必要なだけ名前を生成してください、無料です。",
+        "pt": "100%! Todo MC aspirante merece um nome matador sem gastar dinheiro. Gere quantos nomes precisar, por conta da casa.",
+        "ru": "100%! Каждый начинающий МС заслуживает убойное имя, не тратя денег. Генерируй столько имен, сколько нужно, за счет заведения."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my rap career or commercially?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لمسيرتي في الراب أو تجاريًا؟",
+        "es": "¿Puedo usar estos nombres para mi carrera de rap o comercialmente?",
+        "fr": "Puis-je utiliser ces noms pour ma carrière de rap ou commercialement ?",
+        "zh-cn": "我可以将这些名称用于我的说唱生涯或商业用途吗？",
+        "ja": "これらの名前をラップキャリアや商業目的で使用できますか？",
+        "pt": "Posso usar esses nomes para minha carreira de rap ou comercialmente?",
+        "ru": "Могу ли я использовать эти имена для своей рэп-карьеры или в коммерческих целях?"
+      },
+      "answer": {
+        "en": "These names are fire starters for inspiration! While you can use them, we can't guarantee they aren't already trademarked or claimed. Always do your homework before locking down a name for official use.",
+        "ar": "هذه الأسماء هي بداية نارية للإلهام! بينما يمكنك استخدامها، لا يمكننا ضمان أنها ليست مسجلة كعلامة تجارية أو مستخدمة بالفعل. قم دائمًا بأبحاثك قبل تثبيت اسم للاستخدام الرسمي.",
+        "es": "¡Estos nombres son iniciadores de fuego para la inspiración! Aunque puedes usarlos, no podemos garantizar que no estén ya registrados o reclamados. Siempre haz tu tarea antes de fijar un nombre para uso oficial.",
+        "fr": "Ces noms sont des étincelles pour l'inspiration ! Bien que vous puissiez les utiliser, nous ne pouvons garantir qu'ils ne sont pas déjà déposés ou revendiqués. Faites toujours vos recherches avant de choisir un nom pour un usage officiel.",
+        "zh-cn": "这些名字是点燃灵感的火花！虽然你可以使用它们，但我们不能保证它们没有被注册商标或被占用。在确定正式使用的名称之前，请务必做好功课。",
+        "ja": "これらの名前はインスピレーションのための火付け役です！使用することはできますが、既に商標登録されているか、主張されているかは保証できません。公式使用のために名前を確定する前に、必ずご自身で調査を行ってください。",
+        "pt": "Esses nomes são faíscas para inspiração! Embora você possa usá-los, não podemos garantir que já não estejam registrados ou reivindicados. Sempre faça sua lição de casa antes de definir um nome para uso oficial.",
+        "ru": "Эти имена — для розжига вдохновения! Хотя ты можешь их использовать, мы не можем гарантировать, что они не являются товарными знаками или уже заняты. Всегда проверяй информацию, прежде чем закреплять имя для официального использования."
+      }
+    },
+    {
+      "question": {
+        "en": "How many rap names can I generate?",
+        "ar": "كم عدد أسماء الراب التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres de rap puedo generar?",
+        "fr": "Combien de noms de rap puis-je générer ?",
+        "zh-cn": "我可以生成多少个说唱名称？",
+        "ja": "いくつのラップネームを生成できますか？",
+        "pt": "Quantos nomes de rap posso gerar?",
+        "ru": "Сколько рэп-имен я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "Unlimited flows! Keep hitting 'Generate' until you find the name that perfectly matches your vibe. The mic is yours, generate endlessly!",
+        "ar": "تدفقات غير محدودة! استمر في الضغط على 'إنشاء' حتى تجد الاسم الذي يتناسب تمامًا مع أسلوبك. الميكروفون لك، قم بالإنشاء بلا نهاية!",
+        "es": "¡Flows ilimitados! Sigue pulsando 'Generar' hasta que encuentres el nombre que coincida perfectamente con tu vibra. ¡El micro es tuyo, genera sin fin!",
+        "fr": "Flows illimités ! Continuez à appuyer sur 'Générer' jusqu'à ce que vous trouviez le nom qui correspond parfaitement à votre vibe. Le micro est à vous, générez à l'infini !",
+        "zh-cn": "无限flow！持续点击“生成”，直到找到与你的vibe完美匹配的名字。麦克风是你的，无限生成吧！",
+        "ja": "無制限のフロー！あなたの雰囲気に完全に一致する名前が見つかるまで、「生成」を押し続けてください。マイクはあなたのものです、無限に生成しましょう！",
+        "pt": "Flows ilimitados! Continue apertando 'Gerar' até encontrar o nome que combina perfeitamente com sua vibe. O microfone é seu, gere infinitamente!",
+        "ru": "Безлимитный флоу! Продолжай нажимать 'Сгенерировать', пока не найдешь имя, идеально соответствующее твоему вайбу. Микрофон твой, генерируй бесконечно!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated rap names actually good?",
+        "ar": "هل أسماء الراب التي تم إنشاؤها جيدة حقًا؟",
+        "es": "¿Los nombres de rap generados son realmente buenos?",
+        "fr": "Les noms de rap générés sont-ils vraiment bons ?",
+        "zh-cn": "生成的说唱名称真的好吗？",
+        "ja": "生成されたラップネームは実際に良いものですか？",
+        "pt": "Os nomes de rap gerados são realmente bons?",
+        "ru": "Действительно ли сгенерированные рэп-имена хороши?"
+      },
+      "answer": {
+        "en": "We think they're dope! We mixed classic vibes with modern heat to create a generator that spits out authentic and memorable names. But taste is personal – if a name doesn't hit right, just generate another batch!",
+        "ar": "نعتقد أنها رائعة! لقد مزجنا الأجواء الكلاسيكية مع الحماس الحديث لإنشاء مولد يخرج أسماء أصيلة لا تُنسى. لكن الذوق شخصي - إذا لم يعجبك اسم ما، فقط قم بإنشاء دفعة أخرى!",
+        "es": "¡Creemos que son la caña! Mezclamos vibras clásicas con calor moderno para crear un generador que escupe nombres auténticos y memorables. Pero el gusto es personal: si un nombre no te convence, ¡simplemente genera otra tanda!",
+        "fr": "Nous pensons qu'ils sont géniaux ! Nous avons mélangé des vibrations classiques avec la chaleur moderne pour créer un générateur qui crache des noms authentiques et mémorables. Mais le goût est personnel - si un nom ne vous convient pas, générez simplement un autre lot !",
+        "zh-cn": "我们觉得它们超赞！我们融合了经典vibe和现代热度，创造了一个能生成真实且令人难忘名字的生成器。但口味是主观的——如果某个名字感觉不对，再生成一批就行了！",
+        "ja": "私たちはドープだと思います！クラシックな雰囲気と現代的な熱気を混ぜ合わせて、本物で記憶に残る名前を吐き出すジェネレーターを作成しました。しかし、好みは個人的なものです – 名前がしっくりこない場合は、別のバッチを生成してください！",
+        "pt": "Achamos que são demais! Misturamos vibrações clássicas com o calor moderno para criar um gerador que cospe nomes autênticos e memoráveis. Mas gosto é pessoal – se um nome não bater certo, apenas gere outro lote!",
+        "ru": "Мы считаем, что они крутые! Мы смешали классические вайбы с современным жаром, чтобы создать генератор, который выдает аутентичные и запоминающиеся имена. Но вкус — дело личное: если имя не зашло, просто сгенерируй новую партию!"
+      }
+    },
+    {
+      "question": {
+        "en": "Will using a generated name guarantee I become a famous rapper?",
+        "ar": "هل استخدام اسم تم إنشاؤه يضمن أن أصبح مغني راب مشهورًا؟",
+        "es": "¿Usar un nombre generado garantizará que me convierta en un rapero famoso?",
+        "fr": "L'utilisation d'un nom généré garantira-t-elle que je deviendrai un rappeur célèbre ?",
+        "zh-cn": "使用生成的名字能保证我成为著名说唱歌手吗？",
+        "ja": "生成された名前を使用することで、有名なラッパーになることが保証されますか？",
+        "pt": "Usar um nome gerado garantirá que eu me torne um rapper famoso?",
+        "ru": "Гарантирует ли использование сгенерированного имени, что я стану известным рэпером?"
+      },
+      "answer": {
+        "en": "A legendary name is a great start, but becoming famous takes skill, bars, flow, hard work, and maybe a little luck. This name generator gives you a boost, but the rest is up to your talent!",
+        "ar": "الاسم الأسطوري بداية رائعة، لكن الشهرة تتطلب المهارة، الكلمات القوية، التدفق، العمل الجاد، وربما القليل من الحظ. مولد الأسماء هذا يمنحك دفعة، لكن الباقي يعتمد على موهبتك!",
+        "es": "Un nombre legendario es un gran comienzo, pero hacerse famoso requiere habilidad, barras, flow, trabajo duro y quizás un poco de suerte. Este generador de nombres te da un impulso, ¡pero el resto depende de tu talento!",
+        "fr": "Un nom légendaire est un excellent début, mais devenir célèbre demande du talent, des punchlines, du flow, du travail acharné et peut-être un peu de chance. Ce générateur de noms vous donne un coup de pouce, mais le reste dépend de votre talent !",
+        "zh-cn": "一个传奇的名字是一个很棒的开始，但成名需要技巧、歌词、flow、努力工作，也许还有一点运气。这个名称生成器能给你助力，但剩下的取决于你的才华！",
+        "ja": "伝説的な名前は素晴らしいスタートですが、有名になるにはスキル、パンチライン、フロー、努力、そして少しの運が必要です。このネームジェネレーターはあなたを後押ししますが、残りはあなたの才能次第です！",
+        "pt": "Um nome lendário é um ótimo começo, mas se tornar famoso exige habilidade, barras, flow, trabalho duro e talvez um pouco de sorte. Este gerador de nomes te dá um impulso, mas o resto depende do seu talento!",
+        "ru": "Легендарное имя — отличное начало, но чтобы стать известным, нужны скилл, панчи, флоу, упорный труд и, возможно, немного удачи. Этот генератор имен даст тебе толчок, но остальное зависит от твоего таланта!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest words or styles for the rap name generator?",
+        "ar": "هل يمكنني اقتراح كلمات أو أنماط لمولد أسماء الراب؟",
+        "es": "¿Puedo sugerir palabras o estilos para el generador de nombres de rap?",
+        "fr": "Puis-je suggérer des mots ou des styles pour le générateur de noms de rap ?",
+        "zh-cn": "我可以为说唱名称生成器建议词语或风格吗？",
+        "ja": "ラップネームジェネレーターに単語やスタイルを提案できますか？",
+        "pt": "Posso sugerir palavras ou estilos para o gerador de nomes de rap?",
+        "ru": "Могу ли я предложить слова или стили для генератора рэп-имен?"
+      },
+      "answer": {
+        "en": "For sure! We're always looking to add more flavor. Hit us up with your ideas via feedback, and your suggestions might just make the next cypher!",
+        "ar": "بالتأكيد! نحن نبحث دائمًا عن إضافة المزيد من النكهة. أرسل لنا أفكارك عبر التعليقات، وقد تظهر اقتراحاتك في الدورة التالية!",
+        "es": "¡Claro! Siempre estamos buscando añadir más sabor. Envíanos tus ideas a través de los comentarios, ¡y tus sugerencias podrían entrar en el próximo cypher!",
+        "fr": "Bien sûr ! Nous cherchons toujours à ajouter plus de saveur. Envoyez-nous vos idées via les commentaires, et vos suggestions pourraient bien faire partie du prochain cypher !",
+        "zh-cn": "当然！我们一直在寻求增加更多风味。通过反馈告诉我们你的想法，你的建议可能就会出现在下一轮生成中！",
+        "ja": "もちろんです！私たちは常により多くのフレーバーを追加しようとしています。フィードバックを通じてあなたのアイデアを送ってください。あなたの提案が次のサイファーに入るかもしれません！",
+        "pt": "Com certeza! Estamos sempre procurando adicionar mais sabor. Mande suas ideias através do feedback, e suas sugestões podem entrar na próxima cypher!",
+        "ru": "Конечно! Мы всегда ищем, как добавить больше изюминки. Поделись своими идеями через форму обратной связи, и, возможно, твои предложения попадут в следующий сайфер!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "name": {
+    "en": "Middle Name Generator",
+    "ar": "مولد الاسم الأوسط",
+    "es": "Generador de Segundos Nombres",
+    "fr": "Générateur de Deuxièmes Prénoms",
+    "zh-cn": "中间名生成器",
+    "ja": "ミドルネームジェネレーター",
+    "pt": "Gerador de Nomes do Meio",
+    "ru": "Генератор Средних Имен"
+  },
+  "description": {
+    "en": "Searching for that perfect middle name to add flair, meaning, or just that extra something? Our Middle Name Generator is your key to unlocking a world of unique, classic, and charming options. Find the ideal bridge between first and last names!",
+    "ar": "هل تبحث عن الاسم الأوسط المثالي لإضافة لمسة أو معنى أو مجرد ذلك الشيء الإضافي؟ مولد الاسم الأوسط الخاص بنا هو مفتاحك لفتح عالم من الخيارات الفريدة والكلاسيكية والساحرة. ابحث عن الجسر المثالي بين الاسم الأول والأخير!",
+    "es": "¿Buscas ese segundo nombre perfecto para añadir estilo, significado o simplemente ese algo extra? Nuestro Generador de Segundos Nombres es tu llave para desbloquear un mundo de opciones únicas, clásicas y encantadoras. ¡Encuentra el puente ideal entre el nombre y el apellido!",
+    "fr": "À la recherche du deuxième prénom parfait pour ajouter du style, du sens ou juste ce petit quelque chose en plus ? Notre Générateur de Deuxièmes Prénoms est votre clé pour déverrouiller un monde d'options uniques, classiques et charmantes. Trouvez le pont idéal entre le prénom et le nom de famille !",
+    "zh-cn": "正在寻找完美的中间名来增添风格、意义，或者仅仅是锦上添花？我们的中间名生成器是您解锁独特、经典和迷人选项世界的钥匙。找到连接名和姓的理想桥梁！",
+    "ja": "個性や意味、あるいは単に特別な何かを加える完璧なミドルネームをお探しですか？当社のミドルネームジェネレーターは、ユニークでクラシック、そして魅力的な選択肢の世界を解き放つ鍵です。ファーストネームとラストネームの間の理想的な架け橋を見つけましょう！",
+    "pt": "Procurando aquele nome do meio perfeito para adicionar estilo, significado ou apenas aquele algo a mais? Nosso Gerador de Nomes do Meio é a sua chave para desbloquear um mundo de opções únicas, clássicas e charmosas. Encontre a ponte ideal entre o primeiro e o último nome!",
+    "ru": "Ищете идеальное среднее имя, чтобы добавить изюминку, смысл или просто что-то особенное? Наш Генератор Средних Имен - ваш ключ к миру уникальных, классических и очаровательных вариантов. Найдите идеальный мостик между именем и фамилией!"
+  },
+  "slug": "middle-name-generator",
+  "prompt": {
+    "en": "Generate a middle name",
+    "ar": "قم بإنشاء اسم أوسط",
+    "es": "Generar un segundo nombre",
+    "fr": "Générer un deuxième prénom",
+    "zh-cn": "生成一个中间名",
+    "ja": "ミドルネームを生成する",
+    "pt": "Gerar um nome do meio",
+    "ru": "Сгенерировать среднее имя"
+  },
+  "icon": "✨",
+  "introduction": {
+    "en": "A middle name is more than just a placeholder; it's a chance for connection, heritage, or pure delightful sound. Whether you're naming a newborn, crafting a character, or just curious, this generator offers inspiration. Dive in and discover names that resonate!",
+    "ar": "الاسم الأوسط هو أكثر من مجرد حشو؛ إنها فرصة للاتصال أو التراث أو مجرد صوت مبهج نقي. سواء كنت تسمي مولودًا جديدًا، أو تصنع شخصية، أو مجرد فضول، فإن هذا المولد يقدم الإلهام. اغمر نفسك واكتشف الأسماء التي يتردد صداها!",
+    "es": "Un segundo nombre es más que un simple relleno; es una oportunidad de conexión, herencia o puro sonido delicioso. Ya sea que estés nombrando a un recién nacido, creando un personaje o simplemente tengas curiosidad, este generador ofrece inspiración. ¡Sumérgete y descubre nombres que resuenan!",
+    "fr": "Un deuxième prénom est plus qu'un simple bouche-trou ; c'est une chance de connexion, d'héritage ou de pur son délicieux. Que vous nommiez un nouveau-né, créiez un personnage ou soyez simplement curieux, ce générateur offre de l'inspiration. Plongez et découvrez des noms qui résonnent !",
+    "zh-cn": "中间名不仅仅是一个占位符；它是一个连接、传承或纯粹悦耳声音的机会。无论您是在为新生儿命名、塑造角色，还是仅仅出于好奇，这个生成器都能提供灵感。深入探索，发现能引起共鸣的名字！",
+    "ja": "ミドルネームは単なるプレースホルダーではありません。それはつながり、遺産、または純粋に楽しい響きの機会です。新生児に名前を付ける場合でも、キャラクターを作成する場合でも、単に好奇心からでも、このジェネレーターはインスピレーションを提供します。飛び込んで、響き合う名前を発見してください！",
+    "pt": "Um nome do meio é mais do que apenas um espaço reservado; é uma chance de conexão, herança ou puro som delicioso. Esteja você nomeando um recém-nascido, criando um personagem ou apenas curioso, este gerador oferece inspiração. Mergulhe e descubra nomes que ressoam!",
+    "ru": "Среднее имя - это больше, чем просто заполнитель; это шанс для связи, наследия или чисто восхитительного звучания. Называете ли вы новорожденного, создаете персонажа или просто любопытствуете, этот генератор предлагает вдохновение. Погрузитесь и откройте для себя имена, которые находят отклик!"
+  },
+  "howToUse": {
+    "en": [
+      "Hit the 'Generate' button to start the magic.",
+      "See a list of potential middle names appear.",
+      "Browse through the suggestions – classic, modern, unique!",
+      "Find one that clicks? Copy it instantly.",
+      "Use your newfound middle name inspiration!"
+    ],
+    "ar": [
+      "اضغط على زر 'إنشاء' لبدء السحر.",
+      "شاهد قائمة بالأسماء الوسطى المحتملة تظهر.",
+      "تصفح الاقتراحات - كلاسيكية، حديثة، فريدة!",
+      "هل وجدت اسمًا يعجبك؟ انسخه فورًا.",
+      "استخدم إلهامك الجديد للاسم الأوسط!"
+    ],
+    "es": [
+      "Pulsa el botón 'Generar' para iniciar la magia.",
+      "Verás aparecer una lista de posibles segundos nombres.",
+      "¡Explora las sugerencias: clásicas, modernas, únicas!",
+      "¿Encontraste uno que te gusta? Cópialo al instante.",
+      "¡Usa tu nueva inspiración para el segundo nombre!"
+    ],
+    "fr": [
+      "Appuyez sur le bouton 'Générer' pour démarrer la magie.",
+      "Voyez apparaître une liste de deuxièmes prénoms potentiels.",
+      "Parcourez les suggestions – classiques, modernes, uniques !",
+      "Vous en trouvez un qui vous plaît ? Copiez-le instantanément.",
+      "Utilisez votre nouvelle inspiration de deuxième prénom !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮开始施展魔法。",
+      "查看出现的潜在中间名列表。",
+      "浏览建议——经典的、现代的、独特的！",
+      "找到心仪的名字了吗？立即复制它。",
+      "使用你新发现的中间名灵感吧！"
+    ],
+    "ja": [
+      "「生成」ボタンを押して魔法を開始します。",
+      "候補となるミドルネームのリストが表示されます。",
+      "提案を閲覧します – クラシック、モダン、ユニーク！",
+      "気に入ったものが見つかりましたか？すぐにコピーしてください。",
+      "新たに見つけたミドルネームのインスピレーションを活用しましょう！"
+    ],
+    "pt": [
+      "Pressione o botão 'Gerar' para iniciar a mágica.",
+      "Veja uma lista de possíveis nomes do meio aparecer.",
+      "Navegue pelas sugestões – clássicas, modernas, únicas!",
+      "Encontrou um que combina? Copie-o instantaneamente.",
+      "Use sua recém-encontrada inspiração de nome do meio!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Создать', чтобы начать волшебство.",
+      "Увидите список потенциальных средних имен.",
+      "Просмотрите предложения – классические, современные, уникальные!",
+      "Нашли то, что подходит? Скопируйте его мгновенно.",
+      "Используйте свое новообретенное вдохновение для среднего имени!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Middle Name Generator really free?",
+        "ar": "هل مولد الاسم الأوسط هذا مجاني حقًا؟",
+        "es": "¿Este Generador de Segundos Nombres es realmente gratis?",
+        "fr": "Ce Générateur de Deuxièmes Prénoms est-il vraiment gratuit ?",
+        "zh-cn": "这个中间名生成器真的是免费的吗？",
+        "ja": "このミドルネームジェネレーターは本当に無料ですか？",
+        "pt": "Este Gerador de Nomes do Meio é realmente gratuito?",
+        "ru": "Этот Генератор Средних Имен действительно бесплатный?"
+      },
+      "answer": {
+        "en": "Yes, completely! Finding the perfect middle name shouldn't cost a thing. Generate as many names as you need, completely free of charge.",
+        "ar": "نعم، بالكامل! العثور على الاسم الأوسط المثالي لا يجب أن يكلف شيئًا. قم بإنشاء العديد من الأسماء كما تحتاج، مجانًا تمامًا.",
+        "es": "¡Sí, completamente! Encontrar el segundo nombre perfecto no debería costar nada. Genera tantos nombres como necesites, totalmente gratis.",
+        "fr": "Oui, entièrement ! Trouver le deuxième prénom parfait ne devrait rien coûter. Générez autant de noms que nécessaire, entièrement gratuitement.",
+        "zh-cn": "是的，完全免费！寻找完美的中间名不应该花费任何费用。您可以根据需要生成任意数量的名字，完全免费。",
+        "ja": "はい、完全に無料です！完璧なミドルネームを見つけるのにお金がかかるべきではありません。必要なだけ名前を生成してください、完全に無料です。",
+        "pt": "Sim, completamente! Encontrar o nome do meio perfeito não deveria custar nada. Gere quantos nomes precisar, totalmente gratuito.",
+        "ru": "Да, полностью! Поиск идеального среднего имени не должен ничего стоить. Генерируйте столько имен, сколько вам нужно, совершенно бесплатно."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my baby, character, or pet?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لطفلي أو شخصيتي أو حيواني الأليف؟",
+        "es": "¿Puedo usar estos nombres para mi bebé, personaje o mascota?",
+        "fr": "Puis-je utiliser ces noms pour mon bébé, mon personnage ou mon animal de compagnie ?",
+        "zh-cn": "我可以将这些名字用于我的宝宝、角色或宠物吗？",
+        "ja": "これらの名前を私の赤ちゃん、キャラクター、またはペットに使用できますか？",
+        "pt": "Posso usar esses nomes para meu bebê, personagem ou animal de estimação?",
+        "ru": "Могу ли я использовать эти имена для своего ребенка, персонажа или питомца?"
+      },
+      "answer": {
+        "en": "Absolutely! That's what it's here for. However, we recommend researching the meaning and origin of any name you love to ensure it's the perfect fit. Popularity and potential associations are also good things to consider.",
+        "ar": "بالتأكيد! هذا هو الغرض منه. ومع ذلك، نوصي بالبحث عن معنى وأصل أي اسم تحبه للتأكد من أنه مناسب تمامًا. شعبية الاسم والارتباطات المحتملة هي أيضًا أمور جيدة يجب مراعاتها.",
+        "es": "¡Absolutamente! Para eso está aquí. Sin embargo, recomendamos investigar el significado y origen de cualquier nombre que te guste para asegurarte de que sea el ajuste perfecto. La popularidad y las posibles asociaciones también son cosas buenas a considerar.",
+        "fr": "Absolument ! C'est à cela qu'il sert. Cependant, nous vous recommandons de rechercher la signification et l'origine de tout nom que vous aimez pour vous assurer qu'il convient parfaitement. La popularité et les associations potentielles sont également de bonnes choses à considérer.",
+        "zh-cn": "当然可以！这就是它的用途。不过，我们建议您研究一下您喜欢的任何名字的含义和起源，以确保它完全合适。名字的流行度和潜在联想也是需要考虑的好方面。",
+        "ja": "もちろんです！そのためにここにあります。ただし、気に入った名前の意味や由来を調べて、それが完璧にフィットするかどうかを確認することをお勧めします。人気や潜在的な連想も考慮すべき点です。",
+        "pt": "Absolutamente! É para isso que ele serve. No entanto, recomendamos pesquisar o significado e a origem de qualquer nome que você ame para garantir que seja o ajuste perfeito. Popularidade e associações potenciais também são boas coisas a considerar.",
+        "ru": "Абсолютно! Для этого он и предназначен. Однако мы рекомендуем изучить значение и происхождение любого понравившегося вам имени, чтобы убедиться, что оно идеально подходит. Популярность и потенциальные ассоциации также стоит учитывать."
+      }
+    },
+    {
+      "question": {
+        "en": "How many middle names can I generate?",
+        "ar": "كم عدد الأسماء الوسطى التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos segundos nombres puedo generar?",
+        "fr": "Combien de deuxièmes prénoms puis-je générer ?",
+        "zh-cn": "我可以生成多少个中间名？",
+        "ja": "いくつのミドルネームを生成できますか？",
+        "pt": "Quantos nomes do meio posso gerar?",
+        "ru": "Сколько средних имен я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "Generate to infinity and beyond! Well, maybe not infinity, but there's no set limit. Keep clicking until you find the name that sparks joy.",
+        "ar": "قم بالإنشاء إلى ما لا نهاية وما بعدها! حسنًا، ربما ليس إلى ما لا نهاية، ولكن لا يوجد حد معين. استمر في النقر حتى تجد الاسم الذي يثير الفرح.",
+        "es": "¡Genera hasta el infinito y más allá! Bueno, tal vez no hasta el infinito, pero no hay un límite establecido. Sigue haciendo clic hasta que encuentres el nombre que despierte alegría.",
+        "fr": "Générez à l'infini et au-delà ! Bon, peut-être pas à l'infini, mais il n'y a pas de limite définie. Continuez à cliquer jusqu'à ce que vous trouviez le nom qui suscite la joie.",
+        "zh-cn": "生成到无穷无尽！嗯，也许不是无穷，但没有设定限制。继续点击，直到找到那个让你心动的名字。",
+        "ja": "無限に、そしてその先へ生成してください！まあ、無限ではないかもしれませんが、設定された制限はありません。喜びを呼び起こす名前が見つかるまでクリックし続けてください。",
+        "pt": "Gere até o infinito e além! Bem, talvez não infinito, mas não há limite definido. Continue clicando até encontrar o nome que desperta alegria.",
+        "ru": "Генерируйте до бесконечности и дальше! Ну, может быть, не до бесконечности, но установленного лимита нет. Продолжайте нажимать, пока не найдете имя, которое вызывает радость."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names meaningful or unique?",
+        "ar": "هل الأسماء التي تم إنشاؤها ذات معنى أو فريدة؟",
+        "es": "¿Los nombres generados son significativos o únicos?",
+        "fr": "Les noms générés sont-ils significatifs ou uniques ?",
+        "zh-cn": "生成的名字有意义或独特吗？",
+        "ja": "生成された名前は意味があるか、ユニークですか？",
+        "pt": "Os nomes gerados são significativos ou únicos?",
+        "ru": "Являются ли сгенерированные имена значимыми или уникальными?"
+      },
+      "answer": {
+        "en": "We aim for a mix! You'll find classic favorites, trendy options, and some more unusual gems. Meaning is subjective, so while we provide variety, the 'perfect' meaning is up to you to find or assign.",
+        "ar": "نحن نهدف إلى مزيج! ستجد الأسماء الكلاسيكية المفضلة، والخيارات العصرية، وبعض الجواهر الأكثر غرابة. المعنى شخصي، لذلك بينما نقدم التنوع، فإن المعنى 'المثالي' متروك لك للعثور عليه أو تحديده.",
+        "es": "¡Nuestro objetivo es una mezcla! Encontrarás favoritos clásicos, opciones de moda y algunas joyas más inusuales. El significado es subjetivo, así que aunque ofrecemos variedad, el significado 'perfecto' depende de ti encontrarlo o asignarlo.",
+        "fr": "Nous visons un mélange ! Vous trouverez des favoris classiques, des options tendance et quelques joyaux plus inhabituels. Le sens est subjectif, donc bien que nous offrions de la variété, le sens « parfait » dépend de vous de le trouver ou de l'attribuer.",
+        "zh-cn": "我们的目标是混合！您会发现经典的最爱、时尚的选择以及一些更不寻常的珍品。意义是主观的，因此虽然我们提供多样性，但“完美”的意义需要您去发现或赋予。",
+        "ja": "ミックスを目指しています！クラシックなお気に入り、トレンディなオプション、そしていくつかのより珍しい逸品が見つかります。意味は主観的なので、多様性を提供しますが、「完璧な」意味を見つけるか割り当てるかはあなた次第です。",
+        "pt": "Nosso objetivo é uma mistura! Você encontrará favoritos clássicos, opções da moda e algumas joias mais incomuns. O significado é subjetivo, então, embora ofereçamos variedade, o significado 'perfeito' depende de você encontrar ou atribuir.",
+        "ru": "Мы стремимся к сочетанию! Вы найдете классические фавориты, модные варианты и некоторые более необычные жемчужины. Значение субъективно, поэтому, хотя мы предоставляем разнообразие, «идеальное» значение вы должны найти или присвоить сами."
+      }
+    },
+    {
+      "question": {
+        "en": "Will using a name generated here guarantee my child/character is awesome?",
+        "ar": "هل استخدام اسم تم إنشاؤه هنا يضمن أن طفلي/شخصيتي سيكون رائعًا؟",
+        "es": "¿Usar un nombre generado aquí garantiza que mi hijo/personaje sea increíble?",
+        "fr": "L'utilisation d'un nom généré ici garantit-elle que mon enfant/personnage sera génial ?",
+        "zh-cn": "使用在这里生成的名字能保证我的孩子/角色很棒吗？",
+        "ja": "ここで生成された名前を使用することで、私の子供/キャラクターが素晴らしいものになることが保証されますか？",
+        "pt": "Usar um nome gerado aqui garante que meu filho/personagem será incrível?",
+        "ru": "Гарантирует ли использование сгенерированного здесь имени, что мой ребенок/персонаж будет потрясающим?"
+      },
+      "answer": {
+        "en": "While a great middle name adds a certain *je ne sais quoi*, true awesomeness comes from within (and maybe good parenting or writing!). But a cool name definitely sets a good tone!",
+        "ar": "بينما يضيف الاسم الأوسط الرائع شيئًا لا يوصف، فإن الروعة الحقيقية تأتي من الداخل (وربما التربية الجيدة أو الكتابة!). لكن الاسم الرائع يحدد بالتأكيد نغمة جيدة!",
+        "es": "Si bien un gran segundo nombre agrega un cierto *je ne sais quoi*, la verdadera genialidad viene de adentro (¡y tal vez de una buena crianza o escritura!). ¡Pero un nombre genial definitivamente establece un buen tono!",
+        "fr": "Bien qu'un super deuxième prénom ajoute un certain *je ne sais quoi*, la vraie génialité vient de l'intérieur (et peut-être d'une bonne éducation ou écriture !). Mais un nom cool donne définitivement le bon ton !",
+        "zh-cn": "虽然一个好的中间名增添了某种难以言喻的魅力，但真正的卓越源于内在（也许还有良好的养育或写作！）。但一个酷的名字绝对能定下好基调！",
+        "ja": "素晴らしいミドルネームは特定の「je ne sais quoi（言葉では言い表せない何か）」を加えますが、真の素晴らしさは内面から来るものです（そして、おそらく良い子育てや執筆！）。しかし、クールな名前は間違いなく良いトーンを設定します！",
+        "pt": "Embora um ótimo nome do meio adicione um certo *je ne sais quoi*, a verdadeira grandiosidade vem de dentro (e talvez de uma boa criação ou escrita!). Mas um nome legal definitivamente define um bom tom!",
+        "ru": "Хотя отличное среднее имя добавляет определенный *je ne sais quoi*, истинная крутость исходит изнутри (и, возможно, от хорошего воспитания или написания!). Но классное имя определенно задает хороший тон!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest name origins or styles for the generator?",
+        "ar": "هل يمكنني اقتراح أصول أو أنماط أسماء للمولد؟",
+        "es": "¿Puedo sugerir orígenes o estilos de nombres para el generador?",
+        "fr": "Puis-je suggérer des origines ou des styles de noms pour le générateur ?",
+        "zh-cn": "我可以为生成器建议名字的起源或风格吗？",
+        "ja": "ジェネレーターに名前の由来やスタイルを提案できますか？",
+        "pt": "Posso sugerir origens ou estilos de nomes para o gerador?",
+        "ru": "Могу ли я предложить происхождение или стили имен для генератора?"
+      },
+      "answer": {
+        "en": "We'd love that! More diverse inputs make the generator better. Use our feedback form to send your suggestions for origins, styles, or specific names you'd like to see included.",
+        "ar": "نود ذلك! المزيد من المدخلات المتنوعة تجعل المولد أفضل. استخدم نموذج التعليقات الخاص بنا لإرسال اقتراحاتك للأصول أو الأنماط أو الأسماء المحددة التي ترغب في رؤيتها مضمنة.",
+        "es": "¡Nos encantaría! Más aportaciones diversas hacen que el generador sea mejor. Utiliza nuestro formulario de comentarios para enviar tus sugerencias de orígenes, estilos o nombres específicos que te gustaría ver incluidos.",
+        "fr": "Nous adorerions ! Des entrées plus diversifiées améliorent le générateur. Utilisez notre formulaire de commentaires pour envoyer vos suggestions d'origines, de styles ou de noms spécifiques que vous aimeriez voir inclus.",
+        "zh-cn": "我们非常乐意！更多样化的输入使生成器变得更好。使用我们的反馈表发送您希望包含的起源、风格或特定名称的建议。",
+        "ja": "大歓迎です！より多様な入力がジェネレーターをより良くします。フィードバックフォームを使用して、含めてほしい由来、スタイル、または特定の名前の提案を送信してください。",
+        "pt": "Adoraríamos isso! Entradas mais diversificadas tornam o gerador melhor. Use nosso formulário de feedback para enviar suas sugestões de origens, estilos ou nomes específicos que você gostaria de ver incluídos.",
+        "ru": "Мы бы этого хотели! Более разнообразные входные данные делают генератор лучше. Используйте нашу форму обратной связи, чтобы отправить свои предложения по происхождению, стилям или конкретным именам, которые вы хотели бы видеть включенными."
+      }
+    }
+  ]
+}

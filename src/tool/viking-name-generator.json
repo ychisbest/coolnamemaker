@@ -1,0 +1,236 @@
+{
+  "name": {
+    "en": "Viking Name Generator",
+    "ar": "مولد أسماء الفايكنج",
+    "es": "Generador de Nombres Vikingos",
+    "fr": "Générateur de Noms Vikings",
+    "zh-cn": "维京名字生成器",
+    "ja": "ヴァイキング名ジェネレーター",
+    "pt": "Gerador de Nomes Vikings",
+    "ru": "Генератор Имен Викингов"
+  },
+  "description": {
+    "en": "Forge your legendary Viking identity! Whether seeking a name for a fierce warrior, a wise seer, or a daring explorer for your stories, games, or just for fun, our Viking Name Generator summons powerful and authentic-sounding Norse names. Unleash the spirit of the North!",
+    "ar": "اصنع هويتك الفايكنجية الأسطورية! سواء كنت تبحث عن اسم لمحارب شرس، أو عراف حكيم، أو مستكشف جريء لقصصك، أو ألعابك، أو للمتعة فقط، فإن مولد أسماء الفايكنج لدينا يستدعي أسماء نوردية قوية وأصيلة. أطلق العنان لروح الشمال!",
+    "es": "¡Forja tu legendaria identidad vikinga! Ya sea que busques un nombre para un guerrero feroz, un sabio vidente o un explorador audaz para tus historias, juegos o simplemente por diversión, nuestro Generador de Nombres Vikingos invoca nombres nórdicos poderosos y de sonido auténtico. ¡Libera el espíritu del Norte!",
+    "fr": "Forgez votre identité viking légendaire ! Que vous cherchiez un nom pour un guerrier féroce, un sage voyant ou un explorateur audacieux pour vos histoires, jeux ou simplement pour le plaisir, notre Générateur de Noms Vikings invoque des noms nordiques puissants et à consonance authentique. Libérez l'esprit du Nord !",
+    "zh-cn": "锻造你传奇的维京身份！无论你是为故事、游戏寻找凶猛战士、智慧先知或大胆探险家的名字，还是仅仅为了好玩，我们的维京名字生成器都能召唤出强大且听起来真实的北欧名字。释放北境之魂！",
+    "ja": "伝説的なヴァイキングのアイデンティティを鍛え上げましょう！物語やゲームのため、または単なる楽しみのために、獰猛な戦士、賢明な予言者、大胆な探検家の名前を探している場合でも、当社のヴァイキング名ジェネレーターは、パワフルで本物らしい響きの北欧の名前を召喚します。北の精神を解き放て！",
+    "pt": "Forje sua identidade viking lendária! Seja procurando um nome para um guerreiro feroz, um vidente sábio ou um explorador ousado para suas histórias, jogos ou apenas por diversão, nosso Gerador de Nomes Vikings convoca nomes nórdicos poderosos e de sonoridade autêntica. Liberte o espírito do Norte!",
+    "ru": "Создайте свою легендарную личность викинга! Ищете ли вы имя для свирепого воина, мудрого провидца или отважного исследователя для своих историй, игр или просто для развлечения, наш Генератор Имен Викингов призывает мощные и аутентично звучащие скандинавские имена. Высвободите дух Севера!"
+  },
+  "slug": "viking-name-generator",
+  "prompt": {
+    "en": "Generate a Viking name",
+    "ar": "قم بإنشاء اسم فايكنج",
+    "es": "Generar un nombre vikingo",
+    "fr": "Générer un nom viking",
+    "zh-cn": "生成一个维京名字",
+    "ja": "ヴァイキング名を生成する",
+    "pt": "Gerar um nome viking",
+    "ru": "Сгенерировать имя викинга"
+  },
+  "icon": "🛡️",
+  "introduction": {
+    "en": "Step back into the age of longships and legends! This isn't just a name generator; it's your portal to the rugged, mythical world of the Vikings. Craft a name that resonates with the strength of Thor, the wisdom of Odin, or the adventurous spirit of Leif Erikson. Find the perfect moniker for your RPG character, online alias, or simply to connect with the powerful Norse heritage.",
+    "ar": "عد بالزمن إلى عصر السفن الطويلة والأساطير! هذا ليس مجرد مولد أسماء؛ إنه بوابتك إلى عالم الفايكنج القاسي والأسطوري. اصنع اسمًا يتردد صداه بقوة ثور، أو حكمة أودين، أو روح المغامرة لدى ليف إريكسون. اعثر على اللقب المثالي لشخصيتك في ألعاب تقمص الأدوار، أو اسمك المستعار على الإنترنت، أو ببساطة للتواصل مع التراث النوردي القوي.",
+    "es": "¡Retrocede a la era de los drakkars y las leyendas! Esto no es solo un generador de nombres; es tu portal al mundo rudo y mítico de los vikingos. Crea un nombre que resuene con la fuerza de Thor, la sabiduría de Odín o el espíritu aventurero de Leif Erikson. Encuentra el apodo perfecto para tu personaje de RPG, alias en línea o simplemente para conectar con la poderosa herencia nórdica.",
+    "fr": "Remontez à l'âge des drakkars et des légendes ! Ce n'est pas seulement un générateur de noms ; c'est votre portail vers le monde rude et mythique des Vikings. Créez un nom qui résonne avec la force de Thor, la sagesse d'Odin ou l'esprit aventureux de Leif Erikson. Trouvez le surnom parfait pour votre personnage de JDR, votre alias en ligne ou simplement pour vous connecter au puissant héritage nordique.",
+    "zh-cn": "回到长船与传奇的时代！这不仅仅是一个名字生成器；它是你通往维京人那粗犷、神秘世界的传送门。打造一个能与索尔的力量、奥丁的智慧或莱夫·埃里克松的冒险精神产生共鸣的名字。为你的RPG角色、网络别名寻找完美的称号，或者仅仅是为了与强大的北欧遗产建立联系。",
+    "ja": "ロングシップと伝説の時代に足を踏み入れましょう！これは単なる名前生成器ではありません。ヴァイキングの荒々しく神話的な世界へのポータルです。トールの強さ、オーディンの知恵、またはレイフ・エリクソンの冒険心に響く名前を作り上げましょう。RPGキャラクター、オンラインエイリアス、または単に強力な北欧の遺産と繋がるために、完璧な呼び名を見つけてください。",
+    "pt": "Volte para a era dos dracares e lendas! Isto não é apenas um gerador de nomes; é o seu portal para o mundo robusto e mítico dos Vikings. Crie um nome que ressoe com a força de Thor, a sabedoria de Odin ou o espírito aventureiro de Leif Erikson. Encontre o apelido perfeito para seu personagem de RPG, alias online ou simplesmente para se conectar com a poderosa herança nórdica.",
+    "ru": "Вернитесь в эпоху драккаров и легенд! Это не просто генератор имен; это ваш портал в суровый, мифический мир викингов. Создайте имя, которое резонирует с силой Тора, мудростью Одина или авантюрным духом Лейфа Эрикссона. Найдите идеальное прозвище для вашего персонажа RPG, онлайн-псевдонима или просто чтобы соединиться с могучим скандинавским наследием."
+  },
+  "howToUse": {
+    "en": [
+      "Click the mighty 'Generate' button. Heed the call!",
+      "Prepare for a hoard of powerful Viking names to appear.",
+      "Scan the saga of names and behold the possibilities!",
+      "Found a name worthy of a Jarl? Copy it!",
+      "Now, go forth and conquer your realm (digital or otherwise) with your fearsome new Viking name!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' القوي. استجب للنداء!",
+      "استعد لظهور كنز من أسماء الفايكنج القوية.",
+      "تفحص ملحمة الأسماء وشاهد الاحتمالات!",
+      "هل وجدت اسمًا يليق بيارل؟ انسخه!",
+      "الآن، انطلق واغزو مملكتك (الرقمية أو غيرها) باسمك الفايكنجي الجديد المخيف!"
+    ],
+    "es": [
+      "Haz clic en el poderoso botón 'Generar'. ¡Escucha la llamada!",
+      "Prepárate para que aparezca un tesoro de poderosos nombres vikingos.",
+      "¡Escanea la saga de nombres y contempla las posibilidades!",
+      "¿Encontraste un nombre digno de un Jarl? ¡Cópialo!",
+      "¡Ahora, ve y conquista tu reino (digital o de otro tipo) con tu temible nuevo nombre vikingo!"
+    ],
+    "fr": [
+      "Cliquez sur le puissant bouton 'Générer'. Répondez à l'appel !",
+      "Préparez-vous à l'apparition d'un trésor de noms vikings puissants.",
+      "Parcourez la saga des noms et contemplez les possibilités !",
+      "Trouvé un nom digne d'un Jarl ? Copiez-le !",
+      "Maintenant, partez à la conquête de votre royaume (numérique ou autre) avec votre redoutable nouveau nom viking !"
+    ],
+    "zh-cn": [
+      "点击强大的“生成”按钮。响应召唤！",
+      "准备好迎接一大批强大的维京名字出现。",
+      "浏览名字的史诗，见证各种可能性！",
+      "找到一个配得上雅尔的名字了吗？复制它！",
+      "现在，带着你可怕的新维京名字，去征服你的领域（无论是数字领域还是其他领域）吧！"
+    ],
+    "ja": [
+      "強力な「生成」ボタンをクリックしてください。呼び声に応えよ！",
+      "強力なヴァイキング名の宝庫が現れる準備をしてください。",
+      "名前のサガをスキャンし、可能性を目の当たりにしてください！",
+      "ヤールにふさわしい名前を見つけましたか？コピーしましょう！",
+      "さあ、恐るべき新しいヴァイキング名で、あなたの領域（デジタルまたはその他）を征服しに出かけましょう！"
+    ],
+    "pt": [
+      "Clique no poderoso botão 'Gerar'. Atenda ao chamado!",
+      "Prepare-se para o surgimento de um tesouro de nomes vikings poderosos.",
+      "Examine a saga de nomes e contemple as possibilidades!",
+      "Encontrou um nome digno de um Jarl? Copie-o!",
+      "Agora, vá em frente e conquiste seu reino (digital ou não) com seu temível novo nome viking!"
+    ],
+    "ru": [
+      "Нажмите могучую кнопку 'Создать'. Внемлите зову!",
+      "Приготовьтесь к появлению клада мощных имен викингов.",
+      "Просмотрите сагу имен и узрите возможности!",
+      "Нашли имя, достойное Ярла? Скопируйте его!",
+      "А теперь идите и покоряйте свое царство (цифровое или иное) с вашим грозным новым именем викинга!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Viking Name Generator truly free?",
+        "ar": "هل مولد أسماء الفايكنج هذا مجاني حقًا؟",
+        "es": "¿Este Generador de Nombres Vikingos es realmente gratis?",
+        "fr": "Ce Générateur de Noms Vikings est-il vraiment gratuit ?",
+        "zh-cn": "这个维京名字生成器真的是免费的吗？",
+        "ja": "このヴァイキング名ジェネレーターは本当に無料ですか？",
+        "pt": "Este Gerador de Nomes Vikings é realmente gratuito?",
+        "ru": "Этот Генератор Имен Викингов действительно бесплатный?"
+      },
+      "answer": {
+        "en": "Aye! We believe every aspiring shield-maiden and berserker deserves a legendary name without spending their silver. Generate as many names as you wish!",
+        "ar": "أجل! نحن نؤمن بأن كل محاربة طموحة ومحارب هائج يستحق اسمًا أسطوريًا دون إنفاق فضتهم. قم بإنشاء العديد من الأسماء كما يحلو لك!",
+        "es": "¡Sí! Creemos que cada aspirante a doncella escudera y berserker merece un nombre legendario sin gastar su plata. ¡Genera tantos nombres como desees!",
+        "fr": "Oui ! Nous pensons que chaque aspirante skjaldmö et berserker mérite un nom légendaire sans dépenser son argent. Générez autant de noms que vous le souhaitez !",
+        "zh-cn": "是的！我们相信每个有抱负的盾女和狂战士都应该拥有一个传奇的名字，而无需花费他们的银子。随心所欲地生成任意数量的名字！",
+        "ja": "はい！私たちは、すべての意欲的な盾の乙女とバーサーカーが、銀貨を使うことなく伝説的な名前を得るに値すると信じています。好きなだけ名前を生成してください！",
+        "pt": "Sim! Acreditamos que toda aspirante a escudeira e berserker merece um nome lendário sem gastar sua prata. Gere quantos nomes desejar!",
+        "ru": "Да! Мы считаем, что каждая начинающая воительница и берсерк заслуживают легендарного имени, не тратя свое серебро. Генерируйте столько имен, сколько пожелаете!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for commercial purposes?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لأغراض تجارية؟",
+        "es": "¿Puedo usar estos nombres con fines comerciales?",
+        "fr": "Puis-je utiliser ces noms à des fins commerciales ?",
+        "zh-cn": "我可以将这些名字用于商业目的吗？",
+        "ja": "これらの名前を商業目的で使用できますか？",
+        "pt": "Posso usar esses nomes para fins comerciais?",
+        "ru": "Могу ли я использовать эти имена в коммерческих целях?"
+      },
+      "answer": {
+        "en": "While many generated names draw inspiration from historical Norse names (often in the public domain), the specific combinations might be unique. We can't guarantee trademark availability. Always research before using a name commercially.",
+        "ar": "بينما تستلهم العديد من الأسماء التي تم إنشاؤها من الأسماء النوردية التاريخية (غالبًا ما تكون في الملكية العامة)، قد تكون التركيبات المحددة فريدة من نوعها. لا يمكننا ضمان توفر العلامة التجارية. ابحث دائمًا قبل استخدام اسم تجاريًا.",
+        "es": "Si bien muchos nombres generados se inspiran en nombres nórdicos históricos (a menudo de dominio público), las combinaciones específicas pueden ser únicas. No podemos garantizar la disponibilidad de marcas comerciales. Investiga siempre antes de usar un nombre comercialmente.",
+        "fr": "Bien que de nombreux noms générés s'inspirent de noms nordiques historiques (souvent dans le domaine public), les combinaisons spécifiques peuvent être uniques. Nous ne pouvons garantir la disponibilité des marques. Faites toujours des recherches avant d'utiliser un nom à des fins commerciales.",
+        "zh-cn": "虽然许多生成的名字从历史上的北欧名字（通常属于公共领域）中汲取灵感，但具体的组合可能是独一无二的。我们不能保证商标的可用性。在商业上使用名称之前，请务必进行研究。",
+        "ja": "生成された名前の多くは歴史的な北欧の名前（多くはパブリックドメイン）からインスピレーションを得ていますが、特定の組み合わせはユニークかもしれません。商標の利用可能性を保証することはできません。商業的に名前を使用する前に、必ず調査を行ってください。",
+        "pt": "Embora muitos nomes gerados se inspirem em nomes nórdicos históricos (muitas vezes em domínio público), as combinações específicas podem ser únicas. Não podemos garantir a disponibilidade de marcas registradas. Sempre pesquise antes de usar um nome comercialmente.",
+        "ru": "Хотя многие сгенерированные имена черпают вдохновение из исторических скандинавских имен (часто находящихся в общественном достоянии), конкретные комбинации могут быть уникальными. Мы не можем гарантировать доступность товарных знаков. Всегда проводите исследование перед коммерческим использованием имени."
+      }
+    },
+    {
+      "question": {
+        "en": "How many Viking names can I generate?",
+        "ar": "كم عدد أسماء الفايكنج التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres vikingos puedo generar?",
+        "fr": "Combien de noms vikings puis-je générer ?",
+        "zh-cn": "我可以生成多少个维京名字？",
+        "ja": "いくつのヴァイキング名を生成できますか？",
+        "pt": "Quantos nomes vikings posso gerar?",
+        "ru": "Сколько имен викингов я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "As many as the Norns decree! There's no limit. Keep clicking until you find the name that echoes your inner Viking spirit!",
+        "ar": "بقدر ما تقضي به النورنات! لا يوجد حد. استمر في النقر حتى تجد الاسم الذي يعكس روح الفايكنج بداخلك!",
+        "es": "¡Tantos como decreten las Nornas! No hay límite. ¡Sigue haciendo clic hasta que encuentres el nombre que haga eco de tu espíritu vikingo interior!",
+        "fr": "Autant que les Nornes le décrètent ! Il n'y a pas de limite. Continuez à cliquer jusqu'à ce que vous trouviez le nom qui fait écho à votre esprit viking intérieur !",
+        "zh-cn": "命运女神允许多少就可以生成多少！没有限制。继续点击，直到找到与你内心维京精神产生共鸣的名字！",
+        "ja": "ノルンが定める限りいくらでも！制限はありません。あなたの内なるヴァイキングの精神に響く名前が見つかるまで、クリックし続けてください！",
+        "pt": "Quantos as Nornas decretarem! Não há limite. Continue clicando até encontrar o nome que ecoa seu espírito viking interior!",
+        "ru": "Столько, сколько укажут Норны! Ограничений нет. Продолжайте нажимать, пока не найдете имя, которое отзовется в вашем внутреннем духе викинга!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names historically accurate Viking names?",
+        "ar": "هل الأسماء التي تم إنشاؤها هي أسماء فايكنج دقيقة تاريخيًا؟",
+        "es": "¿Los nombres generados son nombres vikingos históricamente precisos?",
+        "fr": "Les noms générés sont-ils des noms vikings historiquement exacts ?",
+        "zh-cn": "生成的名字是历史上准确的维京名字吗？",
+        "ja": "生成された名前は歴史的に正確なヴァイキングの名前ですか？",
+        "pt": "Os nomes gerados são nomes vikings historicamente precisos?",
+        "ru": "Являются ли сгенерированные имена исторически точными именами викингов?"
+      },
+      "answer": {
+        "en": "Our generator uses authentic Norse naming elements, patterns, and mythological references to create names that *sound* Viking. While some may be historically attested, others are creative combinations designed to capture the Viking feel.",
+        "ar": "يستخدم مولدنا عناصر تسمية نوردية أصيلة وأنماطًا ومراجع أسطورية لإنشاء أسماء *تبدو* فايكنجية. بينما قد يكون بعضها موثقًا تاريخيًا، فإن البعض الآخر عبارة عن مجموعات إبداعية مصممة لالتقاط إحساس الفايكنج.",
+        "es": "Nuestro generador utiliza elementos de nombres nórdicos auténticos, patrones y referencias mitológicas para crear nombres que *suenan* vikingos. Si bien algunos pueden estar atestiguados históricamente, otros son combinaciones creativas diseñadas para capturar la sensación vikinga.",
+        "fr": "Notre générateur utilise des éléments de noms nordiques authentiques, des modèles et des références mythologiques pour créer des noms qui *sonnent* viking. Bien que certains puissent être historiquement attestés, d'autres sont des combinaisons créatives conçues pour capturer l'ambiance viking.",
+        "zh-cn": "我们的生成器使用真实的北欧命名元素、模式和神话参考来创建*听起来*像维京人的名字。虽然有些可能在历史上得到证实，但其他的是旨在捕捉维京感觉的创意组合。",
+        "ja": "当社のジェネレーターは、本物の北欧の命名要素、パターン、神話の参照を使用して、ヴァイキング*らしい*名前を作成します。歴史的に証明されているものもあるかもしれませんが、他はヴァイキングの雰囲気を捉えるために設計された創造的な組み合わせです。",
+        "pt": "Nosso gerador usa elementos de nomes nórdicos autênticos, padrões e referências mitológicas para criar nomes que *soam* como vikings. Embora alguns possam ser historicamente atestados, outros são combinações criativas projetadas para capturar a sensação viking.",
+        "ru": "Наш генератор использует аутентичные скандинавские элементы имен, шаблоны и мифологические отсылки для создания имен, которые *звучат* по-викингски. Хотя некоторые из них могут быть исторически засвидетельствованы, другие представляют собой творческие комбинации, призванные передать дух викингов."
+      }
+    },
+    {
+      "question": {
+        "en": "What can I use these Viking names for?",
+        "ar": "فيم يمكنني استخدام أسماء الفايكنج هذه؟",
+        "es": "¿Para qué puedo usar estos nombres vikingos?",
+        "fr": "À quoi puis-je utiliser ces noms vikings ?",
+        "zh-cn": "我可以将这些维京名字用于什么？",
+        "ja": "これらのヴァイキング名を何に使用できますか？",
+        "pt": "Para que posso usar esses nomes vikings?",
+        "ru": "Для чего я могу использовать эти имена викингов?"
+      },
+      "answer": {
+        "en": "Anything your adventurous heart desires! Perfect for RPG characters (like D&D or historical games), online usernames, fictional characters in your writing, reenactment personas, or just for fun!",
+        "ar": "أي شيء يرغب به قلبك المغامر! مثالية لشخصيات ألعاب تقمص الأدوار (مثل D&D أو الألعاب التاريخية)، وأسماء المستخدمين عبر الإنترنت، والشخصيات الخيالية في كتاباتك، وشخصيات إعادة التمثيل، أو للمتعة فقط!",
+        "es": "¡Cualquier cosa que tu corazón aventurero desee! ¡Perfecto para personajes de RPG (como D&D o juegos históricos), nombres de usuario en línea, personajes de ficción en tu escritura, personajes de recreación histórica o simplemente por diversión!",
+        "fr": "Tout ce que votre cœur aventureux désire ! Parfait pour les personnages de JDR (comme D&D ou les jeux historiques), les noms d'utilisateur en ligne, les personnages de fiction dans vos écrits, les personnages de reconstitution historique ou simplement pour le plaisir !",
+        "zh-cn": "任何你冒险的心渴望的东西！非常适合RPG角色（如D&D或历史游戏）、在线用户名、你写作中的虚构人物、重演角色，或者仅仅是为了好玩！",
+        "ja": "あなたの冒険心あふれる心が望むものなら何でも！RPGキャラクター（D&Dや歴史ゲームなど）、オンラインユーザー名、執筆中の架空のキャラクター、再現役、または単なる楽しみのために最適です！",
+        "pt": "Qualquer coisa que seu coração aventureiro desejar! Perfeito para personagens de RPG (como D&D ou jogos históricos), nomes de usuário online, personagens fictícios em sua escrita, personas de reconstituição histórica ou apenas por diversão!",
+        "ru": "Все, что пожелает ваше авантюрное сердце! Идеально подходит для персонажей RPG (например, D&D или исторических игр), онлайн-псевдонимов, вымышленных персонажей в ваших произведениях, личностей для реконструкции или просто для развлечения!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest new name parts or themes for the generator?",
+        "ar": "هل يمكنني اقتراح أجزاء أسماء أو مواضيع جديدة للمولد؟",
+        "es": "¿Puedo sugerir nuevas partes de nombres o temas para el generador?",
+        "fr": "Puis-je suggérer de nouvelles parties de noms ou de nouveaux thèmes pour le générateur ?",
+        "zh-cn": "我可以为生成器建议新的名字组成部分或主题吗？",
+        "ja": "ジェネレーターに新しい名前の部分やテーマを提案できますか？",
+        "pt": "Posso sugerir novas partes de nomes ou temas para o gerador?",
+        "ru": "Могу ли я предложить новые части имен или темы для генератора?"
+      },
+      "answer": {
+        "en": "Odin's beard, yes! We welcome your runes of wisdom. Submit your ideas via our feedback channel, and they might be woven into the generator's future sagas!",
+        "ar": "بلحية أودين، نعم! نرحب برونات حكمتك. قدم أفكارك عبر قناة التعليقات الخاصة بنا، وقد يتم نسجها في ملاحم المولد المستقبلية!",
+        "es": "¡Por la barba de Odín, sí! Agradecemos tus runas de sabiduría. Envía tus ideas a través de nuestro canal de comentarios, ¡y podrían ser tejidas en las futuras sagas del generador!",
+        "fr": "Par la barbe d'Odin, oui ! Nous accueillons vos runes de sagesse. Soumettez vos idées via notre canal de commentaires, et elles pourraient être tissées dans les futures sagas du générateur !",
+        "zh-cn": "以奥丁的胡子发誓，可以！我们欢迎你智慧的符文。通过我们的反馈渠道提交你的想法，它们可能会被编织进生成器未来的传奇中！",
+        "ja": "オーディンの髭にかけて、はい！あなたの知恵のルーンを歓迎します。フィードバックチャネルを通じてアイデアを送信してください。それらはジェネレーターの未来のサガに織り込まれるかもしれません！",
+        "pt": "Pela barba de Odin, sim! Aceitamos suas runas de sabedoria. Envie suas ideias através do nosso canal de feedback, e elas podem ser tecidas nas futuras sagas do gerador!",
+        "ru": "Клянусь бородой Одина, да! Мы приветствуем ваши руны мудрости. Отправьте свои идеи через наш канал обратной связи, и они могут быть вплетены в будущие саги генератора!"
+      }
+    }
+  ]
+}

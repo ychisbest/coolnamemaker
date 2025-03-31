@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Chinese Name Generator",
+    "ar": "مولد الأسماء الصينية",
+    "es": "Generador de Nombres Chinos",
+    "fr": "Générateur de Noms Chinois",
+    "zh-cn": "中文名字生成器",
+    "ja": "中国語の名前ジェネレーター",
+    "pt": "Gerador de Nomes Chineses",
+    "ru": "Генератор Китайских Имен"
+  },
+  "description": {
+    "en": "Searching for the perfect Chinese name? Whether for a newborn, a character in your story, or just exploring, our Chinese Name Generator offers beautiful, meaningful, and authentic-sounding names. Discover names rich in culture and tradition!",
+    "ar": "هل تبحث عن الاسم الصيني المثالي؟ سواء كان لمولود جديد، أو شخصية في قصتك، أو لمجرد الاستكشاف، يقدم مولد الأسماء الصينية لدينا أسماء جميلة وذات مغزى وأصيلة. اكتشف أسماء غنية بالثقافة والتقاليد!",
+    "es": "¿Buscas el nombre chino perfecto? Ya sea para un recién nacido, un personaje de tu historia o simplemente por exploración, nuestro Generador de Nombres Chinos ofrece nombres hermosos, significativos y de sonido auténtico. ¡Descubre nombres ricos en cultura y tradición!",
+    "fr": "Vous cherchez le nom chinois parfait ? Que ce soit pour un nouveau-né, un personnage de votre histoire, ou simplement pour explorer, notre Générateur de Noms Chinois propose des noms beaux, significatifs et à consonance authentique. Découvrez des noms riches en culture et tradition !",
+    "zh-cn": "正在寻找完美的中文名字？无论是为新生儿、故事中的角色，还是仅仅为了探索，我们的中文名字生成器都能提供优美、有意义且听起来真实的名字。发现蕴含丰富文化和传统的名字！",
+    "ja": "完璧な中国語の名前をお探しですか？新生児、物語のキャラクター、あるいは単なる探求のためであっても、当社の中国語の名前ジェネレーターは、美しく、意味深く、本物らしい響きの名前を提供します。文化と伝統に富んだ名前を発見しましょう！",
+    "pt": "Procurando o nome chinês perfeito? Seja para um recém-nascido, um personagem em sua história, ou apenas para explorar, nosso Gerador de Nomes Chineses oferece nomes bonitos, significativos e com sonoridade autêntica. Descubra nomes ricos em cultura e tradição!",
+    "ru": "Ищете идеальное китайское имя? Будь то для новорожденного, персонажа вашей истории или просто для исследования, наш Генератор Китайских Имен предлагает красивые, значимые и аутентично звучащие имена. Откройте для себя имена, богатые культурой и традициями!"
+  },
+  "slug": "chinese-name-generator",
+  "prompt": {
+    "en": "Generate a Chinese name",
+    "ar": "قم بإنشاء اسم صيني",
+    "es": "Generar un nombre chino",
+    "fr": "Générer un nom chinois",
+    "zh-cn": "生成一个中文名字",
+    "ja": "中国語の名前を生成する",
+    "pt": "Gerar um nome chinês",
+    "ru": "Сгенерировать китайское имя"
+  },
+  "icon": "🧧",
+  "introduction": {
+    "en": "Dive into the beauty of Chinese names! This tool isn't just about random characters; it's your gateway to finding names that resonate with meaning, history, and phonetic elegance. Whether you need a name for a baby, an online alias, or creative inspiration, let us help you find a name that tells a story.",
+    "ar": "انغمس في جمال الأسماء الصينية! هذه الأداة ليست مجرد أحرف عشوائية؛ إنها بوابتك للعثور على أسماء لها صدى بالمعنى والتاريخ والأناقة الصوتية. سواء كنت بحاجة إلى اسم لطفل، أو اسم مستعار عبر الإنترنت، أو إلهام إبداعي، دعنا نساعدك في العثور على اسم يروي قصة.",
+    "es": "¡Sumérgete en la belleza de los nombres chinos! Esta herramienta no se trata solo de caracteres aleatorios; es tu puerta de entrada para encontrar nombres que resuenen con significado, historia y elegancia fonética. Ya sea que necesites un nombre para un bebé, un alias en línea o inspiración creativa, permítenos ayudarte a encontrar un nombre que cuente una historia.",
+    "fr": "Plongez dans la beauté des noms chinois ! Cet outil ne concerne pas seulement les caractères aléatoires ; c'est votre passerelle pour trouver des noms qui résonnent avec le sens, l'histoire et l'élégance phonétique. Que vous ayez besoin d'un nom pour un bébé, d'un pseudonyme en ligne ou d'une inspiration créative, laissez-nous vous aider à trouver un nom qui raconte une histoire.",
+    "zh-cn": "沉浸在中文名字的美丽之中！这个工具不仅仅是随机生成字符；它是您寻找蕴含意义、历史和音韵之美的名字的门户。无论您是为宝宝、网络昵称寻找名字，还是寻求创意灵感，让我们帮助您找到一个讲述故事的名字。",
+    "ja": "中国語の名前の美しさに飛び込みましょう！このツールは単なるランダムな文字ではありません。意味、歴史、そして音の優雅さで共鳴する名前を見つけるための入り口です。赤ちゃん、オンラインのエイリアス、または創造的なインスピレーションのための名前が必要な場合でも、物語を語る名前を見つけるお手伝いをさせてください。",
+    "pt": "Mergulhe na beleza dos nomes chineses! Esta ferramenta não é apenas sobre caracteres aleatórios; é sua porta de entrada para encontrar nomes que ressoam com significado, história e elegância fonética. Quer precise de um nome para um bebê, um pseudônimo online ou inspiração criativa, deixe-nos ajudá-lo a encontrar um nome que conte uma história.",
+    "ru": "Погрузитесь в красоту китайских имен! Этот инструмент — не просто случайные иероглифы; это ваш путь к поиску имен, которые откликаются смыслом, историей и фонетической элегантностью. Нуждаетесь ли вы в имени для ребенка, онлайн-псевдониме или творческом вдохновении, позвольте нам помочь вам найти имя, которое рассказывает историю."
+  },
+  "howToUse": {
+    "en": [
+      "Simply click the 'Generate' button.",
+      "Behold a selection of Chinese names, often presented with Pinyin (romanization) and potential meanings.",
+      "Browse through the suggestions.",
+      "Find a name that captures your interest? Copy it!",
+      "Use your newly discovered Chinese name as desired!"
+    ],
+    "ar": [
+      "ببساطة انقر على زر 'إنشاء'.",
+      "شاهد مجموعة مختارة من الأسماء الصينية، غالبًا ما تُعرض مع البينيين (النظام الصوتي اللاتيني) والمعاني المحتملة.",
+      "تصفح الاقتراحات.",
+      "هل وجدت اسمًا يثير اهتمامك؟ انسخه!",
+      "استخدم اسمك الصيني المكتشف حديثًا كما يحلو لك!"
+    ],
+    "es": [
+      "Simplemente haz clic en el botón 'Generar'.",
+      "Contempla una selección de nombres chinos, a menudo presentados con Pinyin (romanización) y posibles significados.",
+      "Navega por las sugerencias.",
+      "¿Encuentras un nombre que capte tu interés? ¡Cópialo!",
+      "¡Usa tu nombre chino recién descubierto como desees!"
+    ],
+    "fr": [
+      "Cliquez simplement sur le bouton 'Générer'.",
+      "Découvrez une sélection de noms chinois, souvent présentés avec le Pinyin (romanisation) et leurs significations potentielles.",
+      "Parcourez les suggestions.",
+      "Vous trouvez un nom qui suscite votre intérêt ? Copiez-le !",
+      "Utilisez votre nom chinois nouvellement découvert comme vous le souhaitez !"
+    ],
+    "zh-cn": [
+      "只需点击“生成”按钮。",
+      "查看精选的中文名字，通常会附带拼音和可能的含义。",
+      "浏览建议列表。",
+      "找到一个吸引你的名字了吗？复制它！",
+      "随心所欲地使用你新发现的中文名字吧！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックするだけです。",
+      "ピンイン（ローマ字表記）と可能性のある意味と共に提示されることが多い、中国語の名前のセレクションをご覧ください。",
+      "提案を閲覧してください。",
+      "興味を引く名前を見つけましたか？コピーしましょう！",
+      "新しく発見した中国語の名前を自由に使ってください！"
+    ],
+    "pt": [
+      "Simplesmente clique no botão 'Gerar'.",
+      "Contemple uma seleção de nomes chineses, frequentemente apresentados com Pinyin (romanização) e significados potenciais.",
+      "Navegue pelas sugestões.",
+      "Encontrou um nome que captura seu interesse? Copie-o!",
+      "Use seu nome chinês recém-descoberto como desejar!"
+    ],
+    "ru": [
+      "Просто нажмите кнопку 'Сгенерировать'.",
+      "Взгляните на подборку китайских имен, часто представленных с пиньинь (романизацией) и возможными значениями.",
+      "Просмотрите предложенные варианты.",
+      "Нашли имя, которое вас заинтересовало? Скопируйте его!",
+      "Используйте ваше вновь открытое китайское имя по своему усмотрению!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Chinese Name Generator free to use?",
+        "ar": "هل مولد الأسماء الصينية هذا مجاني للاستخدام؟",
+        "es": "¿Es gratuito usar este Generador de Nombres Chinos?",
+        "fr": "Ce Générateur de Noms Chinois est-il gratuit ?",
+        "zh-cn": "这个中文名字生成器是免费使用的吗？",
+        "ja": "この中国語の名前ジェネレーターは無料で使用できますか？",
+        "pt": "Este Gerador de Nomes Chineses é gratuito?",
+        "ru": "Этот Генератор Китайских Имен бесплатен для использования?"
+      },
+      "answer": {
+        "en": "Yes, absolutely! Generate as many Chinese names as you need, completely free of charge. Explore the possibilities without any limits.",
+        "ar": "نعم، بالتأكيد! قم بإنشاء العديد من الأسماء الصينية كما تحتاج، مجانًا تمامًا. استكشف الاحتمالات دون أي قيود.",
+        "es": "¡Sí, absolutamente! Genera tantos nombres chinos como necesites, completamente gratis. Explora las posibilidades sin límites.",
+        "fr": "Oui, absolument ! Générez autant de noms chinois que nécessaire, entièrement gratuitement. Explorez les possibilités sans aucune limite.",
+        "zh-cn": "是的，完全免费！您可以根据需要生成任意数量的中文名字，无需任何费用。无限制地探索各种可能性。",
+        "ja": "はい、もちろんです！必要なだけ中国語の名前を完全に無料で生成してください。制限なく可能性を探求してください。",
+        "pt": "Sim, absolutamente! Gere quantos nomes chineses precisar, totalmente gratuito. Explore as possibilidades sem limites.",
+        "ru": "Да, абсолютно! Генерируйте столько китайских имен, сколько вам нужно, совершенно бесплатно. Исследуйте возможности без каких-либо ограничений."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names culturally appropriate and authentic?",
+        "ar": "هل الأسماء التي تم إنشاؤها مناسبة ثقافيًا وأصيلة؟",
+        "es": "¿Son los nombres generados culturalmente apropiados y auténticos?",
+        "fr": "Les noms générés sont-ils culturellement appropriés et authentiques ?",
+        "zh-cn": "生成的名称在文化上是否恰当和真实？",
+        "ja": "生成された名前は文化的に適切で本物ですか？",
+        "pt": "Os nomes gerados são culturalmente apropriados e autênticos?",
+        "ru": "Являются ли сгенерированные имена культурно приемлемыми и аутентичными?"
+      },
+      "answer": {
+        "en": "We strive to generate names using common characters and structures found in real Chinese names. However, name selection is deeply personal and culturally nuanced. We recommend further research or consulting with native speakers for important decisions like naming a child.",
+        "ar": "نحن نسعى جاهدين لتوليد الأسماء باستخدام الأحرف والهياكل الشائعة الموجودة في الأسماء الصينية الحقيقية. ومع ذلك، فإن اختيار الاسم شخصي للغاية ودقيق ثقافيًا. نوصي بإجراء مزيد من البحث أو التشاور مع متحدثين أصليين لاتخاذ قرارات مهمة مثل تسمية طفل.",
+        "es": "Nos esforzamos por generar nombres utilizando caracteres y estructuras comunes que se encuentran en nombres chinos reales. Sin embargo, la selección de nombres es profundamente personal y tiene matices culturales. Recomendamos investigar más a fondo o consultar con hablantes nativos para decisiones importantes como nombrar a un niño.",
+        "fr": "Nous nous efforçons de générer des noms en utilisant des caractères et des structures courants trouvés dans de vrais noms chinois. Cependant, le choix d'un nom est profondément personnel et culturellement nuancé. Nous recommandons des recherches supplémentaires ou de consulter des locuteurs natifs pour des décisions importantes comme nommer un enfant.",
+        "zh-cn": "我们努力使用真实中文名字中常见的汉字和结构来生成名字。然而，起名是非常个人化且具有文化细微差异的事情。对于像给孩子起名这样的重要决定，我们建议您进行进一步的研究或咨询母语人士。",
+        "ja": "実際の中国語の名前に見られる一般的な文字や構造を使用して名前を生成するよう努めています。しかし、名前の選択は非常に個人的で文化的に微妙なものです。子供に名前を付けるなどの重要な決定については、さらなる調査やネイティブスピーカーへの相談をお勧めします。",
+        "pt": "Nós nos esforçamos para gerar nomes usando caracteres e estruturas comuns encontrados em nomes chineses reais. No entanto, a seleção de nomes é profundamente pessoal e culturalmente matizada. Recomendamos pesquisas adicionais ou consulta com falantes nativos para decisões importantes como nomear uma criança.",
+        "ru": "Мы стремимся генерировать имена, используя распространенные иероглифы и структуры, встречающиеся в настоящих китайских именах. Однако выбор имени — это глубоко личный и культурно обусловленный процесс. Мы рекомендуем провести дополнительное исследование или проконсультироваться с носителями языка для принятия важных решений, таких как выбор имени для ребенка."
+      }
+    },
+    {
+      "question": {
+        "en": "How many names can I generate?",
+        "ar": "كم عدد الأسماء التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres puedo generar?",
+        "fr": "Combien de noms puis-je générer ?",
+        "zh-cn": "我可以生成多少个名称？",
+        "ja": "いくつの名前を生成できますか？",
+        "pt": "Quantos nomes posso gerar?",
+        "ru": "Сколько имен я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "Generate to your heart's content! There's no limit. Keep clicking until you find the name (or names) that resonates with you.",
+        "ar": "قم بالإنشاء بقدر ما يرغب قلبك! لا يوجد حد. استمر في النقر حتى تجد الاسم (أو الأسماء) الذي يتردد صداه معك.",
+        "es": "¡Genera todo lo que quieras! No hay límite. Sigue haciendo clic hasta que encuentres el nombre (o nombres) que resuene contigo.",
+        "fr": "Générez autant que vous le souhaitez ! Il n'y a pas de limite. Continuez à cliquer jusqu'à ce que vous trouviez le nom (ou les noms) qui résonne en vous.",
+        "zh-cn": "尽情生成吧！没有限制。继续点击，直到找到与您产生共鸣的名字。",
+        "ja": "心ゆくまで生成してください！制限はありません。あなたに響く名前（または複数の名前）が見つかるまでクリックし続けてください。",
+        "pt": "Gere o quanto quiser! Não há limite. Continue clicando até encontrar o nome (ou nomes) que ressoa com você.",
+        "ru": "Генерируйте сколько душе угодно! Ограничений нет. Продолжайте нажимать, пока не найдете имя (или имена), которое вам откликнется."
+      }
+    },
+    {
+      "question": {
+        "en": "Do the names come with meanings?",
+        "ar": "هل تأتي الأسماء مع معانيها؟",
+        "es": "¿Los nombres vienen con significados?",
+        "fr": "Les noms sont-ils accompagnés de leur signification ?",
+        "zh-cn": "生成的名字带有含义吗？",
+        "ja": "名前には意味が付いていますか？",
+        "pt": "Os nomes vêm com significados?",
+        "ru": "Идут ли имена со значениями?"
+      },
+      "answer": {
+        "en": "Often, yes. Chinese characters carry rich meanings. While the generator may provide potential meanings for the characters used, the overall significance can be complex. It's always good to research the specific characters further.",
+        "ar": "غالبًا، نعم. تحمل الأحرف الصينية معاني غنية. بينما قد يوفر المولد معاني محتملة للأحرف المستخدمة، يمكن أن يكون المعنى العام معقدًا. من الجيد دائمًا البحث عن الأحرف المحددة بشكل أكبر.",
+        "es": "A menudo, sí. Los caracteres chinos tienen significados ricos. Si bien el generador puede proporcionar significados potenciales para los caracteres utilizados, la significación general puede ser compleja. Siempre es bueno investigar más a fondo los caracteres específicos.",
+        "fr": "Souvent, oui. Les caractères chinois portent des significations riches. Bien que le générateur puisse fournir des significations potentielles pour les caractères utilisés, la signification globale peut être complexe. Il est toujours bon de rechercher plus en profondeur les caractères spécifiques.",
+        "zh-cn": "通常是的。汉字承载着丰富的含义。虽然生成器可能会提供所用汉字的潜在含义，但整体意义可能很复杂。进一步研究具体汉字总是有益的。",
+        "ja": "多くの場合、はい。漢字は豊かな意味を持っています。ジェネレーターは使用される文字の潜在的な意味を提供するかもしれませんが、全体的な意味は複雑になる可能性があります。特定の文字についてさらに調査することをお勧めします。",
+        "pt": "Muitas vezes, sim. Os caracteres chineses carregam significados ricos. Embora o gerador possa fornecer significados potenciais para os caracteres usados, o significado geral pode ser complexo. É sempre bom pesquisar mais a fundo os caracteres específicos.",
+        "ru": "Часто да. Китайские иероглифы несут богатые значения. Хотя генератор может предоставлять возможные значения используемых иероглифов, общее значение может быть сложным. Всегда полезно дополнительно изучить конкретные иероглифы."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my baby?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لطفلي؟",
+        "es": "¿Puedo usar estos nombres para mi bebé?",
+        "fr": "Puis-je utiliser ces noms pour mon bébé ?",
+        "zh-cn": "我可以用这些名字给我的宝宝起名吗？",
+        "ja": "これらの名前を私の赤ちゃんに使えますか？",
+        "pt": "Posso usar esses nomes para o meu bebê?",
+        "ru": "Могу ли я использовать эти имена для своего ребенка?"
+      },
+      "answer": {
+        "en": "This generator can be a great source of inspiration! However, choosing a baby's name is a significant decision. We strongly recommend discussing potential names with family, understanding their meanings deeply, and possibly consulting cultural experts or native speakers to ensure the name is fitting and well-received.",
+        "ar": "يمكن أن يكون هذا المولد مصدر إلهام رائع! ومع ذلك، فإن اختيار اسم الطفل هو قرار مهم. نوصي بشدة بمناقشة الأسماء المحتملة مع العائلة، وفهم معانيها بعمق، وربما استشارة خبراء ثقافيين أو متحدثين أصليين للتأكد من أن الاسم مناسب ومقبول.",
+        "es": "¡Este generador puede ser una gran fuente de inspiración! Sin embargo, elegir el nombre de un bebé es una decisión importante. Recomendamos encarecidamente discutir los nombres potenciales con la familia, comprender profundamente sus significados y, posiblemente, consultar a expertos culturales o hablantes nativos para asegurarse de que el nombre sea apropiado y bien recibido.",
+        "fr": "Ce générateur peut être une excellente source d'inspiration ! Cependant, choisir le nom d'un bébé est une décision importante. Nous recommandons vivement de discuter des noms potentiels avec la famille, de comprendre profondément leur signification et éventuellement de consulter des experts culturels ou des locuteurs natifs pour s'assurer que le nom est approprié et bien accueilli.",
+        "zh-cn": "这个生成器可以作为很棒的灵感来源！然而，给宝宝取名是一个重大的决定。我们强烈建议与家人讨论潜在的名字，深入理解其含义，并可能咨询文化专家或母语人士，以确保名字合适且寓意良好。",
+        "ja": "このジェネレーターは素晴らしいインスピレーションの源になります！しかし、赤ちゃんの名前を選ぶことは重要な決定です。潜在的な名前について家族と話し合い、その意味を深く理解し、名前が適切で受け入れられることを確認するために文化的な専門家やネイティブスピーカーに相談することを強くお勧めします。",
+        "pt": "Este gerador pode ser uma ótima fonte de inspiração! No entanto, escolher o nome de um bebê é uma decisão significativa. Recomendamos fortemente discutir nomes potenciais com a família, entender profundamente seus significados e, possivelmente, consultar especialistas culturais ou falantes nativos para garantir que o nome seja adequado e bem recebido.",
+        "ru": "Этот генератор может стать отличным источником вдохновения! Однако выбор имени для ребенка — это важное решение. Мы настоятельно рекомендуем обсудить потенциальные имена с семьей, глубоко понять их значения и, возможно, проконсультироваться с культурными экспертами или носителями языка, чтобы убедиться, что имя подходит и будет хорошо воспринято."
+      }
+    }
+  ]
+}

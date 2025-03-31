@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "School Name Generator",
+    "ar": "مولد أسماء المدارس",
+    "es": "Generador de Nombres de Escuela",
+    "fr": "Générateur de Noms d'École",
+    "zh-cn": "学校名称生成器",
+    "ja": "学校名ジェネレーター",
+    "pt": "Gerador de Nomes de Escola",
+    "ru": "Генератор Названий Школ"
+  },
+  "description": {
+    "en": "Struggling to find the perfect, inspiring name for your new school, educational program, or even a school club? Our School Name Generator is here to spark creativity and deliver a list of memorable, fitting, and professional-sounding names! Find a name that embodies learning, community, and aspiration.",
+    "ar": "هل تجد صعوبة في العثور على الاسم المثالي والملهم لمدرستك الجديدة أو برنامجك التعليمي أو حتى نادٍ مدرسي؟ مولد أسماء المدارس لدينا هنا لإثارة الإبداع وتقديم قائمة بأسماء لا تُنسى ومناسبة وذات طابع احترافي! ابحث عن اسم يجسد التعلم والمجتمع والطموح.",
+    "es": "¿Luchando por encontrar el nombre perfecto e inspirador para tu nueva escuela, programa educativo o incluso un club escolar? ¡Nuestro Generador de Nombres de Escuela está aquí para despertar la creatividad y ofrecer una lista de nombres memorables, adecuados y de sonido profesional! Encuentra un nombre que encarne el aprendizaje, la comunidad y la aspiración.",
+    "fr": "Vous avez du mal à trouver le nom parfait et inspirant pour votre nouvelle école, programme éducatif ou même un club scolaire ? Notre Générateur de Noms d'École est là pour stimuler la créativité et fournir une liste de noms mémorables, appropriés et à consonance professionnelle ! Trouvez un nom qui incarne l'apprentissage, la communauté et l'aspiration.",
+    "zh-cn": "正在为您的新学校、教育项目甚至学校社团寻找完美、鼓舞人心的名称而苦恼吗？我们的学校名称生成器旨在激发创意，并提供一系列令人难忘、合适且听起来专业的名称！找到一个体现学习、社区和抱负的名称。",
+    "ja": "新しい学校、教育プログラム、または学校のクラブにぴったりの、インスピレーションを与える名前を見つけるのに苦労していますか？当校の学校名ジェネレーターは、創造性を刺激し、記憶に残る、適切でプロフェッショナルな響きの名前のリストを提供します！学習、コミュニティ、そして向上心を体現する名前を見つけましょう。",
+    "pt": "Lutando para encontrar o nome perfeito e inspirador para sua nova escola, programa educacional ou até mesmo um clube escolar? Nosso Gerador de Nomes de Escola está aqui para despertar a criatividade e entregar uma lista de nomes memoráveis, adequados e com som profissional! Encontre um nome que personifique aprendizado, comunidade e aspiração.",
+    "ru": "Пытаетесь найти идеальное, вдохновляющее название для вашей новой школы, образовательной программы или даже школьного клуба? Наш Генератор Названий Школ здесь, чтобы разжечь творческий потенциал и предоставить список запоминающихся, подходящих и профессионально звучащих названий! Найдите имя, которое воплощает обучение, сообщество и стремление."
+  },
+  "slug": "school-name-generator",
+  "prompt": {
+    "en": "Generate a school name",
+    "ar": "قم بإنشاء اسم مدرسة",
+    "es": "Generar un nombre de escuela",
+    "fr": "Générer un nom d'école",
+    "zh-cn": "生成一个学校名称",
+    "ja": "学校名を生成する",
+    "pt": "Gerar um nome de escola",
+    "ru": "Сгенерировать название школы"
+  },
+  "icon": "🏫",
+  "introduction": {
+    "en": "Move beyond the ordinary and discover a name that resonates. This tool isn't just about random words; it's designed to help you craft an identity that reflects the values and vision of your educational institution. Whether establishing a traditional academy, a modern learning center, or a specialized institute, find inspiration here. Prepare for a diverse range of suggestions, from classic to contemporary.",
+    "ar": "تجاوز المألوف واكتشف اسمًا له صدى. هذه الأداة ليست مجرد كلمات عشوائية؛ إنها مصممة لمساعدتك في صياغة هوية تعكس قيم ورؤية مؤسستك التعليمية. سواء كنت تؤسس أكاديمية تقليدية، أو مركزًا تعليميًا حديثًا، أو معهدًا متخصصًا، ابحث عن الإلهام هنا. استعد لمجموعة متنوعة من الاقتراحات، من الكلاسيكية إلى المعاصرة.",
+    "es": "Vaya más allá de lo ordinario y descubra un nombre que resuene. Esta herramienta no se trata solo de palabras aleatorias; está diseñada para ayudarlo a crear una identidad que refleje los valores y la visión de su institución educativa. Ya sea que establezca una academia tradicional, un centro de aprendizaje moderno o un instituto especializado, encuentre inspiración aquí. Prepárese para una amplia gama de sugerencias, desde clásicas hasta contemporáneas.",
+    "fr": "Dépassez l'ordinaire et découvrez un nom qui résonne. Cet outil ne se limite pas à des mots aléatoires ; il est conçu pour vous aider à créer une identité qui reflète les valeurs et la vision de votre établissement d'enseignement. Que vous établissiez une académie traditionnelle, un centre d'apprentissage moderne ou un institut spécialisé, trouvez l'inspiration ici. Préparez-vous à une gamme variée de suggestions, du classique au contemporain.",
+    "zh-cn": "超越平凡，发现一个能引起共鸣的名称。这个工具不仅仅是随机词语；它旨在帮助您塑造一个反映您教育机构价值观和愿景的身份。无论是建立传统学院、现代学习中心还是专业机构，都可以在这里找到灵感。准备好迎接从经典到现代的各种建议吧。",
+    "ja": "ありふれたものを超えて、心に響く名前を発見しましょう。このツールは単なるランダムな単語ではありません。教育機関の価値観とビジョンを反映するアイデンティティを構築するのに役立つように設計されています。伝統的なアカデミー、現代的な学習センター、または専門機関を設立する場合でも、ここでインスピレーションを見つけてください。クラシックからコンテンポラリーまで、多様な提案に備えましょう。",
+    "pt": "Vá além do comum e descubra um nome que ressoa. Esta ferramenta não é apenas sobre palavras aleatórias; ela foi projetada para ajudá-lo a criar uma identidade que reflita os valores e a visão de sua instituição educacional. Seja estabelecendo uma academia tradicional, um centro de aprendizado moderno ou um instituto especializado, encontre inspiração aqui. Prepare-se para uma gama diversificada de sugestões, do clássico ao contemporâneo.",
+    "ru": "Выйдите за рамки обыденного и откройте для себя имя, которое находит отклик. Этот инструмент — не просто случайные слова; он разработан, чтобы помочь вам создать идентичность, отражающую ценности и видение вашего учебного заведения. Учреждаете ли вы традиционную академию, современный учебный центр или специализированный институт — найдите вдохновение здесь. Приготовьтесь к разнообразному спектру предложений, от классических до современных."
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button to start.",
+      "Instantly receive a variety of potential school names.",
+      "Browse through the generated list for inspiration.",
+      "See a name you like? Copy it easily.",
+      "Use your chosen name to build your school's identity!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' للبدء.",
+      "احصل فورًا على مجموعة متنوعة من أسماء المدارس المحتملة.",
+      "تصفح القائمة التي تم إنشاؤها للحصول على الإلهام.",
+      "هل رأيت اسمًا يعجبك؟ انسخه بسهولة.",
+      "استخدم الاسم الذي اخترته لبناء هوية مدرستك!"
+    ],
+    "es": [
+      "Haga clic en el botón 'Generar' para comenzar.",
+      "Reciba instantáneamente una variedad de posibles nombres de escuelas.",
+      "Navegue por la lista generada en busca de inspiración.",
+      "¿Ve un nombre que le guste? Cópielo fácilmente.",
+      "¡Use el nombre elegido para construir la identidad de su escuela!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' pour commencer.",
+      "Recevez instantanément une variété de noms d'écoles potentiels.",
+      "Parcourez la liste générée pour trouver l'inspiration.",
+      "Vous voyez un nom qui vous plaît ? Copiez-le facilement.",
+      "Utilisez le nom choisi pour construire l'identité de votre école !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮开始。",
+      "立即接收各种潜在的学校名称。",
+      "浏览生成的列表以获取灵感。",
+      "看到喜欢的名字了吗？轻松复制它。",
+      "使用您选择的名称来建立您学校的身份！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして開始します。",
+      "潜在的な学校名の様々な候補を即座に受け取ります。",
+      "生成されたリストを閲覧してインスピレーションを得ます。",
+      "気に入った名前を見ましたか？簡単にコピーしてください。",
+      "選んだ名前を使って学校のアイデンティティを構築しましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' para começar.",
+      "Receba instantaneamente uma variedade de nomes de escolas potenciais.",
+      "Navegue pela lista gerada para se inspirar.",
+      "Viu um nome de que gostou? Copie-o facilmente.",
+      "Use o nome escolhido para construir a identidade da sua escola!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Создать', чтобы начать.",
+      "Мгновенно получите множество потенциальных названий школ.",
+      "Просмотрите сгенерированный список для вдохновения.",
+      "Увидели имя, которое вам нравится? Легко скопируйте его.",
+      "Используйте выбранное имя для создания идентичности вашей школы!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this School Name Generator free to use?",
+        "ar": "هل مولد أسماء المدارس هذا مجاني للاستخدام؟",
+        "es": "¿Es gratuito usar este Generador de Nombres de Escuela?",
+        "fr": "Ce Générateur de Noms d'École est-il gratuit ?",
+        "zh-cn": "这个学校名称生成器是免费使用的吗？",
+        "ja": "この学校名ジェネレーターは無料で使用できますか？",
+        "pt": "Este Gerador de Nomes de Escola é gratuito?",
+        "ru": "Этот Генератор Названий Школ бесплатен для использования?"
+      },
+      "answer": {
+        "en": "Yes, absolutely! Our School Name Generator is completely free for everyone to use. Generate as many names as you need without any cost.",
+        "ar": "نعم، بالتأكيد! مولد أسماء المدارس لدينا مجاني تمامًا للجميع. قم بإنشاء العديد من الأسماء التي تحتاجها دون أي تكلفة.",
+        "es": "¡Sí, absolutamente! Nuestro Generador de Nombres de Escuela es completamente gratuito para que todos lo usen. Genere tantos nombres como necesite sin ningún costo.",
+        "fr": "Oui, absolument ! Notre Générateur de Noms d'École est entièrement gratuit pour tout le monde. Générez autant de noms que nécessaire sans aucun coût.",
+        "zh-cn": "是的，完全免费！我们的学校名称生成器对所有人完全免费。您可以根据需要生成任意数量的名称，无需任何费用。",
+        "ja": "はい、もちろんです！当校の学校名ジェネレーターは、どなたでも完全に無料でご利用いただけます。必要なだけ名前を生成してください。費用は一切かかりません。",
+        "pt": "Sim, absolutamente! Nosso Gerador de Nomes de Escola é totalmente gratuito para todos usarem. Gere quantos nomes precisar sem nenhum custo.",
+        "ru": "Да, абсолютно! Наш Генератор Названий Школ полностью бесплатен для всех. Генерируйте столько имен, сколько вам нужно, без какой-либо платы."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use the generated names for my actual school?",
+        "ar": "هل يمكنني استخدام الأسماء التي تم إنشاؤها لمدرستي الفعلية؟",
+        "es": "¿Puedo usar los nombres generados para mi escuela real?",
+        "fr": "Puis-je utiliser les noms générés pour ma véritable école ?",
+        "zh-cn": "我能将生成的名称用于我的实际学校吗？",
+        "ja": "生成された名前を実際の学校に使用できますか？",
+        "pt": "Posso usar os nomes gerados para minha escola real?",
+        "ru": "Могу ли я использовать сгенерированные имена для своей реальной школы?"
+      },
+      "answer": {
+        "en": "Yes, the names are generated for inspiration. However, before officially naming your school or program, we strongly recommend checking if the name is already trademarked or in use, especially locally or within the education sector.",
+        "ar": "نعم، يتم إنشاء الأسماء للإلهام. ومع ذلك، قبل تسمية مدرستك أو برنامجك رسميًا، نوصي بشدة بالتحقق مما إذا كان الاسم مسجلاً كعلامة تجارية بالفعل أو قيد الاستخدام، خاصة محليًا أو داخل قطاع التعليم.",
+        "es": "Sí, los nombres se generan como inspiración. Sin embargo, antes de nombrar oficialmente su escuela o programa, recomendamos encarecidamente verificar si el nombre ya está registrado como marca comercial o en uso, especialmente a nivel local o dentro del sector educativo.",
+        "fr": "Oui, les noms sont générés pour l'inspiration. Cependant, avant de nommer officiellement votre école ou programme, nous vous recommandons fortement de vérifier si le nom est déjà une marque déposée ou en cours d'utilisation, en particulier localement ou dans le secteur de l'éducation.",
+        "zh-cn": "是的，生成的名称是为了提供灵感。然而，在正式为您的学校或项目命名之前，我们强烈建议您检查该名称是否已被注册商标或正在使用，尤其是在当地或教育领域内。",
+        "ja": "はい、名前はインスピレーションのために生成されます。ただし、学校やプログラムを正式に命名する前に、特に地域または教育分野内で、その名前がすでに商標登録されているか使用されていないかを確認することを強くお勧めします。",
+        "pt": "Sim, os nomes são gerados para inspiração. No entanto, antes de nomear oficialmente sua escola ou programa, recomendamos fortemente verificar se o nome já está registrado como marca comercial ou em uso, especialmente localmente ou no setor educacional.",
+        "ru": "Да, имена генерируются для вдохновения. Однако перед официальным наименованием вашей школы или программы мы настоятельно рекомендуем проверить, не является ли имя уже зарегистрированным товарным знаком или используется, особенно на местном уровне или в секторе образования."
+      }
+    },
+    {
+      "question": {
+        "en": "How are the school names generated?",
+        "ar": "كيف يتم إنشاء أسماء المدارس؟",
+        "es": "¿Cómo se generan los nombres de las escuelas?",
+        "fr": "Comment les noms d'écoles sont-ils générés ?",
+        "zh-cn": "学校名称是如何生成的？",
+        "ja": "学校名はどのように生成されますか？",
+        "pt": "Como os nomes das escolas são gerados?",
+        "ru": "Как генерируются названия школ?"
+      },
+      "answer": {
+        "en": "The generator combines various elements often found in school names, such as descriptive words (e.g., 'Academy', 'Institute', 'Preparatory'), location types (e.g., 'Hillside', 'River Valley'), aspirational terms (e.g., 'Hope', 'Discovery'), and traditional elements, to create diverse suggestions.",
+        "ar": "يجمع المولد بين عناصر مختلفة توجد غالبًا في أسماء المدارس، مثل الكلمات الوصفية (مثل 'أكاديمية'، 'معهد'، 'تحضيرية')، وأنواع المواقع (مثل 'هيلسايد'، 'وادي النهر')، والمصطلحات الطموحة (مثل 'الأمل'، 'الاكتشاف')، والعناصر التقليدية، لإنشاء اقتراحات متنوعة.",
+        "es": "El generador combina varios elementos que se encuentran a menudo en los nombres de las escuelas, como palabras descriptivas (p. ej., 'Academia', 'Instituto', 'Preparatoria'), tipos de ubicación (p. ej., 'Hillside', 'River Valley'), términos aspiracionales (p. ej., 'Hope', 'Discovery') y elementos tradicionales, para crear diversas sugerencias.",
+        "fr": "Le générateur combine divers éléments souvent trouvés dans les noms d'écoles, tels que des mots descriptifs (par exemple, 'Académie', 'Institut', 'Préparatoire'), des types de lieux (par exemple, 'Hillside', 'River Valley'), des termes aspirationnels (par exemple, 'Hope', 'Discovery') et des éléments traditionnels, pour créer diverses suggestions.",
+        "zh-cn": "生成器结合了学校名称中常见的各种元素，例如描述性词语（如“学院”、“研究所”、“预科”）、地点类型（如“山坡”、“河谷”）、抱负性术语（如“希望”、“发现”）和传统元素，以创建多样化的建议。",
+        "ja": "ジェネレーターは、学校名によく見られるさまざまな要素、たとえば説明的な単語（例：「アカデミー」、「インスティテュート」、「プレパラトリー」）、場所の種類（例：「ヒルサイド」、「リバーバレー」）、願望を表す用語（例：「ホープ」、「ディスカバリー」）、および伝統的な要素を組み合わせて、多様な提案を作成します。",
+        "pt": "O gerador combina vários elementos frequentemente encontrados em nomes de escolas, como palavras descritivas (por exemplo, 'Academia', 'Instituto', 'Preparatório'), tipos de localização (por exemplo, 'Hillside', 'River Valley'), termos aspiracionais (por exemplo, 'Hope', 'Discovery') e elementos tradicionais, para criar sugestões diversas.",
+        "ru": "Генератор комбинирует различные элементы, часто встречающиеся в названиях школ, такие как описательные слова (например, «Академия», «Институт», «Подготовительная»), типы местоположений (например, «Хиллсайд», «Ривер Вэлли»), вдохновляющие термины (например, «Надежда», «Открытие») и традиционные элементы, для создания разнообразных предложений."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I get names suitable for specific types of schools (e.g., elementary, arts)?",
+        "ar": "هل يمكنني الحصول على أسماء مناسبة لأنواع معينة من المدارس (مثل الابتدائية، الفنون)؟",
+        "es": "¿Puedo obtener nombres adecuados para tipos específicos de escuelas (p. ej., primaria, artes)?",
+        "fr": "Puis-je obtenir des noms adaptés à des types spécifiques d'écoles (par exemple, élémentaire, arts) ?",
+        "zh-cn": "我能获得适合特定类型学校（例如小学、艺术学校）的名称吗？",
+        "ja": "特定の種類の学校（例：小学校、芸術学校）に適した名前を取得できますか？",
+        "pt": "Posso obter nomes adequados para tipos específicos de escolas (por exemplo, fundamental, artes)?",
+        "ru": "Могу ли я получить названия, подходящие для определенных типов школ (например, начальной, художественной)?"
+      },
+      "answer": {
+        "en": "While the current generator provides general school names, many suggestions can be adapted. Look for names with themes or words that align with your school's focus (e.g., 'Creative Arts Academy', 'Discovery Elementary'). Future updates may include more specific categories.",
+        "ar": "بينما يوفر المولد الحالي أسماء مدارس عامة، يمكن تكييف العديد من الاقتراحات. ابحث عن أسماء ذات مواضيع أو كلمات تتوافق مع تركيز مدرستك (مثل 'أكاديمية الفنون الإبداعية'، 'مدرسة ديسكفري الابتدائية'). قد تتضمن التحديثات المستقبلية فئات أكثر تحديدًا.",
+        "es": "Si bien el generador actual proporciona nombres generales de escuelas, muchas sugerencias se pueden adaptar. Busque nombres con temas o palabras que se alineen con el enfoque de su escuela (p. ej., 'Academia de Artes Creativas', 'Primaria Discovery'). Las actualizaciones futuras pueden incluir categorías más específicas.",
+        "fr": "Bien que le générateur actuel fournisse des noms d'écoles généraux, de nombreuses suggestions peuvent être adaptées. Recherchez des noms avec des thèmes ou des mots qui correspondent à l'orientation de votre école (par exemple, 'Académie des Arts Créatifs', 'École Primaire Discovery'). Les mises à jour futures pourraient inclure des catégories plus spécifiques.",
+        "zh-cn": "虽然当前的生成器提供的是通用的学校名称，但许多建议都可以进行调整。寻找主题或词语与您学校重点相符的名称（例如，“创意艺术学院”、“探索小学”）。未来的更新可能会包含更具体的类别。",
+        "ja": "現在のジェネレーターは一般的な学校名を提供しますが、多くの提案は適応させることができます。学校の焦点に合ったテーマや単語を持つ名前を探してください（例：「クリエイティブアーツアカデミー」、「ディスカバリー小学校」）。将来のアップデートでは、より具体的なカテゴリが含まれる可能性があります。",
+        "pt": "Embora o gerador atual forneça nomes gerais de escolas, muitas sugestões podem ser adaptadas. Procure nomes com temas ou palavras que se alinhem com o foco da sua escola (por exemplo, 'Academia de Artes Criativas', 'Escola Fundamental Discovery'). Atualizações futuras podem incluir categorias mais específicas.",
+        "ru": "Хотя текущий генератор предоставляет общие названия школ, многие предложения можно адаптировать. Ищите имена с темами или словами, которые соответствуют направленности вашей школы (например, «Академия Творческих Искусств», «Начальная Школа Дискавери»). Будущие обновления могут включать более конкретные категории."
+      }
+    },
+    {
+      "question": {
+        "en": "What if I don't like any of the generated names?",
+        "ar": "ماذا لو لم يعجبني أي من الأسماء التي تم إنشاؤها؟",
+        "es": "¿Qué pasa si no me gusta ninguno de los nombres generados?",
+        "fr": "Et si je n'aime aucun des noms générés ?",
+        "zh-cn": "如果我一个生成的名称都不喜欢怎么办？",
+        "ja": "生成された名前がどれも気に入らない場合はどうすればよいですか？",
+        "pt": "E se eu não gostar de nenhum dos nomes gerados?",
+        "ru": "Что делать, если мне не нравится ни одно из сгенерированных имен?"
+      },
+      "answer": {
+        "en": "Just click 'Generate' again! The tool produces a new set of names each time. Keep generating until you find something that sparks an idea or feels right. You can also use the generated names as a starting point and modify them.",
+        "ar": "فقط انقر على 'إنشاء' مرة أخرى! تنتج الأداة مجموعة جديدة من الأسماء في كل مرة. استمر في التوليد حتى تجد شيئًا يثير فكرة أو يبدو مناسبًا. يمكنك أيضًا استخدام الأسماء التي تم إنشاؤها كنقطة انطلاق وتعديلها.",
+        "es": "¡Simplemente haga clic en 'Generar' de nuevo! La herramienta produce un nuevo conjunto de nombres cada vez. Siga generando hasta que encuentre algo que despierte una idea o le parezca adecuado. También puede usar los nombres generados como punto de partida y modificarlos.",
+        "fr": "Cliquez simplement à nouveau sur 'Générer' ! L'outil produit un nouvel ensemble de noms à chaque fois. Continuez à générer jusqu'à ce que vous trouviez quelque chose qui suscite une idée ou vous semble juste. Vous pouvez également utiliser les noms générés comme point de départ et les modifier.",
+        "zh-cn": "只需再次点击“生成”！该工具每次都会生成一组新的名称。继续生成，直到找到能激发灵感或感觉合适的名称。您也可以将生成的名称作为起点进行修改。",
+        "ja": "もう一度「生成」をクリックしてください！ツールは毎回新しい名前のセットを生成します。アイデアが浮かんだり、しっくりくるものが見つかるまで生成し続けてください。生成された名前を出発点として修正することもできます。",
+        "pt": "Basta clicar em 'Gerar' novamente! A ferramenta produz um novo conjunto de nomes a cada vez. Continue gerando até encontrar algo que desperte uma ideia ou pareça certo. Você também pode usar os nomes gerados como ponto de partida e modificá-los.",
+        "ru": "Просто нажмите 'Создать' еще раз! Инструмент каждый раз выдает новый набор имен. Продолжайте генерировать, пока не найдете что-то, что натолкнет на идею или покажется правильным. Вы также можете использовать сгенерированные имена как отправную точку и изменять их."
+      }
+    }
+  ]
+}

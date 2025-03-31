@@ -1,0 +1,236 @@
+{
+  "name": {
+    "en": "Funny Name Generator",
+    "ar": "مولد الأسماء المضحكة",
+    "es": "Generador de Nombres Divertidos",
+    "fr": "Générateur de Noms Drôles",
+    "zh-cn": "搞笑名称生成器",
+    "ja": "面白い名前ジェネレーター",
+    "pt": "Gerador de Nomes Engraçados",
+    "ru": "Генератор Смешных Имен"
+  },
+  "description": {
+    "en": "Need a name that tickles the funny bone? Whether it's for your pet rock, your quirky startup idea, or just to make your friends giggle, our Funny Name Generator is here to unleash a cascade of hilarious, unforgettable, and delightfully absurd names! Get ready for some serious silliness.",
+    "ar": "هل تحتاج إلى اسم يدغدغ العصب المضحك؟ سواء كان ذلك لصخرة حيوانك الأليف، أو فكرة شركتك الناشئة الغريبة، أو لمجرد جعل أصدقائك يضحكون، فإن مولد الأسماء المضحكة لدينا هنا لإطلاق العنان لسيل من الأسماء المضحكة التي لا تُنسى والسخيفة بشكل مبهج! استعد لبعض السخافة الجادة.",
+    "es": "¿Necesitas un nombre que haga cosquillas? Ya sea para tu mascota roca, tu peculiar idea de startup o simplemente para hacer reír a tus amigos, ¡nuestro Generador de Nombres Divertidos está aquí para desatar una cascada de nombres hilarantes, inolvidables y deliciosamente absurdos! Prepárate para una buena dosis de tonterías.",
+    "fr": "Besoin d'un nom qui chatouille les zygomatiques ? Que ce soit pour votre pierre de compagnie, votre idée de startup excentrique, ou juste pour faire rigoler vos amis, notre Générateur de Noms Drôles est là pour déclencher une cascade de noms hilarants, inoubliables et délicieusement absurdes ! Préparez-vous à une bonne dose de bêtises.",
+    "zh-cn": "需要一个能逗乐的名字吗？无论是为你的宠物石头、古怪的创业点子，还是只想让朋友们咯咯笑，我们的搞笑名称生成器都能释放出一连串搞笑、难忘、令人愉悦的荒诞名字！准备好迎接一本正经的胡闹吧。",
+    "ja": "笑いのツボをくすぐる名前が必要ですか？ペットの石、風変わりなスタートアップのアイデア、または単に友達を笑わせるためであっても、私たちの面白い名前ジェネレーターは、陽気で忘れられない、そして楽しくばかげた名前の滝を解き放つためにここにあります！真面目なばかばかしさの準備をしてください。",
+    "pt": "Precisa de um nome que faça cócegas? Seja para sua pedra de estimação, sua ideia peculiar de startup, ou apenas para fazer seus amigos darem risada, nosso Gerador de Nomes Engraçados está aqui para liberar uma cascata de nomes hilários, inesquecíveis e deliciosamente absurdos! Prepare-se para uma boa dose de bobagens.",
+    "ru": "Нужно имя, которое щекочет нервы? Будь то для вашего камня-питомца, вашей причудливой идеи стартапа или просто чтобы заставить друзей хихикать, наш Генератор Смешных Имен здесь, чтобы выпустить каскад уморительных, незабываемых и восхитительно абсурдных имен! Приготовьтесь к серьезной порции глупостей."
+  },
+  "slug": "funny-name-generator",
+  "prompt": {
+    "en": "Generate a funny name",
+    "ar": "قم بإنشاء اسم مضحك",
+    "es": "Generar un nombre divertido",
+    "fr": "Générer un nom drôle",
+    "zh-cn": "生成一个搞笑名称",
+    "ja": "面白い名前を生成する",
+    "pt": "Gerar um nome engraçado",
+    "ru": "Сгенерировать смешное имя"
+  },
+  "icon": "😂",
+  "introduction": {
+    "en": "Welcome to the epicenter of absurdity! This isn't just any name generator; it's your portal to a world of witty wordplay and comical combinations. Perfect for naming characters, pets, fantasy teams, wifi networks, or that weird plant in the corner. Prepare for chuckles, guffaws, and maybe even a snort or two!",
+    "ar": "مرحبًا بك في مركز السخافة! هذا ليس مجرد مولد أسماء عادي؛ إنه بوابتك إلى عالم من التلاعب بالألفاظ الذكية والمجموعات الكوميدية. مثالي لتسمية الشخصيات، الحيوانات الأليفة، فرق الخيال، شبكات الواي فاي، أو ذلك النبات الغريب في الزاوية. استعد للضحكات، القهقهات، وربما حتى شخير أو اثنين!",
+    "es": "¡Bienvenido al epicentro del absurdo! Esto no es un generador de nombres cualquiera; es tu portal a un mundo de juegos de palabras ingeniosos y combinaciones cómicas. Perfecto para nombrar personajes, mascotas, equipos de fantasía, redes wifi o esa planta rara en la esquina. ¡Prepárate para risitas, carcajadas y tal vez incluso uno o dos resoplidos!",
+    "fr": "Bienvenue dans l'épicentre de l'absurdité ! Ce n'est pas n'importe quel générateur de noms ; c'est votre portail vers un monde de jeux de mots spirituels et de combinaisons comiques. Parfait pour nommer des personnages, des animaux de compagnie, des équipes de fantasy, des réseaux wifi ou cette plante étrange dans le coin. Préparez-vous à des rires, des éclats de rire et peut-être même un reniflement ou deux !",
+    "zh-cn": "欢迎来到荒诞中心！这不仅仅是普通的名称生成器；它是你通往诙谐文字游戏和滑稽组合世界的大门。非常适合为角色、宠物、梦幻球队、WiFi 网络或角落里那株奇怪的植物命名。准备好迎接轻笑、哄堂大笑，甚至可能还有一两声噗嗤！",
+    "ja": "不条理の中心へようこそ！これは単なる名前ジェネレーターではありません。機知に富んだ言葉遊びとコミカルな組み合わせの世界への入り口です。キャラクター、ペット、ファンタジーチーム、wifiネットワーク、または隅にある奇妙な植物に名前を付けるのに最適です。くすくす笑い、大笑い、そしておそらく1つか2つの鼻を鳴らす準備をしてください！",
+    "pt": "Bem-vindo ao epicentro do absurdo! Este não é apenas um gerador de nomes qualquer; é o seu portal para um mundo de trocadilhos espirituosos e combinações cômicas. Perfeito para nomear personagens, animais de estimação, times de fantasia, redes wifi ou aquela planta estranha no canto. Prepare-se para risadas, gargalhadas e talvez até um ou dois fungadas!",
+    "ru": "Добро пожаловать в эпицентр абсурда! Это не просто генератор имен; это ваш портал в мир остроумной игры слов и комичных комбинаций. Идеально подходит для именования персонажей, питомцев, фэнтези-команд, сетей Wi-Fi или того странного растения в углу. Приготовьтесь к хихиканью, хохоту и, возможно, даже к паре фырканий!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button. Go on, embrace the chaos!",
+      "Prepare for an onslaught of wonderfully weird names.",
+      "Scroll through the glorious gibberish and chuckle.",
+      "Found a name that makes you snort-laugh? Copy it!",
+      "Now go forth and spread the silliness!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء'. هيا، احتضن الفوضى!",
+      "استعد لهجوم من الأسماء الغريبة الرائعة.",
+      "قم بالتمرير عبر الهراء المجيد واضحك.",
+      "هل وجدت اسمًا يجعلك تضحك بشخير؟ انسخه!",
+      "والآن انطلق وانشر السخافة!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar'. ¡Vamos, abraza el caos!",
+      "Prepárate para una avalancha de nombres maravillosamente raros.",
+      "Desplázate por el glorioso galimatías y ríete.",
+      "¿Encontraste un nombre que te hace reír a carcajadas? ¡Cópialo!",
+      "¡Ahora ve y difunde la tontería!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer'. Allez-y, embrassez le chaos !",
+      "Préparez-vous à un assaut de noms merveilleusement étranges.",
+      "Faites défiler le glorieux charabia et rigolez.",
+      "Vous avez trouvé un nom qui vous fait rire aux éclats ? Copiez-le !",
+      "Maintenant, allez de l'avant et propagez la bêtise !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮。来吧，拥抱混乱！",
+      "准备迎接一波奇妙怪异的名字。",
+      "滚动浏览这些光荣的胡言乱语并咯咯笑。",
+      "找到一个让你噗嗤笑出声的名字了吗？复制它！",
+      "现在去传播这份愚蠢吧！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックしてください。さあ、カオスを受け入れましょう！",
+      "素晴らしく奇妙な名前の猛攻撃に備えてください。",
+      "輝かしいちんぷんかんぷんをスクロールして、くすくす笑ってください。",
+      "鼻を鳴らして笑ってしまうような名前を見つけましたか？コピーしましょう！",
+      "さあ、前に進んで、ばかばかしさを広めましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar'. Vá em frente, abrace o caos!",
+      "Prepare-se para um ataque de nomes maravilhosamente estranhos.",
+      "Role pela gloriosa algaravia e dê risada.",
+      "Encontrou um nome que te faz rir até fungar? Copie-o!",
+      "Agora vá em frente e espalhe a bobagem!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Создать'. Давайте, примите хаос!",
+      "Приготовьтесь к натиску чудесно странных имен.",
+      "Пролистайте славную тарабарщину и посмейтесь.",
+      "Нашли имя, от которого вы фыркаете от смеха? Скопируйте его!",
+      "А теперь идите и распространяйте глупости!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Funny Name Generator really free?",
+        "ar": "هل مولد الأسماء المضحكة هذا مجاني حقًا؟",
+        "es": "¿Este Generador de Nombres Divertidos es realmente gratis?",
+        "fr": "Ce Générateur de Noms Drôles est-il vraiment gratuit?",
+        "zh-cn": "这个搞笑名称生成器真的是免费的吗？",
+        "ja": "この面白い名前ジェネレーターは本当に無料ですか？",
+        "pt": "Este Gerador de Nomes Engraçados é realmente gratuito?",
+        "ru": "Этот Генератор Смешных Имен действительно бесплатный?"
+      },
+      "answer": {
+        "en": "Absolutely! Laughter is the best medicine, and we're handing out free prescriptions. Generate as many giggles as you like, on the house!",
+        "ar": "بالتأكيد! الضحك هو أفضل دواء، ونحن نوزع وصفات طبية مجانية. قم بتوليد أكبر عدد تريده من الضحكات، على حسابنا!",
+        "es": "¡Absolutamente! La risa es la mejor medicina, y estamos repartiendo recetas gratis. ¡Genera tantas risas como quieras, por cuenta de la casa!",
+        "fr": "Absolument ! Le rire est le meilleur remède, et nous distribuons des ordonnances gratuites. Générez autant de rires que vous le souhaitez, c'est la maison qui offre !",
+        "zh-cn": "当然！笑声是最好的良药，我们正在免费开处方。尽情生成欢笑吧，我们请客！",
+        "ja": "もちろんです！笑いは最高の薬であり、私たちは無料の処方箋を配っています。好きなだけ笑いを生成してください、無料です！",
+        "pt": "Absolutamente! O riso é o melhor remédio, e estamos distribuindo receitas grátis. Gere quantas risadas quiser, por conta da casa!",
+        "ru": "Абсолютно! Смех - лучшее лекарство, и мы раздаем бесплатные рецепты. Генерируйте столько смеха, сколько хотите, за счет заведения!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my super serious business?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لأعمالي الجادة للغاية؟",
+        "es": "¿Puedo usar estos nombres para mi negocio súper serio?",
+        "fr": "Puis-je utiliser ces noms pour mon entreprise super sérieuse?",
+        "zh-cn": "我可以将这些名称用于我超级严肃的业务吗？",
+        "ja": "これらの名前を私の超真面目なビジネスに使用できますか？",
+        "pt": "Posso usar esses nomes para o meu negócio super sério?",
+        "ru": "Могу ли я использовать эти имена для моего суперсерьезного бизнеса?"
+      },
+      "answer": {
+        "en": "You *could*... but maybe run 'Professor Fartsparkle Consulting' past a few focus groups first? We can't guarantee trademark availability or market appropriateness. Use commercially at your own comedic peril!",
+        "ar": "يمكنك... ولكن ربما يجب عليك عرض 'البروفيسور فارتسباركل للاستشارات' على بعض مجموعات التركيز أولاً؟ لا يمكننا ضمان توفر العلامة التجارية أو ملاءمة السوق. استخدمها تجاريًا على مسؤوليتك الكوميدية!",
+        "es": "Podrías... pero ¿quizás deberías pasar 'Consultoría Profesor Pedobrisas' por algunos grupos focales primero? No podemos garantizar la disponibilidad de marcas registradas ni la adecuación al mercado. ¡Úsalos comercialmente bajo tu propio riesgo cómico!",
+        "fr": "Vous *pourriez*... mais peut-être devriez-vous d'abord soumettre 'Professeur Pète-Étincelle Consultation' à quelques groupes de discussion ? Nous ne pouvons garantir la disponibilité de la marque ou la pertinence pour le marché. Utilisez-les commercialement à vos risques et périls comiques !",
+        "zh-cn": "你*可以*……但也许先让几个焦点小组评估一下“屁闪闪教授咨询公司”？我们不能保证商标可用性或市场适宜性。商业用途请自行承担喜剧风险！",
+        "ja": "できますが…でも、まず「ファートスパークル教授コンサルティング」をいくつかのフォーカスグループにかけてみてはいかがでしょうか？商標の利用可能性や市場への適合性は保証できません。商業的に使用する場合は、自己責任でコメディ的な危険を冒してください！",
+        "pt": "Você *poderia*... mas talvez passe 'Consultoria Professor Peido Brilhante' por alguns grupos focais primeiro? Não podemos garantir a disponibilidade de marcas registradas ou a adequação ao mercado. Use comercialmente por sua conta e risco cômico!",
+        "ru": "Вы *могли бы*... но, возможно, стоит сначала прогнать 'Консалтинг Профессора Пукоискра' через несколько фокус-групп? Мы не можем гарантировать доступность товарного знака или соответствие рынку. Используйте в коммерческих целях на свой страх и комедийный риск!"
+      }
+    },
+    {
+      "question": {
+        "en": "How many funny names can I generate?",
+        "ar": "كم عدد الأسماء المضحكة التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres divertidos puedo generar?",
+        "fr": "Combien de noms drôles puis-je générer?",
+        "zh-cn": "我可以生成多少个搞笑名称？",
+        "ja": "いくつの面白い名前を生成できますか？",
+        "pt": "Quantos nomes engraçados posso gerar?",
+        "ru": "Сколько смешных имен я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "Generate until your cheeks hurt from smiling! There's no limit to the absurdity. Keep clicking until you find the perfect punchline name (or a dozen)!",
+        "ar": "قم بالإنشاء حتى تؤلمك خدودك من الابتسام! لا يوجد حد للسخافة. استمر في النقر حتى تجد اسم النكتة المثالي (أو دستة)!",
+        "es": "¡Genera hasta que te duelan las mejillas de sonreír! No hay límite para el absurdo. ¡Sigue haciendo clic hasta que encuentres el nombre de remate perfecto (o una docena)!",
+        "fr": "Générez jusqu'à ce que vos joues vous fassent mal à force de sourire ! Il n'y a pas de limite à l'absurdité. Continuez à cliquer jusqu'à ce que vous trouviez le nom de chute parfait (ou une douzaine) !",
+        "zh-cn": "生成到你笑得脸颊发酸为止！荒诞没有止境。继续点击，直到找到完美的点睛之笔名称（或十几个）！",
+        "ja": "笑顔で頬が痛くなるまで生成してください！不条理に制限はありません。完璧なオチの名前（またはダース）を見つけるまでクリックし続けてください！",
+        "pt": "Gere até suas bochechas doerem de tanto sorrir! Não há limite para o absurdo. Continue clicando até encontrar o nome de piada perfeito (ou uma dúzia)!",
+        "ru": "Генерируйте, пока щеки не заболят от улыбки! Абсурду нет предела. Продолжайте нажимать, пока не найдете идеальное имя-панчлайн (или дюжину)!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are these names *actually* funny?",
+        "ar": "هل هذه الأسماء مضحكة * حقًا *؟",
+        "es": "¿Estos nombres son *realmente* divertidos?",
+        "fr": "Ces noms sont-ils *vraiment* drôles?",
+        "zh-cn": "这些名字*真的*好笑吗？",
+        "ja": "これらの名前は*本当に*面白いですか？",
+        "pt": "Esses nomes são *realmente* engraçados?",
+        "ru": "Эти имена *действительно* смешные?"
+      },
+      "answer": {
+        "en": "Humor is subjective! We programmed this with our best dad jokes and quirky algorithms. Some might land, some might flop. If a name doesn't tickle your fancy, just hit 'Generate' again for a fresh dose of potential comedy!",
+        "ar": "الفكاهة أمر شخصي! لقد برمجنا هذا بأفضل نكات الآباء لدينا وخوارزمياتنا الغريبة. قد ينجح البعض، وقد يفشل البعض الآخر. إذا لم يعجبك اسم ما، فقط اضغط على 'إنشاء' مرة أخرى للحصول على جرعة جديدة من الكوميديا المحتملة!",
+        "es": "¡El humor es subjetivo! Programamos esto con nuestros mejores chistes de papá y algoritmos peculiares. Algunos pueden funcionar, otros pueden fracasar. Si un nombre no te hace gracia, ¡simplemente presiona 'Generar' de nuevo para una nueva dosis de comedia potencial!",
+        "fr": "L'humour est subjectif ! Nous avons programmé cela avec nos meilleures blagues de papa et des algorithmes originaux. Certaines peuvent faire mouche, d'autres peuvent tomber à plat. Si un nom ne vous plaît pas, appuyez simplement sur 'Générer' à nouveau pour une nouvelle dose de comédie potentielle !",
+        "zh-cn": "幽默是主观的！我们用我们最好的冷笑话和古怪的算法编写了这个程序。有些可能会成功，有些可能会失败。如果一个名字不能让你发笑，只需再次点击“生成”即可获得新一剂潜在的喜剧！",
+        "ja": "ユーモアは主観的なものです！私たちは最高の親父ギャグと風変わりなアルゴリズムでこれをプログラムしました。いくつかはヒットするかもしれませんが、いくつかは失敗するかもしれません。名前が気に入らない場合は、「生成」をもう一度押して、潜在的なコメディの新鮮な用量を得てください！",
+        "pt": "O humor é subjetivo! Programamos isso com nossas melhores piadas de tio e algoritmos peculiares. Alguns podem acertar, outros podem falhar. Se um nome não te agradar, basta clicar em 'Gerar' novamente para uma nova dose de comédia potencial!",
+        "ru": "Юмор субъективен! Мы запрограммировали это с нашими лучшими отцовскими шутками и причудливыми алгоритмами. Некоторые могут выстрелить, некоторые могут провалиться. Если имя не щекочет ваше воображение, просто нажмите 'Создать' снова для свежей дозы потенциальной комедии!"
+      }
+    },
+    {
+      "question": {
+        "en": "Will using a funny name make me instantly popular?",
+        "ar": "هل استخدام اسم مضحك سيجعلني مشهورًا على الفور؟",
+        "es": "¿Usar un nombre divertido me hará instantáneamente popular?",
+        "fr": "Utiliser un nom drôle me rendra-t-il instantanément populaire?",
+        "zh-cn": "使用搞笑名称会让我立刻受欢迎吗？",
+        "ja": "面白い名前を使うと、すぐに人気者になれますか？",
+        "pt": "Usar um nome engraçado me tornará instantaneamente popular?",
+        "ru": "Сделает ли меня смешное имя мгновенно популярным?"
+      },
+      "answer": {
+        "en": "It might make people smile, which is a great start! But true popularity probably involves more than just being called 'Sir Reginald Fluffernutter'. Use your funny name wisely, young comedian!",
+        "ar": "قد يجعل الناس يبتسمون، وهي بداية رائعة! لكن الشعبية الحقيقية ربما تنطوي على أكثر من مجرد مناداتك بـ 'السير ريجينالد فلوفرناتر'. استخدم اسمك المضحك بحكمة أيها الكوميدي الشاب!",
+        "es": "¡Podría hacer sonreír a la gente, lo cual es un gran comienzo! Pero la verdadera popularidad probablemente implique algo más que llamarse 'Sir Reginald Fluffernutter'. ¡Usa tu nombre divertido sabiamente, joven comediante!",
+        "fr": "Cela pourrait faire sourire les gens, ce qui est un excellent début ! Mais la vraie popularité implique probablement plus que de s'appeler 'Sir Reginald Fluffernutter'. Utilisez votre nom drôle à bon escient, jeune comédien !",
+        "zh-cn": "它可能会让人们微笑，这是一个很好的开始！但真正的受欢迎程度可能不仅仅是被称为“雷金纳德·弗拉弗纳特爵士”。明智地使用你的搞笑名字吧，年轻的喜剧演员！",
+        "ja": "それは人々を笑顔にするかもしれません、それは素晴らしいスタートです！しかし、真の人気はおそらく「レジナルド・フラファーナッター卿」と呼ばれるだけ以上のものを伴います。面白い名前を賢く使いましょう、若いコメディアン！",
+        "pt": "Pode fazer as pessoas sorrirem, o que é um ótimo começo! Mas a verdadeira popularidade provavelmente envolve mais do que apenas ser chamado de 'Sir Reginald Fluffernutter'. Use seu nome engraçado com sabedoria, jovem comediante!",
+        "ru": "Это может заставить людей улыбнуться, что является отличным началом! Но истинная популярность, вероятно, включает в себя нечто большее, чем просто называться 'Сэр Реджинальд Пухоорех'. Используйте свое смешное имя мудро, юный комик!"
+      }
+    },
+    {
+      "question": {
+        "en": "My generated name wasn't funny at all!",
+        "ar": "الاسم الذي تم إنشاؤه لم يكن مضحكًا على الإطلاق!",
+        "es": "¡El nombre que generé no fue nada divertido!",
+        "fr": "Le nom que j'ai généré n'était pas drôle du tout !",
+        "zh-cn": "我生成的名字一点也不好笑！",
+        "ja": "生成された名前はまったく面白くありませんでした！",
+        "pt": "O nome que gerei não foi nada engraçado!",
+        "ru": "Мое сгенерированное имя совсем не смешное!"
+      },
+      "answer": {
+        "en": "Ouch! Sorry about that. Sometimes our humor circuits misfire. Think of it as abstract comedy? Or just hit 'Generate' again – the next one could be comedy gold! We're always tweaking the silliness levels.",
+        "ar": "أوتش! آسف بشأن ذلك. أحيانًا تخطئ دوائر الفكاهة لدينا. فكر في الأمر على أنه كوميديا مجردة؟ أو فقط اضغط على 'إنشاء' مرة أخرى - قد يكون الاسم التالي ذهبًا كوميديًا! نحن دائمًا نعدل مستويات السخافة.",
+        "es": "¡Ay! Lo siento. A veces nuestros circuitos de humor fallan. ¿Piénsalo como comedia abstracta? O simplemente presiona 'Generar' de nuevo, ¡el siguiente podría ser oro cómico! Siempre estamos ajustando los niveles de tontería.",
+        "fr": "Aïe ! Désolé pour ça. Parfois, nos circuits d'humour ont des ratés. Considérez cela comme de la comédie abstraite ? Ou appuyez simplement sur 'Générer' à nouveau – le prochain pourrait être de l'or comique ! Nous ajustons constamment les niveaux de bêtise.",
+        "zh-cn": "哎呀！抱歉。有时我们的幽默电路会失灵。把它看作是抽象喜剧？或者只需再次点击“生成”——下一个可能就是喜剧黄金！我们一直在调整愚蠢程度。",
+        "ja": "痛っ！すみません。時々、私たちのユーモア回路が誤作動します。抽象的なコメディと考えてください。または、単に「生成」をもう一度押してください – 次はコメディの金かもしれません！私たちは常にばかばかしさのレベルを微調整しています。",
+        "pt": "Ai! Desculpe por isso. Às vezes, nossos circuitos de humor falham. Pense nisso como comédia abstrata? Ou apenas clique em 'Gerar' novamente – o próximo pode ser ouro cômico! Estamos sempre ajustando os níveis de bobagem.",
+        "ru": "Ой! Извините. Иногда наши юмористические схемы дают сбой. Считайте это абстрактной комедией? Или просто нажмите 'Создать' снова – следующее может быть комедийным золотом! Мы всегда настраиваем уровни глупости."
+      }
+    }
+  ]
+}

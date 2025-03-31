@@ -1,0 +1,236 @@
+{
+  "name": {
+    "en": "Anime Name Generator",
+    "ar": "مولد أسماء الأنمي",
+    "es": "Generador de Nombres de Anime",
+    "fr": "Générateur de Noms d'Anime",
+    "zh-cn": "动漫名称生成器",
+    "ja": "アニメ名ジェネレーター",
+    "pt": "Gerador de Nomes de Anime",
+    "ru": "Генератор Аниме-Имен"
+  },
+  "description": {
+    "en": "Ready to craft the next legendary anime title or character name? Our Anime Name Generator sparks your imagination with epic, cute, mysterious, and action-packed names worthy of the screen! Find the perfect name for your hero, villain, series, or fanfic.",
+    "ar": "هل أنت مستعد لابتكار عنوان الأنمي الأسطوري القادم أو اسم شخصية؟ مولد أسماء الأنمي لدينا يشعل خيالك بأسماء ملحمية، لطيفة، غامضة، ومليئة بالإثارة تستحق الشاشة! اعثر على الاسم المثالي لبطلك، الشرير، السلسلة، أو قصص المعجبين.",
+    "es": "¿Listo para crear el próximo título de anime legendario o nombre de personaje? ¡Nuestro Generador de Nombres de Anime despierta tu imaginación con nombres épicos, lindos, misteriosos y llenos de acción dignos de la pantalla! Encuentra el nombre perfecto para tu héroe, villano, serie o fanfic.",
+    "fr": "Prêt à créer le prochain titre d'anime légendaire ou nom de personnage ? Notre Générateur de Noms d'Anime enflamme votre imagination avec des noms épiques, mignons, mystérieux et bourrés d'action dignes de l'écran ! Trouvez le nom parfait pour votre héros, méchant, série ou fanfic.",
+    "zh-cn": "准备好创作下一个传奇动漫标题或角色名称了吗？我们的动漫名称生成器激发您的想象力，提供史诗般、可爱、神秘且充满动作感的名字，值得搬上银幕！为您的英雄、反派、系列或同人小说找到完美的名字。",
+    "ja": "次の伝説的なアニメタイトルやキャラクター名を創り出す準備はできましたか？当アニメ名ジェネレーターは、スクリーンにふさわしい、壮大で、かわいく、ミステリアスで、アクション満載の名前であなたの想像力を刺激します！ヒーロー、悪役、シリーズ、ファンフィクションにぴったりの名前を見つけましょう。",
+    "pt": "Pronto para criar o próximo título de anime lendário ou nome de personagem? Nosso Gerador de Nomes de Anime desperta sua imaginação com nomes épicos, fofos, misteriosos e cheios de ação dignos da tela! Encontre o nome perfeito para seu herói, vilão, série ou fanfic.",
+    "ru": "Готовы создать следующее легендарное аниме-название или имя персонажа? Наш Генератор Аниме-Имен разжигает ваше воображение эпическими, милыми, загадочными и насыщенными действием именами, достойными экрана! Найдите идеальное имя для вашего героя, злодея, сериала или фанфика."
+  },
+  "slug": "anime-name-generator",
+  "prompt": {
+    "en": "Generate an anime name",
+    "ar": "قم بإنشاء اسم أنمي",
+    "es": "Generar un nombre de anime",
+    "fr": "Générer un nom d'anime",
+    "zh-cn": "生成一个动漫名称",
+    "ja": "アニメ名を生成する",
+    "pt": "Gerar um nome de anime",
+    "ru": "Сгенерировать аниме-имя"
+  },
+  "icon": "🌟",
+  "introduction": {
+    "en": "Step into a world of infinite possibilities! This Anime Name Generator is your portal to crafting names that resonate with the vibrant energy and diverse genres of anime. Whether you're naming a shonen protagonist, a magical girl, a complex anti-hero, or an entire series, discover names that capture the essence of your creation. Get ready for names that are powerful, evocative, and uniquely anime!",
+    "ar": "ادخل إلى عالم من الاحتمالات اللانهائية! مولد أسماء الأنمي هذا هو بوابتك لصياغة أسماء تتناغم مع الطاقة النابضة بالحياة والأنواع المتنوعة للأنمي. سواء كنت تسمي بطل شونين، فتاة سحرية، بطلًا مضادًا معقدًا، أو سلسلة بأكملها، اكتشف أسماء تجسد جوهر إبداعك. استعد لأسماء قوية، مثيرة للذكريات، وفريدة من نوعها في عالم الأنمي!",
+    "es": "¡Entra en un mundo de infinitas posibilidades! Este Generador de Nombres de Anime es tu portal para crear nombres que resuenen con la energía vibrante y los diversos géneros del anime. Ya sea que estés nombrando a un protagonista shonen, una chica mágica, un antihéroe complejo o una serie completa, descubre nombres que capturen la esencia de tu creación. ¡Prepárate para nombres poderosos, evocadores y singularmente anime!",
+    "fr": "Entrez dans un monde de possibilités infinies ! Ce Générateur de Noms d'Anime est votre portail pour créer des noms qui résonnent avec l'énergie vibrante et les divers genres de l'anime. Que vous nommiez un protagoniste shonen, une magical girl, un anti-héros complexe ou une série entière, découvrez des noms qui capturent l'essence de votre création. Préparez-vous à des noms puissants, évocateurs et typiquement anime !",
+    "zh-cn": "步入无限可能的世界！这款动漫名称生成器是您打造与动漫充满活力的能量和多样化类型产生共鸣的名字的传送门。无论您是为少年主角、魔法少女、复杂的反英雄还是整个系列命名，都能发现捕捉您创作精髓的名字。准备好迎接那些强大、引人入胜且具有独特动漫风格的名字吧！",
+    "ja": "無限の可能性の世界へ足を踏み入れましょう！このアニメ名ジェネレーターは、アニメの活気に満ちたエネルギーと多様なジャンルに共鳴する名前を作成するためのポータルです。少年漫画の主人公、魔法少女、複雑なアンチヒーロー、またはシリーズ全体に名前を付ける場合でも、あなたの創造物の本質を捉える名前を発見してください。パワフルで、感情を呼び起こし、ユニークなアニメの名前の準備をしてください！",
+    "pt": "Entre em um mundo de infinitas possibilities! Este Gerador de Nomes de Anime é o seu portal para criar nomes que ressoam com a energia vibrante e os diversos gêneros do anime. Esteja você nomeando um protagonista shonen, uma garota mágica, um anti-herói complexo ou uma série inteira, descubra nomes que capturam a essência da sua criação. Prepare-se para nomes poderosos, evocativos e unicamente anime!",
+    "ru": "Шагните в мир безграничных возможностей! Этот Генератор Аниме-Имен — ваш портал для создания имен, которые резонируют с яркой энергией и разнообразными жанрами аниме. Называете ли вы главного героя сёнэна, волшебницу, сложного антигероя или целый сериал — откройте для себя имена, отражающие суть вашего творения. Приготовьтесь к мощным, запоминающимся и уникальным аниме-именам!"
+  },
+  "howToUse": {
+    "en": [
+      "Hit the 'Generate' button to unleash anime naming power!",
+      "Witness a cascade of potential anime names appear.",
+      "Scroll and find the name that perfectly fits your vision.",
+      "Copy your chosen masterpiece.",
+      "Go forth and bring your anime creation to life with its awesome new name!"
+    ],
+    "ar": [
+      "اضغط على زر 'إنشاء' لإطلاق العنان لقوة تسمية الأنمي!",
+      "شاهد سلسلة من أسماء الأنمي المحتملة تظهر.",
+      "قم بالتمرير وابحث عن الاسم الذي يناسب رؤيتك تمامًا.",
+      "انسخ تحفتك المختارة.",
+      "انطلق وأحضر إبداعك الأنمي إلى الحياة باسمه الجديد الرائع!"
+    ],
+    "es": [
+      "¡Pulsa el botón 'Generar' para desatar el poder de nombrar anime!",
+      "Observa cómo aparece una cascada de posibles nombres de anime.",
+      "Desplázate y encuentra el nombre que se ajuste perfectamente a tu visión.",
+      "Copia tu obra maestra elegida.",
+      "¡Adelante, da vida a tu creación de anime con su increíble nombre nuevo!"
+    ],
+    "fr": [
+      "Appuyez sur le bouton 'Générer' pour libérer la puissance de nommage d'anime !",
+      "Observez une cascade de noms d'anime potentiels apparaître.",
+      "Faites défiler et trouvez le nom qui correspond parfaitement à votre vision.",
+      "Copiez votre chef-d'œuvre choisi.",
+      "Allez de l'avant et donnez vie à votre création d'anime avec son nouveau nom génial !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮，释放动漫命名的力量！",
+      "见证一连串潜在的动漫名称出现。",
+      "滚动并找到完全符合您愿景的名字。",
+      "复制您选择的杰作。",
+      "用它超棒的新名字，让您的动漫创作栩栩如生！"
+    ],
+    "ja": [
+      "「生成」ボタンを押して、アニメ命名パワーを解き放ちましょう！",
+      "潜在的なアニメ名のカスケードが表示されるのを目撃してください。",
+      "スクロールして、あなたのビジョンに完全に合う名前を見つけてください。",
+      "選んだ傑作をコピーしてください。",
+      "その素晴らしい新しい名前で、あなたのアニメ創作に命を吹き込みましょう！"
+    ],
+    "pt": [
+      "Aperte o botão 'Gerar' para liberar o poder de nomeação de anime!",
+      "Testemunhe uma cascata de potenciais nomes de anime aparecer.",
+      "Role e encontre o nome que se encaixa perfeitamente na sua visão.",
+      "Copie sua obra-prima escolhida.",
+      "Vá em frente e dê vida à sua criação de anime com seu novo nome incrível!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Сгенерировать', чтобы высвободить мощь именования аниме!",
+      "Станьте свидетелем появления каскада потенциальных аниме-имен.",
+      "Прокрутите и найдите имя, которое идеально соответствует вашему видению.",
+      "Скопируйте выбранный шедевр.",
+      "Вперед, воплотите свое аниме-творение в жизнь с его потрясающим новым именем!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Anime Name Generator totally free?",
+        "ar": "هل مولد أسماء الأنمي هذا مجاني تمامًا؟",
+        "es": "¿Este Generador de Nombres de Anime es totalmente gratuito?",
+        "fr": "Ce Générateur de Noms d'Anime est-il totalement gratuit ?",
+        "zh-cn": "这个动漫名称生成器是完全免费的吗？",
+        "ja": "このアニメ名ジェネレーターは完全に無料ですか？",
+        "pt": "Este Gerador de Nomes de Anime é totalmente gratuito?",
+        "ru": "Этот Генератор Аниме-Имен полностью бесплатный?"
+      },
+      "answer": {
+        "en": "Yes, 100%! We believe epic anime names should be accessible to all creators. Generate as many names as you need, free of charge!",
+        "ar": "نعم، 100%! نحن نؤمن بأن أسماء الأنمي الملحمية يجب أن تكون متاحة لجميع المبدعين. قم بإنشاء أي عدد تريده من الأسماء، مجانًا!",
+        "es": "¡Sí, 100%! Creemos que los nombres épicos de anime deben ser accesibles para todos los creadores. ¡Genera tantos nombres como necesites, de forma gratuita!",
+        "fr": "Oui, 100% ! Nous pensons que les noms d'anime épiques devraient être accessibles à tous les créateurs. Générez autant de noms que nécessaire, gratuitement !",
+        "zh-cn": "是的，100%免费！我们相信史诗般的动漫名称应该对所有创作者开放。免费生成您需要的任意数量的名称！",
+        "ja": "はい、100％無料です！壮大なアニメの名前は、すべてのクリエイターが利用できるべきだと信じています。必要なだけ名前を生成してください、無料です！",
+        "pt": "Sim, 100%! Acreditamos que nomes de anime épicos devem ser acessíveis a todos os criadores. Gere quantos nomes precisar, gratuitamente!",
+        "ru": "Да, на 100%! Мы считаем, что эпические аниме-имена должны быть доступны всем создателям. Генерируйте столько имен, сколько вам нужно, бесплатно!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these generated anime names commercially (e.g., for my manga, game, light novel)?",
+        "ar": "هل يمكنني استخدام أسماء الأنمي التي تم إنشاؤها تجاريًا (على سبيل المثال، لمانغا، لعبة، رواية خفيفة)؟",
+        "es": "¿Puedo usar estos nombres de anime generados comercialmente (p. ej., para mi manga, juego, novela ligera)?",
+        "fr": "Puis-je utiliser ces noms d'anime générés commercialement (par exemple, pour mon manga, jeu, light novel) ?",
+        "zh-cn": "我可以将这些生成的动漫名称用于商业用途吗（例如，用于我的漫画、游戏、轻小说）？",
+        "ja": "生成されたこれらのアニメ名を商業的に使用できますか（例：漫画、ゲーム、ライトノベル用）？",
+        "pt": "Posso usar esses nomes de anime gerados comercialmente (por exemplo, para meu mangá, jogo, light novel)?",
+        "ru": "Могу ли я использовать эти сгенерированные аниме-имена в коммерческих целях (например, для моей манги, игры, лайт-новеллы)?"
+      },
+      "answer": {
+        "en": "These names are generated for inspiration. While you're free to use them, we can't guarantee they aren't already trademarked or in use. Always research thoroughly before using a name commercially.",
+        "ar": "تم إنشاء هذه الأسماء للإلهام. بينما أنت حر في استخدامها، لا يمكننا ضمان أنها ليست مسجلة كعلامة تجارية أو مستخدمة بالفعل. ابحث دائمًا جيدًا قبل استخدام اسم تجاريًا.",
+        "es": "Estos nombres se generan como inspiración. Si bien eres libre de usarlos, no podemos garantizar que no estén ya registrados o en uso. Siempre investiga a fondo antes de usar un nombre comercialmente.",
+        "fr": "Ces noms sont générés pour l'inspiration. Bien que vous soyez libre de les utiliser, nous ne pouvons garantir qu'ils ne sont pas déjà déposés ou utilisés. Faites toujours des recherches approfondies avant d'utiliser un nom commercialement.",
+        "zh-cn": "这些名称是为激发灵感而生成的。虽然您可以自由使用它们，但我们不能保证它们没有被注册商标或已被使用。在商业上使用名称之前，请务必进行彻底的研究。",
+        "ja": "これらの名前はインスピレーションのために生成されます。自由に使用できますが、すでに商標登録されているか使用されているかを保証することはできません。商業的に名前を使用する前に、必ず徹底的に調査してください。",
+        "pt": "Esses nomes são gerados para inspiração. Embora você seja livre para usá-los, não podemos garantir que eles já não estejam registrados ou em uso. Sempre pesquise cuidadosamente antes de usar um nome comercialmente.",
+        "ru": "Эти имена генерируются для вдохновения. Хотя вы можете свободно их использовать, мы не можем гарантировать, что они еще не зарегистрированы как товарные знаки или не используются. Всегда тщательно исследуйте перед коммерческим использованием имени."
+      }
+    },
+    {
+      "question": {
+        "en": "How many anime names can I generate?",
+        "ar": "كم عدد أسماء الأنمي التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres de anime puedo generar?",
+        "fr": "Combien de noms d'anime puis-je générer ?",
+        "zh-cn": "我可以生成多少个动漫名称？",
+        "ja": "いくつのアニメ名を生成できますか？",
+        "pt": "Quantos nomes de anime posso gerar?",
+        "ru": "Сколько аниме-имен я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "Infinite possibilities! Generate names until you find the one that sparks joy and perfectly captures your anime concept. There's no limit!",
+        "ar": "إمكانيات لا حصر لها! قم بإنشاء الأسماء حتى تجد الاسم الذي يثير الفرح ويلتقط مفهوم الأنمي الخاص بك بشكل مثالي. لا يوجد حد!",
+        "es": "¡Posibilidades infinitas! Genera nombres hasta que encuentres el que despierte alegría y capture perfectamente tu concepto de anime. ¡No hay límite!",
+        "fr": "Des possibilités infinies ! Générez des noms jusqu'à ce que vous trouviez celui qui suscite la joie et capture parfaitement votre concept d'anime. Il n'y a pas de limite !",
+        "zh-cn": "无限可能！不断生成名字，直到找到那个能点燃你创作火花、完美捕捉你动漫概念的名字。没有限制！",
+        "ja": "無限の可能性！喜びを呼び起こし、あなたのアニメコンセプトを完璧に捉える名前が見つかるまで、名前を生成してください。制限はありません！",
+        "pt": "Infinitas possibilidades! Gere nomes até encontrar aquele que desperta alegria e captura perfeitamente seu conceito de anime. Não há limite!",
+        "ru": "Бесконечные возможности! Генерируйте имена, пока не найдете то, которое вызывает радость и идеально отражает вашу аниме-концепцию. Ограничений нет!"
+      }
+    },
+    {
+      "question": {
+        "en": "What kind of anime names does this generate? Are they actually cool?",
+        "ar": "ما نوع أسماء الأنمي التي يولدها هذا؟ هل هي رائعة حقًا؟",
+        "es": "¿Qué tipo de nombres de anime genera esto? ¿Son realmente geniales?",
+        "fr": "Quel genre de noms d'anime cela génère-t-il ? Sont-ils vraiment cools ?",
+        "zh-cn": "这个生成器生成什么样的动漫名称？它们真的酷吗？",
+        "ja": "これはどのような種類のアニメ名を生成しますか？それらは実際にクールですか？",
+        "pt": "Que tipo de nomes de anime isso gera? Eles são realmente legais?",
+        "ru": "Какие аниме-имена генерирует этот инструмент? Они действительно крутые?"
+      },
+      "answer": {
+        "en": "We aim for a mix! You'll find names inspired by various genres – shonen, shojo, isekai, mecha, slice-of-life, and more. Some are epic, some cute, some mysterious. Coolness is subjective, but we hope you find gems! Keep generating if the first batch isn't perfect.",
+        "ar": "نهدف إلى مزيج! ستجد أسماء مستوحاة من أنواع مختلفة - شونين، شوجو، إيسيكاي، ميكا، شريحة من الحياة، والمزيد. بعضها ملحمي، وبعضها لطيف، وبعضها غامض. الروعة أمر شخصي، لكننا نأمل أن تجد جواهر! استمر في التوليد إذا لم تكن الدفعة الأولى مثالية.",
+        "es": "¡Apuntamos a una mezcla! Encontrarás nombres inspirados en varios géneros: shonen, shojo, isekai, mecha, slice-of-life y más. Algunos son épicos, otros lindos, otros misteriosos. La genialidad es subjetiva, ¡pero esperamos que encuentres joyas! Sigue generando si el primer lote no es perfecto.",
+        "fr": "Nous visons un mélange ! Vous trouverez des noms inspirés de divers genres – shonen, shojo, isekai, mecha, tranche de vie, et plus encore. Certains sont épiques, certains mignons, certains mystérieux. Le cool est subjectif, mais nous espérons que vous trouverez des perles ! Continuez à générer si le premier lot n'est pas parfait.",
+        "zh-cn": "我们的目标是混合风格！您会发现受各种类型启发的名称——少年、少女、异世界、机甲、日常等等。有些是史诗般的，有些是可爱的，有些是神秘的。酷不酷是主观的，但我们希望您能找到宝藏！如果第一批不完美，请继续生成。",
+        "ja": "ミックスを目指しています！少年、少女、異世界、メカ、日常系など、様々なジャンルにインスパイアされた名前が見つかります。壮大なもの、かわいいもの、神秘的なものもあります。クールさは主観的なものですが、宝石を見つけていただければ幸いです！最初のバッチが完璧でない場合は、生成し続けてください。",
+        "pt": "Nosso objetivo é uma mistura! Você encontrará nomes inspirados em vários gêneros – shonen, shojo, isekai, mecha, slice-of-life e muito mais. Alguns são épicos, alguns fofos, alguns misteriosos. Ser legal é subjetivo, mas esperamos que você encontre joias! Continue gerando se o primeiro lote não for perfeito.",
+        "ru": "Мы стремимся к разнообразию! Вы найдете имена, вдохновленные различными жанрами — сёнэн, сёдзё, исекай, меха, повседневность и другие. Некоторые эпичны, некоторые милы, некоторые загадочны. Крутость субъективна, но мы надеемся, вы найдете жемчужины! Продолжайте генерировать, если первая партия не идеальна."
+      }
+    },
+    {
+      "question": {
+        "en": "Will using a name from here make my anime/character instantly popular?",
+        "ar": "هل استخدام اسم من هنا سيجعل الأنمي/الشخصية الخاصة بي مشهورة على الفور؟",
+        "es": "¿Usar un nombre de aquí hará que mi anime/personaje sea instantáneamente popular?",
+        "fr": "L'utilisation d'un nom d'ici rendra-t-elle mon anime/personnage instantanément populaire ?",
+        "zh-cn": "使用这里的名称会让我的动漫/角色立刻受欢迎吗？",
+        "ja": "ここからの名前を使用すると、私のアニメ/キャラクターはすぐに人気が出ますか？",
+        "pt": "Usar um nome daqui tornará meu anime/personagem instantaneamente popular?",
+        "ru": "Сделает ли использование имени отсюда мое аниме/персонажа мгновенно популярным?"
+      },
+      "answer": {
+        "en": "A great name is a fantastic start, but popularity comes from compelling stories, engaging characters, and amazing art! Think of the generator as a powerful first step in your creative journey.",
+        "ar": "الاسم الرائع هو بداية رائعة، لكن الشعبية تأتي من القصص المقنعة والشخصيات الجذابة والفن المذهل! فكر في المولد كخطوة أولى قوية في رحلتك الإبداعية.",
+        "es": "Un gran nombre es un comienzo fantástico, ¡pero la popularidad proviene de historias convincentes, personajes atractivos y arte increíble! Piensa en el generador como un poderoso primer paso en tu viaje creativo.",
+        "fr": "Un bon nom est un début fantastique, mais la popularité vient d'histoires captivantes, de personnages attachants et d'un art incroyable ! Considérez le générateur comme une première étape puissante dans votre parcours créatif.",
+        "zh-cn": "一个好名字是一个极好的开始，但受欢迎程度来自于引人入胜的故事、引人入胜的角色和令人惊叹的艺术！将生成器视为您创作旅程中强有力的第一步。",
+        "ja": "素晴らしい名前は素晴らしいスタートですが、人気は魅力的なストーリー、魅力的なキャラクター、そして素晴らしいアートから生まれます！ジェネレーターをあなたの創造的な旅における強力な第一歩と考えてください。",
+        "pt": "Um ótimo nome é um começo fantástico, mas a popularidade vem de histórias convincentes, personagens envolventes e arte incrível! Pense no gerador como um poderoso primeiro passo em sua jornada criativa.",
+        "ru": "Отличное имя — это фантастическое начало, но популярность приходит от захватывающих историй, увлекательных персонажей и потрясающего арта! Рассматривайте генератор как мощный первый шаг в вашем творческом путешествии."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest themes or words for the Anime Name Generator?",
+        "ar": "هل يمكنني اقتراح موضوعات أو كلمات لمولد أسماء الأنمي؟",
+        "es": "¿Puedo sugerir temas o palabras para el Generador de Nombres de Anime?",
+        "fr": "Puis-je suggérer des thèmes ou des mots pour le Générateur de Noms d'Anime ?",
+        "zh-cn": "我可以为动漫名称生成器建议主题或词语吗？",
+        "ja": "アニメ名ジェネレーターにテーマや単語を提案できますか？",
+        "pt": "Posso sugerir temas ou palavras para o Gerador de Nomes de Anime?",
+        "ru": "Могу ли я предложить темы или слова для Генератора Аниме-Имен?"
+      },
+      "answer": {
+        "en": "Absolutely! We love feedback. If you have ideas for specific anime themes, keywords, or naming patterns you'd like to see, let us know via our feedback channel. Your input helps us improve!",
+        "ar": "بالتأكيد! نحن نحب التعليقات. إذا كانت لديك أفكار لموضوعات أنمي محددة أو كلمات رئيسية أو أنماط تسمية ترغب في رؤيتها، فأخبرنا بذلك عبر قناة التعليقات الخاصة بنا. مدخلاتك تساعدنا على التحسين!",
+        "es": "¡Absolutamente! Nos encanta recibir comentarios. Si tienes ideas para temas específicos de anime, palabras clave o patrones de nombres que te gustaría ver, háznoslo saber a través de nuestro canal de comentarios. ¡Tu aporte nos ayuda a mejorar!",
+        "fr": "Absolument ! Nous adorons les commentaires. Si vous avez des idées de thèmes d'anime spécifiques, de mots-clés ou de modèles de noms que vous aimeriez voir, faites-le nous savoir via notre canal de commentaires. Votre contribution nous aide à nous améliorer !",
+        "zh-cn": "当然可以！我们喜欢反馈。如果您对希望看到的特定动漫主题、关键词或命名模式有想法，请通过我们的反馈渠道告知我们。您的意见有助于我们改进！",
+        "ja": "もちろんです！フィードバックは大歓迎です。特定のアニメのテーマ、キーワード、または見てみたい命名パターンについてのアイデアがあれば、フィードバックチャネルを通じてお知らせください。あなたのインプットは私たちが改善するのに役立ちます！",
+        "pt": "Com certeza! Adoramos feedback. Se você tiver ideias para temas específicos de anime, palavras-chave ou padrões de nomenclatura que gostaria de ver, informe-nos através do nosso canal de feedback. Sua contribuição nos ajuda a melhorar!",
+        "ru": "Абсолютно! Мы любим обратную связь. Если у вас есть идеи для конкретных аниме-тем, ключевых слов или шаблонов имен, которые вы хотели бы видеть, сообщите нам через наш канал обратной связи. Ваш вклад помогает нам улучшаться!"
+      }
+    }
+  ]
+}

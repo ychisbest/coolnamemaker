@@ -1,0 +1,236 @@
+{
+  "name": {
+    "en": "Superhero Name Generator",
+    "ar": "مولد أسماء الأبطال الخارقين",
+    "es": "Generador de Nombres de Superhéroe",
+    "fr": "Générateur de Noms de Super-héros",
+    "zh-cn": "超级英雄名称生成器",
+    "ja": "スーパーヒーロー名ジェネレーター",
+    "pt": "Gerador de Nomes de Super-herói",
+    "ru": "Генератор Имен Супергероев"
+  },
+  "description": {
+    "en": "Struggling to find the perfect, awe-inspiring name for your comic book character, game avatar, or secret identity? Our Superhero Name Generator is here to unleash a universe of powerful, unforgettable, and downright legendary names! Get ready to fight crime (or create awesome stories) with a name that screams 'heroism' and 'epic adventures'.",
+    "ar": "هل تكافح للعثور على الاسم المثالي المذهل لشخصية كتابك الهزلي أو صورتك الرمزية في اللعبة أو هويتك السرية؟ مولد أسماء الأبطال الخارقين لدينا هنا لإطلاق العنان لعالم من الأسماء القوية التي لا تُنسى والأسطورية تمامًا! استعد لمحاربة الجريمة (أو إنشاء قصص رائعة) باسم يصرخ 'بطولة' و 'مغامرات ملحمية'.",
+    "es": "¿Luchando por encontrar el nombre perfecto e inspirador para tu personaje de cómic, avatar de juego o identidad secreta? ¡Nuestro Generador de Nombres de Superhéroe está aquí para desatar un universo de nombres poderosos, inolvidables y francamente legendarios! Prepárate para luchar contra el crimen (o crear historias increíbles) con un nombre que grite 'heroísmo' y 'aventuras épicas'.",
+    "fr": "Vous avez du mal à trouver le nom parfait et impressionnant pour votre personnage de bande dessinée, votre avatar de jeu ou votre identité secrète? Notre Générateur de Noms de Super-héros est là pour libérer un univers de noms puissants, inoubliables et carrément légendaires! Préparez-vous à combattre le crime (ou à créer des histoires géniales) avec un nom qui crie 'héroïsme' et 'aventures épiques'.",
+    "zh-cn": "在为你的漫画角色、游戏头像或秘密身份寻找完美、令人敬畏的名字时遇到困难？我们的超级英雄名称生成器在此释放一个充满力量、令人难忘且绝对传奇的名字宇宙！准备好用一个呼喊着“英雄主义”和“史诗冒险”的名字来打击犯罪（或创作精彩故事）吧。",
+    "ja": "コミックブックのキャラクター、ゲームのアバター、または秘密のアイデンティティにぴったりの、畏敬の念を起こさせる名前を見つけるのに苦労していますか？私たちのスーパーヒーロー名ジェネレーターは、パワフルで忘れられない、そしてまさに伝説的な名前の宇宙を解き放ちます！「ヒロイズム」と「壮大な冒険」を叫ぶ名前で、犯罪と戦う（または素晴らしい物語を創造する）準備をしてください！",
+    "pt": "Lutando para encontrar o nome perfeito e inspirador para seu personagem de quadrinhos, avatar de jogo ou identidade secreta? Nosso Gerador de Nomes de Super-herói está aqui para liberar um universo de nomes poderosos, inesquecíveis e francamente lendários! Prepare-se para combater o crime (ou criar histórias incríveis) com um nome que grita 'heroísmo' e 'aventuras épicas'.",
+    "ru": "Пытаетесь найти идеальное, внушающее трепет имя для вашего персонажа комиксов, игрового аватара или секретной личности? Наш Генератор Имен Супергероев здесь, чтобы высвободить вселенную мощных, незабываемых и поистине легендарных имен! Приготовьтесь бороться с преступностью (или создавать потрясающие истории) с именем, которое кричит 'героизм' и 'эпические приключения'."
+  },
+  "slug": "superhero-name-generator",
+  "prompt": {
+    "en": "Generate a superhero name",
+    "ar": "قم بإنشاء اسم بطل خارق",
+    "es": "Generar un nombre de superhéroe",
+    "fr": "Générer un nom de super-héros",
+    "zh-cn": "生成一个超级英雄名称",
+    "ja": "スーパーヒーロー名を生成する",
+    "pt": "Gerar um nome de super-herói",
+    "ru": "Сгенерировать имя супергероя"
+  },
+  "icon": "🦸",
+  "introduction": {
+    "en": "Every legend needs a name! Move beyond the ordinary and forge an identity worthy of your hero's powers and story. This isn't just a name generator; it's your secret weapon for crafting an alias that resonates with justice, mystery, or cosmic power. Whether you're designing the next iconic protector, a shadowy vigilante, or just need a cool moniker for your online persona, we've got the spark. Prepare to be amazed by the sheer epicness (and sometimes humorous potential) of the names you'll discover.",
+    "ar": "كل أسطورة تحتاج إلى اسم! تجاوز المألوف واصنع هوية تليق بقوى بطلك وقصته. هذا ليس مجرد مولد أسماء؛ إنه سلاحك السري لصياغة اسم مستعار يتردد صداه مع العدالة أو الغموض أو القوة الكونية. سواء كنت تصمم الحامي الأيقوني التالي، أو حارسًا غامضًا، أو تحتاج فقط إلى لقب رائع لشخصيتك على الإنترنت، لدينا الشرارة. استعد للانبهار بالملحمية المطلقة (وأحيانًا الإمكانات الفكاهية) للأسماء التي ستكتشفها.",
+    "es": "¡Toda leyenda necesita un nombre! Ve más allá de lo ordinario y forja una identidad digna de los poderes y la historia de tu héroe. Esto no es solo un generador de nombres; es tu arma secreta para crear un alias que resuene con justicia, misterio o poder cósmico. Ya sea que estés diseñando al próximo protector icónico, un vigilante sombrío, o simplemente necesites un apodo genial para tu persona en línea, tenemos la chispa. Prepárate para sorprenderte con la pura epicidad (y a veces el potencial humorístico) de los nombres que descubrirás.",
+    "fr": "Chaque légende a besoin d'un nom ! Dépassez l'ordinaire et forgez une identité digne des pouvoirs et de l'histoire de votre héros. Ce n'est pas seulement un générateur de noms ; c'est votre arme secrète pour créer un alias qui résonne avec la justice, le mystère ou le pouvoir cosmique. Que vous conceviez le prochain protecteur emblématique, un justicier de l'ombre, ou que vous ayez simplement besoin d'un surnom cool pour votre personnage en ligne, nous avons l'étincelle. Préparez-vous à être émerveillé par l'épique pure (et parfois le potentiel humoristique) des noms que vous découvrirez.",
+    "zh-cn": "每个传奇都需要一个名字！超越平凡，锻造一个配得上你英雄的力量和故事的身份。这不仅仅是一个名称生成器；它是你打造一个与正义、神秘或宇宙力量产生共鸣的别名的秘密武器。无论你是在设计下一个标志性的保护者、一个阴暗的义警，还是只需要一个酷炫的网名，我们都能提供灵感。准备好被你将发现的名字的纯粹史诗感（以及有时幽默的潜力）所震撼吧。",
+    "ja": "すべての伝説には名前が必要です！平凡を超え、ヒーローの力と物語にふさわしいアイデンティティを築き上げましょう。これは単なる名前生成器ではありません。正義、ミステリー、または宇宙の力と共鳴する別名を作成するための秘密兵器です。次の象徴的な守護者、影の自警団員をデザインしている場合でも、オンラインペルソナにクールなあだ名が必要な場合でも、私たちは火花を持っています。あなたが見つける名前の純粋な壮大さ（そして時にはユーモラスな可能性）に驚かされる準備をしてください。",
+    "pt": "Toda lenda precisa de um nome! Vá além do comum e forje uma identidade digna dos poderes e da história do seu herói. Isto não é apenas um gerador de nomes; é sua arma secreta para criar um pseudônimo que ressoe com justiça, mistério ou poder cósmico. Quer esteja projetando o próximo protetor icônico, um vigilante sombrio, ou apenas precise de um apelido legal para sua persona online, nós temos a centelha. Prepare-se para ficar maravilhado com a pura epicidade (e às vezes o potencial humorístico) dos nomes que você descobrirá.",
+    "ru": "Каждой легенде нужно имя! Выйдите за рамки обыденного и создайте личность, достойную сил и истории вашего героя. Это не просто генератор имен; это ваше секретное оружие для создания псевдонима, который резонирует со справедливостью, тайной или космической силой. Независимо от того, разрабатываете ли вы следующего культового защитника, теневого мстителя или просто нуждаетесь в крутом прозвище для своего онлайн-персонажа, у нас есть искра. Приготовьтесь быть пораженными чистой эпичностью (а иногда и юмористическим потенциалом) имен, которые вы откроете."
+  },
+  "howToUse": {
+    "en": [
+      "Click that heroic 'Generate' button. Unleash your destiny!",
+      "Prepare for an onslaught of awesome superhero names.",
+      "Scroll through the list and witness the birth of legends!",
+      "Found a name that resonates with your inner hero? Copy it!",
+      "Now, go forth and save the day (or at least dominate your character sheet) with your incredible new superhero name!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' البطولي. أطلق العنان لمصيرك!",
+      "استعد لوابل من أسماء الأبطال الخارقين الرائعة.",
+      "قم بالتمرير عبر القائمة وشاهد ولادة الأساطير!",
+      "هل وجدت اسمًا يتردد صداه مع بطلك الداخلي؟ انسخه!",
+      "والآن، انطلق وأنقذ الموقف (أو على الأقل سيطر على ورقة شخصيتك) باسم بطلك الخارق الجديد المذهل!"
+    ],
+    "es": [
+      "Haz clic en ese heroico botón 'Generar'. ¡Desata tu destino!",
+      "Prepárate para una avalancha de increíbles nombres de superhéroes.",
+      "¡Desplázate por la lista y presencia el nacimiento de leyendas!",
+      "¿Encontraste un nombre que resuena con tu héroe interior? ¡Cópialo!",
+      "¡Ahora, ve y salva el día (o al menos domina tu hoja de personaje) con tu increíble nuevo nombre de superhéroe!"
+    ],
+    "fr": [
+      "Cliquez sur ce bouton héroïque 'Générer'. Libérez votre destin !",
+      "Préparez-vous à un assaut de noms de super-héros géniaux.",
+      "Faites défiler la liste et assistez à la naissance de légendes !",
+      "Vous avez trouvé un nom qui résonne avec votre héros intérieur ? Copiez-le !",
+      "Maintenant, allez sauver le monde (ou au moins dominez votre fiche de personnage) avec votre incroyable nouveau nom de super-héros !"
+    ],
+    "zh-cn": [
+      "点击那个英雄般的“生成”按钮。释放你的命运！",
+      "准备好迎接大量超棒的超级英雄名称。",
+      "滚动浏览列表，见证传奇的诞生！",
+      "找到一个与你内心英雄产生共鸣的名字了吗？复制它！",
+      "现在，带着你难以置信的新超级英雄名字，去拯救世界（或者至少在你的角色表上称霸）吧！"
+    ],
+    "ja": [
+      "その英雄的な「生成」ボタンをクリックしてください。あなたの運命を解き放ちましょう！",
+      "素晴らしいスーパーヒーロー名の猛攻撃に備えてください。",
+      "リストをスクロールして、伝説の誕生を目撃しましょう！",
+      "あなたの内なるヒーローと共鳴する名前を見つけましたか？コピーしましょう！",
+      "さあ、その信じられないほどの新しいスーパーヒーロー名で、世界を救い（または少なくともキャラクターシートを支配）に行きましょう！"
+    ],
+    "pt": [
+      "Clique naquele botão heroico 'Gerar'. Liberte seu destino!",
+      "Prepare-se para uma avalanche de nomes incríveis de super-heróis.",
+      "Role pela lista e testemunhe o nascimento de lendas!",
+      "Encontrou um nome que ressoa com seu herói interior? Copie-o!",
+      "Agora, vá em frente e salve o dia (ou pelo menos domine sua ficha de personagem) com seu incrível novo nome de super-herói!"
+    ],
+    "ru": [
+      "Нажмите на эту героическую кнопку 'Создать'. Раскройте свою судьбу!",
+      "Приготовьтесь к натиску потрясающих имен супергероев.",
+      "Пролистайте список и станьте свидетелем рождения легенд!",
+      "Нашли имя, которое резонирует с вашим внутренним героем? Скопируйте его!",
+      "А теперь идите и спасайте мир (или хотя бы доминируйте в своем листе персонажа) с вашим невероятным новым именем супергероя!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Superhero Name Generator really free?",
+        "ar": "هل مولد أسماء الأبطال الخارقين هذا مجاني حقًا؟",
+        "es": "¿Este Generador de Nombres de Superhéroe es realmente gratis?",
+        "fr": "Ce Générateur de Noms de Super-héros est-il vraiment gratuit?",
+        "zh-cn": "这个超级英雄名称生成器真的是免费的吗？",
+        "ja": "このスーパーヒーロー名ジェネレーターは本当に無料ですか？",
+        "pt": "Este Gerador de Nomes de Super-herói é realmente gratuito?",
+        "ru": "Этот Генератор Имен Супергероев действительно бесплатный?"
+      },
+      "answer": {
+        "en": "Absolutely! We believe every hero, big or small, deserves an epic name without needing a billionaire's budget. Generate away!",
+        "ar": "بالتأكيد! نحن نؤمن بأن كل بطل، كبيرًا كان أم صغيرًا، يستحق اسمًا ملحميًا دون الحاجة إلى ميزانية ملياردير. قم بالإنشاء بحرية!",
+        "es": "¡Absolutamente! Creemos que todo héroe, grande o pequeño, merece un nombre épico sin necesitar el presupuesto de un multimillonario. ¡Genera sin parar!",
+        "fr": "Absolument ! Nous croyons que chaque héros, grand ou petit, mérite un nom épique sans avoir besoin d'un budget de milliardaire. Générez à volonté !",
+        "zh-cn": "当然！我们相信每个英雄，无论大小，都应该拥有一个史诗般的名字，而无需亿万富翁的预算。尽情生成吧！",
+        "ja": "もちろんです！大小を問わず、すべてのヒーローは億万長者の予算を必要とせずに壮大な名前を持つに値すると信じています。どんどん生成してください！",
+        "pt": "Absolutamente! Acreditamos que todo herói, grande ou pequeno, merece um nome épico sem precisar de um orçamento de bilionário. Gere à vontade!",
+        "ru": "Абсолютно! Мы верим, что каждый герой, большой или маленький, заслуживает эпического имени без необходимости бюджета миллиардера. Генерируйте сколько угодно!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my comic book or game?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لكتابي الهزلي أو لعبتي؟",
+        "es": "¿Puedo usar estos nombres para mi cómic o juego?",
+        "fr": "Puis-je utiliser ces noms pour ma bande dessinée ou mon jeu?",
+        "zh-cn": "我可以将这些名称用于我的漫画书或游戏吗？",
+        "ja": "これらの名前を私のコミックブックやゲームに使用できますか？",
+        "pt": "Posso usar esses nomes para minha história em quadrinhos ou jogo?",
+        "ru": "Могу ли я использовать эти имена для своего комикса или игры?"
+      },
+      "answer": {
+        "en": "While we conjure up awesome names, we can't guarantee they aren't already trademarked or used elsewhere in the multiverse. Always do your research (like a good detective hero!) before using a name commercially.",
+        "ar": "بينما نستحضر أسماء رائعة، لا يمكننا ضمان أنها ليست مسجلة كعلامة تجارية بالفعل أو مستخدمة في مكان آخر في الأكوان المتعددة. قم دائمًا ببحثك (مثل بطل محقق جيد!) قبل استخدام اسم تجاريًا.",
+        "es": "Aunque conjuramos nombres increíbles, no podemos garantizar que no estén ya registrados como marca comercial o utilizados en otro lugar del multiverso. Siempre investiga (¡como un buen héroe detective!) antes de usar un nombre comercialmente.",
+        "fr": "Bien que nous évoquions des noms géniaux, nous ne pouvons garantir qu'ils ne sont pas déjà déposés ou utilisés ailleurs dans le multivers. Faites toujours vos recherches (comme un bon héros détective !) avant d'utiliser un nom commercialement.",
+        "zh-cn": "虽然我们能想出很棒的名字，但我们不能保证它们没有在多元宇宙的其他地方被注册商标或使用。在商业上使用名称之前，请务必进行研究（像一个优秀的侦探英雄一样！）。",
+        "ja": "素晴らしい名前を思いつきますが、それらがすでに商標登録されているか、多元宇宙の他の場所で使用されていないことを保証することはできません。商業的に名前を使用する前に、必ず調査を行ってください（優れた探偵ヒーローのように！）。",
+        "pt": "Embora criemos nomes incríveis, não podemos garantir que eles já não estejam registrados como marca ou usados em outro lugar no multiverso. Sempre faça sua pesquisa (como um bom herói detetive!) antes de usar um nome comercialmente.",
+        "ru": "Хотя мы придумываем потрясающие имена, мы не можем гарантировать, что они уже не зарегистрированы как товарные знаки или не используются где-либо еще в мультивселенной. Всегда проводите исследование (как хороший герой-детектив!) перед коммерческим использованием имени."
+      }
+    },
+    {
+      "question": {
+        "en": "How many superhero names can I generate?",
+        "ar": "كم عدد أسماء الأبطال الخارقين التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres de superhéroe puedo generar?",
+        "fr": "Combien de noms de super-héros puis-je générer?",
+        "zh-cn": "我可以生成多少个超级英雄名称？",
+        "ja": "いくつのスーパーヒーロー名を生成できますか？",
+        "pt": "Quantos nomes de super-herói posso gerar?",
+        "ru": "Сколько имен супергероев я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "As many as there are stars in the galaxy (or until your clicking finger gets tired)! There's no limit. Keep generating until you find the name that truly fits your hero's destiny.",
+        "ar": "بقدر عدد النجوم في المجرة (أو حتى يتعب إصبعك من النقر)! لا يوجد حد. استمر في الإنشاء حتى تجد الاسم الذي يناسب مصير بطلك حقًا.",
+        "es": "¡Tantos como estrellas hay en la galaxia (o hasta que tu dedo de hacer clic se canse)! No hay límite. Sigue generando hasta que encuentres el nombre que realmente encaje con el destino de tu héroe.",
+        "fr": "Autant qu'il y a d'étoiles dans la galaxie (ou jusqu'à ce que votre doigt cliqueur soit fatigué) ! Il n'y a pas de limite. Continuez à générer jusqu'à ce que vous trouviez le nom qui correspond vraiment au destin de votre héros.",
+        "zh-cn": "和银河系中的星星一样多（或者直到你的点击手指累了为止）！没有限制。继续生成，直到找到真正适合你英雄命运的名字。",
+        "ja": "銀河に星がある限り（またはクリックする指が疲れるまで）！制限はありません。あなたのヒーローの運命に本当に合う名前を見つけるまで、生成し続けてください。",
+        "pt": "Tantos quanto há estrelas na galáxia (ou até seu dedo de clicar se cansar)! Não há limite. Continue gerando até encontrar o nome que realmente se encaixa no destino do seu herói.",
+        "ru": "Столько, сколько звезд в галактике (или пока ваш палец не устанет кликать)! Нет никаких ограничений. Продолжайте генерировать, пока не найдете имя, которое действительно соответствует судьбе вашего героя."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated superhero names actually cool?",
+        "ar": "هل أسماء الأبطال الخارقين التي تم إنشاؤها رائعة حقًا؟",
+        "es": "¿Los nombres de superhéroe generados son realmente geniales?",
+        "fr": "Les noms de super-héros générés sont-ils vraiment cools?",
+        "zh-cn": "生成的超级英雄名称真的酷吗？",
+        "ja": "生成されたスーパーヒーロー名は実際にクールですか？",
+        "pt": "Os nomes de super-herói gerados são realmente legais?",
+        "ru": "Действительно ли сгенерированные имена супергероев крутые?"
+      },
+      "answer": {
+        "en": "We think they pack a punch! We've infused this generator with comic book passion and a desire for epicness. But 'cool' is subjective, right? If a name doesn't feel right, just hit 'Generate' again – your perfect alias awaits!",
+        "ar": "نعتقد أنها قوية! لقد غرسنا في هذا المولد شغف الكتب المصورة ورغبة في الملحمية. لكن 'الرائع' أمر شخصي، أليس كذلك؟ إذا لم تشعر أن الاسم مناسب، فقط اضغط على 'إنشاء' مرة أخرى - اسمك المستعار المثالي ينتظرك!",
+        "es": "¡Creemos que tienen impacto! Hemos infundido este generador con pasión por los cómics y un deseo de epicidad. Pero lo 'genial' es subjetivo, ¿verdad? Si un nombre no te convence, simplemente presiona 'Generar' de nuevo. ¡Tu alias perfecto te espera!",
+        "fr": "Nous pensons qu'ils ont du punch ! Nous avons infusé ce générateur de passion pour les bandes dessinées et d'un désir d'épique. Mais le 'cool' est subjectif, n'est-ce pas ? Si un nom ne vous convient pas, appuyez simplement à nouveau sur 'Générer' – votre alias parfait vous attend !",
+        "zh-cn": "我们认为它们很有冲击力！我们为这个生成器注入了漫画书的热情和对史诗感的渴望。但是“酷”是主观的，对吧？如果一个名字感觉不对，只需再次点击“生成”——你的完美别名在等着你！",
+        "ja": "パンチがあると思います！このジェネレーターには、コミックブックへの情熱と壮大さへの欲求が注ぎ込まれています。しかし、「クール」は主観的なものですよね？名前がしっくりこない場合は、もう一度「生成」を押してください – あなたの完璧な別名が待っています！",
+        "pt": "Achamos que eles têm impacto! Infundimos este gerador com paixão por quadrinhos e um desejo de epicidade. Mas 'legal' é subjetivo, certo? Se um nome não parecer certo, basta clicar em 'Gerar' novamente – seu pseudônimo perfeito o aguarda!",
+        "ru": "Мы думаем, они производят впечатление! Мы наполнили этот генератор страстью к комиксам и стремлением к эпичности. Но 'крутость' субъективна, верно? Если имя не кажется подходящим, просто нажмите 'Создать' снова — ваш идеальный псевдоним ждет!"
+      }
+    },
+    {
+      "question": {
+        "en": "Will using a name generated here make my character instantly famous?",
+        "ar": "هل استخدام اسم تم إنشاؤه هنا سيجعل شخصيتي مشهورة على الفور؟",
+        "es": "¿Usar un nombre generado aquí hará que mi personaje sea famoso al instante?",
+        "fr": "L'utilisation d'un nom généré ici rendra-t-elle mon personnage instantanément célèbre?",
+        "zh-cn": "使用在这里生成的名称会让我的角色立刻出名吗？",
+        "ja": "ここで生成された名前を使用すると、私のキャラクターはすぐに有名になりますか？",
+        "pt": "Usar um nome gerado aqui tornará meu personagem instantaneamente famoso?",
+        "ru": "Сделает ли использование сгенерированного здесь имени моего персонажа мгновенно знаменитым?"
+      },
+      "answer": {
+        "en": "A great name is a powerful first step, but fame requires heroic deeds, compelling stories, and maybe a cool costume! Think of the name as the spark – you provide the heroic fire.",
+        "ar": "الاسم الرائع هو خطوة أولى قوية، لكن الشهرة تتطلب أعمالًا بطولية وقصصًا مقنعة، وربما زيًا رائعًا! فكر في الاسم على أنه الشرارة - وأنت توفر النار البطولية.",
+        "es": "Un gran nombre es un primer paso poderoso, pero la fama requiere hazañas heroicas, historias convincentes, ¡y tal vez un disfraz genial! Piensa en el nombre como la chispa: tú proporcionas el fuego heroico.",
+        "fr": "Un grand nom est un premier pas puissant, mais la célébrité exige des actes héroïques, des histoires captivantes et peut-être un costume cool ! Considérez le nom comme l'étincelle – c'est vous qui fournissez le feu héroïque.",
+        "zh-cn": "一个好名字是强大的第一步，但成名需要英雄事迹、引人入胜的故事，也许还需要一套酷炫的服装！把名字看作是火花——你来提供英雄之火。",
+        "ja": "素晴らしい名前は強力な第一歩ですが、名声には英雄的な行為、説得力のある物語、そしておそらくクールなコスチュームが必要です！名前を火花と考えてください – あなたが英雄的な火を提供するのです。",
+        "pt": "Um ótimo nome é um primeiro passo poderoso, mas a fama requer feitos heroicos, histórias convincentes e talvez um traje legal! Pense no nome como a faísca – você fornece o fogo heroico.",
+        "ru": "Отличное имя — это мощный первый шаг, но слава требует героических поступков, захватывающих историй и, возможно, крутого костюма! Думайте об имени как об искре — вы обеспечиваете героический огонь."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest new themes or word types for the generator?",
+        "ar": "هل يمكنني اقتراح سمات جديدة أو أنواع كلمات للمولد؟",
+        "es": "¿Puedo sugerir nuevos temas o tipos de palabras para el generador?",
+        "fr": "Puis-je suggérer de nouveaux thèmes ou types de mots pour le générateur?",
+        "zh-cn": "我可以为生成器建议新的主题或词语类型吗？",
+        "ja": "ジェネレーターに新しいテーマや単語の種類を提案できますか？",
+        "pt": "Posso sugerir novos temas ou tipos de palavras para o gerador?",
+        "ru": "Могу ли я предложить новые темы или типы слов для генератора?"
+      },
+      "answer": {
+        "en": "We'd love that! The more heroic ideas we have, the mightier our generator becomes. Feel free to submit your suggestions via feedback, and they might just power up our next update!",
+        "ar": "نود ذلك! كلما زادت الأفكار البطولية لدينا، أصبح مولدنا أقوى. لا تتردد في تقديم اقتراحاتك عبر التعليقات، وقد تعمل على تشغيل تحديثنا التالي!",
+        "es": "¡Nos encantaría! Cuantas más ideas heroicas tengamos, más poderoso será nuestro generador. ¡No dudes en enviar tus sugerencias a través de comentarios, y podrían impulsar nuestra próxima actualización!",
+        "fr": "Nous adorerions ! Plus nous avons d'idées héroïques, plus notre générateur devient puissant. N'hésitez pas à soumettre vos suggestions via les commentaires, et elles pourraient bien alimenter notre prochaine mise à jour !",
+        "zh-cn": "我们很乐意！我们拥有的英雄想法越多，我们的生成器就越强大。请随时通过反馈提交您的建议，它们可能会为我们的下一次更新提供动力！",
+        "ja": "大歓迎です！より多くの英雄的なアイデアがあれば、ジェネレーターはさらに強力になります。フィードバックを通じて提案を送信してください。それらが次のアップデートをパワーアップさせるかもしれません！",
+        "pt": "Adoraríamos isso! Quanto mais ideias heroicas tivermos, mais poderoso nosso gerador se torna. Sinta-se à vontade para enviar suas sugestões por feedback, e elas podem impulsionar nossa próxima atualização!",
+        "ru": "Мы бы этого хотели! Чем больше у нас героических идей, тем мощнее становится наш генератор. Не стесняйтесь отправлять свои предложения через обратную связь, и они могут усилить наше следующее обновление!"
+      }
+    }
+  ]
+}

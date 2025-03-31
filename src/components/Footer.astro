@@ -1,88 +1,96 @@
-<footer class="bg-gray-50 border-t border-gray-200 py-12">
-    <div class="container mx-auto px-6">
-        <div class="grid grid-cols-1 md:grid-cols-4 gap-10">
-            <div>
-                <h4 class="text-base font-medium text-gray-900 mb-4">About CoolNameMaker</h4>
-                <p class="text-gray-600 text-sm">
-                    Your trusted source for name generation tools and creative
-                    naming inspiration.
-                </p>
-            </div>
-            <div>
-                <h4 class="text-base font-medium text-gray-900 mb-4">Quick Links</h4>
-                <ul class="space-y-3">
-                    <li>
-                        <a href="/tools" class="text-gray-600 hover:text-gray-900 text-sm">All Tools</a>
-                    </li>
-                    <li>
-                        <a href="/blog" class="text-gray-600 hover:text-gray-900 text-sm">Blog</a>
-                    </li>
-                    <li>
-                        <a href="/about" class="text-gray-600 hover:text-gray-900 text-sm">About Us</a>
-                    </li>
-                    <li>
-                        <a href="https://open.spotify.com/episode/2hbfK6X7n6m7Kf2OXjJ3MC?si=IjqIRp3ESRW1rEGQbbPMKg" 
-                           class="text-gray-600 hover:text-gray-900 text-sm flex items-center">
-                            <svg class="w-3.5 h-3.5 mr-2" viewBox="0 0 24 24" fill="currentColor">
-                                <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/>
-                            </svg>
-                            Spotify
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <div>
-                <h4 class="text-base font-medium text-gray-900 mb-4">Popular Tools</h4>
-                <ul class="space-y-3">
-                    <li>
-                        <a href="/tools/college-name-generator" class="text-gray-600 hover:text-gray-900 text-sm">
-                            College name generator
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/tools/fantasy-organization-name-generator" class="text-gray-600 hover:text-gray-900 text-sm">
-                            Fantasy organization name generator
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/tools/harry-potter-name-generator" class="text-gray-600 hover:text-gray-900 text-sm">
-                            Harry Potter Name Generator
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <div>
-                <h4 class="text-base font-medium text-gray-900 mb-4">Legal & More</h4>
-                <ul class="space-y-3">
-                    <li>
-                        <a href="/privacy" class="text-gray-600 hover:text-gray-900 text-sm">Privacy Policy</a>
-                    </li>
-                    <li>
-                        <a href="/terms" class="text-gray-600 hover:text-gray-900 text-sm">Terms of Service</a>
-                    </li>
-                    <li>
-                        <a href="/disclaimer" class="text-gray-600 hover:text-gray-900 text-sm">Disclaimer</a>
-                    </li>
-                    <li>
-                        <a href="https://linktr.ee/timedot" class="text-gray-600 hover:text-gray-900 text-sm">linktree</a>
-                    </li>
+---
+import { useTranslations, type Lang,LOCALES } from "@/i18n";
+import { getRelativeLocaleUrl } from "astro:i18n";
+import { Icon } from "astro-icon/components";
+import { SITE_TITLE } from "@/consts";
+const t = useTranslations(Astro.currentLocale as Lang);
 
-                    <li>
-                        <a href="https://awesomelinks.github.io" class="text-gray-600 hover:text-gray-900 text-sm">links</a>
-                    </li>
-                    <li>
-                        <a href="https://timedot.net" class="text-gray-600 hover:text-gray-900 text-sm">TimeDot</a>
-                    </li>
-                    <li>
-                        <a href="https://hypackel.games/" class="text-gray-600 hover:text-gray-900 text-sm">Hypackel Games</a>
-                    </li>
-                </ul>
-            </div>
+const locale = Astro.currentLocale as Lang;
+
+const locales = LOCALES;
+
+---
+
+<footer class="border-t border-[rgba(55,53,47,0.09)] py-4">
+
+    <div class="flex gap-4 items-end justify-center flex-wrap">
+        {Object.keys(locales).map((loc: string) => {
+            const flagIcons = {
+                'en': 'emojione:flag-for-united-states',
+                'es': 'emojione:flag-for-spain', 
+                'ar': 'emojione:flag-for-saudi-arabia',
+                'pt': 'emojione:flag-for-portugal',
+                'fr': 'emojione:flag-for-france',
+                'ru': 'emojione:flag-for-russia',
+                'zh-cn': 'emojione:flag-for-china',
+                'ja': 'emojione:flag-for-japan'
+            };
+            return (
+                <a
+                    href={getRelativeLocaleUrl(loc, Astro.url.pathname.replace(/^\/[^/]+/, ""))}
+                    class="flex items-center gap-1.5 px-2 py-1 rounded-md text-[rgba(55,53,47,0.65)] hover:text-[rgba(55,53,47,0.85)] hover:bg-[rgba(55,53,47,0.08)] transition-colors text-sm"
+                >
+                    <Icon name={flagIcons[loc as keyof typeof flagIcons]} class="w-4 h-4" />
+                    {locales[loc as keyof typeof locales].label}
+                </a>
+            );
+        })}
+    </div>
+    <div class="border-t border-[rgba(55,53,47,0.09)] mt-4 mb-4"></div>
+
+    <div class="flex flex-col sm:flex-row justify-between items-center gap-4 px-4">
+        <div class="text-[rgba(55,53,47,0.65)] text-sm">
+            {
+                t({
+                    en: `© ${new Date().getFullYear()} ${SITE_TITLE}. All rights reserved.`,
+                    ar: `© ${new Date().getFullYear()} ${SITE_TITLE}. جميع الحقوق محفوظة.`,
+                    es: `© ${new Date().getFullYear()} ${SITE_TITLE}. Todos los derechos reservados.`,
+                    fr: `© ${new Date().getFullYear()} ${SITE_TITLE}. Tous droits réservés.`,
+                    ja: `© ${new Date().getFullYear()} ${SITE_TITLE}. 全著作権所有。`,
+                    pt: `© ${new Date().getFullYear()} ${SITE_TITLE}. Todos os direitos reservados.`,
+                    ru: `© ${new Date().getFullYear()} ${SITE_TITLE}. Все права защищены.`,
+                    "zh-cn": `© ${new Date().getFullYear()} ${SITE_TITLE}. 保留所有权利。`,
+                })
+            }
         </div>
-        <div class="mt-10 pt-6 border-t border-gray-200 text-center">
-            <p class="text-gray-500 text-xs">
-                © 2025 CoolNameMaker. All rights reserved.
-            </p>
+        <div class="flex items-center gap-4">
+            <nav class="flex gap-4">
+                <a
+                    href={getRelativeLocaleUrl(locale, "/privacy")}
+                    class="text-[rgba(55,53,47,0.65)] hover:text-[rgba(55,53,47,0.85)] text-sm"
+                >
+                    {
+                        t({
+                            en: "Privacy Policy",
+                            es: "Política de Privacidad",
+                            ar: "سياسة الخصوصية",
+                            pt: "Política de Privacidade",
+                            fr: "Politique de Confidentialité",
+                            ru: "Политика Конфиденциальности",
+                            "zh-cn": "隐私政策",
+                            ja: "プライバシーポリシー",
+                        })
+                    }
+                </a>
+                <a
+                    href={getRelativeLocaleUrl(locale, "/terms")}
+                    class="text-[rgba(55,53,47,0.65)] hover:text-[rgba(55,53,47,0.85)] text-sm"
+                >
+                    {
+                        t({
+                            en: "Terms of Service",
+                            es: "Términos de Servicio",
+                            ar: "شروط الخدمة",
+                            pt: "Termos de Serviço",
+                            fr: "Conditions d'Utilisation",
+                            ru: "Условия Использования",
+                            "zh-cn": "服务条款",
+                            ja: "利用規約",
+                        })
+                    }
+                </a>
+            </nav>
         </div>
     </div>
+
 </footer>

@@ -1,0 +1,808 @@
+---
+// Import necessary components and utilities
+import Formalizer from "@/components/Formalizer";
+// Assuming GameList might be used elsewhere or later, keeping the import for now.
+// If definitely not needed on this page, you could remove it.
+// import GameList from "@/components/GameList.astro";
+import { SITE_TITLE } from "@/consts"; // Assuming SITE_TITLE is used in Layout
+import { LOCALES, useTranslations, type Lang } from "@/i18n";
+import Layout from "@/layouts/Base.astro";
+import { getRelativeLocaleUrl } from "astro:i18n";
+import { Icon } from "astro-icon/components"; // Import Icon component
+
+const locale = Astro.currentLocale as Lang;
+const t = useTranslations(locale);
+
+// Function to generate static paths for all defined locales
+export const getStaticPaths = () =>
+  Object.keys(LOCALES).map((lang) => ({
+    params: { lang },
+  }));
+
+// --- Metadata ---
+const metaTitle = t({
+  en: `Cool Name Maker: AI Name Generation Tool`,
+  es: `Creador de Nombres Geniales: Herramienta IA de Generación de Nombres`,
+  ar: `صانع الأسماء الرائعة: أداة الذكاء الاصطناعي لإنشاء الأسماء`,
+  pt: `Criador de Nomes Legais: Ferramenta IA de Geração de Nomes`,
+  fr: `Créateur de Noms Cool : Outil IA de Génération de Noms`,
+  ru: `Cool Name Maker: ИИ-инструмент для Создания Имён`,
+  "zh-cn": `酷名生成器: 人工智能名称创建工具`,
+  ja: `クールネームメーカー: AI名前生成ツール`,
+});
+
+const keywords = t({
+  en: "name generator, cool names, AI name tool, username generator, character names, business name ideas, gaming names, creative name maker",
+  es: "generador de nombres, nombres geniales, herramienta de nombres IA, generador de nombres de usuario, nombres de personajes, ideas de nombres comerciales, nombres para juegos, creador de nombres creativos",
+  ar: "مولد الأسماء، أسماء رائعة، أداة أسماء الذكاء الاصطناعي، مولد اسم المستخدم، أسماء الشخصيات، أفكار أسماء الأعمال، أسماء الألعاب، صانع الأسماء الإبداعية",
+  pt: "gerador de nomes, nomes legais, ferramenta de nomes IA, gerador de nomes de usuário, nomes de personagens, ideias de nomes de empresas, nomes para jogos, criador de nomes criativos",
+  fr: "générateur de noms, noms cool, outil de noms IA, générateur de noms d'utilisateur, noms de personnages, idées de noms d'entreprise, noms pour jeux, créateur de noms créatifs",
+  ru: "генератор имен, крутые имена, инструмент ИИ для имен, генератор имен пользователей, имена персонажей, идеи названий бизнеса, игровые имена, создатель креативных имен",
+  "zh-cn":
+    "名字生成器，酷炫名称，AI名称工具，用户名生成器，角色名称，企业名称创意，游戏名称，创意名称制作器",
+  ja: "名前ジェネレーター、クールな名前、AI名前ツール、ユーザー名ジェネレーター、キャラクター名、ビジネス名アイデア、ゲーム名、クリエイティブ名メーカー",
+});
+
+const lang = Astro.params.lang; // Already defined in the original code
+---
+
+<Layout title={metaTitle} keywords={keywords}>
+  <main class="max-w-4xl mx-auto px-4 py-8">
+    <!-- Hero Section -->
+    <section class="py-12 text-center">
+      <h1 class="text-4xl md:text-5xl font-bold mb-4 text-gray-800">
+        {
+          t({
+            en: "Cool Name Maker",
+            es: "Creador de Nombres Geniales",
+            ar: "صانع الأسماء الرائعة",
+            pt: "Criador de Nomes Legais",
+            fr: "Créateur de Noms Cool",
+            ru: "Cool Name Maker",
+            "zh-cn": "酷名生成器",
+            ja: "クールネームメーカー",
+          })
+        }
+      </h1>
+      <p class="text-xl md:text-2xl text-gray-600 mb-8">
+        {
+          t({
+            en: "AI-powered name generation for anything you need",
+            es: "Generación de nombres potenciada por IA para todo lo que necesites",
+            ar: "توليد أسماء بالذكاء الاصطناعي لكل ما تحتاجه",
+            pt: "Geração de nomes com IA para tudo o que você precisa",
+            fr: "Génération de noms par IA pour tout ce dont vous avez besoin",
+            ru: "Создание имён с помощью ИИ для любых ваших нужд",
+            "zh-cn": "AI驱动的名称生成工具，满足您的所有需求",
+            ja: "あなたが必要とするものすべてのためのAI搭載の名前生成",
+          })
+        }
+      </p>
+      <a
+        href={getRelativeLocaleUrl(locale, "/tool/page/1")}
+        class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-6 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg"
+      >
+        {
+          t({
+            en: "Create Names",
+            es: "Crear Nombres",
+            ar: "إنشاء أسماء",
+            pt: "Criar Nomes",
+            fr: "Créer des Noms",
+            ru: "Создать Имена",
+            "zh-cn": "创建名称",
+            ja: "名前を作成",
+          })
+        }
+        <Icon name="mdi:arrow-right" class="inline ml-1" />
+      </a>
+    </section>
+
+    <!-- Features Section -->
+    <section class="py-8">
+      <div class="grid md:grid-cols-3 gap-8">
+        <div
+          class="bg-white p-6 rounded-lg border border-gray-200 shadow-sm hover:shadow-md transition-shadow"
+        >
+          <div class="text-blue-600 mb-3">
+            <Icon name="mdi:flash" class="w-8 h-8" />
+          </div>
+          <h3 class="text-xl font-semibold mb-2">
+            {
+              t({
+                en: "Fast & Creative",
+                es: "Rápido y Creativo",
+                ar: "سريع وإبداعي",
+                pt: "Rápido e Criativo",
+                fr: "Rapide et Créatif",
+                ru: "Быстро и Креативно",
+                "zh-cn": "快速创意",
+                ja: "迅速で創造的",
+              })
+            }
+          </h3>
+          <p class="text-gray-600">
+            {
+              t({
+                en: "Generate unique names in seconds with our advanced AI technology",
+                es: "Genera nombres únicos en segundos con nuestra tecnología avanzada de IA",
+                ar: "قم بإنشاء أسماء فريدة في ثوانٍ باستخدام تقنية الذكاء الاصطناعي المتقدمة",
+                pt: "Gere nomes únicos em segundos com nossa tecnologia avançada de IA",
+                fr: "Générez des noms uniques en quelques secondes grâce à notre technologie IA avancée",
+                ru: "Создавайте уникальные имена за секунды с нашей передовой технологией ИИ",
+                "zh-cn": "使用我们的先进AI技术，在几秒钟内生成独特名称",
+                ja: "高度なAI技術で数秒でユニークな名前を生成",
+              })
+            }
+          </p>
+        </div>
+
+        <div
+          class="bg-white p-6 rounded-lg border border-gray-200 shadow-sm hover:shadow-md transition-shadow"
+        >
+          <div class="text-blue-600 mb-3">
+            <Icon name="mdi:palette" class="w-8 h-8" />
+          </div>
+          <h3 class="text-xl font-semibold mb-2">
+            {
+              t({
+                en: "Versatile Options",
+                es: "Opciones Versátiles",
+                ar: "خيارات متعددة",
+                pt: "Opções Versáteis",
+                fr: "Options Polyvalentes",
+                ru: "Универсальные Варианты",
+                "zh-cn": "多样化选择",
+                ja: "多用途オプション",
+              })
+            }
+          </h3>
+          <p class="text-gray-600">
+            {
+              t({
+                en: "Perfect for usernames, businesses, games, characters and more",
+                es: "Perfecto para nombres de usuario, negocios, juegos, personajes y más",
+                ar: "مثالي لأسماء المستخدمين والشركات والألعاب والشخصيات والمزيد",
+                pt: "Perfeito para nomes de usuário, empresas, jogos, personagens e mais",
+                fr: "Parfait pour les noms d'utilisateur, entreprises, jeux, personnages et plus",
+                ru: "Идеально для имён пользователей, бизнеса, игр, персонажей и многого другого",
+                "zh-cn": "适用于用户名、企业、游戏、角色等多种场景",
+                ja: "ユーザー名、ビジネス、ゲーム、キャラクターなどに最適",
+              })
+            }
+          </p>
+        </div>
+
+        <div
+          class="bg-white p-6 rounded-lg border border-gray-200 shadow-sm hover:shadow-md transition-shadow"
+        >
+          <div class="text-blue-600 mb-3">
+            <Icon name="mdi:translate" class="w-8 h-8" />
+          </div>
+          <h3 class="text-xl font-semibold mb-2">
+            {
+              t({
+                en: "Multi-language Support",
+                es: "Soporte Multilingüe",
+                ar: "دعم متعدد اللغات",
+                pt: "Suporte Multi-idioma",
+                fr: "Support Multilingue",
+                ru: "Многоязычная Поддержка",
+                "zh-cn": "多语言支持",
+                ja: "多言語対応",
+              })
+            }
+          </h3>
+          <p class="text-gray-600">
+            {
+              t({
+                en: "Create names in multiple languages and styles to fit your needs",
+                es: "Crea nombres en varios idiomas y estilos para adaptarse a tus necesidades",
+                ar: "إنشاء أسماء بلغات وأنماط متعددة لتناسب احتياجاتك",
+                pt: "Crie nomes em vários idiomas e estilos para atender às suas necessidades",
+                fr: "Créez des noms dans plusieurs langues et styles pour répondre à vos besoins",
+                ru: "Создавайте имена на разных языках и в разных стилях под ваши потребности",
+                "zh-cn": "以多种语言和风格创建名称，满足您的需求",
+                ja: "あなたのニーズに合わせて複数の言語やスタイルで名前を作成",
+              })
+            }
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Generator Section -->
+    <section
+      id="generator"
+      class="py-12 bg-gray-50 rounded-xl p-6 mt-8 border border-gray-200"
+    >
+      <h2 class="text-3xl font-bold mb-6 text-center text-gray-800">
+        {
+          t({
+            en: "Create Your Perfect Name",
+            es: "Crea Tu Nombre Perfecto",
+            ar: "ابتكر اسمك المثالي",
+            pt: "Crie Seu Nome Perfeito",
+            fr: "Créez Votre Nom Parfait",
+            ru: "Создайте Своё Идеальное Имя",
+            "zh-cn": "创建您的完美名称",
+            ja: "あなたの完璧な名前を作成",
+          })
+        }
+      </h2>
+
+      <p class="text-center mt-6 text-gray-600 italic">
+        {
+          t({
+            en: "Over 1 million names generated and counting!",
+            es: "¡Más de 1 millón de nombres generados y contando!",
+            ar: "أكثر من 1 مليون اسم تم إنشاؤه وما زلنا نحصي!",
+            pt: "Mais de 1 milhão de nomes gerados e contando!",
+            fr: "Plus d'un million de noms générés et ça continue !",
+            ru: "Более 1 миллиона сгенерированных имён и это число растёт!",
+            "zh-cn": "已生成超过100万个名称，数量还在增长！",
+            ja: "100万以上の名前が生成され、さらに増え続けています！",
+          })
+        }
+      </p>
+    </section>
+
+    <!-- What Is Section -->
+    <section class="py-10 my-8">
+      <div class="bg-white rounded-lg shadow-md p-8 border border-gray-200">
+        <h2 class="text-3xl font-bold mb-6 text-center text-gray-800">
+          {
+            t({
+              en: "What is Cool Name Maker?",
+              es: "¿Qué es Creador de Nombres Geniales?",
+              ar: "ما هو صانع الأسماء الرائعة؟",
+              pt: "O que é o Criador de Nomes Legais?",
+              fr: "Qu'est-ce que le Créateur de Noms Cool ?",
+              ru: "Что такое Cool Name Maker?",
+              "zh-cn": "什么是酷名生成器？",
+              ja: "クールネームメーカーとは？",
+            })
+          }
+        </h2>
+
+        <div class="grid md:grid-cols-2 gap-8 items-center">
+          <div>
+            <p class="text-gray-700 mb-4">
+              {
+                t({
+                  en: "Cool Name Maker is an advanced AI-powered tool designed to generate creative, unique, and memorable names for any purpose.",
+                  es: "Creador de Nombres Geniales es una herramienta avanzada impulsada por IA diseñada para generar nombres creativos, únicos y memorables para cualquier propósito.",
+                  ar: "صانع الأسماء الرائعة هو أداة متقدمة تعمل بالذكاء الاصطناعي مصممة لإنشاء أسماء إبداعية وفريدة ولا تُنسى لأي غرض.",
+                  pt: "O Criador de Nomes Legais é uma ferramenta avançada com tecnologia de IA projetada para gerar nomes criativos, únicos e memoráveis para qualquer finalidade.",
+                  fr: "Le Créateur de Noms Cool est un outil avancé alimenté par l'IA conçu pour générer des noms créatifs, uniques et mémorables à toutes fins.",
+                  ru: "Cool Name Maker — это продвинутый инструмент на базе ИИ, созданный для генерации креативных, уникальных и запоминающихся имен для любых целей.",
+                  "zh-cn":
+                    "酷名生成器是一款先进的AI驱动工具，旨在为任何目的生成创意、独特且令人难忘的名称。",
+                  ja: "クールネームメーカーは、あらゆる目的のために創造的でユニークで記憶に残る名前を生成するために設計された高度なAI駆動ツールです。",
+                })
+              }
+            </p>
+            <p class="text-gray-700">
+              {
+                t({
+                  en: "Whether you need a catchy business name, a unique username, a character name for your next game or novel, or anything in between — our AI helps you find the perfect fit in seconds.",
+                  es: "Ya sea que necesites un nombre pegadizo para tu negocio, un nombre de usuario único, un nombre de personaje para tu próximo juego o novela, o cualquier otra cosa — nuestra IA te ayuda a encontrar la opción perfecta en segundos.",
+                  ar: "سواء كنت بحاجة إلى اسم تجاري جذاب، أو اسم مستخدم فريد، أو اسم شخصية للعبتك أو روايتك القادمة، أو أي شيء بينهما — يساعدك ذكاؤنا الاصطناعي على العثور على الخيار المثالي في ثوانٍ.",
+                  pt: "Seja você precisando de um nome atraente para empresa, um nome de usuário único, um nome de personagem para seu próximo jogo ou romance, ou qualquer coisa intermediária — nossa IA ajuda você a encontrar a opção perfeita em segundos.",
+                  fr: "Que vous ayez besoin d'un nom d'entreprise accrocheur, d'un nom d'utilisateur unique, d'un nom de personnage pour votre prochain jeu ou roman, ou tout autre chose — notre IA vous aide à trouver l'option parfaite en quelques secondes.",
+                  ru: "Нужно ли вам запоминающееся название для бизнеса, уникальное имя пользователя, имя персонажа для вашей следующей игры или романа, или что-то промежуточное — наш ИИ поможет вам найти идеальный вариант за секунды.",
+                  "zh-cn":
+                    "无论您需要一个朗朗上口的企业名称、独特的用户名、为下一个游戏或小说创建角色名称，或是介于两者之间的任何需求 — 我们的AI可以在几秒钟内帮助您找到完美匹配。",
+                  ja: "キャッチーなビジネス名、ユニークなユーザー名、次のゲームや小説のキャラクター名、またはその他何でも — 私たちのAIが数秒で完璧なものを見つけるお手伝いをします。",
+                })
+              }
+            </p>
+          </div>
+          <div class="flex justify-center">
+            <div
+              class="bg-blue-50 p-6 rounded-lg border border-blue-200 max-w-sm"
+            >
+              <h3 class="font-semibold text-lg mb-3 text-blue-800">
+                {
+                  t({
+                    en: "Perfect For:",
+                    es: "Perfecto Para:",
+                    ar: "مثالي لـ:",
+                    pt: "Perfeito Para:",
+                    fr: "Parfait Pour :",
+                    ru: "Идеально Для:",
+                    "zh-cn": "完美适用于：",
+                    ja: "最適な用途：",
+                  })
+                }
+              </h3>
+              <ul class="space-y-2">
+                <li class="flex items-center">
+                  <Icon name="mdi:check-circle" class="text-green-500 mr-2" />
+                  <span
+                    >{
+                      t({
+                        en: "Business & Brand Names",
+                        es: "Nombres de Negocios y Marcas",
+                        ar: "أسماء الشركات والعلامات التجارية",
+                        pt: "Nomes de Empresas e Marcas",
+                        fr: "Noms d'Entreprises et de Marques",
+                        ru: "Названия Бизнеса и Брендов",
+                        "zh-cn": "企业和品牌名称",
+                        ja: "ビジネス＆ブランド名",
+                      })
+                    }</span
+                  >
+                </li>
+                <li class="flex items-center">
+                  <Icon name="mdi:check-circle" class="text-green-500 mr-2" />
+                  <span
+                    >{
+                      t({
+                        en: "Usernames & Game Handles",
+                        es: "Nombres de Usuario y Apodos para Juegos",
+                        ar: "أسماء المستخدمين وألقاب الألعاب",
+                        pt: "Nomes de Usuário e Apelidos para Jogos",
+                        fr: "Noms d'Utilisateur et Pseudonymes de Jeu",
+                        ru: "Имена Пользователей и Игровые Ники",
+                        "zh-cn": "用户名和游戏昵称",
+                        ja: "ユーザー名＆ゲームハンドル",
+                      })
+                    }</span
+                  >
+                </li>
+                <li class="flex items-center">
+                  <Icon name="mdi:check-circle" class="text-green-500 mr-2" />
+                  <span
+                    >{
+                      t({
+                        en: "Character Names",
+                        es: "Nombres de Personajes",
+                        ar: "أسماء الشخصيات",
+                        pt: "Nomes de Personagens",
+                        fr: "Noms de Personnages",
+                        ru: "Имена Персонажей",
+                        "zh-cn": "角色名称",
+                        ja: "キャラクター名",
+                      })
+                    }</span
+                  >
+                </li>
+                <li class="flex items-center">
+                  <Icon name="mdi:check-circle" class="text-green-500 mr-2" />
+                  <span
+                    >{
+                      t({
+                        en: "Domain Names",
+                        es: "Nombres de Dominio",
+                        ar: "أسماء النطاقات",
+                        pt: "Nomes de Domínio",
+                        fr: "Noms de Domaine",
+                        ru: "Доменные Имена",
+                        "zh-cn": "域名",
+                        ja: "ドメイン名",
+                      })
+                    }</span
+                  >
+                </li>
+                <li class="flex items-center">
+                  <Icon name="mdi:check-circle" class="text-green-500 mr-2" />
+                  <span
+                    >{
+                      t({
+                        en: "Product Names",
+                        es: "Nombres de Productos",
+                        ar: "أسماء المنتجات",
+                        pt: "Nomes de Produtos",
+                        fr: "Noms de Produits",
+                        ru: "Названия Продуктов",
+                        "zh-cn": "产品名称",
+                        ja: "製品名",
+                      })
+                    }</span
+                  >
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- How to Use Section -->
+    <section class="py-10 my-8">
+      <div class="bg-gray-50 rounded-lg shadow-sm p-8 border border-gray-200">
+        <h2 class="text-3xl font-bold mb-6 text-center text-gray-800">
+          {
+            t({
+              en: "How to Use Cool Name Maker",
+              es: "Cómo Usar el Creador de Nombres Geniales",
+              ar: "كيفية استخدام صانع الأسماء الرائعة",
+              pt: "Como Usar o Criador de Nomes Legais",
+              fr: "Comment Utiliser le Créateur de Noms Cool",
+              ru: "Как Использовать Cool Name Maker",
+              "zh-cn": "如何使用酷名生成器",
+              ja: "クールネームメーカーの使い方",
+            })
+          }
+        </h2>
+
+        <div class="space-y-8 mt-6">
+          <div class="flex flex-col md:flex-row items-start gap-4">
+            <div
+              class="bg-blue-100 rounded-full p-3 text-blue-600 flex-shrink-0"
+            >
+              <span class="font-bold text-xl">1</span>
+            </div>
+            <div>
+              <h3 class="text-xl font-semibold mb-2">
+                {
+                  t({
+                    en: "Select your name type",
+                    es: "Selecciona el tipo de nombre",
+                    ar: "اختر نوع الاسم",
+                    pt: "Selecione o tipo de nome",
+                    fr: "Sélectionnez votre type de nom",
+                    ru: "Выберите тип имени",
+                    "zh-cn": "选择名称类型",
+                    ja: "名前の種類を選択",
+                  })
+                }
+              </h3>
+              <p class="text-gray-700">
+                {
+                  t({
+                    en: "Choose what kind of name you need from our wide range of categories",
+                    es: "Elige qué tipo de nombre necesitas de nuestra amplia gama de categorías",
+                    ar: "اختر نوع الاسم الذي تحتاجه من مجموعتنا الواسعة من الفئات",
+                    pt: "Escolha que tipo de nome você precisa da nossa ampla gama de categorias",
+                    fr: "Choisissez le type de nom dont vous avez besoin parmi notre large gamme de catégories",
+                    ru: "Выберите тип имени, который вам нужен, из нашего широкого спектра категорий",
+                    "zh-cn": "从我们广泛的类别中选择您需要的名称类型",
+                    ja: "幅広いカテゴリから必要な名前の種類を選びます",
+                  })
+                }
+              </p>
+            </div>
+          </div>
+
+          <div class="flex flex-col md:flex-row items-start gap-4">
+            <div
+              class="bg-blue-100 rounded-full p-3 text-blue-600 flex-shrink-0"
+            >
+              <span class="font-bold text-xl">2</span>
+            </div>
+            <div>
+              <h3 class="text-xl font-semibold mb-2">
+                {
+                  t({
+                    en: "Customize your preferences",
+                    es: "Personaliza tus preferencias",
+                    ar: "خصص تفضيلاتك",
+                    pt: "Personalize suas preferências",
+                    fr: "Personnalisez vos préférences",
+                    ru: "Настройте ваши предпочтения",
+                    "zh-cn": "自定义您的偏好",
+                    ja: "設定をカスタマイズ",
+                  })
+                }
+              </h3>
+              <p class="text-gray-700">
+                {
+                  t({
+                    en: "Set style, length, language and other options to tailor the results to your needs",
+                    es: "Establece estilo, longitud, idioma y otras opciones para adaptar los resultados a tus necesidades",
+                    ar: "حدد النمط والطول واللغة وخيارات أخرى لتخصيص النتائج حسب احتياجاتك",
+                    pt: "Defina estilo, comprimento, idioma e outras opções para adaptar os resultados às suas necessidades",
+                    fr: "Définissez le style, la longueur, la langue et d'autres options pour adapter les résultats à vos besoins",
+                    ru: "Установите стиль, длину, язык и другие параметры, чтобы настроить результаты под ваши потребности",
+                    "zh-cn":
+                      "设置风格、长度、语言和其他选项，使结果符合您的需求",
+                    ja: "スタイル、長さ、言語、その他のオプションを設定して、結果をニーズに合わせて調整します",
+                  })
+                }
+              </p>
+            </div>
+          </div>
+
+          <div class="flex flex-col md:flex-row items-start gap-4">
+            <div
+              class="bg-blue-100 rounded-full p-3 text-blue-600 flex-shrink-0"
+            >
+              <span class="font-bold text-xl">3</span>
+            </div>
+            <div>
+              <h3 class="text-xl font-semibold mb-2">
+                {
+                  t({
+                    en: "Generate and explore",
+                    es: "Genera y explora",
+                    ar: "أنشئ واستكشف",
+                    pt: "Gere e explore",
+                    fr: "Générez et explorez",
+                    ru: "Создавайте и исследуйте",
+                    "zh-cn": "生成并探索",
+                    ja: "生成して探索",
+                  })
+                }
+              </h3>
+              <p class="text-gray-700">
+                {
+                  t({
+                    en: "Click generate to see a list of AI-created names that match your criteria",
+                    es: "Haz clic en generar para ver una lista de nombres creados por IA que coinciden con tus criterios",
+                    ar: "انقر على إنشاء لرؤية قائمة بالأسماء التي أنشأها الذكاء الاصطناعي والتي تطابق معاييرك",
+                    pt: "Clique em gerar para ver uma lista de nomes criados por IA que correspondem aos seus critérios",
+                    fr: "Cliquez sur générer pour voir une liste de noms créés par l'IA qui correspondent à vos critères",
+                    ru: "Нажмите кнопку генерации, чтобы увидеть список созданных ИИ имен, соответствующих вашим критериям",
+                    "zh-cn": "点击生成，查看符合您标准的AI创建名称列表",
+                    ja: "生成をクリックして、あなたの基準に合うAIが作成した名前のリストを確認します",
+                  })
+                }
+              </p>
+            </div>
+          </div>
+
+          <div class="flex flex-col md:flex-row items-start gap-4">
+            <div
+              class="bg-blue-100 rounded-full p-3 text-blue-600 flex-shrink-0"
+            >
+              <span class="font-bold text-xl">4</span>
+            </div>
+            <div>
+              <h3 class="text-xl font-semibold mb-2">
+                {
+                  t({
+                    en: "Save your favorites",
+                    es: "Guarda tus favoritos",
+                    ar: "احفظ المفضلة لديك",
+                    pt: "Salve seus favoritos",
+                    fr: "Sauvegardez vos favoris",
+                    ru: "Сохраняйте избранное",
+                    "zh-cn": "保存您的收藏",
+                    ja: "お気に入りを保存",
+                  })
+                }
+              </h3>
+              <p class="text-gray-700">
+                {
+                  t({
+                    en: "Like a name? Save it to your collection or export it for immediate use",
+                    es: "¿Te gusta un nombre? Guárdalo en tu colección o expórtalo para uso inmediato",
+                    ar: "هل أعجبك اسم؟ احفظه في مجموعتك أو صدّره للاستخدام الفوري",
+                    pt: "Gostou de um nome? Salve-o em sua coleção ou exporte-o para uso imediato",
+                    fr: "Vous aimez un nom ? Enregistrez-le dans votre collection ou exportez-le pour une utilisation immédiate",
+                    ru: "Нравится имя? Сохраните его в свою коллекцию или экспортируйте для немедленного использования",
+                    "zh-cn": "喜欢某个名称？将其保存到您的收藏或导出以立即使用",
+                    ja: "名前が気に入った？コレクションに保存するか、すぐに使用するためにエクスポートしましょう",
+                  })
+                }
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-10 my-8">
+      <h2 class="text-3xl font-bold mb-6 text-center text-gray-800">
+        {
+          t({
+            en: "Frequently Asked Questions",
+            es: "Preguntas Frecuentes",
+            ar: "الأسئلة الشائعة",
+            pt: "Perguntas Frequentes",
+            fr: "Questions Fréquemment Posées",
+            ru: "Часто Задаваемые Вопросы",
+            "zh-cn": "常见问题解答",
+            ja: "よくある質問",
+          })
+        }
+      </h2>
+
+      <div class="space-y-4 max-w-3xl mx-auto">
+        <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-200">
+          <h3 class="font-semibold text-lg mb-2 flex items-center">
+            <Icon name="mdi:lightning-bolt" class="text-blue-500 mr-2" />
+            {
+              t({
+                en: "Is it really one-click generation?",
+                es: "¿Es realmente generación con un solo clic?",
+                ar: "هل هي حقاً توليد بنقرة واحدة؟",
+                pt: "É realmente geração com um clique?",
+                fr: "Est-ce vraiment une génération en un clic ?",
+                ru: "Это действительно генерация в один клик?",
+                "zh-cn": "真的是一键生成吗？",
+                ja: "本当にワンクリック生成ですか？",
+              })
+            }
+          </h3>
+          <p class="text-gray-700">
+            {
+              t({
+                en: "Yes! Simply select your preferences and click the generate button. Our AI will instantly create multiple name options for you to choose from.",
+                es: "¡Sí! Simplemente selecciona tus preferencias y haz clic en el botón generar. Nuestra IA creará instantáneamente múltiples opciones de nombres para que elijas.",
+                ar: "نعم! ما عليك سوى تحديد تفضيلاتك والنقر على زر التوليد. سيقوم الذكاء الاصطناعي لدينا بإنشاء خيارات أسماء متعددة على الفور لتختار من بينها.",
+                pt: "Sim! Basta selecionar suas preferências e clicar no botão gerar. Nossa IA criará instantaneamente várias opções de nomes para você escolher.",
+                fr: "Oui ! Sélectionnez simplement vos préférences et cliquez sur le bouton générer. Notre IA créera instantanément plusieurs options de noms parmi lesquelles vous pourrez choisir.",
+                ru: "Да! Просто выберите предпочтения и нажмите кнопку генерации. Наш ИИ мгновенно создаст несколько вариантов имен на выбор.",
+                "zh-cn":
+                  "是的！只需选择您的偏好并点击生成按钮。我们的AI将立即创建多个名称选项供您选择。",
+                ja: "はい！好みを選択して生成ボタンをクリックするだけです。私たちのAIは瞬時に複数の名前オプションを作成し、あなたが選べるようにします。",
+              })
+            }
+          </p>
+        </div>
+
+        <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-200">
+          <h3 class="font-semibold text-lg mb-2 flex items-center">
+            <Icon name="mdi:content-copy" class="text-blue-500 mr-2" />
+            {
+              t({
+                en: "Can I easily copy the generated names?",
+                es: "¿Puedo copiar fácilmente los nombres generados?",
+                ar: "هل يمكنني نسخ الأسماء المولدة بسهولة؟",
+                pt: "Posso copiar facilmente os nomes gerados?",
+                fr: "Puis-je facilement copier les noms générés ?",
+                ru: "Могу ли я легко скопировать сгенерированные имена?",
+                "zh-cn": "我可以轻松复制生成的名称吗？",
+                ja: "生成された名前を簡単にコピーできますか？",
+              })
+            }
+          </h3>
+          <p class="text-gray-700">
+            {
+              t({
+                en: "Absolutely! Every name comes with a click-to-copy feature. Just click on any name you like and it will be automatically copied to your clipboard for immediate use.",
+                es: "¡Absolutamente! Cada nombre viene con una función de clic para copiar. Solo haz clic en cualquier nombre que te guste y se copiará automáticamente en tu portapapeles para uso inmediato.",
+                ar: "بالتأكيد! كل اسم يأتي مع ميزة النقر للنسخ. ما عليك سوى النقر على أي اسم تحبه وسيتم نسخه تلقائيًا إلى الحافظة الخاصة بك للاستخدام الفوري.",
+                pt: "Absolutamente! Cada nome vem com um recurso de clique para copiar. Basta clicar em qualquer nome que você goste e ele será automaticamente copiado para sua área de transferência para uso imediato.",
+                fr: "Absolument ! Chaque nom est doté d'une fonction de copie en un clic. Cliquez simplement sur le nom que vous aimez et il sera automatiquement copié dans votre presse-papiers pour une utilisation immédiate.",
+                ru: "Безусловно! Каждое имя имеет функцию копирования по клику. Просто нажмите на любое понравившееся имя, и оно будет автоматически скопировано в буфер обмена для немедленного использования.",
+                "zh-cn":
+                  "当然可以！每个名称都带有点击复制功能。只需点击您喜欢的任何名称，它将自动复制到剪贴板以供立即使用。",
+                ja: "もちろんです！すべての名前にはクリックでコピーする機能があります。気に入った名前をクリックするだけで、自動的にクリップボードにコピーされ、すぐに使用できます。",
+              })
+            }
+          </p>
+        </div>
+
+        <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-200">
+          <h3 class="font-semibold text-lg mb-2 flex items-center">
+            <Icon name="mdi:cash-remove" class="text-blue-500 mr-2" />
+            {
+              t({
+                en: "Is Cool Name Maker really free?",
+                es: "¿El Creador de Nombres Geniales es realmente gratis?",
+                ar: "هل صانع الأسماء الرائعة مجاني حقًا؟",
+                pt: "O Criador de Nomes Legais é realmente gratuito?",
+                fr: "Le Créateur de Noms Cool est-il vraiment gratuit ?",
+                ru: "Cool Name Maker действительно бесплатный?",
+                "zh-cn": "酷名生成器真的免费吗？",
+                ja: "クールネームメーカーは本当に無料ですか？",
+              })
+            }
+          </h3>
+          <p class="text-gray-700">
+            {
+              t({
+                en: "Yes, Cool Name Maker is permanently free to use! We believe creative tools should be accessible to everyone. There are no hidden fees, subscriptions, or usage limits.",
+                es: "¡Sí, el Creador de Nombres Geniales es permanentemente gratis! Creemos que las herramientas creativas deben ser accesibles para todos. No hay tarifas ocultas, suscripciones o límites de uso.",
+                ar: "نعم، صانع الأسماء الرائعة مجاني للاستخدام بشكل دائم! نحن نؤمن بأن الأدوات الإبداعية يجب أن تكون متاحة للجميع. لا توجد رسوم خفية أو اشتراكات أو حدود استخدام.",
+                pt: "Sim, o Criador de Nomes Legais é permanentemente gratuito para usar! Acreditamos que ferramentas criativas devem ser acessíveis a todos. Não há taxas ocultas, assinaturas ou limites de uso.",
+                fr: "Oui, le Créateur de Noms Cool est définitivement gratuit ! Nous pensons que les outils créatifs doivent être accessibles à tous. Il n'y a pas de frais cachés, d'abonnements ou de limites d'utilisation.",
+                ru: "Да, Cool Name Maker навсегда бесплатный! Мы считаем, что творческие инструменты должны быть доступны всем. Никаких скрытых платежей, подписок или ограничений использования.",
+                "zh-cn":
+                  "是的，酷名生成器永久免费使用！我们相信创意工具应该人人可用。没有隐藏费用、订阅或使用限制。",
+                ja: "はい、クールネームメーカーは永久に無料でご利用いただけます！創造的なツールは誰もが利用できるべきだと考えています。隠れた料金、サブスクリプション、使用制限はありません。",
+              })
+            }
+          </p>
+        </div>
+
+        <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-200">
+          <h3 class="font-semibold text-lg mb-2 flex items-center">
+            <Icon name="mdi:shield-check" class="text-blue-500 mr-2" />
+            {
+              t({
+                en: "How is my data handled?",
+                es: "¿Cómo se manejan mis datos?",
+                ar: "كيف تتم معالجة بياناتي؟",
+                pt: "Como meus dados são tratados?",
+                fr: "Comment mes données sont-elles traitées ?",
+                ru: "Как обрабатываются мои данные?",
+                "zh-cn": "我的数据如何处理？",
+                ja: "私のデータはどのように扱われますか？",
+              })
+            }
+          </h3>
+          <p class="text-gray-700">
+            {
+              t({
+                en: "We respect your privacy. Cool Name Maker doesn't store any of your input preferences or generated names on our servers. Everything happens in your browser session and is forgotten once you close the page.",
+                es: "Respetamos tu privacidad. El Creador de Nombres Geniales no almacena ninguna de tus preferencias de entrada o nombres generados en nuestros servidores. Todo ocurre en tu sesión del navegador y se olvida una vez que cierras la página.",
+                ar: "نحن نحترم خصوصيتك. لا يخزن صانع الأسماء الرائعة أيًا من تفضيلات الإدخال أو الأسماء المولدة على خوادمنا. كل شيء يحدث في جلسة المتصفح الخاصة بك ويتم نسيانه بمجرد إغلاق الصفحة.",
+                pt: "Respeitamos sua privacidade. O Criador de Nomes Legais não armazena nenhuma de suas preferências de entrada ou nomes gerados em nossos servidores. Tudo acontece na sua sessão do navegador e é esquecido assim que você fecha a página.",
+                fr: "Nous respectons votre vie privée. Le Créateur de Noms Cool ne stocke aucune de vos préférences d'entrée ou des noms générés sur nos serveurs. Tout se passe dans votre session de navigateur et est oublié une fois que vous fermez la page.",
+                ru: "Мы уважаем вашу конфиденциальность. Cool Name Maker не хранит никаких ваших входных предпочтений или сгенерированных имен на наших серверах. Всё происходит в вашей сессии браузера и забывается, как только вы закрываете страницу.",
+                "zh-cn":
+                  "我们尊重您的隐私。酷名生成器不会在我们的服务器上存储您的任何输入偏好或生成的名称。一切都发生在您的浏览器会话中，一旦您关闭页面就会被忘记。",
+                ja: "私たちはあなたのプライバシーを尊重します。クールネームメーカーは、あなたの入力設定や生成された名前をサーバーに保存しません。すべてはブラウザセッションで行われ、ページを閉じると忘れられます。",
+              })
+            }
+          </p>
+        </div>
+
+        <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-200">
+          <h3 class="font-semibold text-lg mb-2 flex items-center">
+            <Icon name="mdi:language" class="text-blue-500 mr-2" />
+            {
+              t({
+                en: "Can I generate names in multiple languages?",
+                es: "¿Puedo generar nombres en varios idiomas?",
+                ar: "هل يمكنني إنشاء أسماء بلغات متعددة؟",
+                pt: "Posso gerar nomes em vários idiomas?",
+                fr: "Puis-je générer des noms en plusieurs langues ?",
+                ru: "Могу ли я генерировать имена на разных языках?",
+                "zh-cn": "我可以用多种语言生成名称吗？",
+                ja: "複数の言語で名前を生成できますか？",
+              })
+            }
+          </h3>
+          <p class="text-gray-700">
+            {
+              t({
+                en: "Absolutely! Our AI can generate names in multiple languages and writing systems. Simply select your desired language in the options before generating names.",
+                es: "¡Absolutamente! Nuestra IA puede generar nombres en múltiples idiomas y sistemas de escritura. Simplemente selecciona el idioma deseado en las opciones antes de generar nombres.",
+                ar: "بالتأكيد! يمكن للذكاء الاصطناعي لدينا إنشاء أسماء بلغات متعددة وأنظمة كتابة مختلفة. ما عليك سوى تحديد اللغة المطلوبة في الخيارات قبل إنشاء الأسماء.",
+                pt: "Absolutamente! Nossa IA pode gerar nomes em vários idiomas e sistemas de escrita. Basta selecionar o idioma desejado nas opções antes de gerar nomes.",
+                fr: "Absolument ! Notre IA peut générer des noms dans plusieurs langues et systèmes d'écriture. Sélectionnez simplement la langue souhaitée dans les options avant de générer des noms.",
+                ru: "Безусловно! Наш ИИ может генерировать имена на разных языках и в разных системах письма. Просто выберите желаемый язык в параметрах перед генерацией имен.",
+                "zh-cn":
+                  "当然可以！我们的AI可以用多种语言和书写系统生成名称。只需在生成名称前在选项中选择您想要的语言。",
+                ja: "もちろんです！私たちのAIは複数の言語や文字体系で名前を生成できます。名前を生成する前に、オプションで希望の言語を選択するだけです。",
+              })
+            }
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="py-10 text-center">
+      <h2 class="text-2xl font-bold mb-4 text-gray-800">
+        {
+          t({
+            en: "Ready to find your perfect name?",
+            es: "¿Listo para encontrar tu nombre perfecto?",
+            ar: "هل أنت مستعد للعثور على اسمك المثالي؟",
+            pt: "Pronto para encontrar seu nome perfeito?",
+            fr: "Prêt à trouver votre nom parfait ?",
+            ru: "Готовы найти своё идеальное имя?",
+            "zh-cn": "准备好找到您的完美名称了吗？",
+            ja: "あなたの完璧な名前を見つける準備はできていますか？",
+          })
+        }
+      </h2>
+      <a
+        href={getRelativeLocaleUrl(locale, "/tool/page/1")}
+        class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-6 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg"
+      >
+        {
+          t({
+            en: "Start Generating Now",
+            es: "Empieza a Generar Ahora",
+            ar: "ابدأ في الإنشاء الآن",
+            pt: "Comece a Gerar Agora",
+            fr: "Commencer à Générer Maintenant",
+            ru: "Начать Генерацию Сейчас",
+            "zh-cn": "立即开始生成",
+            ja: "今すぐ生成を開始",
+          })
+        }
+        <Icon name="mdi:rocket-launch" class="inline ml-1" />
+      </a>
+    </section>
+  </main>
+</Layout>

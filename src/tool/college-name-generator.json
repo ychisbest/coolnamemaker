@@ -1,0 +1,237 @@
+{
+  "name": {
+    "en": "College Name Generator",
+    "ar": "مولد أسماء الكليات",
+    "es": "Generador de Nombres de Universidad",
+    "fr": "Générateur de Noms de Collège",
+    "zh-cn": "大学名称生成器",
+    "ja": "大学名ジェネレーター",
+    "pt": "Gerador de Nomes de Faculdade",
+    "ru": "Генератор Названий Колледжей"
+  },
+  "description": {
+    "en": "Stuck brainstorming the perfect, envy-inducing name for your college club, project, or even your dorm room? Our College Name Generator is here to unleash a torrent of creative, unforgettable, and downright cool names! Get ready to dominate the academic scene with a name that screams 'genius' and 'good times'.",
+    "ar": "هل تواجه صعوبة في ابتكار اسم مثالي يثير الحسد لنادي الكلية أو مشروعك أو حتى غرفتك السكنية؟ مولد اسم الكلية لدينا هنا لإطلاق سيل من الأسماء الإبداعية والتي لا تُنسى والرائعة! استعد للهيمنة على الساحة الأكاديمية باسم يصرخ 'عبقرية' و'أوقات ممتعة'.",
+    "es": "¿Atascado pensando en el nombre perfecto y envidiable para tu club universitario, proyecto o incluso tu dormitorio? ¡Nuestro Generador de Nombres de Universidad está aquí para desatar un torrente de nombres creativos, inolvidables y absolutamente geniales! Prepárate para dominar la escena académica con un nombre que grite 'genio' y 'buenos momentos'.",
+    "fr": "Bloqué dans la recherche du nom parfait et enviable pour votre club universitaire, projet ou même votre chambre? Notre Générateur de Noms de Collège est là pour libérer un torrent de noms créatifs, inoubliables et carrément cool! Préparez-vous à dominer la scène académique avec un nom qui crie 'génie' et 'bons moments'.",
+    "zh-cn": "为大学俱乐部、项目甚至宿舍想一个完美、令人羡慕的名字时遇到困难？我们的大学名称生成器在此释放创意、难忘且绝对酷炫的名字洪流！准备好用一个彰显\"天才\"的名字主宰学术界吧！",
+    "ja": "大学のクラブ、プロジェクト、または寮の部屋のための完璧で羨望を誘う名前を考えるのに行き詰まっていますか？私たちの大学名ジェネレーターが、創造的で忘れられない、そして非常にクールな名前の洪水を解き放ちます！「天才」と「楽しい時間」を叫ぶ名前で学術シーンを支配する準備をしてください！",
+    "pt": "Preso tentando criar o nome perfeito e invejável para seu clube universitário, projeto ou até mesmo seu dormitório? Nosso Gerador de Nomes de Faculdade está aqui para liberar uma torrente de nomes criativos, inesquecíveis e incrivelmente legais! Prepare-se para dominar o cenário acadêmico com um nome que grita 'gênio' e 'bons momentos'.",
+    "ru": "Застряли в поисках идеального, вызывающего зависть названия для вашего университетского клуба, проекта или даже комнаты в общежитии? Наш Генератор Названий Колледжей здесь, чтобы выпустить поток творческих, незабываемых и невероятно крутых названий! Готовьтесь доминировать на академической сцене с названием, которое кричит 'гениальность' и 'хорошие времена'."
+  },
+  "slug": "college-name-generator",
+  "prompt": {
+    "en": "Generate a college name",
+    "ar": "قم بإنشاء اسم كلية",
+    "es": "Generar un nombre de universidad",
+    "fr": "Générer un nom d'université",
+    "zh-cn": "生成一个大学名称",
+    "ja": "大学名を生成する",
+    "pt": "Gerar um nome de faculdade",
+    "ru": "Сгенерировать название колледжа"
+  },
+  "icon": "\ud83c\udf93",
+  "introduction": {
+    "en": "Forget generic and embrace the extraordinary! This isn't just a name generator; it's your secret weapon for crafting a brand identity that's as unique and vibrant as your college experience. Whether you're starting a debate society, launching a killer study group, or just want a ridiculously awesome name for your fantasy football league, we've got you covered. Prepare to be amazed by the sheer ingenuity (and occasional absurdity) of the names you'll discover.",
+    "ar": "انس العادي واحتضن الاستثنائي! هذا ليس مجرد مولد أسماء؛ إنه سلاحك السري لإنشاء هوية علامة تجارية فريدة ونابضة بالحياة مثل تجربتك الجامعية. سواء كنت تبدأ جمعية مناظرات، أو تطلق مجموعة دراسية رائعة، أو تريد فقط اسمًا رائعًا لدوري كرة القدم الخيالي الخاص بك، فنحن هنا لمساعدتك. استعد للانبهار بالعبقرية (والسخافة أحيانًا) للأسماء التي ستكتشفها.",
+    "es": "¡Olvida lo genérico y abraza lo extraordinario! Esto no es solo un generador de nombres; es tu arma secreta para crear una identidad de marca tan única y vibrante como tu experiencia universitaria. Ya sea que estés comenzando una sociedad de debate, lanzando un increíble grupo de estudio, o simplemente quieras un nombre ridículamente asombroso para tu liga de fútbol fantasy, te tenemos cubierto. Prepárate para sorprenderte con el puro ingenio (y ocasional absurdidad) de los nombres que descubrirás.",
+    "fr": "Oubliez le générique et adoptez l'extraordinaire! Ce n'est pas qu'un générateur de noms; c'est votre arme secrète pour créer une identité de marque aussi unique et vibrante que votre expérience universitaire. Que vous lanciez une société de débat, un groupe d'étude impressionnant, ou que vous vouliez simplement un nom ridiculement génial pour votre ligue de fantasy football, nous vous couvrons. Préparez-vous à être émerveillé par l'ingéniosité pure (et l'absurdité occasionnelle) des noms que vous découvrirez.",
+    "zh-cn": "忘掉普通，拥抱非凡！这不仅仅是一个名称生成器；它是你打造独特而充满活力的品牌身份的秘密武器，就像你的大学体验一样。无论你是在创建辩论社团、组建一个优秀的学习小组，还是只想为你的梦幻足球联盟取一个荒谬但很棒的名字，我们都能满足你。准备好被你将发现的纯粹创意（和偶尔的荒谬）所震撼吧。",
+    "ja": "ありきたりを忘れて、非凡なものを受け入れましょう！これは単なる名前生成器ではありません。これはあなたの大学体験と同じくらいユニークで活気に満ちたブランドアイデンティティを作成するための秘密兵器です。あなたがディベートソサエティを始めるにしても、素晴らしい勉強グループを立ち上げるにしても、ファンタジーフットボールリーグにばかげていますが素晴らしい名前が欲しいだけにしても、私たちがサポートします。あなたが発見する名前の純粋な創意工夫（そして時々の不条理さ）に驚かされる準備をしてください。",
+    "pt": "Esqueça o genérico e abrace o extraordinário! Isto não é apenas um gerador de nomes; é sua arma secreta para criar uma identidade de marca tão única e vibrante quanto sua experiência universitária. Quer você esteja iniciando uma sociedade de debates, lançando um grupo de estudos incrível, ou apenas queira um nome ridiculamente impressionante para sua liga de futebol fantasy, nós te ajudamos. Prepare-se para ficar maravilhado com a pura engenhosidade (e ocasional absurdo) dos nomes que você descobrirá.",
+    "ru": "Забудьте о банальном и примите необычное! Это не просто генератор имен; это ваше секретное оружие для создания идентичности бренда, такой же уникальной и яркой, как ваш университетский опыт. Начинаете ли вы дискуссионное общество, запускаете крутую учебную группу или просто хотите невероятно крутое название для вашей лиги фэнтези-футбола - мы вас прикрыли. Приготовьтесь удивляться чистой изобретательности (и случайной абсурдности) имен, которые вы обнаружите."
+  },
+  "howToUse": {
+    "en": [
+      "Click that tempting 'Generate' button. Go on, you know you want to!",
+      "Prepare to be bombarded with a glorious assortment of college-themed names.",
+      "Scroll through the list and behold the possibilities!",
+      "Found a name that makes your brain sing? Copy it!",
+      "Now, go forth and conquer the college world with your newly acquired, ridiculously cool name!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' المغري. هيا، أنت تعلم أنك تريد ذلك!",
+      "استعد للقصف بمجموعة رائعة من الأسماء ذات الطابع الجامعي.",
+      "قم بالتمرير عبر القائمة وشاهد الاحتمالات!",
+      "هل وجدت اسمًا يجعل عقلك يغني؟ انسخه!",
+      "والآن، انطلق واغزو عالم الكلية باسمك الجديد الرائع!"
+    ],
+    "es": [
+      "Haz clic en ese tentador botón 'Generar'. ¡Vamos, sabes que quieres!",
+      "Prepárate para ser bombardeado con una gloriosa variedad de nombres universitarios.",
+      "¡Desplázate por la lista y contempla las posibilidades!",
+      "¿Encontraste un nombre que hace cantar a tu cerebro? ¡Cópialo!",
+      "¡Ahora, ve y conquista el mundo universitario con tu recién adquirido nombre ridículamente genial!"
+    ],
+    "fr": [
+      "Cliquez sur ce bouton 'Générer' tentant. Allez-y, vous savez que vous le voulez !",
+      "Préparez-vous à être bombardé d'un assortiment glorieux de noms à thème universitaire.",
+      "Faites défiler la liste et contemplez les possibilités !",
+      "Vous avez trouvé un nom qui fait chanter votre cerveau ? Copiez-le !",
+      "Maintenant, partez conquérir le monde universitaire avec votre nom ridiculement cool nouvellement acquis !"
+    ],
+    "zh-cn": [
+      "点击那个诱人的\"生成\"按钮。来吧，你知道你想要点击它！",
+      "准备好接收大量精彩的大学主题名称。",
+      "滚动浏览列表，看看所有可能性！",
+      "找到一个让你脑海中回响的名字了吗？复制它！",
+      "现在，带着你新获得的超酷名字，去征服大学世界吧！"
+    ],
+    "ja": [
+      "魅力的な「生成」ボタンをクリックしてください。さあ、あなたがそうしたいことは分かっています！",
+      "大学をテーマにした素晴らしい名前の数々が殺到する準備をしてください。",
+      "リストをスクロールして、可能性をご覧ください！",
+      "あなたの頭の中で歌うような名前を見つけましたか？コピーしましょう！",
+      "さあ、新しく獲得した信じられないほどクールな名前で、大学の世界を征服しに行きましょう！"
+    ],
+    "pt": [
+      "Clique naquele tentador botão 'Gerar'. Vamos lá, você sabe que quer!",
+      "Prepare-se para ser bombardeado com uma variedade gloriosa de nomes com tema universitário.",
+      "Role pela lista e contemple as possibilidades!",
+      "Encontrou um nome que faz seu cérebro cantar? Copie-o!",
+      "Agora, vá em frente e conquiste o mundo universitário com seu nome ridiculamente legal recém-adquirido!"
+    ],
+    "ru": [
+      "Нажмите на этот соблазнительный кнопку 'Создать'. Давайте, вы знаете, что хотите!",
+      "Приготовьтесь к шквалу славных имен на университетскую тематику.",
+      "Пролистайте список и узрите возможности!",
+      "Нашли имя, от которого ваш мозг поет? Скопируйте его!",
+      "А теперь идите и покоряйте университетский мир с вашим новым, невероятно крутым именем!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+      "en": "Is this College Name Generator really free?",
+      "ar": "هل مولد أسماء الكليات هذا مجاني حقًا؟",
+      "es": "¿Este Generador de Nombres de Universidad es realmente gratis?",
+      "fr": "Ce Générateur de Noms de Collège est-il vraiment gratuit?",
+      "zh-cn": "这个大学名称生成器真的是免费的吗？",
+      "ja": "この大学名ジェネレーターは本当に無料ですか？",
+      "pt": "Este Gerador de Nomes de Faculdade é realmente gratuito?",
+      "ru": "Этот Генератор Названий Колледжей действительно бесплатный?"
+      },
+      "answer": {
+      "en": "Absolutely! We believe that everyone deserves a ridiculously awesome name, regardless of their budget. So go ahead, generate to your heart's content!",
+      "ar": "بالتأكيد! نحن نؤمن بأن الجميع يستحق اسمًا رائعًا بشكل سخيف، بغض النظر عن ميزانيتهم. لذا، تفضل، قم بالإنشاء بقدر ما يرغب قلبك!",
+      "es": "¡Absolutamente! Creemos que todos merecen un nombre ridículamente increíble, independientemente de su presupuesto. ¡Así que adelante, genera a gusto!",
+      "fr": "Absolument ! Nous croyons que tout le monde mérite un nom incroyablement génial, quel que soit son budget. Alors allez-y, générez autant que vous le souhaitez !",
+      "zh-cn": "当然！我们相信每个人都应该拥有一个超级棒的名字，无论预算如何。所以，尽情地生成吧！",
+      "ja": "もちろんです！予算に関係なく、誰もが信じられないほど素晴らしい名前を持つ権利があると信じています。どうぞ、心ゆくまで生成してください！",
+      "pt": "Absolutamente! Acreditamos que todos merecem um nome ridiculamente incrível, independentemente do orçamento. Então vá em frente, gere à vontade!",
+      "ru": "Абсолютно! Мы верим, что каждый заслуживает невероятно крутое название, независимо от бюджета. Так что давайте, генерируйте сколько душе угодно!"
+      }
+    },
+    {
+      "question": {
+      "en": "Can I use these names for commercial purposes?",
+      "ar": "هل يمكنني استخدام هذه الأسماء للأغراض التجارية؟",
+      "es": "¿Puedo usar estos nombres con fines comerciales?",
+      "fr": "Puis-je utiliser ces noms à des fins commerciales?",
+      "zh-cn": "我可以将这些名称用于商业目的吗？",
+      "ja": "これらの名前を商業目的で使用できますか？",
+      "pt": "Posso usar esses nomes para fins comerciais?",
+      "ru": "Могу ли я использовать эти названия в коммерческих целях?"
+      },
+      "answer": {
+      "en": "While we're thrilled you think these names are worth something, we can't guarantee their trademark availability. Always do your due diligence before using a name for commercial endeavors.",
+      "ar": "بينما نحن مسرورون لأنك تعتقد أن هذه الأسماء ذات قيمة، لا يمكننا ضمان توفرها كعلامة تجارية. قم دائمًا بالتحقق الواجب قبل استخدام اسم للمشاريع التجارية.",
+      "es": "Aunque estamos encantados de que pienses que estos nombres valen algo, no podemos garantizar su disponibilidad como marca registrada. Siempre haz tu debida diligencia antes de usar un nombre para empresas comerciales.",
+      "fr": "Bien que nous soyons ravis que vous pensiez que ces noms valent quelque chose, nous ne pouvons pas garantir leur disponibilité en tant que marque déposée. Faites toujours votre diligence raisonnable avant d'utiliser un nom pour des entreprises commerciales.",
+      "zh-cn": "虽然我们很高兴你认为这些名字有价值，但我们不能保证它们的商标可用性。在将名称用于商业活动之前，请务必进行尽职调查。",
+      "ja": "これらの名前に価値があると思っていただけて嬉しいですが、商標の利用可能性を保証することはできません。商業目的で名前を使用する前に、常に適切な調査を行ってください。",
+      "pt": "Embora estejamos felizes que você ache que esses nomes valem algo, não podemos garantir sua disponibilidade como marca registrada. Sempre faça a devida diligência antes de usar um nome para empreendimentos comerciais.",
+      "ru": "Хотя мы рады, что вы считаете эти имена ценными, мы не можем гарантировать их доступность в качестве товарных знаков. Всегда проводите надлежащую проверку перед использованием имени для коммерческих предприятий."
+      }
+    },
+    {
+      "question": {
+      "en": "How many names can I generate?",
+      "ar": "كم عدد الأسماء التي يمكنني إنشاؤها؟",
+      "es": "¿Cuántos nombres puedo generar?",
+      "fr": "Combien de noms puis-je générer?",
+      "zh-cn": "我可以生成多少个名称？",
+      "ja": "いくつの名前を生成できますか？",
+      "pt": "Quantos nomes posso gerar?",
+      "ru": "Сколько имен я могу сгенерировать?"
+      },
+      "answer": {
+      "en": "As many as your heart desires! There's no limit to the number of cool college names you can conjure up with our generator. Keep clicking until you find the perfect one (or ten)!",
+      "ar": "بقدر ما يرغب قلبك! لا يوجد حد لعدد أسماء الكليات الرائعة التي يمكنك ابتكارها باستخدام مولدنا. استمر في النقر حتى تجد الاسم المثالي (أو عشرة)!",
+      "es": "¡Tantos como tu corazón desee! No hay límite para el número de nombres universitarios geniales que puedes conjurar con nuestro generador. ¡Sigue haciendo clic hasta encontrar el perfecto (o diez)!",
+      "fr": "Autant que votre cœur le désire ! Il n'y a pas de limite au nombre de noms d'université cool que vous pouvez conjurer avec notre générateur. Continuez à cliquer jusqu'à ce que vous trouviez le parfait (ou dix) !",
+      "zh-cn": "随心所欲！我们的生成器可以创造无限数量的酷炫大学名称。继续点击，直到找到完美的那个（或者十个）！",
+      "ja": "あなたの心が望むだけ！私たちのジェネレーターで生成できるクールな大学名の数に制限はありません。完璧な名前（または10個）を見つけるまでクリックし続けてください！",
+      "pt": "Quantos seu coração desejar! Não há limite para o número de nomes legais de faculdade que você pode conjurar com nosso gerador. Continue clicando até encontrar o perfeito (ou dez)!",
+      "ru": "Столько, сколько пожелает ваше сердце! Нет предела количеству крутых университетских названий, которые вы можете создать с помощью нашего генератора. Продолжайте нажимать, пока не найдете идеальное (или десять)!"
+      }
+    },
+    {
+      "question": {
+      "en": "Are the generated names actually any good?",
+      "ar": "هل الأسماء التي تم إنشاؤها جيدة حقًا؟",
+      "es": "¿Los nombres generados son realmente buenos?",
+      "fr": "Les noms générés sont-ils vraiment bons?",
+      "zh-cn": "生成的名称真的好吗？",
+      "ja": "生成された名前は実際に良いものですか？",
+      "pt": "Os nomes gerados são realmente bons?",
+      "ru": "Действительно ли сгенерированные имена хороши?"
+      },
+      "answer": {
+      "en": "We think so! We've poured our hearts and souls (and a healthy dose of college nostalgia) into creating a generator that spits out names that are both creative and relevant. But hey, beauty is in the eye of the beholder. If you don't like what you see, just keep generating!",
+      "ar": "نعتقد ذلك! لقد وضعنا قلوبنا وأرواحنا (وجرعة صحية من حنين الكلية) في إنشاء مولد ينتج أسماء إبداعية وذات صلة. لكن، الجمال في عين الناظر. إذا لم يعجبك ما تراه، فقط استمر في التوليد!",
+      "es": "¡Eso creemos! Hemos puesto nuestro corazón y alma (y una buena dosis de nostalgia universitaria) en crear un generador que produzca nombres creativos y relevantes. Pero bueno, la belleza está en el ojo del espectador. Si no te gusta lo que ves, ¡sigue generando!",
+      "fr": "Nous le pensons ! Nous avons mis tout notre cœur et notre âme (et une bonne dose de nostalgie universitaire) dans la création d'un générateur qui produit des noms à la fois créatifs et pertinents. Mais bon, la beauté est dans l'œil de celui qui regarde. Si vous n'aimez pas ce que vous voyez, continuez simplement à générer !",
+      "zh-cn": "我们认为是的！我们倾注了心血（以及大学怀旧情感）来创建一个既有创意又相关的名称生成器。但是，美在观者眼中。如果你不喜欢看到的结果，继续生成就是了！",
+      "ja": "そう思います！私たちは心と魂（そして大学への懐かしさの健全な一杯）を注ぎ、創造的かつ関連性のある名前を生み出すジェネレーターを作成しました。でも、美しさは見る人の目の中にあります。気に入らない場合は、生成し続けてください！",
+      "pt": "Nós achamos que sim! Colocamos nossos corações e almas (e uma boa dose de nostalgia universitária) na criação de um gerador que produz nomes criativos e relevantes. Mas ei, a beleza está nos olhos de quem vê. Se não gostar do que vê, continue gerando!",
+      "ru": "Мы так думаем! Мы вложили наши сердца и души (и здоровую дозу университетской ностальгии) в создание генератора, выдающего имена, которые являются как творческими, так и актуальными. Но красота в глазах смотрящего. Если вам не нравится то, что вы видите, просто продолжайте генерировать!"
+      }
+    },
+    {
+      "question": {
+      "en": "Will using a name generated here guarantee my club's success?",
+      "ar": "هل استخدام اسم تم إنشاؤه هنا يضمن نجاح نادي؟",
+      "es": "¿Usar un nombre generado aquí garantizará el éxito de mi club?",
+      "fr": "L'utilisation d'un nom généré ici garantira-t-elle le succès de mon club?",
+      "zh-cn": "使用在这里生成的名称能保证我的俱乐部成功吗？",
+      "ja": "ここで生成された名前を使用することで、クラブの成功は保証されますか？",
+      "pt": "Usar um nome gerado aqui garantirá o sucesso do meu clube?",
+      "ru": "Гарантирует ли использование сгенерированного здесь имени успех моего клуба?"
+      },
+      "answer": {
+      "en": "While a cool name is a great start, success also requires hard work, dedication, and maybe a few late-night study sessions. But hey, having an awesome name certainly can't hurt!",
+      "ar": "بينما الاسم الرائع هو بداية جيدة، النجاح يتطلب أيضًا العمل الجاد والتفاني، وربما بعض جلسات الدراسة في وقت متأخر من الليل. لكن، امتلاك اسم رائع بالتأكيد لن يضر!",
+      "es": "Mientras que un nombre genial es un gran comienzo, el éxito también requiere trabajo duro, dedicación y tal vez algunas sesiones de estudio nocturnas. Pero oye, ¡tener un nombre increíble ciertamente no puede hacer daño!",
+      "fr": "Bien qu'un nom cool soit un bon début, le succès nécessite également du travail acharné, du dévouement et peut-être quelques sessions d'étude tardives. Mais bon, avoir un nom génial ne peut certainement pas faire de mal !",
+      "zh-cn": "虽然一个酷炫的名字是个好的开始，但成功还需要努力工作、奉献精神，也许还需要一些深夜学习。不过，拥有一个很棒的名字肯定不会有坏处！",
+      "ja": "クールな名前は素晴らしいスタートですが、成功にはハードワーク、献身、そしておそらく夜遅くまでの勉強セッションも必要です。でも、素晴らしい名前を持つことは確かに害にはなりません！",
+      "pt": "Embora um nome legal seja um ótimo começo, o sucesso também requer trabalho árduo, dedicação e talvez algumas sessões de estudo noturnas. Mas ei, ter um nome incrível certamente não pode prejudicar!",
+      "ru": "Хотя крутое имя - это отличное начало, успех также требует упорного труда, преданности и, возможно, нескольких ночных учебных сессий. Но эй, наличие потрясающего имени точно не повредит!"
+      }
+    },
+    {
+      "question": {
+      "en": "Can I suggest new prefixes or suffixes for the generator?",
+      "ar": "هل يمكنني اقتراح بادئات أو لاحقات جديدة للمولد؟",
+      "es": "¿Puedo sugerir nuevos prefijos o sufijos para el generador?",
+      "fr": "Puis-je suggérer de nouveaux préfixes ou suffixes pour le générateur?",
+      "zh-cn": "我可以为生成器建议新的前缀或后缀吗？",
+      "ja": "ジェネレーターに新しい接頭辞や接尾辞を提案できますか？",
+      "pt": "Posso sugerir novos prefixos ou sufixos para o gerador?", 
+      "ru": "Могу ли я предложить новые префиксы или суффиксы для генератора?"
+      }
+      ,
+      "answer": {
+        "en": "We'd love that! The more creative inputs we have, the better our generator becomes. Feel free to submit your ideas through our feedback form, and you might just see them in the next update!",
+        "ar": "نود ذلك! كلما زادت المدخلات الإبداعية لدينا، أصبح مولدنا أفضل. لا تتردد في تقديم أفكارك من خلال نموذج التعليقات الخاص بنا، وقد تراها في التحديث التالي!",
+        "es": "¡Nos encantaría! Cuantas más entradas creativas tengamos, mejor será nuestro generador. No dudes en enviar tus ideas a través de nuestro formulario de comentarios, ¡y podrías verlas en la próxima actualización!",
+        "fr": "Nous adorerions ! Plus nous avons d'entrées créatives, meilleur devient notre générateur. N'hésitez pas à soumettre vos idées via notre formulaire de commentaires, et vous pourriez les voir dans la prochaine mise à jour !",
+        "zh-cn": "我们很乐意！我们拥有的创意输入越多，我们的生成器就越好。请随时通过我们的反馈表提交您的想法，您可能会在下一次更新中看到它们！",
+        "ja": "大歓迎です！より多くの創造的な入力があれば、ジェネレーターはさらに良くなります。フィードバックフォームからアイデアを送信してください。次のアップデートで見られるかもしれません！",
+        "pt": "Adoraríamos isso! Quanto mais entradas criativas tivermos, melhor nosso gerador se torna. Sinta-se à vontade para enviar suas ideias através do nosso formulário de feedback, e você pode vê-las na próxima atualização!",
+        "ru": "Мы бы этого хотели! Чем больше творческих вкладов у нас есть, тем лучше становится наш генератор. Не стесняйтесь отправлять свои идеи через нашу форму обратной связи, и вы можете увидеть их в следующем обновлении!"
+      }
+    }
+  ]
+}

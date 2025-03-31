@@ -1,8 +1,3 @@
-d and d name generator
-deity name generator
-fantasy city name generator
-fantasy last name generator
-fantasy town name generator
 god name generator
 halfling name generator
 island name generator

@@ -1,0 +1,206 @@
+{
+  "name": {
+    "en": "Fantasy Last Name Generator",
+    "ar": "مولد ألقاب خيالية",
+    "es": "Generador de Apellidos de Fantasía",
+    "fr": "Générateur de Noms de Famille Fantastiques",
+    "zh-cn": "奇幻姓氏生成器",
+    "ja": "ファンタジー姓ジェネレーター",
+    "pt": "Gerador de Sobrenomes de Fantasia",
+    "ru": "Генератор Фэнтезийных Фамилий"
+  },
+  "description": {
+    "en": "Need a powerful, mystical, or ancient-sounding last name for your fantasy character, story, or game? Our Fantasy Last Name Generator conjures unique and evocative surnames from the realms of magic and myth! Find the perfect fit for your elf, dwarf, wizard, or warrior.",
+    "ar": "هل تحتاج إلى لقب قوي أو غامض أو ذو صدى قديم لشخصيتك الخيالية أو قصتك أو لعبتك؟ مولد الألقاب الخيالية لدينا يستحضر ألقابًا فريدة ومعبرة من عوالم السحر والأساطير! اعثر على اللقب المثالي لجنيك أو قزمك أو ساحرك أو محاربك.",
+    "es": "¿Necesitas un apellido poderoso, místico o que suene antiguo para tu personaje de fantasía, historia o juego? ¡Nuestro Generador de Apellidos de Fantasía conjura apellidos únicos y evocadores de los reinos de la magia y el mito! Encuentra el ajuste perfecto para tu elfo, enano, mago o guerrero.",
+    "fr": "Besoin d'un nom de famille puissant, mystique ou à consonance ancienne pour votre personnage de fantaisie, votre histoire ou votre jeu ? Notre Générateur de Noms de Famille Fantastiques évoque des noms uniques et évocateurs issus des royaumes de la magie et du mythe ! Trouvez celui qui convient parfaitement à votre elfe, nain, sorcier ou guerrier.",
+    "zh-cn": "需要为您的奇幻角色、故事或游戏寻找一个强大、神秘或听起来古老的姓氏吗？我们的奇幻姓氏生成器从魔法和神话领域召唤出独特而富有表现力的姓氏！为您的精灵、矮人、巫师或战士找到完美的姓氏。",
+    "ja": "ファンタジーキャラクター、物語、またはゲームのために、強力で神秘的、または古風な響きの姓が必要ですか？当社のファンタジー姓ジェネレーターは、魔法と神話の領域からユニークで喚情的な姓を呼び出します！エルフ、ドワーフ、魔法使い、または戦士にぴったりの姓を見つけてください。",
+    "pt": "Precisa de um sobrenome poderoso, místico ou com som antigo para seu personagem de fantasia, história ou jogo? Nosso Gerador de Sobrenomes de Fantasia conjura sobrenomes únicos e evocativos dos reinos da magia e do mito! Encontre o ajuste perfeito para seu elfo, anão, mago ou guerreiro.",
+    "ru": "Нужна мощная, мистическая или древне звучащая фамилия для вашего фэнтезийного персонажа, истории или игры? Наш Генератор Фэнтезийных Фамилий создает уникальные и вызывающие воспоминания фамилии из миров магии и мифов! Найдите идеальный вариант для вашего эльфа, гнома, волшебника или воина."
+  },
+  "slug": "fantasy-last-name-generator",
+  "prompt": {
+    "en": "Generate a fantasy last name",
+    "ar": "قم بإنشاء لقب خيالي",
+    "es": "Generar un apellido de fantasía",
+    "fr": "Générer un nom de famille fantastique",
+    "zh-cn": "生成一个奇幻姓氏",
+    "ja": "ファンタジー姓を生成する",
+    "pt": "Gerar um sobrenome de fantasia",
+    "ru": "Сгенерировать фэнтезийную фамилию"
+  },
+  "icon": "🐉",
+  "introduction": {
+    "en": "Step into a world of epic tales and legendary heroes! A great fantasy last name adds depth and authenticity to your characters. Whether you're crafting a noble lineage, a mysterious wanderer, or a fearsome villain, the right surname sets the tone. This generator is your portal to countless possibilities, inspired by folklore, mythology, and pure imagination. Let's find that perfect name to make your character unforgettable!",
+    "ar": "ادخل إلى عالم من الحكايات الملحمية والأبطال الأسطوريين! يضيف اللقب الخيالي الرائع عمقًا وأصالة لشخصياتك. سواء كنت تصوغ سلالة نبيلة، أو مسافرًا غامضًا، أو شريرًا مخيفًا، فإن اللقب الصحيح يحدد النغمة. هذا المولد هو بوابتك إلى إمكانيات لا حصر لها، مستوحاة من الفولكلور والأساطير والخيال الخالص. لنجد ذلك الاسم المثالي لجعل شخصيتك لا تُنسى!",
+    "es": "¡Adéntrate en un mundo de relatos épicos y héroes legendarios! Un gran apellido de fantasía añade profundidad y autenticidad a tus personajes. Ya sea que estés creando un linaje noble, un vagabundo misterioso o un villano temible, el apellido correcto establece el tono. Este generador es tu portal a innumerables posibilidades, inspirado en el folclore, la mitología y la pura imaginación. ¡Encontremos ese nombre perfecto para que tu personaje sea inolvidable!",
+    "fr": "Entrez dans un monde de récits épiques et de héros légendaires ! Un bon nom de famille fantastique ajoute de la profondeur et de l'authenticité à vos personnages. Que vous créiez une lignée noble, un vagabond mystérieux ou un méchant redoutable, le bon nom de famille donne le ton. Ce générateur est votre portail vers d'innombrables possibilités, inspirées du folklore, de la mythologie et de la pure imagination. Trouvons ce nom parfait pour rendre votre personnage inoubliable !",
+    "zh-cn": "踏入史诗故事和传奇英雄的世界！一个出色的奇幻姓氏能为您的角色增添深度和真实感。无论您是在塑造高贵血统、神秘浪子还是可怕反派，正确的姓氏都能奠定基调。这个生成器是您通往无数可能性的大门，灵感来自民间传说、神话和纯粹的想象力。让我们找到那个完美的名字，让您的角色令人难忘！",
+    "ja": "壮大な物語と伝説の英雄の世界へ足を踏み入れましょう！素晴らしいファンタジーの姓は、キャラクターに深みと信憑性を加えます。高貴な血統、神秘的な放浪者、または恐ろしい悪役を作り上げている場合でも、適切な姓が雰囲気を決定します。このジェネレーターは、民間伝承、神話、そして純粋な想像力に触発された、無数の可能性へのポータルです。キャラクターを忘れられないものにする完璧な名前を見つけましょう！",
+    "pt": "Entre em um mundo de contos épicos e heróis lendários! Um ótimo sobrenome de fantasia adiciona profundidade e autenticidade aos seus personagens. Esteja você criando uma linhagem nobre, um andarilho misterioso ou um vilão temível, o sobrenome certo define o tom. Este gerador é o seu portal para inúmeras possibilidades, inspirado no folclore, na mitologia e na pura imaginação. Vamos encontrar aquele nome perfeito para tornar seu personagem inesquecível!",
+    "ru": "Шагните в мир эпических сказаний и легендарных героев! Отличная фэнтезийная фамилия добавляет глубины и аутентичности вашим персонажам. Создаете ли вы благородную родословную, таинственного странника или грозного злодея, правильная фамилия задает тон. Этот генератор — ваш портал к бесчисленным возможностям, вдохновленным фольклором, мифологией и чистым воображением. Давайте найдем то самое идеальное имя, чтобы сделать вашего персонажа незабываемым!"
+  },
+  "howToUse": {
+    "en": [
+      "Simply click the 'Generate' button.",
+      "Behold a unique fantasy last name!",
+      "Not quite right? Click again for another.",
+      "Copy the name you love and bestow it upon your character!"
+    ],
+    "ar": [
+      "ببساطة انقر على زر 'إنشاء'.",
+      "شاهد لقبًا خياليًا فريدًا!",
+      "ليس مناسبًا تمامًا؟ انقر مرة أخرى للحصول على آخر.",
+      "انسخ الاسم الذي تحبه وامنحه لشخصيتك!"
+    ],
+    "es": [
+      "Simplemente haz clic en el botón 'Generar'.",
+      "¡Contempla un apellido de fantasía único!",
+      "¿No es del todo correcto? Haz clic de nuevo para obtener otro.",
+      "¡Copia el nombre que te encanta y otórgalo a tu personaje!"
+    ],
+    "fr": [
+      "Cliquez simplement sur le bouton 'Générer'.",
+      "Admirez un nom de famille fantastique unique !",
+      "Pas tout à fait ça ? Cliquez à nouveau pour en obtenir un autre.",
+      "Copiez le nom que vous aimez et attribuez-le à votre personnage !"
+    ],
+    "zh-cn": [
+      "只需点击“生成”按钮。",
+      "一个独特的奇幻姓氏出现了！",
+      "不太合适？再次点击获取另一个。",
+      "复制您喜欢的姓氏并将其赋予您的角色！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックするだけです。",
+      "ユニークなファンタジーの姓が現れます！",
+      "ちょっと違う？もう一度クリックして別のものを取得します。",
+      "気に入った名前をコピーして、キャラクターに授けましょう！"
+    ],
+    "pt": [
+      "Simplesmente clique no botão 'Gerar'.",
+      "Contemple um sobrenome de fantasia único!",
+      "Não está bem certo? Clique novamente para outro.",
+      "Copie o nome que você ama e conceda-o ao seu personagem!"
+    ],
+    "ru": [
+      "Просто нажмите кнопку 'Сгенерировать'.",
+      "Узрите уникальную фэнтезийную фамилию!",
+      "Не совсем то? Нажмите еще раз для другого варианта.",
+      "Скопируйте понравившееся имя и даруйте его своему персонажу!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Fantasy Last Name Generator free to use?",
+        "ar": "هل مولد الألقاب الخيالية هذا مجاني للاستخدام؟",
+        "es": "¿Es gratuito usar este Generador de Apellidos de Fantasía?",
+        "fr": "Ce Générateur de Noms de Famille Fantastiques est-il gratuit ?",
+        "zh-cn": "这个奇幻姓氏生成器是免费使用的吗？",
+        "ja": "このファンタジー姓ジェネレーターは無料で使用できますか？",
+        "pt": "Este Gerador de Sobrenomes de Fantasia é gratuito?",
+        "ru": "Этот Генератор Фэнтезийных Фамилий бесплатен для использования?"
+      },
+      "answer": {
+        "en": "Yes, completely free! Forge as many legendary surnames as your imagination requires, without spending a single gold coin.",
+        "ar": "نعم، مجاني تمامًا! اصنع أكبر عدد ممكن من الألقاب الأسطورية التي يتطلبها خيالك، دون إنفاق قطعة ذهبية واحدة.",
+        "es": "¡Sí, completamente gratis! Forja tantos apellidos legendarios como requiera tu imaginación, sin gastar una sola moneda de oro.",
+        "fr": "Oui, entièrement gratuit ! Forgez autant de noms de famille légendaires que votre imagination l'exige, sans dépenser une seule pièce d'or.",
+        "zh-cn": "是的，完全免费！根据您的想象力需求，锻造任意数量的传奇姓氏，无需花费一枚金币。",
+        "ja": "はい、完全に無料です！想像力が求める限り、一銭も使わずに伝説的な姓をいくつでも作り出すことができます。",
+        "pt": "Sim, totalmente gratuito! Forje quantos sobrenomes lendários sua imaginação exigir, sem gastar uma única moeda de ouro.",
+        "ru": "Да, совершенно бесплатно! Создавайте столько легендарных фамилий, сколько требует ваше воображение, не тратя ни одной золотой монеты."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these fantasy names for my book/game/RPG character?",
+        "ar": "هل يمكنني استخدام هذه الأسماء الخيالية لكتابي/لعبتي/شخصية RPG الخاصة بي؟",
+        "es": "¿Puedo usar estos nombres de fantasía para mi libro/juego/personaje de RPG?",
+        "fr": "Puis-je utiliser ces noms fantastiques pour mon livre/jeu/personnage de JDR ?",
+        "zh-cn": "我可以将这些奇幻名字用于我的书/游戏/RPG角色吗？",
+        "ja": "これらのファンタジー名を私の本/ゲーム/RPGキャラクターに使用できますか？",
+        "pt": "Posso usar esses nomes de fantasia para meu livro/jogo/personagem de RPG?",
+        "ru": "Могу ли я использовать эти фэнтезийные имена для своей книги/игры/RPG-персонажа?"
+      },
+      "answer": {
+        "en": "Generally, yes! These names are generated for creative inspiration. However, if you're using them for commercial projects, it's wise to check if a specific name is already trademarked in your genre or world.",
+        "ar": "بشكل عام، نعم! تم إنشاء هذه الأسماء للإلهام الإبداعي. ومع ذلك، إذا كنت تستخدمها لمشاريع تجارية، فمن الحكمة التحقق مما إذا كان اسم معين مسجلاً كعلامة تجارية بالفعل في نوعك أو عالمك.",
+        "es": "¡Generalmente, sí! Estos nombres se generan para la inspiración creativa. Sin embargo, si los usas para proyectos comerciales, es prudente verificar si un nombre específico ya está registrado como marca comercial en tu género o mundo.",
+        "fr": "Généralement, oui ! Ces noms sont générés pour l'inspiration créative. Cependant, si vous les utilisez pour des projets commerciaux, il est sage de vérifier si un nom spécifique est déjà une marque déposée dans votre genre ou votre monde.",
+        "zh-cn": "一般来说，可以！这些名字是为了激发创意而生成的。但是，如果您将其用于商业项目，最好检查特定名称是否已在您的类型或世界中被注册商标。",
+        "ja": "一般的には、はい！これらの名前は創造的なインスピレーションのために生成されます。ただし、商業プロジェクトで使用する場合は、特定の名前があなたのジャンルや世界ですでに商標登録されていないか確認するのが賢明です。",
+        "pt": "Geralmente, sim! Estes nomes são gerados para inspiração criativa. No entanto, se você os estiver usando para projetos comerciais, é aconselhável verificar se um nome específico já é marca registrada em seu gênero ou mundo.",
+        "ru": "В целом, да! Эти имена генерируются для творческого вдохновения. Однако, если вы используете их для коммерческих проектов, разумно проверить, не является ли конкретное имя уже зарегистрированным товарным знаком в вашем жанре или мире."
+      }
+    },
+    {
+      "question": {
+        "en": "How many fantasy last names can I generate?",
+        "ar": "كم عدد الألقاب الخيالية التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos apellidos de fantasía puedo generar?",
+        "fr": "Combien de noms de famille fantastiques puis-je générer ?",
+        "zh-cn": "我可以生成多少个奇幻姓氏？",
+        "ja": "いくつのファンタジー姓を生成できますか？",
+        "pt": "Quantos sobrenomes de fantasia posso gerar?",
+        "ru": "Сколько фэнтезийных фамилий я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "An infinite number! Click 'Generate' as many times as you need to find the perfect surname that resonates with your character's story and origins. The well of names is deep!",
+        "ar": "عدد لا حصر له! انقر على 'إنشاء' عدة مرات حسب حاجتك للعثور على اللقب المثالي الذي يتردد صداه مع قصة شخصيتك وأصولها. بئر الأسماء عميق!",
+        "es": "¡Un número infinito! Haz clic en 'Generar' tantas veces como necesites para encontrar el apellido perfecto que resuene con la historia y los orígenes de tu personaje. ¡El pozo de los nombres es profundo!",
+        "fr": "Un nombre infini ! Cliquez sur 'Générer' autant de fois que nécessaire pour trouver le nom de famille parfait qui résonne avec l'histoire et les origines de votre personnage. Le puits des noms est profond !",
+        "zh-cn": "无限数量！根据需要多次点击“生成”，找到与您的角色故事和起源产生共鸣的完美姓氏。名字之井深不可测！",
+        "ja": "無限です！キャラクターの物語や出自に響く完璧な姓を見つけるために、必要なだけ「生成」をクリックしてください。名前の井戸は深いです！",
+        "pt": "Um número infinito! Clique em 'Gerar' quantas vezes precisar para encontrar o sobrenome perfeito que ressoa com a história e as origens do seu personagem. O poço dos nomes é fundo!",
+        "ru": "Бесконечное количество! Нажимайте 'Сгенерировать' столько раз, сколько нужно, чтобы найти идеальную фамилию, которая резонирует с историей и происхождением вашего персонажа. Колодец имен глубок!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated fantasy names good or just random letters?",
+        "ar": "هل الأسماء الخيالية التي تم إنشاؤها جيدة أم مجرد حروف عشوائية؟",
+        "es": "¿Son buenos los nombres de fantasía generados o solo letras al azar?",
+        "fr": "Les noms fantastiques générés sont-ils bons ou juste des lettres aléatoires ?",
+        "zh-cn": "生成的奇幻名字好听吗，还是只是随机字母？",
+        "ja": "生成されたファンタジー名は良いものですか、それとも単なるランダムな文字ですか？",
+        "pt": "Os nomes de fantasia gerados são bons ou apenas letras aleatórias?",
+        "ru": "Сгенерированные фэнтезийные имена хороши или это просто случайные буквы?"
+      },
+      "answer": {
+        "en": "We strive for evocative and fitting names! Our generator uses curated lists of fantasy-themed elements and structures to create names that sound authentic, not just random gibberish. Of course, 'good' is subjective, so keep generating until you find one you love!",
+        "ar": "نحن نسعى جاهدين للحصول على أسماء معبرة ومناسبة! يستخدم مولدنا قوائم منسقة من العناصر والهياكل ذات الطابع الخيالي لإنشاء أسماء تبدو أصيلة، وليست مجرد هراء عشوائي. بالطبع، \"جيد\" أمر شخصي، لذا استمر في الإنشاء حتى تجد اسمًا تحبه!",
+        "es": "¡Nos esforzamos por crear nombres evocadores y apropiados! Nuestro generador utiliza listas seleccionadas de elementos y estructuras de temática fantástica para crear nombres que suenen auténticos, no solo galimatías al azar. Por supuesto, 'bueno' es subjetivo, ¡así que sigue generando hasta que encuentres uno que te encante!",
+        "fr": "Nous nous efforçons de créer des noms évocateurs et appropriés ! Notre générateur utilise des listes organisées d'éléments et de structures à thème fantastique pour créer des noms qui semblent authentiques, pas seulement du charabia aléatoire. Bien sûr, ce qui est « bon » est subjectif, alors continuez à générer jusqu'à ce que vous en trouviez un que vous aimez !",
+        "zh-cn": "我们力求生成富有表现力且合适的名称！我们的生成器使用精选的奇幻主题元素和结构列表来创建听起来真实的名称，而不仅仅是随机的胡言乱语。当然，“好”是主观的，所以请继续生成，直到找到您喜欢的那个！",
+        "ja": "私たちは喚情的で適切な名前を目指しています！当社のジェネレーターは、ファンタジーをテーマにした要素と構造の厳選されたリストを使用して、単なるランダムな意味不明な言葉ではなく、本物らしく聞こえる名前を作成します。「良い」は主観的なものですので、気に入るものが見つかるまで生成し続けてください！",
+        "pt": "Nós nos esforçamos para nomes evocativos e adequados! Nosso gerador usa listas selecionadas de elementos e estruturas com tema de fantasia para criar nomes que soem autênticos, não apenas um monte de letras aleatórias. Claro, 'bom' é subjetivo, então continue gerando até encontrar um que você ame!",
+        "ru": "Мы стремимся к вызывающим воспоминания и подходящим именам! Наш генератор использует тщательно подобранные списки элементов и структур на фэнтезийную тематику для создания имен, которые звучат аутентично, а не просто случайный набор букв. Конечно, «хорошее» — понятие субъективное, поэтому продолжайте генерировать, пока не найдете то, что вам полюбится!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest name elements or styles for the generator?",
+        "ar": "هل يمكنني اقتراح عناصر أو أنماط أسماء للمولد؟",
+        "es": "¿Puedo sugerir elementos o estilos de nombres para el generador?",
+        "fr": "Puis-je suggérer des éléments ou des styles de noms pour le générateur ?",
+        "zh-cn": "我可以为生成器建议名称元素或风格吗？",
+        "ja": "ジェネレーターに名前の要素やスタイルを提案できますか？",
+        "pt": "Posso sugerir elementos ou estilos de nomes para o gerador?",
+        "ru": "Могу ли я предложить элементы или стили имен для генератора?"
+      },
+      "answer": {
+        "en": "Absolutely! We're always looking to expand the generator's repertoire. If you have ideas for specific cultural influences, naming conventions, or cool-sounding parts, please share them via our feedback channels!",
+        "ar": "بالتأكيد! نحن نبحث دائمًا عن توسيع ذخيرة المولد. إذا كانت لديك أفكار لتأثيرات ثقافية محددة، أو أعراف تسمية، أو أجزاء ذات صوت رائع، فيرجى مشاركتها عبر قنوات التعليقات الخاصة بنا!",
+        "es": "¡Absolutamente! Siempre estamos buscando expandir el repertorio del generador. Si tienes ideas sobre influencias culturales específicas, convenciones de nomenclatura o partes que suenen geniales, ¡compártelas a través de nuestros canales de comentarios!",
+        "fr": "Absolument ! Nous cherchons toujours à élargir le répertoire du générateur. Si vous avez des idées d'influences culturelles spécifiques, de conventions de dénomination ou d'éléments qui sonnent bien, veuillez les partager via nos canaux de commentaires !",
+        "zh-cn": "当然！我们一直在寻求扩展生成器的库。如果您对特定的文化影响、命名约定或听起来很酷的部分有想法，请通过我们的反馈渠道分享！",
+        "ja": "もちろんです！私たちは常にジェネレーターのレパートリーを拡大しようとしています。特定の文化的影響、命名規則、またはクールな響きのパーツに関するアイデアがあれば、フィードバックチャネルを通じて共有してください！",
+        "pt": "Com certeza! Estamos sempre procurando expandir o repertório do gerador. Se você tem ideias para influências culturais específicas, convenções de nomenclatura ou partes que soam legais, por favor, compartilhe-as através de nossos canais de feedback!",
+        "ru": "Абсолютно! Мы всегда стремимся расширить репертуар генератора. Если у вас есть идеи относительно конкретных культурных влияний, соглашений об именах или круто звучащих частей, пожалуйста, поделитесь ими через наши каналы обратной связи!"
+      }
+    }
+  ]
+}

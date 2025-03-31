@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Deity Name Generator",
+    "ar": "مولد أسماء الآلهة",
+    "es": "Generador de Nombres de Deidades",
+    "fr": "Générateur de Noms de Divinité",
+    "zh-cn": "神名生成器",
+    "ja": "神名ジェネレーター",
+    "pt": "Gerador de Nomes de Divindades",
+    "ru": "Генератор Имен Божеств"
+  },
+  "description": {
+    "en": "Crafting a pantheon for your fantasy world, naming a powerful character, or just seeking divine inspiration? Our Deity Name Generator conjures epic, mythical, and awe-inspiring names fit for gods and goddesses across any realm! Find the perfect divine moniker.",
+    "ar": "هل تقوم بإنشاء بانثيون لعالمك الخيالي، أو تسمية شخصية قوية، أو تبحث فقط عن إلهام إلهي؟ مولد أسماء الآلهة الخاص بنا يستحضر أسماء ملحمية وأسطورية ومثيرة للإعجاب تليق بالآلهة والإلهات في أي عالم! اعثر على اللقب الإلهي المثالي.",
+    "es": "¿Creando un panteón para tu mundo de fantasía, nombrando a un personaje poderoso o simplemente buscando inspiración divina? ¡Nuestro Generador de Nombres de Deidades conjura nombres épicos, míticos e imponentes dignos de dioses y diosas de cualquier reino! Encuentra el apodo divino perfecto.",
+    "fr": "Vous créez un panthéon pour votre monde fantastique, nommez un personnage puissant ou cherchez simplement l'inspiration divine ? Notre Générateur de Noms de Divinité évoque des noms épiques, mythiques et impressionnants dignes des dieux et déesses de tous les royaumes ! Trouvez le surnom divin parfait.",
+    "zh-cn": "正在为你的奇幻世界构建神系，为强大的角色命名，或者只是寻求神圣的灵感？我们的神名生成器能够召唤出史诗般、神话般、令人敬畏的名字，适合任何领域的神祇！找到完美的圣名。",
+    "ja": "ファンタジー世界のためのパンテオンを作成したり、強力なキャラクターに名前を付けたり、あるいは単に神聖なインスピレーションを求めていますか？私たちの神名ジェネレーターは、あらゆる領域の神々や女神にふさわしい、壮大で神話的で畏敬の念を起こさせる名前を呼び出します！完璧な神の呼称を見つけましょう。",
+    "pt": "Criando um panteão para seu mundo de fantasia, nomeando um personagem poderoso ou apenas buscando inspiração divina? Nosso Gerador de Nomes de Divindades conjura nomes épicos, míticos e inspiradores, adequados para deuses e deusas de qualquer reino! Encontre o nome divino perfeito.",
+    "ru": "Создаете пантеон для своего фэнтезийного мира, даете имя могущественному персонажу или просто ищете божественного вдохновения? Наш Генератор Имен Божеств создает эпические, мифические и внушающие трепет имена, достойные богов и богинь любого царства! Найдите идеальное божественное имя."
+  },
+  "slug": "deity-name-generator",
+  "prompt": {
+    "en": "Generate a deity name",
+    "ar": "قم بإنشاء اسم إله",
+    "es": "Generar un nombre de deidad",
+    "fr": "Générer un nom de divinité",
+    "zh-cn": "生成一个神名",
+    "ja": "神名を生成する",
+    "pt": "Gerar um nome de divindade",
+    "ru": "Сгенерировать имя божества"
+  },
+  "icon": "🏛️",
+  "introduction": {
+    "en": "Step into the realm of the divine! This generator is your portal to crafting names that resonate with power, myth, and ancient lore. Whether you're a writer building worlds, a game master populating pantheons, or simply fascinated by mythology, you'll find names that command respect and spark imagination. Prepare for names ranging from the subtly mystical to the thunderously powerful.",
+    "ar": "ادخل إلى عالم الآلهة! هذا المولد هو بوابتك لصياغة أسماء يتردد صداها بالقوة والأسطورة والمعرفة القديمة. سواء كنت كاتبًا تبني عوالم، أو سيد لعبة يملأ البانثيونات، أو ببساطة مفتونًا بالأساطير، ستجد أسماء تفرض الاحترام وتشعل الخيال. استعد لأسماء تتراوح من الغامضة بمهارة إلى القوية كالرعد.",
+    "es": "¡Adéntrate en el reino de lo divino! Este generador es tu portal para crear nombres que resuenan con poder, mito y saber antiguo. Ya seas un escritor construyendo mundos, un director de juego poblando panteones o simplemente un fascinado por la mitología, encontrarás nombres que imponen respeto y despiertan la imaginación. Prepárate para nombres que van desde lo sutilmente místico hasta lo atronadoramente poderoso.",
+    "fr": "Entrez dans le royaume du divin ! Ce générateur est votre portail pour créer des noms qui résonnent avec la puissance, le mythe et le savoir ancien. Que vous soyez un écrivain construisant des mondes, un maître de jeu peuplant des panthéons, ou simplement fasciné par la mythologie, vous trouverez des noms qui commandent le respect et stimulent l'imagination. Préparez-vous à des noms allant du subtilement mystique au puissamment tonitruant.",
+    "zh-cn": "步入神圣的领域！这个生成器是你打造充满力量、神话和古老知识的名字的传送门。无论你是构建世界的作家、填充万神殿的游戏主持人，还是仅仅对神话着迷，你都会找到那些赢得尊重并激发想象力的名字。准备好迎接从微妙神秘到雷霆万钧的名字吧。",
+    "ja": "神々の領域へ足を踏み入れましょう！このジェネレーターは、力、神話、古代の伝承に共鳴する名前を作り出すためのあなたのポータルです。世界を構築する作家、パンテオンを populate するゲームマスター、または単に神話に魅了されている人であれ、尊敬を集め、想像力をかき立てる名前を見つけるでしょう。微妙に神秘的なものから雷鳴のように強力なものまで、さまざまな名前に備えてください。",
+    "pt": "Entre no reino do divino! Este gerador é o seu portal para criar nomes que ressoam com poder, mito e conhecimento antigo. Quer você seja um escritor construindo mundos, um mestre de jogo populando panteões, ou simplesmente fascinado por mitologia, você encontrará nomes que comandam respeito e despertam a imaginação. Prepare-se para nomes que variam do sutilmente místico ao trovejantemente poderoso.",
+    "ru": "Шагните в царство божественного! Этот генератор — ваш портал для создания имен, которые резонируют с силой, мифом и древним знанием. Будь вы писатель, строящий миры, мастер игры, населяющий пантеоны, или просто увлеченный мифологией, вы найдете имена, которые вызывают уважение и разжигают воображение. Приготовьтесь к именам, варьирующимся от тонко мистических до громоподобно могущественных."
+  },
+  "howToUse": {
+    "en": [
+      "Click the mighty 'Generate' button to summon names.",
+      "Witness a pantheon of potential deity names appear.",
+      "Browse the divine list for inspiration.",
+      "Found a name worthy of legend? Copy it!",
+      "Go forth and bestow this powerful name upon your creation!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' القوي لاستدعاء الأسماء.",
+      "شاهد ظهور بانثيون من أسماء الآلهة المحتملة.",
+      "تصفح القائمة الإلهية للإلهام.",
+      "هل وجدت اسمًا يستحق الأسطورة؟ انسخه!",
+      "انطلق وامنح هذا الاسم القوي لإبداعك!"
+    ],
+    "es": [
+      "Haz clic en el poderoso botón 'Generar' para invocar nombres.",
+      "Observa cómo aparece un panteón de posibles nombres de deidades.",
+      "Navega por la lista divina en busca de inspiración.",
+      "¿Encontraste un nombre digno de leyenda? ¡Cópialo!",
+      "¡Adelante, otorga este poderoso nombre a tu creación!"
+    ],
+    "fr": [
+      "Cliquez sur le puissant bouton 'Générer' pour invoquer des noms.",
+      "Soyez témoin de l'apparition d'un panthéon de noms de divinités potentiels.",
+      "Parcourez la liste divine pour trouver l'inspiration.",
+      "Vous avez trouvé un nom digne de légende ? Copiez-le !",
+      "Allez de l'avant et conférez ce nom puissant à votre création !"
+    ],
+    "zh-cn": [
+      "点击强大的“生成”按钮召唤名字。",
+      "见证潜在的神名万神殿出现。",
+      "浏览神圣列表寻找灵感。",
+      "找到一个配得上成为传奇的名字了吗？复制它！",
+      "去吧，将这个强大的名字赋予你的创造物！"
+    ],
+    "ja": [
+      "強力な「生成」ボタンをクリックして名前を召喚します。",
+      "潜在的な神名のパンテオンが現れるのを目撃してください。",
+      "インスピレーションを得るために神聖なリストを閲覧します。",
+      "伝説に値する名前を見つけましたか？コピーしましょう！",
+      "さあ、この強力な名前をあなたの創造物に授けましょう！"
+    ],
+    "pt": [
+      "Clique no poderoso botão 'Gerar' para invocar nomes.",
+      "Testemunhe um panteão de nomes potenciais de divindades aparecer.",
+      "Navegue pela lista divina em busca de inspiração.",
+      "Encontrou um nome digno de lenda? Copie-o!",
+      "Vá em frente e conceda este nome poderoso à sua criação!"
+    ],
+    "ru": [
+      "Нажмите могучую кнопку 'Создать', чтобы призвать имена.",
+      "Станьте свидетелем появления пантеона потенциальных имен божеств.",
+      "Просмотрите божественный список в поисках вдохновения.",
+      "Нашли имя, достойное легенды? Скопируйте его!",
+      "Идите вперед и даруйте это могущественное имя своему творению!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Deity Name Generator truly free to use?",
+        "ar": "هل مولد أسماء الآلهة هذا مجاني للاستخدام حقًا؟",
+        "es": "¿Es este Generador de Nombres de Deidades realmente gratuito?",
+        "fr": "Ce Générateur de Noms de Divinité est-il vraiment gratuit ?",
+        "zh-cn": "这个神名生成器真的是免费使用的吗？",
+        "ja": "この神名ジェネレーターは本当に無料で使用できますか？",
+        "pt": "Este Gerador de Nomes de Divindades é realmente gratuito?",
+        "ru": "Действительно ли этот Генератор Имен Божеств бесплатен для использования?"
+      },
+      "answer": {
+        "en": "Yes, completely! Forge names for your pantheons and characters without spending a single coin. Generate as many divine names as you need.",
+        "ar": "نعم، تمامًا! اصنع أسماء لبانثيوناتك وشخصياتك دون إنفاق عملة واحدة. قم بإنشاء العديد من الأسماء الإلهية كما تحتاج.",
+        "es": "¡Sí, completamente! Forja nombres para tus panteones y personajes sin gastar una sola moneda. Genera tantos nombres divinos como necesites.",
+        "fr": "Oui, entièrement ! Forgez des noms pour vos panthéons et personnages sans dépenser un seul sou. Générez autant de noms divins que nécessaire.",
+        "zh-cn": "是的，完全免费！为你的神系和角色打造名字，无需花费分文。随心所欲地生成所需的神圣名字。",
+        "ja": "はい、完全に無料です！一銭も使わずに、あなたのパンテオンやキャラクターの名前を作り上げてください。必要なだけ神聖な名前を生成してください。",
+        "pt": "Sim, completamente! Crie nomes para seus panteões e personagens sem gastar uma única moeda. Gere quantos nomes divinos você precisar.",
+        "ru": "Да, полностью! Создавайте имена для своих пантеонов и персонажей, не тратя ни единой монеты. Генерируйте столько божественных имен, сколько вам нужно."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these deity names for my book, game, or other commercial project?",
+        "ar": "هل يمكنني استخدام أسماء الآلهة هذه في كتابي أو لعبتي أو أي مشروع تجاري آخر؟",
+        "es": "¿Puedo usar estos nombres de deidades para mi libro, juego u otro proyecto comercial?",
+        "fr": "Puis-je utiliser ces noms de divinités pour mon livre, jeu ou autre projet commercial ?",
+        "zh-cn": "我可以将这些神名用于我的书籍、游戏或其他商业项目吗？",
+        "ja": "これらの神名を私の本、ゲーム、または他の商業プロジェクトに使用できますか？",
+        "pt": "Posso usar esses nomes de divindades para meu livro, jogo ou outro projeto comercial?",
+        "ru": "Могу ли я использовать эти имена божеств для своей книги, игры или другого коммерческого проекта?"
+      },
+      "answer": {
+        "en": "These names are generated for inspiration. While you can use them, we can't guarantee they are unique or free from existing trademarks. Always research before using a name commercially.",
+        "ar": "يتم إنشاء هذه الأسماء للإلهام. بينما يمكنك استخدامها، لا يمكننا ضمان أنها فريدة أو خالية من العلامات التجارية الحالية. قم دائمًا بالبحث قبل استخدام اسم تجاريًا.",
+        "es": "Estos nombres se generan como inspiración. Si bien puedes usarlos, no podemos garantizar que sean únicos o libres de marcas comerciales existentes. Siempre investiga antes de usar un nombre comercialmente.",
+        "fr": "Ces noms sont générés pour l'inspiration. Bien que vous puissiez les utiliser, nous ne pouvons garantir qu'ils soient uniques ou exempts de marques déposées existantes. Faites toujours des recherches avant d'utiliser un nom commercialement.",
+        "zh-cn": "这些名字是为激发灵感而生成的。虽然你可以使用它们，但我们不能保证它们是独一无二的或没有现有的商标。在商业上使用名称之前，请务必进行研究。",
+        "ja": "これらの名前はインスピレーションのために生成されます。使用することはできますが、それらがユニークであることや既存の商標から自由であることを保証することはできません。商業的に名前を使用する前に、常に調査を行ってください。",
+        "pt": "Esses nomes são gerados para inspiração. Embora você possa usá-los, não podemos garantir que sejam únicos ou livres de marcas registradas existentes. Sempre pesquise antes de usar um nome comercialmente.",
+        "ru": "Эти имена генерируются для вдохновения. Хотя вы можете их использовать, мы не можем гарантировать, что они уникальны или свободны от существующих товарных знаков. Всегда проводите исследование перед коммерческим использованием имени."
+      }
+    },
+    {
+      "question": {
+        "en": "How many divine names can I generate?",
+        "ar": "كم عدد الأسماء الإلهية التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres divinos puedo generar?",
+        "fr": "Combien de noms divins puis-je générer ?",
+        "zh-cn": "我可以生成多少个神圣的名字？",
+        "ja": "いくつの神聖な名前を生成できますか？",
+        "pt": "Quantos nomes divinos posso gerar?",
+        "ru": "Сколько божественных имен я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "The divine wellspring is endless! Generate as many names as you desire. Keep clicking until the perfect moniker reveals itself.",
+        "ar": "النبع الإلهي لا ينضب! قم بإنشاء العديد من الأسماء كما ترغب. استمر في النقر حتى يكشف اللقب المثالي عن نفسه.",
+        "es": "¡El manantial divino es infinito! Genera tantos nombres como desees. Sigue haciendo clic hasta que se revele el apodo perfecto.",
+        "fr": "La source divine est infinie ! Générez autant de noms que vous le désirez. Continuez à cliquer jusqu'à ce que le surnom parfait se révèle.",
+        "zh-cn": "神圣的源泉是无穷无尽的！随心所欲地生成任意数量的名字。继续点击，直到完美的称号显现。",
+        "ja": "神聖な源泉は無限です！望むだけ多くの名前を生成してください。完璧な呼称が現れるまでクリックし続けてください。",
+        "pt": "A fonte divina é infinita! Gere quantos nomes desejar. Continue clicando até que o nome perfeito se revele.",
+        "ru": "Божественный источник бесконечен! Генерируйте столько имен, сколько пожелаете. Продолжайте нажимать, пока не откроется идеальное имя."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated deity names based on real mythology?",
+        "ar": "هل أسماء الآلهة التي تم إنشاؤها تستند إلى أساطير حقيقية؟",
+        "es": "¿Los nombres de deidades generados se basan en mitología real?",
+        "fr": "Les noms de divinités générés sont-ils basés sur la mythologie réelle ?",
+        "zh-cn": "生成的神名是基于真实神话的吗？",
+        "ja": "生成された神名は実際の神話に基づいていますか？",
+        "pt": "Os nomes de divindades gerados são baseados em mitologia real?",
+        "ru": "Основаны ли сгенерированные имена божеств на реальной мифологии?"
+      },
+      "answer": {
+        "en": "They are inspired by mythological naming conventions, sounds, and themes from various cultures, but are generally original creations designed for fantasy and creative use. You might find echoes of real myths, but they are not direct copies.",
+        "ar": "إنها مستوحاة من أعراف التسمية الأسطورية والأصوات والمواضيع من ثقافات مختلفة، ولكنها بشكل عام إبداعات أصلية مصممة للخيال والاستخدام الإبداعي. قد تجد أصداء لأساطير حقيقية، لكنها ليست نسخًا مباشرة.",
+        "es": "Están inspirados en convenciones de nombres mitológicos, sonidos y temas de diversas culturas, pero generalmente son creaciones originales diseñadas para la fantasía y el uso creativo. Puedes encontrar ecos de mitos reales, pero no son copias directas.",
+        "fr": "Ils sont inspirés des conventions de dénomination mythologiques, des sons et des thèmes de diverses cultures, mais sont généralement des créations originales conçues pour la fantaisie et l'usage créatif. Vous pourriez trouver des échos de mythes réels, mais ce ne sont pas des copies directes.",
+        "zh-cn": "它们受到来自不同文化的神话命名惯例、发音和主题的启发，但通常是为奇幻和创意用途设计的原创作品。你可能会发现真实神话的回响，但它们不是直接复制。",
+        "ja": "それらは様々な文化の神話的な命名規則、音、テーマに触発されていますが、一般的にはファンタジーや創造的な使用のために設計されたオリジナルの創作物です。実際の神話の響きを見つけるかもしれませんが、直接的なコピーではありません。",
+        "pt": "Eles são inspirados por convenções de nomenclatura mitológica, sons e temas de várias culturas, mas geralmente são criações originais projetadas para fantasia e uso criativo. Você pode encontrar ecos de mitos reais, mas não são cópias diretas.",
+        "ru": "Они вдохновлены мифологическими традициями именования, звуками и темами из различных культур, но в целом являются оригинальными творениями, предназначенными для фэнтези и творческого использования. Вы можете найти отголоски реальных мифов, но это не прямые копии."
+      }
+    },
+    {
+      "question": {
+        "en": "Will using a name generated here make my story/game world epic?",
+        "ar": "هل استخدام اسم تم إنشاؤه هنا سيجعل قصتي/عالم لعبتي ملحميًا؟",
+        "es": "¿Usar un nombre generado aquí hará que mi historia/mundo de juego sea épico?",
+        "fr": "L'utilisation d'un nom généré ici rendra-t-elle mon histoire/monde de jeu épique ?",
+        "zh-cn": "使用在这里生成的名字能让我的故事/游戏世界变得史诗般宏大吗？",
+        "ja": "ここで生成された名前を使用すると、私のストーリー/ゲーム世界は壮大になりますか？",
+        "pt": "Usar um nome gerado aqui tornará minha história/mundo de jogo épico?",
+        "ru": "Сделает ли использование сгенерированного здесь имени мой сюжет/игровой мир эпичным?"
+      },
+      "answer": {
+        "en": "A powerful name is a fantastic start! However, true epicness comes from your world-building, character development, and storytelling. Think of the name as the divine spark, but you provide the cosmic fire!",
+        "ar": "الاسم القوي هو بداية رائعة! ومع ذلك، تأتي الملحمية الحقيقية من بناء عالمك وتطوير شخصياتك ورواية قصصك. فكر في الاسم على أنه الشرارة الإلهية، لكنك من يوفر النار الكونية!",
+        "es": "¡Un nombre poderoso es un comienzo fantástico! Sin embargo, la verdadera epicidad proviene de tu construcción de mundos, desarrollo de personajes y narración. ¡Piensa en el nombre como la chispa divina, pero tú proporcionas el fuego cósmico!",
+        "fr": "Un nom puissant est un début fantastique ! Cependant, la véritable épopée vient de votre construction de monde, du développement de vos personnages et de votre narration. Considérez le nom comme l'étincelle divine, mais c'est vous qui fournissez le feu cosmique !",
+        "zh-cn": "一个强大的名字是一个绝佳的开始！然而，真正的史诗感来自于你的世界构建、角色发展和故事叙述。把这个名字看作是神圣的火花，但宇宙之火需要你来提供！",
+        "ja": "強力な名前は素晴らしいスタートです！しかし、真の壮大さはあなたの世界構築、キャラクター開発、ストーリーテリングから生まれます。名前は神聖な火花と考えてください、しかし宇宙の火を提供するのはあなたです！",
+        "pt": "Um nome poderoso é um começo fantástico! No entanto, a verdadeira grandiosidade épica vem da sua construção de mundo, desenvolvimento de personagens e narrativa. Pense no nome como a centelha divina, mas você fornece o fogo cósmico!",
+        "ru": "Могущественное имя — это фантастическое начало! Однако истинная эпичность исходит от вашего миропостроения, развития персонажей и повествования. Думайте об имени как о божественной искре, но вы обеспечиваете космический огонь!"
+      }
+    }
+  ]
+}

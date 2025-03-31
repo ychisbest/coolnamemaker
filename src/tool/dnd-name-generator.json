@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "D&D Name Generator",
+    "ar": "مولد أسماء D&D",
+    "es": "Generador de Nombres D&D",
+    "fr": "Générateur de Noms D&D",
+    "zh-cn": "龙与地下城名称生成器",
+    "ja": "D&D名前ジェネレーター",
+    "pt": "Gerador de Nomes D&D",
+    "ru": "Генератор Имен D&D"
+  },
+  "description": {
+    "en": "Forge legendary identities! Whether you need a name for a stoic Dwarf warrior, a cunning Elf rogue, a mysterious tavern, or an ancient artifact, our D&D Name Generator summons countless options from the realms of fantasy. Roll for initiative on naming!",
+    "ar": "اصنع هويات أسطورية! سواء كنت بحاجة إلى اسم لمحارب قزم رواقي، أو لص إلف ماكر، أو حانة غامضة، أو قطعة أثرية قديمة، فإن مولد أسماء D&D الخاص بنا يستحضر خيارات لا حصر لها من عوالم الخيال. ابدأ المبادرة في التسمية!",
+    "es": "¡Forja identidades legendarias! Ya sea que necesites un nombre para un estoico guerrero enano, un astuto pícaro elfo, una taberna misteriosa o un artefacto antiguo, nuestro Generador de Nombres D&D invoca innumerables opciones de los reinos de la fantasía. ¡Tira iniciativa para nombrar!",
+    "fr": "Forgez des identités légendaires ! Que vous ayez besoin d'un nom pour un guerrier nain stoïque, un voleur elfe rusé, une taverne mystérieuse ou un artefact ancien, notre Générateur de Noms D&D invoque d'innombrables options issues des royaumes de la fantaisie. Lancez l'initiative pour le nommage !",
+    "zh-cn": "铸造传奇身份！无论您需要为坚忍的矮人战士、狡猾的精灵盗贼、神秘的酒馆还是古老的宝物命名，我们的龙与地下城名称生成器都能从奇幻领域召唤出无数选项。为命名投先攻吧！",
+    "ja": "伝説的なアイデンティティを鍛え上げましょう！寡黙なドワーフの戦士、狡猾なエルフのローグ、神秘的な酒場、古代のアーティファクトの名前が必要な場合でも、当社のD&D名前ジェネレーターはファンタジーの領域から無数の選択肢を召喚します。命名のイニシアチブをロールしましょう！",
+    "pt": "Forje identidades lendárias! Quer precise de um nome para um guerreiro Anão estoico, um ladino Elfo astuto, uma taverna misteriosa ou um artefato antigo, nosso Gerador de Nomes D&D invoca inúmeras opções dos reinos da fantasia. Role iniciativa para nomear!",
+    "ru": "Создавайте легендарные личности! Нужен ли вам имя для стоического гнома-воина, хитрого эльфа-плута, таинственной таверны или древнего артефакта, наш Генератор Имен D&D призывает бесчисленные варианты из миров фэнтези. Бросайте инициативу на именование!"
+  },
+  "slug": "dnd-name-generator",
+  "prompt": {
+    "en": "Generate a D&D Name",
+    "ar": "قم بإنشاء اسم D&D",
+    "es": "Generar un nombre D&D",
+    "fr": "Générer un nom D&D",
+    "zh-cn": "生成一个龙与地下城名称",
+    "ja": "D&Dの名前を生成する",
+    "pt": "Gerar um nome D&D",
+    "ru": "Сгенерировать имя D&D"
+  },
+  "icon": "🐉",
+  "introduction": {
+    "en": "Stuck staring at a blank character sheet or map? Banish naming paralysis forever! This generator is your portal to a multiverse of names perfect for heroes, villains, locations, magic items, and anything else your campaign needs. Find that epic, evocative name that sparks imagination and brings your world to life.",
+    "ar": "هل تحدق في ورقة شخصية فارغة أو خريطة؟ تخلص من شلل التسمية إلى الأبد! هذا المولد هو بوابتك إلى أكوان متعددة من الأسماء المثالية للأبطال والأشرار والمواقع والعناصر السحرية وأي شيء آخر تحتاجه حملتك. اعثر على ذلك الاسم الملحمي المثير الذي يشعل الخيال ويجلب عالمك إلى الحياة.",
+    "es": "¿Atascado mirando una hoja de personaje o un mapa en blanco? ¡Destierra la parálisis de nombres para siempre! Este generador es tu portal a un multiverso de nombres perfectos para héroes, villanos, lugares, objetos mágicos y cualquier otra cosa que necesite tu campaña. Encuentra ese nombre épico y evocador que despierte la imaginación y dé vida a tu mundo.",
+    "fr": "Bloqué devant une feuille de personnage ou une carte vierge ? Bannissez la paralysie du nommage pour toujours ! Ce générateur est votre portail vers un multivers de noms parfaits pour les héros, les méchants, les lieux, les objets magiques et tout ce dont votre campagne a besoin. Trouvez ce nom épique et évocateur qui enflamme l'imagination et donne vie à votre monde.",
+    "zh-cn": "还在盯着空白的角色卡或地图发愁？永远告别命名困难！这个生成器是您通往多元宇宙的传送门，充满了适合英雄、反派、地点、魔法物品以及您战役所需任何事物的完美名称。找到那个能激发想象力、让您的世界栩栩如生的史诗般、令人回味的名字吧。",
+    "ja": "空白のキャラクターシートや地図をじっと見つめて行き詰まっていませんか？名前付けの麻痺を永遠に追放しましょう！このジェネレーターは、ヒーロー、悪役、場所、魔法のアイテム、その他キャンペーンに必要なものすべてに最適な名前のマルチバースへのポータルです。想像力をかき立て、あなたの世界に命を吹き込む、その壮大で喚起的な名前を見つけてください。",
+    "pt": "Preso olhando para uma ficha de personagem ou mapa em branco? Acabe com a paralisia de nomes para sempre! Este gerador é o seu portal para um multiverso de nomes perfeitos para heróis, vilões, locais, itens mágicos e qualquer outra coisa que sua campanha precise. Encontre aquele nome épico e evocativo que desperta a imaginação e dá vida ao seu mundo.",
+    "ru": "Застряли, глядя на пустой лист персонажа или карту? Избавьтесь от паралича именования навсегда! Этот генератор — ваш портал в мультивселенную имен, идеально подходящих для героев, злодеев, локаций, магических предметов и всего остального, что нужно вашей кампании. Найдите то эпическое, вызывающее воспоминания имя, которое разжигает воображение и оживляет ваш мир."
+  },
+  "howToUse": {
+    "en": [
+      "Simply click the 'Generate' button.",
+      "Behold a name summoned from the ether!",
+      "Not quite right? Click again for a new incantation.",
+      "Found the perfect moniker? Copy it and claim your legend!",
+      "Go forth and weave this name into your epic D&D saga!"
+    ],
+    "ar": [
+      "ببساطة انقر على زر 'إنشاء'.",
+      "شاهد اسمًا تم استدعاؤه من الأثير!",
+      "ليس مناسبًا تمامًا؟ انقر مرة أخرى لتعويذة جديدة.",
+      "وجدت اللقب المثالي؟ انسخه واعلن أسطورتك!",
+      "انطلق ونسج هذا الاسم في ملحمتك D&D الملحمية!"
+    ],
+    "es": [
+      "Simplemente haz clic en el botón 'Generar'.",
+      "¡Contempla un nombre invocado desde el éter!",
+      "¿No es del todo correcto? Haz clic de nuevo para una nueva invocación.",
+      "¿Encontraste el apodo perfecto? ¡Cópialo y reclama tu leyenda!",
+      "¡Adelante, teje este nombre en tu épica saga de D&D!"
+    ],
+    "fr": [
+      "Cliquez simplement sur le bouton 'Générer'.",
+      "Contemplez un nom invoqué depuis l'éther !",
+      "Pas tout à fait ça ? Cliquez à nouveau pour une nouvelle incantation.",
+      "Trouvé le surnom parfait ? Copiez-le et revendiquez votre légende !",
+      "Allez de l'avant et tissez ce nom dans votre saga D&D épique !"
+    ],
+    "zh-cn": [
+      "只需点击“生成”按钮。",
+      "见证一个从以太中召唤出的名字！",
+      "不太合适？再次点击以获得新的咒语。",
+      "找到完美的称号了吗？复制它并宣告您的传奇！",
+      "前进吧，将这个名字编织进您史诗般的龙与地下城传奇中！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックするだけです。",
+      "エーテルから召喚された名前をご覧ください！",
+      "ちょっと違う？もう一度クリックして新しい呪文を唱えましょう。",
+      "完璧な名前を見つけましたか？コピーしてあなたの伝説を主張しましょう！",
+      "さあ、この名前をあなたの壮大なD&Dサーガに織り込みましょう！"
+    ],
+    "pt": [
+      "Simplesmente clique no botão 'Gerar'.",
+      "Contemple um nome invocado do éter!",
+      "Não está bem certo? Clique novamente para uma nova invocação.",
+      "Encontrou o apelido perfeito? Copie-o e reivindique sua lenda!",
+      "Vá em frente e teça este nome em sua saga épica de D&D!"
+    ],
+    "ru": [
+      "Просто нажмите кнопку 'Сгенерировать'.",
+      "Узрите имя, призванное из эфира!",
+      "Не совсем то? Нажмите еще раз для нового заклинания.",
+      "Нашли идеальное прозвище? Скопируйте его и заявите о своей легенде!",
+      "Вперед, вплетите это имя в вашу эпическую сагу D&D!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this D&D Name Generator free to use?",
+        "ar": "هل مولد أسماء D&D هذا مجاني للاستخدام؟",
+        "es": "¿Es gratuito usar este Generador de Nombres D&D?",
+        "fr": "Ce Générateur de Noms D&D est-il gratuit ?",
+        "zh-cn": "这个龙与地下城名称生成器是免费使用的吗？",
+        "ja": "このD&D名前ジェネレーターは無料で使用できますか？",
+        "pt": "Este Gerador de Nomes D&D é gratuito?",
+        "ru": "Этот Генератор Имен D&D бесплатный?"
+      },
+      "answer": {
+        "en": "Absolutely! Consider it a gift from the RNG gods. Generate as many names as you need for your adventures, completely free.",
+        "ar": "بالتأكيد! اعتبرها هدية من آلهة RNG. قم بإنشاء أكبر عدد تريده من الأسماء لمغامراتك، مجانًا تمامًا.",
+        "es": "¡Absolutamente! Considéralo un regalo de los dioses del RNG. Genera tantos nombres como necesites para tus aventuras, completamente gratis.",
+        "fr": "Absolument ! Considérez cela comme un cadeau des dieux du RNG. Générez autant de noms que nécessaire pour vos aventures, entièrement gratuitement.",
+        "zh-cn": "当然！把它当作是随机数之神的礼物吧。您可以完全免费地为您的冒险生成任意数量的名称。",
+        "ja": "もちろんです！これはRNGの神々からの贈り物と考えてください。冒険に必要なだけ、完全に無料で名前を生成してください。",
+        "pt": "Com certeza! Considere um presente dos deuses do RNG. Gere quantos nomes precisar para suas aventuras, totalmente grátis.",
+        "ru": "Абсолютно! Считайте это подарком от богов ГСЧ. Генерируйте столько имен, сколько вам нужно для ваших приключений, совершенно бесплатно."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my character, campaign, or stream?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لشخصيتي أو حملتي أو بثي؟",
+        "es": "¿Puedo usar estos nombres para mi personaje, campaña o transmisión?",
+        "fr": "Puis-je utiliser ces noms pour mon personnage, ma campagne ou mon stream ?",
+        "zh-cn": "我可以将这些名称用于我的角色、战役或直播吗？",
+        "ja": "これらの名前を自分のキャラクター、キャンペーン、またはストリームに使用できますか？",
+        "pt": "Posso usar esses nomes para meu personagem, campanha ou stream?",
+        "ru": "Могу ли я использовать эти имена для своего персонажа, кампании или стрима?"
+      },
+      "answer": {
+        "en": "Yes, please do! These names are intended for personal use in your games, stories, and streams. However, we can't guarantee uniqueness or trademark status if you plan to use them in commercial products.",
+        "ar": "نعم، من فضلك افعل! هذه الأسماء مخصصة للاستخدام الشخصي في ألعابك وقصصك وبثك. ومع ذلك، لا يمكننا ضمان التفرد أو حالة العلامة التجارية إذا كنت تخطط لاستخدامها في منتجات تجارية.",
+        "es": "¡Sí, por favor! Estos nombres están destinados al uso personal en tus partidas, historias y transmisiones. Sin embargo, no podemos garantizar la unicidad o el estado de marca registrada si planeas usarlos en productos comerciales.",
+        "fr": "Oui, s'il vous plaît ! Ces noms sont destinés à un usage personnel dans vos jeux, histoires et streams. Cependant, nous ne pouvons garantir l'unicité ou le statut de marque déposée si vous prévoyez de les utiliser dans des produits commerciaux.",
+        "zh-cn": "是的，请随意使用！这些名称旨在用于您的游戏、故事和直播等个人用途。但是，如果您计划将它们用于商业产品，我们无法保证其独特性或商标状态。",
+        "ja": "はい、どうぞ！これらの名前は、ゲーム、ストーリー、ストリームでの個人的な使用を目的としています。ただし、商用製品で使用する予定がある場合、独自性や商標ステータスを保証することはできません。",
+        "pt": "Sim, por favor! Estes nomes destinam-se ao uso pessoal em seus jogos, histórias e streams. No entanto, não podemos garantir a exclusividade ou o status de marca registrada se você planeja usá-los em produtos comerciais.",
+        "ru": "Да, пожалуйста! Эти имена предназначены для личного использования в ваших играх, историях и стримах. Однако мы не можем гарантировать уникальность или статус товарного знака, если вы планируете использовать их в коммерческих продуктах."
+      }
+    },
+    {
+      "question": {
+        "en": "What types of names does the generator create?",
+        "ar": "ما أنواع الأسماء التي ينشئها المولد؟",
+        "es": "¿Qué tipos de nombres crea el generador?",
+        "fr": "Quels types de noms le générateur crée-t-il ?",
+        "zh-cn": "生成器会创建哪些类型的名称？",
+        "ja": "ジェネレーターはどのような種類の名前を作成しますか？",
+        "pt": "Que tipos de nomes o gerador cria?",
+        "ru": "Какие типы имен создает генератор?"
+      },
+      "answer": {
+        "en": "It conjures a wide variety! You'll find names suitable for different fantasy races (Elves, Dwarves, Orcs, Humans, etc.), places (cities, dungeons, taverns), items (swords, potions, artifacts), and more. Keep generating to see the diversity!",
+        "ar": "إنه يستحضر مجموعة متنوعة واسعة! ستجد أسماء مناسبة لأجناس خيالية مختلفة (الجان، الأقزام، الأورك، البشر، إلخ)، الأماكن (المدن، الأبراج المحصنة، الحانات)، العناصر (السيوف، الجرعات، القطع الأثرية)، والمزيد. استمر في الإنشاء لترى التنوع!",
+        "es": "¡Conjura una amplia variedad! Encontrarás nombres adecuados para diferentes razas de fantasía (Elfos, Enanos, Orcos, Humanos, etc.), lugares (ciudades, mazmorras, tabernas), objetos (espadas, pociones, artefactos) y más. ¡Sigue generando para ver la diversidad!",
+        "fr": "Il conjure une grande variété ! Vous trouverez des noms adaptés à différentes races fantastiques (Elfes, Nains, Orques, Humains, etc.), des lieux (villes, donjons, tavernes), des objets (épées, potions, artefacts), et plus encore. Continuez à générer pour voir la diversité !",
+        "zh-cn": "它能召唤出各种各样的名字！您会发现适合不同奇幻种族（精灵、矮人、兽人、人类等）、地点（城市、地牢、酒馆）、物品（剑、药水、神器）等的名称。继续生成以查看多样性！",
+        "ja": "多種多様な名前を呼び出します！さまざまなファンタジー種族（エルフ、ドワーフ、オーク、人間など）、場所（都市、ダンジョン、酒場）、アイテム（剣、ポーション、アーティファクト）などに適した名前が見つかります。多様性を確認するために生成し続けてください！",
+        "pt": "Ele conjura uma grande variedade! Você encontrará nomes adequados para diferentes raças de fantasia (Elfos, Anões, Orcs, Humanos, etc.), lugares (cidades, masmorras, tavernas), itens (espadas, poções, artefatos) e muito mais. Continue gerando para ver a diversidade!",
+        "ru": "Он вызывает самое широкое разнообразие! Вы найдете имена, подходящие для различных фэнтезийных рас (эльфов, гномов, орков, людей и т.д.), мест (городов, подземелий, таверн), предметов (мечей, зелий, артефактов) и многого другого. Продолжайте генерировать, чтобы увидеть разнообразие!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are the names unique every time?",
+        "ar": "هل الأسماء فريدة في كل مرة؟",
+        "es": "¿Son los nombres únicos cada vez?",
+        "fr": "Les noms sont-ils uniques à chaque fois ?",
+        "zh-cn": "每次生成的名称都是独一无二的吗？",
+        "ja": "名前は毎回ユニークですか？",
+        "pt": "Os nomes são únicos toda vez?",
+        "ru": "Имена уникальны каждый раз?"
+      },
+      "answer": {
+        "en": "While the generator uses randomization and a large pool of components, there's always a small chance of repetition, especially with common fantasy elements. If you get a duplicate or something too similar, just generate again!",
+        "ar": "بينما يستخدم المولد العشوائية ومجموعة كبيرة من المكونات، هناك دائمًا فرصة صغيرة للتكرار، خاصة مع عناصر الخيال الشائعة. إذا حصلت على نسخة مكررة أو شيء مشابه جدًا، فقط قم بالإنشاء مرة أخرى!",
+        "es": "Aunque el generador utiliza aleatorización y un gran conjunto de componentes, siempre existe una pequeña posibilidad de repetición, especialmente con elementos de fantasía comunes. Si obtienes un duplicado o algo demasiado similar, ¡simplemente genera de nuevo!",
+        "fr": "Bien que le générateur utilise la randomisation et un grand pool de composants, il y a toujours une petite chance de répétition, en particulier avec des éléments fantastiques courants. Si vous obtenez un doublon ou quelque chose de trop similaire, générez simplement à nouveau !",
+        "zh-cn": "虽然生成器使用随机化和大量的组件库，但总有很小的重复几率，特别是对于常见的奇幻元素。如果您得到重复或过于相似的名称，只需再次生成即可！",
+        "ja": "ジェネレーターはランダム化と多数のコンポーネントプールを使用していますが、特に一般的なファンタジー要素では、繰り返しの可能性が常にわずかにあります。重複したものや似すぎたものを取得した場合は、もう一度生成してください！",
+        "pt": "Embora o gerador use randomização e um grande conjunto de componentes, sempre há uma pequena chance de repetição, especialmente com elementos comuns de fantasia. Se você obtiver um duplicado ou algo muito semelhante, basta gerar novamente!",
+        "ru": "Хотя генератор использует рандомизацию и большой набор компонентов, всегда есть небольшая вероятность повторения, особенно с общими фэнтезийными элементами. Если вы получите дубликат или что-то слишком похожее, просто сгенерируйте снова!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I influence the type of name generated (e.g., more Elvish)?",
+        "ar": "هل يمكنني التأثير على نوع الاسم الذي تم إنشاؤه (على سبيل المثال، المزيد من الأسماء الإلفية)؟",
+        "es": "¿Puedo influir en el tipo de nombre generado (p. ej., más élfico)?",
+        "fr": "Puis-je influencer le type de nom généré (par exemple, plus elfique) ?",
+        "zh-cn": "我可以影响生成的名称类型吗（例如，更精灵化）？",
+        "ja": "生成される名前の種類に影響を与えることはできますか（例：もっとエルフ風に）？",
+        "pt": "Posso influenciar o tipo de nome gerado (por exemplo, mais élfico)?",
+        "ru": "Могу ли я повлиять на тип генерируемого имени (например, более эльфийское)?"
+      },
+      "answer": {
+        "en": "Currently, the generator provides a broad mix. While specific filters aren't available yet, the names often hint at fantasy origins. Keep clicking, and you'll likely find names that fit the Elvish (or Dwarvish, Orcish, etc.) vibe you're looking for!",
+        "ar": "حاليًا، يوفر المولد مزيجًا واسعًا. بينما لا تتوفر مرشحات محددة بعد، غالبًا ما تلمح الأسماء إلى أصول خيالية. استمر في النقر، ومن المحتمل أن تجد أسماء تناسب الأجواء الإلفية (أو القزمية، الأوركية، إلخ) التي تبحث عنها!",
+        "es": "Actualmente, el generador proporciona una mezcla amplia. Aunque todavía no hay filtros específicos disponibles, los nombres a menudo insinúan orígenes de fantasía. ¡Sigue haciendo clic y probablemente encontrarás nombres que se ajusten al ambiente élfico (o enano, orco, etc.) que estás buscando!",
+        "fr": "Actuellement, le générateur fournit un large mélange. Bien qu'aucun filtre spécifique ne soit encore disponible, les noms suggèrent souvent des origines fantastiques. Continuez à cliquer, et vous trouverez probablement des noms qui correspondent à l'ambiance elfique (ou naine, orque, etc.) que vous recherchez !",
+        "zh-cn": "目前，生成器提供广泛的混合结果。虽然尚未提供特定的过滤器，但名称通常会暗示其奇幻起源。继续点击，您很可能会找到符合您正在寻找的精灵（或矮人、兽人等）风格的名称！",
+        "ja": "現在、ジェネレーターは幅広いミックスを提供しています。特定のフィルターはまだ利用できませんが、名前はしばしばファンタジーの起源を示唆しています。クリックし続けると、探しているエルフ（またはドワーフ、オークなど）の雰囲気に合う名前が見つかる可能性があります！",
+        "pt": "Atualmente, o gerador fornece uma mistura ampla. Embora filtros específicos ainda não estejam disponíveis, os nomes geralmente sugerem origens de fantasia. Continue clicando e você provavelmente encontrará nomes que se encaixam na vibe élfica (ou anã, órquica, etc.) que você está procurando!",
+        "ru": "В настоящее время генератор предоставляет широкий спектр имен. Хотя конкретные фильтры пока недоступны, имена часто намекают на фэнтезийное происхождение. Продолжайте нажимать, и вы, вероятно, найдете имена, которые соответствуют эльфийской (или гномьей, оркской и т. д.) атмосфере, которую вы ищете!"
+      }
+    }
+  ]
+}

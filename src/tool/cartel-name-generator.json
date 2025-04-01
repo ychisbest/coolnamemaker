@@ -1,0 +1,192 @@
+{
+  "name": {
+    "en": "Cartel Name Generator",
+    "ar": "مولد أسماء الكارتلات",
+    "es": "Generador de Nombres de Cártel",
+    "fr": "Générateur de Noms de Cartel",
+    "zh-cn": "卡特尔名称生成器",
+    "ja": "カルテル名ジェネレーター",
+    "pt": "Gerador de Nomes de Cartel",
+    "ru": "Генератор Названий Картелей"
+  },
+  "description": {
+    "en": "Need a name that commands respect and strikes fear? Our Cartel Name Generator crafts powerful, intimidating, and unforgettable names perfect for your fictional syndicate, game clan, or any organization that needs an edge. Find the name that defines your empire.",
+    "ar": "هل تحتاج إلى اسم يفرض الاحترام ويبث الخوف؟ مولد أسماء الكارتلات لدينا يصنع أسماء قوية ومخيفة ولا تُنسى، مثالية لنقابتك الخيالية أو عشيرة الألعاب أو أي منظمة تحتاج إلى ميزة. اعثر على الاسم الذي يحدد إمبراطوريتك.",
+    "es": "¿Necesitas un nombre que imponga respeto e infunda miedo? Nuestro Generador de Nombres de Cártel crea nombres poderosos, intimidantes e inolvidables, perfectos para tu sindicato ficticio, clan de juego o cualquier organización que necesite una ventaja. Encuentra el nombre que defina tu imperio.",
+    "fr": "Besoin d'un nom qui impose le respect et inspire la peur ? Notre Générateur de Noms de Cartel crée des noms puissants, intimidants et inoubliables, parfaits pour votre syndicat fictif, clan de jeu ou toute organisation nécessitant un avantage. Trouvez le nom qui définira votre empire.",
+    "zh-cn": "需要一个既能赢得尊重又能令人恐惧的名字吗？我们的卡特尔名称生成器可以打造强大、令人生畏且令人难忘的名称，非常适合您虚构的辛迪加、游戏部落或任何需要优势的组织。找到定义您帝国的名称。",
+    "ja": "尊敬を集め、恐怖を与える名前が必要ですか？当社のカルテル名ジェネレーターは、架空のシンジケート、ゲームクラン、またはエッジが必要なあらゆる組織に最適な、強力で威圧的で忘れられない名前を作成します。あなたの帝国を定義する名前を見つけてください。",
+    "pt": "Precisa de um nome que imponha respeito e cause medo? Nosso Gerador de Nomes de Cartel cria nomes poderosos, intimidadores e inesquecíveis, perfeitos para seu sindicato fictício, clã de jogo ou qualquer organização que precise de uma vantagem. Encontre o nome que define seu império.",
+    "ru": "Нужно имя, которое внушает уважение и страх? Наш Генератор Названий Картелей создает мощные, пугающие и незабываемые имена, идеально подходящие для вашего вымышленного синдиката, игрового клана или любой организации, которой нужно преимущество. Найдите имя, которое определит вашу империю."
+  },
+  "slug": "cartel-name-generator",
+  "prompt": {
+    "en": "Generate a cartel name",
+    "ar": "قم بإنشاء اسم كارتل",
+    "es": "Generar un nombre de cártel",
+    "fr": "Générer un nom de cartel",
+    "zh-cn": "生成一个卡特尔名称",
+    "ja": "カルテル名を生成する",
+    "pt": "Gerar um nome de cartel",
+    "ru": "Сгенерировать название картеля"
+  },
+  "icon": "💰",
+  "introduction": {
+    "en": "Step into the shadows and forge an identity that resonates with power. This generator isn't just about names; it's about crafting a legend. Whether for storytelling, gaming, or creative projects, find names that evoke mystery, dominance, and unwavering resolve. Discover the perfect alias for your underworld enterprise.",
+    "ar": "ادخل إلى الظلال وشكل هوية يتردد صداها بالقوة. هذا المولد لا يقتصر على الأسماء فقط؛ إنه يتعلق بصياغة أسطورة. سواء كان ذلك لسرد القصص أو الألعاب أو المشاريع الإبداعية، ابحث عن أسماء تثير الغموض والهيمنة والعزيمة التي لا تتزعزع. اكتشف الاسم المستعار المثالي لمشروعك في عالم الجريمة.",
+    "es": "Adéntrate en las sombras y forja una identidad que resuene con poder. Este generador no es solo sobre nombres; se trata de crear una leyenda. Ya sea para contar historias, juegos o proyectos creativos, encuentra nombres que evoquen misterio, dominio y resolución inquebrantable. Descubre el alias perfecto para tu empresa del inframundo.",
+    "fr": "Entrez dans l'ombre et forgez une identité qui résonne avec le pouvoir. Ce générateur ne concerne pas seulement les noms ; il s'agit de créer une légende. Que ce soit pour la narration, les jeux ou les projets créatifs, trouvez des noms qui évoquent le mystère, la domination et une détermination inébranlable. Découvrez l'alias parfait pour votre entreprise clandestine.",
+    "zh-cn": "步入阴影，锻造一个充满力量的身份。这个生成器不仅仅是关于名字；它是关于创造一个传奇。无论是用于讲故事、游戏还是创意项目，找到能够唤起神秘、统治力和坚定决心的名字。为您的地下企业发现完美的化名。",
+    "ja": "影に足を踏み入れ、力に共鳴するアイデンティティを築き上げましょう。このジェネレーターは単なる名前に関するものではありません。伝説を作り上げることです。ストーリーテリング、ゲーム、クリエイティブプロジェクトのいずれにおいても、ミステリー、支配、そして揺るぎない決意を呼び起こす名前を見つけてください。あなたの裏社会の事業に最適な別名を発見してください。",
+    "pt": "Entre nas sombras e forje uma identidade que ressoe com poder. Este gerador não é apenas sobre nomes; é sobre criar uma lenda. Seja para contar histórias, jogos ou projetos criativos, encontre nomes que evoquem mistério, domínio e resolução inabalável. Descubra o pseudônimo perfeito para seu empreendimento no submundo.",
+    "ru": "Шагните в тень и создайте личность, которая резонирует с властью. Этот генератор не просто о именах; он о создании легенды. Будь то для рассказов, игр или творческих проектов, найдите имена, вызывающие тайну, доминирование и непоколебимую решимость. Откройте для себя идеальный псевдоним для вашего предприятия в преступном мире."
+  },
+  "howToUse": {
+    "en": [
+      "Hit the 'Generate' button to unveil potential cartel names.",
+      "Witness a list of formidable and evocative names appear.",
+      "Browse through the generated options.",
+      "Found a name that strikes the right chord? Copy it instantly.",
+      "Use your chosen name to build your fictional empire or character."
+    ],
+    "ar": [
+      "اضغط على زر 'إنشاء' للكشف عن أسماء كارتلات محتملة.",
+      "شاهد قائمة بالأسماء الهائلة والموحية تظهر.",
+      "تصفح الخيارات التي تم إنشاؤها.",
+      "هل وجدت اسمًا يضرب على الوتر الصحيح؟ انسخه فورًا.",
+      "استخدم الاسم الذي اخترته لبناء إمبراطوريتك الخيالية أو شخصيتك."
+    ],
+    "es": [
+      "Pulsa el botón 'Generar' para desvelar posibles nombres de cártel.",
+      "Observa cómo aparece una lista de nombres formidables y evocadores.",
+      "Navega por las opciones generadas.",
+      "¿Encontraste un nombre que da en el clavo? Cópialo al instante.",
+      "Usa el nombre elegido para construir tu imperio ficticio o personaje."
+    ],
+    "fr": [
+      "Appuyez sur le bouton 'Générer' pour dévoiler des noms de cartel potentiels.",
+      "Voyez apparaître une liste de noms redoutables et évocateurs.",
+      "Parcourez les options générées.",
+      "Vous avez trouvé un nom qui touche la bonne corde ? Copiez-le instantanément.",
+      "Utilisez le nom choisi pour construire votre empire fictif ou votre personnage."
+    ],
+    "zh-cn": [
+      "点击“生成”按钮，揭示潜在的卡特尔名称。",
+      "见证一系列强大而引人入胜的名称出现。",
+      "浏览生成的选项。",
+      "找到一个恰到好处的名字了吗？立即复制。",
+      "使用您选择的名称来构建您的虚构帝国或角色。"
+    ],
+    "ja": [
+      "「生成」ボタンを押して、潜在的なカルテル名を明らかにします。",
+      "恐ろしくも喚起的な名前のリストが表示されるのをご覧ください。",
+      "生成されたオプションを閲覧します。",
+      "適切な名前を見つけましたか？すぐにコピーしてください。",
+      "選んだ名前を使って、架空の帝国やキャラクターを構築しましょう。"
+    ],
+    "pt": [
+      "Aperte o botão 'Gerar' para revelar potenciais nomes de cartel.",
+      "Veja uma lista de nomes formidáveis e evocativos aparecer.",
+      "Navegue pelas opções geradas.",
+      "Encontrou um nome que toca a nota certa? Copie-o instantaneamente.",
+      "Use o nome escolhido para construir seu império fictício ou personagem."
+    ],
+    "ru": [
+      "Нажмите кнопку 'Создать', чтобы раскрыть потенциальные названия картелей.",
+      "Увидите список грозных и выразительных имен.",
+      "Просмотрите сгенерированные варианты.",
+      "Нашли имя, которое попадает в точку? Скопируйте его мгновенно.",
+      "Используйте выбранное имя для создания своей вымышленной империи или персонажа."
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Cartel Name Generator free to use?",
+        "ar": "هل مولد أسماء الكارتلات هذا مجاني للاستخدام؟",
+        "es": "¿Es gratuito usar este Generador de Nombres de Cártel?",
+        "fr": "Ce Générateur de Noms de Cartel est-il gratuit ?",
+        "zh-cn": "这个卡特尔名称生成器是免费使用的吗？",
+        "ja": "このカルテル名ジェネレーターは無料で使用できますか？",
+        "pt": "Este Gerador de Nomes de Cartel é gratuito?",
+        "ru": "Этот Генератор Названий Картелей бесплатный?"
+      },
+      "answer": {
+        "en": "Yes, absolutely. Generate as many powerful and intimidating names as you need for your creative projects, completely free of charge.",
+        "ar": "نعم بالتأكيد. قم بإنشاء العديد من الأسماء القوية والمخيفة التي تحتاجها لمشاريعك الإبداعية، مجانًا تمامًا.",
+        "es": "Sí, absolutamente. Genera tantos nombres poderosos e intimidantes como necesites para tus proyectos creativos, de forma totalmente gratuita.",
+        "fr": "Oui, absolument. Générez autant de noms puissants et intimidants que nécessaire pour vos projets créatifs, entièrement gratuitement.",
+        "zh-cn": "是的，完全免费。您可以根据创意项目的需要，随心所欲地生成任意数量的强大且令人生畏的名字。",
+        "ja": "はい、もちろんです。クリエイティブなプロジェクトに必要なだけ、強力で威圧的な名前を完全に無料で生成してください。",
+        "pt": "Sim, absolutamente. Gere quantos nomes poderosos e intimidadores você precisar para seus projetos criativos, totalmente de graça.",
+        "ru": "Да, абсолютно. Создавайте столько мощных и пугающих имен, сколько вам нужно для ваших творческих проектов, совершенно бесплатно."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my book/game/story?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لكتابي/لعبتي/قصتي؟",
+        "es": "¿Puedo usar estos nombres para mi libro/juego/historia?",
+        "fr": "Puis-je utiliser ces noms pour mon livre/jeu/histoire ?",
+        "zh-cn": "我可以将这些名称用于我的书籍/游戏/故事吗？",
+        "ja": "これらの名前を私の本/ゲーム/ストーリーに使用できますか？",
+        "pt": "Posso usar esses nomes para meu livro/jogo/história?",
+        "ru": "Могу ли я использовать эти имена для своей книги/игры/истории?"
+      },
+      "answer": {
+        "en": "Definitely! These names are generated for creative inspiration. However, if you plan to use a name commercially (e.g., in a published work), we recommend checking if it's already trademarked or heavily used elsewhere.",
+        "ar": "بالتأكيد! يتم إنشاء هذه الأسماء للإلهام الإبداعي. ومع ذلك، إذا كنت تخطط لاستخدام اسم تجاريًا (على سبيل المثال، في عمل منشور)، نوصي بالتحقق مما إذا كان مسجلاً كعلامة تجارية بالفعل أو مستخدمًا بكثافة في مكان آخر.",
+        "es": "¡Definitivamente! Estos nombres se generan para la inspiración creativa. Sin embargo, si planeas usar un nombre comercialmente (p. ej., en una obra publicada), te recomendamos verificar si ya está registrado como marca comercial o si se usa mucho en otros lugares.",
+        "fr": "Absolument ! Ces noms sont générés pour l'inspiration créative. Cependant, si vous prévoyez d'utiliser un nom à des fins commerciales (par exemple, dans une œuvre publiée), nous vous recommandons de vérifier s'il est déjà une marque déposée ou largement utilisé ailleurs.",
+        "zh-cn": "当然可以！这些名称是为了激发创意而生成的。但是，如果您计划将名称用于商业用途（例如，在出版的作品中），我们建议您检查它是否已被注册商标或在其他地方被广泛使用。",
+        "ja": "もちろんです！これらの名前は創造的なインスピレーションのために生成されます。ただし、名前を商業的に使用する予定がある場合（例：出版作品内）、それがすでに商標登録されているか、他の場所で広く使用されていないかを確認することをお勧めします。",
+        "pt": "Definitivamente! Estes nomes são gerados para inspiração criativa. No entanto, se você planeja usar um nome comercialmente (por exemplo, em um trabalho publicado), recomendamos verificar se ele já é marca registrada ou amplamente utilizado em outro lugar.",
+        "ru": "Определенно! Эти имена генерируются для творческого вдохновения. Однако, если вы планируете использовать имя в коммерческих целях (например, в опубликованной работе), мы рекомендуем проверить, не является ли оно уже зарегистрированным товарным знаком или широко используемым где-либо еще."
+      }
+    },
+    {
+      "question": {
+        "en": "How are these cartel names generated?",
+        "ar": "كيف يتم إنشاء أسماء الكارتلات هذه؟",
+        "es": "¿Cómo se generan estos nombres de cártel?",
+        "fr": "Comment ces noms de cartel sont-ils générés ?",
+        "zh-cn": "这些卡特尔名称是如何生成的？",
+        "ja": "これらのカルテル名はどのように生成されますか？",
+        "pt": "Como esses nomes de cartel são gerados?",
+        "ru": "Как генерируются эти названия картелей?"
+      },
+      "answer": {
+        "en": "Our generator combines various thematic words, locations, concepts, and structures often associated with powerful (and fictional) organizations to create unique and evocative names.",
+        "ar": "يجمع مولدنا بين كلمات ومواقع ومفاهيم وهياكل مواضيعية مختلفة غالبًا ما ترتبط بالمنظمات القوية (والخيالية) لإنشاء أسماء فريدة وموحية.",
+        "es": "Nuestro generador combina varias palabras temáticas, ubicaciones, conceptos y estructuras a menudo asociadas con organizaciones poderosas (y ficticias) para crear nombres únicos y evocadores.",
+        "fr": "Notre générateur combine divers mots thématiques, lieux, concepts et structures souvent associés à des organisations puissantes (et fictives) pour créer des noms uniques et évocateurs.",
+        "zh-cn": "我们的生成器结合了各种与强大（且虚构的）组织相关的主题词、地点、概念和结构，以创建独特且引人入胜的名称。",
+        "ja": "当社のジェネレーターは、強力な（そして架空の）組織にしばしば関連付けられる様々なテーマの単語、場所、概念、構造を組み合わせて、ユニークで喚起的な名前を作成します。",
+        "pt": "Nosso gerador combina várias palavras temáticas, locais, conceitos e estruturas frequentemente associados a organizações poderosas (e fictícias) para criar nomes únicos e evocativos.",
+        "ru": "Наш генератор комбинирует различные тематические слова, локации, концепции и структуры, часто ассоциируемые с мощными (и вымышленными) организациями, для создания уникальных и выразительных имен."
+      }
+    },
+    {
+      "question": {
+        "en": "The names sound too serious/not serious enough. Can I adjust the tone?",
+        "ar": "تبدو الأسماء جادة جدًا / ليست جادة بما فيه الكفاية. هل يمكنني ضبط النبرة؟",
+        "es": "Los nombres suenan demasiado serios / no lo suficientemente serios. ¿Puedo ajustar el tono?",
+        "fr": "Les noms semblent trop sérieux / pas assez sérieux. Puis-je ajuster le ton ?",
+        "zh-cn": "这些名字听起来太严肃/不够严肃。我可以调整语气吗？",
+        "ja": "名前が深刻すぎる/深刻さが足りないように聞こえます。トーンを調整できますか？",
+        "pt": "Os nomes parecem muito sérios / não sérios o suficiente. Posso ajustar o tom?",
+        "ru": "Имена звучат слишком серьезно / недостаточно серьезно. Могу ли я настроить тон?"
+      },
+      "answer": {
+        "en": "Currently, the generator provides a mix of tones. We recommend generating multiple names to find one that fits your specific need. Keep clicking, you might find the perfect blend of menace and mystique!",
+        "ar": "حاليًا، يوفر المولد مزيجًا من النبرات. نوصي بإنشاء أسماء متعددة للعثور على اسم يناسب احتياجاتك الخاصة. استمر في النقر، قد تجد المزيج المثالي من التهديد والغموض!",
+        "es": "Actualmente, el generador proporciona una mezcla de tonos. Recomendamos generar múltiples nombres para encontrar uno que se ajuste a tu necesidad específica. ¡Sigue haciendo clic, podrías encontrar la mezcla perfecta de amenaza y mística!",
+        "fr": "Actuellement, le générateur propose un mélange de tons. Nous vous recommandons de générer plusieurs noms pour trouver celui qui correspond à vos besoins spécifiques. Continuez à cliquer, vous pourriez trouver le mélange parfait de menace et de mystique !",
+        "zh-cn": "目前，生成器提供混合的语气。我们建议生成多个名称，以找到适合您特定需求的名称。继续点击，您可能会找到威胁与神秘的完美结合！",
+        "ja": "現在、ジェネレーターは様々なトーンのミックスを提供しています。特定のニーズに合うものを見つけるために、複数の名前を生成することをお勧めします。クリックし続けてください、脅威と神秘の完璧なブレンドが見つかるかもしれません！",
+        "pt": "Atualmente, o gerador fornece uma mistura de tons. Recomendamos gerar vários nomes para encontrar um que se ajuste à sua necessidade específica. Continue clicando, você pode encontrar a mistura perfeita de ameaça e mística!",
+        "ru": "В настоящее время генератор предлагает смешанные тона. Мы рекомендуем генерировать несколько имен, чтобы найти то, которое соответствует вашим конкретным потребностям. Продолжайте нажимать, возможно, вы найдете идеальное сочетание угрозы и мистики!"
+      }
+    }
+  ]
+}

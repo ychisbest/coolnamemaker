@@ -1,0 +1,236 @@
+{
+  "name": {
+    "en": "Halfling Name Generator",
+    "ar": "مولد أسماء الهالغلينغ",
+    "es": "Generador de Nombres de Mediano",
+    "fr": "Générateur de Noms de Halfelin",
+    "zh-cn": "半身人名称生成器",
+    "ja": "ハーフリング名ジェネレーター",
+    "pt": "Gerador de Nomes de Halfling",
+    "ru": "Генератор Имен Полуросликов"
+  },
+  "description": {
+    "en": "Need the perfect cozy, charming, or slightly mischievous name for your halfling character? Our Halfling Name Generator cooks up delightful names faster than second breakfast! Find names that evoke rolling hills, warm hearths, and hearty meals.",
+    "ar": "هل تحتاج إلى الاسم المثالي المريح أو الساحر أو المؤذي قليلاً لشخصية الهالغلينغ الخاصة بك؟ مولد أسماء الهالغلينغ لدينا يطبخ أسماء مبهجة أسرع من الإفطار الثاني! ابحث عن أسماء تستحضر التلال المتدحرجة والمواقد الدافئة والوجبات الشهية.",
+    "es": "¿Necesitas el nombre perfecto, acogedor, encantador o ligeramente travieso para tu personaje mediano? ¡Nuestro Generador de Nombres de Mediano cocina nombres deliciosos más rápido que el segundo desayuno! Encuentra nombres que evocan colinas ondulantes, hogares cálidos y comidas abundantes.",
+    "fr": "Besoin du nom parfait, confortable, charmant ou légèrement espiègle pour votre personnage halfelin ? Notre Générateur de Noms de Halfelin concocte des noms délicieux plus vite que le deuxième petit-déjeuner ! Trouvez des noms qui évoquent des collines verdoyantes, des foyers chaleureux et des repas copieux.",
+    "zh-cn": "需要为你的半身人角色找到完美舒适、迷人或略带调皮的名字吗？我们的半身人名称生成器能比第二顿早餐更快地炮制出令人愉悦的名字！找到那些能让人联想到连绵起伏的山丘、温暖的炉火和丰盛餐点的名字。",
+    "ja": "あなたのハーフリングのキャラクターにぴったりの、居心地が良く、魅力的で、少しいたずら好きな名前が必要ですか？当社のハーフリング名ジェネレーターは、セカンドブレックファーストよりも早く楽しい名前を作り出します！なだらかな丘、暖かい炉辺、そして心のこもった食事を思い起こさせる名前を見つけましょう。",
+    "pt": "Precisa do nome perfeito, aconchegante, charmoso ou ligeiramente travesso para seu personagem halfling? Nosso Gerador de Nomes de Halfling prepara nomes deliciosos mais rápido que o segundo café da manhã! Encontre nomes que evocam colinas verdejantes, lareiras quentes e refeições substanciais.",
+    "ru": "Нужно идеальное уютное, очаровательное или слегка озорное имя для вашего персонажа-полурослика? Наш Генератор Имен Полуросликов готовит восхитительные имена быстрее, чем второй завтрак! Найдите имена, вызывающие в памяти холмистые пейзажи, теплые очаги и сытные трапезы."
+  },
+  "slug": "halfling-name-generator",
+  "prompt": {
+    "en": "Generate a halfling name",
+    "ar": "قم بإنشاء اسم هالغلينغ",
+    "es": "Generar un nombre de mediano",
+    "fr": "Générer un nom de halfelin",
+    "zh-cn": "生成一个半身人名称",
+    "ja": "ハーフリング名を生成する",
+    "pt": "Gerar um nome de halfling",
+    "ru": "Сгенерировать имя полурослика"
+  },
+  "icon": "🍄",
+  "introduction": {
+    "en": "Step into the Shire (or your favorite halfling burrow)! This generator isn't just spitting out random syllables; it's crafting names steeped in the warmth, comfort, and gentle humor of halfling culture. Perfect for your next RPG character, story protagonist, or even just for fun. Discover first names, family names, and nicknames that feel authentic and full of character.",
+    "ar": "ادخل إلى الشاير (أو جحر الهالغلينغ المفضل لديك)! هذا المولد لا يلفظ مقاطع عشوائية فحسب؛ إنه يصوغ أسماء غارقة في الدفء والراحة والفكاهة اللطيفة لثقافة الهالغلينغ. مثالي لشخصية RPG التالية، أو بطل القصة، أو حتى للمتعة فقط. اكتشف الأسماء الأولى وأسماء العائلات والألقاب التي تبدو أصيلة ومليئة بالشخصية.",
+    "es": "¡Entra en la Comarca (o en tu madriguera de mediano favorita)! Este generador no solo escupe sílabas al azar; está creando nombres impregnados de la calidez, comodidad y humor amable de la cultura mediana. Perfecto para tu próximo personaje de RPG, protagonista de historia o simplemente por diversión. Descubre nombres de pila, apellidos y apodos que se sienten auténticos y llenos de carácter.",
+    "fr": "Entrez dans la Comté (ou votre terrier de halfelin préféré) ! Ce générateur ne se contente pas de cracher des syllabes aléatoires ; il crée des noms imprégnés de la chaleur, du confort et de l'humour doux de la culture halfeline. Parfait pour votre prochain personnage de JDR, protagoniste d'histoire, ou juste pour le plaisir. Découvrez des prénoms, des noms de famille et des surnoms qui semblent authentiques et pleins de caractère.",
+    "zh-cn": "踏入夏尔（或你最喜欢的半身人洞穴）！这个生成器不仅仅是吐出随机音节；它正在精心制作充满半身人文化温暖、舒适和温和幽默的名字。非常适合你的下一个RPG角色、故事主角，或者仅仅是为了好玩。发现那些感觉真实且充满个性的名字、姓氏和昵称。",
+    "ja": "ホビット庄（またはお気に入りのハーフリングの穴）へ足を踏み入れましょう！このジェネレーターは単にランダムな音節を吐き出すだけではありません。ハーフリング文化の温かさ、快適さ、そして穏やかなユーモアに満ちた名前を作り上げています。次のRPGキャラクター、物語の主人公、あるいは単なる楽しみのために最適です。本物らしく個性豊かなファーストネーム、ファミリーネーム、ニックネームを見つけてください。",
+    "pt": "Entre no Condado (ou na sua toca de halfling favorita)! Este gerador não está apenas cuspindo sílabas aleatórias; ele está criando nomes imersos no calor, conforto e humor gentil da cultura halfling. Perfeito para seu próximo personagem de RPG, protagonista de história ou apenas por diversão. Descubra primeiros nomes, sobrenomes e apelidos que parecem autênticos e cheios de personalidade.",
+    "ru": "Заходите в Шир (или вашу любимую нору полуросликов)! Этот генератор не просто выдает случайные слоги; он создает имена, пропитанные теплом, уютом и добрым юмором культуры полуросликов. Идеально подходит для вашего следующего персонажа RPG, главного героя рассказа или просто для развлечения. Откройте для себя имена, фамилии и прозвища, которые кажутся подлинными и полными характера."
+  },
+  "howToUse": {
+    "en": [
+      "Simply click the 'Generate' button to conjure a halfling name.",
+      "Not quite right? Click again for more options!",
+      "Browse through first names, last names, or full names provided.",
+      "Found the perfect fit for your pint-sized hero? Copy it!",
+      "Now, go forth and have adventures (and maybe a snack)!"
+    ],
+    "ar": [
+      "ببساطة انقر على زر 'إنشاء' لاستحضار اسم هالغلينغ.",
+      "ليس مناسبًا تمامًا؟ انقر مرة أخرى لمزيد من الخيارات!",
+      "تصفح الأسماء الأولى أو أسماء العائلة أو الأسماء الكاملة المقدمة.",
+      "هل وجدت الاسم المثالي لبطلك الصغير؟ انسخه!",
+      "الآن، انطلق وخض المغامرات (وربما تناول وجبة خفيفة)!"
+    ],
+    "es": [
+      "Simplemente haz clic en el botón 'Generar' para conjurar un nombre de mediano.",
+      "¿No es exactamente lo que buscas? ¡Haz clic de nuevo para más opciones!",
+      "Navega por los nombres de pila, apellidos o nombres completos proporcionados.",
+      "¿Encontraste el ajuste perfecto para tu héroe de tamaño reducido? ¡Cópialo!",
+      "¡Ahora, ve y ten aventuras (y tal vez un bocadillo)!"
+    ],
+    "fr": [
+      "Cliquez simplement sur le bouton 'Générer' pour invoquer un nom de halfelin.",
+      "Pas tout à fait ça ? Cliquez à nouveau pour plus d'options !",
+      "Parcourez les prénoms, noms de famille ou noms complets fournis.",
+      "Trouvé la perle rare pour votre héros de petite taille ? Copiez-la !",
+      "Maintenant, partez à l'aventure (et prenez peut-être une collation) !"
+    ],
+    "zh-cn": [
+      "只需点击“生成”按钮即可变出一个半身人名字。",
+      "不太合适？再次点击获取更多选项！",
+      "浏览提供的名字、姓氏或全名。",
+      "为你的小个子英雄找到完美的名字了吗？复制它！",
+      "现在，出发去冒险吧（也许再吃点零食）！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックするだけで、ハーフリングの名前を呼び出します。",
+      "ちょっと違う？もう一度クリックして、さらに多くのオプションを表示！",
+      "提供されたファーストネーム、ラストネーム、またはフルネームを閲覧します。",
+      "あなたの小さなヒーローにぴったりの名前を見つけましたか？コピーしましょう！",
+      "さあ、冒険に出かけましょう（そして、たぶんおやつも）！"
+    ],
+    "pt": [
+      "Simplesmente clique no botão 'Gerar' para conjurar um nome de halfling.",
+      "Não ficou perfeito? Clique novamente para mais opções!",
+      "Navegue pelos primeiros nomes, sobrenomes ou nomes completos fornecidos.",
+      "Encontrou o ajuste perfeito para seu herói de pequeno porte? Copie-o!",
+      "Agora, vá em frente e tenha aventuras (e talvez um lanche)!"
+    ],
+    "ru": [
+      "Просто нажмите кнопку 'Сгенерировать', чтобы вызвать имя полурослика.",
+      "Не совсем то? Нажмите еще раз для получения дополнительных вариантов!",
+      "Просмотрите предоставленные имена, фамилии или полные имена.",
+      "Нашли идеальное имя для вашего крошечного героя? Скопируйте его!",
+      "А теперь отправляйтесь навстречу приключениям (и, возможно, перекусите)!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Halfling Name Generator really free?",
+        "ar": "هل مولد أسماء الهالغلينغ هذا مجاني حقًا؟",
+        "es": "¿Este Generador de Nombres de Mediano es realmente gratis?",
+        "fr": "Ce Générateur de Noms de Halfelin est-il vraiment gratuit ?",
+        "zh-cn": "这个半身人名称生成器真的是免费的吗？",
+        "ja": "このハーフリング名ジェネレーターは本当に無料ですか？",
+        "pt": "Este Gerador de Nomes de Halfling é realmente gratuito?",
+        "ru": "Этот Генератор Имен Полуросликов действительно бесплатный?"
+      },
+      "answer": {
+        "en": "Absolutely! Every adventurer, big or small, deserves a great name without spending their treasure hoard. Generate as many names as you need!",
+        "ar": "بالتأكيد! كل مغامر، كبيرًا كان أم صغيرًا، يستحق اسمًا رائعًا دون إنفاق كنزه. قم بإنشاء العديد من الأسماء كما تحتاج!",
+        "es": "¡Absolutamente! Todo aventurero, grande o pequeño, merece un gran nombre sin gastar su tesoro acumulado. ¡Genera tantos nombres como necesites!",
+        "fr": "Absolument ! Chaque aventurier, petit ou grand, mérite un super nom sans dépenser son trésor. Générez autant de noms que nécessaire !",
+        "zh-cn": "当然！每一位冒险者，无论大小，都应该得到一个好名字，而无需花费他们的宝藏。随心所欲地生成任意数量的名字吧！",
+        "ja": "もちろんです！大小問わず、すべての冒険家は宝物を費やすことなく素晴らしい名前を得る権利があります。必要なだけ名前を生成してください！",
+        "pt": "Com certeza! Todo aventureiro, grande ou pequeno, merece um ótimo nome sem gastar seu tesouro. Gere quantos nomes precisar!",
+        "ru": "Абсолютно! Каждый искатель приключений, большой или маленький, заслуживает отличного имени, не тратя свой клад. Генерируйте столько имен, сколько вам нужно!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my RPG characters or stories?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لشخصيات RPG أو قصصي؟",
+        "es": "¿Puedo usar estos nombres para mis personajes de RPG o historias?",
+        "fr": "Puis-je utiliser ces noms pour mes personnages de JDR ou mes histoires ?",
+        "zh-cn": "我可以将这些名称用于我的RPG角色或故事吗？",
+        "ja": "これらの名前を私のRPGキャラクターや物語に使用できますか？",
+        "pt": "Posso usar esses nomes para meus personagens de RPG ou histórias?",
+        "ru": "Могу ли я использовать эти имена для своих персонажей RPG или рассказов?"
+      },
+      "answer": {
+        "en": "Yes, please do! That's exactly what this generator is for. Feel free to use them in your D&D campaigns, fantasy novels, or any creative project. Just remember, common names might already be famous (looking at you, Baggins!).",
+        "ar": "نعم، من فضلك افعل! هذا بالضبط ما صُنع من أجله هذا المولد. لا تتردد في استخدامها في حملات D&D الخاصة بك، أو روايات الخيال، أو أي مشروع إبداعي. فقط تذكر، قد تكون الأسماء الشائعة مشهورة بالفعل (أنظر إليك يا باغينز!).",
+        "es": "¡Sí, por favor! Para eso es exactamente este generador. Siéntete libre de usarlos en tus campañas de D&D, novelas de fantasía o cualquier proyecto creativo. Solo recuerda, ¡los nombres comunes pueden ser ya famosos (te estoy mirando, Bolsón!).",
+        "fr": "Oui, bien sûr ! C'est exactement à cela que sert ce générateur. N'hésitez pas à les utiliser dans vos campagnes de D&D, romans de fantasy ou tout projet créatif. Rappelez-vous simplement que les noms communs peuvent déjà être célèbres (on pense à vous, Baggins !).",
+        "zh-cn": "是的，请随意使用！这正是这个生成器的用途。欢迎在你的D&D战役、奇幻小说或任何创意项目中使用它们。只要记住，常见的名字可能已经很有名了（说的就是你，巴金斯！）。",
+        "ja": "はい、どうぞ！まさにそのためにこのジェネレーターはあります。D&Dキャンペーン、ファンタジー小説、またはあらゆるクリエイティブプロジェクトで自由に使用してください。ただし、一般的な名前はすでに有名かもしれません（バギンズさん、あなたを見ています！）。",
+        "pt": "Sim, por favor! É exatamente para isso que este gerador serve. Sinta-se à vontade para usá-los em suas campanhas de D&D, romances de fantasia ou qualquer projeto criativo. Apenas lembre-se, nomes comuns podem já ser famosos (estou olhando para você, Bolseiro!).",
+        "ru": "Да, пожалуйста! Именно для этого и предназначен этот генератор. Смело используйте их в своих кампаниях D&D, фэнтезийных романах или любых творческих проектах. Только помните, что распространенные имена могут быть уже известны (мы смотрим на тебя, Бэггинс!)."
+      }
+    },
+    {
+      "question": {
+        "en": "How many names can I generate?",
+        "ar": "كم عدد الأسماء التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres puedo generar?",
+        "fr": "Combien de noms puis-je générer ?",
+        "zh-cn": "我可以生成多少个名称？",
+        "ja": "いくつの名前を生成できますか？",
+        "pt": "Quantos nomes posso gerar?",
+        "ru": "Сколько имен я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "As many as there are mushrooms in a misty forest! Keep clicking 'Generate' until you find the name that perfectly captures your halfling's spirit (and appetite).",
+        "ar": "بقدر عدد الفطر في غابة ضبابية! استمر في النقر على 'إنشاء' حتى تجد الاسم الذي يجسد روح الهالغلينغ الخاص بك (وشهيته) بشكل مثالي.",
+        "es": "¡Tantos como hongos hay en un bosque neblinoso! Sigue haciendo clic en 'Generar' hasta que encuentres el nombre que capture perfectamente el espíritu (y el apetito) de tu mediano.",
+        "fr": "Autant qu'il y a de champignons dans une forêt brumeuse ! Continuez à cliquer sur 'Générer' jusqu'à ce que vous trouviez le nom qui capture parfaitement l'esprit (et l'appétit) de votre halfelin.",
+        "zh-cn": "就像迷雾森林里的蘑菇一样多！继续点击“生成”，直到找到完美捕捉你半身人精神（和胃口）的名字。",
+        "ja": "霧深い森にあるキノコの数と同じくらい！あなたのハーフリングの精神（そして食欲）を完璧に捉える名前が見つかるまで、「生成」をクリックし続けてください。",
+        "pt": "Tantos quantos cogumelos existem numa floresta enevoada! Continue clicando em 'Gerar' até encontrar o nome que captura perfeitamente o espírito (e o apetite) do seu halfling.",
+        "ru": "Столько, сколько грибов в туманном лесу! Продолжайте нажимать 'Сгенерировать', пока не найдете имя, которое идеально передает дух (и аппетит) вашего полурослика."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated halfling names authentic?",
+        "ar": "هل أسماء الهالغلينغ التي تم إنشاؤها أصيلة؟",
+        "es": "¿Son auténticos los nombres de mediano generados?",
+        "fr": "Les noms de halfelins générés sont-ils authentiques ?",
+        "zh-cn": "生成的半身人名称是正宗的吗？",
+        "ja": "生成されたハーフリングの名前は本物ですか？",
+        "pt": "Os nomes de halfling gerados são autênticos?",
+        "ru": "Являются ли сгенерированные имена полуросликов аутентичными?"
+      },
+      "answer": {
+        "en": "We've based our generator on common themes and sounds found in classic fantasy halfling lore (think Tolkien, D&D, etc.). While not pulled from one specific source, they aim for that familiar, cozy, and sometimes quirky halfling feel.",
+        "ar": "لقد بنينا مولدنا على الموضوعات والأصوات الشائعة الموجودة في تقاليد الهالغلينغ الخيالية الكلاسيكية (فكر في تولكين، D&D، إلخ). على الرغم من أنها لم تُسحب من مصدر واحد محدد، إلا أنها تهدف إلى هذا الشعور المألوف والمريح والغريب أحيانًا للهالغلينغ.",
+        "es": "Hemos basado nuestro generador en temas y sonidos comunes que se encuentran en la tradición clásica de los medianos de fantasía (piensa en Tolkien, D&D, etc.). Aunque no se extraen de una fuente específica, apuntan a esa sensación familiar, acogedora y a veces peculiar de los medianos.",
+        "fr": "Nous avons basé notre générateur sur des thèmes et des sons courants trouvés dans le lore classique des halfelins de fantasy (pensez à Tolkien, D&D, etc.). Bien qu'ils ne proviennent pas d'une source spécifique, ils visent cette sensation familière, confortable et parfois excentrique des halfelins.",
+        "zh-cn": "我们的生成器基于经典奇幻半身人传说（想想托尔金、D&D等）中常见的主题和发音。虽然并非来自某个特定来源，但它们旨在营造那种熟悉、舒适且有时古怪的半身人感觉。",
+        "ja": "当社のジェネレーターは、古典的なファンタジーのハーフリング伝承（トールキン、D&Dなどを考えてください）に見られる共通のテーマとサウンドに基づいています。特定の情報源から引用されたものではありませんが、それらは馴染み深く、居心地が良く、時には風変わりなハーフリングの感覚を目指しています。",
+        "pt": "Baseamos nosso gerador em temas e sons comuns encontrados na tradição clássica dos halflings de fantasia (pense em Tolkien, D&D, etc.). Embora não sejam retirados de uma fonte específica, eles visam aquela sensação familiar, aconchegante e às vezes peculiar dos halflings.",
+        "ru": "Мы основывали наш генератор на общих темах и звуках, встречающихся в классическом фэнтезийном лоре полуросликов (вспомните Толкина, D&D и т. д.). Хотя они не взяты из одного конкретного источника, они стремятся передать знакомое, уютное и иногда причудливое ощущение полуросликов."
+      }
+    },
+    {
+      "question": {
+        "en": "Will giving my character a generated name make them a better halfling?",
+        "ar": "هل إعطاء شخصيتي اسمًا تم إنشاؤه سيجعلها هالغلينغ أفضل؟",
+        "es": "¿Darle a mi personaje un nombre generado lo convertirá en un mejor mediano?",
+        "fr": "Donner à mon personnage un nom généré en fera-t-il un meilleur halfelin ?",
+        "zh-cn": "给我的角色起一个生成的名字会让他们成为更好的半身人吗？",
+        "ja": "生成された名前をキャラクターに付けると、より良いハーフリングになりますか？",
+        "pt": "Dar ao meu personagem um nome gerado o tornará um halfling melhor?",
+        "ru": "Сделает ли присвоение моему персонажу сгенерированного имени его лучшим полуросликом?"
+      },
+      "answer": {
+        "en": "A great name is a wonderful start! But being a truly great halfling involves appreciating good food, comfortable chairs, fine company, and perhaps bravely facing unexpected adventures. The name helps, but the spirit comes from you!",
+        "ar": "الاسم الرائع هو بداية رائعة! لكن كونك هالغلينغ رائعًا حقًا يتضمن تقدير الطعام الجيد والكراسي المريحة والرفقة الجيدة، وربما مواجهة المغامرات غير المتوقعة بشجاعة. الاسم يساعد، لكن الروح تأتي منك!",
+        "es": "¡Un gran nombre es un comienzo maravilloso! Pero ser un mediano verdaderamente genial implica apreciar la buena comida, las sillas cómodas, la buena compañía y quizás enfrentar valientemente aventuras inesperadas. ¡El nombre ayuda, pero el espíritu viene de ti!",
+        "fr": "Un bon nom est un excellent début ! Mais être un vrai bon halfelin implique d'apprécier la bonne nourriture, les fauteuils confortables, la bonne compagnie et peut-être d'affronter courageusement des aventures inattendues. Le nom aide, mais l'esprit vient de vous !",
+        "zh-cn": "一个好名字是一个美妙的开始！但要成为一个真正伟大的半身人，需要欣赏美食、舒适的椅子、良好的陪伴，或许还要勇敢地面对意想不到的冒险。名字有帮助，但精神源于你！",
+        "ja": "素晴らしい名前は素晴らしいスタートです！しかし、真に偉大なハーフリングであるためには、美味しい食事、快適な椅子、良い仲間を評価し、そしておそらく予期せぬ冒険に勇敢に立ち向かうことが含まれます。名前は助けになりますが、精神はあなたから来るものです！",
+        "pt": "Um ótimo nome é um começo maravilhoso! Mas ser um halfling verdadeiramente ótimo envolve apreciar boa comida, cadeiras confortáveis, boa companhia e talvez enfrentar bravamente aventuras inesperadas. O nome ajuda, mas o espírito vem de você!",
+        "ru": "Отличное имя - прекрасное начало! Но чтобы быть по-настоящему великим полуросликом, нужно ценить хорошую еду, удобные кресла, приятную компанию и, возможно, храбро встречать неожиданные приключения. Имя помогает, но дух исходит от вас!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest new name elements or styles for the generator?",
+        "ar": "هل يمكنني اقتراح عناصر أو أنماط أسماء جديدة للمولد؟",
+        "es": "¿Puedo sugerir nuevos elementos o estilos de nombres para el generador?",
+        "fr": "Puis-je suggérer de nouveaux éléments ou styles de noms pour le générateur ?",
+        "zh-cn": "我可以为生成器建议新的名称元素或风格吗？",
+        "ja": "ジェネレーターに新しい名前の要素やスタイルを提案できますか？",
+        "pt": "Posso sugerir novos elementos ou estilos de nomes para o gerador?",
+        "ru": "Могу ли я предложить новые элементы или стили имен для генератора?"
+      },
+      "answer": {
+        "en": "We'd love your suggestions! If you have ideas for halfling name parts (first names, family names, common themes) or styles you'd like to see, please let us know via feedback. More ideas make for a tastier name stew!",
+        "ar": "نود اقتراحاتك! إذا كانت لديك أفكار لأجزاء أسماء الهالغلينغ (الأسماء الأولى، أسماء العائلات، الموضوعات الشائعة) أو الأنماط التي ترغب في رؤيتها، فيرجى إخبارنا عبر التعليقات. المزيد من الأفكار تصنع حساء أسماء ألذ!",
+        "es": "¡Nos encantaría recibir tus sugerencias! Si tienes ideas para partes de nombres de medianos (nombres de pila, apellidos, temas comunes) o estilos que te gustaría ver, háznoslo saber a través de los comentarios. ¡Más ideas hacen un guiso de nombres más sabroso!",
+        "fr": "Nous serions ravis d'avoir vos suggestions ! Si vous avez des idées d'éléments de noms halfelins (prénoms, noms de famille, thèmes courants) ou de styles que vous aimeriez voir, veuillez nous en informer via les commentaires. Plus d'idées donnent un ragoût de noms plus savoureux !",
+        "zh-cn": "我们非常欢迎您的建议！如果您对半身人名字的组成部分（名字、姓氏、常见主题）或希望看到的风格有任何想法，请通过反馈告知我们。更多的想法能炖出更美味的名字大餐！",
+        "ja": "ご提案、大歓迎です！ハーフリングの名前のパーツ（ファーストネーム、ファミリーネーム、共通のテーマ）や見たいスタイルについてのアイデアがあれば、フィードバックを通じてお知らせください。より多くのアイデアが、より美味しい名前のシチューを作ります！",
+        "pt": "Adoraríamos suas sugestões! Se você tem ideias para partes de nomes halfling (primeiros nomes, sobrenomes, temas comuns) ou estilos que gostaria de ver, por favor, nos avise através do feedback. Mais ideias resultam num ensopado de nomes mais saboroso!",
+        "ru": "Мы будем рады вашим предложениям! Если у вас есть идеи для частей имен полуросликов (имена, фамилии, общие темы) или стилей, которые вы хотели бы видеть, пожалуйста, сообщите нам через обратную связь. Больше идей - вкуснее рагу из имен!"
+      }
+    }
+  ]
+}

@@ -4,6 +4,46 @@ import os
 import traceback
 import json
 
+def call_openai_api(prompt):
+    url = "https://ark.cn-beijing.volces.com/api/v3/chat/completions"
+    api_key="d9b9ca11-7273-4b7e-a8e6-a1518a5c02b4"
+    model="deepseek-v3-250324"
+    
+    # url = "http://localhost:1234/v1/chat/completions"
+    # api_key="7160bf97c2c747cb885c9a9977dfe6a2"
+    # model="phi-4"
+    
+    # url = "https://api.deepseek.com/chat/completions"
+    # api_key="sk-0348b1376d3a4ee7a83124c9140199d3"
+    # model="deepseek-chat"
+    
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json"
+    }
+    
+    data = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": """
+             - reply in english
+             - everything is for SEO
+             """},
+            {"role": "user", "content": prompt}
+            ],
+        "temperature": 0.7
+    }
+    
+    try:
+        response = requests.post(url, headers=headers, json=data)
+        response.raise_for_status()
+
+        return response.json()['choices'][0]['message']['content']
+    except requests.exceptions.RequestException as e:
+        print(f"Error calling OpenAI API: {e}")
+        return None
+
+
 def call_gemini_api(prompt):
     url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro-exp-03-25:generateContent"
     api_key = "AIzaSyCcmhi5dWdx3iOVOMsQ0_NVoBarZlrR6NQ"
@@ -51,7 +91,7 @@ def callai(prompt):
 {json}
 
 """
-    return call_gemini_api(prompt).replace("```json", "").replace("```", "")
+    return call_openai_api(prompt).replace("```json", "").replace("```", "")
 
 def main():
     while(True):
@@ -77,11 +117,8 @@ def main():
                 print(f"Successfully saved to {filename}")
                 
             except json.JSONDecodeError:
-                # If parsing fails, save the raw response to error.json
-                with open('error.json', 'w', encoding='utf-8') as f:
-                    f.write(response)
-                print("Failed to parse JSON, saved response to error.json")
-                break;
+                sleep(20);
+                continue;
             
             if lines:
                 with open('data.txt', 'w') as f:

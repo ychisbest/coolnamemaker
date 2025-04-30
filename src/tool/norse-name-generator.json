@@ -63,7 +63,13 @@
       "¿Encontraste un nombre que enciende tu imaginación? ¡Haz clic para copiarlo!",
       "¡Ahora, ve y otorga un nombre nórdico legendario a tu sujeto elegido!"
     ],
-    "fr": "Cliquez sur le bouton 'Générer', et laissez les pouvoirs anciens vous guider !",
+    "fr": [
+      "Cliquez sur le bouton \"Générer\" et laissez les pouvoirs anciens vous guider !",
+      "Découvrez une sélection de noms nordiques puissants et évocateurs.",
+      "Parcourez la liste à la recherche de noms qui résonnent avec votre Viking intérieur.",
+      "Vous avez trouvé un nom qui stimule votre imagination ? Cliquez pour le copier !",
+      "À présent, allez offrir un nom nordique légendaire à votre sujet choisi !"
+    ],
     "zh-cn": [
       "点击\"生成\"按钮，让古老的力量指引你！",
       "查看一系列强大且富有感染力的北欧名称。",

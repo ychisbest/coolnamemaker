@@ -2,7 +2,9 @@
 import { getCollection } from "astro:content";
 import Layout from "../../../../layouts/Base.astro";
 import { LOCALES, useTranslations, type Lang } from "@/i18n";
+import { getRelativeLocaleUrl } from "astro:i18n";
 
+const locale = Astro.currentLocale as Lang;
 const t = useTranslations(Astro.currentLocale as Lang);
 const itemsPerPage = 9;
 
@@ -44,7 +46,7 @@ const currentLang = Astro.params.lang|| "en";
                 {
                     currentTools.map((tool) => (
                         <a
-                            href={`/tool/${tool.slug}`}
+                            href={getRelativeLocaleUrl(locale,`/tool/${tool.slug}`) }
                             class="group bg-white dark:bg-gray-800 p-6 rounded-lg border border-gray-100 dark:border-gray-700 shadow-sm hover:shadow-xl transform hover:-translate-y-1 transition-all duration-300 relative overflow-hidden"
                             style="animation-delay: calc(0.05s * Math.random());"
                         >
@@ -142,7 +144,7 @@ const currentLang = Astro.params.lang|| "en";
                                     </span>
                                 )}
                                 <a
-                                    href={`/tool/page/${page}`}
+                                    href={getRelativeLocaleUrl(locale,`/tool/page/${page}`)}
                                     class={`w-9 h-9 flex items-center justify-center rounded-full text-sm transition-all duration-200 ${
                                         Number(currentPage) === Number(page)
                                             ? "bg-blue-50 dark:bg-blue-900/30 text-blue-600 dark:text-blue-400 font-medium"

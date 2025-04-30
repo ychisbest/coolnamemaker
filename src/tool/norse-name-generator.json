@@ -1,0 +1,186 @@
+{
+  "name": {
+    "en": "Norse Name Generator",
+    "ar": "مولد الأسماء النوردية",
+    "es": "Generador de Nombres Nórdicos",
+    "fr": "Générateur de Noms Nordiques",
+    "zh-cn": "北欧名称生成器",
+    "ja": "北欧名ジェネレーター",
+    "pt": "Gerador de Nomes Nórdicos",
+    "ru": "Генератор скандинавских имен"
+  },
+  "description": {
+    "en": "Embark on an epic quest to find the perfect Norse name! Whether you're crafting a character for a fantasy saga, naming your pet, or simply seeking a name with ancient power, our Norse Name Generator will forge a name worthy of Valhalla. Unleash the spirit of Vikings and gods!",
+    "ar": "انطلق في مهمة ملحمية للعثور على الاسم النوردي المثالي! سواء كنت تصنع شخصية لملحمة خيالية، أو تسمي حيوانك الأليف، أو ببساطة تبحث عن اسم ذي قوة قديمة، فإن مولد الأسماء النوردية لدينا سيصوغ اسمًا يستحق فالهالا. أطلق العنان لروح الفايكنج والآلهة!",
+    "es": "¡Embárcate en una búsqueda épica para encontrar el nombre nórdico perfecto! Ya sea que estés creando un personaje para una saga de fantasía, nombrando a tu mascota o simplemente buscando un nombre con poder ancestral, nuestro Generador de Nombres Nórdicos forjará un nombre digno de Valhalla. ¡Libera el espíritu de vikingos y dioses!",
+    "fr": "Embarquez pour une quête épique afin de trouver le nom nordique parfait ! Que vous créiez un personnage pour une saga fantastique, nommiez votre animal de compagnie ou cherchiez simplement un nom avec une puissance ancienne, notre Générateur de Noms Nordiques forgera un nom digne de Valhalla. Libérez l'esprit des Vikings et des dieux !",
+    "zh-cn": "踏上史诗般的探索之旅，寻找完美的北欧名称！无论你是为奇幻史诗创造角色、给宠物命名，还是仅仅想找一个蕴含古老力量的名字，我们的北欧名称生成器都能为你锻造一个配得上英灵殿的名字。释放维京人和诸神的精神！",
+    "ja": "完璧な北欧名を見つけるための壮大な探求に乗り出しましょう！ファンタジーサーガのキャラクターを作成したり、ペットに名前を付けたり、単に古代の力を持つ名前を探している場合でも、私たちの北欧名ジェネレーターはヴァルハラにふさわしい名前を鍛造します。ヴァイキングと神々の精神を解き放ちましょう！",
+    "pt": "Embarque em uma jornada épica para encontrar o nome nórdico perfeito! Quer você esteja criando um personagem para uma saga de fantasia, nomeando seu animal de estimação ou simplesmente buscando um nome com poder antigo, nosso Gerador de Nomes Nórdicos forjará um nome digno de Valhalla. Liberte o espírito de vikings e deuses!",
+    "ru": "Отправляйтесь в эпический квест, чтобы найти идеальное скандинавское имя! Создаете ли вы персонажа для фэнтезийной саги, называете своего питомца или просто ищете имя с древней силой, наш Генератор скандинавских имен выкует имя, достойное Вальхаллы. Высвободите дух викингов и богов!"
+  },
+  "slug": "norse-name-generator",
+  "prompt": {
+    "en": "Generate a Norse name",
+    "ar": "قم بإنشاء اسم نوردي",
+    "es": "Generar un nombre nórdico",
+    "fr": "Générer un nom nordique",
+    "zh-cn": "生成一个北欧名称",
+    "ja": "北欧名を生成する",
+    "pt": "Gerar um nome nórdico",
+    "ru": "Сгенерировать скандинавское имя"
+  },
+  "icon": "⚒",
+  "introduction": {
+    "en": "Delve into the rich tapestry of Norse mythology and history to uncover names that echo with the thunder of Mjolnir and the wisdom of Odin. From fierce warriors to wise seers, the Norse world is brimming with inspiration. Our generator taps into this ancient wellspring to provide you with names that are not only historically inspired but also possess a unique and captivating quality.",
+    "ar": "انغمس في النسيج الغني للأساطير والتاريخ النوردي للكشف عن أسماء تردد صدى رعد ميولنير وحكمة أودين. من المحاربين الشرسين إلى العرافين الحكماء، عالم النوردي يعج بالإلهام. يستفيد مولدنا من هذا المصدر القديم لتزويدك بأسماء ليست مستوحاة تاريخيًا فحسب، بل تتمتع أيضًا بجودة فريدة وآسرة.",
+    "es": "Sumérgete en el rico tapiz de la mitología y la historia nórdicas para descubrir nombres que resuenan con el trueno de Mjolnir y la sabiduría de Odín. Desde feroces guerreros hasta sabios videntes, el mundo nórdico está lleno de inspiración. Nuestro generador aprovecha esta antigua fuente para proporcionarte nombres que no solo están inspirados históricamente, sino que también poseen una cualidad única y cautivadora.",
+    "fr": "Plongez dans la riche tapisserie de la mythologie et de l'histoire nordiques pour découvrir des noms qui résonnent avec le tonnerre de Mjolnir et la sagesse d'Odin. Des guerriers féroces aux voyants sages, le monde nordique regorge d'inspiration. Notre générateur puise dans cette source ancienne pour vous fournir des noms qui ne sont pas seulement inspirés historiquement, mais qui possèdent également une qualité unique et captivante.",
+    "zh-cn": "深入北欧神话和历史的丰富画卷，发掘那些与雷神之锤的轰鸣和奥丁的智慧共鸣的名字。从凶猛的战士到睿智的先知，北欧世界充满了灵感。我们的生成器汲取这一古老的源泉，为你提供不仅具有历史灵感，而且拥有独特而迷人特质的名字。",
+    "ja": "北欧神話と歴史の豊かなタペストリーに深く入り込み、ミョルニルの雷鳴とオーディンの知恵に響き渡る名前を発見しましょう。獰猛な戦士から賢明な預言者まで、北欧の世界はインスピレーションに満ちています。私たちのジェネレーターはこの古代の源泉を利用し、歴史的にインスパイアされているだけでなく、ユニークで魅惑的な品質を持つ名前を提供します。",
+    "pt": "Mergulhe na rica tapeçaria da mitologia e história nórdicas para descobrir nomes que ecoam com o trovão de Mjolnir e a sabedoria de Odin. De guerreiros ferozes a sábios videntes, o mundo nórdico está repleto de inspiração. Nosso gerador aproveita esta antiga fonte para fornecer nomes que não são apenas historicamente inspirados, mas também possuem uma qualidade única e cativante.",
+    "ru": "Погрузитесь в богатое полотно скандинавской мифологии и истории, чтобы открыть имена, которые перекликаются с громом Мьёльнира и мудростью Одина. От свирепых воинов до мудрых провидцев, скандинавский мир полон вдохновения. Наш генератор черпает из этого древнего источника, чтобы предоставить вам имена, которые не только исторически вдохновлены, но и обладают уникальным и пленительным качеством."
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button, and let the ancient powers guide you!",
+      "Behold a selection of powerful and evocative Norse names.",
+      "Scan the list for names that resonate with your inner Viking.",
+      "Found a name that sparks your imagination? Click to copy it!",
+      "Now, go forth and bestow a legendary Norse name upon your chosen subject!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء'، ودع القوى القديمة ترشدك!",
+      "شاهد مجموعة مختارة من الأسماء النوردية القوية والموحية.",
+      "امسح القائمة بحثًا عن الأسماء التي تتناسب مع الفايكنج الداخلي لديك.",
+      "هل وجدت اسمًا يشعل خيالك؟ انقر لنسخه!",
+      "والآن، انطلق وامنح اسمًا نورديًا أسطوريًا لموضوعك المختار!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' y deja que los poderes ancestrales te guíen.",
+      "Contempla una selección de nombres nórdicos poderosos y evocadores.",
+      "Busca en la lista nombres que resuenen con tu vikingo interior.",
+      "¿Encontraste un nombre que enciende tu imaginación? ¡Haz clic para copiarlo!",
+      "¡Ahora, ve y otorga un nombre nórdico legendario a tu sujeto elegido!"
+    ],
+    "fr": "Cliquez sur le bouton 'Générer', et laissez les pouvoirs anciens vous guider !",
+    "zh-cn": [
+      "点击\"生成\"按钮，让古老的力量指引你！",
+      "查看一系列强大且富有感染力的北欧名称。",
+      "扫描列表，寻找能引起你内心维京人共鸣的名字。",
+      "找到一个激发你想象力的名字了吗？点击复制它！",
+      "现在，去为你选择的对象赋予一个传奇的北欧名称吧！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、古代の力があなたを導くのに任せましょう！",
+      "強力で示唆に富む北欧名のセレクションをご覧ください。",
+      "リストをスキャンして、あなたの内なるヴァイキングに響く名前を探しましょう。",
+      "あなたの想像力を刺激する名前を見つけましたか？クリックしてコピーしましょう！",
+      "さあ、進んで選ばれた対象に伝説的な北欧名を授けましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' e deixe os poderes antigos te guiarem!",
+      "Contemple uma seleção de nomes nórdicos poderosos e evocativos.",
+      "Examine a lista em busca de nomes que ressoem com seu viking interior.",
+      "Encontrou um nome que acende sua imaginação? Clique para copiá-lo!",
+      "Agora, vá em frente e conceda um nome nórdico lendário ao seu assunto escolhido!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Сгенерировать' и позвольте древним силам вести вас!",
+      "Ознакомьтесь с подборкой мощных и выразительных скандинавских имен.",
+      "Просмотрите список в поисках имен, которые перекликаются с вашим внутренним викингом.",
+      "Нашли имя, которое разжигает ваше воображение? Нажмите, чтобы скопировать его!",
+      "Теперь идите и даруйте легендарное скандинавское имя выбранному вами объекту!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Are these names historically accurate?",
+        "ar": "هل هذه الأسماء دقيقة تاريخياً؟",
+        "es": "¿Estos nombres son históricamente precisos?",
+        "fr": "Ces noms sont-ils historiquement précis?",
+        "zh-cn": "这些名字在历史上准确吗？",
+        "ja": "これらの名前は歴史的に正確ですか？",
+        "pt": "Estes nomes são historicamente precisos?",
+        "ru": "Исторически ли точны эти имена?"
+      },
+      "answer": {
+        "en": "Our generator is inspired by historical Norse names and naming conventions, but some names may be creative combinations or variations. They are intended to evoke the feel of the Norse era rather than be strictly historically documented names.",
+        "ar": "مولدنا مستوحى من الأسماء النوردية التاريخية واتفاقيات التسمية، ولكن بعض الأسماء قد تكون تركيبات أو اختلافات إبداعية. الغرض منها هو إثارة شعور العصر النوردي بدلاً من أن تكون أسماء موثقة تاريخيًا بشكل صارم.",
+        "es": "Nuestro generador está inspirado en nombres y convenciones de nombres nórdicos históricos, pero algunos nombres pueden ser combinaciones o variaciones creativas. Están destinados a evocar la sensación de la era nórdica en lugar de ser nombres estrictamente documentados históricamente.",
+        "fr": "Notre générateur est inspiré par les noms et les conventions de nommage nordiques historiques, mais certains noms peuvent être des combinaisons ou des variations créatives. Ils sont destinés à évoquer l'atmosphère de l'ère nordique plutôt qu'à être des noms strictement documentés historiquement.",
+        "zh-cn": "我们的生成器受到历史上的北欧名称和命名习惯的启发，但有些名称可能是创意的组合或变体。它们旨在唤起北欧时代的感觉，而不是严格意义上的历史记载名称。",
+        "ja": "私たちのジェネレーターは歴史的な北欧名と命名規則にインスパイアされていますが、一部の名前は創造的な組み合わせやバリエーションである場合があります。厳密に歴史的に文書化された名前ではなく、北欧時代の雰囲気を感じさせることを目的としています。",
+        "pt": "Nosso gerador é inspirado em nomes e convenções de nomes nórdicos históricos, mas alguns nomes podem ser combinações ou variações criativas. Eles são destinados a evocar a sensação da era nórdica, em vez de serem estritamente nomes historicamente documentados.",
+        "ru": "Наш генератор вдохновлен историческими скандинавскими именами и правилами именования, но некоторые имена могут быть творческими комбинациями или вариациями. Они предназначены для того, чтобы вызвать ощущение скандинавской эпохи, а не быть строго исторически задокументированными именами."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my fictional characters?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لشخصياتي الخيالية؟",
+        "es": "¿Puedo usar estos nombres para mis personajes de ficción?",
+        "fr": "Puis-je utiliser ces noms pour mes personnages de fiction?",
+        "zh-cn": "我可以使用这些名字来命名我的虚构角色吗？",
+        "ja": "これらの名前を私のフィクションのキャラクターに使用できますか？",
+        "pt": "Posso usar esses nomes para meus personagens fictícios?",
+        "ru": "Могу ли я использовать эти имена для своих вымышленных персонажей?"
+      },
+      "answer": {
+        "en": "Absolutely! These names are perfect for adding a touch of Norse flavor to your fantasy novels, role-playing games, or any creative project. Let them inspire your storytelling!",
+        "ar": "بالتأكيد! هذه الأسماء مثالية لإضافة لمسة نوردية إلى رواياتك الخيالية أو ألعاب لعب الأدوار أو أي مشروع إبداعي. دعها تلهم قصصك!",
+        "es": "¡Absolutamente! Estos nombres son perfectos para añadir un toque de sabor nórdico a tus novelas de fantasía, juegos de rol o cualquier proyecto creativo. ¡Deja que inspiren tu narración!",
+        "fr": "Absolument ! Ces noms sont parfaits pour ajouter une touche nordique à vos romans fantastiques, jeux de rôle ou tout autre projet créatif. Laissez-les inspirer votre narration !",
+        "zh-cn": "当然可以！这些名字非常适合为你的奇幻小说、角色扮演游戏或任何创意项目增添北欧风情。让它们激发你的故事创作灵感！",
+        "ja": "もちろんです！これらの名前は、ファンタジー小説、ロールプレイングゲーム、またはその他の創造的なプロジェクトに北欧の風味を加えるのに最適です。あなたのストーリーテリングをインスパイアさせてください！",
+        "pt": "Absolutamente! Estes nomes são perfeitos para adicionar um toque de sabor nórdico aos seus romances de fantasia, jogos de RPG ou qualquer projeto criativo. Deixe-os inspirar sua narrativa!",
+        "ru": "Конечно! Эти имена идеально подходят для добавления скандинавского колорита в ваши фэнтезийные романы, ролевые игры или любые творческие проекты. Пусть они вдохновят ваше повествование!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are there names for both male and female characters?",
+        "ar": "هل هناك أسماء للشخصيات الذكورية والأنثوية؟",
+        "es": "¿Hay nombres para personajes masculinos y femeninos?",
+        "fr": "Y a-t-il des noms pour les personnages masculins et féminins?",
+        "zh-cn": "有男性和女性角色的名字吗？",
+        "ja": "男性および女性キャラクターの名前はありますか？",
+        "pt": "Existem nomes para personagens masculinos e femininos?",
+        "ru": "Есть ли имена как для мужских, так и для женских персонажей?"
+      },
+      "answer": {
+        "en": "Yes, our generator includes a variety of names suitable for both male and female characters, drawing from traditional Norse naming practices for both genders.",
+        "ar": "نعم، يتضمن مولدنا مجموعة متنوعة من الأسماء المناسبة للشخصيات الذكورية والأنثوية، مستمدة من ممارسات التسمية النوردية التقليدية لكلا الجنسين.",
+        "es": "Sí, nuestro generador incluye una variedad de nombres adecuados para personajes masculinos y femeninos, basándose en las prácticas de nombres nórdicos tradicionales para ambos géneros.",
+        "fr": "Oui, notre générateur comprend une variété de noms adaptés aux personnages masculins et féminins, s'inspirant des pratiques de nommage nordiques traditionnelles pour les deux sexes.",
+        "zh-cn": "是的，我们的生成器包含各种适合男性和女性角色的名字，这些名字源自传统的北欧男女命名习俗。",
+        "ja": "はい、私たちのジェネレーターには、男性と女性の両方のキャラクターに適したさまざまな名前が含まれており、両性の伝統的な北欧の命名慣習からインスパイアされています。",
+        "pt": "Sim, nosso gerador inclui uma variedade de nomes adequados para personagens masculinos e femininos, baseando-se nas práticas tradicionais de nomes nórdicos para ambos os sexos.",
+        "ru": "Да, наш генератор включает в себя множество имен, подходящих как для мужских, так и для женских персонажей, основанных на традиционных скандинавских правилах именования для обоих полов."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my business or brand?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لعملي أو علامتي التجارية؟",
+        "es": "¿Puedo usar estos nombres para mi negocio o marca?",
+        "fr": "Puis-je utiliser ces noms pour mon entreprise ou ma marque?",
+        "zh-cn": "我可以使用这些名字用于我的企业或品牌吗？",
+        "ja": "これらの名前を私のビジネスやブランドに使用できますか？",
+        "pt": "Posso usar esses nomes para meu negócio ou marca?",
+        "ru": "Могу ли я использовать эти имена для своего бизнеса или бренда?"
+      },
+      "answer": {
+        "en": "While the names are free to use for creative purposes, we strongly advise conducting thorough trademark and availability checks before using any generated name for commercial ventures. We cannot guarantee the legal availability of any generated name.",
+        "ar": "بينما الأسماء مجانية للاستخدام لأغراض إبداعية، ننصح بشدة بإجراء فحوصات شاملة للعلامات التجارية والتوفر قبل استخدام أي اسم تم إنشاؤه للمشاريع التجارية. لا يمكننا ضمان التوفر القانوني لأي اسم تم إنشاؤه.",
+        "es": "Si bien los nombres son de uso gratuito para fines creativos, recomendamos encarecidamente realizar verificaciones exhaustivas de marcas comerciales y disponibilidad antes de utilizar cualquier nombre generado para empresas comerciales. No podemos garantizar la disponibilidad legal de ningún nombre generado.",
+        "fr": "Bien que les noms soient gratuits pour un usage créatif, nous vous conseillons fortement d'effectuer des vérifications approfondies des marques et de la disponibilité avant d'utiliser un nom généré pour des entreprises commerciales. Nous ne pouvons garantir la disponibilité légale d'aucun nom généré.",
+        "zh-cn": "虽然这些名称可以免费用于创意目的，但我们强烈建议在将任何生成的名称用于商业用途之前，进行彻底的商标和可用性检查。我们无法保证任何生成的名称的法律可用性。",
+        "ja": "これらの名前はクリエイティブな目的で自由に使用できますが、商業目的で生成された名前を使用する前に、徹底的な商標および利用可能性チェックを行うことを強くお勧めします。生成された名前の法的利用可能性を保証することはできません。",
+        "pt": "Embora os nomes sejam gratuitos para uso criativo, recomendamos fortemente a realização de verificações completas de marcas registradas e disponibilidade antes de usar qualquer nome gerado para empreendimentos comerciais. Não podemos garantir a disponibilidade legal de nenhum nome gerado.",
+        "ru": "Хотя имена можно свободно использовать в творческих целях, мы настоятельно рекомендуем провести тщательную проверку товарных знаков и доступности перед использованием любого сгенерированного имени для коммерческих предприятий. Мы не можем гарантировать юридическую доступность любого сгенерированного имени."
+      }
+    }
+  ]
+}

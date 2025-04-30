@@ -1,0 +1,236 @@
+{
+  "name": {
+    "en": "Island Name Generator",
+    "ar": "مولد أسماء الجزر",
+    "es": "Generador de Nombres de Isla",
+    "fr": "Générateur de Noms d'Île",
+    "zh-cn": "岛屿名称生成器",
+    "ja": "島名ジェネレーター",
+    "pt": "Gerador de Nomes de Ilha",
+    "ru": "Генератор Названий Островов"
+  },
+  "description": {
+    "en": "Dreaming of sun-drenched shores, mysterious jungles, or volcanic peaks? Our Island Name Generator conjures enchanting, evocative, and unique names for your fictional paradise, perilous archipelago, or hidden sanctuary. Chart your course to naming perfection!",
+    "ar": "هل تحلم بشواطئ مشمسة، أو أدغال غامضة، أو قمم بركانية؟ مولد أسماء الجزر لدينا يستحضر أسماء ساحرة وموحية وفريدة لجنتك الخيالية، أو أرخبيلك الخطير، أو ملاذك الخفي. ارسم مسارك نحو كمال التسمية!",
+    "es": "¿Sueñas con costas bañadas por el sol, selvas misteriosas o picos volcánicos? Nuestro Generador de Nombres de Isla evoca nombres encantadores, evocadores y únicos para tu paraíso ficticio, archipiélago peligroso o santuario oculto. ¡Traza tu rumbo hacia la perfección en la nomenclatura!",
+    "fr": "Vous rêvez de rivages ensoleillés, de jungles mystérieuses ou de pics volcaniques ? Notre Générateur de Noms d'Île évoque des noms enchanteurs, évocateurs et uniques pour votre paradis fictif, archipel périlleux ou sanctuaire caché. Tracez votre route vers la perfection nominative !",
+    "zh-cn": "梦想着阳光普照的海岸、神秘的丛林或火山峰？我们的岛屿名称生成器为您虚构的天堂、危险的群岛或隐秘的避难所构想出迷人、引人入胜且独特的名称。规划您通往完美命名的航线！",
+    "ja": "太陽が降り注ぐ海岸、神秘的なジャングル、または火山の頂を夢見ていますか？私たちの島名ジェネレーターは、あなたの架空の楽園、危険な群島、または隠された聖域のために、魅惑的で、感情を呼び起こす、ユニークな名前を思い起こさせます。完璧な命名へのコースを計画しましょう！",
+    "pt": "Sonhando com costas ensolaradas, selvas misteriosas ou picos vulcânicos? Nosso Gerador de Nomes de Ilha conjura nomes encantadores, evocativos e únicos para seu paraíso fictício, arquipélago perigoso ou santuário escondido. Trace seu curso para a perfeição na nomeação!",
+    "ru": "Мечтаете о залитых солнцем берегах, таинственных джунглях или вулканических пиках? Наш Генератор Названий Островов создает чарующие, вызывающие воспоминания и уникальные имена для вашего вымышленного рая, опасного архипелага или скрытого убежища. Проложите курс к совершенству в именовании!"
+  },
+  "slug": "island-name-generator",
+  "prompt": {
+    "en": "Generate an island name",
+    "ar": "قم بإنشاء اسم جزيرة",
+    "es": "Generar un nombre de isla",
+    "fr": "Générer un nom d'île",
+    "zh-cn": "生成一个岛屿名称",
+    "ja": "島名を生成する",
+    "pt": "Gerar um nome de ilha",
+    "ru": "Сгенерировать название острова"
+  },
+  "icon": "🏝️",
+  "introduction": {
+    "en": "Set sail beyond the mundane! This isn't just a name generator; it's your compass for discovering names that breathe life into your creations. Whether you're writing an epic fantasy, designing a game world, naming a real-life boat, or just seeking inspiration, we've got the perfect island name waiting. Prepare for a treasure trove of tropical, mystical, and adventurous possibilities!",
+    "ar": "أبحر بعيدًا عن المألوف! هذا ليس مجرد مولد أسماء؛ إنه بوصلتك لاكتشاف أسماء تبث الحياة في إبداعاتك. سواء كنت تكتب ملحمة خيالية، أو تصمم عالم لعبة، أو تسمي قاربًا حقيقيًا، أو تبحث فقط عن الإلهام، لدينا اسم الجزيرة المثالي في انتظارك. استعد لكنز دفين من الاحتمالات الاستوائية والغامضة والمغامرة!",
+    "es": "¡Navega más allá de lo mundano! Esto no es solo un generador de nombres; es tu brújula para descubrir nombres que dan vida a tus creaciones. Ya sea que estés escribiendo una fantasía épica, diseñando un mundo de juego, nombrando un barco real o simplemente buscando inspiración, tenemos el nombre de isla perfecto esperándote. ¡Prepárate para un tesoro de posibilidades tropicales, místicas y aventureras!",
+    "fr": "Levez l'ancre au-delà du banal ! Ce n'est pas seulement un générateur de noms ; c'est votre boussole pour découvrir des noms qui insufflent la vie à vos créations. Que vous écriviez une fantaisie épique, conceviez un monde de jeu, nommiez un vrai bateau ou cherchiez simplement l'inspiration, nous avons le nom d'île parfait qui vous attend. Préparez-vous à un trésor de possibilités tropicales, mystiques et aventureuses !",
+    "zh-cn": "扬帆起航，超越平凡！这不仅仅是一个名称生成器；它是您发现为您的创作注入生命的名字的指南针。无论您是在撰写史诗奇幻、设计游戏世界、为现实生活中的船只命名，还是仅仅寻求灵感，我们都有完美的岛屿名称在等待。准备好迎接充满热带风情、神秘色彩和冒险可能性的宝库吧！",
+    "ja": "ありふれたものを超えて出航しましょう！これは単なる名前生成器ではありません。あなたの創造物に命を吹き込む名前を発見するための羅針盤です。壮大なファンタジーを書いている場合でも、ゲームの世界をデザインしている場合でも、実在のボートに名前を付けている場合でも、単にインスピレーションを求めている場合でも、完璧な島の名前が待っています。熱帯的、神秘的、そして冒険的な可能性の宝庫に備えましょう！",
+    "pt": "Navegue além do mundano! Isto não é apenas um gerador de nomes; é sua bússola para descobrir nomes que dão vida às suas criações. Esteja você escrevendo uma fantasia épica, projetando um mundo de jogo, nomeando um barco da vida real ou apenas buscando inspiração, temos o nome de ilha perfeito esperando. Prepare-se para um tesouro de possibilidades tropicais, místicas e aventureiras!",
+    "ru": "Отправляйтесь в плавание за пределы обыденности! Это не просто генератор имен; это ваш компас для открытия имен, которые вдыхают жизнь в ваши творения. Пишете ли вы эпическое фэнтези, разрабатываете игровой мир, называете настоящую лодку или просто ищете вдохновение — у нас есть идеальное название острова. Приготовьтесь к сокровищнице тропических, мистических и авантюрных возможностей!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the enticing 'Generate' button. Adventure awaits!",
+      "Behold a wave of wondrous island names washing ashore.",
+      "Scroll through the list and discover your perfect isle!",
+      "Found a name that sparks your imagination? Copy it!",
+      "Now, chart your course and use your fantastic new island name!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' الجذاب. المغامرة تنتظر!",
+      "شاهد موجة من أسماء الجزر الرائعة تنجرف إلى الشاطئ.",
+      "قم بالتمرير عبر القائمة واكتشف جزيرتك المثالية!",
+      "هل وجدت اسمًا يثير خيالك؟ انسخه!",
+      "الآن، ارسم مسارك واستخدم اسم جزيرتك الجديد الرائع!"
+    ],
+    "es": [
+      "Haz clic en el atractivo botón 'Generar'. ¡La aventura te espera!",
+      "Contempla una ola de maravillosos nombres de islas llegando a la orilla.",
+      "¡Desplázate por la lista y descubre tu isla perfecta!",
+      "¿Encontraste un nombre que despierte tu imaginación? ¡Cópialo!",
+      "¡Ahora, traza tu rumbo y usa tu fantástico nuevo nombre de isla!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton séduisant 'Générer'. L'aventure vous attend !",
+      "Admirez une vague de merveilleux noms d'îles s'échouant sur le rivage.",
+      "Faites défiler la liste et découvrez votre île parfaite !",
+      "Vous avez trouvé un nom qui éveille votre imagination ? Copiez-le !",
+      "Maintenant, tracez votre route et utilisez votre fantastique nouveau nom d'île !"
+    ],
+    "zh-cn": [
+      "点击诱人的“生成”按钮。冒险在等待！",
+      "见证一波奇妙的岛屿名称冲上岸边。",
+      "滚动列表，发现您完美的岛屿！",
+      "找到一个激发您想象力的名字了吗？复制它！",
+      "现在，规划您的航线，并使用您奇妙的新岛屿名称！"
+    ],
+    "ja": [
+      "魅力的な「生成」ボタンをクリックしてください。冒険が待っています！",
+      "素晴らしい島の名前の波が岸に打ち寄せるのをご覧ください。",
+      "リストをスクロールして、あなたの完璧な島を発見してください！",
+      "あなたの想像力をかき立てる名前を見つけましたか？コピーしましょう！",
+      "さあ、進路を定め、素晴らしい新しい島の名前を使いましょう！"
+    ],
+    "pt": [
+      "Clique no atraente botão 'Gerar'. A aventura espera!",
+      "Contemple uma onda de maravilhosos nomes de ilhas chegando à costa.",
+      "Role pela lista e descubra sua ilha perfeita!",
+      "Encontrou um nome que desperta sua imaginação? Copie-o!",
+      "Agora, trace seu curso e use seu fantástico novo nome de ilha!"
+    ],
+    "ru": [
+      "Нажмите на привлекательную кнопку 'Создать'. Приключение ждет!",
+      "Узрите волну чудесных названий островов, вымываемых на берег.",
+      "Пролистайте список и откройте свой идеальный остров!",
+      "Нашли имя, которое будоражит ваше воображение? Скопируйте его!",
+      "Теперь проложите курс и используйте свое фантастическое новое название острова!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Island Name Generator really free?",
+        "ar": "هل مولد أسماء الجزر هذا مجاني حقًا؟",
+        "es": "¿Este Generador de Nombres de Isla es realmente gratis?",
+        "fr": "Ce Générateur de Noms d'Île est-il vraiment gratuit?",
+        "zh-cn": "这个岛屿名称生成器真的是免费的吗？",
+        "ja": "この島名ジェネレーターは本当に無料ですか？",
+        "pt": "Este Gerador de Nomes de Ilha é realmente gratuito?",
+        "ru": "Этот Генератор Названий Островов действительно бесплатный?"
+      },
+      "answer": {
+        "en": "Absolutely! We believe that every creator deserves an inspiring name for their world, regardless of their budget. So go ahead, generate to your heart's content!",
+        "ar": "بالتأكيد! نحن نؤمن بأن كل مبدع يستحق اسمًا ملهمًا لعالمه، بغض النظر عن ميزانيته. لذا، تفضل، قم بالإنشاء بقدر ما يرغب قلبك!",
+        "es": "¡Absolutamente! Creemos que cada creador merece un nombre inspirador para su mundo, independientemente de su presupuesto. ¡Así que adelante, genera a gusto!",
+        "fr": "Absolument ! Nous croyons que chaque créateur mérite un nom inspirant pour son monde, quel que soit son budget. Alors allez-y, générez autant que vous le souhaitez !",
+        "zh-cn": "当然！我们相信每个创作者都应该为他们的世界拥有一个鼓舞人心的名字，无论预算如何。所以，尽情地生成吧！",
+        "ja": "もちろんです！予算に関係なく、すべてのクリエイターが自分の世界にインスピレーションを与える名前を持つ権利があると信じています。どうぞ、心ゆくまで生成してください！",
+        "pt": "Absolutamente! Acreditamos que todo criador merece um nome inspirador para seu mundo, independentemente do orçamento. Então vá em frente, gere à vontade!",
+        "ru": "Абсолютно! Мы верим, что каждый творец заслуживает вдохновляющее имя для своего мира, независимо от бюджета. Так что давайте, генерируйте сколько душе угодно!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for commercial purposes?",
+        "ar": "هل يمكنني استخدام هذه الأسماء للأغراض التجارية؟",
+        "es": "¿Puedo usar estos nombres con fines comerciales?",
+        "fr": "Puis-je utiliser ces noms à des fins commerciales?",
+        "zh-cn": "我可以将这些名称用于商业目的吗？",
+        "ja": "これらの名前を商業目的で使用できますか？",
+        "pt": "Posso usar esses nomes para fins comerciais?",
+        "ru": "Могу ли я использовать эти названия в коммерческих целях?"
+      },
+      "answer": {
+        "en": "While we're thrilled you think these names are worth something, we can't guarantee their trademark availability. Always do your due diligence before using a name for commercial endeavors like books or games.",
+        "ar": "بينما نحن مسرورون لأنك تعتقد أن هذه الأسماء ذات قيمة، لا يمكننا ضمان توفرها كعلامة تجارية. قم دائمًا بالتحقق الواجب قبل استخدام اسم للمشاريع التجارية مثل الكتب أو الألعاب.",
+        "es": "Aunque estamos encantados de que pienses que estos nombres valen algo, no podemos garantizar su disponibilidad como marca registrada. Siempre haz tu debida diligencia antes de usar un nombre para empresas comerciales como libros o juegos.",
+        "fr": "Bien que nous soyons ravis que vous pensiez que ces noms valent quelque chose, nous ne pouvons pas garantir leur disponibilité en tant que marque déposée. Faites toujours votre diligence raisonnable avant d'utiliser un nom pour des entreprises commerciales comme des livres ou des jeux.",
+        "zh-cn": "虽然我们很高兴你认为这些名字有价值，但我们不能保证它们的商标可用性。在将名称用于商业活动（如书籍或游戏）之前，请务必进行尽职调查。",
+        "ja": "これらの名前に価値があると思っていただけて嬉しいですが、商標の利用可能性を保証することはできません。書籍やゲームなどの商業目的で名前を使用する前に、常に適切な調査を行ってください。",
+        "pt": "Embora estejamos felizes que você ache que esses nomes valem algo, não podemos garantir sua disponibilidade como marca registrada. Sempre faça a devida diligência antes de usar um nome para empreendimentos comerciais como livros ou jogos.",
+        "ru": "Хотя мы рады, что вы считаете эти имена ценными, мы не можем гарантировать их доступность в качестве товарных знаков. Всегда проводите надлежащую проверку перед использованием имени для коммерческих предприятий, таких как книги или игры."
+      }
+    },
+    {
+      "question": {
+        "en": "How many names can I generate?",
+        "ar": "كم عدد الأسماء التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres puedo generar?",
+        "fr": "Combien de noms puis-je générer?",
+        "zh-cn": "我可以生成多少个名称？",
+        "ja": "いくつの名前を生成できますか？",
+        "pt": "Quantos nomes posso gerar?",
+        "ru": "Сколько имен я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "As many as your imagination needs! There's no limit to the number of evocative island names you can conjure up with our generator. Keep clicking until you discover the perfect one (or a whole archipelago)!",
+        "ar": "بقدر ما يحتاج خيالك! لا يوجد حد لعدد أسماء الجزر الموحية التي يمكنك ابتكارها باستخدام مولدنا. استمر في النقر حتى تكتشف الاسم المثالي (أو أرخبيلًا كاملاً)!",
+        "es": "¡Tantos como tu imaginación necesite! No hay límite para el número de nombres de islas evocadores que puedes conjurar con nuestro generador. ¡Sigue haciendo clic hasta que descubras el perfecto (o un archipiélago entero)!",
+        "fr": "Autant que votre imagination en a besoin ! Il n'y a pas de limite au nombre de noms d'îles évocateurs que vous pouvez conjurer avec notre générateur. Continuez à cliquer jusqu'à ce que vous découvriez le parfait (ou tout un archipel) !",
+        "zh-cn": "您的想象力需要多少就有多少！我们的生成器可以创造无限数量的引人入胜的岛屿名称。继续点击，直到找到完美的那个（或整个群岛）！",
+        "ja": "あなたの想像力が必要とするだけ！私たちのジェネレーターで生成できる感情を呼び起こす島名の数に制限はありません。完璧な名前（または群島全体）を発見するまでクリックし続けてください！",
+        "pt": "Quantos sua imaginação precisar! Não há limite para o número de nomes de ilhas evocativos que você pode conjurar com nosso gerador. Continue clicando até descobrir o perfeito (ou um arquipélago inteiro)!",
+        "ru": "Столько, сколько нужно вашему воображению! Нет предела количеству вызывающих воспоминания названий островов, которые вы можете создать с помощью нашего генератора. Продолжайте нажимать, пока не откроете идеальное (или целый архипелаг)!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated island names actually any good?",
+        "ar": "هل أسماء الجزر التي تم إنشاؤها جيدة حقًا؟",
+        "es": "¿Los nombres de isla generados son realmente buenos?",
+        "fr": "Les noms d'îles générés sont-ils vraiment bons ?",
+        "zh-cn": "生成的岛屿名称真的好吗？",
+        "ja": "生成された島名は実際に良いものですか？",
+        "pt": "Os nomes de ilha gerados são realmente bons?",
+        "ru": "Действительно ли сгенерированные названия островов хороши?"
+      },
+      "answer": {
+        "en": "We think so! We've mixed geographical terms, evocative adjectives, and a dash of fantasy to create diverse and inspiring island names. From tropical paradises to mysterious rocks, there's variety. If one doesn't fit, generate again!",
+        "ar": "نعتقد ذلك! لقد مزجنا المصطلحات الجغرافية والصفات الموحية وقليلًا من الخيال لإنشاء أسماء جزر متنوعة وملهمة. من الجنان الاستوائية إلى الصخور الغامضة، هناك تنوع. إذا لم يناسبك اسم، فقم بالتوليد مرة أخرى!",
+        "es": "¡Creemos que sí! Hemos mezclado términos geográficos, adjetivos evocadores y una pizca de fantasía para crear nombres de islas diversos e inspiradores. Desde paraísos tropicales hasta rocas misteriosas, hay variedad. Si uno no encaja, ¡genera de nuevo!",
+        "fr": "Nous le pensons ! Nous avons mélangé des termes géographiques, des adjectifs évocateurs et une touche de fantaisie pour créer des noms d'îles diversifiés et inspirants. Des paradis tropicaux aux rochers mystérieux, il y a de la variété. Si un nom ne convient pas, générez à nouveau !",
+        "zh-cn": "我们认为是！我们混合了地理术语、引人入胜的形容词和一丝幻想，创造出多样化且鼓舞人心的岛屿名称。从热带天堂到神秘岩石，种类繁多。如果一个不合适，就再生成一次！",
+        "ja": "そう思います！地理的な用語、感情を呼び起こす形容詞、そしてファンタジーの要素を組み合わせて、多様でインスピレーションを与える島名を作成しました。熱帯の楽園から神秘的な岩まで、バラエティがあります。もし合わなければ、もう一度生成してください！",
+        "pt": "Achamos que sim! Misturamos termos geográficos, adjetivos evocativos e uma pitada de fantasia para criar nomes de ilhas diversos e inspiradores. De paraísos tropicais a rochas misteriosas, há variedade. Se um não servir, gere novamente!",
+        "ru": "Мы так думаем! Мы смешали географические термины, вызывающие воспоминания прилагательные и щепотку фэнтези, чтобы создать разнообразные и вдохновляющие названия островов. От тропических раев до таинственных скал — здесь есть разнообразие. Если одно не подходит, сгенерируйте снова!"
+      }
+    },
+    {
+      "question": {
+        "en": "Will using a name generated here make my story/game a bestseller?",
+        "ar": "هل استخدام اسم تم إنشاؤه هنا سيجعل قصتي/لعبتي الأكثر مبيعًا؟",
+        "es": "¿Usar un nombre generado aquí hará que mi historia/juego sea un éxito de ventas?",
+        "fr": "L'utilisation d'un nom généré ici fera-t-elle de mon histoire/jeu un best-seller ?",
+        "zh-cn": "使用在这里生成的名称能让我的故事/游戏成为畅销书吗？",
+        "ja": "ここで生成された名前を使用することで、私の物語/ゲームはベストセラーになりますか？",
+        "pt": "Usar um nome gerado aqui fará minha história/jogo um best-seller?",
+        "ru": "Сделает ли использование сгенерированного здесь имени мою историю/игру бестселлером?"
+      },
+      "answer": {
+        "en": "While a captivating island name sets the scene, success also depends on your plot, characters, gameplay, marketing, etc. But a great name is a fantastic starting point for capturing imagination!",
+        "ar": "بينما يمهد اسم الجزيرة الجذاب المشهد، يعتمد النجاح أيضًا على حبكتك وشخصياتك وطريقة اللعب والتسويق وما إلى ذلك. لكن الاسم الرائع هو نقطة انطلاق رائعة لجذب الخيال!",
+        "es": "Si bien un nombre de isla cautivador prepara el escenario, el éxito también depende de tu trama, personajes, jugabilidad, marketing, etc. ¡Pero un gran nombre es un punto de partida fantástico para capturar la imaginación!",
+        "fr": "Bien qu'un nom d'île captivant plante le décor, le succès dépend également de votre intrigue, de vos personnages, de votre gameplay, de votre marketing, etc. Mais un bon nom est un point de départ fantastique pour captiver l'imagination !",
+        "zh-cn": "虽然一个引人入胜的岛屿名称能奠定基调，但成功还取决于您的情节、角色、游戏玩法、营销等。但一个好名字是激发想象力的绝佳起点！",
+        "ja": "魅力的な島の名前は舞台を設定しますが、成功はプロット、キャラクター、ゲームプレイ、マーケティングなどにも依存します。しかし、素晴らしい名前は想像力を捉えるための素晴らしい出発点です！",
+        "pt": "Embora um nome de ilha cativante prepare o cenário, o sucesso também depende do seu enredo, personagens, jogabilidade, marketing, etc. Mas um ótimo nome é um ponto de partida fantástico para capturar a imaginação!",
+        "ru": "Хотя захватывающее название острова задает атмосферу, успех также зависит от вашего сюжета, персонажей, игрового процесса, маркетинга и т. д. Но отличное имя — это фантастическая отправная точка для захвата воображения!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest new themes or words for the generator?",
+        "ar": "هل يمكنني اقتراح سمات أو كلمات جديدة للمولد؟",
+        "es": "¿Puedo sugerir nuevos temas o palabras para el generador?",
+        "fr": "Puis-je suggérer de nouveaux thèmes ou mots pour le générateur?",
+        "zh-cn": "我可以为生成器建议新的主题或词语吗？",
+        "ja": "ジェネレーターに新しいテーマや単語を提案できますか？",
+        "pt": "Posso sugerir novos temas ou palavras para o gerador?",
+        "ru": "Могу ли я предложить новые темы или слова для генератора?"
+      },
+      "answer": {
+        "en": "We'd love that! The more creative inputs we have, the better our island name generator becomes. Feel free to submit your ideas through our feedback form, and you might just see them inspire future updates!",
+        "ar": "نود ذلك! كلما زادت المدخلات الإبداعية لدينا، أصبح مولد أسماء الجزر لدينا أفضل. لا تتردد في تقديم أفكارك من خلال نموذج التعليقات الخاص بنا، وقد تراها تلهم التحديثات المستقبلية!",
+        "es": "¡Nos encantaría! Cuantas más entradas creativas tengamos, mejor será nuestro generador de nombres de islas. No dudes en enviar tus ideas a través de nuestro formulario de comentarios, ¡y podrías verlas inspirar futuras actualizaciones!",
+        "fr": "Nous adorerions ! Plus nous avons d'entrées créatives, meilleur devient notre générateur de noms d'îles. N'hésitez pas à soumettre vos idées via notre formulaire de commentaires, et vous pourriez les voir inspirer les futures mises à jour !",
+        "zh-cn": "我们很乐意！我们拥有的创意输入越多，我们的岛屿名称生成器就越好。请随时通过我们的反馈表提交您的想法，您可能会看到它们启发未来的更新！",
+        "ja": "大歓迎です！より多くの創造的な入力があれば、私たちの島名ジェネレーターはさらに良くなります。フィードバックフォームからアイデアを送信してください。将来のアップデートに影響を与えるかもしれません！",
+        "pt": "Adoraríamos isso! Quanto mais entradas criativas tivermos, melhor nosso gerador de nomes de ilhas se torna. Sinta-se à vontade para enviar suas ideias através do nosso formulário de feedback, e você pode vê-las inspirar futuras atualizações!",
+        "ru": "Мы бы этого хотели! Чем больше творческих вкладов у нас есть, тем лучше становится наш генератор названий островов. Не стесняйтесь отправлять свои идеи через нашу форму обратной связи, и вы можете увидеть, как они вдохновят будущие обновления!"
+      }
+    }
+  ]
+}

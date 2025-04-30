@@ -1,0 +1,192 @@
+{
+  "name": {
+    "en": "Stripper Name Generator",
+    "ar": "مولد أسماء الراقصات",
+    "es": "Generador de Nombres de Stripper",
+    "fr": "Générateur de Noms de Strip-teaseuse",
+    "zh-cn": "脱衣舞娘名字生成器",
+    "ja": "ストリッパーネームジェネレーター",
+    "pt": "Gerador de Nomes de Stripper",
+    "ru": "Генератор Имен Стриптизерш"
+  },
+  "description": {
+    "en": "Need a stage name that sizzles, pops, and leaves a lasting impression? Our Stripper Name Generator is your go-to for finding that perfect, unforgettable, and perhaps a little naughty, stage persona name. Get ready to command the spotlight with a name that's as captivating as your moves!",
+    "ar": "هل تحتاج إلى اسم مسرحي يثير الإعجاب، يبرز، ويترك انطباعًا دائمًا؟ مولد أسماء الراقصات لدينا هو وجهتك لإيجاد هذا الاسم المسرحي المثالي، الذي لا يُنسى، وربما يكون قليلًا جريئًا. استعد للسيطرة على الأضواء باسم جذاب مثل حركاتك!",
+    "es": "¿Necesitas un nombre artístico que chisporrotee, destaque y deje una impresión duradera? Nuestro Generador de Nombres de Stripper es tu herramienta para encontrar ese nombre de personaje escénico perfecto, inolvidable y quizás un poco travieso. ¡Prepárate para dominar el escenario con un nombre tan cautivador como tus movimientos!",
+    "fr": "Besoin d'un nom de scène qui fait sensation, qui se démarque et qui laisse une impression durable ? Notre Générateur de Noms de Strip-teaseuse est votre outil incontournable pour trouver ce nom de personnage de scène parfait, inoubliable et peut-être un peu coquin. Préparez-vous à dominer la scène avec un nom aussi captivant que vos mouvements !",
+    "zh-cn": "需要一个既火辣又引人注目，还能留下持久印象的艺名吗？我们的脱衣舞娘名字生成器就是你的首选，帮你找到那个完美、令人难忘，也许还有点小性感的艺名。准备好用一个像你的舞姿一样迷人的名字来掌控全场吧！",
+    "ja": "燃えるような、弾けるような、そして忘れられない印象を残すステージネームが必要ですか？私たちのストリッパーネームジェネレーターは、完璧で忘れられない、そして少しいたずらなステージパーソナリティ名を見つけるための頼りになるツールです。あなたの動きと同じくらい魅惑的な名前でスポットライトを浴びる準備をしてください！",
+    "pt": "Precisa de um nome artístico que chame a atenção, se destaque e deixe uma impressão duradoura? Nosso Gerador de Nomes de Stripper é a sua ferramenta ideal para encontrar aquele nome de personagem de palco perfeito, inesquecível e talvez um pouco atrevido. Prepare-se para dominar o palco com um nome tão cativante quanto seus movimentos!",
+    "ru": "Нужно сценическое имя, которое искрится, выделяется и оставляет неизгладимое впечатление? Наш Генератор Имен Стриптизерш - ваш надежный помощник в поиске идеального, незабываемого и, возможно, немного озорного сценического псевдонима. Готовьтесь доминировать на сцене с именем, столь же захватывающим, как ваши движения!"
+  },
+  "slug": "stripper-name-generator",
+  "prompt": {
+    "en": "Generate a stripper name",
+    "ar": "قم بإنشاء اسم راقصة",
+    "es": "Generar un nombre de stripper",
+    "fr": "Générer un nom de strip-teaseuse",
+    "zh-cn": "生成一个脱衣舞娘名字",
+    "ja": "ストリッパーの名前を生成する",
+    "pt": "Gerar um nome de stripper",
+    "ru": "Сгенерировать имя стриптизерши"
+  },
+  "icon": "💃",
+  "introduction": {
+    "en": "Step right up, and let your inner star shine! This isn't just about picking a name; it's about crafting an identity that captivates your audience. Whether you're looking for something sweet and sassy, fierce and fiery, or mysterious and alluring, our generator has a dazzling array of options to spark your imagination. Get ready to unleash your stage alter ego and own the night!",
+    "ar": "تقدم، ودع نجمك الداخلي يتألق! الأمر لا يتعلق فقط باختيار اسم؛ إنه يتعلق بصياغة هوية تأسر جمهورك. سواء كنت تبحث عن شيء حلو وجريء، أو شرس وناري، أو غامض وجذاب، فإن مولدنا لديه مجموعة مبهرة من الخيارات لإشعال خيالك. استعد لإطلاق العنان لشخصيتك المسرحية البديلة وامتلاك الليل!",
+    "es": "¡Adelante, y deja que tu estrella interior brille! Esto no se trata solo de elegir un nombre; se trata de crear una identidad que cautive a tu audiencia. Ya sea que busques algo dulce y atrevido, feroz e ardiente, o misterioso y seductor, nuestro generador tiene una deslumbrante variedad de opciones para despertar tu imaginación. ¡Prepárate para desatar tu alter ego escénico y adueñarte de la noche!",
+    "fr": "Avancez, et laissez briller votre étoile intérieure ! Il ne s'agit pas seulement de choisir un nom ; il s'agit de créer une identité qui captive votre public. Que vous recherchiez quelque chose de doux et impertinent, de féroce et ardent, ou de mystérieux et séduisant, notre générateur propose une gamme éblouissante d'options pour stimuler votre imagination. Préparez-vous à libérer votre alter ego de scène et à posséder la nuit !",
+    "zh-cn": "走上前，让你的内在之星闪耀吧！这不只是挑选一个名字；这是关于打造一个能够吸引观众的身份。无论你是想要甜美又俏皮、火辣又热情，还是神秘又诱人的名字，我们的生成器都有令人眼花缭乱的选项来激发你的想象力。准备好释放你的舞台分身，掌控夜晚吧！",
+    "ja": "さあ、あなたの内なる星を輝かせましょう！これは単に名前を選ぶことではありません。観客を魅了するアイデンティティを作り上げることです。甘くて生意気なもの、激しくて燃えるようなもの、神秘的で魅力的なものなど、あなたが探しているものが何であれ、私たちのジェネレーターはあなたの想像力を刺激するまばゆいばかりのオプションを提供します。ステージのもう一人の自分を解き放ち、夜を支配する準備をしてください！",
+    "pt": "Chegue mais perto e deixe sua estrela interior brilhar! Não se trata apenas de escolher um nome; trata-se de criar uma identidade que cativa seu público. Se você procura algo doce e atrevido, feroz e ardente, ou misterioso e sedutor, nosso gerador tem uma variedade deslumbrante de opções para despertar sua imaginação. Prepare-se para liberar seu alter ego de palco e dominar a noite!",
+    "ru": "Шагните вперед и позвольте вашей внутренней звезде сиять! Это не просто выбор имени; это создание личности, которая завораживает вашу аудиторию. Ищете ли вы что-то милое и дерзкое, свирепое и пламенное, или загадочное и манящее, наш генератор предлагает ослепительное множество вариантов, чтобы разжечь ваше воображение. Приготовьтесь высвободить свое сценическое альтер эго и владеть ночью!"
+  },
+  "howToUse": {
+    "en": [
+      "Feel the anticipation? Click the 'Generate' button!",
+      "Watch as a list of potential stage names appears, each with its own unique flair.",
+      "Scan the results and see which name resonates with your desired persona.",
+      "Found the perfect fit? Copy that fabulous name!",
+      "Now, go forth and own the stage with a name that demands attention!"
+    ],
+    "ar": [
+      "هل تشعر بالترقب؟ اضغط على زر 'إنشاء'!",
+      "شاهد قائمة بأسماء مسرحية محتملة تظهر، كل منها بلمسة فريدة خاصة بها.",
+      "امسح النتائج ضوئيًا وشاهد أي اسم يتناسب مع شخصيتك المطلوبة.",
+      "هل وجدت الاسم المثالي؟ انسخ هذا الاسم الرائع!",
+      "والآن، انطلق وامتلك المسرح باسم يتطلب الانتباه!"
+    ],
+    "es": [
+      "¿Sientes la anticipación? ¡Haz clic en el botón 'Generar'!",
+      "Observa cómo aparece una lista de nombres artísticos potenciales, cada uno con su propio estilo único.",
+      "Escanea los resultados y ve qué nombre resuena con tu personaje deseado.",
+      "¿Encontraste el ajuste perfecto? ¡Copia ese nombre fabuloso!",
+      "¡Ahora, ve y aduéñate del escenario con un nombre que exige atención!"
+    ],
+    "fr": [
+      "Ressentez-vous l'anticipation ? Cliquez sur le bouton 'Générer' !",
+      "Regardez apparaître une liste de noms de scène potentiels, chacun avec sa propre touche unique.",
+      "Parcourez les résultats et voyez quel nom résonne avec la personnalité souhaitée.",
+      "Vous avez trouvé la bonne combinaison ? Copiez ce nom fabuleux !",
+      "Maintenant, allez-y et possédez la scène avec un nom qui attire l'attention !"
+    ],
+    "zh-cn": [
+      "感受到期待了吗？点击“生成”按钮！",
+      "看着潜在的艺名列表出现，每个名字都有其独特的风格。",
+      "浏览结果，看看哪个名字与你想要的角色相符。",
+      "找到完美的了吗？复制那个绝妙的名字！",
+      "现在，带着一个引人注目的名字去征服舞台吧！"
+    ],
+    "ja": [
+      "期待感を感じますか？「生成」ボタンをクリックしてください！",
+      "それぞれが独自の flair を持つ潜在的なステージ名のリストが表示されるのを見てください。",
+      "結果をスキャンして、希望するペルソナに響く名前を確認してください。",
+      "完璧なものを見つけましたか？その素晴らしい名前をコピーしてください！",
+      "さあ、注目を集める名前でステージを支配しに行きましょう！"
+    ],
+    "pt": [
+      "Sinta a antecipação? Clique no botão 'Gerar'!",
+      "Observe uma lista de nomes artísticos em potencial aparecer, cada um com seu próprio toque único.",
+      "Analise os resultados e veja qual nome ressoa com a sua persona desejada.",
+      "Encontrou o ajuste perfeito? Copie esse nome fabuloso!",
+      "Agora, vá em frente e domine o palco com um nome que exige atenção!"
+    ],
+    "ru": [
+      "Чувствуете предвкушение? Нажмите кнопку 'Сгенерировать'!",
+      "Наблюдайте, как появляется список потенциальных сценических имен, каждое со своим уникальным колоритом.",
+      "Просмотрите результаты и посмотрите, какое имя соответствует вашей желаемой персоне.",
+      "Нашли идеальный вариант? Скопируйте это потрясающее имя!",
+      "Теперь идите и покоряйте сцену с именем, которое требует внимания!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Stripper Name Generator suitable for all genders?",
+        "ar": "هل مولد أسماء الراقصات هذا مناسب لجميع الأجناس؟",
+        "es": "¿Este Generador de Nombres de Stripper es adecuado para todos los géneros?",
+        "fr": "Ce Générateur de Noms de Strip-teaseuse convient-il à tous les genres?",
+        "zh-cn": "这个脱衣舞娘名字生成器适合所有性别吗？",
+        "ja": "このストリッパーネームジェネレーターはすべての性別に適していますか？",
+        "pt": "Este Gerador de Nomes de Stripper é adequado para todos os gêneros?",
+        "ru": "Подходит ли этот Генератор Имен Стриптизерш для всех полов?"
+      },
+      "answer": {
+        "en": "Absolutely! While the term 'stripper' might traditionally lean one way, our generator aims to provide fun and creative stage names for anyone looking for a captivating persona, regardless of gender identity.",
+        "ar": "بالتأكيد! بينما قد يميل مصطلح 'راقصة' تقليديًا إلى اتجاه واحد، يهدف مولدنا إلى توفير أسماء مسرحية ممتعة وإبداعية لأي شخص يبحث عن شخصية آسرة، بغض النظر عن الهوية الجنسية.",
+        "es": "¡Absolutamente! Si bien el término 'stripper' podría inclinarse tradicionalmente hacia un lado, nuestro generador tiene como objetivo proporcionar nombres artísticos divertidos y creativos para cualquiera que busque una personalidad cautivadora, independientemente de la identidad de género.",
+        "fr": "Absolument ! Bien que le terme « strip-teaseuse » puisse traditionnellement pencher d'un côté, notre générateur vise à fournir des noms de scène amusants et créatifs à toute personne recherchant une personnalité captivante, quel que soit son genre.",
+        "zh-cn": "当然！虽然“脱衣舞娘”这个词传统上可能偏向一个方向，但我们的生成器旨在为任何寻求迷人角色的用户提供有趣且富有创意的艺名，无论其性别认同如何。",
+        "ja": "もちろんです！「ストリッパー」という言葉は伝統的に一方に偏っているかもしれませんが、私たちのジェネレーターは、性別に関係なく、魅力的なペルソナを探しているすべての人に楽しく創造的なステージネームを提供することを目指しています。",
+        "pt": "Absolutamente! Embora o termo 'stripper' possa tradicionalmente pender para um lado, nosso gerador visa fornecer nomes artísticos divertidos e criativos para qualquer pessoa que procure uma persona cativante, independentemente da identidade de gênero.",
+        "ru": "Абсолютно! Хотя термин 'стриптизерша' традиционно может склоняться в одну сторону, наш генератор стремится предоставить забавные и креативные сценические имена для всех, кто ищет захватывающую персону, независимо от гендерной идентичности."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names appropriate for all audiences?",
+        "ar": "هل الأسماء التي تم إنشاؤها مناسبة لجميع الجماهير؟",
+        "es": "¿Los nombres generados son apropiados para todos los públicos?",
+        "fr": "Les noms générés sont-ils appropriés pour tous les publics?",
+        "zh-cn": "生成的名称适合所有受众吗？",
+        "ja": "生成された名前はすべての観客に適していますか？",
+        "pt": "Os nomes gerados são apropriados para todos os públicos?",
+        "ru": "Подходят ли сгенерированные имена для всех аудиторий?"
+      },
+      "answer": {
+        "en": "Our generator leans towards playful and suggestive names, reflecting the nature of stage personas. While we strive for creativity, some names might be considered more mature. Please use your discretion!",
+        "ar": "يميل مولدنا نحو الأسماء المرحة والموحية، مما يعكس طبيعة الشخصيات المسرحية. بينما نسعى جاهدين للإبداع، قد تعتبر بعض الأسماء أكثر نضجًا. يرجى استخدام تقديرك!",
+        "es": "Nuestro generador se inclina hacia nombres juguetones y sugerentes, reflejando la naturaleza de los personajes escénicos. Si bien nos esforzamos por la creatividad, algunos nombres podrían considerarse más maduros. ¡Por favor, use su discreción!",
+        "fr": "Notre générateur penche vers des noms ludiques et suggestifs, reflétant la nature des personnages de scène. Bien que nous nous efforcions de faire preuve de créativité, certains noms peuvent être considérés comme plus matures. Veuillez faire preuve de discrétion !",
+        "zh-cn": "我们的生成器倾向于生成俏皮和暗示性的名字，反映了舞台角色的性质。虽然我们力求创意，但有些名字可能被认为更成熟。请自行判断！",
+        "ja": "私たちのジェネレーターは、ステージパーソナリティの性質を反映して、遊び心があり示唆に富む名前に傾いています。創造性を追求していますが、一部の名前はより成熟していると見なされる場合があります。ご自身の判断でご使用ください！",
+        "pt": "Nosso gerador se inclina para nomes divertidos e sugestivos, refletindo a natureza das personas de palco. Embora nos esforcemos pela criatividade, alguns nomes podem ser considerados mais maduros. Por favor, use seu critério!",
+        "ru": "Наш генератор склоняется к игривым и наводящим на размышления именам, отражая природу сценических образов. Хотя мы стремимся к творчеству, некоторые имена могут считаться более зрелыми. Пожалуйста, используйте свое усмотрение!"
+      }
+    },
+    {
+      "question": {
+        "en": "How many names can I generate?",
+        "ar": "كم عدد الأسماء التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres puedo generar?",
+        "fr": "Combien de noms puis-je générer?",
+        "zh-cn": "我可以生成多少个名称？",
+        "ja": "いくつの名前を生成できますか？",
+        "pt": "Quantos nomes posso gerar?",
+        "ru": "Сколько имен я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "As many as you need to find that perfect stage name! There's no limit to the number of times you can click and explore the possibilities. Keep generating until you find the name that truly speaks to you.",
+        "ar": "بقدر ما تحتاج للعثور على هذا الاسم المسرحي المثالي! لا يوجد حد لعدد المرات التي يمكنك فيها النقر واستكشاف الاحتمالات. استمر في الإنشاء حتى تجد الاسم الذي يتحدث إليك حقًا.",
+        "es": "¡Tantos como necesites para encontrar ese nombre artístico perfecto! No hay límite en la cantidad de veces que puedes hacer clic y explorar las posibilidades. Sigue generando hasta que encuentres el nombre que realmente te habla.",
+        "fr": "Autant que vous en avez besoin pour trouver ce nom de scène parfait ! Il n'y a pas de limite au nombre de fois où vous pouvez cliquer et explorer les possibilités. Continuez à générer jusqu'à ce que vous trouviez le nom qui vous parle vraiment.",
+        "zh-cn": "你需要多少个名字来找到那个完美的艺名，就可以生成多少个！点击和探索的可能性没有限制。不断生成，直到找到那个真正与你产生共鸣的名字。",
+        "ja": "その完璧なステージネームを見つけるのに必要なだけ！クリックして可能性を探求できる回数に制限はありません。本当にあなたに語りかける名前を見つけるまで生成し続けてください。",
+        "pt": "Quantos você precisar para encontrar aquele nome artístico perfeito! Não há limite para o número de vezes que você pode clicar e explorar as possibilidades. Continue gerando até encontrar o nome que realmente fala com você.",
+        "ru": "Столько, сколько вам нужно, чтобы найти идеальное сценическое имя! Нет предела количеству раз, когда вы можете кликать и исследовать возможности. Продолжайте генерировать, пока не найдете имя, которое действительно вам по душе."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names professionally?",
+        "ar": "هل يمكنني استخدام هذه الأسماء بشكل احترافي؟",
+        "es": "¿Puedo usar estos nombres profesionalmente?",
+        "fr": "Puis-je utiliser ces noms professionnellement?",
+        "zh-cn": "我可以在专业场合使用这些名字吗？",
+        "ja": "これらの名前をプロとして使用できますか？",
+        "pt": "Posso usar esses nomes profissionalmente?",
+        "ru": "Могу ли я использовать эти имена профессионально?"
+      },
+      "answer": {
+        "en": "The names generated are intended for inspiration and entertainment. While you're free to use them, we cannot guarantee their uniqueness or suitability for professional use. Always perform your own checks!",
+        "ar": "الأسماء التي تم إنشاؤها مخصصة للإلهام والترفيه. بينما يمكنك استخدامها بحرية، لا يمكننا ضمان تفرّدها أو ملاءمتها للاستخدام المهني. قم دائمًا بإجراء فحوصاتك الخاصة!",
+        "es": "Los nombres generados están destinados a la inspiración y el entretenimiento. Si bien eres libre de usarlos, no podemos garantizar su singularidad o idoneidad para uso profesional. ¡Siempre realiza tus propias verificaciones!",
+        "fr": "Les noms générés sont destinés à l'inspiration et au divertissement. Bien que vous soyez libre de les utiliser, nous ne pouvons garantir leur caractère unique ou leur adéquation à un usage professionnel. Effectuez toujours vos propres vérifications !",
+        "zh-cn": "生成的名称旨在提供灵感和娱乐。虽然你可以自由使用它们，但我们不能保证它们的独特性或是否适合专业用途。请务必自行核实！",
+        "ja": "生成された名前は、インスピレーションとエンターテイメントを目的としています。自由に使用できますが、その独自性やプロでの使用への適合性を保証することはできません。常に独自のチェックを行ってください！",
+        "pt": "Os nomes gerados são destinados à inspiração e entretenimento. Embora você seja livre para usá-los, não podemos garantir sua exclusividade ou adequação para uso profissional. Sempre faça suas próprias verificações!",
+        "ru": "Сгенерированные имена предназначены для вдохновения и развлечения. Хотя вы можете свободно их использовать, мы не можем гарантировать их уникальность или пригодность для профессионального использования. Всегда проводите собственные проверки!"
+      }
+    }
+  ]
+}

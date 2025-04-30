@@ -1,0 +1,192 @@
+{
+  "name": {
+    "en": "Mage Name Generator",
+    "ar": "مولد أسماء السحرة",
+    "es": "Generador de Nombres de Mago",
+    "fr": "Générateur de Noms de Mage",
+    "zh-cn": "法师名称生成器",
+    "ja": "魔術師名ジェネレーター",
+    "pt": "Gerador de Nomes de Mago",
+    "ru": "Генератор Имен Магов"
+  },
+  "description": {
+    "en": "Unleash your inner sorcerer! Finding the perfect, mystical name for your mage character can be a daunting task. Whether they wield elemental power, delve into dark arts, or master arcane secrets, a truly captivating name sets the stage. Our Mage Name Generator conjures up a spellbinding array of names, from the ancient and wise to the enigmatic and powerful. Step into the realm of magic with a name that speaks volumes about your character's destiny.",
+    "ar": "أطلق العنان لساحرك الداخلي! العثور على الاسم المثالي والغموضي لشخصية الساحر الخاصة بك يمكن أن يكون مهمة شاقة. سواء كانوا يمتلكون قوة العناصر، أو يتعمقون في الفنون المظلمة، أو يتقنون الأسرار الغامضة، فإن اسمًا آسرًا حقًا يمهد الطريق. مولد أسماء السحرة لدينا يستحضر مجموعة ساحرة من الأسماء، من القديمة والحكيمة إلى الغامضة والقوية. ادخل إلى عالم السحر باسم يتحدث كثيرًا عن مصير شخصيتك.",
+    "es": "¡Desata tu hechicero interior! Encontrar el nombre perfecto y místico para tu personaje mago puede ser una tarea desalentadora. Ya sea que empuñen el poder elemental, se adentren en las artes oscuras o dominen secretos arcanos, un nombre verdaderamente cautivador sienta las bases. Nuestro Generador de Nombres de Mago conjura una fascinante variedad de nombres, desde los antiguos y sabios hasta los enigmáticos y poderosos. Adéntrate en el reino de la magia con un nombre que hable mucho sobre el destino de tu personaje.",
+    "fr": "Libérez votre sorcier intérieur ! Trouver le nom parfait et mystique pour votre personnage de mage peut être une tâche ardue. Qu'ils brandissent le pouvoir élémentaire, se plongent dans les arts sombres ou maîtrisent des secrets arcaniques, un nom vraiment captivant prépare le terrain. Notre Générateur de Noms de Mage évoque un éventail envoûtant de noms, des anciens et sages aux énigmatiques et puissants. Entrez dans le royaume de la magie avec un nom qui en dit long sur le destin de votre personnage.",
+    "zh-cn": "释放你内心的巫师！为你的法师角色找到一个完美、神秘的名字可能是一项艰巨的任务。无论他们是挥舞元素力量、深入黑暗艺术，还是掌握奥术秘密，一个真正引人入胜的名字都能奠定基础。我们的法师名称生成器召唤出了一系列令人着迷的名字，从古老而睿智的到神秘而强大的。带着一个能充分说明你角色命运的名字，步入魔法领域吧。",
+    "ja": "あなたの内なる魔術師を解き放ちましょう！あなたの魔術師キャラクターにぴったりの神秘的な名前を見つけるのは大変な作業です。彼らが元素の力を振るうか、闇の芸術に深く分け入るか、あるいは秘術の秘密をマスターするかに関わらず、本当に魅力的な名前が舞台を設定します。私たちの魔術師名ジェネレーターは、古く賢明なものから謎めいて強力なものまで、魅惑的な名前の配列を呼び起こします。あなたのキャラクターの運命について多くを語る名前で、魔法の世界に足を踏み入れましょう。",
+    "pt": "Liberte seu feiticeiro interior! Encontrar o nome perfeito e místico para seu personagem mago pode ser uma tarefa assustadora. Quer eles empunhem poder elemental, se aprofundem nas artes das trevas ou dominem segredos arcanos, um nome verdadeiramente cativante prepara o palco. Nosso Gerador de Nomes de Mago conjura uma variedade fascinante de nomes, dos antigos e sábios aos enigmáticos e poderosos. Entre no reino da magia com um nome que fale muito sobre o destino do seu personagem.",
+    "ru": "Дайте волю своему внутреннему чародею! Найти идеальное, мистическое имя для вашего персонажа-мага может быть непростой задачей. Вне зависимости от того, владеют ли они силой стихий, погружаются в темные искусства или овладевают тайными секретами, действительно захватывающее имя задает тон. Наш Генератор Имен Магов создает завораживающий набор имен, от древних и мудрых до загадочных и могущественных. Шагните в царство магии с именем, которое многое говорит о судьбе вашего персонажа."
+  },
+  "slug": "mage-name-generator",
+  "prompt": {
+    "en": "Generate a mage name",
+    "ar": "قم بإنشاء اسم ساحر",
+    "es": "Generar un nombre de mago",
+    "fr": "Générer un nom de mage",
+    "zh-cn": "生成一个法师名称",
+    "ja": "魔術師名を生成する",
+    "pt": "Gerar um nome de mago",
+    "ru": "Сгенерировать имя мага"
+  },
+  "icon": "✨",
+  "introduction": {
+    "en": "Embark on your magical journey with a name as powerful as your spells! Whether you're crafting a character for a fantasy novel, an RPG campaign, or simply daydreaming about wielding arcane power, a fitting name is essential. Our generator is your portal to a world of mystical monikers, drawing inspiration from ancient languages, fantastical creatures, and the very fabric of magic itself. Prepare to discover names that resonate with power, mystery, and a touch of the extraordinary.",
+    "ar": "انطلق في رحلتك السحرية باسم قوي مثل تعويذاتك! سواء كنت تصمم شخصية لرواية خيالية، أو حملة آر بي جي، أو مجرد أحلام يقظة حول استخدام القوة الغامضة، فإن الاسم المناسب ضروري. مولدنا هو بوابتك إلى عالم من الألقاب الغامضة، مستمدًا الإلهام من اللغات القديمة، والمخلوقات الخيالية، ونسيج السحر نفسه. استعد لاكتشاف أسماء تردد صداها بالقوة والغموض ولمسة من الاستثنائي.",
+    "es": "¡Embárcate en tu viaje mágico con un nombre tan poderoso como tus hechizos! Ya sea que estés creando un personaje para una novela de fantasía, una campaña de RPG, o simplemente soñando despierto con empuñar poder arcano, un nombre apropiado es esencial. Nuestro generador es tu portal a un mundo de apodos místicos, inspirándose en lenguas antiguas, criaturas fantásticas y la propia esencia de la magia. Prepárate para descubrir nombres que resuenan con poder, misterio y un toque de lo extraordinario.",
+    "fr": "Embarquez pour votre voyage magique avec un nom aussi puissant que vos sorts ! Que vous créiez un personnage pour un roman fantastique, une campagne de RPG ou que vous rêviez simplement de manier le pouvoir arcanique, un nom approprié est essentiel. Notre générateur est votre portail vers un monde de sobriquets mystiques, puisant son inspiration dans les langues anciennes, les créatures fantastiques et le tissu même de la magie. Préparez-vous à découvrir des noms qui résonnent avec puissance, mystère et une touche d'extraordinaire.",
+    "zh-cn": "以一个像你的法术一样强大的名字，踏上你的魔法之旅吧！无论你是为奇幻小说、RPG 战役创造角色，还是仅仅幻想掌握奥术力量，一个合适的名字都是必不可少的。我们的生成器是你通往神秘名字世界的门户，它从古老语言、奇幻生物以及魔法本身的结构中汲取灵感。准备好发现那些充满力量、神秘和一丝非凡气息的名字吧。",
+    "ja": "あなたの呪文と同じくらい強力な名前で魔法の旅に出ましょう！ファンタジー小説、RPGキャンペーンのキャラクターを作成している場合でも、単に秘術の力を振るうことを夢見ている場合でも、適切な名前は不可欠です。私たちのジェネレーターは、古代の言語、幻想的な生き物、そして魔法自体の構造からインスピレーションを得た、神秘的な名前の世界へのあなたのポータルです。力、神秘、そして非凡なタッチが響く名前を発見する準備をしてください。",
+    "pt": "Embarque em sua jornada mágica com um nome tão poderoso quanto seus feitiços! Esteja você criando um personagem para um romance de fantasia, uma campanha de RPG ou simplesmente sonhando acordado em empunhar poder arcano, um nome apropriado é essencial. Nosso gerador é seu portal para um mundo de apelidos místicos, inspirando-se em línguas antigas, criaturas fantásticas e no próprio tecido da magia. Prepare-se para descobrir nomes que ressoam com poder, mistério e um toque do extraordinário.",
+    "ru": "Отправляйтесь в свое магическое путешествие с именем, столь же могущественным, как ваши заклинания! Создаете ли вы персонажа для фэнтезийного романа, кампании в RPG или просто мечтаете о владении тайной силой, подходящее имя имеет важное значение. Наш генератор — это ваш портал в мир мистических прозвищ, черпающий вдохновение из древних языков, фантастических существ и самой ткани магии. Приготовьтесь открыть для себя имена, которые резонируют с силой, тайной и оттенком необычайного."
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button and witness the magic unfold!",
+      "A list of enchanting mage names will appear before your very eyes.",
+      "Scan the names and feel the arcane energy!",
+      "Found a name that resonates with your character's soul? Copy it!",
+      "Now, go forth and weave your tales with a name worthy of legend!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' وشاهد السحر يتكشف!",
+      "ستظهر قائمة بأسماء السحرة الساحرة أمام عينيك.",
+      "امسح الأسماء واشعر بالطاقة الغامضة!",
+      "هل وجدت اسمًا يتردد صداه مع روح شخصيتك؟ انسخه!",
+      "والآن، انطلق ونسج قصصك باسم يستحق أن يكون أسطورة!"
+    ],
+    "es": [
+      "¡Haz clic en el botón 'Generar' y presencia cómo se desarrolla la magia!",
+      "Una lista de nombres de mago encantadores aparecerá ante tus ojos.",
+      "¡Escanea los nombres y siente la energía arcana!",
+      "¿Encontraste un nombre que resuene con el alma de tu personaje? ¡Cópialo!",
+      "¡Ahora, ve y teje tus historias con un nombre digno de leyenda!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' et regardez la magie se dévoiler !",
+      "Une liste de noms de mage enchanteurs apparaîtra sous vos yeux.",
+      "Scannez les noms et ressentez l'énergie arcanique !",
+      "Vous avez trouvé un nom qui résonne avec l'âme de votre personnage ? Copiez-le !",
+      "Maintenant, allez de l'avant et tissez vos récits avec un nom digne de légende !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮，见证魔法的展开！",
+      "一列迷人的法师名称将出现在你眼前。",
+      "浏览这些名字，感受奥术能量！",
+      "找到一个与你角色灵魂产生共鸣的名字了吗？复制它！",
+      "现在，带着一个传奇般的名字，去编织你的故事吧！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、魔法が展開するのを目撃してください！",
+      "魅惑的な魔術師名のリストが目の前に表示されます。",
+      "名前をスキャンして、秘術のエネルギーを感じてください！",
+      "キャラクターの魂と共鳴する名前を見つけましたか？コピーしましょう！",
+      "さあ、伝説にふさわしい名前で物語を紡ぎ出してください！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' e testemunhe a magia se desdobrar!",
+      "Uma lista de nomes de magos encantadores aparecerá diante dos seus olhos.",
+      "Escaneie os nomes e sinta a energia arcana!",
+      "Encontrou um nome que ressoa com a alma do seu personagem? Copie-o!",
+      "Agora, vá em frente e teça suas histórias com um nome digno de lenda!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Создать' и станьте свидетелем разворачивающейся магии!",
+      "Список очаровательных имен магов появится перед вашими глазами.",
+      "Просканируйте имена и почувствуйте тайную энергию!",
+      "Нашли имя, которое резонирует с душой вашего персонажа? Скопируйте его!",
+      "Теперь идите и плетите свои истории с именем, достойным легенды!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Are these mage names unique?",
+        "ar": "هل أسماء السحرة هذه فريدة؟",
+        "es": "¿Estos nombres de mago son únicos?",
+        "fr": "Ces noms de mage sont-ils uniques?",
+        "zh-cn": "这些法师名称是独一无二的吗？",
+        "ja": "これらの魔術師名はユニークですか？",
+        "pt": "Estes nomes de mago são únicos?",
+        "ru": "Уникальны ли эти имена магов?"
+      },
+      "answer": {
+        "en": "Our generator combines various linguistic and thematic elements to create a vast array of unique name combinations. While we can't guarantee absolute uniqueness across all existing fantasy works, the chances of generating a truly original name are high!",
+        "ar": "يجمع مولدنا بين العديد من العناصر اللغوية والموضوعية لإنشاء مجموعة واسعة من تركيبات الأسماء الفريدة. بينما لا يمكننا ضمان الفرادة المطلقة عبر جميع أعمال الفنتازيا الموجودة، فإن فرص إنشاء اسم أصلي حقًا عالية!",
+        "es": "Nuestro generador combina varios elementos lingüísticos y temáticos para crear una amplia gama de combinaciones de nombres únicos. Si bien no podemos garantizar la unicidad absoluta en todas las obras de fantasía existentes, las posibilidades de generar un nombre verdaderamente original son altas.",
+        "fr": "Notre générateur combine divers éléments linguistiques et thématiques pour créer une vaste gamme de combinaisons de noms uniques. Bien que nous ne puissions pas garantir une unicité absolue dans toutes les œuvres de fantaisie existantes, les chances de générer un nom vraiment original sont élevées !",
+        "zh-cn": "我们的生成器结合了各种语言和主题元素，以创建大量独特的名称组合。虽然我们不能保证在所有现有的奇幻作品中都具有绝对的独特性，但生成一个真正原创名称的机会很高！",
+        "ja": "私たちのジェネレーターは、さまざまな言語的およびテーマ的要素を組み合わせて、広範なユニークな名前の組み合わせを作成します。既存のすべてのファンタジー作品全体で絶対的な独自性を保証することはできませんが、真にオリジナルな名前を生成する可能性は高いです！",
+        "pt": "Nosso gerador combina vários elementos linguísticos e temáticos para criar uma vasta gama de combinações de nomes únicos. Embora não possamos garantir unicidade absoluta em todas as obras de fantasia existentes, as chances de gerar um nome verdadeiramente original são altas!",
+        "ru": "Наш генератор сочетает различные лингвистические и тематические элементы для создания огромного количества уникальных комбинаций имен. Хотя мы не можем гарантировать абсолютную уникальность во всех существующих фэнтезийных произведениях, шансы сгенерировать действительно оригинальное имя высоки!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I filter names by magic type (e.g., fire, ice, necromancy)?",
+        "ar": "هل يمكنني تصفية الأسماء حسب نوع السحر (مثل النار، الجليد، السحر الأسود)؟",
+        "es": "¿Puedo filtrar nombres por tipo de magia (por ejemplo, fuego, hielo, nigromancia)?",
+        "fr": "Puis-je filtrer les noms par type de magie (par exemple, feu, glace, nécromancie) ?",
+        "zh-cn": "我可以按魔法类型过滤名称吗（例如，火焰、冰霜、亡灵法术）？",
+        "ja": "魔法の種類（火、氷、ネクロマンシーなど）で名前をフィルタリングできますか？",
+        "pt": "Posso filtrar nomes por tipo de magia (por exemplo, fogo, gelo, necromancia)?",
+        "ru": "Могу ли я фильтровать имена по типу магии (например, огонь, лед, некромантия)?"
+      },
+      "answer": {
+        "en": "Currently, our generator provides a general pool of mage names. However, that's a fantastic suggestion! We're always looking to improve, and adding filtering options by magical discipline is definitely something we'll consider for future updates.",
+        "ar": "حاليًا، يوفر مولدنا مجموعة عامة من أسماء السحرة. ومع ذلك، هذا اقتراح رائع! نحن نبحث دائمًا عن التحسين، وإضافة خيارات التصفية حسب التخصص السحري هو بالتأكيد شيء سننظر فيه للتحديثات المستقبلية.",
+        "es": "Actualmente, nuestro generador proporciona un conjunto general de nombres de mago. Sin embargo, ¡esa es una sugerencia fantástica! Siempre buscamos mejorar, y agregar opciones de filtrado por disciplina mágica es definitivamente algo que consideraremos para futuras actualizaciones.",
+        "fr": "Actuellement, notre générateur fournit un pool général de noms de mage. Cependant, c'est une suggestion fantastique ! Nous cherchons toujours à nous améliorer, et l'ajout d'options de filtrage par discipline magique est certainement quelque chose que nous envisagerons pour les futures mises à jour.",
+        "zh-cn": "目前，我们的生成器提供了一个通用的法师名称库。但是，这是一个非常棒的建议！我们一直在寻求改进，按魔法学科添加过滤选项绝对是我们将在未来更新中考虑的事情。",
+        "ja": "現在、当社のジェネレーターは魔術師名の一般的なプールを提供しています。しかし、それは素晴らしい提案です！私たちは常に改善を目指しており、魔法の分野によるフィルタリングオプションの追加は、今後のアップデートで検討する予定です。",
+        "pt": "Atualmente, nosso gerador fornece um conjunto geral de nomes de magos. No entanto, essa é uma sugestão fantástica! Estamos sempre buscando melhorar, e adicionar opções de filtragem por disciplina mágica é definitivamente algo que consideraremos para futuras atualizações.",
+        "ru": "В настоящее время наш генератор предоставляет общий пул имен магов. Однако это фантастическое предложение! Мы всегда стремимся улучшаться, и добавление опций фильтрации по магической дисциплине — это определенно то, что мы рассмотрим для будущих обновлений."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my tabletop RPG character?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لشخصية لعبة تقمص الأدوار الخاصة بي على الطاولة؟",
+        "es": "¿Puedo usar estos nombres para mi personaje de juego de rol de mesa?",
+        "fr": "Puis-je utiliser ces noms pour mon personnage de jeu de rôle sur table ?",
+        "zh-cn": "我可以使用这些名称作为我的桌面角色扮演游戏角色吗？",
+        "ja": "これらの名前を卓上RPGキャラクターに使用できますか？",
+        "pt": "Posso usar estes nomes para o meu personagem de RPG de mesa?",
+        "ru": "Могу ли я использовать эти имена для своего персонажа в настольной ролевой игре?"
+      },
+      "answer": {
+        "en": "Absolutely! That's exactly what it's for! Our generator is designed to spark your creativity and provide you with awesome names for all your fantasy endeavors, including tabletop RPGs.",
+        "ar": "بالتأكيد! هذا هو بالضبط ما هو مخصص له! تم تصميم مولدنا لإثارة إبداعك وتزويدك بأسماء رائعة لجميع مشاريعك الخيالية، بما في ذلك ألعاب تقمص الأدوار على الطاولة.",
+        "es": "¡Absolutamente! ¡Para eso es exactamente! Nuestro generador está diseñado para despertar tu creatividad y proporcionarte nombres increíbles para todos tus proyectos de fantasía, incluidos los juegos de rol de mesa.",
+        "fr": "Absolument ! C'est exactement à cela qu'il sert ! Notre générateur est conçu pour stimuler votre créativité et vous fournir des noms géniaux pour toutes vos entreprises fantastiques, y compris les jeux de rôle sur table.",
+        "zh-cn": "当然可以！这正是它的用途！我们的生成器旨在激发你的创造力，并为你所有的奇幻创作提供超棒的名字，包括桌面角色扮演游戏。",
+        "ja": "もちろんです！まさにそのために作られました！私たちのジェネレーターは、あなたの創造性を刺激し、卓上RPGを含むすべてのファンタジーの取り組みに素晴らしい名前を提供するために設計されています。",
+        "pt": "Absolutamente! É exatamente para isso que serve! Nosso gerador foi projetado para despertar sua criatividade e fornecer nomes incríveis para todos os seus empreendimentos de fantasia, incluindo RPGs de mesa.",
+        "ru": "Конечно! Именно для этого он и предназначен! Наш генератор создан для того, чтобы разжечь вашу креативность и предоставить вам потрясающие имена для всех ваших фэнтезийных проектов, включая настольные ролевые игры."
+      }
+    },
+    {
+      "question": {
+        "en": "The names are great, but how do I choose one?",
+        "ar": "الأسماء رائعة، ولكن كيف أختار اسمًا؟",
+        "es": "Los nombres son geniales, pero ¿cómo elijo uno?",
+        "fr": "Les noms sont super, mais comment en choisir un ?",
+        "zh-cn": "这些名字都很棒，但我怎么选择一个呢？",
+        "ja": "名前は素晴らしいですが、どうやって選べばいいですか？",
+        "pt": "Os nomes são ótimos, mas como eu escolho um?",
+        "ru": "Имена отличные, но как выбрать одно?"
+      },
+      "answer": {
+        "en": "Consider your character's personality, background, and the type of magic they practice. Does the name sound ancient and wise, or perhaps volatile and dangerous? Read them aloud to see how they feel. Trust your instincts – the right name will often just *feel* right!",
+        "ar": "ضع في اعتبارك شخصية شخصيتك، وخلفيتها، ونوع السحر الذي تمارسه. هل يبدو الاسم قديمًا وحكيمًا، أم ربما متقلبًا وخطيرًا؟ اقرأها بصوت عالٍ لترى كيف تشعر. ثق بحدسك - الاسم الصحيح غالبًا ما *يشعر* بأنه صحيح!",
+        "es": "Considera la personalidad de tu personaje, su historia y el tipo de magia que practica. ¿El nombre suena antiguo y sabio, o quizás volátil y peligroso? Léelos en voz alta para ver cómo se sienten. Confía en tus instintos: ¡el nombre correcto a menudo simplemente se *siente* bien!",
+        "fr": "Considérez la personnalité de votre personnage, son passé et le type de magie qu'il pratique. Le nom sonne-t-il ancien et sage, ou peut-être volatil et dangereux ? Lisez-les à voix haute pour voir comment ils ressentent. Fiez-vous à votre instinct - le bon nom se *sentira* souvent juste !",
+        "zh-cn": "考虑你角色的个性、背景以及他们所施展的魔法类型。这个名字听起来是古老而睿智，还是不稳定而危险？大声朗读，感受一下。相信你的直觉——正确的名字通常会让你 *感觉* 对了！",
+        "ja": "キャラクターの性格、背景、そして彼らが実践する魔法の種類を考慮してください。名前は古く賢明に聞こえますか、それとも不安定で危険に聞こえますか？声に出して読んでみて、どのように感じるか確認してください。直感を信じてください - 正しい名前はしばしば*感じる*だけです！",
+        "pt": "Considere a personalidade do seu personagem, seu histórico e o tipo de magia que ele pratica. O nome soa antigo e sábio, ou talvez volátil e perigoso? Leia-os em voz alta para ver como eles se sentem. Confie em seus instintos - o nome certo muitas vezes simplesmente *parecerá* certo!",
+        "ru": "Учитывайте личность вашего персонажа, его предысторию и тип магии, которую он практикует. Звучит ли имя древним и мудрым, или, возможно, непостоянным и опасным? Прочитайте их вслух, чтобы почувствовать их. Доверьтесь своим инстинктам — правильное имя часто просто *ощущается* правильным!"
+      }
+    }
+  ]
+}

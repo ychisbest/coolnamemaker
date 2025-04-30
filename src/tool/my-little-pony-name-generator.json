@@ -1,0 +1,170 @@
+{
+  "name": {
+    "en": "My Little Pony Name Generator",
+    "ar": "مولد أسماء ماي ليتل بوني",
+    "es": "Generador de Nombres de My Little Pony",
+    "fr": "Générateur de Noms My Little Pony",
+    "zh-cn": "小马宝莉名称生成器",
+    "ja": "マイリトルポニー名前ジェネレーター",
+    "pt": "Gerador de Nomes My Little Pony",
+    "ru": "Генератор Имен My Little Pony"
+  },
+  "description": {
+    "en": "Dreaming of your own magical pony adventure in Equestria? Every pony needs a name as unique and special as their cutie mark! Our My Little Pony Name Generator is here to spark your imagination and help you find the perfect name for your very own Pegasus, Unicorn, Earth Pony, or even an Alicorn! Get ready to embrace the spirit of friendship with a name that shines as bright as a Rainbow Dash!",
+    "ar": "هل تحلم بمغامرة المهر السحرية الخاصة بك في إكويستريا؟ كل مهر يحتاج إلى اسم فريد ومميز مثل علامة جماله! مولد اسم ماي ليتل بوني الخاص بنا هنا لإشعال خيالك ومساعدتك في العثور على الاسم المثالي لبيغاسوس أو يونيكورن أو إيرث بوني الخاص بك، أو حتى أليكورن! استعد لتبني روح الصداقة باسم يشرق ساطعًا مثل رينبو داش!",
+    "es": "¿Soñando con tu propia aventura mágica de poni en Equestria? ¡Cada poni necesita un nombre tan único y especial como su cutie mark! Nuestro Generador de Nombres de My Little Pony está aquí para encender tu imaginación y ayudarte a encontrar el nombre perfecto para tu propio Pegaso, Unicornio, Poni Terrestre, ¡o incluso un Alicornio! ¡Prepárate para abrazar el espíritu de la amistad con un nombre que brilla tan intensamente como Rainbow Dash!",
+    "fr": "Vous rêvez de votre propre aventure magique de poney à Equestria ? Chaque poney a besoin d'un nom aussi unique et spécial que sa marque de beauté ! Notre Générateur de Noms My Little Pony est là pour stimuler votre imagination et vous aider à trouver le nom parfait pour votre propre Pégase, Licorne, Poney de Terre, ou même un Alicorne ! Préparez-vous à embrasser l'esprit d'amitié avec un nom qui brille aussi fort que Rainbow Dash !",
+    "zh-cn": "梦想着在小马利亚拥有自己的神奇小马冒险？每只小马都需要一个像它们的可爱标记一样独特而特别的名字！我们的小马宝莉名称生成器在这里激发你的想象力，帮助你为自己的飞马、独角兽、陆地小马，甚至天角兽找到完美的名字！准备好用一个像彩虹冲刺一样闪耀的名字拥抱友谊的精神吧！",
+    "ja": "エクエストリアでの自分だけの魔法のポニーアドベンチャーを夢見ていますか？すべてのポニーは、キュートマークと同じくらいユニークで特別な名前が必要です！私たちのマイリトルポニー名前ジェネレーターは、あなたの想像力を刺激し、あなた自身のペガサス、ユニコーン、アースポニー、さらにはアリコーンにぴったりの名前を見つけるお手伝いをします！レインボーダッシュのように明るく輝く名前で友情の精神を受け入れる準備をしてください！",
+    "pt": "Sonhando com sua própria aventura mágica de pônei em Equestria? Cada pônei precisa de um nome tão único e especial quanto sua cutie mark! Nosso Gerador de Nomes My Little Pony está aqui para despertar sua imaginação e ajudá-lo a encontrar o nome perfeito para seu próprio Pégaso, Unicórnio, Pônei Terrestre, ou até mesmo um Alicórnio! Prepare-se para abraçar o espírito da amizade com um nome que brilha tão intensamente quanto Rainbow Dash!",
+    "ru": "Мечтаете о собственном волшебном приключении пони в Эквестрии? Каждому пони нужно имя, такое же уникальное и особенное, как их кьютимарка! Наш Генератор Имен My Little Pony здесь, чтобы разжечь ваше воображение и помочь вам найти идеальное имя для вашего собственного Пегаса, Единорога, Земного Пони или даже Аликорна! Приготовьтесь принять дух дружбы с именем, которое сияет так же ярко, как Радуга Дэш!"
+  },
+  "slug": "my-little-pony-name-generator",
+  "prompt": {
+    "en": "Generate a My Little Pony name",
+    "ar": "قم بإنشاء اسم ماي ليتل بوني",
+    "es": "Generar un nombre de My Little Pony",
+    "fr": "Générer un nom My Little Pony",
+    "zh-cn": "生成一个我的小马宝莉名称",
+    "ja": "マイリトルポニーの名前を生成する",
+    "pt": "Gerar um nome My Little Pony",
+    "ru": "Сгенерировать имя My Little Pony"
+  },
+  "icon": "🐴",
+  "introduction": {
+    "en": "Step into the vibrant world of My Little Pony, where friendship is magic and every creature has a story! Choosing a name for your pony alter ego (or perhaps a character in your fanfiction!) is a big deal. It should reflect their personality, their talents, and maybe even hint at their cutie mark. Our generator is packed with whimsical, sweet, and sometimes silly name ideas inspired by the show's beloved characters and themes. Whether you envision a brave and bold Pegasus, a wise and sparkling Unicorn, or a kind and down-to-earth Earth Pony, let's find the name that fits!",
+    "ar": "ادخل إلى عالم ماي ليتل بوني النابض بالحياة، حيث الصداقة سحر وكل مخلوق لديه قصة! اختيار اسم لشخصية المهر البديلة (أو ربما شخصية في قصصك الخيالية!) أمر كبير. يجب أن يعكس شخصيتهم ومواهبهم، وربما يلمح إلى علامة جمالهم. مولدنا مليء بأفكار أسماء غريبة ولطيفة وأحيانًا سخيفة مستوحاة من شخصيات وعناصر العرض المحبوبة. سواء كنت تتخيل بيغاسوس شجاعًا وجريئًا، أو يونيكورن حكيمًا ومتألقًا، أو إيرث بوني لطيفًا ومتواضعًا، دعنا نجد الاسم الذي يناسب!",
+    "es": "¡Adéntrate en el vibrante mundo de My Little Pony, donde la amistad es magia y cada criatura tiene una historia! Elegir un nombre para tu alter ego poni (¡o quizás un personaje en tu fanfiction!) es un gran asunto. Debe reflejar su personalidad, sus talentos y tal vez incluso insinuar su cutie mark. Nuestro generador está lleno de ideas de nombres caprichosas, dulces y a veces tontas inspiradas en los queridos personajes y temas del programa. Ya sea que imagines un Pegaso valiente y audaz, un Unicornio sabio y brillante, o un Poni Terrestre amable y con los pies en la tierra, ¡encontremos el nombre que encaje!",
+    "fr": "Entrez dans le monde vibrant de My Little Pony, où l'amitié est magique et chaque créature a une histoire ! Choisir un nom pour votre alter ego poney (ou peut-être un personnage dans votre fanfiction !) est une affaire importante. Il doit refléter sa personnalité, ses talents, et peut-être même faire allusion à sa marque de beauté. Notre générateur est rempli d'idées de noms fantaisistes, doux et parfois stupides inspirées des personnages et thèmes préférés de la série. Que vous envisagiez un Pégase courageux et audacieux, une Licorne sage et étincelante, ou un Poney de Terre gentil et terre-à-terre, trouvons le nom qui convient !",
+    "zh-cn": "踏入小马宝莉充满活力的世界，那里友谊是魔法，每个生物都有一个故事！为你的小马分身（或者你同人小说中的角色！）选择一个名字是一件大事。它应该反映它们的个性、才能，甚至可能暗示它们的可爱标记。我们的生成器充满了异想天开、可爱，有时甚至傻气的名字想法，灵感来自节目中深受喜爱的角色和主题。无论你想象的是一只勇敢大胆的飞马，一只智慧闪耀的独角兽，还是一只善良脚踏实地的陆地小马，让我们找到最适合的名字吧！",
+    "ja": "友情が魔法であり、すべての生き物に物語があるマイリトルポニーの活気に満ちた世界に足を踏み入れましょう！あなたのポニーの分身（またはファンフィクションのキャラクター！）の名前を選ぶことは大きなことです。それは彼らの個性、才能を反映し、そしておそらく彼らのキュートマークを示唆するはずです。私たちのジェネレーターは、ショーの愛されているキャラクターやテーマに触発された、気まぐれで甘く、時にはばかげた名前のアイデアでいっぱいです。勇敢で大胆なペガサス、賢くきらめくユニコーン、または親切で地に足のついたアースポニーを思い描いているかどうかにかかわらず、ぴったりの名前を見つけましょう！",
+    "pt": "Entre no mundo vibrante de My Little Pony, onde a amizade é mágica e cada criatura tem uma história! Escolher um nome para o seu alter ego pônei (ou talvez um personagem em sua fanfic!) é um grande negócio. Deve refletir sua personalidade, seus talentos e talvez até mesmo sugerir sua cutie mark. Nosso gerador está repleto de ideias de nomes extravagantes, doces e às vezes bobas inspiradas nos amados personagens e temas do show. Se você imagina um Pégaso corajoso e ousado, um Unicórnio sábio e brilhante, ou um Pônei Terrestre gentil e pé no chão, vamos encontrar o nome que se encaixa!",
+    "ru": "Окунитесь в яркий мир My Little Pony, где дружба - это магия, и у каждого существа есть история! Выбор имени для вашего пони-альтер эго (или, возможно, персонажа в вашем фанфике!) - это большое дело. Оно должно отражать их личность, их таланты и, возможно, даже намекать на их кьютимарку. Наш генератор наполнен причудливыми, милыми, а иногда и глупыми идеями имен, вдохновленными любимыми персонажами и темами шоу. Представляете ли вы храброго и смелого Пегаса, мудрого и сверкающего Единорога или доброго и приземленного Земного Пони, давайте найдем подходящее имя!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button below to unleash a sprinkle of pony magic!",
+      "Watch as a selection of delightful pony names appears.",
+      "Browse through the list to find a name that sparks joy.",
+      "See a name you love? Click to copy it!",
+      "Now, go forth and spread friendship and harmony with your perfectly named pony!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' أدناه لإطلاق رشة من سحر المهر!",
+      "شاهد بينما تظهر مجموعة مختارة من أسماء المهور المبهجة.",
+      "تصفح القائمة للعثور على اسم يثير الفرح.",
+      "هل ترى اسمًا تحبه؟ انقر لنسخه!",
+      "والآن، انطلق وانشر الصداقة والانسجام مع مهرك المسمى بشكل مثالي!"
+    ],
+    "es": [
+      "¡Haz clic en el botón 'Generar' a continuación para desatar una pizca de magia poni!",
+      "Observa cómo aparece una selección de encantadores nombres de poni.",
+      "Examina la lista para encontrar un nombre que te alegre.",
+      "¿Ves un nombre que te encanta? ¡Haz clic para copiarlo!",
+      "¡Ahora, ve y difunde amistad y armonía con tu poni perfectamente nombrado!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' ci-dessous pour libérer une pincée de magie poney !",
+      "Regardez une sélection de noms de poneys délicieux apparaître.",
+      "Parcourez la liste pour trouver un nom qui suscite la joie.",
+      "Vous voyez un nom que vous aimez ? Cliquez pour le copier !",
+      "Maintenant, allez de l'avant et répandez l'amitié et l'harmonie avec votre poney parfaitement nommé !"
+    ],
+    "zh-cn": [
+      "点击下面的\"生成\"按钮，释放一点小马魔法！",
+      "看着一系列令人愉快的小马名字出现。",
+      "浏览列表，找到一个让你感到快乐的名字。",
+      "看到你喜欢的名字了吗？点击复制它！",
+      "现在，带着你完美命名的小马，去传播友谊与和谐吧！"
+    ],
+    "ja": [
+      "下の「生成」ボタンをクリックして、ポニーマジックを少し解放しましょう！",
+      "楽しいポニーの名前のセレクションが表示されるのを見てください。",
+      "リストを閲覧して、喜びを呼び起こす名前を見つけてください。",
+      "好きな名前を見ましたか？クリックしてコピーしましょう！",
+      "さあ、完璧に名付けられたポニーと一緒に、友情と調和を広めに行きましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' abaixo para liberar uma pitada de magia pônei!",
+      "Observe enquanto uma seleção de nomes de pônei encantadores aparece.",
+      "Navegue pela lista para encontrar um nome que desperte alegria.",
+      "Viu um nome que você ama? Clique para copiá-lo!",
+      "Agora, vá em frente e espalhe amizade e harmonia com seu pônei perfeitamente nomeado!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Создать' ниже, чтобы выпустить щепотку пони-магии!",
+      "Смотрите, как появляется подборка восхитительных пони-имен.",
+      "Просмотрите список, чтобы найти имя, которое вызывает радость.",
+      "Видите имя, которое вам нравится? Нажмите, чтобы скопировать его!",
+      "Теперь идите и распространяйте дружбу и гармонию с вашим идеально названным пони!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Are these names official My Little Pony names?",
+        "ar": "هل هذه الأسماء أسماء رسمية لماي ليتل بوني؟",
+        "es": "¿Estos nombres son nombres oficiales de My Little Pony?",
+        "fr": "Ces noms sont-ils des noms officiels de My Little Pony?",
+        "zh-cn": "这些名字是官方的小马宝莉名字吗？",
+        "ja": "これらの名前は公式のマイリトルポニーの名前ですか？",
+        "pt": "Esses nomes são nomes oficiais de My Little Pony?",
+        "ru": "Являются ли эти имена официальными именами My Little Pony?"
+      },
+      "answer": {
+        "en": "While our generator is inspired by the world of My Little Pony, the names generated are unique creations and not official character names from the show or its merchandise. Feel free to use them for your own creative projects!",
+        "ar": "بينما مولدنا مستوحى من عالم ماي ليتل بوني، فإن الأسماء التي يتم إنشاؤها هي إبداعات فريدة وليست أسماء شخصيات رسمية من العرض أو بضاعته. لا تتردد في استخدامها لمشاريعك الإبداعية الخاصة!",
+        "es": "Si bien nuestro generador está inspirado en el mundo de My Little Pony, los nombres generados son creaciones únicas y no nombres de personajes oficiales del programa o su merchandising. ¡Siéntete libre de usarlos para tus propios proyectos creativos!",
+        "fr": "Bien que notre générateur soit inspiré par le monde de My Little Pony, les noms générés sont des créations uniques et non des noms de personnages officiels de la série ou de ses produits dérivés. N'hésitez pas à les utiliser pour vos propres projets créatifs !",
+        "zh-cn": "虽然我们的生成器灵感来源于小马宝莉的世界，但生成的名称是独特的创作，并不是节目或其周边商品的官方角色名称。请随意将其用于你自己的创意项目！",
+        "ja": "私たちのジェネレーターはマイリトルポニーの世界に触発されていますが、生成される名前は独自の創造物であり、ショーやその商品からの公式のキャラクター名ではありません。ご自身のクリエイティブなプロジェクトに自由に使用してください！",
+        "pt": "Embora nosso gerador seja inspirado no mundo de My Little Pony, os nomes gerados são criações únicas e não nomes de personagens oficiais do show ou de seus produtos. Sinta-se à vontade para usá-los em seus próprios projetos criativos!",
+        "ru": "Хотя наш генератор вдохновлен миром My Little Pony, сгенерированные имена являются уникальными творениями и не являются официальными именами персонажей из шоу или его продукции. Не стесняйтесь использовать их для своих собственных творческих проектов!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I filter names by pony type (Pegasus, Unicorn, etc.)?",
+        "ar": "هل يمكنني تصفية الأسماء حسب نوع المهر (بيغاسوس، يونيكورن، إلخ)؟",
+        "es": "¿Puedo filtrar nombres por tipo de poni (Pegaso, Unicornio, etc.)?",
+        "fr": "Puis-je filtrer les noms par type de poney (Pégase, Licorne, etc.)?",
+        "zh-cn": "我可以按小马类型（飞马、独角兽等）过滤名称吗？",
+        "ja": "ポニーの種類（ペガサス、ユニコーンなど）で名前をフィルタリングできますか？",
+        "pt": "Posso filtrar nomes por tipo de pônei (Pégaso, Unicórnio, etc.)?",
+        "ru": "Могу ли я фильтровать имена по типу пони (Пегас, Единорог и т.д.)?"
+      },
+      "answer": {
+        "en": "Currently, the generator provides a mixed list of names suitable for various pony types. We're always looking to improve, so filtering options might be added in future updates!",
+        "ar": "حاليًا، يوفر المولد قائمة مختلطة من الأسماء المناسبة لأنواع مختلفة من المهور. نحن نسعى دائمًا للتحسين، لذلك قد تتم إضافة خيارات التصفية في التحديثات المستقبلية!",
+        "es": "Actualmente, el generador proporciona una lista mixta de nombres adecuados para varios tipos de poni. Siempre buscamos mejorar, ¡así que las opciones de filtrado podrían agregarse en futuras actualizaciones!",
+        "fr": "Actuellement, le générateur fournit une liste mixte de noms adaptés à divers types de poneys. Nous cherchons toujours à nous améliorer, donc des options de filtrage pourraient être ajoutées dans de futures mises à jour !",
+        "zh-cn": "目前，生成器提供了一个适用于各种小马类型的混合名称列表。我们一直在寻求改进，因此过滤选项可能会在将来的更新中添加！",
+        "ja": "現在、ジェネレーターはさまざまなポニーの種類に適した名前の混合リストを提供しています。私たちは常に改善を目指しており、将来のアップデートでフィルタリングオプションが追加される可能性があります！",
+        "pt": "Atualmente, o gerador fornece uma lista mista de nomes adequados para vários tipos de pônei. Estamos sempre procurando melhorar, então opções de filtragem podem ser adicionadas em futuras atualizações!",
+        "ru": "В настоящее время генератор предоставляет смешанный список имен, подходящих для различных типов пони. Мы всегда стремимся к совершенствованию, поэтому опции фильтрации могут быть добавлены в будущих обновлениях!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest words or themes to include in the generator?",
+        "ar": "هل يمكنني اقتراح كلمات أو مواضيع لتضمينها في المولد؟",
+        "es": "¿Puedo sugerir palabras o temas para incluir en el generador?",
+        "fr": "Puis-je suggérer des mots ou des thèmes à inclure dans le générateur?",
+        "zh-cn": "我可以建议要包含在生成器中的单词或主题吗？",
+        "ja": "ジェネレーターに含める単語やテーマを提案できますか？",
+        "pt": "Posso sugerir palavras ou temas para incluir no gerador?",
+        "ru": "Могу ли я предложить слова или темы для включения в генератор?"
+      },
+      "answer": {
+        "en": "Absolutely! We love hearing from fellow bronies and pegasisters. Your suggestions help make the generator even more magical. Reach out through our feedback channels!",
+        "ar": "بالتأكيد! نحب أن نسمع من محبي المهور الآخرين. اقتراحاتكم تساعد على جعل المولد أكثر سحرًا. تواصلوا معنا عبر قنوات التغذية الراجعة لدينا!",
+        "es": "¡Absolutamente! Nos encanta escuchar a otros bronies y pegasisters. Tus sugerencias ayudan a que el generador sea aún más mágico. ¡Contáctanos a través de nuestros canales de comentarios!",
+        "fr": "Absolument ! Nous adorons entendre les autres bronies et pegasisters. Vos suggestions aident à rendre le générateur encore plus magique. Contactez-nous via nos canaux de retour d'information !",
+        "zh-cn": "当然可以！我们很高兴听到其他小马爱好者的意见。你的建议有助于让生成器变得更加神奇。通过我们的反馈渠道联系我们吧！",
+        "ja": "もちろんです！他のブロニーやペガシスターからの意見を聞くのが大好きです。あなたの提案はジェネレーターをさらに魔法のようにするのに役立ちます。フィードバックチャネルからご連絡ください！",
+        "pt": "Absolutamente! Adoramos ouvir outros bronies e pegasisters. Suas sugestões ajudam a tornar o gerador ainda mais mágico. Entre em contato através de nossos canais de feedback!",
+        "ru": "Абсолютно! Мы любим получать новости от других брони и пегасистеров. Ваши предложения помогают сделать генератор еще более волшебным. Свяжитесь с нами через наши каналы обратной связи!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "name": {
+    "en": "Tiefling Name Generator",
+    "ar": "مولد أسماء التيفلينغ",
+    "es": "Generador de Nombres Tiefling",
+    "fr": "Générateur de Noms de Tiefling",
+    "zh-cn": "提夫林名称生成器",
+    "ja": "ティーフリング名ジェネレーター",
+    "pt": "Gerador de Nomes Tiefling",
+    "ru": "Генератор Имен Тифлингов"
+  },
+  "description": {
+    "en": "Unleash the infernal charm with our Tiefling Name Generator! Whether you're crafting a brooding rogue, a fiery sorcerer, or a surprisingly kind-hearted paladin, finding the perfect name is crucial. Dive into a realm of names that echo their fiendish ancestry and unique personalities. Prepare to discover names that are as intriguing and complex as the Tieflings themselves.",
+    "ar": "أطلق العنان للسحر الجهنمي مع مولد أسماء التيفلينغ الخاص بنا! سواء كنت تصمم روغًا متقلبًا، أو ساحرًا ناريًا، أو بالادينًا طيب القلب بشكل مدهش، فإن العثور على الاسم المثالي أمر بالغ الأهمية. انغمس في عالم من الأسماء التي تعكس أصولهم الشيطانية وشخصياتهم الفريدة. استعد لاكتشاف أسماء مثيرة للاهتمام ومعقدة مثل التيفلينغ أنفسهم.",
+    "es": "¡Desata el encanto infernal con nuestro Generador de Nombres Tiefling! Ya sea que estés creando un pícaro melancólico, un hechicero ardiente o un paladín sorprendentemente bondadoso, encontrar el nombre perfecto es crucial. Sumérgete en un reino de nombres que hacen eco de su ascendencia infernal y personalidades únicas. Prepárate para descubrir nombres tan intrigantes y complejos como los propios Tieflings.",
+    "fr": "Libérez le charme infernal avec notre Générateur de Noms de Tiefling ! Que vous créiez un roublard maussade, un sorcier fiery, ou un paladin étonnamment bienveillant, trouver le nom parfait est crucial. Plongez dans un royaume de noms qui font écho à leur ascendance démoniaque et à leurs personnalités uniques. Préparez-vous à découvrir des noms aussi intrigants et complexes que les Tieflings eux-mêmes.",
+    "zh-cn": "使用我们的提夫林名称生成器释放炼狱魅力吧！无论你是在塑造一个忧郁的游荡者、一个炽热的术士，还是一个出奇地善良的圣骑士，找到一个完美的名字都至关重要。潜入一个回荡着他们恶魔血统和独特个性的名字领域。准备好发现像提夫林本身一样引人入胜和复杂的名字吧。",
+    "ja": "私たちのティーフリング名ジェネレーターで地獄のような魅力を解き放ちましょう！陰鬱なローグ、燃えるようなソーサラー、または驚くほど心優しいパラディンを作成している場合でも、完璧な名前を見つけることは非常に重要です。彼らの邪悪な祖先とユニークな個性を反映する名前の領域に飛び込みましょう。ティーフリング自身と同じくらい興味深く複雑な名前を発見する準備をしてください。",
+    "pt": "Liberte o charme infernal com nosso Gerador de Nomes Tiefling! Quer você esteja criando um ladino melancólico, um feiticeiro ardente ou um paladino surpreendentemente bondoso, encontrar o nome perfeito é crucial. Mergulhe em um reino de nomes que ecoam sua ascendência diabólica e personalidades únicas. Prepare-se para descobrir nomes tão intrigantes e complexos quanto os próprios Tieflings.",
+    "ru": "Раскройте адское очарование с нашим Генератором Имен Тифлингов! Независимо от того, создаете ли вы мрачного разбойника, огненного колдуна или удивительно добросердечного паладина, найти идеальное имя крайне важно. Погрузитесь в царство имен, которые отражают их дьявольское происхождение и уникальные личности. Приготовьтесь открыть имена, столь же интригующие и сложные, как сами тифлинги."
+  },
+  "slug": "tiefling-name-generator",
+  "prompt": {
+    "en": "Generate a Tiefling name",
+    "ar": "قم بإنشاء اسم تيفلينغ",
+    "es": "Generar un nombre Tiefling",
+    "fr": "Générer un nom de Tiefling",
+    "zh-cn": "生成一个提夫林名称",
+    "ja": "ティーフリング名を生成する",
+    "pt": "Gerar um nome Tiefling",
+    "ru": "Сгенерировать имя тифлинга"
+  },
+  "icon": "👿",
+  "introduction": {
+    "en": "Tieflings, with their infernal heritage, often carry names that hint at their fiendish bloodline or are chosen to reflect their personality or a virtue they embrace. This generator draws inspiration from these themes, offering a blend of harsh, melodic, and evocative names. Whether you're looking for a name for a Dungeons & Dragons character, a fantasy novel, or just for fun, you'll find names that capture the essence of this fascinating race. Get ready to name your Tiefling with a moniker that truly embodies their spirit!",
+    "ar": "التيفلينغ، بفضل تراثهم الجهنمي، غالبًا ما يحملون أسماء تشير إلى سلالتهم الشيطانية أو يتم اختيارها لتعكس شخصيتهم أو فضيلة يعتنقونها. يستمد هذا المولد الإلهام من هذه المواضيع، ويقدم مزيجًا من الأسماء القاسية، الميلودية، والموحية. سواء كنت تبحث عن اسم لشخصية في Dungeons & Dragons، أو رواية خيالية، أو لمجرد المتعة، ستجد أسماء تجسد جوهر هذا العرق الرائع. استعد لتسمية التيفلينغ الخاص بك بلقب يجسد روحه حقًا!",
+    "es": "Los Tieflings, con su herencia infernal, a menudo llevan nombres que insinúan su linaje diabólico o son elegidos para reflejar su personalidad o una virtud que abrazan. Este generador se inspira en estos temas, ofreciendo una mezcla de nombres duros, melódicos y evocadores. Ya sea que estés buscando un nombre para un personaje de Dungeons & Dragons, una novela de fantasía o simplemente por diversión, encontrarás nombres que capturan la esencia de esta fascinante raza. ¡Prepárate para nombrar a tu Tiefling con un apodo que realmente encarne su espíritu!",
+    "fr": "Les Tieflings, avec leur héritage infernal, portent souvent des noms qui font allusion à leur lignée démoniaque ou sont choisis pour refléter leur personnalité ou une vertu qu'ils embrassent. Ce générateur s'inspire de ces thèmes, offrant un mélange de noms durs, mélodiques et évocateurs. Que vous cherchiez un nom pour un personnage de Donjons & Dragons, un roman fantastique, ou juste pour le plaisir, vous trouverez des noms qui capturent l'essence de cette race fascinante. Préparez-vous à nommer votre Tiefling avec un surnom qui incarne véritablement son esprit !",
+    "zh-cn": "提夫林，带着他们的炼狱血统，通常携带着暗示他们恶魔血脉的名字，或者选择反映他们个性或拥抱的某种美德的名字。这个生成器从这些主题中汲取灵感，提供了一系列粗犷、旋律优美且富有暗示性的名字。无论你是为《龙与地下城》角色、奇幻小说寻找名字，还是仅仅为了好玩，你都会找到能捕捉到这个迷人种族精髓的名字。准备好用一个真正体现他们精神的绰号来命名你的提夫林吧！",
+    "ja": "ティーフリングは、彼らの地獄のような遺産により、しばしば彼らの悪魔の血統を示唆するか、彼らの個性や彼らが受け入れる美徳を反映するために選ばれた名前を付けます。このジェネレーターはこれらのテーマからインスピレーションを得ており、厳しく、メロディアスで、示唆に富む名前を提供しています。ダンジョンズ&ドラゴンズのキャラクター、ファンタジー小説、あるいは単に楽しむために名前を探している場合でも、この魅力的な種族の本質を捉えた名前が見つかるでしょう。彼らの精神を真に体現する名前でティーフリングを名付ける準備をしてください！",
+    "pt": "Tieflings, com sua herança infernal, frequentemente carregam nomes que insinuam sua linhagem diabólica ou são escolhidos para refletir sua personalidade ou uma virtude que abraçam. Este gerador inspira-se nesses temas, oferecendo uma mistura de nomes duros, melódicos e evocativos. Quer você esteja procurando um nome para um personagem de Dungeons & Dragons, um romance de fantasia ou apenas por diversão, você encontrará nomes que capturam a essência desta raça fascinante. Prepare-se para nomear seu Tiefling com um apelido que realmente incorpore seu espírito!",
+    "ru": "Тифлинги, с их адским наследием, часто носят имена, намекающие на их дьявольскую кровную линию или выбранные для отражения их личности или добродетели, которую они принимают. Этот генератор черпает вдохновение из этих тем, предлагая смесь резких, мелодичных и выразительных имен. Ищете ли вы имя для персонажа Dungeons & Dragons, фэнтезийного романа или просто для развлечения, вы найдете имена, которые отражают суть этой увлекательной расы. Приготовьтесь назвать своего тифлинга именем, которое действительно воплощает его дух!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button. Feel the infernal power flow!",
+      "Behold a list of potential Tiefling names, each with a hint of the abyss.",
+      "Scan the names and see which one ignites your imagination.",
+      "Found the perfect fiendish moniker? Copy it!",
+      "Now, bring your Tiefling character to life with a name that's truly their own!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء'. اشعر بالقوة الجهنمية تتدفق!",
+      "شاهد قائمة بأسماء التيفلينغ المحتملة، كل منها يحمل لمسة من الهاوية.",
+      "امسح الأسماء ضوئيًا وشاهد أي منها يشعل مخيلتك.",
+      "هل وجدت اللقب الشيطاني المثالي؟ انسخه!",
+      "الآن، اجعل شخصية التيفلينغ الخاصة بك تنبض بالحياة باسم خاص بها حقًا!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar'. ¡Siente cómo fluye el poder infernal!",
+      "Contempla una lista de posibles nombres Tiefling, cada uno con un toque del abismo.",
+      "Escanea los nombres y mira cuál enciende tu imaginación.",
+      "¿Encontraste el apodo diabólico perfecto? ¡Cópialo!",
+      "¡Ahora, da vida a tu personaje Tiefling con un nombre que sea verdaderamente suyo!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer'. Sentez le pouvoir infernal couler !",
+      "Découvrez une liste de noms de Tiefling potentiels, chacun avec une touche d'abîme.",
+      "Parcourez les noms et voyez celui qui enflamme votre imagination.",
+      "Vous avez trouvé le surnom démoniaque parfait ? Copiez-le !",
+      "Maintenant, donnez vie à votre personnage Tiefling avec un nom qui lui est vraiment propre !"
+    ],
+    "zh-cn": [
+      "点击\"生成\"按钮。感受炼狱力量的涌动！",
+      "看看潜在的提夫林名称列表，每个名字都带着一丝深渊的气息。",
+      "浏览这些名字，看看哪个能点燃你的想象力。",
+      "找到完美的恶魔绰号了吗？复制它！",
+      "现在，用一个真正属于你的名字，让你的提夫林角色栩栩如生吧！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックしてください。地獄の力が流れるのを感じてください！",
+      "潜在的なティーフリング名のリストをご覧ください。それぞれに深淵の気配があります。",
+      "名前をスキャンして、どれがあなたの想像力をかき立てるか見てください。",
+      "完璧な悪魔のニックネームを見つけましたか？コピーしましょう！",
+      "さあ、真に自分自身の名前でティーフリングキャラクターに命を吹き込みましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar'. Sinta o poder infernal fluir!",
+      "Contemple uma lista de nomes Tiefling potenciais, cada um com um toque do abismo.",
+      "Examine os nomes e veja qual acende sua imaginação.",
+      "Encontrou o apelido diabólico perfeito? Copie-o!",
+      "Agora, dê vida ao seu personagem Tiefling com um nome que seja verdadeiramente dele!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Создать'. Почувствуйте, как течет адская сила!",
+      "Узрите список потенциальных имен тифлингов, каждое с намеком на бездну.",
+      "Просмотрите имена и посмотрите, какое из них зажигает ваше воображение.",
+      "Нашли идеальное дьявольское прозвище? Скопируйте его!",
+      "Теперь оживите своего персонажа-тифлинга именем, которое действительно принадлежит ему!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "What kind of names does this Tiefling Name Generator create?",
+        "ar": "ما نوع الأسماء التي ينشئها مولد أسماء التيفلينغ هذا؟",
+        "es": "¿Qué tipo de nombres crea este Generador de Nombres Tiefling?",
+        "fr": "Quel type de noms ce Générateur de Noms de Tiefling crée-t-il?",
+        "zh-cn": "这个提夫林名称生成器会生成什么样的名字？",
+        "ja": "このティーフリング名ジェネレーターはどのような名前を作成しますか？",
+        "pt": "Que tipo de nomes este Gerador de Nomes Tiefling cria?",
+        "ru": "Какие имена создает этот Генератор Имен Тифлингов?"
+      },
+      "answer": {
+        "en": "Our generator creates a variety of names, from those that sound distinctly fiendish and harsh to names that are more melodic or even virtue-based, reflecting the diverse nature of Tieflings in fantasy settings. You'll find names suitable for different personalities and backstories.",
+        "ar": "ينشئ مولدنا مجموعة متنوعة من الأسماء، من تلك التي تبدو شيطانية وقاسية بشكل واضح إلى الأسماء الأكثر ميلودية أو حتى القائمة على الفضيلة، مما يعكس الطبيعة المتنوعة للتيفلينغ في بيئات الخيال. ستجد أسماء مناسبة لشخصيات وخلفيات مختلفة.",
+        "es": "Nuestro generador crea una variedad de nombres, desde aquellos que suenan distintivamente diabólicos y duros hasta nombres más melódicos o incluso basados en virtudes, reflejando la naturaleza diversa de los Tieflings en entornos de fantasía. Encontrarás nombres adecuados para diferentes personalidades e historias de fondo.",
+        "fr": "Notre générateur crée une variété de noms, allant de ceux qui sonnent distinctement démoniaques et durs à des noms plus mélodiques ou même basés sur des vertus, reflétant la nature diverse des Tieflings dans les décors fantastiques. Vous trouverez des noms adaptés à différentes personnalités et histoires.",
+        "zh-cn": "我们的生成器会创建各种各样的名字，从听起来明显邪恶和刺耳的名字，到更具旋律感甚至基于美德的名字，反映了奇幻设定中提夫林的多样性。你会找到适合不同个性和背景故事的名字。",
+        "ja": "私たちのジェネレーターは、明らかに悪魔的で厳しい響きの名前から、よりメロディアスな名前、あるいは美徳に基づいた名前まで、ファンタジー設定におけるティーフリングの多様な性質を反映した様々な名前を作成します。様々な個性や背景ストーリーに適した名前が見つかるでしょう。",
+        "pt": "Nosso gerador cria uma variedade de nomes, desde aqueles que soam distintamente diabólicos e duros até nomes mais melódicos ou até mesmo baseados em virtudes, refletindo a natureza diversa dos Tieflings em cenários de fantasia. Você encontrará nomes adequados para diferentes personalidades e histórias de fundo.",
+        "ru": "Наш генератор создает множество имен, от тех, которые звучат отчетливо дьявольски и резко, до более мелодичных или даже основанных на добродетелях, отражая разнообразную природу тифлингов в фэнтезийных сеттингах. Вы найдете имена, подходящие для разных личностей и предысторий."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the names generated unique?",
+        "ar": "هل الأسماء التي تم إنشاؤها فريدة؟",
+        "es": "¿Son únicos los nombres generados?",
+        "fr": "Les noms générés sont-ils uniques?",
+        "zh-cn": "生成的名称是唯一的吗？",
+        "ja": "生成された名前はユニークですか？",
+        "pt": "Os nomes gerados são únicos?",
+        "ru": "Уникальны ли сгенерированные имена?"
+      },
+      "answer": {
+        "en": "Our generator combines various elements to create a wide range of possibilities. While we can't guarantee absolute uniqueness across all fantasy literature and games, the generated names are designed to be distinct and fitting for Tiefling characters.",
+        "ar": "يجمع مولدنا بين عناصر مختلفة لإنشاء مجموعة واسعة من الاحتمالات. بينما لا يمكننا ضمان التفرد المطلق عبر جميع الأدبيات والألعاب الخيالية، فإن الأسماء التي تم إنشاؤها مصممة لتكون مميزة ومناسبة لشخصيات التيفلينغ.",
+        "es": "Nuestro generador combina varios elementos para crear una amplia gama de posibilidades. Si bien no podemos garantizar la unicidad absoluta en toda la literatura y juegos de fantasía, los nombres generados están diseñados para ser distintos y adecuados para personajes Tiefling.",
+        "fr": "Notre générateur combine divers éléments pour créer un large éventail de possibilités. Bien que nous ne puissions pas garantir une unicité absolue dans toute la littérature et les jeux fantastiques, les noms générés sont conçus pour être distincts et adaptés aux personnages de Tiefling.",
+        "zh-cn": "我们的生成器结合了各种元素，创造了广泛的可能性。虽然我们不能保证在所有奇幻文学和游戏中都具有绝对的唯一性，但生成的名称旨在独特且适合提夫林角色。",
+        "ja": "私たちのジェネレーターは、様々な要素を組み合わせて幅広い可能性を生み出します。すべてのファンタジー文学やゲームにおいて絶対的なユニークさを保証することはできませんが、生成された名前はティーフリングキャラクターにふさわしく、明確に区別できるように設計されています。",
+        "pt": "Nosso gerador combina vários elementos para criar uma ampla gama de possibilidades. Embora não possamos garantir unicidade absoluta em toda a literatura e jogos de fantasia, os nomes gerados são projetados para serem distintos e adequados para personagens Tiefling.",
+        "ru": "Наш генератор объединяет различные элементы для создания широкого спектра возможностей. Хотя мы не можем гарантировать абсолютную уникальность во всей фэнтезийной литературе и играх, сгенерированные имена разработаны так, чтобы быть отличительными и подходящими для персонажей-тифлингов."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my D&D campaign?",
+        "ar": "هل يمكنني استخدام هذه الأسماء في حملة D&D الخاصة بي؟",
+        "es": "¿Puedo usar estos nombres para mi campaña de D&D?",
+        "fr": "Puis-je utiliser ces noms pour ma campagne de D&D?",
+        "zh-cn": "我可以在我的龙与地下城战役中使用这些名字吗？",
+        "ja": "これらの名前を私のD&Dキャンペーンで使用できますか？",
+        "pt": "Posso usar esses nomes para minha campanha de D&D?",
+        "ru": "Могу ли я использовать эти имена в своей D&D кампании?"
+      },
+      "answer": {
+        "en": "Absolutely! This generator is perfect for finding names for your Tiefling player characters, NPCs, or even locations within your D&D world. Feel free to use and adapt them as you see fit!",
+        "ar": "بالتأكيد! هذا المولد مثالي للعثور على أسماء لشخصيات لاعب التيفلينغ، أو الشخصيات غير القابلة للعب، أو حتى المواقع داخل عالم D&D الخاص بك. لا تتردد في استخدامها وتكييفها كما تراه مناسبًا!",
+        "es": "¡Absolutamente! Este generador es perfecto para encontrar nombres para tus personajes Tiefling, PNJ, o incluso ubicaciones dentro de tu mundo de D&D. ¡Siéntete libre de usarlos y adaptarlos como mejor te parezca!",
+        "fr": "Absolument ! Ce générateur est parfait pour trouver des noms pour vos personnages joueurs Tiefling, PNJ, ou même des lieux dans votre monde de D&D. N'hésitez pas à les utiliser et à les adapter comme bon vous semble !",
+        "zh-cn": "当然可以！这个生成器非常适合为你的提夫林玩家角色、非玩家角色（NPC）甚至你的龙与地下城世界中的地点寻找名字。请随意使用和调整它们！",
+        "ja": "もちろん！このジェネレーターは、ティーフリングのプレイヤーキャラクター、NPC、またはD&Dの世界内の場所の名前を見つけるのに最適です。自由に利用および適合させてください！",
+        "pt": "Absolutamente! Este gerador é perfeito para encontrar nomes para seus personagens jogadores Tiefling, NPCs, ou até mesmo locais dentro do seu mundo de D&D. Sinta-se à vontade para usá-los e adaptá-los como achar melhor!",
+        "ru": "Конечно! Этот генератор идеально подходит для поиска имен для ваших персонажей-тифлингов, NPC или даже локаций в вашем мире D&D. Смело используйте и адаптируйте их по своему усмотрению!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can Tieflings have 'normal' names?",
+        "ar": "هل يمكن للتيفلينغ أن يحملوا أسماء 'عادية'؟",
+        "es": "¿Pueden los Tieflings tener nombres 'normales'?",
+        "fr": "Les Tieflings peuvent-ils avoir des noms 'normaux'?",
+        "zh-cn": "提夫林可以有“普通”名字吗？",
+        "ja": "ティーフリングは「普通」の名前を持つことができますか？",
+        "pt": "Os Tieflings podem ter nomes 'normais'?",
+        "ru": "Могут ли тифлинги иметь 'нормальные' имена?"
+      },
+      "answer": {
+        "en": "Yes, absolutely! While many Tieflings embrace names related to their heritage or virtues, some might choose or be given names that are more common in other races, perhaps to try and fit in or for various personal reasons. This generator focuses on names with that distinct Tiefling flavor, but your creativity is the only limit!",
+        "ar": "نعم، بالتأكيد! بينما يعتنق العديد من التيفلينغ أسماء مرتبطة بتراثهم أو فضائلهم، قد يختار البعض أو يُعطى أسماء أكثر شيوعًا في الأعراق الأخرى، ربما لمحاولة الاندماج أو لأسباب شخصية مختلفة. يركز هذا المولد على الأسماء ذات النكهة المميزة للتيفلينغ، ولكن إبداعك هو الحد الوحيد!",
+        "es": "Sí, ¡absolutamente! Si bien muchos Tieflings adoptan nombres relacionados con su herencia o virtudes, algunos podrían elegir o recibir nombres más comunes en otras razas, quizás para intentar encajar o por diversas razones personales. Este generador se enfoca en nombres con ese distintivo sabor Tiefling, ¡pero tu creatividad es el único límite!",
+        "fr": "Oui, absolument ! Alors que de nombreux Tieflings adoptent des noms liés à leur héritage ou à leurs vertus, certains pourraient choisir ou se voir attribuer des noms plus courants dans d'autres races, peut-être pour essayer de s'intégrer ou pour diverses raisons personnelles. Ce générateur se concentre sur les noms ayant cette saveur distinctive de Tiefling, mais votre créativité est la seule limite !",
+        "zh-cn": "是的，当然可以！虽然许多提夫林会采用与他们的血统或美德相关的名字，但有些人可能会选择或被给予在其他种族中更常见的名字，也许是为了融入或出于各种个人原因。这个生成器侧重于具有独特提夫林风味的名字，但你的创造力是唯一的限制！",
+        "ja": "はい、もちろんです！多くのティーフリングは彼らの遺産や美徳に関連する名前を受け入れますが、他の種族でより一般的な名前を選択したり与えられたりすることもあります。これは、馴染もうとしたり、様々な個人的な理由によるものです。このジェネレーターは、 distinctive ティーフリングの風味を持つ名前に焦点を当てていますが、あなたの創造力が唯一の限界です！",
+        "pt": "Sim, absolutamente! Embora muitos Tieflings adotem nomes relacionados à sua herança ou virtudes, alguns podem escolher ou receber nomes mais comuns em outras raças, talvez para tentar se encaixar ou por diversas razões pessoais. Este gerador foca em nomes com aquele sabor distinto de Tiefling, mas sua criatividade é o único limite!",
+        "ru": "Да, абсолютно! Хотя многие тифлинги принимают имена, связанные с их наследием или добродетелями, некоторые могут выбрать или получить имена, более распространенные среди других рас, возможно, чтобы попытаться вписаться или по разным личным причинам. Этот генератор сосредоточен на именах с характерным вкусом тифлингов, но ваше творчество - единственное ограничение!"
+      }
+    }
+  ]
+}

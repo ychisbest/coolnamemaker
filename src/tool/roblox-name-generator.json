@@ -1,0 +1,192 @@
+{
+  "name": {
+    "en": "Roblox Name Generator",
+    "ar": "مولد أسماء روبلوكس",
+    "es": "Generador de Nombres de Roblox",
+    "fr": "Générateur de Noms Roblox",
+    "zh-cn": "Roblox 名称生成器",
+    "ja": "Roblox名ジェネレーター",
+    "pt": "Gerador de Nomes para Roblox",
+    "ru": "Генератор Ников для Роблокс"
+  },
+  "description": {
+    "en": "Struggling to come up with the perfect, cool, and available name for your Roblox avatar or game? Look no further! Our Roblox Name Generator is here to unleash a flood of creative, unique, and totally awesome names that will make you stand out from the crowd. Get ready to enter the world of Roblox with a name that screams 'legend' and 'fun'!",
+    "ar": "هل تواجه صعوبة في ابتكار اسم مثالي ورائع ومتاح لشخصية روبلوكس أو لعبتك؟ لا تبحث بعيدًا! مولد أسماء روبلوكس لدينا هنا لإطلاق سيل من الأسماء الإبداعية والفريدة والرائعة تمامًا التي ستجعلك تبرز من بين الحشود. استعد لدخول عالم روبلوكس باسم يصرخ 'أسطورة' و'مرح'!",
+    "es": "¿Te cuesta encontrar el nombre perfecto, genial y disponible para tu avatar o juego de Roblox? ¡No busques más! Nuestro Generador de Nombres de Roblox está aquí para desatar una avalancha de nombres creativos, únicos y totalmente impresionantes que te harán destacar entre la multitud. ¡Prepárate para entrar al mundo de Roblox con un nombre que grite 'leyenda' y 'diversión'!",
+    "fr": "Vous avez du mal à trouver le nom parfait, cool et disponible pour votre avatar ou jeu Roblox ? Ne cherchez plus ! Notre Générateur de Noms Roblox est là pour déchaîner un flot de noms créatifs, uniques et totalement géniaux qui vous feront sortir du lot. Préparez-vous à entrer dans le monde de Roblox avec un nom qui crie 'légende' et 'amusement' !",
+    "zh-cn": "为你的 Roblox 头像或游戏想一个完美、酷炫且可用的名字时遇到困难？别再烦恼了！我们的 Roblox 名称生成器在此释放创意、独特且绝对酷炫的名字洪流，让你脱颖而出。准备好用一个彰显\"传奇\"和\"乐趣\"的名字进入 Roblox 世界吧！",
+    "ja": "Robloxのアバターやゲームにぴったりの、クールで利用可能な名前を考えるのに苦労していませんか？もう探す必要はありません！私たちのRoblox名ジェネレーターは、創造的でユニークで、完全に素晴らしい名前の洪水を解き放ち、あなたが群衆から目立つようにします。「伝説」と「楽しい」を叫ぶ名前でRobloxの世界に入る準備をしてください！",
+    "pt": "Está com dificuldade para encontrar o nome perfeito, legal e disponível para o seu avatar ou jogo no Roblox? Não procure mais! Nosso Gerador de Nomes para Roblox está aqui para liberar uma enxurrada de nomes criativos, únicos e totalmente incríveis que farão você se destacar da multidão. Prepare-se para entrar no mundo do Roblox com um nome que grite 'lenda' e 'diversão'!",
+    "ru": "Испытываете трудности с придумыванием идеального, крутого и доступного имени для вашего аватара или игры в Роблокс? Не ищите дальше! Наш Генератор Ников для Роблокс здесь, чтобы выпустить поток творческих, уникальных и абсолютно потрясающих имен, которые выделят вас из толпы. Приготовьтесь войти в мир Роблокс с именем, которое кричит 'легенда' и 'веселье'!"
+  },
+  "slug": "roblox-name-generator",
+  "prompt": {
+    "en": "Generate a Roblox name",
+    "ar": "قم بإنشاء اسم روبلوكس",
+    "es": "Generar un nombre de Roblox",
+    "fr": "Générer un nom Roblox",
+    "zh-cn": "生成一个 Roblox 名称",
+    "ja": "Roblox名を生成する",
+    "pt": "Gerar um nome para Roblox",
+    "ru": "Сгенерировать ник для Роблокс"
+  },
+  "icon": "🤖",
+  "introduction": {
+    "en": "Tired of those generic, boring Roblox names? Want a name that truly reflects your awesome personality and gaming style? You've come to the right place! Our Roblox Name Generator is your ultimate tool for crafting a digital identity that's as epic as your in-game adventures. Whether you're building magnificent structures, battling fierce monsters, or just chilling with friends, a killer name is your first step to online fame. Get ready to be inspired by names that range from cool and mysterious to downright hilarious. Let's find the name that makes you say, 'That's me!''",
+    "ar": "هل سئمت من أسماء روبلوكس العامة والمملة؟ هل تريد اسمًا يعكس شخصيتك الرائعة وأسلوب لعبك حقًا؟ لقد وصلت إلى المكان الصحيح! مولد أسماء روبلوكس لدينا هو أداتك النهائية لإنشاء هوية رقمية ملحمية مثل مغامراتك داخل اللعبة. سواء كنت تبني هياكل رائعة، أو تقاتل وحوشًا شرسة، أو مجرد الاسترخاء مع الأصدقاء، فإن الاسم الرائع هو خطوتك الأولى نحو الشهرة عبر الإنترنت. استعد للإلهام بأسماء تتراوح من الرائعة والغامضة إلى المضحكة تمامًا. دعنا نجد الاسم الذي يجعلك تقول، 'هذا أنا!'",
+    "es": "¿Cansado de esos nombres genéricos y aburridos de Roblox? ¿Quieres un nombre que realmente refleje tu increíble personalidad y estilo de juego? ¡Has llegado al lugar correcto! Nuestro Generador de Nombres de Roblox es tu herramienta definitiva para crear una identidad digital tan épica como tus aventuras en el juego. Ya sea que estés construyendo estructuras magníficas, luchando contra monstruos feroces o simplemente relajándote con amigos, un nombre genial es tu primer paso hacia la fama en línea. Prepárate para inspirarte con nombres que van desde lo genial y misterioso hasta lo francamente hilarante. ¡Encontremos el nombre que te haga decir '¡Ese soy yo!'",
+    "fr": "Fatigué de ces noms Roblox génériques et ennuyeux ? Tu veux un nom qui reflète vraiment ta personnalité géniale et ton style de jeu ? Tu es au bon endroit ! Notre Générateur de Noms Roblox est ton outil ultime pour créer une identité numérique aussi épique que tes aventures en jeu. Que tu construises des structures magnifiques, que tu combatties des monstres féroces ou que tu te détendes simplement avec des amis, un nom qui tue est ta première étape vers la célébrité en ligne. Prépare-toi à être inspiré par des noms allant du cool et mystérieux au carrément hilarant. Trouvons le nom qui te fera dire : 'C'est moi !'",
+    "zh-cn": "厌倦了那些通用、无聊的 Roblox 名称？想要一个真正反映你超赞个性和游戏风格的名字？你来对地方了！我们的 Roblox 名称生成器是你打造数字身份的终极工具，让它像你的游戏冒险一样史诗。无论你在建造宏伟的建筑，与凶猛的怪物战斗，还是只是和朋友闲逛，一个杀手级的名字是你迈向线上成名的第一步。准备好被那些从酷炫神秘到彻头彻尾搞笑的名字所启发吧。让我们找到那个让你说\"就是我！\"的名字吧！",
+    "ja": "ありきたりで退屈なRobloxの名前にうんざりしていませんか？あなたの素晴らしい個性とゲームスタイルを本当に反映する名前が欲しいですか？あなたは正しい場所に来ました！私たちのRoblox名ジェネレーターは、ゲーム内の冒険と同じくらい壮大なデジタルアイデンティティを作成するための究極のツールです。壮大な建造物を建設している場合でも、激しいモンスターと戦っている場合でも、友達とリラックスしている場合でも、キラーネームはオンラインでの名声への第一歩です。クールで神秘的なものから、率直に言って面白いものまで、さまざまな名前に触発される準備をしてください。「これだ！」と思える名前を見つけましょう。",
+    "pt": "Cansado desses nomes genéricos e chatos do Roblox? Quer um nome que realmente reflita sua personalidade incrível e estilo de jogo? Você veio ao lugar certo! Nosso Gerador de Nomes para Roblox é sua ferramenta definitiva para criar uma identidade digital tão épica quanto suas aventuras no jogo. Quer você esteja construindo estruturas magníficas, lutando contra monstros ferozes ou apenas relaxando com amigos, um nome matador é o seu primeiro passo para a fama online. Prepare-se para se inspirar com nomes que vão do legal e misterioso ao simplesmente hilário. Vamos encontrar o nome que faz você dizer: 'Esse sou eu!'",
+    "ru": "Устали от этих общих, скучных ников в Роблокс? Хотите ник, который действительно отражает вашу потрясающую личность и стиль игры? Вы пришли по адресу! Наш Генератор Ников для Роблокс - это ваш идеальный инструмент для создания цифровой идентичности, такой же эпичной, как ваши внутриигровые приключения. Строите ли вы великолепные сооружения, сражаетесь с жестокими монстрами или просто отдыхаете с друзьями, убийственный ник - это ваш первый шаг к онлайн-славе. Приготовьтесь вдохновиться никами, которые варьируются от крутых и загадочных до откровенно смешных. Давайте найдем ник, который заставит вас сказать: 'Это я!'."
+  },
+  "howToUse": {
+    "en": [
+      "Hit that big, enticing 'Generate' button.",
+      "Watch in awe as a list of potential Roblox names appears.",
+      "Scan through the options and see which one sparks your imagination.",
+      "Found a winner? Copy it with a single click!",
+      "Head over to Roblox and claim your awesome new name before someone else does!"
+    ],
+    "ar": [
+      "اضغط على زر 'إنشاء' الكبير والمغري.",
+      "شاهد بدهشة قائمة بأسماء روبلوكس المحتملة تظهر.",
+      "امسح الخيارات وشاهد أي منها يشعل خيالك.",
+      "وجدت فائزًا؟ انسخه بنقرة واحدة!",
+      "توجه إلى روبلوكس واطالب باسمك الجديد الرائع قبل أن يفعل ذلك شخص آخر!"
+    ],
+    "es": [
+      "Presiona ese gran y atractivo botón 'Generar'.",
+      "Observa con asombro cómo aparece una lista de posibles nombres de Roblox.",
+      "Revisa las opciones y ve cuál despierta tu imaginación.",
+      "¿Encontraste un ganador? ¡Cópialo con un solo clic!",
+      "¡Dirígete a Roblox y reclama tu increíble nuevo nombre antes de que alguien más lo haga!"
+    ],
+    "fr": [
+      "Appuyez sur ce grand bouton attrayant 'Générer'.",
+      "Regardez avec admiration apparaître une liste de noms Roblox potentiels.",
+      "Parcourez les options et voyez celle qui éveille votre imagination.",
+      "Vous avez trouvé un gagnant ? Copiez-le d'un simple clic !",
+      "Direction Roblox pour revendiquer votre nouveau nom génial avant que quelqu'un d'autre ne le fasse !"
+    ],
+    "zh-cn": [
+      "点击那个又大又诱人的“生成”按钮。",
+      "看着潜在的 Roblox 名称列表神奇地出现。",
+      "浏览选项，看看哪个最能激发你的想象力。",
+      "找到心仪的名字了吗？一键复制！",
+      "快去 Roblox 注册你的超酷新名字吧，别让别人抢先了！"
+    ],
+    "ja": [
+      "あの大きくて魅力的な「生成」ボタンを押してください。",
+      "潜在的なRoblox名のリストが表示されるのを畏敬の念を持って見てください。",
+      "オプションをスキャンして、どれがあなたの想像力をかき立てるかを確認してください。",
+      "当選者を見つけましたか？ワンクリックでコピーしましょう！",
+      "Robloxにアクセスして、他の誰かが先を越す前にあなたの素晴らしい新しい名前を主張してください！"
+    ],
+    "pt": [
+      "Clique naquele botão grande e atraente 'Gerar'.",
+      "Observe com admiração uma lista de nomes potenciais para Roblox aparecer.",
+      "Examine as opções e veja qual delas desperta sua imaginação.",
+      "Encontrou um vencedor? Copie com um único clique!",
+      "Vá para o Roblox e reivindique seu novo nome incrível antes que outra pessoa o faça!"
+    ],
+    "ru": [
+      "Нажмите на эту большую, манящую кнопку 'Создать'.",
+      "С восторгом наблюдайте, как появляется список потенциальных ников для Роблокс.",
+      "Просмотрите варианты и посмотрите, какой из них разжигает ваше воображение.",
+      "Нашли победителя? Скопируйте его одним кликом!",
+      "Отправляйтесь в Роблокс и заявите свое потрясающее новое имя, пока кто-то другой не сделал это за вас!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Are the generated names guaranteed to be available on Roblox?",
+        "ar": "هل الأسماء التي تم إنشاؤها مضمونة التوفر على روبلوكس؟",
+        "es": "¿Los nombres generados están garantizados como disponibles en Roblox?",
+        "fr": "Les noms générés sont-ils garantis d'être disponibles sur Roblox?",
+        "zh-cn": "生成的名称在 Roblox 上保证可用吗？",
+        "ja": "生成された名前はRobloxで利用可能であることが保証されていますか？",
+        "pt": "Os nomes gerados são garantidos de estarem disponíveis no Roblox?",
+        "ru": "Гарантируется ли доступность сгенерированных ников в Роблокс?"
+      },
+      "answer": {
+        "en": "Unfortunately, we can't guarantee that every single name generated will be available. Roblox has millions of users, and names are claimed quickly! However, our generator aims to produce names that are more likely to be unique and less common.",
+        "ar": "للأسف، لا يمكننا ضمان توفر كل اسم تم إنشاؤه. روبلوكس لديها ملايين المستخدمين، والأسماء تُطالب بها بسرعة! ومع ذلك، يهدف مولدنا إلى إنتاج أسماء من المرجح أن تكون فريدة وأقل شيوعًا.",
+        "es": "Desafortunadamente, no podemos garantizar que cada nombre generado esté disponible. Roblox tiene millones de usuarios y los nombres se reclaman rápidamente. Sin embargo, nuestro generador tiene como objetivo producir nombres que sean más propensos a ser únicos y menos comunes.",
+        "fr": "Malheureusement, nous ne pouvons pas garantir que chaque nom généré sera disponible. Roblox compte des millions d'utilisateurs et les noms sont rapidement réclamés ! Cependant, notre générateur vise à produire des noms plus susceptibles d'être uniques et moins courants.",
+        "zh-cn": "遗憾的是，我们无法保证生成的每一个名称都能在 Roblox 上可用。Roblox 有数百万用户，名称很快就会被注册！但是，我们的生成器旨在生成更有可能独特且不那么常见的名称。",
+        "ja": "残念ながら、生成されたすべての名前が利用可能であることを保証することはできません。Robloxには何百万人ものユーザーがいて、名前はすぐに取得されます！ただし、私たちのジェネレーターは、よりユニークで一般的でない名前を生成することを目指しています。",
+        "pt": "Infelizmente, não podemos garantir que cada nome gerado estará disponível. O Roblox tem milhões de usuários e os nomes são reivindicados rapidamente! No entanto, nosso gerador visa produzir nomes que têm maior probabilidade de serem únicos e menos comuns.",
+        "ru": "К сожалению, мы не можем гарантировать, что каждый сгенерированный ник будет доступен. В Роблокс миллионы пользователей, и ники быстро занимаются! Однако наш генератор стремится создавать ники, которые с большей вероятностью будут уникальными и менее распространенными."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my Roblox game?",
+        "ar": "هل يمكنني استخدام هذه الأسماء للعبة روبلوكس الخاصة بي؟",
+        "es": "¿Puedo usar estos nombres para mi juego de Roblox?",
+        "fr": "Puis-je utiliser ces noms pour mon jeu Roblox?",
+        "zh-cn": "我可以将这些名称用于我的 Roblox 游戏吗？",
+        "ja": "これらの名前を私のRobloxゲームに使用できますか？",
+        "pt": "Posso usar esses nomes para o meu jogo no Roblox?",
+        "ru": "Могу ли я использовать эти ники для своей игры в Роблокс?"
+      },
+      "answer": {
+        "en": "Absolutely! The names generated can be used for your game titles, character names, or anything else within your Roblox creation. Get creative!",
+        "ar": "بالتأكيد! يمكن استخدام الأسماء التي تم إنشاؤها لعناوين ألعابك، أو أسماء شخصياتك، أو أي شيء آخر داخل إبداعك في روبلوكس. كن مبدعًا!",
+        "es": "¡Absolutamente! Los nombres generados se pueden usar para los títulos de tus juegos, nombres de personajes o cualquier otra cosa dentro de tu creación de Roblox. ¡Sé creativo!",
+        "fr": "Absolument ! Les noms générés peuvent être utilisés pour les titres de vos jeux, les noms de personnages ou toute autre chose dans votre création Roblox. Soyez créatif !",
+        "zh-cn": "当然可以！生成的名称可以用于你的游戏标题、角色名称或你在 Roblox 作品中的任何其他地方。尽情发挥创意吧！",
+        "ja": "もちろんです！生成された名前は、ゲームのタイトル、キャラクター名、またはRoblox作品内の他のあらゆるものに使用できます。創造性を発揮してください！",
+        "pt": "Com certeza! Os nomes gerados podem ser usados para os títulos dos seus jogos, nomes de personagens ou qualquer outra coisa dentro da sua criação no Roblox. Seja criativo!",
+        "ru": "Конечно! Сгенерированные ники могут быть использованы для названий ваших игр, имен персонажей или чего угодно другого в рамках вашего творения в Роблокс. Проявите творческий подход!"
+      }
+    },
+    {
+      "question": {
+        "en": "How many names can I generate at once?",
+        "ar": "كم عدد الأسماء التي يمكنني إنشاؤها في وقت واحد؟",
+        "es": "¿Cuántos nombres puedo generar a la vez?",
+        "fr": "Combien de noms puis-je générer à la fois?",
+        "zh-cn": "我一次可以生成多少个名称？",
+        "ja": "一度にいくつの名前を生成できますか？",
+        "pt": "Quantos nomes posso gerar de uma vez?",
+        "ru": "Сколько ников я могу сгенерировать за раз?"
+      },
+      "answer": {
+        "en": "Each click of the 'Generate' button will provide you with a fresh batch of unique names. Keep clicking until you have a list you're happy with!",
+        "ar": "كل نقرة على زر 'إنشاء' ستوفر لك دفعة جديدة من الأسماء الفريدة. استمر في النقر حتى تحصل على قائمة ترضيك!",
+        "es": "Cada clic en el botón 'Generar' te proporcionará un nuevo lote de nombres únicos. ¡Sigue haciendo clic hasta que tengas una lista con la que estés satisfecho!",
+        "fr": "Chaque clic sur le bouton 'Générer' vous fournira un nouveau lot de noms uniques. Continuez à cliquer jusqu'à ce que vous ayez une liste qui vous convienne !",
+        "zh-cn": "每次点击“生成”按钮都会为你提供一批全新的独特名称。一直点击，直到找到你满意的列表！",
+        "ja": "「生成」ボタンをクリックするたびに、新しいユニークな名前のバッチが表示されます。満足のいくリストができるまでクリックし続けてください！",
+        "pt": "Cada clique no botão 'Gerar' fornecerá um novo lote de nomes únicos. Continue clicando até ter uma lista com a qual esteja satisfeito!",
+        "ru": "Каждое нажатие кнопки 'Создать' предоставит вам новую порцию уникальных ников. Продолжайте нажимать, пока не получите список, который вас устроит!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I filter the names by specific themes or styles?",
+        "ar": "هل يمكنني تصفية الأسماء حسب مواضيع أو أنماط معينة؟",
+        "es": "¿Puedo filtrar los nombres por temas o estilos específicos?",
+        "fr": "Puis-je filtrer les noms par thèmes ou styles spécifiques?",
+        "zh-cn": "我可以按特定主题或风格过滤名称吗？",
+        "ja": "特定のテーマやスタイルで名前をフィルタリングできますか？",
+        "pt": "Posso filtrar os nomes por temas ou estilos específicos?",
+        "ru": "Могу ли я фильтровать ники по конкретным темам или стилям?"
+      },
+      "answer": {
+        "en": "Currently, our generator provides a wide variety of names. We're always looking for ways to improve, so themed filtering is a great suggestion! Keep an eye out for future updates.",
+        "ar": "حاليًا، يقدم مولدنا مجموعة واسعة من الأسماء. نحن نبحث دائمًا عن طرق للتحسين، لذا التصفية حسب الموضوع هي اقتراح رائع! ترقبوا التحديثات المستقبلية.",
+        "es": "Actualmente, nuestro generador proporciona una amplia variedad de nombres. Siempre estamos buscando formas de mejorar, ¡así que el filtrado por temas es una gran sugerencia! Esté atento a futuras actualizaciones.",
+        "fr": "Actuellement, notre générateur propose une grande variété de noms. Nous cherchons toujours des moyens d'améliorer, donc le filtrage thématique est une excellente suggestion ! Restez à l'affût des futures mises à jour.",
+        "zh-cn": "目前，我们的生成器提供各种各样的名称。我们一直在寻找改进的方法，因此按主题过滤是一个很好的建议！请关注未来的更新。",
+        "ja": "現在、私たちのジェネレーターは多種多様な名前を提供しています。私たちは常に改善方法を探していますので、テーマ別のフィルタリングは素晴らしい提案です！今後のアップデートにご期待ください。",
+        "pt": "Atualmente, nosso gerador oferece uma ampla variedade de nomes. Estamos sempre procurando maneiras de melhorar, então a filtragem por tema é uma ótima sugestão! Fique atento a futuras atualizações.",
+        "ru": "В настоящее время наш генератор предлагает широкий выбор ников. Мы всегда ищем способы улучшить его, поэтому тематическая фильтрация - отличное предложение! Следите за будущими обновлениями."
+      }
+    }
+  ]
+}

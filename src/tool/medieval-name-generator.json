@@ -1,0 +1,170 @@
+{
+  "name": {
+    "en": "Medieval Name Generator",
+    "ar": "مولد أسماء القرون الوسطى",
+    "es": "Generador de Nombres Medievales",
+    "fr": "Générateur de Noms Médiévaux",
+    "zh-cn": "中世纪名称生成器",
+    "ja": "中世の名前ジェネレーター",
+    "pt": "Gerador de Nomes Medievais",
+    "ru": "Генератор Средневековых Имен"
+  },
+  "description": {
+    "en": "Step back in time and find the perfect name for your knight, peasant, or mystical creature! Our Medieval Name Generator conjures up authentic-sounding names steeped in the lore and history of the Middle Ages. Whether you're writing a fantasy novel, playing a role-playing game, or simply curious about names from this fascinating era, get ready to discover names worthy of legend.",
+    "ar": "ارجع بالزمن إلى الوراء وابحث عن الاسم المثالي لفارس، أو فلاح، أو مخلوق أسطوري! يولد مولد أسماء القرون الوسطى لدينا أسماء تبدو أصيلة ومغرقة في تاريخ وأساطير العصور الوسطى. سواء كنت تكتب رواية خيالية، تلعب لعبة أدوار، أو ببساطة فضولي بشأن الأسماء من هذه الحقبة الرائعة، استعد لاكتشاف أسماء تستحق الأسطورة.",
+    "es": "Retrocede en el tiempo y encuentra el nombre perfecto para tu caballero, campesino o criatura mística. Nuestro Generador de Nombres Medievales evoca nombres con sonido auténtico impregnados de la tradición e historia de la Edad Media. Ya sea que estés escribiendo una novela de fantasía, jugando un juego de rol o simplemente tengas curiosidad por los nombres de esta fascinante era, prepárate para descubrir nombres dignos de leyenda.",
+    "fr": "Remontez le temps et trouvez le nom parfait pour votre chevalier, paysan ou créature mystique ! Notre Générateur de Noms Médiévaux conjure des noms au son authentique imprégnés de l'histoire et des légendes du Moyen Âge. Que vous écriviez un roman fantastique, jouiez à un jeu de rôle ou soyez simplement curieux des noms de cette ère fascinante, préparez-vous à découvrir des noms dignes de légende.",
+    "zh-cn": "穿越回过去，为你的骑士、农夫或神秘生物找到完美的名字！我们的中世纪名称生成器能 conjures 出充满中世纪传说和历史气息的真实名字。无论你是在写奇幻小说、玩角色扮演游戏，还是仅仅对这个迷人时代的名称感到好奇，准备好发现那些配得上传奇的名字吧。",
+    "ja": "時間を遡り、あなたの騎士、農民、または神秘的な生き物にぴったりの名前を見つけましょう！私たちの中世の名前ジェネレーターは、中世の伝承と歴史に浸った本物らしい名前を生み出します。ファンタジー小説を書いている場合でも、ロールプレイングゲームをプレイしている場合でも、単にこの魅力的な時代の名前に興味がある場合でも、伝説にふさわしい名前を発見する準備をしてください。",
+    "pt": "Volte no tempo e encontre o nome perfeito para o seu cavaleiro, camponês ou criatura mística! Nosso Gerador de Nomes Medievais conjura nomes com sonoridade autêntica, repletos da tradição e história da Idade Média. Esteja você escrevendo um romance de fantasia, jogando um RPG ou simplesmente curioso sobre nomes desta era fascinante, prepare-se para descobrir nomes dignos de lenda.",
+    "ru": "Вернитесь в прошлое и найдите идеальное имя для своего рыцаря, крестьянина или мистического существа! Наш Генератор Средневековых Имен вызывает аутентично звучащие имена, пропитанные преданиями и историей Средневековья. Пишете ли вы фэнтезийный роман, играете в ролевую игру или просто интересуетесь именами из этой увлекательной эпохи, приготовьтесь открыть для себя имена, достойные легенды."
+  },
+  "slug": "medieval-name-generator",
+  "prompt": {
+    "en": "Generate a medieval name",
+    "ar": "قم بإنشاء اسم من القرون الوسطى",
+    "es": "Generar un nombre medieval",
+    "fr": "Générer un nom médiéval",
+    "zh-cn": "生成一个中世纪名称",
+    "ja": "中世の名前を生成する",
+    "pt": "Gerar um nome medieval",
+    "ru": "Сгенерировать средневековое имя"
+  },
+  "icon": "⚔️",
+  "introduction": {
+    "en": "The clang of swords, the rustle of tunics, the whispered secrets in candlelit taverns – the Middle Ages were an era of epic tales and memorable characters. A good name is the foundation of any compelling character or story set in this fascinating period. Our Medieval Name Generator draws inspiration from historical names, mythological figures, and the rich tapestry of medieval languages to provide you with a wealth of options. Forget generic fantasy names and embrace the authenticity and charm of the past!",
+    "ar": "صليل السيوف، حفيف الأقمشة، الأسرار المغمورة بالهمس في الحانات المضاءة بالشموع - كانت العصور الوسطى حقبة من القصص الملحمية والشخصيات التي لا تُنسى. الاسم الجيد هو أساس أي شخصية أو قصة مقنعة تدور أحداثها في هذه الفترة الرائعة. يستمد مولد أسماء القرون الوسطى لدينا الإلهام من الأسماء التاريخية، والشخصيات الأسطورية، والنسيج الغني للغات القرون الوسطى لتزويدك بثروة من الخيارات. انسَ أسماء الخيال النمطية واحتضن الأصالة والسحر من الماضي!",
+    "es": "El choque de espadas, el susurro de las túnicas, los secretos susurrados en las tabernas a la luz de las velas: la Edad Media fue una era de cuentos épicos y personajes memorables. Un buen nombre es la base de cualquier personaje o historia convincente ambientada en este fascinante período. Nuestro Generador de Nombres Medievales se inspira en nombres históricos, figuras mitológicas y el rico tapiz de las lenguas medievales para brindarte una gran cantidad de opciones. ¡Olvídate de los nombres genéricos de fantasía y abraza la autenticidad y el encanto del pasado!",
+    "fr": "Le cliquetis des épées, le bruissement des tuniques, les secrets murmurés dans les tavernes éclairées aux chandelles – le Moyen Âge fut une ère de contes épiques et de personnages mémorables. Un bon nom est la base de tout personnage ou histoire captivant se déroulant dans cette période fascinante. Notre Générateur de Noms Médiévaux puise son inspiration dans les noms historiques, les figures mythologiques et la riche tapisserie des langues médiévales pour vous offrir une multitude d'options. Oubliez les noms de fantaisie génériques et embrassez l'authenticité et le charme du passé !",
+    "zh-cn": "刀剑的碰撞声、束腰外衣的沙沙声、烛光酒馆里的低语秘密——中世纪是一个充满史诗故事和令人难忘人物的时代。一个好名字是任何设定在这个迷人时期的引人入胜的角色或故事的基础。我们的中世纪名称生成器从历史名称、神话人物以及丰富的中世纪语言中汲取灵感，为您提供丰富的选择。忘掉通用的奇幻名称，拥抱过去的真实性和魅力吧！",
+    "ja": "剣のぶつかり合う音、チュニックの衣擦れ、ろうそくの灯る酒場で囁かれる秘密—中世は叙事詩的な物語と記憶に残るキャラクターの時代でした。この魅力的な時代を舞台にした説得力のあるキャラクターや物語の基礎となるのは、良い名前です。私たちの中世の名前ジェネレーターは、歴史上の名前、神話上の人物、そして中世の言語の豊かなタペストリーからインスピレーションを得て、豊富な選択肢を提供します。一般的なファンタジーの名前を忘れて、過去の信頼性と魅力を受け入れましょう！",
+    "pt": "O clangor das espadas, o farfalhar das túnicas, os segredos sussurrados em tavernas à luz de velas – a Idade Média foi uma era de contos épicos e personagens memoráveis. Um bom nome é a base de qualquer personagem ou história convincente ambientada neste período fascinante. Nosso Gerador de Nomes Medievais se inspira em nomes históricos, figuras mitológicas e na rica tapeçaria das línguas medievais para lhe fornecer uma riqueza de opções. Esqueça os nomes de fantasia genéricos e abrace a autenticidade e o charme do passado!",
+    "ru": "Звон мечей, шелест туник, шепот секретов в тавернах при свечах – Средневековье было эпохой эпических сказаний и запоминающихся персонажей. Хорошее имя – это основа любого убедительного персонажа или истории, происходящей в этот увлекательный период. Наш Генератор Средневековых Имен черпает вдохновение из исторических имен, мифологических фигур и богатого полотна средневековых языков, чтобы предоставить вам множество вариантов. Забудьте о шаблонных фэнтезийных именах и примите аутентичность и очарование прошлого!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button to summon names from the mists of time.",
+      "Behold a list of potential medieval monikers.",
+      "Scan the options and feel the medieval vibes!",
+      "Found a name that resonates with your inner bard? Copy it!",
+      "Use your newfound medieval name to embark on epic quests and weave captivating tales!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' لاستدعاء الأسماء من غياهب الزمن.",
+      "شاهد قائمة بأسماء القرون الوسطى المحتملة.",
+      "امسح الخيارات وشعر بأجواء القرون الوسطى!",
+      "هل وجدت اسمًا يتردد صداه مع داخلك الشاعر؟ انسخه!",
+      "استخدم اسمك الجديد من القرون الوسطى للشروع في مهام ملحمية ونسج حكايات آسرة!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' para invocar nombres de las brumas del tiempo.",
+      "Contempla una lista de posibles apodos medievales.",
+      "¡Escanea las opciones y siente las vibraciones medievales!",
+      "¿Encontraste un nombre que resuena con tu bardo interior? ¡Cópialo!",
+      "¡Usa tu nuevo nombre medieval para embarcarte en misiones épicas y tejer historias cautivadoras!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' pour invoquer des noms des brumes du temps.",
+      "Découvrez une liste de sobriquets médiévaux potentiels.",
+      "Parcourez les options et ressentez l'ambiance médiévale !",
+      "Vous avez trouvé un nom qui résonne avec votre barde intérieur ? Copiez-le !",
+      "Utilisez votre nouveau nom médiéval pour vous lancer dans des quêtes épiques et tisser des contes captivants !"
+    ],
+    "zh-cn": [
+      "点击\"生成\"按钮，从时间的迷雾中召唤名字。",
+      "看看可能的中世纪名称列表。",
+      "浏览这些选项，感受中世纪的氛围！",
+      "找到一个与你内心吟游诗人产生共鸣的名字了吗？复制它！",
+      "使用你新获得的中世纪名字，踏上史诗般的任务，编织引人入胜的故事！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、時間の霧から名前を召喚します。",
+      "潜在的な中世のニックネームのリストをご覧ください。",
+      "オプションをスキャンして、中世の雰囲気を感じてください！",
+      "あなたの内なる吟遊詩人に響く名前を見つけましたか？コピーしましょう！",
+      "新しく見つけた中世の名前を使って、壮大なクエストに乗り出し、魅力的な物語を紡ぎましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' para invocar nomes das névoas do tempo.",
+      "Contemple uma lista de possíveis apelidos medievais.",
+      "Percorra as opções e sinta as vibrações medievais!",
+      "Encontrou um nome que ressoa com seu bardo interior? Copie-o!",
+      "Use seu novo nome medieval para embarcar em missões épicas e tecer contos cativantes!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Сгенерировать', чтобы вызвать имена из туманов времени.",
+      "Узрите список потенциальных средневековых имен.",
+      "Просмотрите варианты и почувствуйте средневековую атмосферу!",
+      "Нашли имя, которое резонирует с вашим внутренним бардом? Скопируйте его!",
+      "Используйте свое новое средневековое имя, чтобы отправиться в эпические квесты и плести захватывающие истории!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Are these medieval names historically accurate?",
+        "ar": "هل هذه الأسماء من القرون الوسطى دقيقة تاريخياً؟",
+        "es": "¿Estos nombres medievales son históricamente precisos?",
+        "fr": "Ces noms médiévaux sont-ils historiquement exacts?",
+        "zh-cn": "这些中世纪名称在历史上准确吗？",
+        "ja": "これらの中世の名前は歴史的に正確ですか？",
+        "pt": "Estes nomes medievais são historicamente precisos?",
+        "ru": "Являются ли эти средневековые имена исторически точными?"
+      },
+      "answer": {
+        "en": "Our generator draws inspiration from historical names and linguistic patterns of the era, aiming for authenticity. While not every name is a direct historical record, they are designed to sound and feel like they belong in the Middle Ages.",
+        "ar": "يستمد مولدنا الإلهام من الأسماء التاريخية والأنماط اللغوية لتلك الحقبة، بهدف تحقيق الأصالة. بينما ليس كل اسم هو سجل تاريخي مباشر، فقد تم تصميمها لتبدو وتشعر وكأنها تنتمي إلى العصور الوسطى.",
+        "es": "Nuestro generador se inspira en nombres históricos y patrones lingüísticos de la época, buscando la autenticidad. Si bien no todos los nombres son un registro histórico directo, están diseñados para sonar y sentirse como si pertenecieran a la Edad Media.",
+        "fr": "Notre générateur s'inspire des noms historiques et des modèles linguistiques de l'époque, visant l'authenticité. Bien que tous les noms ne soient pas un enregistrement historique direct, ils sont conçus pour sonner et se sentir comme s'ils appartenaient au Moyen Âge.",
+        "zh-cn": "我们的生成器从该时代的历史名称和语言模式中汲取灵感，力求真实性。虽然并非每个名称都是直接的历史记录，但它们的设计旨在听起来和感觉上像是属于中世纪的。",
+        "ja": "私たちのジェネレーターは、その時代の歴史的な名前や言語パターンからインスピレーションを得て、信頼性を目指しています。すべての名前が直接的な歴史的記録であるわけではありませんが、中世に属しているように聞こえ、感じられるように設計されています。",
+        "pt": "Nosso gerador se inspira em nomes históricos e padrões linguísticos da era, visando a autenticidade. Embora nem todo nome seja um registro histórico direto, eles são projetados para soar e parecer que pertencem à Idade Média.",
+        "ru": "Наш генератор черпает вдохновение из исторических имен и языковых моделей той эпохи, стремясь к аутентичности. Хотя не каждое имя является прямой исторической записью, они разработаны так, чтобы звучать и ощущаться так, будто они принадлежат Средневековью."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my fantasy world?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لعالمي الخيالي؟",
+        "es": "¿Puedo usar estos nombres para mi mundo de fantasía?",
+        "fr": "Puis-je utiliser ces noms pour mon monde fantastique?",
+        "zh-cn": "我可以将这些名称用于我的奇幻世界吗？",
+        "ja": "これらの名前を私のファンタジー世界で使用できますか？",
+        "pt": "Posso usar estes nomes para o meu mundo de fantasia?",
+        "ru": "Могу ли я использовать эти имена для моего фэнтезийного мира?"
+      },
+      "answer": {
+        "en": "Absolutely! Medieval names are a fantastic source of inspiration for fantasy settings. Feel free to use and adapt the names generated here for your characters, locations, or anything else in your fictional world.",
+        "ar": "بالتأكيد! أسماء القرون الوسطى هي مصدر إلهام رائع لإعدادات الخيال. لا تتردد في استخدام وتكييف الأسماء التي تم إنشاؤها هنا لشخصياتك أو مواقعك أو أي شيء آخر في عالمك الخيالي.",
+        "es": "¡Absolutamente! Los nombres medievales son una fuente fantástica de inspiración para entornos de fantasía. Siéntete libre de usar y adaptar los nombres generados aquí para tus personajes, ubicaciones o cualquier otra cosa en tu mundo de ficción.",
+        "fr": "Absolument ! Les noms médiévaux sont une source d'inspiration fantastique pour les décors fantastiques. N'hésitez pas à utiliser et adapter les noms générés ici pour vos personnages, lieux ou toute autre chose dans votre monde fictif.",
+        "zh-cn": "当然可以！中世纪名称是奇幻设定的绝佳灵感来源。请随意使用和改编这里生成的名称，用于你的角色、地点或虚构世界中的任何事物。",
+        "ja": "もちろんです！中世の名前は、ファンタジーの設定にとって素晴らしいインスピレーションの源となります。ここで生成された名前を、あなたのキャラクター、場所、またはあなたの架空の世界のその他のものに自由に使用および適応してください。",
+        "pt": "Absolutamente! Nomes medievais são uma fonte fantástica de inspiração para cenários de fantasia. Sinta-se à vontade para usar e adaptar os nomes gerados aqui para seus personagens, locais ou qualquer outra coisa em seu mundo fictício.",
+        "ru": "Абсолютно! Средневековые имена являются фантастическим источником вдохновения для фэнтезийных сеттингов. Не стесняйтесь использовать и адаптировать имена, сгенерированные здесь, для ваших персонажей, локаций или чего-либо еще в вашем вымышленном мире."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I specify if I want a male or female name?",
+        "ar": "هل يمكنني تحديد ما إذا كنت أريد اسمًا ذكرًا أم أنثى؟",
+        "es": "¿Puedo especificar si quiero un nombre masculino o femenino?",
+        "fr": "Puis-je spécifier si je veux un nom masculin ou féminin?",
+        "zh-cn": "我可以指定想要男性还是女性名称吗？",
+        "ja": "男性または女性の名前が必要かどうか指定できますか？",
+        "pt": "Posso especificar se quero um nome masculino ou feminino?",
+        "ru": "Могу ли я указать, нужно ли мне мужское или женское имя?"
+      },
+      "answer": {
+        "en": "Currently, the generator provides a mix of names inspired by both male and female medieval names. We are working on adding options to filter by gender in future updates!",
+        "ar": "حاليًا، يوفر المولد مزيجًا من الأسماء المستوحاة من أسماء الذكور والإناث في القرون الوسطى. نعمل على إضافة خيارات للتصفية حسب الجنس في التحديثات المستقبلية!",
+        "es": "Actualmente, el generador proporciona una mezcla de nombres inspirados en nombres medievales masculinos y femeninos. ¡Estamos trabajando para agregar opciones para filtrar por género en futuras actualizaciones!",
+        "fr": "Actuellement, le générateur propose un mélange de noms inspirés des noms médiévaux masculins et féminins. Nous travaillons à l'ajout d'options de filtrage par genre dans les futures mises à jour !",
+        "zh-cn": "目前，生成器提供了受男性和女性中世纪名称启发的混合名称。我们正在努力在未来的更新中添加按性别过滤的选项！",
+        "ja": "現在、ジェネレーターは男性と女性の中世の名前からインスピレーションを得た名前を混合して提供しています。今後のアップデートで性別でフィルタリングするオプションを追加する作業を進めています！",
+        "pt": "Atualmente, o gerador oferece uma mistura de nomes inspirados em nomes medievais masculinos e femininos. Estamos trabalhando para adicionar opções de filtro por gênero em futuras atualizações!",
+        "ru": "В настоящее время генератор предоставляет смесь имен, вдохновленных как мужскими, так и женскими средневековыми именами. Мы работаем над добавлением опций фильтрации по полу в будущих обновлениях!"
+      }
+    }
+  ]
+}

@@ -5,17 +5,16 @@ import traceback
 import json
 
 def call_openai_api(prompt):
-    url = "https://ark.cn-beijing.volces.com/api/v3/chat/completions"
-    api_key="d9b9ca11-7273-4b7e-a8e6-a1518a5c02b4"
-    model="deepseek-v3-250324"
+    # url = "https://ark.cn-beijing.volces.com/api/v3/chat/completions"
+    # api_key="d9b9ca11-7273-4b7e-a8e6-a1518a5c02b4"
+    # model="deepseek-v3-250324"
     
-    # url = "http://localhost:1234/v1/chat/completions"
-    # api_key="7160bf97c2c747cb885c9a9977dfe6a2"
-    # model="phi-4"
+    s = requests.Session()
+    s.trust_env = True  # 启用环境变量代理
     
-    # url = "https://api.deepseek.com/chat/completions"
-    # api_key="sk-0348b1376d3a4ee7a83124c9140199d3"
-    # model="deepseek-chat"
+    url = "https://openrouter.ai/api/v1/chat/completions"
+    api_key="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"
+    model="google/gemini-2.5-flash-preview"
     
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -37,7 +36,7 @@ def call_openai_api(prompt):
     try:
         response = requests.post(url, headers=headers, json=data)
         response.raise_for_status()
-
+        print(response.json())
         return response.json()['choices'][0]['message']['content']
     except requests.exceptions.RequestException as e:
         print(f"Error calling OpenAI API: {e}")

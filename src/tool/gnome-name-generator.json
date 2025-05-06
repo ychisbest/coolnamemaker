@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Gnome Name Generator",
+    "ar": "مولد أسماء الجان",
+    "es": "Generador de Nombres de Gnomos",
+    "fr": "Générateur de Noms de Gnomes",
+    "zh-cn": "侏儒名称生成器",
+    "ja": "ノーム名ジェネレーター",
+    "pt": "Gerador de Nomes de Gnomos",
+    "ru": "Генератор Имен Гномов"
+  },
+  "description": {
+    "en": "Unearth the perfect name for your mischievous garden gnome, your D&D character, or your next fantasy novel! Our Gnome Name Generator digs deep into the roots of gnome lore to provide you with a treasure trove of whimsical, sturdy, and sometimes surprisingly serious names. Get ready to add a touch of gnome-tastic charm to your world!",
+    "ar": "اكتشف الاسم المثالي لجان حديقتك الشرير، أو شخصيتك في D&D، أو روايتك الخيالية القادمة! مولد أسماء الجان لدينا يحفر عميقًا في جذور حكايات الجان ليقدم لك كنزًا من الأسماء الغريبة، القوية، وأحيانًا الجدية بشكل مفاجئ. استعد لإضافة لمسة من سحر الجان إلى عالمك!",
+    "es": "¡Desentierra el nombre perfecto para tu travieso gnomo de jardín, tu personaje de D&D o tu próxima novela de fantasía! Nuestro Generador de Nombres de Gnomos profundiza en las raíces de la tradición gnome para proporcionarte un tesoro de nombres caprichosos, robustos y a veces sorprendentemente serios. ¡Prepárate para añadir un toque de encanto gnome-tástico a tu mundo!",
+    "fr": "Déterrez le nom parfait pour votre gnome de jardin espiègle, votre personnage de JdR, ou votre prochain roman fantastique ! Notre Générateur de Noms de Gnomes creuse profondément dans les racines de la tradition gnome pour vous fournir un trésor de noms fantaisistes, robustes et parfois étonnamment sérieux. Préparez-vous à ajouter une touche de charme gnome-tastique à votre monde !",
+    "zh-cn": "发掘你的顽皮花园侏儒、你的龙与地下城角色或你的下一部奇幻小说的完美名字！我们的侏儒名称生成器深入挖掘侏儒传说，为你提供一个充满奇思妙想、坚固耐用、有时甚至出人意料的严肃名字的宝库。准备好为你的世界增添一丝侏儒般的魅力吧！",
+    "ja": "あなたのいたずら好きな庭のノーム、D&Dのキャラクター、または次のファンタジー小説にぴったりの名前を発掘しましょう！私たちのノーム名ジェネレーターは、ノーム伝承のルーツを深く掘り下げ、気まぐれで頑丈、そして時には驚くほど真面目な名前の宝庫を提供します。あなたの世界にノームタスティックな魅力を加える準備をしてください！",
+    "pt": "Desenterre o nome perfeito para o seu travesso gnomo de jardim, seu personagem de D&D ou seu próximo romance de fantasia! Nosso Gerador de Nomes de Gnomos mergulha fundo nas raízes da tradição gnome para fornecer um tesouro de nomes caprichosos, robustos e às vezes surpreendentemente sérios. Prepare-se para adicionar um toque de charme gnome-tástico ao seu mundo!",
+    "ru": "Найдите идеальное имя для вашего озорного садового гнома, вашего персонажа D&D или вашего следующего фэнтезийного романа! Наш Генератор Имен Гномов глубоко копает в корни гномьей традиции, чтобы предоставить вам сокровищницу причудливых, крепких, а иногда и удивительно серьезных имен. Приготовьтесь добавить в свой мир нотку гномьего очарования!"
+  },
+  "slug": "gnome-name-generator",
+  "prompt": {
+    "en": "Generate a gnome name",
+    "ar": "قم بإنشاء اسم جان",
+    "es": "Generar un nombre de gnomo",
+    "fr": "Générer un nom de gnome",
+    "zh-cn": "生成一个侏儒名称",
+    "ja": "ノーム名を生成する",
+    "pt": "Gerar um nome de gnomo",
+    "ru": "Сгенерировать имя гнома"
+  },
+  "icon": "🧜",
+  "introduction": {
+    "en": "Gnomes are creatures of the earth, known for their cleverness, craftsmanship, and sometimes, their grumpy disposition. Their names often reflect these traits, with sounds that are earthy, practical, and occasionally a little quirky. Whether you need a name for a wise elder, a skilled tinker, or a garden guardian, our generator will help you find one that fits like a perfectly crafted boot. Get ready to meet Glimble, Sparkfizz, or perhaps even Grumbleseed!",
+    "ar": "الجان مخلوقات من الأرض، معروفة بذكائها، وحرفيتها، وأحيانًا، مزاجها العكر. غالبًا ما تعكس أسماؤهم هذه الصفات، بأصوات ترابية، وعملية، وأحيانًا غريبة بعض الشيء. سواء كنت بحاجة إلى اسم لشيخ حكيم، أو مصلح ماهر، أو حارس حديقة، فإن مولدنا سيساعدك في العثور على اسم يناسب تمامًا مثل حذاء مصنوع بإتقان. استعد لمقابلة غليمبل، سباركفيز، أو ربما حتى غرومبليسيد!",
+    "es": "Los gnomos son criaturas de la tierra, conocidas por su astucia, su artesanía y, a veces, su disposición gruñona. Sus nombres a menudo reflejan estos rasgos, con sonidos terrosos, prácticos y ocasionalmente un poco extravagantes. Ya sea que necesites un nombre para un anciano sabio, un hábil chapuzas o un guardián de jardín, nuestro generador te ayudará a encontrar uno que encaje como una bota perfectamente hecha a mano. ¡Prepárate para conocer a Glimble, Sparkfizz o quizás incluso Grumbleseed!",
+    "fr": "Les gnomes sont des créatures de la terre, connues pour leur intelligence, leur savoir-faire et parfois, leur disposition grincheuse. Leurs noms reflètent souvent ces traits, avec des sons terreux, pratiques et parfois un peu excentriques. Que vous ayez besoin d'un nom pour un ancien sage, un bricoleur habile ou un gardien de jardin, notre générateur vous aidera à en trouver un qui s'adapte comme une botte parfaitement fabriquée. Préparez-vous à rencontrer Glimble, Sparkfizz, ou peut-être même Grumbleseed !",
+    "zh-cn": "侏儒是大地之子，以其聪明、精湛的手艺以及有时略显暴躁的脾气而闻名。他们的名字通常反映出这些特质，带有朴实、实用，偶尔也有些古怪的音调。无论你需要为一位睿智的长者、一位技艺高超的修补匠还是一位花园守护者取名，我们的生成器都能帮你找到一个像量身定做一样合适的名字。准备好迎接格林布尔、斯帕克菲兹，甚至可能是格隆布尔希德吧！",
+    "ja": "ノームは地の生き物で、その賢さ、職人技、そして時には不機嫌な性質で知られています。彼らの名前はしばしばこれらの特性を反映しており、素朴で実用的、そして時には少し風変わりな響きを持っています。賢い長老、熟練した修理工、または庭の守護者のための名前が必要な場合でも、私たちのジェネレーターは完璧に作られたブーツのようにフィットする名前を見つけるお手伝いをします。グリムブル、スパークフィズ、あるいはもしかしたらグランブルシードに会う準備をしてください！",
+    "pt": "Os gnomos são criaturas da terra, conhecidas por sua astúcia, habilidade artesanal e, às vezes, sua disposição ranzinza. Seus nomes frequentemente refletem esses traços, com sons terrosos, práticos e ocasionalmente um pouco excêntricos. Se você precisa de um nome para um ancião sábio, um habilidoso artesão ou um guardião de jardim, nosso gerador o ajudará a encontrar um que se encaixe como uma bota perfeitamente feita. Prepare-se para conhecer Glimble, Sparkfizz, ou talvez até Grumbleseed!",
+    "ru": "Гномы - существа земли, известные своим хитростью, мастерством и, иногда, сварливым нравом. Их имена часто отражают эти черты, с земными, практичными и иногда немного причудливыми звуками. Нужен ли вам имя для мудрого старейшины, умелого мастера или хранителя сада, наш генератор поможет вам найти то, что подойдет как идеально сшитый сапог. Приготовьтесь встретить Глимбла, Спаркфизза или, возможно, даже Грамблсида!"
+  },
+  "howToUse": {
+    "en": [
+      "Give the 'Generate' button a hearty tap. You never know what wonders lie beneath!",
+      "Marvel at the list of delightfully gnome-y names that appears.",
+      "Scan the options and let your intuition guide you.",
+      "Found a name that sparks your imagination? Copy it down!",
+      "Now, go forth and bestow your chosen name upon your fortunate gnome!"
+    ],
+    "ar": [
+      "اضغط بقوة على زر 'إنشاء'. لا تعرف أبدًا ما هي العجائب التي تكمن تحته!",
+      "تعجب من قائمة الأسماء اللطيفة ذات الطابع الجني التي تظهر.",
+      "امسح الخيارات ودع حدسك يرشدك.",
+      "هل وجدت اسمًا يثير خيالك؟ انسخه!",
+      "الآن، انطلق وامنح اسمك المختار لجانك المحظوظ!"
+    ],
+    "es": [
+      "Dale un buen toque al botón 'Generar'. ¡Nunca sabes qué maravillas se esconden debajo!",
+      "Maravíllate con la lista de nombres deliciosamente gnómicos que aparece.",
+      "Escanea las opciones y deja que tu intuición te guíe.",
+      "¿Encontraste un nombre que despierta tu imaginación? ¡Cópialo!",
+      "Ahora, ¡adelante y otorga el nombre elegido a tu afortunado gnomo!"
+    ],
+    "fr": [
+      "Appuyez vigoureusement sur le bouton 'Générer'. Vous ne savez jamais quelles merveilles se cachent en dessous !",
+      "Émerveillez-vous devant la liste de noms délicieusement gnomiques qui apparaît.",
+      "Parcourez les options et laissez votre intuition vous guider.",
+      "Vous avez trouvé un nom qui éveille votre imagination ? Copiez-le !",
+      "Maintenant, allez-y et donnez le nom choisi à votre gnome chanceux !"
+    ],
+    "zh-cn": [
+      "用力点击那个\"生成\"按钮。你永远不知道下面隐藏着什么奇迹！",
+      "惊叹于出现的那些充满侏儒风情的可爱名字列表。",
+      "浏览选项，让你的直觉引导你。",
+      "找到一个激发你想象力的名字了吗？把它复制下来！",
+      "现在，出发吧，把选定的名字赐予你幸运的侏儒！"
+    ],
+    "ja": [
+      "「生成」ボタンを力強くタップしてください。その下にどんな驚きがあるかわかりません！",
+      "現れる、いかにもノームらしい素敵な名前のリストに驚嘆してください。",
+      "オプションをスキャンし、直感に導かれましょう。",
+      "想像力をかき立てる名前を見つけましたか？それをコピーしましょう！",
+      "さあ、あなたの選んだ名前を幸運なノームに授けに行きましょう！"
+    ],
+    "pt": [
+      "Dê um bom toque no botão 'Gerar'. Você nunca sabe que maravilhas se escondem por baixo!",
+      "Maravilhe-se com a lista de nomes deliciosamente gnômicos que aparece.",
+      "Escaneie as opções e deixe sua intuição guiá-lo.",
+      "Encontrou um nome que desperta sua imaginação? Copie-o!",
+      "Agora, vá em frente e conceda o nome escolhido ao seu afortunado gnomo!"
+    ],
+    "ru": [
+      "Дайте кнопке 'Создать' крепкий толчок. Никогда не знаешь, какие чудеса скрываются под ней!",
+      "Полюбуйтесь списком восхитительно гномьих имен, который появится.",
+      "Просмотрите варианты и позвольте своей интуиции вести вас.",
+      "Нашли имя, которое зажигает ваше воображение? Скопируйте его!",
+      "Теперь идите и дайте выбранное имя вашему удачливому гному!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Can I use these names for my fantasy writing?",
+        "ar": "هل يمكنني استخدام هذه الأسماء في كتاباتي الخيالية؟",
+        "es": "¿Puedo usar estos nombres para mi escritura de fantasía?",
+        "fr": "Puis-je utiliser ces noms pour mes écrits fantastiques?",
+        "zh-cn": "我可以用这些名字写奇幻小说吗？",
+        "ja": "これらの名前をファンタジー作品に使用できますか？",
+        "pt": "Posso usar esses nomes para minha escrita de fantasia?",
+        "ru": "Могу ли я использовать эти имена в своих фэнтезийных произведениях?"
+      },
+      "answer": {
+        "en": "Absolutely! Our generator is a fantastic resource for authors, game masters, and anyone building a world with gnome inhabitants. Feel free to borrow, adapt, and let these names inspire your creative endeavors!",
+        "ar": "بالتأكيد! مولدنا هو مورد رائع للمؤلفين، وأساتذة الألعاب، وأي شخص يبني عالمًا يسكنه الجان. لا تتردد في الاقتباس، والتكيف، ودع هذه الأسماء تلهم مساعيك الإبداعية!",
+        "es": "¡Absolutamente! Nuestro generador es un recurso fantástico para autores, maestros de juego y cualquiera que construya un mundo con habitantes gnomos. ¡Siéntete libre de tomar prestado, adaptar y dejar que estos nombres inspiren tus esfuerzos creativos!",
+        "fr": "Absolument ! Notre générateur est une ressource fantastique pour les auteurs, les maîtres de jeu et tous ceux qui construisent un monde avec des habitants gnomes. N'hésitez pas à emprunter, adapter et laisser ces noms inspirer vos efforts créatifs !",
+        "zh-cn": "当然可以！我们的生成器是作家、游戏主持人以及任何构建有侏儒居民的世界的人的绝佳资源。请随意借鉴、改编，让这些名字激发你的创作灵感！",
+        "ja": "もちろんです！私たちのジェネレーターは、作家、ゲームマスター、そしてノームの住民がいる世界を構築しているすべての人にとって素晴らしいリソースです。自由に借りたり、改変したりして、これらの名前があなたの創造的な努力を刺激するのを許してください！",
+        "pt": "Absolutamente! Nosso gerador é um recurso fantástico para autores, mestres de jogo e qualquer pessoa que esteja construindo um mundo com habitantes gnomos. Sinta-se à vontade para pegar emprestado, adaptar e deixar que esses nomes inspirem seus empreendimentos criativos!",
+        "ru": "Абсолютно! Наш генератор - это фантастический ресурс для авторов, мастеров игры и всех, кто создает мир с гномьими жителями. Не стесняйтесь заимствовать, адаптировать и позволять этим именам вдохновлять ваши творческие усилия!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are these names based on real-world folklore?",
+        "ar": "هل هذه الأسماء مبنية على الفولكلور الواقعي؟",
+        "es": "¿Estos nombres se basan en el folclore del mundo real?",
+        "fr": "Ces noms sont-ils basés sur le folklore du monde réel?",
+        "zh-cn": "这些名字是基于现实世界的民间传说吗？",
+        "ja": "これらの名前は現実世界の民間伝承に基づいていますか？",
+        "pt": "Esses nomes são baseados no folclore do mundo real?",
+        "ru": "Основаны ли эти имена на реальном фольклоре?"
+      },
+      "answer": {
+        "en": "While we draw inspiration from various fantasy traditions and folklore, the names generated are primarily fictional creations designed to fit the typical characteristics associated with gnomes in popular culture and fantasy settings.",
+        "ar": "بينما نستمد الإلهام من تقاليد وفولكلور الخيال المختلفة، فإن الأسماء التي يتم إنشاؤها هي في المقام الأول إبداعات خيالية مصممة لتناسب الخصائص النموذجية المرتبطة بالجان في الثقافة الشعبية والإعدادات الخيالية.",
+        "es": "Si bien nos inspiramos en varias tradiciones y folclores de fantasía, los nombres generados son principalmente creaciones ficticias diseñadas para adaptarse a las características típicas asociadas con los gnomos en la cultura popular y los escenarios de fantasía.",
+        "fr": "Bien que nous nous inspirions de diverses traditions et folklores fantastiques, les noms générés sont principalement des créations fictives conçues pour correspondre aux caractéristiques typiques associées aux gnomes dans la culture populaire et les décors fantastiques.",
+        "zh-cn": "虽然我们从各种奇幻传统和民间传说中汲取灵感，但生成的名称主要是虚构的创作，旨在符合流行文化和奇幻设定中与侏儒相关的典型特征。",
+        "ja": "様々なファンタジーの伝統や民間伝承からインスピレーションを得ていますが、生成される名前は主にフィクションの創作であり、大衆文化やファンタジーの設定におけるノームに関連する典型的な特徴に合うように設計されています。",
+        "pt": "Embora nos inspiremos em várias tradições e folclores de fantasia, os nomes gerados são principalmente criações fictícias projetadas para se adequar às características típicas associadas aos gnomos na cultura popular e nos cenários de fantasia.",
+        "ru": "Хотя мы черпаем вдохновение из различных фэнтезийных традиций и фольклора, сгенерированные имена являются в первую очередь вымышленными творениями, разработанными для соответствия типичным характеристикам, связанным с гномами в популярной культуре и фэнтезийных сеттингах."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I generate names for male and female gnomes?",
+        "ar": "هل يمكنني إنشاء أسماء للجان الذكور والإناث؟",
+        "es": "¿Puedo generar nombres para gnomos masculinos y femeninos?",
+        "fr": "Puis-je générer des noms pour les gnomes masculins et féminins?",
+        "zh-cn": "我能生成男性和女性侏儒的名字吗？",
+        "ja": "男性と女性のノームの名前を生成できますか？",
+        "pt": "Posso gerar nomes para gnomos masculinos e femininos?",
+        "ru": "Могу ли я генерировать имена для гномов мужского и женского пола?"
+      },
+      "answer": {
+        "en": "Our generator provides a mix of names that can be used for gnomes of any gender. Some names might lean towards traditionally masculine or feminine sounds, but ultimately, the choice is yours! Feel free to pick the name that best suits the personality of your gnome.",
+        "ar": "مولدنا يوفر مزيجًا من الأسماء التي يمكن استخدامها للجان من أي جنس. قد تميل بعض الأسماء نحو الأصوات الذكورية أو الأنثوية التقليدية، ولكن في النهاية، الخيار لك! لا تتردد في اختيار الاسم الذي يناسب شخصية جانك بشكل أفضل.",
+        "es": "Nuestro generador proporciona una mezcla de nombres que se pueden usar para gnomos de cualquier género. Algunos nombres pueden inclinarse hacia sonidos tradicionalmente masculinos o femeninos, pero en última instancia, ¡la elección es tuya! Siéntete libre de elegir el nombre que mejor se adapte a la personalidad de tu gnomo.",
+        "fr": "Notre générateur propose un mélange de noms qui peuvent être utilisés pour des gnomes de tout genre. Certains noms peuvent tendre vers des sonorités traditionnellement masculines ou féminines, mais en fin de compte, le choix vous appartient ! N'hésitez pas à choisir le nom qui convient le mieux à la personnalité de votre gnome.",
+        "zh-cn": "我们的生成器提供各种名称，适用于任何性别的侏儒。有些名字可能更偏向传统的男性或女性发音，但最终的选择权在你！请自由选择最适合你的侏儒个性的名字。",
+        "ja": "私たちのジェネレーターは、あらゆる性別のノームに使用できる名前のミックスを提供します。伝統的に男性または女性の響きに傾く名前もありますが、最終的には選択はあなた次第です！あなたのノームの性格に最も合う名前を自由に選んでください。",
+        "pt": "Nosso gerador fornece uma mistura de nomes que podem ser usados para gnomos de qualquer gênero. Alguns nomes podem tender a sons tradicionalmente masculinos ou femininos, mas, em última análise, a escolha é sua! Sinta-se à vontade para escolher o nome que melhor se adapta à personalidade do seu gnomo.",
+        "ru": "Наш генератор предоставляет смесь имен, которые могут быть использованы для гномов любого пола. Некоторые имена могут склоняться к традиционно мужским или женским звукам, но в конечном итоге выбор за вами! Не стесняйтесь выбрать имя, которое лучше всего подходит характеру вашего гнома."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I combine parts of different generated names?",
+        "ar": "هل يمكنني دمج أجزاء من أسماء مختلفة تم إنشاؤها؟",
+        "es": "¿Puedo combinar partes de diferentes nombres generados?",
+        "fr": "Puis-je combiner des parties de différents noms générés?",
+        "zh-cn": "我可以组合不同生成的名称的一部分吗？",
+        "ja": "生成された異なる名前の一部を組み合わせることはできますか？",
+        "pt": "Posso combinar partes de nomes gerados diferentes?",
+        "ru": "Могу ли я комбинировать части разных сгенерированных имен?"
+      },
+      "answer": {
+        "en": "Absolutely! Think of our generator as a springboard for your own creativity. Feel free to mix and match prefixes, suffixes, and root words to craft a truly unique gnome name that's perfect for your needs.",
+        "ar": "بالتأكيد! اعتبر مولدنا نقطة انطلاق لإبداعك الخاص. لا تتردد في مزج ومطابقة البادئات واللاحقات والكلمات الجذرية لصياغة اسم جني فريد حقًا يناسب احتياجاتك تمامًا.",
+        "es": "¡Absolutamente! Piensa en nuestro generador como un trampolín para tu propia creatividad. Siéntete libre de mezclar y combinar prefijos, sufijos y palabras raíz para crear un nombre de gnomo verdaderamente único que sea perfecto para tus necesidades.",
+        "fr": "Absolument ! Considérez notre générateur comme un tremplin pour votre propre créativité. N'hésitez pas à mélanger et assortir des préfixes, des suffixes et des mots racines pour créer un nom de gnome vraiment unique, parfait pour vos besoins.",
+        "zh-cn": "当然可以！把我们的生成器看作是你自己创造力的跳板。随意混合和匹配前缀、后缀和词根，创造一个真正独特的侏儒名字，完美符合你的需求。",
+        "ja": "もちろんです！私たちのジェネレーターをあなた自身の創造性の出発点と考えてください。接頭辞、接尾辞、語根を自由に組み合わせて、あなたのニーズに完璧に合う真にユニークなノームの名前を作成してください。",
+        "pt": "Absolutamente! Pense em nosso gerador como um trampolim para sua própria criatividade. Sinta-se à vontade para misturar e combinar prefixos, sufixos e palavras raiz para criar um nome de gnomo verdadeiramente único que seja perfeito para suas necessidades.",
+        "ru": "Абсолютно! Думайте о нашем генераторе как о трамплине для вашего собственного творчества. Не стесняйтесь смешивать и сочетать префиксы, суффиксы и корневые слова, чтобы создать по-настоящему уникальное гномье имя, которое идеально подходит для ваших нужд."
+      }
+    },
+    {
+      "question": {
+        "en": "Will you be adding more names to the generator?",
+        "ar": "هل ستضيفون المزيد من الأسماء إلى المولد؟",
+        "es": "¿Agregarán más nombres al generador?",
+        "fr": "Ajouterez-vous plus de noms au générateur?",
+        "zh-cn": "你们会给生成器添加更多名字吗？",
+        "ja": "ジェネレーターにもっと名前を追加しますか？",
+        "pt": "Vocês adicionarão mais nomes ao gerador?",
+        "ru": "Будете ли вы добавлять больше имен в генератор?"
+      },
+      "answer": {
+        "en": "We're always tinkering and improving! We plan to periodically update the generator with new names and linguistic elements to keep the results fresh and exciting. Keep an eye out for future updates!",
+        "ar": "نحن دائمًا في حالة عمل وتطوير! نخطط لتحديث المولد بشكل دوري بأسماء وعناصر لغوية جديدة للحفاظ على النتائج جديدة ومثيرة. ترقبوا التحديثات المستقبلية!",
+        "es": "¡Siempre estamos experimentando y mejorando! Planeamos actualizar periódicamente el generador con nuevos nombres y elementos lingüísticos para mantener los resultados frescos y emocionantes. ¡Esté atento a futuras actualizaciones!",
+        "fr": "Nous sommes toujours en train de bricoler et d'améliorer ! Nous prévoyons de mettre à jour périodiquement le générateur avec de nouveaux noms et des éléments linguistiques pour que les résultats restent frais et excitants. Restez à l'affût des futures mises à jour !",
+        "zh-cn": "我们一直在进行调整和改进！我们计划定期更新生成器，添加新的名称和语言元素，以保持结果的新鲜和有趣。请留意未来的更新！",
+        "ja": "私たちは常に調整と改善を行っています！定期的に新しい名前や言語要素でジェネレーターを更新し、結果を新鮮でエキサイティングに保つ予定です。今後のアップデートにご期待ください！",
+        "pt": "Estamos sempre mexendo e melhorando! Planejamos atualizar periodicamente o gerador com novos nomes e elementos linguísticos para manter os resultados frescos e emocionantes. Fique de olho em futuras atualizações!",
+        "ru": "Мы всегда что-то мастерим и улучшаем! Мы планируем периодически обновлять генератор новыми именами и лингвистическими элементами, чтобы результаты оставались свежими и интересными. Следите за будущими обновлениями!"
+      }
+    }
+  ]
+}

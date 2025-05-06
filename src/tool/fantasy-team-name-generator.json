@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Fantasy Team Name Generator",
+    "ar": "مولد أسماء فرق الفانتسي",
+    "es": "Generador de Nombres de Equipos de Fantasía",
+    "fr": "Générateur de Noms d'Équipe Fantasy",
+    "zh-cn": "梦幻球队名称生成器",
+    "ja": "ファンタジーチーム名ジェネレーター",
+    "pt": "Gerador de Nomes de Times de Fantasy",
+    "ru": "Генератор Названий Фэнтези-команд"
+  },
+  "description": {
+    "en": "Tired of generic and uninspired fantasy team names? Ready to strike fear into the hearts of your opponents with a name that's as epic as your draft picks? Our Fantasy Team Name Generator is your ultimate weapon! Unleash a torrent of creative, hilarious, and downright legendary names that will make your league rivals green with envy.",
+    "ar": "هل سئمت من أسماء فرق الفانتسي العادية وغير الملهمة؟ هل أنت مستعد لبث الخوف في قلوب خصومك باسم ملحمي مثل اختياراتك في الدرفت؟ مولد أسماء فرق الفانتسي لدينا هو سلاحك النهائي! أطلق العنان لسيل من الأسماء الإبداعية والمضحكة والأسطورية التي ستجعل منافسي الدوري الخاص بك يخضرون حسدًا.",
+    "es": "¿Cansado de nombres de equipos de fantasía genéricos y poco inspirados? ¿Listo para infundir miedo en los corazones de tus oponentes con un nombre tan épico como tus selecciones de draft? ¡Nuestro Generador de Nombres de Equipos de Fantasía es tu arma definitiva! Desata un torrente de nombres creativos, hilarantes y francamente legendarios que harán que tus rivales de liga se pongan verdes de envidia.",
+    "fr": "Fatigué des noms d'équipe fantasy génériques et sans inspiration ? Prêt à semer la peur dans le cœur de vos adversaires avec un nom aussi épique que vos choix de draft ? Notre Générateur de Noms d'Équipe Fantasy est votre arme ultime ! Libérez un torrent de noms créatifs, hilarants et carrément légendaires qui rendront vos rivaux de ligue verts de jalousie.",
+    "zh-cn": "厌倦了普通且缺乏灵感的梦幻球队名称？准备好用一个像你的选秀一样史诗般的名字让你的对手心生畏惧了吗？我们的梦幻球队名称生成器是你的终极武器！释放大量富有创意、滑稽甚至传奇的名称，让你的联盟对手嫉妒得发绿。",
+    "ja": "ありきたりでインスピレーションのないファンタジーチーム名にうんざりしていませんか？ドラフト指名と同じくらい壮大な名前で対戦相手の心に恐怖を植え付ける準備はできていますか？私たちのファンタジーチーム名ジェネレーターはあなたの究極の武器です！あなたのリーグのライバルを羨望の眼差しで見させる、創造的で陽気で、そして率直に言って伝説的な名前の洪水を解き放ちましょう。",
+    "pt": "Cansado de nomes de times de fantasy genéricos e sem inspiração? Pronto para infundir medo nos corações de seus oponentes com um nome tão épico quanto suas escolhas de draft? Nosso Gerador de Nomes de Times de Fantasy é sua arma definitiva! Libere uma torrente de nomes criativos, hilários e francamente lendários que farão seus rivais de liga verdes de inveja.",
+    "ru": "Устали от обычных и не вдохновляющих названий фэнтези-команд? Готовы вселить страх в сердца ваших соперников названием, столь же эпичным, как ваши выборы на драфте? Наш Генератор Названий Фэнтези-команд - ваше главное оружие! Выпустите поток творческих, уморительных и, откровенно говоря, легендарных названий, которые заставят ваших соперников по лиге позеленеть от зависти."
+  },
+  "slug": "fantasy-team-name-generator",
+  "prompt": {
+    "en": "Generate a fantasy team name",
+    "ar": "قم بإنشاء اسم فريق فانتسي",
+    "es": "Generar un nombre de equipo de fantasía",
+    "fr": "Générer un nom d'équipe fantasy",
+    "zh-cn": "生成一个梦幻球队名称",
+    "ja": "ファンタジーチーム名を生成する",
+    "pt": "Gerar um nome de time de fantasy",
+    "ru": "Сгенерировать название фэнтези-команды"
+  },
+  "icon": "🏈",
+  "introduction": {
+    "en": "Your fantasy team deserves a name that's as unforgettable as that game-winning touchdown (or soul-crushing interception). Don't settle for the mundane! Our generator is packed with witty wordplay, pop culture references, and just the right amount of absurdity to help you stand out from the crowd. Whether you're dominating in football, basketball, baseball, or any other fantasy sport, a killer team name is your first step towards victory.",
+    "ar": "فريق الفانتسي الخاص بك يستحق اسمًا لا يُنسى مثل لمسة النهاية التي تفوز بالمباراة (أو اعتراض يكسر الروح). لا ترضى بالعادي! مولدنا مليء بالتلاعب اللغوي الذكي، والمراجع الثقافية الشعبية، والقدر المناسب من السخافة لمساعدتك على التميز عن الآخرين. سواء كنت تهيمن في كرة القدم، أو كرة السلة، أو البيسبول، أو أي رياضة فانتسي أخرى، فإن اسم الفريق القاتل هو خطوتك الأولى نحو النصر.",
+    "es": "Tu equipo de fantasía merece un nombre tan inolvidable como ese touchdown ganador del juego (o esa intercepción desgarradora). ¡No te conformes con lo mundano! Nuestro generador está repleto de juegos de palabras ingeniosos, referencias a la cultura pop y la cantidad justa de absurdo para ayudarte a destacar entre la multitud. Ya sea que estés dominando en fútbol americano, baloncesto, béisbol o cualquier otro deporte de fantasía, un nombre de equipo increíble es tu primer paso hacia la victoria.",
+    "fr": "Votre équipe fantasy mérite un nom aussi inoubliable que ce touchdown gagnant (ou cette interception qui brise l'âme). Ne vous contentez pas de l'ordinaire ! Notre générateur regorge de jeux de mots astucieux, de références à la culture pop et juste ce qu'il faut d'absurdité pour vous aider à vous démarquer de la foule. Que vous dominiez au football, au basketball, au baseball ou à tout autre sport fantasy, un nom d'équipe qui tue est votre premier pas vers la victoire.",
+    "zh-cn": "你的梦幻球队值得拥有一个像那记制胜达阵（或令人心碎的拦截）一样令人难忘的名字。不要满足于平庸！我们的生成器充满了巧妙的双关语、流行文化梗以及恰到好处的荒谬感，帮助你脱颖而出。无论你在橄榄球、篮球、棒球还是任何其他梦幻运动中占据主导地位，一个杀手级的球队名称都是你迈向胜利的第一步。",
+    "ja": "あなたのファンタジーチームは、試合を決めるタッチダウン（または魂を打ち砕くインターセプト）と同じくらい忘れられない名前を持つに値します。ありきたりなものに甘んじないでください！私たちのジェネレーターは、巧妙な言葉遊び、ポップカルチャーの参照、そして群衆から目立つためにちょうどいい量の不条理に満ちています。フットボール、バスケットボール、野球、その他のファンタジースポーツで支配しているかどうかにかかわらず、キラーチーム名は勝利への第一歩です。",
+    "pt": "Seu time de fantasy merece um nome tão inesquecível quanto aquele touchdown que ganha o jogo (ou aquela interceptação de partir o coração). Não se contente com o mundano! Nosso gerador está repleto de jogos de palavras inteligentes, referências à cultura pop e a quantidade certa de absurdo para ajudá-lo a se destacar da multidão. Quer você esteja dominando no futebol americano, basquete, beisebol ou qualquer outro esporte de fantasy, um nome de time matador é seu primeiro passo para a vitória.",
+    "ru": "Ваша фэнтези-команда заслуживает названия, столь же незабываемого, как победный тачдаун (или душераздирающий перехват). Не соглашайтесь на банальность! Наш генератор наполнен остроумными каламбурами, отсылками к поп-культуре и ровно нужным количеством абсурда, чтобы помочь вам выделиться из толпы. Независимо от того, доминируете ли вы в футболе, баскетболе, бейсболе или любом другом фэнтези-спорте, убийственное название команды - ваш первый шаг к победе."
+  },
+  "howToUse": {
+    "en": [
+      "Click the big, shiny 'Generate' button. It's calling your name... and your team's name!",
+      "Brace yourself for a barrage of brilliant fantasy team names.",
+      "Scroll through the list and find the name that speaks to your competitive spirit (or just makes you laugh).",
+      "Found your perfect match? Copy that legendary name!",
+      "Go forth and dominate your league with a name that demands respect (and maybe a few chuckles)."
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' الكبير واللامع. إنه يناديك... وينادي اسم فريقك!",
+      "استعد لوابل من أسماء فرق الفانتسي الرائعة.",
+      "قم بالتمرير عبر القائمة وابحث عن الاسم الذي يتحدث عن روحك التنافسية (أو يجعلك تضحك فقط).",
+      "هل وجدت تطابقك المثالي؟ انسخ ذلك الاسم الأسطوري!",
+      "انطلق وسيطر على الدوري الخاص بك باسم يفرض الاحترام (وربما بعض الضحكات)."
+    ],
+    "es": [
+      "Haz clic en el botón grande y brillante 'Generar'. ¡Está llamando tu nombre... y el nombre de tu equipo!",
+      "Prepárate para una avalancha de nombres brillantes para equipos de fantasía.",
+      "Desplázate por la lista y encuentra el nombre que habla a tu espíritu competitivo (o simplemente te hace reír).",
+      "¿Encontraste tu pareja perfecta? ¡Copia ese nombre legendario!",
+      "Adelante y domina tu liga con un nombre que exige respeto (y tal vez algunas risas)."
+    ],
+    "fr": [
+      "Cliquez sur le gros bouton brillant 'Générer'. Il appelle votre nom... et le nom de votre équipe !",
+      "Préparez-vous à un barrage de noms brillants pour équipes fantasy.",
+      "Faites défiler la liste et trouvez le nom qui parle à votre esprit compétitif (ou vous fait simplement rire).",
+      "Vous avez trouvé votre match parfait ? Copiez ce nom légendaire !",
+      "Allez-y et dominez votre ligue avec un nom qui exige le respect (et peut-être quelques rires)."
+    ],
+    "zh-cn": [
+      "点击那个又大又亮的\"生成\"按钮。它正在呼唤你的名字……以及你球队的名字！",
+      "准备好迎接大量精彩的梦幻球队名称。",
+      "滚动浏览列表，找到能激发你竞争精神（或只是让你发笑）的名字。",
+      "找到你的完美匹配了吗？复制那个传奇的名字！",
+      "带着一个令人肃然起敬（或许还能引人发笑）的名字，去征服你的联盟吧。"
+    ],
+    "ja": [
+      "大きな輝く「生成」ボタンをクリックしてください。あなたの名前...そしてあなたのチーム名を呼んでいます！",
+      "素晴らしいファンタジーチーム名の連続に備えてください。",
+      "リストをスクロールして、あなたの競争心に響く（または単に笑いを誘う）名前を見つけてください。",
+      "完璧な名前を見つけましたか？その伝説的な名前をコピーしましょう！",
+      "尊敬（そしておそらく笑い）を要求する名前で、あなたのリーグを制覇しましょう。"
+    ],
+    "pt": [
+      "Clique no botão grande e brilhante 'Gerar'. Ele está chamando seu nome... e o nome do seu time!",
+      "Prepare-se para uma enxurrada de nomes brilhantes para times de fantasy.",
+      "Role pela lista e encontre o nome que fala ao seu espírito competitivo (ou apenas te faz rir).",
+      "Encontrou sua combinação perfeita? Copie esse nome lendário!",
+      "Vá em frente e domine sua liga com um nome que exige respeito (e talvez algumas risadas)."
+    ],
+    "ru": [
+      "Нажмите на большую, блестящую кнопку 'Создать'. Она зовет ваше имя... и имя вашей команды!",
+      "Приготовьтесь к шквалу великолепных названий фэнтези-команд.",
+      "Пролистайте список и найдите имя, которое говорит о вашем соревновательном духе (или просто заставляет вас смеяться).",
+      "Нашли идеальное совпадение? Скопируйте это легендарное имя!",
+      "Идите и доминируйте в своей лиге с именем, которое требует уважения (и, возможно, вызывает смех)."
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Fantasy Team Name Generator free?",
+        "ar": "هل مولد أسماء فرق الفانتسي هذا مجاني؟",
+        "es": "¿Es gratis este Generador de Nombres de Equipos de Fantasía?",
+        "fr": "Ce Générateur de Noms d'Équipe Fantasy est-il gratuit?",
+        "zh-cn": "这个梦幻球队名称生成器是免费的吗？",
+        "ja": "このファンタジーチーム名ジェネレーターは無料ですか？",
+        "pt": "Este Gerador de Nomes de Times de Fantasy é gratuito?",
+        "ru": "Этот Генератор Названий Фэнтези-команд бесплатный?"
+      },
+      "answer": {
+        "en": "Absolutely! We believe everyone deserves a killer team name without breaking the bank. Generate away!",
+        "ar": "بالتأكيد! نحن نؤمن بأن الجميع يستحق اسم فريق رائع دون إفراغ الجيب. انطلق في الإنشاء!",
+        "es": "¡Absolutamente! Creemos que todos merecen un nombre de equipo increíble sin tener que gastar mucho. ¡Genera sin parar!",
+        "fr": "Absolument ! Nous pensons que tout le monde mérite un nom d'équipe qui tue sans se ruiner. Générez à volonté !",
+        "zh-cn": "当然！我们认为每个人都应该拥有一个杀手级的球队名称，而且无需花费。尽情生成吧！",
+        "ja": "もちろんです！私たちは誰もがお金をかけずにキラーチーム名を持つ権利があると信じています。どんどん生成してください！",
+        "pt": "Absolutamente! Acreditamos que todos merecem um nome de time matador sem gastar muito. Gere à vontade!",
+        "ru": "Абсолютно! Мы считаем, что каждый заслуживает убийственного названия команды, не разоряясь. Генерируйте на здоровье!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my real-life sports team?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لفريق رياضي واقعي؟",
+        "es": "¿Puedo usar estos nombres para mi equipo deportivo de la vida real?",
+        "fr": "Puis-je utiliser ces noms pour mon équipe sportive réelle?",
+        "zh-cn": "我可以将这些名称用于我的现实生活中的运动队吗？",
+        "ja": "これらの名前を実際のスポーツチームに使用できますか？",
+        "pt": "Posso usar esses nomes para meu time esportivo da vida real?",
+        "ru": "Могу ли я использовать эти названия для своей реальной спортивной команды?"
+      },
+      "answer": {
+        "en": "While these names are designed for fantasy, feel free to draw inspiration for your real team! However, always check for existing team names and trademarks before making it official.",
+        "ar": "بينما تم تصميم هذه الأسماء للفانتسي، لا تتردد في استلهامها لفريقك الحقيقي! ومع ذلك، تحقق دائمًا من أسماء الفرق والعلامات التجارية الموجودة قبل جعلها رسمية.",
+        "es": "Aunque estos nombres están diseñados para la fantasía, siéntete libre de inspirarte para tu equipo real. Sin embargo, siempre verifica los nombres de equipos y marcas registradas existentes antes de hacerlo oficial.",
+        "fr": "Bien que ces noms soient conçus pour la fantasy, n'hésitez pas à vous en inspirer pour votre vraie équipe ! Cependant, vérifiez toujours les noms d'équipe et les marques déposées existantes avant de l'officialiser.",
+        "zh-cn": "虽然这些名称是为梦幻运动设计的，但你完全可以从中为你的现实球队获取灵感！不过，在正式确定名称之前，务必检查是否存在已有的球队名称和商标。",
+        "ja": "これらの名前はファンタジー向けに設計されていますが、実際のチームのインスピレーションとして自由に使用してください！ただし、正式にする前に、既存のチーム名や商標を必ず確認してください。",
+        "pt": "Embora esses nomes sejam projetados para fantasy, sinta-se à vontade para se inspirar para seu time real! No entanto, sempre verifique nomes de times e marcas registradas existentes antes de torná-lo oficial.",
+        "ru": "Хотя эти названия предназначены для фэнтези, не стесняйтесь черпать вдохновение для своей реальной команды! Тем не менее, всегда проверяйте существующие названия команд и товарные знаки, прежде чем делать это официальным."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names unique?",
+        "ar": "هل الأسماء التي تم إنشاؤها فريدة؟",
+        "es": "¿Los nombres generados son únicos?",
+        "fr": "Les noms générés sont-ils uniques?",
+        "zh-cn": "生成的名称是唯一的吗？",
+        "ja": "生成された名前はユニークですか？",
+        "pt": "Os nomes gerados são únicos?",
+        "ru": "Являются ли сгенерированные имена уникальными?"
+      },
+      "answer": {
+        "en": "We generate a vast number of unique combinations, but with the sheer volume of fantasy teams out there, we can't guarantee complete originality. However, our goal is to give you plenty of fresh and creative options!",
+        "ar": "نقوم بإنشاء عدد كبير من التوليفات الفريدة، ولكن مع الكم الهائل من فرق الفانتسي الموجودة، لا يمكننا ضمان الأصالة الكاملة. ومع ذلك، هدفنا هو تزويدك بالعديد من الخيارات الجديدة والمبتكرة!",
+        "es": "Generamos una gran cantidad de combinaciones únicas, pero con el gran volumen de equipos de fantasía que existen, no podemos garantizar la originalidad completa. Sin embargo, nuestro objetivo es brindarte muchas opciones frescas y creativas.",
+        "fr": "Nous générons un grand nombre de combinaisons uniques, mais avec l'énorme volume d'équipes fantasy existantes, nous ne pouvons garantir une originalité complète. Cependant, notre objectif est de vous offrir de nombreuses options fraîches et créatives !",
+        "zh-cn": "我们生成了大量的独特组合，但考虑到梦幻球队数量庞大，我们无法保证完全的独创性。然而，我们的目标是为你提供大量新颖且富有创意的选项！",
+        "ja": "膨大な数のユニークな組み合わせを生成しますが、ファンタジーチームの膨大な量があるため、完全な独創性を保証することはできません。しかし、私たちの目標は、新鮮で創造的なオプションをたくさん提供することです！",
+        "pt": "Geramos um grande número de combinações únicas, mas com o grande volume de times de fantasy por aí, não podemos garantir originalidade completa. No entanto, nosso objetivo é fornecer muitas opções frescas e criativas!",
+        "ru": "Мы генерируем огромное количество уникальных комбинаций, но с учетом огромного количества фэнтези-команд, мы не можем гарантировать полную оригинальность. Однако наша цель - предоставить вам множество свежих и креативных вариантов!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I filter or customize the types of names generated?",
+        "ar": "هل يمكنني تصفية أو تخصيص أنواع الأسماء التي تم إنشاؤها؟",
+        "es": "¿Puedo filtrar o personalizar los tipos de nombres generados?",
+        "fr": "Puis-je filtrer ou personnaliser les types de noms générés?",
+        "zh-cn": "我可以过滤或自定义生成的名称类型吗？",
+        "ja": "生成される名前の種類をフィルターまたはカスタマイズできますか？",
+        "pt": "Posso filtrar ou personalizar os tipos de nomes gerados?",
+        "ru": "Могу ли я отфильтровать или настроить типы генерируемых имен?"
+      },
+      "answer": {
+        "en": "Currently, the generator provides a broad range of names. We're always looking to improve, so feel free to suggest features like filtering by sport, humor level, or specific themes!",
+        "ar": "حاليًا، يوفر المولد نطاقًا واسعًا من الأسماء. نحن نسعى دائمًا للتحسين، لذا لا تتردد في اقتراح ميزات مثل التصفية حسب الرياضة، مستوى الفكاهة، أو مواضيع محددة!",
+        "es": "Actualmente, el generador ofrece una amplia gama de nombres. Siempre buscamos mejorar, ¡así que siéntete libre de sugerir funciones como filtrar por deporte, nivel de humor o temas específicos!",
+        "fr": "Actuellement, le générateur fournit une large gamme de noms. Nous cherchons toujours à nous améliorer, alors n'hésitez pas à suggérer des fonctionnalités comme le filtrage par sport, niveau d'humour ou thèmes spécifiques !",
+        "zh-cn": "目前，生成器提供了广泛的名称范围。我们一直在寻求改进，因此欢迎提出按运动、幽默程度或特定主题过滤等功能建议！",
+        "ja": "現在、ジェネレーターは幅広い名前を提供しています。私たちは常に改善を目指しているので、スポーツ、ユーモアレベル、または特定のテーマでフィルターするなどの機能を自由に提案してください！",
+        "pt": "Atualmente, o gerador fornece uma ampla gama de nomes. Estamos sempre buscando melhorar, então sinta-se à vontade para sugerir recursos como filtrar por esporte, nível de humor ou temas específicos!",
+        "ru": "В настоящее время генератор предоставляет широкий спектр имен. Мы всегда стремимся улучшаться, поэтому не стесняйтесь предлагать такие функции, как фильтрация по виду спорта, уровню юмора или конкретным темам!"
+      }
+    },
+    {
+      "question": {
+        "en": "What if I don't like any of the generated names?",
+        "ar": "ماذا لو لم يعجبني أي من الأسماء التي تم إنشاؤها؟",
+        "es": "¿Qué pasa si no me gusta ninguno de los nombres generados?",
+        "fr": "Que faire si je n'aime aucun des noms générés?",
+        "zh-cn": "如果我不喜欢任何生成的名称怎么办？",
+        "ja": "生成された名前がどれも気に入らない場合はどうなりますか？",
+        "pt": "E se eu não gostar de nenhum dos nomes gerados?",
+        "ru": "Что делать, если мне не нравится ни одно из сгенерированных имен?"
+      },
+      "answer": {
+        "en": "Keep clicking 'Generate'! With a virtually infinite number of possibilities, you're bound to find a name that clicks with you. Maybe try again later, or come back with a fresh mind!",
+        "ar": "استمر في النقر على 'إنشاء'! مع عدد لا نهائي تقريبًا من الاحتمالات، من المؤكد أنك ستجد اسمًا يناسبك. ربما حاول مرة أخرى لاحقًا، أو عد بعقل متجدد!",
+        "es": "¡Sigue haciendo clic en 'Generar'! Con un número prácticamente infinito de posibilidades, seguro que encuentras un nombre que te guste. ¡Quizás inténtalo de nuevo más tarde, o regresa con la mente fresca!",
+        "fr": "Continuez à cliquer sur 'Générer' ! Avec un nombre pratiquement infini de possibilités, vous êtes sûr de trouver un nom qui vous plaît. Peut-être réessayez plus tard, ou revenez avec un esprit frais !",
+        "zh-cn": "继续点击\"生成\"！可能性几乎无限，你肯定能找到一个让你眼前一亮的名字。也许稍后再试，或者换个思路再来！",
+        "ja": "「生成」をクリックし続けてください！事実上無限の可能性があるので、きっとあなたに合う名前が見つかります。後でもう一度試すか、新鮮な気持ちで戻ってきてください！",
+        "pt": "Continue clicando em 'Gerar'! Com um número praticamente infinito de possibilidades, você certamente encontrará um nome que combine com você. Talvez tente novamente mais tarde, ou volte com a mente fresca!",
+        "ru": "Продолжайте нажимать 'Создать'! С практически бесконечным числом возможностей вы обязательно найдете имя, которое вам понравится. Возможно, попробуйте еще раз позже или вернитесь со свежей головой!"
+      }
+    }
+  ]
+}

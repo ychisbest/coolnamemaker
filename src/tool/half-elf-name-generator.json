@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Half-Elf Name Generator",
+    "ar": "مولد أسماء نصف الجان",
+    "es": "Generador de Nombres de Semielfos",
+    "fr": "Générateur de Noms de Demi-Elfes",
+    "zh-cn": "半精灵名称生成器",
+    "ja": "ハーフエルフ名ジェネレーター",
+    "pt": "Gerador de Nomes de Meio-Elfos",
+    "ru": "Генератор Имен Полуэльфов"
+  },
+  "description": {
+    "en": "Struggling to find that perfect name for your Half-Elf character that captures their dual heritage? Look no further! Our Half-Elf Name Generator blends the grace of Elvish names with the grounded nature of Human names to create a truly unique identity. Get ready to find a name that reflects the balance between two worlds!",
+    "ar": "هل تكافح للعثور على الاسم المثالي لشخصية نصف الجان الخاصة بك والذي يلتقط تراثهم المزدوج؟ لا تبحث بعيدًا! يمزج مولد أسماء نصف الجان لدينا بين رشاقة الأسماء الجنية والطبيعة الراسخة لأسماء البشر لإنشاء هوية فريدة حقًا. استعد للعثور على اسم يعكس التوازن بين عالمين!",
+    "es": "¿Te cuesta encontrar ese nombre perfecto para tu personaje Semielfo que capture su doble herencia? ¡No busques más! Nuestro Generador de Nombres de Semielfos combina la gracia de los nombres Élficos con la naturaleza arraigada de los nombres Humanos para crear una identidad verdaderamente única. ¡Prepárate para encontrar un nombre que refleje el equilibrio entre dos mundos!",
+    "fr": "Vous avez du mal à trouver ce nom parfait pour votre personnage Demi-Elfe qui capture son double héritage ? Ne cherchez plus ! Notre Générateur de Noms de Demi-Elfes mélange la grâce des noms Elfiques avec la nature ancrée des noms Humains pour créer une identité vraiment unique. Préparez-vous à trouver un nom qui reflète l'équilibre entre deux mondes !",
+    "zh-cn": "为你的半精灵角色寻找一个完美的名字，以展现他们的双重传承？无需再寻找！我们的半精灵名称生成器结合了精灵名字的优雅和人类名字的扎实，创造出真正独特的身份。准备好找到一个反映两个世界之间平衡的名字吧！",
+    "ja": "二重の遺産を捉える、ハーフエルフのキャラクターにぴったりの名前を見つけるのに苦労していますか？もう探す必要はありません！私たちのハーフエルフ名ジェネレーターは、エルフの名前の優雅さと人間の名前の現実的な性質を組み合わせて、真にユニークなアイデンティティを生み出します。二つの世界のバランスを反映する名前を見つける準備をしてください！",
+    "pt": "Lutando para encontrar o nome perfeito para seu personagem Meio-Elfo que capture sua herança dupla? Não procure mais! Nosso Gerador de Nomes de Meio-Elfos mistura a graça dos nomes Élficos com a natureza prática dos nomes Humanos para criar uma identidade verdadeiramente única. Prepare-se para encontrar um nome que reflita o equilíbrio entre dois mundos!",
+    "ru": "Ищете идеальное имя для вашего персонажа Полуэльфа, которое отражает его двойное наследие? Больше не ищите! Наш Генератор Имен Полуэльфов сочетает грацию Эльфийских имен с приземленностью Человеческих имен, чтобы создать поистине уникальную личность. Приготовьтесь найти имя, которое отражает баланс между двумя мирами!"
+  },
+  "slug": "half-elf-name-generator",
+  "prompt": {
+    "en": "Generate a half-elf name",
+    "ar": "قم بإنشاء اسم نصف جان",
+    "es": "Generar un nombre de semielfo",
+    "fr": "Générer un nom de demi-elfe",
+    "zh-cn": "生成一个半精灵名称",
+    "ja": "ハーフエルフ名を生成する",
+    "pt": "Gerar um nome de meio-elfo",
+    "ru": "Сгенерировать имя полуэльфа"
+  },
+  "icon": "🧝‍♂️",
+  "introduction": {
+    "en": "Half-Elves are a fascinating blend of two distinct cultures, often navigating the complexities of both worlds. Their names should reflect this unique duality. Whether your character leans more towards their Elven ancestry with melodic, flowing sounds, or embraces their Human side with more common, grounded names, our generator offers a wide spectrum of possibilities. Dive in and discover a name that perfectly embodies your Half-Elf's journey and identity!",
+    "ar": "نصف الجان هم مزيج رائع من ثقافتين متميزتين، وغالبًا ما يتنقلون في تعقيدات كلا العالمين. يجب أن تعكس أسماؤهم هذه الازدواجية الفريدة. سواء كانت شخصيتك تميل أكثر نحو سلالتها الجنية مع أصوات لحنية متدفقة، أو تحتضن جانبها البشري بأسماء أكثر شيوعًا ومستقرة، فإن مولدنا يقدم مجموعة واسعة من الاحتمالات. انغمس واكتشف اسمًا يجسد تمامًا رحلة وهويته نصف الجان الخاص بك!",
+    "es": "Los Semielfos son una fascinante mezcla de dos culturas distintas, a menudo navegando por las complejidades de ambos mundos. Sus nombres deben reflejar esta dualidad única. Ya sea que tu personaje se incline más hacia su ascendencia Élfica con sonidos melódicos y fluidos, o abrace su lado Humano con nombres más comunes y arraigados, nuestro generador ofrece un amplio espectro de posibilidades. ¡Sumérgete y descubre un nombre que encarne perfectamente el viaje y la identidad de tu Semielfo!",
+    "fr": "Les Demi-Elfes sont un mélange fascinant de deux cultures distinctes, naviguant souvent dans les complexités des deux mondes. Leurs noms doivent refléter cette dualité unique. Que votre personnage penche davantage vers son ascendance Elfique avec des sons mélodiques et fluides, ou embrasse son côté Humain avec des noms plus communs et ancrés, notre générateur offre un large éventail de possibilités. Plongez et découvrez un nom qui incarne parfaitement le voyage et l'identité de votre Demi-Elfe !",
+    "zh-cn": "半精灵是两种截然不同文化的迷人融合，他们常常游走于两个世界的复杂性之间。他们的名字应该反映这种独特的双重性。无论你的角色更倾向于他们精灵血统的旋律流畅的声音，还是拥抱他们人类一面的更常见、更扎实的名字，我们的生成器都提供了广泛的可能性。深入探索，发现一个完美体现你的半精灵旅程和身份的名字！",
+    "ja": "ハーフエルフは、二つの異なる文化の魅力的な融合であり、しばしば両方の世界の複雑さを乗り越えています。彼らの名前はこのユニークな二重性を反映しているべきです。あなたのキャラクターが、旋律的で流れるような音を持つエルフの祖先に傾いているか、より一般的で地に足のついた名前で人間の側面を受け入れているかにかかわらず、私たちのジェネレーターは幅広い可能性を提供します。飛び込んで、あなたのハーフエルフの旅とアイデンティティを完璧に体現する名前を見つけてください！",
+    "pt": "Meio-Elfos são uma fascinante mistura de duas culturas distintas, frequentemente navegando pelas complexidades de ambos os mundos. Seus nomes devem refletir essa dualidade única. Quer seu personagem se incline mais para sua ascendência Élfica com sons melódicos e fluidos, ou abrace seu lado Humano com nomes mais comuns e práticos, nosso gerador oferece um amplo espectro de possibilidades. Mergulhe e descubra um nome que encarne perfeitamente a jornada e a identidade do seu Meio-Elfo!",
+    "ru": "Полуэльфы - это увлекательное сочетание двух разных культур, часто преодолевающее сложности обоих миров. Их имена должны отражать эту уникальную двойственность. Наклоняется ли ваш персонаж больше к своему Эльфийскому происхождению с мелодичными, плавными звуками, или принимает свою Человеческую сторону с более распространенными, приземленными именами, наш генератор предлагает широкий спектр возможностей. Погрузитесь и откройте для себя имя, которое идеально воплощает путешествие и личность вашего Полуэльфа!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button to summon a list of potential Half-Elf names.",
+      "Review the generated names, noting those that resonate with your character concept.",
+      "Consider the sound and feel of each name. Does it fit their personality and background?",
+      "Mix and match elements if you like! Use the generated names as inspiration for your own creations.",
+      "Once you find 'the one', embrace it and let your Half-Elf's story unfold!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' لاستدعاء قائمة من أسماء نصف الجان المحتملة.",
+      "راجع الأسماء التي تم إنشاؤها، مع ملاحظة تلك التي تتناسب مع مفهوم شخصيتك.",
+      "فكر في صوت وإحساس كل اسم. هل يتناسب مع شخصيتهم وخلفيتهم؟",
+      "امزج العناصر وطابقها إذا أردت! استخدم الأسماء التي تم إنشاؤها كإلهام لإبداعاتك الخاصة.",
+      "بمجرد أن تجد 'الاسم المنشود'، احتضنه ودع قصة نصف الجان الخاص بك تتكشف!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' para invocar una lista de nombres potenciales de Semielfos.",
+      "Revisa los nombres generados, anotando aquellos que resuenan con el concepto de tu personaje.",
+      "Considera el sonido y la sensación de cada nombre. ¿Encaja con su personalidad y trasfondo?",
+      "¡Mezcla y combina elementos si quieres! Usa los nombres generados como inspiración para tus propias creaciones.",
+      "Una vez que encuentres 'el elegido', ¡abrázalo y deja que la historia de tu Semielfo se desarrolle!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' pour faire apparaître une liste de noms potentiels de Demi-Elfes.",
+      "Examinez les noms générés, en notant ceux qui correspondent à votre concept de personnage.",
+      "Considérez le son et la sensation de chaque nom. Correspond-il à leur personnalité et à leur histoire ?",
+      "Mélangez et associez des éléments si vous le souhaitez ! Utilisez les noms générés comme source d'inspiration pour vos propres créations.",
+      "Une fois que vous avez trouvé 'le bon', adoptez-le et laissez l'histoire de votre Demi-Elfe se dérouler !"
+    ],
+    "zh-cn": [
+      "点击\"生成\"按钮以生成潜在的半精灵名称列表。",
+      "查看生成的名称，记下那些与你的角色概念产生共鸣的名字。",
+      "考虑每个名称的声音和感觉。它是否符合他们的个性和背景？",
+      "如果你愿意，可以混合搭配元素！使用生成的名称作为你自己的创作灵感。",
+      "一旦你找到那个\"命中注定\"的名字，就接受它，让你的半精灵的故事展开吧！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、可能性のあるハーフエルフ名のリストを呼び出します。",
+      "生成された名前を確認し、キャラクターのコンセプトと共鳴する名前を書き留めます。",
+      "各名前の響きと雰囲気を考慮します。彼らの性格や背景に合っていますか？",
+      "気に入ったら、要素を混ぜ合わせたり組み合わせたりしてください！生成された名前を自分の創作のインスピレーションとして使用してください。",
+      "「これだ！」という名前が見つかったら、それを受け入れて、ハーフエルフの物語を展開させましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' para invocar uma lista de nomes potenciais de Meio-Elfos.",
+      "Revise os nomes gerados, anotando aqueles que ressoam com o conceito do seu personagem.",
+      "Considere o som e a sensação de cada nome. Ele se encaixa na personalidade e no histórico deles?",
+      "Misture e combine elementos se quiser! Use os nomes gerados como inspiração para suas próprias criações.",
+      "Assim que encontrar 'o único', abrace-o e deixe a história do seu Meio-Elfo se desenrolar!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Генерировать', чтобы вызвать список потенциальных имен Полуэльфов.",
+      "Просмотрите сгенерированные имена, отмечая те, которые резонируют с концепцией вашего персонажа.",
+      "Подумайте о звучании и ощущении каждого имени. Соответствует ли оно их личности и предыстории?",
+      "Смешивайте и сочетайте элементы, если хотите! Используйте сгенерированные имена как вдохновение для своих собственных творений.",
+      "Как только вы найдете 'то самое', примите его и позвольте истории вашего Полуэльфа развернуться!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "What makes Half-Elf names unique?",
+        "ar": "ما الذي يجعل أسماء نصف الجان فريدة من نوعها؟",
+        "es": "¿Qué hace que los nombres de Semielfos sean únicos?",
+        "fr": "Qu'est-ce qui rend les noms de Demi-Elfes uniques ?",
+        "zh-cn": "半精灵名称的独特之处是什么？",
+        "ja": "ハーフエルフの名前をユニークにするものは何ですか？",
+        "pt": "O que torna os nomes de Meio-Elfos únicos?",
+        "ru": "Что делает имена Полуэльфов уникальными?"
+      },
+      "answer": {
+        "en": "Half-Elf names often blend elements from both Elvish and Human naming conventions. This can result in names that have a touch of Elven elegance and melodic sounds, combined with the more common or practical feel of Human names.",
+        "ar": "غالبًا ما تمزج أسماء نصف الجان عناصر من تقاليد تسمية الجان والبشر. يمكن أن يؤدي ذلك إلى أسماء تحمل لمسة من أناقة الجان وأصواتها اللحنية، جنبًا إلى جنب مع الشعور الأكثر شيوعًا أو العملي لأسماء البشر.",
+        "es": "Los nombres de Semielfos a menudo mezclan elementos de las convenciones de nombres Élficas y Humanas. Esto puede resultar en nombres que tienen un toque de elegancia Élfica y sonidos melódicos, combinados con la sensación más común o práctica de los nombres Humanos.",
+        "fr": "Les noms de Demi-Elfes mélangent souvent des éléments des conventions de noms Elfiques et Humaines. Cela peut donner des noms qui ont une touche d'élégance elfique et de sons mélodiques, combinés à la sensation plus courante ou pratique des noms humains.",
+        "zh-cn": "半精灵名称通常融合了精灵和人类命名习俗的元素。这可以产生既带有精灵优雅和旋律感，又兼具人类名字更常见或更实用的感觉的名字。",
+        "ja": "ハーフエルフの名前は、エルフと人間の命名規則の両方の要素をブレンドすることがよくあります。これにより、エルフの優雅さと旋律的な響きを持ちながらも、人間の名前のより一般的または実用的な感じを組み合わせた名前になります。",
+        "pt": "Nomes de Meio-Elfos frequentemente misturam elementos das convenções de nomenclatura Élficas e Humanas. Isso pode resultar em nomes que têm um toque de elegância Élfica e sons melódicos, combinados com a sensação mais comum ou prática dos nomes Humanos.",
+        "ru": "Имена Полуэльфов часто сочетают элементы как Эльфийских, так и Человеческих традиций именования. Это может привести к именам, которые имеют оттенок Эльфийской элегантности и мелодичного звучания, в сочетании с более распространенным или практичным ощущением Человеческих имен."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the names generated here suitable for both male and female Half-Elves?",
+        "ar": "هل الأسماء التي تم إنشاؤها هنا مناسبة لكل من نصف الجان الذكور والإناث؟",
+        "es": "¿Los nombres generados aquí son adecuados tanto para Semielfos masculinos como femeninos?",
+        "fr": "Les noms générés ici conviennent-ils aux Demi-Elfes masculins et féminins ?",
+        "zh-cn": "这里生成的名称适合男性和女性半精灵吗？",
+        "ja": "ここで生成された名前は、男性と女性のハーフエルフの両方に適していますか？",
+        "pt": "Os nomes gerados aqui são adequados para Meio-Elfos masculinos e femininos?",
+        "ru": "Подходят ли имена, сгенерированные здесь, как для мужских, так и для женских Полуэльфов?"
+      },
+      "answer": {
+        "en": "Yes, our generator provides a mix of names that can be used for Half-Elves of any gender. You'll find names that lean more traditionally masculine or feminine, as well as more gender-neutral options, reflecting the diversity within Half-Elf cultures.",
+        "ar": "نعم، يوفر مولدنا مزيجًا من الأسماء التي يمكن استخدامها لنصف الجان من أي جنس. ستجد أسماء تميل أكثر إلى الذكورية أو الأنوثة التقليدية، بالإضافة إلى خيارات أكثر حيادية جنسيًا، مما يعكس التنوع داخل ثقافات نصف الجان.",
+        "es": "Sí, nuestro generador proporciona una mezcla de nombres que se pueden usar para Semielfos de cualquier género. Encontrarás nombres que se inclinan más tradicionalmente masculinos o femeninos, así como opciones más neutrales en cuanto al género, lo que refleja la diversidad dentro de las culturas de Semielfos.",
+        "fr": "Oui, notre générateur propose un mélange de noms pouvant être utilisés pour des Demi-Elfes de tout sexe. Vous trouverez des noms qui penchent davantage vers le masculin ou le féminin traditionnel, ainsi que des options plus neutres en termes de genre, reflétant la diversité au sein des cultures de Demi-Elfes.",
+        "zh-cn": "是的，我们的生成器提供了适合任何性别的半精灵使用的各种名称。你会找到更偏向传统男性或女性的名字，以及更中性的选项，这反映了半精灵文化的多样性。",
+        "ja": "はい、私たちのジェネレーターは、あらゆる性別のハーフエルフに使用できる名前の組み合わせを提供します。伝統的に男性または女性に偏った名前だけでなく、より性別にとらわれないオプションも見つかります。これはハーフエルフ文化内の多様性を反映しています。",
+        "pt": "Sim, nosso gerador fornece uma mistura de nomes que podem ser usados para Meio-Elfos de qualquer gênero. Você encontrará nomes que se inclinam mais tradicionalmente masculinos ou femininos, bem como opções mais neutras em relação ao gênero, refletindo a diversidade dentro das culturas de Meio-Elfos.",
+        "ru": "Да, наш генератор предоставляет набор имен, которые могут быть использованы для Полуэльфов любого пола. Вы найдете имена, которые более традиционно склоняются к мужским или женским, а также более гендерно-нейтральные варианты, отражающие разнообразие в культурах Полуэльфов."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my tabletop RPG character?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لشخصية لعبة تقمص الأدوار الخاصة بي؟",
+        "es": "¿Puedo usar estos nombres para mi personaje de juego de rol de mesa?",
+        "fr": "Puis-je utiliser ces noms pour mon personnage de jeu de rôle sur table ?",
+        "zh-cn": "我可以用这些名称作为我的桌面角色扮演游戏角色的名字吗？",
+        "ja": "これらの名前をテーブルトークRPGのキャラクターに使用できますか？",
+        "pt": "Posso usar esses nomes para meu personagem de RPG de mesa?",
+        "ru": "Могу ли я использовать эти имена для своего персонажа в настольной ролевой игре?"
+      },
+      "answer": {
+        "en": "Absolutely! That's exactly what it's for! Feel free to use any of the generated names to bring your Half-Elf character to life in your next adventure.",
+        "ar": "بالتأكيد! هذا هو بالضبط الغرض منه! لا تتردد في استخدام أي من الأسماء التي تم إنشاؤها لإضفاء الحياة على شخصية نصف الجان الخاصة بك في مغامرتك القادمة.",
+        "es": "¡Absolutamente! ¡Para eso es exactamente! Siéntete libre de usar cualquiera de los nombres generados para dar vida a tu personaje Semielfo en tu próxima aventura.",
+        "fr": "Absolument ! C'est exactement à cela que ça sert ! N'hésitez pas à utiliser l'un des noms générés pour donner vie à votre personnage Demi-Elfe lors de votre prochaine aventure.",
+        "zh-cn": "当然可以！这正是它的用途！请随意使用任何生成的名称，让你的半精灵角色在下一次冒险中活起来。",
+        "ja": "もちろんです！まさにそれが目的です！次の冒険でハーフエルフのキャラクターに命を吹き込むために、生成された名前を自由に使用してください。",
+        "pt": "Com certeza! É exatamente para isso que serve! Sinta-se à vontade para usar qualquer um dos nomes gerados para dar vida ao seu personagem Meio-Elfo em sua próxima aventura.",
+        "ru": "Конечно! Именно для этого он и создан! Не стесняйтесь использовать любые сгенерированные имена, чтобы оживить вашего персонажа Полуэльфа в вашем следующем приключении."
+      }
+    },
+    {
+      "question": {
+        "en": "Are there different styles of Half-Elf names?",
+        "ar": "هل هناك أنماط مختلفة لأسماء نصف الجان؟",
+        "es": "¿Existen diferentes estilos de nombres de Semielfos?",
+        "fr": "Existe-t-il différents styles de noms de Demi-Elfes ?",
+        "zh-cn": "半精灵名称有不同的风格吗？",
+        "ja": "ハーフエルフの名前には異なるスタイルがありますか？",
+        "pt": "Existem diferentes estilos de nomes de Meio-Elfos?",
+        "ru": "Существуют ли разные стили имен Полуэльфов?"
+      },
+      "answer": {
+        "en": "Yes, Half-Elf names can vary greatly depending on which parent's culture is more dominant in their upbringing or which lineage they feel more connected to. Some names might sound more Elvish, others more Human, and some a unique blend of both.",
+        "ar": "نعم، يمكن أن تختلف أسماء نصف الجان بشكل كبير اعتمادًا على ثقافة أي من الوالدين هي الأكثر هيمنة في تربيتهم أو أي سلالة يشعرون بارتباط أكبر بها. قد تبدو بعض الأسماء أكثر شبهاً بأسماء الجان، والبعض الآخر أكثر شبهاً بأسماء البشر، وبعضها مزيج فريد من الاثنين.",
+        "es": "Sí, los nombres de Semielfos pueden variar mucho dependiendo de qué cultura de los padres sea más dominante en su crianza o a qué linaje se sientan más conectados. Algunos nombres pueden sonar más Élficos, otros más Humanos, y algunos una mezcla única de ambos.",
+        "fr": "Oui, les noms de Demi-Elfes peuvent varier considérablement en fonction de la culture de quel parent est la plus dominante dans leur éducation ou à quelle lignée ils se sentent le plus liés. Certains noms peuvent sonner plus Elfiques, d'autres plus Humains, et certains un mélange unique des deux.",
+        "zh-cn": "是的，半精灵名称可以有很大差异，这取决于他们的成长过程中哪一方父母的文化更占主导地位，或者他们对哪个血统感觉更亲近。有些名字可能听起来更像精灵名字，有些更像人类名字，还有一些则是两者的独特融合。",
+        "ja": "はい、ハーフエルフの名前は、どちらの親の文化が彼らの upbringing でより支配的であるか、またはどの血統によりつながりを感じるかによって大きく異なる場合があります。一部の名前はよりエルフらしく聞こえ、他の名前はより人間らしく聞こえ、そして一部は両方のユニークなブレンドです。",
+        "pt": "Sim, os nomes de Meio-Elfos podem variar muito dependendo de qual cultura dos pais é mais dominante em sua criação ou a qual linhagem eles se sentem mais conectados. Alguns nomes podem soar mais Élficos, outros mais Humanos, e alguns uma mistura única de ambos.",
+        "ru": "Да, имена Полуэльфов могут сильно различаться в зависимости от того, какая культура родителей была более доминирующей в их воспитании или к какой родословной они чувствуют себя более привязанными. Некоторые имена могут звучать более Эльфийскими, другие - более Человеческими, а некоторые - уникальным сочетанием обоих."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I save the names I like?",
+        "ar": "هل يمكنني حفظ الأسماء التي تعجبني؟",
+        "es": "¿Puedo guardar los nombres que me gustan?",
+        "fr": "Puis-je sauvegarder les noms que j'aime ?",
+        "zh-cn": "我可以保存我喜欢的名称吗？",
+        "ja": "気に入った名前を保存できますか？",
+        "pt": "Posso salvar os nomes que gosto?",
+        "ru": "Могу ли я сохранить понравившиеся имена?"
+      },
+      "answer": {
+        "en": "While our generator doesn't have a built-in save feature at the moment, you can easily copy and paste the names you like into a document or notes app. That way, you'll have your favorites ready for when you need them!",
+        "ar": "بينما لا يحتوي مولدنا على ميزة حفظ مدمجة في الوقت الحالي، يمكنك بسهولة نسخ ولصق الأسماء التي تعجبك في مستند أو تطبيق ملاحظات. بهذه الطريقة، ستكون لديك أسماؤك المفضلة جاهزة عندما تحتاجها!",
+        "es": "Aunque nuestro generador no tiene una función de guardado incorporada en este momento, puedes copiar y pegar fácilmente los nombres que te gustan en un documento o aplicación de notas. ¡Así, tendrás tus favoritos listos para cuando los necesites!",
+        "fr": "Bien que notre générateur n'ait pas de fonction de sauvegarde intégrée pour le moment, vous pouvez facilement copier-coller les noms que vous aimez dans un document ou une application de notes. De cette façon, vous aurez vos favoris prêts lorsque vous en aurez besoin !",
+        "zh-cn": "虽然我们的生成器目前没有内置的保存功能，但你可以轻松地将喜欢的名称复制粘贴到文档或笔记应用中。这样，你就可以随时使用你喜欢的名字了！",
+        "ja": "現在、私たちのジェネレーターには組み込みの保存機能はありませんが、気に入った名前を簡単にドキュメントやメモアプリにコピー＆ペーストできます。そうすれば、必要なときにいつでもお気に入りの名前を準備できます！",
+        "pt": "Embora nosso gerador não tenha um recurso de salvamento integrado no momento, você pode facilmente copiar e colar os nomes que gosta em um documento ou aplicativo de notas. Dessa forma, você terá seus favoritos prontos para quando precisar deles!",
+        "ru": "Хотя у нашего генератора на данный момент нет встроенной функции сохранения, вы можете легко скопировать и вставить понравившиеся имена в документ или приложение для заметок. Таким образом, ваши избранные будут готовы, когда они вам понадобятся!"
+      }
+    }
+  ]
+}

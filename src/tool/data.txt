@@ -1,12 +1,3 @@
-cat name generator
-clan name generator
-couple name generator
-fairy name generator
-fantasy football team names generator
-fantasy team name generator
-gnome name generator
-greek name generator
-half elf name generator
 horse name generator
 pirate name generator
 saiyan name generator

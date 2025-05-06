@@ -1,0 +1,192 @@
+{
+  "name": {
+    "en": "Greek Name Generator",
+    "ar": "مولد أسماء يونانية",
+    "es": "Generador de Nombres Griegos",
+    "fr": "Générateur de Noms Grecs",
+    "zh-cn": "希腊名字生成器",
+    "ja": "古代ギリシャ名ジェネレーター",
+    "pt": "Gerador de Nomes Gregos",
+    "ru": "Генератор Греческих Имен"
+  },
+  "description": {
+    "en": "Dive into the rich history and mythology of ancient Greece! Our Greek Name Generator conjures up authentic and inspiring names perfect for your next fantasy character, creative writing project, or just for fun. Discover names with powerful meanings and legendary origins.",
+    "ar": "انغمس في التاريخ والأساطير الغنية لليونان القديمة! مولد الأسماء اليونانية لدينا يستحضر أسماء أصلية وملهمة مثالية لشخصيتك الخيالية التالية، مشروعك الكتابي الإبداعي، أو لمجرد التسلية. اكتشف أسماء ذات معانٍ قوية وأصول أسطورية.",
+    "es": "¡Sumérgete en la rica historia y mitología de la antigua Grecia! Nuestro Generador de Nombres Griegos evoca nombres auténticos e inspiradores, perfectos para tu próximo personaje de fantasía, proyecto de escritura creativa o simplemente por diversión. Descubre nombres con significados poderosos y orígenes legendarios.",
+    "fr": "Plongez dans la riche histoire et la mythologie de la Grèce antique ! Notre Générateur de Noms Grecs évoque des noms authentiques et inspirants, parfaits pour votre prochain personnage fantastique, projet d'écriture créative ou simplement pour le plaisir. Découvrez des noms aux significations puissantes et aux origines légendaires.",
+    "zh-cn": "深入探索古希腊丰富的历史和神话！我们的希腊名字生成器能为你带来地道且富有启发性的名字，非常适合你的下一个奇幻角色、创意写作项目，或者只是为了好玩。发现那些蕴含强大意义和传奇起源的名字吧。",
+    "ja": "古代ギリシャの豊かな歴史と神話に飛び込みましょう！私たちの古代ギリシャ名ジェネレーターは、次のファンタジーキャラクター、創造的なライティングプロジェクト、または単に楽しむために最適な、本物でインスピレーションあふれる名前を呼び起こします。強力な意味と伝説的な起源を持つ名前を発見してください。",
+    "pt": "Mergulhe na rica história e mitologia da Grécia antiga! Nosso Gerador de Nomes Gregos evoca nomes autênticos e inspiradores, perfeitos para seu próximo personagem de fantasia, projeto de escrita criativa ou apenas por diversão. Descubra nomes com significados poderosos e origens lendárias.",
+    "ru": "Погрузитесь в богатую историю и мифологию Древней Греции! Наш Генератор Греческих Имен вызывает подлинные и вдохновляющие имена, идеально подходящие для вашего следующего фэнтезийного персонажа, творческого письменного проекта или просто для развлечения. Откройте для себя имена с сильными значениями и легендарным происхождением."
+  },
+  "slug": "greek-name-generator",
+  "prompt": {
+    "en": "Generate a Greek name",
+    "ar": "قم بإنشاء اسم يوناني",
+    "es": "Generar un nombre griego",
+    "fr": "Générer un nom grec",
+    "zh-cn": "生成一个希腊名字",
+    "ja": "古代ギリシャ名を生成する",
+    "pt": "Gerar um nome grego",
+    "ru": "Сгенерировать греческое имя"
+  },
+  "icon": "🏛",
+  "introduction": {
+    "en": "Step back in time to the birthplace of democracy, philosophy, and epic tales! The names of ancient Greece are steeped in myth, heroism, and profound meaning. Whether you're crafting a character for a novel set in the Hellenistic period, naming a new pet with a touch of classical flair, or simply fascinated by the sounds of antiquity, our Greek Name Generator is your portal to a world of legendary nomenclature. Prepare to unearth names fit for gods, goddesses, heroes, and mortals alike!",
+    "ar": "عد بالزمن إلى الوراء إلى مهد الديمقراطية والفلسفة والقصص الملحمية! أسماء اليونان القديمة غارقة في الأساطير والبطولات والمعاني العميقة. سواء كنت تصمم شخصية لرواية تدور أحداثها في الفترة الهلنستية، أو تسمي حيوانًا أليفًا جديدًا بلمسة كلاسيكية، أو ببساطة مفتونًا بأصوات العصور القديمة، فإن مولد الأسماء اليونانية لدينا هو بوابتك إلى عالم من التسميات الأسطورية. استعد للكشف عن أسماء تليق بالآلهة والإلهات والأبطال والبشر على حد سواء!",
+    "es": "¡Retrocede en el tiempo al lugar de nacimiento de la democracia, la filosofía y los cuentos épicos! Los nombres de la antigua Grecia están impregnados de mito, heroísmo y significado profundo. Ya sea que estés creando un personaje para una novela ambientada en el período helenístico, nombrando una nueva mascota con un toque clásico, o simplemente fascinado por los sonidos de la antigüedad, nuestro Generador de Nombres Griegos es tu portal a un mundo de nomenclatura legendaria. ¡Prepárate para desenterrar nombres dignos de dioses, diosas, héroes y mortales por igual!",
+    "fr": "Remontez le temps jusqu'au berceau de la démocratie, de la philosophie et des récits épiques ! Les noms de la Grèce antique sont imprégnés de mythes, d'héroïsme et de sens profond. Que vous créiez un personnage pour un roman se déroulant à l'époque hellénistique, que vous nommiez un nouvel animal de compagnie avec une touche classique, ou simplement fasciné par les sons de l'Antiquité, notre Générateur de Noms Grecs est votre portail vers un monde de nomenclature légendaire. Préparez-vous à déterrer des noms dignes des dieux, des déesses, des héros et des mortels !",
+    "zh-cn": "穿越时光，回到民主、哲学和史诗故事的诞生地！古希腊的名字充满了神话、英雄主义和深刻的意义。无论你是为一部设定在希腊化时期的小说创造角色，给新宠物起一个带有古典气息的名字，还是仅仅着迷于古代的声音，我们的希腊名字生成器都是你通往传奇名字世界的门户。准备好发掘那些适合神灵、女神、英雄和凡人的名字吧！",
+    "ja": "民主主義、哲学、そして壮大な物語の発祥の地へと時間を遡りましょう！古代ギリシャの名前は、神話、英雄主義、そして深い意味に満ちています。ヘレニズム時代を舞台にした小説のキャラクターを作成する場合でも、古典的な雰囲気を加えて新しいペットに名前を付ける場合でも、単に古代の響きに魅了されている場合でも、私たちの古代ギリシャ名ジェネレーターは、伝説的な命名法の世界へのポータルです。神々、女神、英雄、そして人間すべてにふさわしい名前を発掘する準備をしてください！",
+    "pt": "Volte no tempo ao berço da democracia, filosofia e contos épicos! Os nomes da Grécia antiga estão imersos em mito, heroísmo e significado profundo. Quer você esteja criando um personagem para um romance ambientado no período helenístico, nomeando um novo animal de estimação com um toque clássico, ou simplesmente fascinado pelos sons da antiguidade, nosso Gerador de Nomes Gregos é seu portal para um mundo de nomenclatura lendária. Prepare-se para desenterrar nomes dignos de deuses, deusas, heróis e mortais!",
+    "ru": "Вернитесь во времени к месту рождения демократии, философии и эпических сказаний! Имена Древней Греции пропитаны мифами, героизмом и глубоким смыслом. Создаете ли вы персонажа для романа, действие которого происходит в эллинистический период, называете нового питомца с оттенком классики или просто очарованы звуками античности, наш Генератор Греческих Имен - ваш портал в мир легендарной номенклатуры. Приготовьтесь найти имена, подходящие как для богов, богинь, героев, так и для смертных!"
+  },
+  "howToUse": {
+    "en": [
+      "Feeling inspired by Mount Olympus? Click 'Generate'!",
+      "Behold a pantheon of potential Greek names.",
+      "Scan the list for a name that speaks to your inner oracle.",
+      "Copy your chosen name – it's a sign!",
+      "Use your new Greek name to add a touch of legend to your life!"
+    ],
+    "ar": [
+      "هل تشعر بالإلهام من جبل أوليمبوس؟ انقر على 'إنشاء'!",
+      "شاهد مجموعة من الأسماء اليونانية المحتملة.",
+      "امسح القائمة بحثًا عن اسم يتحدث إلى عرافك الداخلي.",
+      "انسخ الاسم الذي اخترته - إنها علامة!",
+      "استخدم اسمك اليوناني الجديد لإضافة لمسة من الأسطورة إلى حياتك!"
+    ],
+    "es": [
+      "¿Te sientes inspirado por el Monte Olimpo? ¡Haz clic en 'Generar'!",
+      "Contempla un panteón de posibles nombres griegos.",
+      "Escanea la lista en busca de un nombre que le hable a tu oráculo interior.",
+      "Copia el nombre elegido, ¡es una señal!",
+      "¡Usa tu nuevo nombre griego para añadir un toque de leyenda a tu vida!"
+    ],
+    "fr": [
+      "Vous vous sentez inspiré par le mont Olympe ? Cliquez sur 'Générer' !",
+      "Voici un panthéon de noms grecs potentiels.",
+      "Parcourez la liste à la recherche d'un nom qui parle à votre oracle intérieur.",
+      "Copiez le nom choisi - c'est un signe !",
+      "Utilisez votre nouveau nom grec pour ajouter une touche de légende à votre vie !"
+    ],
+    "zh-cn": [
+      "被奥林匹斯山启发了吗？点击\"生成\"！",
+      "眼前呈现出一系列潜在的希腊名字。",
+      "扫描列表，寻找能与你内心神谕对话的名字。",
+      "复制你选择的名字——这是个预兆！",
+      "用你新的希腊名字，为你的生活增添一抹传奇色彩！"
+    ],
+    "ja": [
+      "オリンポス山にインスパイアされましたか？「生成」をクリックしてください！",
+      "潜在的な古代ギリシャ名のパンテオンをご覧ください。",
+      "あなたの内なるオラクルに語りかける名前をリストから探してください。",
+      "選んだ名前をコピーしてください - それは兆候です！",
+      "新しい古代ギリシャ名を使って、あなたの人生に伝説のタッチを加えましょう！"
+    ],
+    "pt": [
+      "Sentindo-se inspirado pelo Monte Olimpo? Clique em 'Gerar'!",
+      "Eis um panteão de potenciais nomes gregos.",
+      "Percorra a lista em busca de um nome que fale com seu oráculo interior.",
+      "Copie o nome escolhido - é um sinal!",
+      "Use seu novo nome grego para adicionar um toque de lenda à sua vida!"
+    ],
+    "ru": [
+      "Чувствуете себя вдохновленным горой Олимп? Нажмите 'Генерировать'!",
+      "Вот пантеон потенциальных греческих имен.",
+      "Просмотрите список в поисках имени, которое говорит вашему внутреннему оракулу.",
+      "Скопируйте выбранное имя - это знак!",
+      "Используйте свое новое греческое имя, чтобы добавить легендарности в свою жизнь!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Are these names historically accurate?",
+        "ar": "هل هذه الأسماء دقيقة تاريخيًا؟",
+        "es": "¿Estos nombres son históricamente precisos?",
+        "fr": "Ces noms sont-ils historiquement exacts?",
+        "zh-cn": "这些名字在历史上准确吗？",
+        "ja": "これらの名前は歴史的に正確ですか？",
+        "pt": "Esses nomes são historicamente precisos?",
+        "ru": "Являются ли эти имена исторически точными?"
+      },
+      "answer": {
+        "en": "Our generator draws inspiration from historical Greek names and mythological figures. While we aim for authenticity, some names might be variations or less common. They are perfect for creative use!",
+        "ar": "يستمد مولدنا الإلهام من الأسماء اليونانية التاريخية والشخصيات الأسطورية. بينما نهدف إلى الأصالة، قد تكون بعض الأسماء متغيرات أو أقل شيوعًا. إنها مثالية للاستخدام الإبداعي!",
+        "es": "Nuestro generador se inspira en nombres griegos históricos y figuras mitológicas. Si bien buscamos la autenticidad, algunos nombres pueden ser variaciones o menos comunes. ¡Son perfectos para uso creativo!",
+        "fr": "Notre générateur s'inspire de noms grecs historiques et de figures mythologiques. Bien que nous visions l'authenticité, certains noms peuvent être des variations ou moins courants. Ils sont parfaits pour un usage créatif !",
+        "zh-cn": "我们的生成器从历史上的希腊名字和神话人物中汲取灵感。虽然我们力求真实性，但有些名字可能是变体或不太常见。它们非常适合创意用途！",
+        "ja": "私たちのジェネレーターは、歴史的な古代ギリシャ名と神話上の人物からインスピレーションを得ています。正確さを目指していますが、一部の名前は変形であったり、あまり一般的でない場合があります。創造的な使用に最適です！",
+        "pt": "Nosso gerador se inspira em nomes gregos históricos e figuras mitológicas. Embora busquemos autenticidade, alguns nomes podem ser variações ou menos comuns. São perfeitos para uso criativo!",
+        "ru": "Наш генератор черпает вдохновение из исторических греческих имен и мифологических фигур. Хотя мы стремимся к аутентичности, некоторые имена могут быть вариациями или менее распространенными. Они идеально подходят для творческого использования!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I find names of specific Greek gods or heroes?",
+        "ar": "هل يمكنني العثور على أسماء آلهة أو أبطال يونانيين محددين؟",
+        "es": "¿Puedo encontrar nombres de dioses o héroes griegos específicos?",
+        "fr": "Puis-je trouver des noms de dieux ou de héros grecs spécifiques?",
+        "zh-cn": "我能找到特定的希腊神或英雄的名字吗？",
+        "ja": "特定の古代ギリシャの神や英雄の名前を見つけることはできますか？",
+        "pt": "Posso encontrar nomes de deuses ou heróis gregos específicos?",
+        "ru": "Могу ли я найти имена конкретных греческих богов или героев?"
+      },
+      "answer": {
+        "en": "Yes! Our generator includes many names from Greek mythology and history. You might find names of famous gods, goddesses, heroes, and figures among the results.",
+        "ar": "نعم! يتضمن مولدنا العديد من الأسماء من الأساطير والتاريخ اليوناني. قد تجد أسماء آلهة وإلهات وأبطال وشخصيات مشهورة بين النتائج.",
+        "es": "¡Sí! Nuestro generador incluye muchos nombres de la mitología e historia griega. Es posible que encuentres nombres de dioses, diosas, héroes y figuras famosas entre los resultados.",
+        "fr": "Oui ! Notre générateur inclut de nombreux noms issus de la mythologie et de l'histoire grecques. Vous pourriez trouver des noms de dieux, de déesses, de héros et de personnages célèbres parmi les résultats.",
+        "zh-cn": "是的！我们的生成器包含许多来自希腊神话和历史的名字。你可能会在结果中找到著名的神、女神、英雄和人物的名字。",
+        "ja": "はい！私たちのジェネレーターには、古代ギリシャ神話や歴史からの多くの名前が含まれています。結果の中に有名な神々、女神、英雄、そして人物の名前を見つけることができるかもしれません。",
+        "pt": "Sim! Nosso gerador inclui muitos nomes da mitologia e história grega. Você pode encontrar nomes de deuses, deusas, heróis e figuras famosas entre os resultados.",
+        "ru": "Да! Наш генератор включает множество имен из греческой мифологии и истории. Вы можете найти среди результатов имена знаменитых богов, богинь, героев и личностей."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the names suitable for both male and female characters?",
+        "ar": "هل الأسماء مناسبة لكل من الذكور والإناث؟",
+        "es": "¿Los nombres son adecuados tanto para personajes masculinos como femeninos?",
+        "fr": "Les noms conviennent-ils aux personnages masculins et féminins?",
+        "zh-cn": "这些名字适合男性和女性角色吗？",
+        "ja": "これらの名前は男性キャラクターと女性キャラクターの両方に適していますか？",
+        "pt": "Os nomes são adequados para personagens masculinos e femininos?",
+        "ru": "Подходят ли имена как для мужских, так и для женских персонажей?"
+      },
+      "answer": {
+        "en": "Our generator provides a mix of traditionally male and female Greek names. You'll find options for characters of any gender.",
+        "ar": "يقدم مولدنا مزيجًا من الأسماء اليونانية التقليدية للذكور والإناث. ستجد خيارات لشخصيات من أي جنس.",
+        "es": "Nuestro generador ofrece una mezcla de nombres griegos tradicionalmente masculinos y femeninos. Encontrarás opciones para personajes de cualquier género.",
+        "fr": "Notre générateur propose un mélange de noms grecs traditionnellement masculins et féminins. Vous trouverez des options pour des personnages de tout genre.",
+        "zh-cn": "我们的生成器提供了传统上男性和女性的希腊名字混合。你会找到适合任何性别角色的选择。",
+        "ja": "私たちのジェネレーターは、伝統的に男性と女性の古代ギリシャ名の組み合わせを提供します。どの性別のキャラクターにも選択肢が見つかります。",
+        "pt": "Nosso gerador oferece uma mistura de nomes gregos tradicionalmente masculinos e femininos. Você encontrará opções para personagens de qualquer gênero.",
+        "ru": "Наш генератор предоставляет смесь традиционно мужских и женских греческих имен. Вы найдете варианты для персонажей любого пола."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names in my creative writing?",
+        "ar": "هل يمكنني استخدام هذه الأسماء في كتاباتي الإبداعية؟",
+        "es": "¿Puedo usar estos nombres en mi escritura creativa?",
+        "fr": "Puis-je utiliser ces noms dans mon écriture créative?",
+        "zh-cn": "我可以在我的创意写作中使用这些名字吗？",
+        "ja": "これらの名前を私の創作文章に使用できますか？",
+        "pt": "Posso usar esses nomes na minha escrita criativa?",
+        "ru": "Могу ли я использовать эти имена в своем творческом письме?"
+      },
+      "answer": {
+        "en": "Absolutely! These names are perfect for adding depth and historical flavor to your stories, role-playing games, or any other creative project. Let the legends inspire you!",
+        "ar": "بالتأكيد! هذه الأسماء مثالية لإضافة العمق والنكهة التاريخية إلى قصصك، ألعاب الأدوار، أو أي مشروع إبداعي آخر. دع الأساطير تلهمك!",
+        "es": "¡Absolutamente! Estos nombres son perfectos para añadir profundidad y sabor histórico a tus historias, juegos de rol o cualquier otro proyecto creativo. ¡Deja que las leyendas te inspiren!",
+        "fr": "Absolument ! Ces noms sont parfaits pour ajouter de la profondeur et une saveur historique à vos histoires, jeux de rôle ou tout autre projet créatif. Laissez les légendes vous inspirer !",
+        "zh-cn": "当然可以！这些名字非常适合为你的故事、角色扮演游戏或任何其他创意项目增添深度和历史风味。让传奇激发你的灵感吧！",
+        "ja": "もちろん！これらの名前は、あなたの物語、ロールプレイングゲーム、またはその他の創造的なプロジェクトに深みと歴史的な風味を加えるのに最適です。伝説にインスパイアされましょう！",
+        "pt": "Absolutamente! Esses nomes são perfeitos para adicionar profundidade e sabor histórico às suas histórias, jogos de RPG ou qualquer outro projeto criativo. Deixe as lendas inspirarem você!",
+        "ru": "Конечно! Эти имена идеально подходят для добавления глубины и исторического колорита в ваши истории, ролевые игры или любой другой творческий проект. Пусть легенды вдохновят вас!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Clan Name Generator",
+    "ar": "مولد أسماء العشائر",
+    "es": "Generador de Nombres de Clan",
+    "fr": "Générateur de Noms de Clan",
+    "zh-cn": "氏族名称生成器",
+    "ja": "クラン名ジェネレーター",
+    "pt": "Gerador de Nomes de Clã",
+    "ru": "Генератор Названий Кланов"
+  },
+  "description": {
+    "en": "Forge a legendary identity for your gaming guild, fantasy lineage, or online community with our Clan Name Generator! Unleash a torrent of powerful, mysterious, and unforgettable names that will strike fear into your enemies and inspire loyalty in your ranks. Whether you seek ancient, modern, or utterly unique, find the perfect name to dominate the virtual battlegrounds or unite your digital brethren.",
+    "ar": "اصنع هوية أسطورية لفرقة الألعاب الخاصة بك، أو سلالة الخيال، أو المجتمع عبر الإنترنت باستخدام مولد أسماء العشائر لدينا! أطلق سيلًا من الأسماء القوية، الغامضة، والتي لا تُنسى والتي ستزرع الخوف في قلوب أعدائك وتلهم الولاء في صفوفك. سواء كنت تبحث عن اسم قديم، حديث، أو فريد تمامًا، ابحث عن الاسم المثالي للسيطرة على ساحات المعارك الافتراضية أو توحيد إخوتك الرقميين.",
+    "es": "¡Forja una identidad legendaria para tu gremio de juegos, linaje de fantasía o comunidad en línea con nuestro Generador de Nombres de Clan! Desata un torrente de nombres poderosos, misteriosos e inolvidables que infundirán miedo en tus enemigos e inspirarán lealtad en tus filas. Ya sea que busques algo antiguo, moderno o completamente único, encuentra el nombre perfecto para dominar los campos de batalla virtuales o unir a tus hermanos digitales.",
+    "fr": "Forge une identité légendaire pour ta guilde de jeu, ta lignée fantastique ou ta communauté en ligne avec notre Générateur de Noms de Clan ! Libère un torrent de noms puissants, mystérieux et inoubliables qui terrifieront tes ennemis et inspireront la loyauté dans tes rangs. Que tu cherches quelque chose d'ancien, de moderne ou d'absolument unique, trouve le nom parfait pour dominer les champs de bataille virtuels ou unir tes frères numériques.",
+    "zh-cn": "使用我们的氏族名称生成器，为你的游戏公会、奇幻血统或在线社区打造传奇身份！释放出大量强大、神秘、令人难忘的名字，这些名字将让你的敌人闻风丧胆，并在你的队伍中激发忠诚。无论你是想寻找古老的、现代的还是完全独特的名称，都能找到完美的名字来统治虚拟战场或团结你的数字兄弟。",
+    "ja": "私たちのクラン名ジェネレーターで、あなたのゲームギルド、ファンタジーの血筋、またはオンラインコミュニティのための伝説的なアイデンティティを築きましょう！敵に恐怖を与え、味方に忠誠心をもたらす、力強く、神秘的で、忘れられない名前の洪水を解き放ちます。古代、現代、または全くユニークなものを探しているかにかかわらず、バーチャルな戦場を支配したり、デジタルな兄弟を団結させたりするための完璧な名前を見つけてください。",
+    "pt": "Forje uma identidade lendária para sua guilda de jogos, linhagem de fantasia ou comunidade online com nosso Gerador de Nomes de Clã! Libere uma torrente de nomes poderosos, misteriosos e inesquecíveis que irão infundir medo em seus inimigos e inspirar lealdade em suas fileiras. Quer você busque algo antigo, moderno ou totalmente único, encontre o nome perfeito para dominar os campos de batalha virtuais ou unir seus irmãos digitais.",
+    "ru": "Создайте легендарную идентичность для вашей игровой гильдии, фэнтезийной линии или онлайн-сообщества с помощью нашего Генератора Названий Кланов! Выпустите поток мощных, загадочных и незабываемых имен, которые вселят страх в ваших врагов и вдохновят верность в ваших рядах. Ищете ли вы древнее, современное или совершенно уникальное, найдите идеальное имя, чтобы доминировать на виртуальных полях сражений или объединить своих цифровых братьев."
+  },
+  "slug": "clan-name-generator",
+  "prompt": {
+    "en": "Generate a clan name",
+    "ar": "قم بإنشاء اسم عشيرة",
+    "es": "Generar un nombre de clan",
+    "fr": "Générer un nom de clan",
+    "zh-cn": "生成一个氏族名称",
+    "ja": "クラン名を生成する",
+    "pt": "Gerar um nome de clã",
+    "ru": "Сгенерировать название клана"
+  },
+  "icon": "🛡️",
+  "introduction": {
+    "en": "A great clan name is more than just a label; it's a banner under which you rally, a symbol of your shared purpose and strength. Our Clan Name Generator is your gateway to crafting that perfect identity. Dive into a realm of possibilities, from fierce warrior names to mystical orders and everything in between. Get ready to find a name that resonates with your clan's spirit and strikes a chord with your members. The age of your legend begins now!",
+    "ar": "اسم العشيرة الرائع هو أكثر من مجرد تسمية؛ إنه راية تحتها تتجمعون، رمز لهدفكم المشترك وقوتكم. مولد أسماء العشائر لدينا هو بوابتك لصياغة تلك الهوية المثالية. اغوص في عالم من الاحتمالات، من أسماء المحاربين الشرسة إلى الأوامر الغامضة وكل شيء بينهما. استعد للعثور على اسم يتناسب مع روح عشيرتك ويلامس قلوب أعضائك. عصر أسطورتك يبدأ الآن!",
+    "es": "Un gran nombre de clan es más que una etiqueta; es un estandarte bajo el cual te reúnes, un símbolo de tu propósito compartido y fuerza. Nuestro Generador de Nombres de Clan es tu puerta de entrada para forjar esa identidad perfecta. Sumérgete en un reino de posibilidades, desde nombres de guerreros feroces hasta órdenes místicas y todo lo demás. Prepárate para encontrar un nombre que resuene con el espíritu de tu clan y toque la fibra sensible de tus miembros. ¡La era de tu leyenda comienza ahora!",
+    "fr": "Un bon nom de clan est plus qu'une simple étiquette; c'est une bannière sous laquelle vous vous ralliez, un symbole de votre objectif commun et de votre force. Notre Générateur de Noms de Clan est votre porte d'entrée pour forger cette identité parfaite. Plongez dans un royaume de possibilités, des noms de guerriers féroces aux ordres mystiques et tout le reste. Préparez-vous à trouver un nom qui résonne avec l'esprit de votre clan et touche la corde sensible de vos membres. L'ère de votre légende commence maintenant !",
+    "zh-cn": "一个伟大的氏族名称不仅仅是一个标签；它是你集结的旗帜，是你共同目标和力量的象征。我们的氏族名称生成器是你打造完美身份的门户。潜入一个充满可能性的领域，从凶猛的战士名称到神秘的组织等等。准备好找到一个与你的氏族精神产生共鸣并打动你成员的名称吧。你的传奇时代现在开始！",
+    "ja": "素晴らしいクラン名は単なるラベルではありません。それはあなたが集結する旗であり、あなたの共有された目的と強さの象徴です。私たちのクラン名ジェネレーターは、その完璧なアイデンティティを作り上げるための入り口です。獰猛な戦士の名前から神秘的な騎士団、そしてその間のあらゆる可能性の世界に飛び込みましょう。クランの精神に共鳴し、メンバーの心に響く名前を見つける準備をしてください。あなたの伝説の時代が今始まります！",
+    "pt": "Um ótimo nome de clã é mais do que apenas um rótulo; é uma bandeira sob a qual você se reúne, um símbolo de seu propósito compartilhado e força. Nosso Gerador de Nomes de Clã é sua porta de entrada para forjar essa identidade perfeita. Mergulhe em um reino de possibilidades, desde nomes de guerreiros ferozes a ordens místicas e tudo mais. Prepare-se para encontrar um nome que ressoe com o espírito do seu clã e toque o coração de seus membros. A era da sua lenda começa agora!",
+    "ru": "Великое название клана - это больше, чем просто ярлык; это знамя, под которым вы собираетесь, символ вашей общей цели и силы. Наш Генератор Названий Кланов - это ваш путь к созданию идеальной идентичности. Погрузитесь в царство возможностей, от имен свирепых воинов до мистических орденов и всего, что между ними. Приготовьтесь найти имя, которое резонирует с духом вашего клана и затрагивает души ваших членов. Эпоха вашей легенды начинается сейчас!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button to summon forth a list of potential clan names.",
+      "Behold the array of names, each with its own unique flavor!",
+      "Scan the list for names that resonate with your clan's theme and personality.",
+      "Found a name that calls to you? Copy it with a simple click!",
+      "Use your formidable new clan name to strike fear and awe across the digital realm!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' لاستدعاء قائمة بأسماء العشائر المحتملة.",
+      "شاهد مجموعة الأسماء، كل منها بنكهته الفريدة!",
+      "ابحث في القائمة عن أسماء تتناسب مع موضوع وشخصية عشيرتك.",
+      "هل وجدت اسمًا يناديك؟ انسخه بنقرة بسيطة!",
+      "استخدم اسم عشيرتك الجديد الهائل لزرع الخوف والرهبة في جميع أنحاء العالم الرقمي!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' para invocar una lista de posibles nombres de clan.",
+      "¡Contempla la variedad de nombres, cada uno con su propio sabor único!",
+      "Escanea la lista en busca de nombres que resuenen con el tema y la personalidad de tu clan.",
+      "¿Encontraste un nombre que te llama? ¡Cópialo con un simple clic!",
+      "¡Usa tu formidable nuevo nombre de clan para infundir miedo y asombro en todo el reino digital!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' pour faire apparaître une liste de noms de clan potentiels.",
+      "Contemplez le tableau de noms, chacun avec sa propre saveur unique !",
+      "Parcourez la liste pour trouver des noms qui correspondent au thème et à la personnalité de votre clan.",
+      "Vous avez trouvé un nom qui vous appelle ? Copiez-le d'un simple clic !",
+      "Utilisez votre nouveau nom de clan formidable pour semer la peur et l'admiration dans le royaume numérique !"
+    ],
+    "zh-cn": [
+      "点击\"生成\"按钮，即可召唤出潜在的氏族名称列表。",
+      "欣赏各种名称，每个名称都有其独特的风格！",
+      "扫描列表，寻找与你的氏族主题和个性产生共鸣的名称。",
+      "找到一个吸引你的名字了吗？只需单击即可复制它！",
+      "使用你强大的新氏族名称，在数字领域散布恐惧和敬畏！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、候補となるクラン名のリストを呼び出しましょう。",
+      "それぞれ独自の雰囲気を持つ名前の数々をお楽しみください！",
+      "リストから、あなたのクランのテーマや個性に響く名前を探しましょう。",
+      "気に入った名前が見つかったら、ワンクリックでコピーできます！",
+      "新しいクラン名でデジタルの世界に恐れと畏敬の念を広めましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' para invocar uma lista de nomes de clãs potenciais.",
+      "Contemple a variedade de nomes, cada um com seu sabor único!",
+      "Examine a lista em busca de nomes que ressoem com o tema e a personalidade do seu clã.",
+      "Encontrou um nome que te chama? Copie-o com um simples clique!",
+      "Use seu formidável novo nome de clã para incutir medo e admiração em todo o reino digital!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Сгенерировать', чтобы вызвать список потенциальных названий кланов.",
+      "Узрите множество имен, каждое со своим уникальным вкусом!",
+      "Просмотрите список в поисках имен, которые соответствуют теме и личности вашего клана.",
+      "Нашли имя, которое вас зовет? Скопируйте его простым щелчком!",
+      "Используйте свое грозное новое название клана, чтобы вселять страх и благоговение во всем цифровом мире!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Clan Name Generator free to use?",
+        "ar": "هل مولد أسماء العشائر هذا مجاني للاستخدام؟",
+        "es": "¿Este Generador de Nombres de Clan es de uso gratuito?",
+        "fr": "Ce Générateur de Noms de Clan est-il gratuit?",
+        "zh-cn": "这个氏族名称生成器是免费使用的吗？",
+        "ja": "このクラン名ジェネレーターは無料で使用できますか？",
+        "pt": "Este Gerador de Nomes de Clã é gratuito para usar?",
+        "ru": "Этот Генератор Названий Кланов бесплатен?"
+      },
+      "answer": {
+        "en": "Absolutely! Forge your clan's destiny without spending a single coin. Our generator is completely free, offering endless possibilities for your legendary name.",
+        "ar": "بالتأكيد! اصنع مصير عشيرتك دون إنفاق فلس واحد. مولدنا مجاني تمامًا، ويقدم إمكانيات لا حصر لها لاسمك الأسطوري.",
+        "es": "¡Absolutamente! Forja el destino de tu clan sin gastar una sola moneda. Nuestro generador es completamente gratuito, ofreciendo infinitas posibilidades para tu nombre legendario.",
+        "fr": "Absolument ! Forge le destin de ton clan sans dépenser une seule pièce. Notre générateur est entièrement gratuit, offrant des possibilités infinies pour ton nom légendaire.",
+        "zh-cn": "当然！无需花费一分钱即可铸造您的氏族命运。我们的生成器完全免费，为您的传奇名称提供无限可能。",
+        "ja": "もちろんです！一銭もかけずにクランの運命を築きましょう。私たちのジェネレーターは完全に無料で、あなたの伝説的な名前のための無限の可能性を提供します。",
+        "pt": "Absolutamente! Forje o destino do seu clã sem gastar uma única moeda. Nosso gerador é completamente gratuito, oferecendo infinitas possibilidades para o seu nome lendário.",
+        "ru": "Абсолютно! Создайте судьбу своего клана, не тратя ни единой монеты. Наш генератор полностью бесплатен, предлагая бесконечные возможности для вашего легендарного имени."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my gaming guild or online community?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لفرقة الألعاب أو المجتمع عبر الإنترنت الخاص بي؟",
+        "es": "¿Puedo usar estos nombres para mi gremio de juegos o comunidad en línea?",
+        "fr": "Puis-je utiliser ces noms pour ma guilde de jeu ou ma communauté en ligne?",
+        "zh-cn": "我可以将这些名称用于我的游戏公会或在线社区吗？",
+        "ja": "これらの名前をゲームギルドやオンラインコミュニティに使用できますか？",
+        "pt": "Posso usar esses nomes para minha guilda de jogos ou comunidade online?",
+        "ru": "Могу ли я использовать эти названия для своей игровой гильдии или онлайн-сообщества?"
+      },
+      "answer": {
+        "en": "Absolutely! That's exactly what it's for. These names are perfect for giving your online group a distinct and memorable identity. Go forth and conquer!",
+        "ar": "بالتأكيد! هذا بالضبط ما هو مخصص له. هذه الأسماء مثالية لإعطاء مجموعتك عبر الإنترنت هوية مميزة ولا تُنسى. انطلقوا واغزوا!",
+        "es": "¡Absolutamente! Para eso está hecho exactamente. Estos nombres son perfectos para darle a tu grupo en línea una identidad distintiva y memorable. ¡Adelante y conquista!",
+        "fr": "Absolument ! C'est exactement à cela que cela sert. Ces noms sont parfaits pour donner à votre groupe en ligne une identité distincte et mémorable. Allez-y et conquérez !",
+        "zh-cn": "当然！这正是它的用途。这些名字非常适合为你的在线群体提供独特且令人难忘的身份。前进并征服！",
+        "ja": "もちろんです！まさにそのために作られています。これらの名前は、オンライングループに明確で記憶に残るアイデンティティを与えるのに最適です。さあ、行って征服しましょう！",
+        "pt": "Absolutamente! É exatamente para isso que ele serve. Esses nomes são perfeitos para dar ao seu grupo online uma identidade distinta e memorável. Vá em frente e conquiste!",
+        "ru": "Конечно! Именно для этого он и предназначен. Эти имена идеально подходят для придания вашей онлайн-группе отличительной и запоминающейся идентичности. Вперед и покоряйте!"
+      }
+    },
+    {
+      "question": {
+        "en": "How many different clan names can I generate?",
+        "ar": "كم عدد أسماء العشائر المختلفة التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres de clan diferentes puedo generar?",
+        "fr": "Combien de noms de clan différents puis-je générer?",
+        "zh-cn": "我可以生成多少个不同的氏族名称？",
+        "ja": "いくつの異なるクラン名を生成できますか？",
+        "pt": "Quantos nomes de clãs diferentes posso gerar?",
+        "ru": "Сколько разных названий кланов я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "The possibilities are vast! Our generator combines various elements to create a huge pool of unique names. Keep clicking and exploring until you find the one that feels right for your clan's destiny.",
+        "ar": "الاحتمالات واسعة! يجمع مولدنا بين عناصر مختلفة لإنشاء مجموعة ضخمة من الأسماء الفريدة. استمر في النقر والاستكشاف حتى تجد الاسم الذي تشعر أنه مناسب لمصير عشيرتك.",
+        "es": "¡Las posibilidades son enormes! Nuestro generador combina varios elementos para crear un gran número de nombres únicos. Sigue haciendo clic y explorando hasta que encuentres el que se sienta correcto para el destino de tu clan.",
+        "fr": "Les possibilités sont vastes ! Notre générateur combine divers éléments pour créer un vaste pool de noms uniques. Continuez à cliquer et à explorer jusqu'à ce que vous trouviez celui qui convient le mieux au destin de votre clan.",
+        "zh-cn": "可能性是巨大的！我们的生成器结合了各种元素，创造了巨大的独一无二的名称库。不断点击和探索，直到找到感觉适合你的氏族命运的名称。",
+        "ja": "可能性は広大です！私たちのジェネレーターは様々な要素を組み合わせて、膨大な数のユニークな名前を作成します。クランの運命にふさわしいと感じる名前が見つかるまで、クリックして探索を続けてください。",
+        "pt": "As possibilidades são vastas! Nosso gerador combina vários elementos para criar um enorme conjunto de nomes únicos. Continue clicando e explorando até encontrar aquele que parece certo para o destino do seu clã.",
+        "ru": "Возможности безграничны! Наш генератор сочетает различные элементы для создания огромного количества уникальных имен. Продолжайте нажимать и исследовать, пока не найдете то, что кажется правильным для судьбы вашего клана."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names trademarked or copyrighted?",
+        "ar": "هل الأسماء التي تم إنشاؤها محمية بعلامة تجارية أو حقوق نشر؟",
+        "es": "¿Los nombres generados están registrados o tienen derechos de autor?",
+        "fr": "Les noms générés sont-ils déposés ou protégés par des droits d'auteur?",
+        "zh-cn": "生成的名称是否已注册商标或受版权保护？",
+        "ja": "生成された名前は商標登録または著作権で保護されていますか？",
+        "pt": "Os nomes gerados são marcas registradas ou protegidos por direitos autorais?",
+        "ru": "Сгенерированные имена являются товарными знаками или защищены авторским правом?"
+      },
+      "answer": {
+        "en": "While we generate unique combinations, we cannot guarantee that a specific name hasn't been used before or is available for trademarking. Always perform your own research before using a name for any official purpose.",
+        "ar": "بينما نقوم بإنشاء مجموعات فريدة، لا يمكننا ضمان أن اسمًا معينًا لم يتم استخدامه من قبل أو أنه متاح للتسجيل كعلامة تجارية. قم دائمًا بإجراء بحثك الخاص قبل استخدام اسم لأي غرض رسمي.",
+        "es": "Aunque generamos combinaciones únicas, no podemos garantizar que un nombre específico no se haya utilizado antes o esté disponible para registro de marca. Siempre realiza tu propia investigación antes de usar un nombre para cualquier propósito oficial.",
+        "fr": "Bien que nous générions des combinaisons uniques, nous ne pouvons pas garantir qu'un nom spécifique n'a pas été utilisé auparavant ou n'est pas disponible pour l'enregistrement de marque. Effectuez toujours vos propres recherches avant d'utiliser un nom à des fins officielles.",
+        "zh-cn": "虽然我们生成独特的组合，但我们不能保证某个特定名称之前没有被使用过或可以注册商标。在将名称用于任何官方目的之前，请务必自行进行研究。",
+        "ja": "私たちはユニークな組み合わせを生成しますが、特定の名前が以前に使用されていないか、商標登録が可能であるかを保証することはできません。公式な目的で名前を使用する前に、必ずご自身で調査を行ってください。",
+        "pt": "Embora geremos combinações únicas, não podemos garantir que um nome específico não tenha sido usado antes ou esteja disponível para registro de marca. Sempre realize sua própria pesquisa antes de usar um nome para qualquer finalidade oficial.",
+        "ru": "Хотя мы генерируем уникальные комбинации, мы не можем гарантировать, что конкретное имя не использовалось ранее или доступно для регистрации в качестве товарного знака. Всегда проводите собственное исследование перед использованием имени в любых официальных целях."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest new words or themes for the generator?",
+        "ar": "هل يمكنني اقتراح كلمات أو موضوعات جديدة للمولد؟",
+        "es": "¿Puedo sugerir nuevas palabras o temas para el generador?",
+        "fr": "Puis-je suggérer de nouveaux mots ou thèmes pour le générateur?",
+        "zh-cn": "我可以为生成器建议新的词语或主题吗？",
+        "ja": "ジェネレーターに新しい単語やテーマを提案できますか？",
+        "pt": "Posso sugerir novas palavras ou temas para o gerador?",
+        "ru": "Могу ли я предложить новые слова или темы для генератора?"
+      },
+      "answer": {
+        "en": "We welcome your suggestions! Your creativity helps us improve the generator and provide even more awesome names. Use our feedback option to share your ideas!",
+        "ar": "نرحب باقتراحاتكم! إبداعكم يساعدنا على تحسين المولد وتقديم أسماء أكثر روعة. استخدم خيار التعليقات لدينا لمشاركة أفكاركم!",
+        "es": "¡Agradecemos tus sugerencias! Tu creatividad nos ayuda a mejorar el generador y a ofrecer nombres aún más increíbles. ¡Usa nuestra opción de comentarios para compartir tus ideas!",
+        "fr": "Nous accueillons vos suggestions ! Votre créativité nous aide à améliorer le générateur et à proposer des noms encore plus géniaux. Utilisez notre option de commentaires pour partager vos idées !",
+        "zh-cn": "我们欢迎您的建议！您的创意有助于我们改进生成器并提供更多超棒的名称。使用我们的反馈选项来分享您的想法吧！",
+        "ja": "ご提案を歓迎します！あなたの創造性がジェネレーターの改善に役立ち、さらに素晴らしい名前を提供できるようになります。フィードバックオプションを使用してアイデアを共有してください！",
+        "pt": "Agradecemos suas sugestões! Sua criatividade nos ajuda a melhorar o gerador e a fornecer nomes ainda mais incríveis. Use nossa opção de feedback para compartilhar suas ideias!",
+        "ru": "Мы приветствуем ваши предложения! Ваше творчество помогает нам улучшать генератор и предоставлять еще больше потрясающих имен. Используйте нашу опцию обратной связи, чтобы поделиться своими идеями!"
+      }
+    }
+  ]
+}

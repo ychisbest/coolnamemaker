@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Couple Name Generator",
+    "ar": "مولد أسماء الأزواج",
+    "es": "Generador de Nombres de Pareja",
+    "fr": "Générateur de Noms de Couple",
+    "zh-cn": "情侣名称生成器",
+    "ja": "カップル名ジェネレーター",
+    "pt": "Gerador de Nomes de Casal",
+    "ru": "Генератор Имен для Пар"
+  },
+  "description": {
+    "en": "Ready to find that perfect, adorable, and completely unique name for you and your significant other? Look no further! Our Couple Name Generator is here to blend your names into a sweet and memorable portmanteau. Get ready for a name that's as special as your bond!",
+    "ar": "هل أنت مستعد للعثور على الاسم المثالي، اللطيف، والفريد تمامًا لك ولشريك حياتك؟ لا تبحث بعيدًا! مولد أسماء الأزواج لدينا هنا لدمج أسمائكم في اسم تركيبي حلو ولا يُنسى. استعد لاسم مميز مثل ارتباطكم!",
+    "es": "¿Listo para encontrar ese nombre perfecto, adorable y completamente único para ti y tu pareja? ¡No busques más! Nuestro Generador de Nombres de Pareja está aquí para fusionar sus nombres en una combinación dulce y memorable. ¡Prepárense para un nombre tan especial como su vínculo!",
+    "fr": "Prêt à trouver ce nom parfait, adorable et complètement unique pour vous et votre moitié ? Ne cherchez plus ! Notre Générateur de Noms de Couple est là pour fusionner vos noms en un mot-valise doux et mémorable. Préparez-vous pour un nom aussi spécial que votre lien !",
+    "zh-cn": "准备好为你和你的另一半找到那个完美、可爱、独一无二的名字了吗？别再找了！我们的情侣名称生成器可以将你们的名字融合成一个甜蜜又令人难忘的合成词。准备好迎接一个如同你们感情一样特别的名字吧！",
+    "ja": "あなたとあなたの特別な人のための、完璧で愛らしい、そして完全にユニークな名前を見つける準備はできていますか？もう探す必要はありません！私たちのカップル名ジェネレーターは、あなたの名前を甘く思い出深い合成語にブレンドするためにここにあります。あなたの絆と同じくらい特別な名前の準備をしてください！",
+    "pt": "Pronto para encontrar aquele nome perfeito, adorável e completamente único para você e seu par? Não procure mais! Nosso Gerador de Nomes de Casal está aqui para combinar seus nomes em um portmanteau doce e memorável. Prepare-se para um nome tão especial quanto o seu vínculo!",
+    "ru": "Готовы найти идеальное, очаровательное и совершенно уникальное имя для вас и вашей второй половинки? Больше не ищите! Наш Генератор Имен для Пар здесь, чтобы объединить ваши имена в сладкое и запоминающееся слово-слияние. Приготовьтесь к имени, которое так же особенное, как и ваша связь!"
+  },
+  "slug": "couple-name-generator",
+  "prompt": {
+    "en": "Generate a couple name based on two names",
+    "ar": "قم بإنشاء اسم زوجين بناءً على اسمين",
+    "es": "Generar un nombre de pareja basado en dos nombres",
+    "fr": "Générer un nom de couple basé sur deux noms",
+    "zh-cn": "根据两个名字生成一个情侣名称",
+    "ja": "2つの名前からカップル名を生成する",
+    "pt": "Gerar um nome de casal com base em dois nomes",
+    "ru": "Сгенерировать имя для пары на основе двух имен"
+  },
+  "icon": "💑",
+  "introduction": {
+    "en": "Forget boring nicknames and embrace the cuteness overload! Our Couple Name Generator is designed to sprinkle a little extra magic onto your relationship with a name that's uniquely yours. Whether you're looking for something sweet, playful, or just plain fun, we've got the perfect blend waiting for you. Get ready to melt hearts and make your friends jealous with your adorable couple name!",
+    "ar": "انس الألقاب المملة واحتضن جرعة زائدة من اللطافة! تم تصميم مولد أسماء الأزواج لدينا لإضافة لمسة سحرية إضافية على علاقتكما باسم فريد لكما. سواء كنت تبحث عن شيء حلو، مرح، أو مجرد ممتع، لدينا المزيج المثالي في انتظارك. استعد لإذابة القلوب وجعل أصدقائك يشعرون بالغيرة من اسم زوجكما اللطيف!",
+    "es": "¡Olvídate de los apodos aburridos y abraza la sobrecarga de ternura! Nuestro Generador de Nombres de Pareja está diseñado para rociar un poco de magia extra en tu relación con un nombre que es únicamente tuyo. Ya sea que busques algo dulce, juguetón o simplemente divertido, tenemos la combinación perfecta esperándote. ¡Prepárense para derretir corazones y poner celosos a sus amigos con su adorable nombre de pareja!",
+    "fr": "Oubliez les surnoms ennuyeux et embrassez la surcharge de mignonnerie ! Notre Générateur de Noms de Couple est conçu pour ajouter un peu de magie supplémentaire à votre relation avec un nom qui vous est propre. Que vous recherchiez quelque chose de doux, de ludique ou simplement amusant, nous avons le mélange parfait qui vous attend. Préparez-vous à faire fondre les cœurs et à rendre vos amis jaloux avec votre adorable nom de couple !",
+    "zh-cn": "忘掉无聊的昵称，拥抱可爱的暴击！我们的情侣名称生成器旨在为你们的关系增添一丝额外的魔力，为你量身定制一个独一无二的名字。无论你是想找一个甜蜜、俏皮，还是纯粹有趣的名字，我们都有完美的组合等着你。准备好用你们可爱的情侣名字融化人心，让朋友们羡慕不已吧！",
+    "ja": "退屈なニックネームを忘れて、キュートさの過負荷を受け入れましょう！私たちのカップル名ジェネレーターは、あなただけの名前であなたの関係に少し特別な魔法をかけるように設計されています。甘いもの、遊び心のあるもの、または単に楽しいものを探しているかどうかにかかわらず、私たちはあなたを待っている完璧なブレンドを持っています。あなたの愛らしいカップル名で心を溶かし、友達を嫉妬させる準備をしてください！",
+    "pt": "Esqueça apelidos chatos e abrace a sobrecarga de fofura! Nosso Gerador de Nomes de Casal é projetado para polvilhar um pouco mais de magia em seu relacionamento com um nome que é unicamente seu. Quer você esteja procurando algo doce, divertido ou simplesmente engraçado, temos a mistura perfeita esperando por você. Prepare-se para derreter corações e deixar seus amigos com ciúmes com seu adorável nome de casal!",
+    "ru": "Забудьте о скучных прозвищах и примите перегрузку милотой! Наш Генератор Имен для Пар разработан, чтобы добавить немного дополнительной магии в ваши отношения с именем, которое уникально ваше. Ищете ли вы что-то сладкое, игривое или просто забавное, у нас есть идеальное сочетание, которое ждет вас. Приготовьтесь растопить сердца и заставить своих друзей завидовать вашему очаровательному имени для пары!"
+  },
+  "howToUse": {
+    "en": [
+      "Enter the first name in the designated box.",
+      "Enter the second name in the next box.",
+      "Click the 'Generate' button and watch the magic happen!",
+      "Behold the list of potential couple names.",
+      "Pick your favorite and start spreading the adorableness!"
+    ],
+    "ar": [
+      "أدخل الاسم الأول في المربع المخصص.",
+      "أدخل الاسم الثاني في المربع التالي.",
+      "انقر على زر 'إنشاء' وشاهد السحر يحدث!",
+      "شاهد قائمة أسماء الأزواج المحتملة.",
+      "اختر المفضل لديك وابدأ في نشر اللطافة!"
+    ],
+    "es": [
+      "Introduce el primer nombre en la casilla designada.",
+      "Introduce el segundo nombre en la siguiente casilla.",
+      "Haz clic en el botón 'Generar' y ¡mira cómo sucede la magia!",
+      "Contempla la lista de posibles nombres de pareja.",
+      "¡Elige tu favorito y empieza a difundir la ternura!"
+    ],
+    "fr": [
+      "Entrez le premier nom dans la case désignée.",
+      "Entrez le deuxième nom dans la case suivante.",
+      "Cliquez sur le bouton 'Générer' et regardez la magie opérer !",
+      "Admirez la liste des noms de couple potentiels.",
+      "Choisissez votre préféré et commencez à répandre l'adorabilité !"
+    ],
+    "zh-cn": [
+      "在指定的框中输入第一个名字。",
+      "在下一个框中输入第二个名字。",
+      "点击“生成”按钮，见证奇迹发生！",
+      "请看潜在的情侣名称列表。",
+      "选择你最喜欢的，开始散播可爱吧！"
+    ],
+    "ja": [
+      "指定されたボックスに最初の名前を入力します。",
+      "次のボックスに2番目の名前を入力します。",
+      "「生成」ボタンをクリックして、魔法が起こるのを見てください！",
+      "潜在的なカップル名のリストをご覧ください。",
+      "お気に入りを選んで、可愛らしさを広め始めましょう！"
+    ],
+    "pt": [
+      "Digite o primeiro nome na caixa designada.",
+      "Digite o segundo nome na próxima caixa.",
+      "Clique no botão 'Gerar' e veja a mágica acontecer!",
+      "Contemple a lista de nomes de casal potenciais.",
+      "Escolha seu favorito e comece a espalhar a fofura!"
+    ],
+    "ru": [
+      "Введите первое имя в соответствующее поле.",
+      "Введите второе имя в следующее поле.",
+      "Нажмите кнопку 'Сгенерировать' и наблюдайте, как происходит волшебство!",
+      "Посмотрите список потенциальных имен для пар.",
+      "Выберите свое любимое и начните распространять очарование!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "How does the Couple Name Generator work?",
+        "ar": "كيف يعمل مولد أسماء الأزواج؟",
+        "es": "¿Cómo funciona el Generador de Nombres de Pareja?",
+        "fr": "Comment fonctionne le Générateur de Noms de Couple?",
+        "zh-cn": "情侣名称生成器是如何工作的？",
+        "ja": "カップル名ジェネレーターはどのように機能しますか？",
+        "pt": "Como funciona o Gerador de Nomes de Casal?",
+        "ru": "Как работает Генератор Имен для Пар?"
+      },
+      "answer": {
+        "en": "Our generator uses a clever algorithm to combine syllables and letters from the two names you provide, creating unique and often adorable portmanteaus. It's like linguistic alchemy for love!",
+        "ar": "يستخدم مولدنا خوارزمية ذكية لدمج المقاطع والحروف من الاسمين اللذين تقدمهما، مما يخلق أسماء تركيبية فريدة ولطيفة في كثير من الأحيان. إنه أشبه بالكيمياء اللغوية للحب!",
+        "es": "Nuestro generador utiliza un algoritmo inteligente para combinar sílabas y letras de los dos nombres que proporcionas, creando combinaciones únicas y a menudo adorables. ¡Es como alquimia lingüística para el amor!",
+        "fr": "Notre générateur utilise un algorithme intelligent pour combiner des syllabes et des lettres des deux noms que vous fournissez, créant des mots-valises uniques et souvent adorables. C'est comme de l'alchimie linguistique pour l'amour !",
+        "zh-cn": "我们的生成器使用巧妙的算法将您提供的两个名字中的音节和字母组合起来，创造出独特且通常可爱的合成词。这就像是爱的语言炼金术！",
+        "ja": "私たちのジェネレーターは、あなたが提供する2つの名前から音節と文字を組み合わせる賢いアルゴリズムを使用し、ユニークでしばしば愛らしい合成語を作成します。それは愛のための言語の錬金術のようなものです！",
+        "pt": "Nosso gerador usa um algoritmo inteligente para combinar sílabas e letras dos dois nomes que você fornece, criando portmanteaus únicos e muitas vezes adoráveis. É como alquimia linguística para o amor!",
+        "ru": "Наш генератор использует умный алгоритм для объединения слогов и букв из двух предоставленных вами имен, создавая уникальные и часто очаровательные слова-слияния. Это как лингвистическая алхимия для любви!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I generate names for more than two people?",
+        "ar": "هل يمكنني إنشاء أسماء لأكثر من شخصين؟",
+        "es": "¿Puedo generar nombres para más de dos personas?",
+        "fr": "Puis-je générer des noms pour plus de deux personnes?",
+        "zh-cn": "我可以为两个以上的人生成名称吗？",
+        "ja": "2人以上の名前を生成できますか？",
+        "pt": "Posso gerar nomes para mais de duas pessoas?",
+        "ru": "Могу ли я генерировать имена для более чем двух человек?"
+      },
+      "answer": {
+        "en": "Currently, our generator is designed for couples (two names). While we love the idea of group names, our current focus is on creating those special two-person blends. Stay tuned for future updates!",
+        "ar": "حاليًا، تم تصميم مولدنا للأزواج (اسمين). بينما نحب فكرة أسماء المجموعات، فإن تركيزنا الحالي هو على إنشاء تلك المزيجات الخاصة لشخصين. ترقبوا التحديثات المستقبلية!",
+        "es": "Actualmente, nuestro generador está diseñado para parejas (dos nombres). Aunque nos encanta la idea de nombres de grupo, nuestro enfoque actual es crear esas mezclas especiales para dos personas. ¡Estén atentos a futuras actualizaciones!",
+        "fr": "Actuellement, notre générateur est conçu pour les couples (deux noms). Bien que nous aimions l'idée des noms de groupe, notre objectif actuel est de créer ces mélanges spéciaux pour deux personnes. Restez à l'écoute pour les futures mises à jour !",
+        "zh-cn": "目前，我们的生成器是为情侣（两个名字）设计的。虽然我们喜欢团体名称的想法，但我们目前的重点是创建那些特殊的两人组合。请继续关注未来的更新！",
+        "ja": "現在、私たちのジェネレーターはカップル（2つの名前）用に設計されています。グループ名のアイデアも素晴らしいですが、現在の焦点は特別な2人組のブレンドを作成することです。今後のアップデートにご期待ください！",
+        "pt": "Atualmente, nosso gerador é projetado para casais (dois nomes). Embora amemos a ideia de nomes de grupo, nosso foco atual é criar essas misturas especiais para duas pessoas. Fique ligado para futuras atualizações!",
+        "ru": "В настоящее время наш генератор предназначен для пар (двух имен). Хотя нам нравится идея групповых имен, наш текущий фокус - создание этих особых двухсторонних смесей. Следите за будущими обновлениями!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use the generated name for social media or personal use?",
+        "ar": "هل يمكنني استخدام الاسم الذي تم إنشاؤه لوسائل التواصل الاجتماعي أو الاستخدام الشخصي؟",
+        "es": "¿Puedo usar el nombre generado para redes sociales o uso personal?",
+        "fr": "Puis-je utiliser le nom généré pour les réseaux sociaux ou un usage personnel?",
+        "zh-cn": "我可以将生成的名称用于社交媒体或个人用途吗？",
+        "ja": "生成された名前をソーシャルメディアや個人的な使用に使用できますか？",
+        "pt": "Posso usar o nome gerado para mídias sociais ou uso pessoal?",
+        "ru": "Могу ли я использовать сгенерированное имя для социальных сетей или личного использования?"
+      },
+      "answer": {
+        "en": "Absolutely! These names are perfect for couple hashtags, social media bios, personalized gifts, or just as a fun way to refer to yourselves. Share the love!",
+        "ar": "بالتأكيد! هذه الأسماء مثالية لعلامات التصنيف الخاصة بالأزواج، أو السير الذاتية على وسائل التواصل الاجتماعي، أو الهدايا المخصصة، أو مجرد طريقة ممتعة للإشارة إلى أنفسكما. انشروا الحب!",
+        "es": "¡Absolutamente! Estos nombres son perfectos para hashtags de pareja, biografías de redes sociales, regalos personalizados o simplemente como una forma divertida de referirse a ustedes mismos. ¡Compartan el amor!",
+        "fr": "Absolument ! Ces noms sont parfaits pour les hashtags de couple, les biographies de réseaux sociaux, les cadeaux personnalisés, ou simplement comme une façon amusante de vous désigner. Partagez l'amour !",
+        "zh-cn": "当然可以！这些名字非常适合情侣话题标签、社交媒体简介、个性化礼物，或者只是作为一种有趣的自称方式。分享爱吧！",
+        "ja": "もちろんです！これらの名前は、カップルのハッシュタグ、ソーシャルメディアのプロフィール、パーソナライズされたギフト、または単に自分たちを指す楽しい方法として最適です。愛を分かち合いましょう！",
+        "pt": "Absolutamente! Esses nomes são perfeitos para hashtags de casal, bios de mídias sociais, presentes personalizados ou simplesmente como uma maneira divertida de se referir a vocês mesmos. Compartilhe o amor!",
+        "ru": "Конечно! Эти имена идеально подходят для хэштегов пар, биографий в социальных сетях, персонализированных подарков или просто как забавный способ называть себя. Делитесь любовью!"
+      }
+    },
+    {
+      "question": {
+        "en": "What if I don't like any of the generated names?",
+        "ar": "ماذا لو لم يعجبني أي من الأسماء التي تم إنشاؤها؟",
+        "es": "¿Qué pasa si no me gusta ninguno de los nombres generados?",
+        "fr": "Que faire si je n'aime aucun des noms générés?",
+        "zh-cn": "如果我不喜欢任何生成的名称怎么办？",
+        "ja": "生成された名前がどれも気に入らない場合はどうなりますか？",
+        "pt": "E se eu não gostar de nenhum dos nomes gerados?",
+        "ru": "Что делать, если мне не понравится ни одно из сгенерированных имен?"
+      },
+      "answer": {
+        "en": "No worries! Our generator provides a variety of options. Simply hit the 'Generate' button again to get a fresh batch of names. The perfect one is out there!",
+        "ar": "لا تقلق! مولدنا يوفر مجموعة متنوعة من الخيارات. ما عليك سوى النقر على زر 'إنشاء' مرة أخرى للحصول على مجموعة جديدة من الأسماء. الاسم المثالي موجود بالتأكيد!",
+        "es": "¡No te preocupes! Nuestro generador ofrece una variedad de opciones. Simplemente haz clic en el botón 'Generar' de nuevo para obtener un nuevo lote de nombres. ¡El perfecto está ahí fuera!",
+        "fr": "Pas de soucis ! Notre générateur propose une variété d'options. Il suffit de cliquer à nouveau sur le bouton 'Générer' pour obtenir une nouvelle série de noms. Le parfait est quelque part !",
+        "zh-cn": "别担心！我们的生成器提供了多种选择。只需再次点击“生成”按钮，即可获得一组全新的名字。完美的那个名字一定存在！",
+        "ja": "心配ありません！私たちのジェネレーターはさまざまなオプションを提供しています。「生成」ボタンをもう一度押すだけで、新しい名前のセットを取得できます。完璧な名前はそこにあります！",
+        "pt": "Sem problemas! Nosso gerador oferece uma variedade de opções. Basta clicar no botão 'Gerar' novamente para obter um novo lote de nomes. O perfeito está lá fora!",
+        "ru": "Не волнуйтесь! Наш генератор предоставляет множество вариантов. Просто нажмите кнопку 'Сгенерировать' еще раз, чтобы получить новую партию имен. Идеальное имя где-то там!"
+      }
+    },
+    {
+      "question": {
+        "en": "Is my privacy protected when using this tool?",
+        "ar": "هل خصوصيتي محمية عند استخدام هذه الأداة؟",
+        "es": "¿Mi privacidad está protegida al usar esta herramienta?",
+        "fr": "Ma vie privée est-elle protégée lors de l'utilisation de cet outil?",
+        "zh-cn": "使用此工具时我的隐私是否受到保护？",
+        "ja": "このツールを使用する際にプライバシーは保護されますか？",
+        "pt": "Minha privacidade é protegida ao usar esta ferramenta?",
+        "ru": "Защищена ли моя конфиденциальность при использовании этого инструмента?"
+      },
+      "answer": {
+        "en": "Absolutely. We do not store any of the names you enter or the names generated. Your input is used solely to generate name suggestions in real-time and is not retained.",
+        "ar": "بالتأكيد. نحن لا نخزن أي من الأسماء التي تدخلها أو الأسماء التي تم إنشاؤها. يُستخدم إدخالك فقط لإنشاء اقتراحات أسماء في الوقت الفعلي ولا يتم الاحتفاظ به.",
+        "es": "Absolutamente. No almacenamos ninguno de los nombres que ingresas ni los nombres generados. Tu entrada se utiliza únicamente para generar sugerencias de nombres en tiempo real y no se retiene.",
+        "fr": "Absolument. Nous ne stockons aucun des noms que vous entrez ni les noms générés. Votre saisie est utilisée uniquement pour générer des suggestions de noms en temps réel et n'est pas conservée.",
+        "zh-cn": "当然。我们不存储您输入的任何名字或生成的名称。您的输入仅用于实时生成名称建议，并且不会被保留。",
+        "ja": "もちろんです。入力された名前や生成された名前は一切保存しません。あなたの入力はリアルタイムで名前の提案を生成するためにのみ使用され、保持されません。",
+        "pt": "Absolutamente. Não armazenamos nenhum dos nomes que você insere ou os nomes gerados. Sua entrada é usada unicamente para gerar sugestões de nomes em tempo real e não é retida.",
+        "ru": "Абсолютно. Мы не храним ни введенные вами имена, ни сгенерированные имена. Ваш ввод используется исключительно для генерации предложений имен в режиме реального времени и не сохраняется."
+      }
+    }
+  ]
+}

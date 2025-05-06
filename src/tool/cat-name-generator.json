@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Cat Name Generator",
+    "ar": "مولد أسماء القطط",
+    "es": "Generador de Nombres de Gato",
+    "fr": "Générateur de Noms de Chat",
+    "zh-cn": "猫咪名称生成器",
+    "ja": "猫の名前ジェネレーター",
+    "pt": "Gerador de Nomes de Gatos",
+    "ru": "Генератор Имен Кошек"
+  },
+  "description": {
+    "en": "Welcoming a new feline friend into your life? Stuck trying to find the purr-fect name that captures their unique personality? Look no further! Our Cat Name Generator is here to unleash a whirlwind of adorable, quirky, and downright fantastic names for your new furry family member. Get ready to find a name that's as special as they are!",
+    "ar": "هل تستقبل صديقًا قطًا جديدًا في حياتك؟ هل تواجه صعوبة في العثور على الاسم المثالي الذي يعكس شخصيته الفريدة؟ لا تبحث بعيدًا! مولد أسماء القطط لدينا هنا لإطلاق عاصفة من الأسماء الرائعة والغريبة والرائعة لفرض عضوك الجديد في العائلة. استعد للعثور على اسم فريد مثلهم!",
+    "es": "¿Dando la bienvenida a un nuevo amigo felino a tu vida? ¿Atascado tratando de encontrar el nombre miau-ravilloso que capture su personalidad única? ¡No busques más! Nuestro Generador de Nombres de Gato está aquí para desatar un torbellino de nombres adorables, peculiares y simplemente fantásticos para tu nuevo miembro peludo de la familia. ¡Prepárate para encontrar un nombre que sea tan especial como ellos!",
+    "fr": "Vous accueillez un nouvel ami félin dans votre vie? Vous avez du mal à trouver le nom parfait qui capture leur personnalité unique? Ne cherchez plus! Notre Générateur de Noms de Chat est là pour déchaîner un tourbillon de noms adorables, décalés et carrément fantastiques pour votre nouveau membre à fourrure de la famille. Préparez-vous à trouver un nom aussi spécial qu'eux!",
+    "zh-cn": "欢迎新的猫咪朋友加入你的生活？绞尽脑汁想找到能捕捉它们独特个性的完美名字？别再找了！我们的猫咪名称生成器在此为你新的毛茸茸家庭成员释放出一股可爱、古怪且绝对棒极了的名字旋风。准备好找到一个和它们一样特别的名字吧！",
+    "ja": "新しい猫の友達をあなたの生活に迎え入れますか？彼らのユニークな個性を捉える完璧な名前を見つけようとして行き詰まっていますか？もう探す必要はありません！私たちの猫の名前ジェネレーターは、新しい毛皮のような家族の一員のために、愛らしい、風変わりな、そしてまったく素晴らしい名前の旋風を解き放ちます。彼らと同じくらい特別な名前を見つける準備をしてください！",
+    "pt": "Dando as boas-vindas a um novo amigo felino em sua vida? Preso tentando encontrar o nome perfeito que capture sua personalidade única? Não procure mais! Nosso Gerador de Nomes de Gatos está aqui para liberar um turbilhão de nomes adoráveis, peculiares e simplesmente fantásticos para seu novo membro peludo da família. Prepare-se para encontrar um nome que seja tão especial quanto eles!",
+    "ru": "Приветствуете нового кошачьего друга в своей жизни? Застряли, пытаясь найти идеальное имя, которое отразит их уникальную личность? Больше не ищите! Наш Генератор Имен Кошек здесь, чтобы выпустить вихрь очаровательных, причудливых и просто фантастических имен для вашего нового пушистого члена семьи. Приготовьтесь найти имя, которое будет таким же особенным, как и они!"
+  },
+  "slug": "cat-name-generator",
+  "prompt": {
+    "en": "Generate a cat name",
+    "ar": "قم بإنشاء اسم قطة",
+    "es": "Generar un nombre de gato",
+    "fr": "Générer un nom de chat",
+    "zh-cn": "生成一个猫咪名称",
+    "ja": "猫の名前を生成する",
+    "pt": "Gerar um nome de gato",
+    "ru": "Сгенерировать имя кошки"
+  },
+  "icon": "🐱",
+  "introduction": {
+    "en": "Choosing a name for your cat is a momentous occasion! It's the word you'll use to call them for cuddles, treats, and questionable midnight zoomies. This isn't just any name generator; it's your portal to a world of feline naming possibilities. Whether you're leaning towards classic, cute, cool, or completely crazy, we've got names that will make your new best friend purr with approval. Get ready to be inspired!",
+    "ar": "اختيار اسم لقطتك هو مناسبة مهمة! إنها الكلمة التي ستستخدمها لندائها للعناق، والمكافآت، والجريات الليلية المشكوك فيها. هذا ليس مجرد مولد أسماء؛ إنه بوابتك إلى عالم من إمكانيات تسمية القطط. سواء كنت تميل إلى الكلاسيكي، أو اللطيف، أو الرائع، أو المجنون تمامًا، فلدينا أسماء ستجعل صديقك الجديد المفضل يخرخر بالموافقة. استعد للإلهام!",
+    "es": "¡Elegir un nombre para tu gato es una ocasión trascendental! Es la palabra que usarás para llamarlos para mimos, golosinas y esas dudosas carreras nocturnas. Este no es un generador de nombres cualquiera; es tu portal a un mundo de posibilidades de nombres felinos. Ya sea que te inclines por lo clásico, lindo, genial o completamente loco, tenemos nombres que harán que tu nuevo mejor amigo ronronee de aprobación. ¡Prepárate para inspirarte!",
+    "fr": "Choisir un nom pour votre chat est un moment important! C'est le mot que vous utiliserez pour les appeler pour des câlins, des friandises et des courses nocturnes douteuses. Ce n'est pas n'importe quel générateur de noms; c'est votre portail vers un monde de possibilités de noms félins. Que vous penchiez vers le classique, le mignon, le cool ou le complètement fou, nous avons des noms qui feront ronronner d'approbation votre nouveau meilleur ami. Préparez-vous à être inspiré!",
+    "zh-cn": "给你的猫咪取名是一个重要的时刻！这是你呼唤它们过来拥抱、给零食、以及那些可疑的深夜狂奔时会用到的词。这不仅仅是一个名称生成器；它是你通往猫咪命名可能性世界的门户。无论你倾向于经典、可爱、酷炫还是完全疯狂，我们都有能让你的新好朋友满意地发出咕噜声的名字。准备好获得灵感吧！",
+    "ja": "あなたの猫に名前を選ぶのは記念すべきことです！それはあなたが彼らを抱きしめたり、おやつをあげたり、そして怪しい深夜のズーミーのために呼ぶときに使う言葉です。これは単なる名前生成器ではありません。これは猫の名前の可能性の世界へのあなたのポータルです。クラシック、かわいい、クール、または完全にクレイジーな名前を求めている場合でも、新しい親友が承認してゴロゴロ鳴らすような名前があります。インスピレーションを得る準備をしてください！",
+    "pt": "Escolher um nome para seu gato é uma ocasião importante! É a palavra que você usará para chamá-los para abraços, guloseimas e aquelas corridas noturnas questionáveis. Este não é apenas um gerador de nomes qualquer; é seu portal para um mundo de possibilidades de nomes felinos. Quer você esteja inclinando-se para o clássico, fofo, legal ou completamente louco, temos nomes que farão seu novo melhor amigo ronronar de aprovação. Prepare-se para se inspirar!",
+    "ru": "Выбор имени для вашей кошки - знаменательное событие! Это слово, которое вы будете использовать, чтобы звать их для обнимашек, лакомств и сомнительных ночных забегов. Это не просто генератор имен; это ваш портал в мир возможностей кошачьих имен. Независимо от того, склоняетесь ли вы к классике, милому, крутому или совершенно безумному, у нас есть имена, которые заставят вашего нового лучшего друга мурлыкать в знак одобрения. Приготовьтесь вдохновиться!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button and prepare for cuteness overload!",
+      "Browse through the delightful list of potential cat names.",
+      "See a name that makes your heart melt? Click to copy it!",
+      "Try different generations until you find the purr-fect fit for your furry friend.",
+      "Announce your cat's fantastic new name to the world!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' واستعد لفرط اللطافة!",
+      "تصفح القائمة المبهجة لأسماء القطط المحتملة.",
+      "هل ترى اسمًا يذيب قلبك؟ انقر لنسخه!",
+      "جرب جيلًا مختلفًا حتى تجد الاسم المثالي لصديقك ذي الفراء.",
+      "أعلن عن اسم قطتك الجديد الرائع للعالم!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' y prepárate para una sobrecarga de ternura.",
+      "Explora la encantadora lista de posibles nombres para gatos.",
+      "¿Ves un nombre que derrite tu corazón? ¡Haz clic para copiarlo!",
+      "Intenta diferentes generaciones hasta que encuentres el ajuste perfecto para tu amigo peludo.",
+      "¡Anuncia el fantástico nuevo nombre de tu gato al mundo!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' et préparez-vous à une surcharge de mignonnerie!",
+      "Parcourez la liste délicieuse de noms potentiels pour chats.",
+      "Vous voyez un nom qui fait fondre votre cœur? Cliquez pour le copier!",
+      "Essayez différentes générations jusqu'à ce que vous trouviez l'ajustement parfait pour votre ami à fourrure.",
+      "Annoncez le nouveau nom fantastique de votre chat au monde!"
+    ],
+    "zh-cn": [
+      "点击\"生成\"按钮，准备好迎接可爱的名字大爆炸吧！",
+      "浏览这份令人愉悦的潜在猫咪名称列表。",
+      "看到一个让你心动的名字了吗？点击复制它！",
+      "尝试不同的生成结果，直到为你的毛茸茸朋友找到最完美的名字。",
+      "向全世界宣布你的猫咪超棒的新名字吧！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、かわいさの大洪水に備えましょう！",
+      "潜在的な猫の名前の楽しいリストを閲覧します。",
+      "心がとろけるような名前が見えましたか？クリックしてコピーしましょう！",
+      "毛皮のような友達にぴったりの名前が見つかるまで、さまざまな生成を試してみてください。",
+      "あなたの猫の素晴らしい新しい名前を世界に発表しましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' e prepare-se para uma sobrecarga de fofura!",
+      "Navegue pela deliciosa lista de nomes potenciais para gatos.",
+      "Viu um nome que derrete seu coração? Clique para copiá-lo!",
+      "Experimente diferentes gerações até encontrar o ajuste perfeito para seu amigo peludo.",
+      "Anuncie o fantástico novo nome do seu gato para o mundo!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Создать' и приготовьтесь к перегрузке милоты!",
+      "Просмотрите восхитительный список потенциальных имен для кошек.",
+      "Видите имя, которое растопило ваше сердце? Нажмите, чтобы скопировать его!",
+      "Попробуйте разные генерации, пока не найдете идеальное имя для своего пушистого друга.",
+      "Объявите о фантастическом новом имени вашей кошки миру!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Cat Name Generator free?",
+        "ar": "هل مولد أسماء القطط هذا مجاني؟",
+        "es": "¿Este Generador de Nombres de Gato es gratis?",
+        "fr": "Ce Générateur de Noms de Chat est-il gratuit?",
+        "zh-cn": "这个猫咪名称生成器是免费的吗？",
+        "ja": "この猫の名前ジェネレーターは無料ですか？",
+        "pt": "Este Gerador de Nomes de Gatos é gratuito?",
+        "ru": "Этот Генератор Имен Кошек бесплатный?"
+      },
+      "answer": {
+        "en": "Yes, absolutely! Finding the perfect name for your furball shouldn't cost a penny. Generate as many names as you like!",
+        "ar": "نعم، بالتأكيد! العثور على الاسم المثالي لقطتك الصغيرة لا يجب أن يكلف قرشًا واحدًا. قم بإنشاء أكبر عدد تريده من الأسماء!",
+        "es": "¡Sí, absolutamente! Encontrar el nombre perfecto para tu bola de pelo no debería costar un centavo. ¡Genera tantos nombres como quieras!",
+        "fr": "Oui, absolument ! Trouver le nom parfait pour votre boule de poils ne devrait pas coûter un centime. Générez autant de noms que vous le souhaitez !",
+        "zh-cn": "是的，完全免费！为你的毛球找到完美的名字不应该花一分钱。想生成多少名字就生成多少！",
+        "ja": "はい、もちろんです！あなたの毛玉にぴったりの名前を見つけるのに一銭もかかるべきではありません。好きなだけ名前を生成してください！",
+        "pt": "Sim, absolutamente! Encontrar o nome perfeito para sua bola de pelo não deve custar um centavo. Gere quantos nomes quiser!",
+        "ru": "Да, конечно! Найти идеальное имя для вашей пушистой крохи не должно стоить ни копейки. Генерируйте столько имен, сколько хотите!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest new names or themes for the generator?",
+        "ar": "هل يمكنني اقتراح أسماء أو مواضيع جديدة للمولد؟",
+        "es": "¿Puedo sugerir nuevos nombres o temas para el generador?",
+        "fr": "Puis-je suggérer de nouveaux noms ou thèmes pour le générateur?",
+        "zh-cn": "我可以为生成器建议新的名称或主题吗？",
+        "ja": "ジェネレーターに新しい名前やテーマを提案できますか？",
+        "pt": "Posso sugerir novos nomes ou temas para o gerador?",
+        "ru": "Могу ли я предложить новые имена или темы для генератора?"
+      },
+      "answer": {
+        "en": "We'd love to hear your ideas! We're always looking to expand our database of purr-fect names. Feel free to send us your suggestions!",
+        "ar": "نود أن نسمع أفكارك! نحن نبحث دائمًا عن توسيع قاعدة بياناتنا من الأسماء المثالية. لا تتردد في إرسال اقتراحاتك إلينا!",
+        "es": "¡Nos encantaría escuchar tus ideas! Siempre estamos buscando expandir nuestra base de datos de nombres perfectos. ¡No dudes en enviarnos tus sugerencias!",
+        "fr": "Nous serions ravis d'entendre vos idées ! Nous cherchons toujours à élargir notre base de données de noms parfaits. N'hésitez pas à nous envoyer vos suggestions !",
+        "zh-cn": "我们非常乐意听取你的想法！我们一直在努力扩展我们的完美名字数据库。请随时向我们发送你的建议！",
+        "ja": "あなたのアイデアを聞かせていただけると嬉しいです！私たちは常に完璧な名前のデータベースを拡大しようとしています。遠慮なくご提案をお送りください！",
+        "pt": "Adoraríamos ouvir suas ideias! Estamos sempre procurando expandir nosso banco de dados de nomes perfeitos. Sinta-se à vontade para nos enviar suas sugestões!",
+        "ru": "Мы будем рады услышать ваши идеи! Мы всегда стремимся расширить нашу базу данных идеальных имен. Не стесняйтесь присылать нам свои предложения!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are the names suitable for all cat breeds?",
+        "ar": "هل الأسماء مناسبة لجميع سلالات القطط؟",
+        "es": "¿Los nombres son adecuados para todas las razas de gatos?",
+        "fr": "Les noms conviennent-ils à toutes les races de chats?",
+        "zh-cn": "这些名称适合所有猫咪品种吗？",
+        "ja": "生成された名前はすべての猫種に適していますか？",
+        "pt": "Os nomes são adequados para todas as raças de gatos?",
+        "ru": "Подходят ли имена для всех пород кошек?"
+      },
+      "answer": {
+        "en": "Absolutely! Our generator provides a wide variety of names, from elegant and sophisticated to playful and silly, so you're sure to find something that fits your cat's unique breed and personality.",
+        "ar": "بالتأكيد! يقدم مولدنا مجموعة واسعة من الأسماء، من الأنيقة والمتطورة إلى المرحة والسخيفة، لذلك من المؤكد أنك ستجد شيئًا يناسب سلالة قطتك وشخصيتها الفريدة.",
+        "es": "¡Absolutamente! Nuestro generador ofrece una amplia variedad de nombres, desde elegantes y sofisticados hasta juguetones y tontos, por lo que seguro encontrarás algo que se adapte a la raza y personalidad únicas de tu gato.",
+        "fr": "Absolument ! Notre générateur propose une grande variété de noms, des plus élégants et sophistiqués aux plus ludiques et farfelus, vous êtes donc sûr de trouver quelque chose qui correspond à la race et à la personnalité uniques de votre chat.",
+        "zh-cn": "当然！我们的生成器提供了各种各样的名字，从优雅精致到活泼有趣甚至有些傻气，所以你一定能找到适合你猫咪独特品种和个性的名字。",
+        "ja": "もちろんです！私たちのジェネレーターは、エレガントで洗練されたものから、遊び心があって面白いものまで、幅広い名前を提供していますので、あなたの猫のユニークな品種と個性に合うものがきっと見つかります。",
+        "pt": "Absolutamente! Nosso gerador oferece uma ampla variedade de nomes, desde elegantes e sofisticados até brincalhões e bobos, então você certamente encontrará algo que se adapte à raça e personalidade únicas do seu gato.",
+        "ru": "Абсолютно! Наш генератор предлагает широкий выбор имен, от элегантных и утонченных до игривых и забавных, так что вы обязательно найдете что-то, что подойдет уникальной породе и характеру вашей кошки."
+      }
+    },
+    {
+      "question": {
+        "en": "What if I don't like any of the generated names?",
+        "ar": "ماذا لو لم يعجبني أي من الأسماء التي تم إنشاؤها؟",
+        "es": "¿Qué pasa si no me gusta ninguno de los nombres generados?",
+        "fr": "Que faire si je n'aime aucun des noms générés?",
+        "zh-cn": "如果生成的名称我都不喜欢怎么办？",
+        "ja": "生成された名前がどれも気に入らなかったらどうすればいいですか？",
+        "pt": "E se eu não gostar de nenhum dos nomes gerados?",
+        "ru": "Что делать, если мне не понравится ни одно из сгенерированных имен?"
+      },
+      "answer": {
+        "en": "No worries! Just keep clicking that 'Generate' button. Our generator has a vast library of names, and you're bound to find the perfect one eventually. You can also try adding keywords related to your cat's appearance or personality for more tailored suggestions.",
+        "ar": "لا تقلق! فقط استمر في النقر على زر 'إنشاء'. يحتوي مولدنا على مكتبة ضخمة من الأسماء، وبالتأكيد ستجد الاسم المثالي في النهاية. يمكنك أيضًا محاولة إضافة كلمات رئيسية تتعلق بمظهر قطتك أو شخصيتها للحصول على اقتراحات أكثر تخصيصًا.",
+        "es": "¡No te preocupes! Simplemente sigue haciendo clic en el botón 'Generar'. Nuestro generador tiene una vasta biblioteca de nombres, y seguro que eventualmente encontrarás el perfecto. También puedes intentar agregar palabras clave relacionadas con la apariencia o personalidad de tu gato para obtener sugerencias más personalizadas.",
+        "fr": "Pas de soucis ! Continuez simplement à cliquer sur le bouton 'Générer'. Notre générateur possède une vaste bibliothèque de noms, et vous finirez par trouver le nom parfait. Vous pouvez également essayer d'ajouter des mots-clés liés à l'apparence ou à la personnalité de votre chat pour des suggestions plus personnalisées.",
+        "zh-cn": "别担心！继续点击\"生成\"按钮就行了。我们的生成器拥有庞大的名称库，你最终一定会找到那个完美的名字。你也可以尝试添加与你猫咪外貌或个性相关的关键词，以获得更具针对性的建议。",
+        "ja": "ご心配なく！「生成」ボタンをクリックし続けてください。私たちのジェネレーターには膨大な名前のライブラリがあり、最終的にはきっと完璧な名前が見つかります。猫の見た目や性格に関連するキーワードを追加して、よりパーソナライズされた提案を得ることもできます。",
+        "pt": "Sem problemas! Basta continuar clicando no botão 'Gerar'. Nosso gerador tem uma vasta biblioteca de nomes, e você certamente encontrará o perfeito eventualmente. Você também pode tentar adicionar palavras-chave relacionadas à aparência ou personalidade do seu gato para obter sugestões mais personalizadas.",
+        "ru": "Не волнуйтесь! Просто продолжайте нажимать кнопку 'Создать'. У нашего генератора огромная библиотека имен, и вы обязательно найдете идеальное в конце концов. Вы также можете попробовать добавить ключевые слова, связанные с внешностью или характером вашей кошки, для получения более подходящих предложений."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for fictional cats?",
+        "ar": "هل يمكنني استخدام هذه الأسماء للقطط الخيالية؟",
+        "es": "¿Puedo usar estos nombres para gatos de ficción?",
+        "fr": "Puis-je utiliser ces noms pour des chats de fiction?",
+        "zh-cn": "我可以将这些名称用于虚构的猫咪吗？",
+        "ja": "これらの名前を架空の猫に使用できますか？",
+        "pt": "Posso usar esses nomes para gatos fictícios?",
+        "ru": "Могу ли я использовать эти имена для вымышленных кошек?"
+      },
+      "answer": {
+        "en": "Absolutely! Whether you're writing a story, creating a game character, or just daydreaming about a feline companion, feel free to use any of the names generated here. Let your imagination run wild!",
+        "ar": "بالتأكيد! سواء كنت تكتب قصة، أو تنشئ شخصية لعبة، أو مجرد تحلم برفيق قطة، فلا تتردد في استخدام أي من الأسماء التي تم إنشاؤها هنا. دع خيالك ينطلق!",
+        "es": "¡Absolutamente! Ya sea que estés escribiendo una historia, creando un personaje de juego o simplemente soñando despierto con un compañero felino, siéntete libre de usar cualquiera de los nombres generados aquí. ¡Deja volar tu imaginación!",
+        "fr": "Absolument ! Que vous écriviez une histoire, créiez un personnage de jeu ou rêviez simplement d'un compagnon félin, n'hésitez pas à utiliser l'un des noms générés ici. Laissez libre cours à votre imagination !",
+        "zh-cn": "当然可以！无论你是写故事、创建游戏角色，还是只是幻想一个猫咪伙伴，都可以随意使用这里生成的任何名字。尽情发挥你的想象力吧！",
+        "ja": "もちろんです！物語を書いている場合でも、ゲームのキャラクターを作成している場合でも、あるいは単に猫の仲間を夢見ている場合でも、ここで生成された名前を自由に使用してください。想像力を羽ばたかせましょう！",
+        "pt": "Absolutamente! Quer você esteja escrevendo uma história, criando um personagem de jogo ou apenas sonhando acordado com um companheiro felino, sinta-se à vontade para usar qualquer um dos nomes gerados aqui. Deixe sua imaginação correr solta!",
+        "ru": "Конечно! Пишете ли вы рассказ, создаете персонажа игры или просто мечтаете о кошачьем компаньоне, не стесняйтесь использовать любое из сгенерированных здесь имен. Дайте волю своему воображению!"
+      }
+    }
+  ]
+}

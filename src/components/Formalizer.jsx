@@ -138,7 +138,7 @@ const DemoSection = ({ lang = 'en' }) => { // Default lang to 'en' if not provid
         setIsCopied(false); // Reset copied state on new generation
 
         try {
-            const response = await fetch('https://ai.ych.show', {
+            const response = await fetch('https://ai.anynote.online', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',

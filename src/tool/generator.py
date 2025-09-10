@@ -13,8 +13,8 @@ def call_openai_api(prompt):
     s.trust_env = True  # 启用环境变量代理
     
     url = "https://openrouter.ai/api/v1/chat/completions"
-    api_key="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"
-    model="google/gemini-2.5-flash-preview"
+    api_key="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"
+    model="google/gemini-2.5-flash"
     
     headers = {
         "Authorization": f"Bearer {api_key}",

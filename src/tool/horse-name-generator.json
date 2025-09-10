@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Horse Name Generator",
+    "ar": "مولد أسماء الخيول",
+    "es": "Generador de Nombres de Caballos",
+    "fr": "Générateur de Noms de Chevaux",
+    "zh-cn": "马匹名称生成器",
+    "ja": "馬名ジェネレーター",
+    "pt": "Gerador de Nomes de Cavalos",
+    "ru": "Генератор Кличек Лошадей"
+  },
+  "description": {
+    "en": "Struggling to find the perfect name for your majestic equine companion? Whether it's for a racehorse, a beloved pony, or a fantasy steed, our Horse Name Generator gallops to the rescue! Unleash a stampede of unique, powerful, and beautiful names that will make your horse stand out in the paddock and on the track.",
+    "ar": "هل تكافح للعثور على الاسم المثالي لرفيقك الخيالي المهيب؟ سواء كان لفرس سباق، أو مهر محبوب، أو جواد خيالي، فإن مولد أسماء الخيول لدينا يهرع لإنقاذك! أطلق العنان لانطلاقة من الأسماء الفريدة والقوية والجميلة التي ستجعل حصانك متميزًا في المرعى وعلى المضمار.",
+    "es": "¿Luchando por encontrar el nombre perfecto para tu majestuoso compañero equino? Ya sea para un caballo de carreras, un poni querido o un corcel de fantasía, ¡nuestro Generador de Nombres de Caballos acude al rescate! Desata una estampida de nombres únicos, poderosos y hermosos que harán que tu caballo destaque en el potrero y en la pista.",
+    "fr": "Vous avez du mal à trouver le nom parfait pour votre majestueux compagnon équin ? Que ce soit pour un cheval de course, un poney adoré ou un destrier fantastique, notre Générateur de Noms de Chevaux galope à la rescousse ! Libérez une avalanche de noms uniques, puissants et magnifiques qui feront ressortir votre cheval dans le paddock et sur la piste.",
+    "zh-cn": "还在为你的骏马寻找完美的名字而苦恼吗？无论是赛马、心爱的矮种马，还是奇幻坐骑，我们的马匹名称生成器都能助你一臂之力！释放一波独特、强大、优美的名字，让你的马在马厩和赛道上脱颖而出。",
+    "ja": "あなたの雄大な馬の相棒にぴったりの名前を見つけるのに苦労していませんか？競走馬、愛されるポニー、あるいはファンタジーの駿馬であろうと、私たちの馬名ジェネレーターが助けに駆けつけます！牧場やトラックであなたの馬を目立たせる、ユニークで力強く、美しい名前の群れを解き放ちましょう。",
+    "pt": "Lutando para encontrar o nome perfeito para seu majestoso companheiro equino? Seja para um cavalo de corrida, um pônei amado ou um corcel de fantasia, nosso Gerador de Nomes de Cavalos galopa para o resgate! Libere uma debandada de nomes únicos, poderosos e bonitos que farão seu cavalo se destacar no piquete e na pista.",
+    "ru": "Ищете идеальное имя для своего величественного коня? Будь то скаковая лошадь, любимый пони или фантастический скакун, наш Генератор Кличек Лошадей придет на помощь! Выпустите поток уникальных, мощных и красивых имен, которые выделят вашу лошадь на пастбище и на ипподроме."
+  },
+  "slug": "horse-name-generator",
+  "prompt": {
+    "en": "Generate a horse name",
+    "ar": "توليد اسم حصان",
+    "es": "Generar un nombre de caballo",
+    "fr": "Générer un nom de cheval",
+    "zh-cn": "生成一个马匹名称",
+    "ja": "馬名を生成する",
+    "pt": "Gerar um nome de cavalo",
+    "ru": "Сгенерировать кличку лошади"
+  },
+  "icon": "🐎",
+  "introduction": {
+    "en": "A horse's name is more than just a label; it's a reflection of their spirit, their lineage, and their potential. From the thunderous hooves of a champion racer to the gentle nuzzle of a therapy horse, the right name can capture their essence. Our generator understands the nuances of equine nomenclature, offering a diverse array of options that range from classic and elegant to whimsical and strong. Prepare to be inspired and find the perfect moniker for your magnificent mount!",
+    "ar": "اسم الحصان هو أكثر من مجرد تسمية؛ إنه انعكاس لروحه، وسلالته، وإمكاناته. من حوافر الفارس البطل الرعدية إلى همسة حصان العلاج اللطيفة، يمكن للاسم الصحيح أن يلتقط جوهره. يفهم مولدنا الفروق الدقيقة في تسمية الخيول، ويقدم مجموعة متنوعة من الخيارات التي تتراوح من الكلاسيكية والأنيقة إلى الغريبة والقوية. استعد للإلهام والعثور على اللقب المثالي لجوادك الرائع!",
+    "es": "El nombre de un caballo es más que una simple etiqueta; es un reflejo de su espíritu, su linaje y su potencial. Desde los cascos atronadores de un campeón de carreras hasta el suave roce de un caballo de terapia, el nombre correcto puede capturar su esencia. Nuestro generador comprende los matices de la nomenclatura equina, ofreciendo una diversa gama de opciones que van desde lo clásico y elegante hasta lo caprichoso y fuerte. ¡Prepárate para inspirarte y encontrar el apodo perfecto para tu magnífico corcel!",
+    "fr": "Le nom d'un cheval est plus qu'une simple étiquette ; c'est le reflet de son esprit, de sa lignée et de son potentiel. Des sabots tonitruants d'un cheval de course champion au doux frottement d'un cheval de thérapie, le bon nom peut capturer son essence. Notre générateur comprend les nuances de la nomenclature équine, offrant un large éventail d'options allant du classique et élégant au fantaisiste et puissant. Préparez-vous à être inspiré et à trouver le surnom parfait pour votre magnifique monture !",
+    "zh-cn": "马匹的名字不仅仅是一个标签；它反映了它们的精神、血统和潜力。从冠军赛马的雷鸣般蹄声到治疗马的温柔轻蹭，一个恰当的名字可以捕捉到它们的精髓。我们的生成器理解马匹命名法的细微差别，提供从经典优雅到异想天开和强劲的各种选项。准备好获得灵感，为你的骏马找到完美的称谓！",
+    "ja": "馬の名前は単なるラベルではありません。それは彼らの精神、血統、そして可能性を反映しています。チャンピオンレーサーの轟く蹄からセラピー馬の優しい鼻づらまで、適切な名前は彼らの本質を捉えることができます。私たちのジェネレーターは、馬の命名法のニュアンスを理解しており、クラシックでエレガントなものから気まぐれで力強いものまで、多様なオプションを提供しています。インスピレーションを得て、あなたの壮大な乗馬にぴったりの名前を見つける準備をしてください！",
+    "pt": "O nome de um cavalo é mais do que apenas um rótulo; é um reflexo de seu espírito, sua linhagem e seu potencial. Desde os cascos estrondosos de um campeão de corridas até o carinho suave de um cavalo de terapia, o nome certo pode capturar sua essência. Nosso gerador compreende as nuances da nomenclatura equina, oferecendo uma gama diversificada de opções que vão do clássico e elegante ao excêntrico e forte. Prepare-se para se inspirar e encontrar o apelido perfeito para sua magnífica montaria!",
+    "ru": "Имя лошади - это больше, чем просто кличка; это отражение ее духа, родословной и потенциала. От громовых копыт чемпиона-скакуна до нежного прикосновения лошади-терапевта, правильное имя может уловить ее сущность. Наш генератор понимает нюансы конной номенклатуры, предлагая разнообразный набор вариантов, от классических и элегантных до причудливых и сильных. Приготовьтесь вдохновиться и найти идеальное прозвище для вашего великолепного скакуна!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button to unleash a stable full of unique horse names.",
+      "Browse through the generated names and imagine them galloping across the fields!",
+      "See a name that makes your heart race? Click to copy it instantly!",
+      "Filter by gender (stallion, mare, gelding) or style (classic, fantasy, powerful) for more tailored results.",
+      "Use your new horse name for registration, stories, games, or simply to admire!"
+    ],
+    "ar": [
+      "انقر على زر 'توليد' لإطلاق مجموعة كاملة من أسماء الخيول الفريدة.",
+      "تصفح الأسماء المولدة وتخيلها وهي تركض عبر الحقول!",
+      "هل رأيت اسمًا يجعل قلبك يتسارع؟ انقر لنسخه على الفور!",
+      "قم بالتصفية حسب الجنس (فحل، فرس، خصي) أو النمط (كلاسيكي، خيالي، قوي) للحصول على نتائج أكثر تخصيصًا.",
+      "استخدم اسم حصانك الجديد للتسجيل أو القصص أو الألعاب أو ببساطة للإعجاب!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' para desatar un establo lleno de nombres de caballos únicos.",
+      "¡Explora los nombres generados e imagínalos galopando por los campos!",
+      "¿Ves un nombre que te acelera el corazón? ¡Haz clic para copiarlo al instante!",
+      "Filtra por género (semental, yegua, castrado) o estilo (clásico, fantasía, poderoso) para obtener resultados más personalizados.",
+      "¡Usa tu nuevo nombre de caballo para registros, historias, juegos o simplemente para admirar!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' pour libérer une écurie pleine de noms de chevaux uniques.",
+      "Parcourez les noms générés et imaginez-les galoper à travers les champs !",
+      "Vous voyez un nom qui fait battre votre cœur ? Cliquez pour le copier instantanément !",
+      "Filtrez par sexe (étalon, jument, hongre) ou style (classique, fantaisie, puissant) pour des résultats plus personnalisés.",
+      "Utilisez votre nouveau nom de cheval pour l'enregistrement, les histoires, les jeux ou simplement pour l'admirer !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮，释放出一厩独特的马匹名称。",
+      "浏览生成的名称，想象它们在田野间驰骋！",
+      "看到一个让你心跳加速的名字了吗？点击即可立即复制！",
+      "按性别（公马、母马、阉马）或风格（经典、奇幻、强大）进行筛选，以获得更符合要求的结果。",
+      "将你的新马匹名称用于注册、故事、游戏，或者仅仅是欣赏！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、ユニークな馬の名前をたくさん生み出しましょう。",
+      "生成された名前を閲覧し、馬たちが野原を駆け巡る姿を想像してください！",
+      "心臓がドキドキするような名前を見つけましたか？クリックするとすぐにコピーできます！",
+      "性別（種牡馬、牝馬、去勢馬）やスタイル（クラシック、ファンタジー、パワフル）で絞り込むと、より目的に合った結果が得られます。",
+      "新しい馬の名前を登録、物語、ゲーム、または単に鑑賞するために使いましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' para liberar um estábulo cheio de nomes de cavalos únicos.",
+      "Navegue pelos nomes gerados e imagine-os galopando pelos campos!",
+      "Viu um nome que faz seu coração disparar? Clique para copiá-lo instantaneamente!",
+      "Filtre por gênero (garanhão, égua, castrado) ou estilo (clássico, fantasia, poderoso) para resultados mais personalizados.",
+      "Use seu novo nome de cavalo para registro, histórias, jogos ou simplesmente para admirar!"
+    ],
+    "ru": [
+      "Нажмите кнопку «Сгенерировать», чтобы выпустить конюшню, полную уникальных кличек лошадей.",
+      "Просмотрите сгенерированные имена и представьте, как они скачут по полям!",
+      "Видите имя, от которого ваше сердце бьется быстрее? Нажмите, чтобы скопировать его мгновенно!",
+      "Отфильтруйте по полу (жеребец, кобыла, мерин) или стилю (классический, фэнтезийный, сильный) для получения более точных результатов.",
+      "Используйте новое имя вашей лошади для регистрации, историй, игр или просто для любования!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Horse Name Generator free to use?",
+        "ar": "هل مولد أسماء الخيول هذا مجاني للاستخدام؟",
+        "es": "¿Es este Generador de Nombres de Caballos de uso gratuito?",
+        "fr": "Ce Générateur de Noms de Chevaux est-il gratuit ?",
+        "zh-cn": "这个马匹名称生成器是免费的吗？",
+        "ja": "この馬名ジェネレーターは無料で利用できますか？",
+        "pt": "Este Gerador de Nomes de Cavalos é gratuito para usar?",
+        "ru": "Этот Генератор Кличек Лошадей бесплатен в использовании?"
+      },
+      "answer": {
+        "en": "Yes, absolutely! Our Horse Name Generator is completely free to use. Generate as many names as you need for your equine friends, without any cost or limitations.",
+        "ar": "نعم، بالتأكيد! مولد أسماء الخيول لدينا مجاني تمامًا للاستخدام. قم بتوليد العديد من الأسماء التي تحتاجها لأصدقائك من الخيول، دون أي تكلفة أو قيود.",
+        "es": "¡Sí, absolutamente! Nuestro Generador de Nombres de Caballos es completamente gratuito. Genera tantos nombres como necesites para tus amigos equinos, sin ningún costo ni limitaciones.",
+        "fr": "Oui, absolument ! Notre Générateur de Noms de Chevaux est entièrement gratuit. Générez autant de noms que vous le souhaitez pour vos amis équins, sans aucun coût ni limitation.",
+        "zh-cn": "是的，完全免费！我们的马匹名称生成器是完全免费使用的。为你的马匹朋友生成任意数量的名字，没有任何费用或限制。",
+        "ja": "はい、もちろんです！私たちの馬名ジェネレーターは完全に無料でご利用いただけます。費用や制限なしに、あなたの馬の友人のために必要なだけ名前を生成してください。",
+        "pt": "Sim, absolutamente! Nosso Gerador de Nomes de Cavalos é totalmente gratuito para usar. Gere quantos nomes precisar para seus amigos equinos, sem nenhum custo ou limitações.",
+        "ru": "Да, абсолютно! Наш Генератор Кличек Лошадей полностью бесплатен в использовании. Генерируйте столько имен, сколько вам нужно для ваших лошадиных друзей, без каких-либо затрат или ограничений."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for real horses, racehorses, or in fiction?",
+        "ar": "هل يمكنني استخدام هذه الأسماء للخيول الحقيقية، خيول السباق، أو في القصص الخيالية؟",
+        "es": "¿Puedo usar estos nombres para caballos reales, caballos de carreras o en ficción?",
+        "fr": "Puis-je utiliser ces noms pour de vrais chevaux, des chevaux de course ou dans la fiction ?",
+        "zh-cn": "我可以将这些名字用于真实的马匹、赛马或虚构作品吗？",
+        "ja": "これらの名前を実際の馬、競走馬、またはフィクションで使用できますか？",
+        "pt": "Posso usar esses nomes para cavalos reais, cavalos de corrida ou em ficção?",
+        "ru": "Могу ли я использовать эти имена для настоящих лошадей, скаковых лошадей или в художественной литературе?"
+      },
+      "answer": {
+        "en": "Yes, you can! The names generated are suitable for a wide range of uses, from naming your real-life companion to creating characters in your fantasy novels or games. While we strive for originality, always check for uniqueness if registering a racehorse or trademarking a name.",
+        "ar": "نعم، يمكنك ذلك! الأسماء المولدة مناسبة لمجموعة واسعة من الاستخدامات، من تسمية رفيقك في الحياة الواقعية إلى إنشاء شخصيات في رواياتك الخيالية أو ألعابك. بينما نسعى جاهدين للأصالة، تحقق دائمًا من التفرد إذا كنت تسجل حصان سباق أو تسجل اسمًا كعلامة تجارية.",
+        "es": "¡Sí, puedes! Los nombres generados son adecuados para una amplia gama de usos, desde nombrar a tu compañero de la vida real hasta crear personajes en tus novelas de fantasía o juegos. Aunque nos esforzamos por la originalidad, siempre verifica la singularidad si vas a registrar un caballo de carreras o una marca.",
+        "fr": "Oui, vous le pouvez ! Les noms générés conviennent à un large éventail d'utilisations, de la dénomination de votre compagnon réel à la création de personnages dans vos romans fantastiques ou vos jeux. Bien que nous nous efforcions d'être originaux, vérifiez toujours l'unicité si vous enregistrez un cheval de course ou déposez un nom.",
+        "zh-cn": "是的，你可以！生成的名称适用于广泛的用途，从给你的真实伙伴命名到在你的奇幻小说或游戏中创建角色。虽然我们力求原创性，但如果你要注册赛马或商标名称，请务必检查其独特性。",
+        "ja": "はい、できます！生成された名前は、実際の馬に名前を付けることから、ファンタジー小説やゲームのキャラクターを作成することまで、幅広い用途に適しています。私たちは独創性を追求していますが、競走馬を登録したり、名前を商標登録したりする場合は、必ず独自性を確認してください。",
+        "pt": "Sim, você pode! Os nomes gerados são adequados para uma ampla gama de usos, desde nomear seu companheiro da vida real até criar personagens em seus romances ou jogos de fantasia. Embora nos esforcemos pela originalidade, sempre verifique a exclusividade se for registrar um cavalo de corrida ou uma marca.",
+        "ru": "Да, можете! Сгенерированные имена подходят для широкого спектра применений, от наименования вашего реального спутника до создания персонажей в ваших фэнтезийных романах или играх. Хотя мы стремимся к оригинальности, всегда проверяйте уникальность, если регистрируете скаковую лошадь или регистрируете имя как торговую марку."
+      }
+    },
+    {
+      "question": {
+        "en": "How many names can I generate at once?",
+        "ar": "كم عدد الأسماء التي يمكنني توليدها دفعة واحدة؟",
+        "es": "¿Cuántos nombres puedo generar a la vez?",
+        "fr": "Combien de noms puis-je générer en une seule fois ?",
+        "zh-cn": "我一次可以生成多少个名字？",
+        "ja": "一度にいくつの名前を生成できますか？",
+        "pt": "Quantos nomes posso gerar de uma vez?",
+        "ru": "Сколько имен я могу сгенерировать за раз?"
+      },
+      "answer": {
+        "en": "Our generator provides a batch of names with each click, allowing you to explore multiple options quickly. You can keep clicking to generate new sets until you find the perfect one.",
+        "ar": "يقدم مولدنا مجموعة من الأسماء مع كل نقرة، مما يتيح لك استكشاف خيارات متعددة بسرعة. يمكنك الاستمرار في النقر لتوليد مجموعات جديدة حتى تجد الاسم المثالي.",
+        "es": "Nuestro generador proporciona un lote de nombres con cada clic, lo que le permite explorar múltiples opciones rápidamente. Puede seguir haciendo clic para generar nuevos conjuntos hasta que encuentre el perfecto.",
+        "fr": "Notre générateur fournit un lot de noms à chaque clic, vous permettant d'explorer rapidement plusieurs options. Vous pouvez continuer à cliquer pour générer de nouveaux ensembles jusqu'à ce que vous trouviez le parfait.",
+        "zh-cn": "我们的生成器每次点击都会提供一批名字，让你快速探索多个选项。你可以持续点击以生成新的组合，直到找到完美的名字。",
+        "ja": "当社のジェネレーターは、クリックするたびに名前のバッチを提供し、複数のオプションをすばやく探索できます。完璧な名前が見つかるまで、クリックし続けて新しいセットを生成できます。",
+        "pt": "Nosso gerador fornece um lote de nomes a cada clique, permitindo que você explore várias opções rapidamente. Você pode continuar clicando para gerar novos conjuntos até encontrar o perfeito.",
+        "ru": "Наш генератор предоставляет партию имен при каждом клике, позволяя вам быстро исследовать несколько вариантов. Вы можете продолжать нажимать, чтобы генерировать новые наборы, пока не найдете идеальный."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names unique?",
+        "ar": "هل الأسماء المولدة فريدة؟",
+        "es": "¿Los nombres generados son únicos?",
+        "fr": "Les noms générés sont-ils uniques ?",
+        "zh-cn": "生成的名称是唯一的吗？",
+        "ja": "生成された名前はユニークですか？",
+        "pt": "Os nomes gerados são únicos?",
+        "ru": "Являются ли сгенерированные имена уникальными?"
+      },
+      "answer": {
+        "en": "We use a sophisticated algorithm to create original and diverse names. While we aim for uniqueness, with the vast number of horses and fictional characters, absolute uniqueness cannot be guaranteed. We recommend performing a quick search if you plan to use the name for official purposes.",
+        "ar": "نحن نستخدم خوارزمية متطورة لإنشاء أسماء أصلية ومتنوعة. بينما نهدف إلى التفرد، مع العدد الهائل من الخيول والشخصيات الخيالية، لا يمكن ضمان التفرد المطلق. نوصي بإجراء بحث سريع إذا كنت تخطط لاستخدام الاسم لأغراض رسمية.",
+        "es": "Utilizamos un algoritmo sofisticado para crear nombres originales y diversos. Si bien buscamos la singularidad, con la gran cantidad de caballos y personajes de ficción, la singularidad absoluta no puede garantizarse. Recomendamos realizar una búsqueda rápida si planea usar el nombre para fines oficiales.",
+        "fr": "Nous utilisons un algorithme sophistiqué pour créer des noms originaux et diversifiés. Bien que nous visions l'unicité, avec le grand nombre de chevaux et de personnages fictifs, l'unicité absolue ne peut être garantie. Nous vous recommandons d'effectuer une recherche rapide si vous prévoyez d'utiliser le nom à des fins officielles.",
+        "zh-cn": "我们使用复杂的算法来创建原创且多样化的名称。虽然我们力求独一无二，但鉴于马匹和虚构角色的数量庞大，无法保证绝对的独一无二性。如果您计划将名称用于官方目的，我们建议您进行快速搜索。",
+        "ja": "当社は洗練されたアルゴリズムを使用して、独創的で多様な名前を作成しています。独自性を目指していますが、膨大な数の馬や架空のキャラクターが存在するため、絶対的な独自性を保証することはできません。公式な目的で名前を使用する場合は、簡単な検索を行うことをお勧めします。",
+        "pt": "Usamos um algoritmo sofisticado para criar nomes originais e diversos. Embora busquemos a exclusividade, com o grande número de cavalos e personagens fictícios, a exclusividade absoluta não pode ser garantida. Recomendamos realizar uma pesquisa rápida se você planeja usar o nome para fins oficiais.",
+        "ru": "Мы используем сложный алгоритм для создания оригинальных и разнообразных имен. Хотя мы стремимся к уникальности, с учетом огромного количества лошадей и вымышленных персонажей, абсолютная уникальность не может быть гарантирована. Мы рекомендуем провести быстрый поиск, если вы планируете использовать имя в официальных целях."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest specific themes or styles for names?",
+        "ar": "هل يمكنني اقتراح مواضيع أو أنماط معينة للأسماء؟",
+        "es": "¿Puedo sugerir temas o estilos específicos para los nombres?",
+        "fr": "Puis-je suggérer des thèmes ou des styles spécifiques pour les noms ?",
+        "zh-cn": "我可以为名称建议特定的主题或风格吗？",
+        "ja": "名前の特定のテーマやスタイルを提案できますか？",
+        "pt": "Posso sugerir temas ou estilos específicos para nomes?",
+        "ru": "Могу ли я предложить конкретные темы или стили для имен?"
+      },
+      "answer": {
+        "en": "We're always looking to improve our generator! While we don't currently offer user-inputted themes directly, we welcome your suggestions through our feedback channels. Your ideas help us expand our database and create even better names in future updates.",
+        "ar": "نحن نسعى دائمًا لتحسين مولدنا! بينما لا نقدم حاليًا مواضيع يدخلها المستخدمون مباشرة، نرحب باقتراحاتكم عبر قنوات الملاحظات لدينا. تساعدنا أفكاركم على توسيع قاعدة بياناتنا وإنشاء أسماء أفضل في التحديثات المستقبلية.",
+        "es": "¡Siempre buscamos mejorar nuestro generador! Aunque actualmente no ofrecemos temas directamente ingresados por el usuario, agradecemos sus sugerencias a través de nuestros canales de comentarios. Sus ideas nos ayudan a expandir nuestra base de datos y crear nombres aún mejores en futuras actualizaciones.",
+        "fr": "Nous cherchons toujours à améliorer notre générateur ! Bien que nous n'offrions pas actuellement de thèmes directement saisis par l'utilisateur, nous accueillons vos suggestions via nos canaux de commentaires. Vos idées nous aident à élargir notre base de données et à créer des noms encore meilleurs dans les futures mises à jour.",
+        "zh-cn": "我们一直在寻求改进我们的生成器！虽然目前我们不直接提供用户输入的主题，但我们欢迎您通过我们的反馈渠道提出建议。您的想法有助于我们扩展数据库并在未来的更新中创建更好的名称。",
+        "ja": "私たちは常にジェネレーターの改善を目指しています！現在、ユーザーが直接入力するテーマは提供していませんが、フィードバックチャンネルを通じてのご提案を歓迎します。皆様のアイデアは、データベースを拡張し、将来のアップデートでさらに良い名前を作成するのに役立ちます。",
+        "pt": "Estamos sempre procurando melhorar nosso gerador! Embora atualmente não ofereçamos temas inseridos diretamente pelo usuário, aceitamos suas sugestões através de nossos canais de feedback. Suas ideias nos ajudam a expandir nosso banco de dados e criar nomes ainda melhores em futuras atualizações.",
+        "ru": "Мы всегда стремимся улучшить наш генератор! Хотя в настоящее время мы не предлагаем прямое введение тем пользователями, мы приветствуем ваши предложения через наши каналы обратной связи. Ваши идеи помогают нам расширять нашу базу данных и создавать еще лучшие имена в будущих обновлениях."
+      }
+    }
+  ]
+}

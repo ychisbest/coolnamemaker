@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Saiyan Name Generator",
+    "ar": "مولد أسماء السايان",
+    "es": "Generador de Nombres Saiyajin",
+    "fr": "Générateur de Noms Saiyan",
+    "zh-cn": "赛亚人名字生成器",
+    "ja": "サイヤ人名ジェネレーター",
+    "pt": "Gerador de Nomes Saiyajin",
+    "ru": "Генератор Сайянских Имен"
+  },
+  "description": {
+    "en": "Ever dreamed of being a powerful Saiyan warrior? Now you can! Our Saiyan Name Generator crafts unique and battle-ready names inspired by the legendary race from Dragon Ball. Get ready to unleash your inner Super Saiyan with a name that strikes fear into Frieza's heart!",
+    "ar": "هل حلمت يومًا بأن تكون محاربًا سايانًا قويًا؟ الآن يمكنك ذلك! يبتكر مولد أسماء السايان لدينا أسماء فريدة وجاهزة للمعركة مستوحاة من العرق الأسطوري من دراغون بول. استعد لإطلاق العنان لسايانك الخارق الداخلي باسم يزرع الخوف في قلب فريزا!",
+    "es": "¿Alguna vez soñaste con ser un poderoso guerrero Saiyajin? ¡Ahora puedes! Nuestro Generador de Nombres Saiyajin crea nombres únicos y listos para la batalla inspirados en la legendaria raza de Dragon Ball. ¡Prepárate para liberar tu Super Saiyajin interior con un nombre que infunda miedo en el corazón de Freezer!",
+    "fr": "Vous avez toujours rêvé d'être un puissant guerrier Saiyan ? Maintenant, c'est possible ! Notre Générateur de Noms Saiyan crée des noms uniques et prêts au combat inspirés de la race légendaire de Dragon Ball. Préparez-vous à libérer votre Super Saiyan intérieur avec un nom qui terrifie Freezer !",
+    "zh-cn": "曾梦想成为强大的赛亚人战士吗？现在你可以了！我们的赛亚人名字生成器能为你创造独特且充满战斗气息的名字，灵感来源于《龙珠》中传奇的赛亚民族。准备好用一个让弗利萨闻风丧胆的名字，释放你内心的超级赛亚人吧！",
+    "ja": "強力なサイヤ人戦士になることを夢見たことはありませんか？今ならそれが可能です！私たちのサイヤ人名ジェネレーターは、ドラゴンボールの伝説的な種族からインスピレーションを得た、ユニークで戦闘準備の整った名前を作成します。フリーザの心に恐怖を植え付ける名前で、あなたの内なる超サイヤ人を解き放つ準備をしてください！",
+    "pt": "Sempre sonhou em ser um poderoso guerreiro Saiyajin? Agora você pode! Nosso Gerador de Nomes Saiyajin cria nomes únicos e prontos para a batalha inspirados na lendária raça de Dragon Ball. Prepare-se para liberar seu Super Saiyajin interior com um nome que infunde medo no coração de Freeza!",
+    "ru": "Вы когда-нибудь мечтали стать могущественным воином-сайяном? Теперь можете! Наш Генератор Сайянских Имен создает уникальные и готовые к битве имена, вдохновленные легендарной расой из Dragon Ball. Приготовьтесь высвободить своего внутреннего Супер Сайяна с именем, которое вселяет страх в сердце Фризы!"
+  },
+  "slug": "saiyan-name-generator",
+  "prompt": {
+    "en": "Generate a Saiyan name",
+    "ar": "إنشاء اسم سايان",
+    "es": "Generar un nombre Saiyajin",
+    "fr": "Générer un nom Saiyan",
+    "zh-cn": "生成一个赛亚人名字",
+    "ja": "サイヤ人名を生成する",
+    "pt": "Gerar um nome Saiyajin",
+    "ru": "Сгенерировать имя Сайяна"
+  },
+  "icon": "💥",
+  "introduction": {
+    "en": "Are you ready to ascend to the next level? Forget your mundane human name! This isn't just any name generator; it's your portal to becoming a true Saiyan legend. Whether you're training in the Hyperbolic Time Chamber, preparing for a Galactic Patrol mission, or just want to impress your friends at the next cosplay event, our generator has the perfect name for your powerful alter ego. Prepare to be amazed by the raw power and subtle vegetable puns embedded in your new Saiyan identity!",
+    "ar": "هل أنت مستعد للصعود إلى المستوى التالي؟ انس اسمك البشري العادي! هذا ليس مجرد مولد أسماء؛ إنه بوابتك لتصبح أسطورة سايان حقيقية. سواء كنت تتدرب في غرفة الزمن المبالغ فيها، أو تستعد لمهمة دورية المجرة، أو تريد فقط إبهار أصدقائك في حدث الكوسبلاي التالي، فإن مولدنا لديه الاسم المثالي لكيانك القوي الآخر. استعد للانبهار بالقوة الخام والتورية الخضروات الدقيقة المضمنة في هويتك السايان الجديدة!",
+    "es": "¿Estás listo para ascender al siguiente nivel? ¡Olvídate de tu mundano nombre humano! Esto no es solo un generador de nombres; es tu portal para convertirte en una verdadera leyenda Saiyajin. Ya sea que estés entrenando en la Cámara del Tiempo Hiperbólica, preparándote para una misión de la Patrulla Galáctica, o simplemente quieras impresionar a tus amigos en el próximo evento de cosplay, nuestro generador tiene el nombre perfecto para tu poderoso alter ego. ¡Prepárate para asombrarte con el poder puro y los sutiles juegos de palabras vegetales incrustados en tu nueva identidad Saiyajin!",
+    "fr": "Êtes-vous prêt à passer au niveau supérieur ? Oubliez votre nom humain banal ! Ce n'est pas n'importe quel générateur de noms ; c'est votre portail pour devenir une véritable légende Saiyan. Que vous vous entraîniez dans la Chambre de l'Esprit et du Temps, que vous vous prépariez pour une mission de la Patrouille Galactique, ou que vous vouliez simplement impressionner vos amis lors du prochain événement cosplay, notre générateur a le nom parfait pour votre puissant alter ego. Préparez-vous à être émerveillé par la puissance brute et les subtils jeux de mots végétaux intégrés à votre nouvelle identité Saiyan !",
+    "zh-cn": "准备好进阶了吗？忘掉你平庸的人类名字吧！这不仅仅是一个名字生成器；它是你成为真正赛亚人传奇的门户。无论你是在精神时光屋中训练，准备银河巡逻任务，还是只想在下一次角色扮演活动中给朋友留下深刻印象，我们的生成器都能为你的强大分身找到完美的名字。准备好被你的新赛亚人身份中蕴含的原始力量和巧妙的蔬菜双关语所震撼吧！",
+    "ja": "次のレベルに到達する準備はできていますか？平凡な人間の名前は忘れましょう！これは単なる名前生成器ではありません。真のサイヤ人伝説になるためのポータルです。精神と時の部屋でトレーニングをしている場合でも、銀河パトロールの任務に備えている場合でも、次のコスプレイベントで友達を感動させたい場合でも、私たちのジェネレーターはあなたの強力な分身にぴったりの名前を提供します。あなたの新しいサイヤ人としてのアイデンティティに埋め込まれた生の力と、微妙な野菜のダジャレに驚く準備をしてください！",
+    "pt": "Você está pronto para ascender ao próximo nível? Esqueça seu nome humano mundano! Este não é apenas um gerador de nomes; é seu portal para se tornar uma verdadeira lenda Saiyajin. Quer você esteja treinando na Câmara do Tempo Hiperbólica, se preparando para uma missão da Patrulha Galáctica, ou apenas queira impressionar seus amigos no próximo evento de cosplay, nosso gerador tem o nome perfeito para seu poderoso alter ego. Prepare-se para se surpreender com o poder puro e os sutis trocadilhos vegetais embutidos em sua nova identidade Saiyajin!",
+    "ru": "Вы готовы подняться на новый уровень? Забудьте свое обыденное человеческое имя! Это не просто генератор имен; это ваш портал к тому, чтобы стать настоящей сайянской легендой. Независимо от того, тренируетесь ли вы в Камере Гиперболического Времени, готовитесь к миссии Галактического Патруля, или просто хотите произвести впечатление на своих друзей на следующем косплей-мероприятии, наш генератор подберет идеальное имя для вашего могущественного альтер-эго. Приготовьтесь поразиться чистой силе и тонким овощным каламбурам, заложенным в вашей новой сайянской личности!"
+  },
+  "howToUse": {
+    "en": [
+      "Channel your inner Saiyan and click the 'Generate' button.",
+      "Witness a barrage of epic Saiyan names appear before your eyes.",
+      "Scroll through the list and feel the power of each name!",
+      "Found a name that makes your ki surge? Copy it!",
+      "Now, go forth and prove your strength with your legendary new Saiyan name!"
+    ],
+    "ar": [
+      "وجه طاقتك السايان الداخلية وانقر على زر 'إنشاء'.",
+      "شاهد وابلًا من أسماء السايان الملحمية تظهر أمام عينيك.",
+      "مرر عبر القائمة واشعر بقوة كل اسم!",
+      "هل وجدت اسمًا يجعل طاقة الكي لديك تتصاعد؟ انسخه!",
+      "والآن، انطلق وأثبت قوتك باسم السايان الأسطوري الجديد!"
+    ],
+    "es": [
+      "Canaliza tu Saiyajin interior y haz clic en el botón 'Generar'.",
+      "Sé testigo de un aluvión de nombres Saiyajin épicos que aparecen ante tus ojos.",
+      "¡Desplázate por la lista y siente el poder de cada nombre!",
+      "¿Encontraste un nombre que hace que tu ki se dispare? ¡Cópialo!",
+      "¡Ahora, ve y demuestra tu fuerza con tu nuevo y legendario nombre Saiyajin!"
+    ],
+    "fr": [
+      "Canalisez votre Saiyan intérieur et cliquez sur le bouton 'Générer'.",
+      "Assistez à un déluge de noms Saiyan épiques apparaître sous vos yeux.",
+      "Faites défiler la liste et ressentez le pouvoir de chaque nom !",
+      "Vous avez trouvé un nom qui fait monter votre ki ? Copiez-le !",
+      "Maintenant, partez et prouvez votre force avec votre nouveau nom Saiyan légendaire !"
+    ],
+    "zh-cn": [
+      "释放你内心的赛亚人力量，然后点击“生成”按钮。",
+      "目睹一系列史诗般的赛亚人名字呈现在你眼前。",
+      "滚动浏览列表，感受每个名字蕴含的力量！",
+      "找到一个让你的气势暴涨的名字了吗？复制它！",
+      "现在，带着你传奇的赛亚人新名字，去证明你的实力吧！"
+    ],
+    "ja": [
+      "内なるサイヤ人を呼び覚まし、「生成」ボタンをクリックしてください。",
+      "目の前に壮大なサイヤ人名の嵐が現れるのを目撃してください。",
+      "リストをスクロールして、それぞれの名前の力を感じてください！",
+      "あなたの気を高める名前を見つけましたか？コピーしましょう！",
+      "さあ、伝説の新しいサイヤ人名であなたの強さを証明しに行きましょう！"
+    ],
+    "pt": [
+      "Canalize seu Saiyajin interior e clique no botão 'Gerar'.",
+      "Testemunhe uma barragem de nomes épicos de Saiyajin aparecer diante de seus olhos.",
+      "Role pela lista e sinta o poder de cada nome!",
+      "Encontrou um nome que faz seu ki aumentar? Copie-o!",
+      "Agora, vá em frente e prove sua força com seu novo e lendário nome Saiyajin!"
+    ],
+    "ru": [
+      "Направьте своего внутреннего Сайяна и нажмите кнопку «Генерировать».",
+      "Станьте свидетелем появления перед вашими глазами шквала эпических сайянских имен.",
+      "Прокрутите список и почувствуйте силу каждого имени!",
+      "Нашли имя, которое заставляет вашу ки вздыматься? Скопируйте его!",
+      "Теперь идите и докажите свою силу с вашим новым легендарным именем Сайяна!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Are these Saiyan names based on actual Dragon Ball characters?",
+        "ar": "هل أسماء السايان هذه مستوحاة من شخصيات دراغون بول الحقيقية؟",
+        "es": "¿Estos nombres Saiyajin se basan en personajes reales de Dragon Ball?",
+        "fr": "Ces noms Saiyan sont-ils basés sur de vrais personnages de Dragon Ball ?",
+        "zh-cn": "这些赛亚人名字是基于《龙珠》中的真实角色吗？",
+        "ja": "これらのサイヤ人名は実際のドラゴンボールのキャラクターに基づいていますか？",
+        "pt": "Esses nomes Saiyajin são baseados em personagens reais de Dragon Ball?",
+        "ru": "Основаны ли эти сайянские имена на реальных персонажах Dragon Ball?"
+      },
+      "answer": {
+        "en": "Our generator is inspired by the naming conventions of Saiyans in Dragon Ball, which often involve vegetable puns (e.g., Kakarot from carrot, Vegeta from vegetable). While the specific names generated are unique, they follow this thematic pattern to give you an authentic Saiyan feel!",
+        "ar": "يستوحي مولدنا الإلهام من اتفاقيات تسمية السايان في دراغون بول، والتي غالبًا ما تتضمن تورية على الخضروات (مثل كاكاروت من جزر، وفيجيتا من خضروات). بينما الأسماء المحددة التي يتم إنشاؤها فريدة، فإنها تتبع هذا النمط الموضوعي لتمنحك شعورًا سايان أصيلًا!",
+        "es": "Nuestro generador se inspira en las convenciones de nombres de los Saiyajin en Dragon Ball, que a menudo implican juegos de palabras con vegetales (por ejemplo, Kakarotto de zanahoria, Vegeta de vegetal). Aunque los nombres específicos generados son únicos, siguen este patrón temático para darte una auténtico toque Saiyajin.",
+        "fr": "Notre générateur s'inspire des conventions de noms des Saiyans dans Dragon Ball, qui impliquent souvent des jeux de mots avec des légumes (par exemple, Kakarot de carotte, Vegeta de légume). Bien que les noms spécifiques générés soient uniques, ils suivent ce modèle thématique pour vous donner une sensation Saiyan authentique !",
+        "zh-cn": "我们的生成器灵感来源于《龙珠》中赛亚人的命名习惯，通常包含蔬菜双关语（例如，卡卡罗特源自胡萝卜，贝吉塔源自蔬菜）。虽然生成的具体名字是独一无二的，但它们遵循这种主题模式，为你提供地道的赛亚人感觉！",
+        "ja": "私たちのジェネレーターは、ドラゴンボールにおけるサイヤ人の命名規則に触発されています。これはしばしば野菜のダジャレ（例：カカロットは人参から、ベジータは野菜から）を含みます。生成される具体的な名前はユニークですが、本格的なサイヤ人の雰囲気を感じさせるためにこのテーマパターンに従っています！",
+        "pt": "Nosso gerador é inspirado nas convenções de nomes dos Saiyajins em Dragon Ball, que frequentemente envolvem trocadilhos com vegetais (por exemplo, Kakarot de cenoura, Vegeta de vegetal). Embora os nomes específicos gerados sejam únicos, eles seguem esse padrão temático para lhe dar uma sensação Saiyajin autêntica!",
+        "ru": "Наш генератор вдохновлен правилами именования сайянов в Dragon Ball, которые часто включают каламбуры с овощами (например, Какарот от моркови, Вегета от овоща). Хотя сгенерированные имена уникальны, они следуют этому тематическому образцу, чтобы дать вам подлинное сайянское ощущение!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my fan fiction or role-playing game?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لقصص المعجبين أو ألعاب لعب الأدوار الخاصة بي؟",
+        "es": "¿Puedo usar estos nombres para mi fan fiction o juego de rol?",
+        "fr": "Puis-je utiliser ces noms pour ma fan fiction ou mon jeu de rôle ?",
+        "zh-cn": "我可以在我的同人小说或角色扮演游戏中使用这些名字吗？",
+        "ja": "これらの名前を私のファンフィクションやロールプレイングゲームで使用できますか？",
+        "pt": "Posso usar esses nomes para minha fan fiction ou jogo de RPG?",
+        "ru": "Могу ли я использовать эти имена для своего фанфика или ролевой игры?"
+      },
+      "answer": {
+        "en": "Absolutely! These names are perfect for enhancing your Dragon Ball-inspired fan works, original characters, or tabletop RPG campaigns. Unleash your creativity and give your characters names worthy of a Saiyan warrior!",
+        "ar": "بالتأكيد! هذه الأسماء مثالية لتعزيز أعمال المعجبين المستوحاة من دراغون بول، أو الشخصيات الأصلية، أو حملات ألعاب الطاولة. أطلق العنان لإبداعك وامنح شخصياتك أسماء تليق بمحارب سايان!",
+        "es": "¡Absolutamente! Estos nombres son perfectos para mejorar tus obras de fans inspiradas en Dragon Ball, personajes originales o campañas de juegos de rol de mesa. ¡Desata tu creatividad y dales a tus personajes nombres dignos de un guerrero Saiyajin!",
+        "fr": "Absolument ! Ces noms sont parfaits pour améliorer vos œuvres de fans inspirées de Dragon Ball, vos personnages originaux ou vos campagnes de jeux de rôle sur table. Libérez votre créativité et donnez à vos personnages des noms dignes d'un guerrier Saiyan !",
+        "zh-cn": "当然可以！这些名字非常适合你的《龙珠》同人作品、原创角色或桌面角色扮演游戏。尽情发挥你的创造力，给你的角色起一个配得上赛亚人战士的名字吧！",
+        "ja": "もちろんです！これらの名前は、ドラゴンボールにインスパイアされたファン作品、オリジナルキャラクター、またはテーブルトークRPGキャンペーンを強化するのに最適です。あなたの創造性を解き放ち、サイヤ人戦士にふさわしい名前をキャラクターに付けてください！",
+        "pt": "Absolutamente! Esses nomes são perfeitos para aprimorar suas obras de fãs inspiradas em Dragon Ball, personagens originais ou campanhas de RPG de mesa. Liberte sua criatividade e dê aos seus personagens nomes dignos de um guerreiro Saiyajin!",
+        "ru": "Абсолютно! Эти имена идеально подходят для улучшения ваших фанатских работ по Dragon Ball, оригинальных персонажей или настольных ролевых кампаний. Развяжите свой творческий потенциал и дайте своим персонажам имена, достойные воина Сайяна!"
+      }
+    },
+    {
+      "question": {
+        "en": "Will my generated name be unique?",
+        "ar": "هل سيكون اسمي الذي تم إنشاؤه فريدًا؟",
+        "es": "¿Será único el nombre que genere?",
+        "fr": "Mon nom généré sera-t-il unique ?",
+        "zh-cn": "我生成的名字会是独一无二的吗？",
+        "ja": "生成された名前はユニークですか？",
+        "pt": "Meu nome gerado será único?",
+        "ru": "Будет ли мое сгенерированное имя уникальным?"
+      },
+      "answer": {
+        "en": "While our generator combines elements to create a vast number of unique possibilities, we cannot guarantee that a specific name has never been generated before or doesn't exist elsewhere. However, the chances of generating the exact same name as someone else are very low!",
+        "ar": "بينما يجمع مولدنا العناصر لإنشاء عدد كبير من الاحتمالات الفريدة، لا يمكننا ضمان أن اسمًا معينًا لم يتم إنشاؤه من قبل أو أنه غير موجود في مكان آخر. ومع ذلك، فإن فرص إنشاء نفس الاسم بالضبط مثل شخص آخر منخفضة جدًا!",
+        "es": "Si bien nuestro generador combina elementos para crear un gran número de posibilidades únicas, no podemos garantizar que un nombre específico nunca antes haya sido generado o no exista en otro lugar. Sin embargo, las posibilidades de generar exactamente el mismo nombre que otra persona son muy bajas.",
+        "fr": "Bien que notre générateur combine des éléments pour créer un grand nombre de possibilités uniques, nous ne pouvons garantir qu'un nom spécifique n'a jamais été généré auparavant ou n'existe pas ailleurs. Cependant, les chances de générer exactement le même nom que quelqu'un d'autre sont très faibles !",
+        "zh-cn": "虽然我们的生成器通过组合元素创造了大量独特的可能性，但我们无法保证某个特定的名字从未被生成过或不存在于其他地方。然而，生成与他人完全相同的名字的几率非常低！",
+        "ja": "私たちのジェネレーターは要素を組み合わせて膨大な数のユニークな可能性を生み出しますが、特定の名前がこれまでに生成されたことがない、または他の場所に存在しないことを保証することはできません。ただし、他の人とまったく同じ名前が生成される可能性は非常に低いです！",
+        "pt": "Embora nosso gerador combine elementos para criar um grande número de possibilidades únicas, não podemos garantir que um nome específico nunca tenha sido gerado antes ou não exista em outro lugar. No entanto, as chances de gerar exatamente o mesmo nome que outra pessoa são muito baixas!",
+        "ru": "Хотя наш генератор комбинирует элементы для создания огромного количества уникальных возможностей, мы не можем гарантировать, что конкретное имя никогда не генерировалось ранее или не существует где-либо еще. Однако шансы сгенерировать точно такое же имя, как у кого-то другого, очень низки!"
+      }
+    },
+    {
+      "question": {
+        "en": "Is this generator free to use?",
+        "ar": "هل هذا المولد مجاني للاستخدام؟",
+        "es": "¿Este generador es de uso gratuito?",
+        "fr": "Ce générateur est-il gratuit ?",
+        "zh-cn": "这个生成器是免费使用的吗？",
+        "ja": "このジェネレーターは無料で使えますか？",
+        "pt": "Este gerador é gratuito para usar?",
+        "ru": "Этот генератор бесплатен?"
+      },
+      "answer": {
+        "en": "Yes, our Saiyan Name Generator is completely free to use! Generate as many names as you like, whenever you like, without any cost. Go on, power up your naming game!",
+        "ar": "نعم، مولد أسماء السايان لدينا مجاني تمامًا للاستخدام! قم بإنشاء العديد من الأسماء كما تريد، وقتما تشاء، دون أي تكلفة. هيا، عزز لعبة التسمية الخاصة بك!",
+        "es": "¡Sí, nuestro Generador de Nombres Saiyajin es completamente gratis de usar! Genera tantos nombres como quieras, cuando quieras, sin ningún costo. ¡Vamos, potencia tu juego de nombres!",
+        "fr": "Oui, notre Générateur de Noms Saiyan est entièrement gratuit ! Générez autant de noms que vous le souhaitez, quand vous le souhaitez, sans aucun coût. Allez-y, dynamisez votre jeu de noms !",
+        "zh-cn": "是的，我们的赛亚人名字生成器完全免费使用！随时随地，想生成多少名字就生成多少，无需任何费用。来吧，提升你的命名水平！",
+        "ja": "はい、私たちのサイヤ人名ジェネレーターは完全に無料です！好きなだけ、好きな時に、費用をかけずに名前を生成してください。さあ、あなたの命名ゲームをパワーアップさせましょう！",
+        "pt": "Sim, nosso Gerador de Nomes Saiyajin é totalmente gratuito para usar! Gere quantos nomes quiser, quando quiser, sem nenhum custo. Vá em frente, aumente o nível do seu jogo de nomes!",
+        "ru": "Да, наш Генератор Сайянских Имен абсолютно бесплатен в использовании! Генерируйте столько имен, сколько захотите, когда захотите, без каких-либо затрат. Вперед, улучшите свою игру в названиях!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest new naming elements or themes?",
+        "ar": "هل يمكنني اقتراح عناصر أو سمات تسمية جديدة؟",
+        "es": "¿Puedo sugerir nuevos elementos o temas de nombres?",
+        "fr": "Puis-je suggérer de nouveaux éléments ou thèmes de noms ?",
+        "zh-cn": "我可以为生成器建议新的命名元素或主题吗？",
+        "ja": "新しい命名要素やテーマを提案できますか？",
+        "pt": "Posso sugerir novos elementos ou temas de nomes?",
+        "ru": "Могу ли я предложить новые элементы или темы для наименования?"
+      },
+      "answer": {
+        "en": "We're always looking to expand our database and improve the generator! If you have cool ideas for new Saiyan-inspired elements or themes, please reach out to us through our feedback channel. Your suggestions could help create even more epic names for future warriors!",
+        "ar": "نسعى دائمًا لتوسيع قاعدة بياناتنا وتحسين المولد! إذا كان لديك أفكار رائعة لعناصر أو سمات جديدة مستوحاة من السايان، فيرجى التواصل معنا عبر قناة الملاحظات الخاصة بنا. قد تساعد اقتراحاتك في إنشاء أسماء أكثر ملحمية للمحاربين المستقبليين!",
+        "es": "¡Siempre estamos buscando expandir nuestra base de datos y mejorar el generador! Si tienes ideas geniales para nuevos elementos o temas inspirados en Saiyajin, por favor contáctanos a través de nuestro canal de comentarios. ¡Tus sugerencias podrían ayudar a crear nombres aún más épicos para futuros guerreros!",
+        "fr": "Nous cherchons toujours à étendre notre base de données et à améliorer le générateur ! Si vous avez de bonnes idées pour de nouveaux éléments ou thèmes inspirés des Saiyan, n'hésitez pas à nous contacter via notre canal de commentaires. Vos suggestions pourraient aider à créer des noms encore plus épiques pour les futurs guerriers !",
+        "zh-cn": "我们一直在努力扩展数据库并改进生成器！如果你有关于新的赛亚人灵感元素或主题的绝妙想法，请通过我们的反馈渠道联系我们。你的建议可能会帮助为未来的战士创造出更史诗般的名字！",
+        "ja": "私たちは常にデータベースを拡張し、ジェネレーターを改善することを目指しています！サイヤ人にインスパイアされた新しい要素やテーマに関する素晴らしいアイデアがあれば、ぜひフィードバックチャンネルを通じてご連絡ください。あなたの提案は、未来の戦士のためにもっと壮大な名前を作成するのに役立つかもしれません！",
+        "pt": "Estamos sempre procurando expandir nosso banco de dados e melhorar o gerador! Se você tiver ideias legais para novos elementos ou temas inspirados em Saiyajin, entre em contato conosco através do nosso canal de feedback. Suas sugestões podem ajudar a criar nomes ainda mais épicos para futuros guerreiros!",
+        "ru": "Мы всегда стремимся расширять нашу базу данных и улучшать генератор! Если у вас есть крутые идеи для новых элементов или тем, вдохновленных Сайянами, пожалуйста, свяжитесь с нами через наш канал обратной связи. Ваши предложения могут помочь создать еще более эпические имена для будущих воинов!"
+      }
+    }
+  ]
+}

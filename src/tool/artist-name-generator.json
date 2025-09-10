@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Artist Name Generator",
+    "ar": "مولد أسماء الفنانين",
+    "es": "Generador de Nombres de Artista",
+    "fr": "Générateur de Noms d'Artiste",
+    "zh-cn": "艺术家名字生成器",
+    "ja": "アーティスト名ジェネレーター",
+    "pt": "Gerador de Nomes de Artista",
+    "ru": "Генератор Имен Артистов"
+  },
+  "description": {
+    "en": "Struggling to find that perfect, memorable stage name or artistic moniker? Our Artist Name Generator is your muse, ready to spark inspiration for musicians, painters, writers, and any creative soul! Get ready to stand out and define your unique artistic identity.",
+    "ar": "هل تكافح للعثور على الاسم المسرحي أو اللقب الفني المثالي الذي لا يُنسى؟ مولد أسماء الفنانين لدينا هو إلهامك، جاهز لإشعال الإلهام للموسيقيين، الرسامين، الكتاب، وأي روح إبداعية! استعد للتميز وتحديد هويتك الفنية الفريدة.",
+    "es": "¿Luchando por encontrar ese nombre artístico o seudónimo perfecto y memorable? ¡Nuestro Generador de Nombres de Artista es tu musa, listo para inspirar a músicos, pintores, escritores y cualquier alma creativa! Prepárate para destacar y definir tu identidad artística única.",
+    "fr": "Vous avez du mal à trouver ce nom de scène ou ce pseudonyme artistique parfait et mémorable? Notre Générateur de Noms d'Artiste est votre muse, prêt à inspirer les musiciens, les peintres, les écrivains et toute âme créative! Préparez-vous à vous démarquer et à définir votre identité artistique unique.",
+    "zh-cn": "还在为寻找那个完美、令人难忘的艺名或艺术别名而苦恼吗？我们的艺术家名字生成器就是你的灵感缪斯，随时准备为音乐家、画家、作家以及任何有创意的灵魂点燃灵感！准备好脱颖而出，定义你独特的艺术身份吧。",
+    "ja": "完璧で記憶に残る芸名やアーティスト名を見つけるのに苦労していませんか？当社のアーティスト名ジェネレーターは、ミュージシャン、画家、作家、そしてあらゆる創造的な魂にインスピレーションを与える準備ができています！際立って、あなた独自の芸術的アイデンティティを確立する準備をしましょう。",
+    "pt": "Lutando para encontrar aquele nome artístico ou pseudônimo perfeito e memorável? Nosso Gerador de Nomes de Artista é sua musa, pronto para inspirar músicos, pintores, escritores e qualquer alma criativa! Prepare-se para se destacar e definir sua identidade artística única.",
+    "ru": "Ищете идеальное, запоминающееся сценическое имя или творческий псевдоним? Наш Генератор Имен Артистов — ваша муза, готовая вдохновить музыкантов, художников, писателей и любую творческую душу! Приготовьтесь выделиться и определить свою уникальную художественную индивидуальность."
+  },
+  "slug": "artist-name-generator",
+  "prompt": {
+    "en": "Generate an artist name",
+    "ar": "قم بإنشاء اسم فنان",
+    "es": "Generar un nombre de artista",
+    "fr": "Générer un nom d'artiste",
+    "zh-cn": "生成一个艺术家名字",
+    "ja": "アーティスト名を生成する",
+    "pt": "Gerar um nome de artista",
+    "ru": "Сгенерировать имя артиста"
+  },
+  "icon": "🎨",
+  "introduction": {
+    "en": "Your art deserves a name that's as captivating as your creations! Whether you're a budding musician, a visual artist seeking a unique signature, a writer crafting compelling stories, or a performer ready for the spotlight, a strong artist name is crucial for building your brand and connecting with your audience. Our generator is designed to help you discover a name that resonates with your artistic vision, stands out in a crowded field, and leaves a lasting impression. Let's find the perfect name to launch your creative journey!",
+    "ar": "فنك يستحق اسمًا جذابًا مثل إبداعاتك! سواء كنت موسيقيًا ناشئًا، أو فنانًا بصريًا يبحث عن توقيع فريد، أو كاتبًا يصوغ قصصًا مقنعة، أو مؤديًا جاهزًا للأضواء، فإن الاسم الفني القوي أمر بالغ الأهمية لبناء علامتك التجارية والتواصل مع جمهورك. تم تصميم مولدنا لمساعدتك في اكتشاف اسم يتوافق مع رؤيتك الفنية، ويبرز في مجال مزدحم، ويترك انطباعًا دائمًا. دعنا نجد الاسم المثالي لإطلاق رحلتك الإبداعية!",
+    "es": "¡Tu arte merece un nombre tan cautivador como tus creaciones! Ya seas un músico en ciernes, un artista visual que busca una firma única, un escritor que elabora historias convincentes o un artista listo para el centro de atención, un nombre de artista sólido es crucial para construir tu marca y conectarte con tu audiencia. Nuestro generador está diseñado para ayudarte a descubrir un nombre que resuene con tu visión artística, se destaque en un campo abarrotado y deje una impresión duradera. ¡Encontremos el nombre perfecto para lanzar tu viaje creativo!",
+    "fr": "Votre art mérite un nom aussi captivant que vos créations! Que vous soyez un musicien en herbe, un artiste visuel cherchant une signature unique, un écrivain créant des histoires captivantes ou un interprète prêt pour les projecteurs, un nom d'artiste fort est crucial pour construire votre marque et vous connecter avec votre public. Notre générateur est conçu pour vous aider à découvrir un nom qui résonne avec votre vision artistique, se démarque dans un domaine encombré et laisse une impression durable. Trouvons le nom parfait pour lancer votre parcours créatif!",
+    "zh-cn": "你的艺术值得一个与你的创作一样引人入胜的名字！无论你是一位崭露头角的音乐家、一位寻求独特签名的视觉艺术家、一位创作引人入胜故事的作家，还是一位准备好登上舞台的表演者，一个响亮的艺名对于建立你的品牌和与观众建立联系都至关重要。我们的生成器旨在帮助你发现一个与你的艺术愿景产生共鸣、在众多同行中脱颖而出并留下深刻印象的名字。让我们找到完美的名称来开启你的创作之旅吧！",
+    "ja": "あなたの作品には、あなたの創造性と同じくらい魅力的な名前がふさわしいです！新進気鋭のミュージシャンであろうと、ユニークなサインを求めるビジュアルアーティストであろうと、説得力のある物語を作る作家であろうと、スポットライトを浴びる準備ができているパフォーマーであろうと、強力なアーティスト名は、あなたのブランドを構築し、聴衆とつながるために不可欠です。私たちのジェネレーターは、あなたの芸術的ビジョンと共鳴し、混雑した分野で際立ち、永続的な印象を残す名前を見つけるのに役立つように設計されています。あなたの創造的な旅を始めるのに最適な名前を見つけましょう！",
+    "pt": "Sua arte merece um nome tão cativante quanto suas criações! Seja você um músico em ascensão, um artista visual em busca de uma assinatura única, um escritor criando histórias convincentes ou um artista pronto para os holofotes, um nome de artista forte é crucial para construir sua marca e se conectar com seu público. Nosso gerador é projetado para ajudá-lo a descobrir um nome que ressoe com sua visão artística, se destaque em um campo lotado e deixe uma impressão duradoura. Vamos encontrar o nome perfeito para lançar sua jornada criativa!",
+    "ru": "Ваше искусство заслуживает имени, столь же увлекательного, как и ваши творения! Будь вы начинающий музыкант, художник, ищущий уникальную подпись, писатель, создающий захватывающие истории, или исполнитель, готовый выйти на сцену, сильное имя артиста имеет решающее значение для создания вашего бренда и связи с вашей аудиторией. Наш генератор разработан, чтобы помочь вам найти имя, которое соответствует вашему художественному видению, выделяется в многолюдной сфере и оставляет неизгладимое впечатление. Давайте найдем идеальное имя, чтобы начать ваше творческое путешествие!"
+  },
+  "howToUse": {
+    "en": [
+      "Tap the 'Generate Name' button to unleash a wave of artistic inspiration.",
+      "Browse through the generated names and see which ones resonate with your creative spirit.",
+      "Found a name that sings to your soul? Click to copy it instantly!",
+      "Consider your art form, genre, and desired vibe to narrow down your choices.",
+      "Use your new artist name to captivate audiences and sign your masterpieces!"
+    ],
+    "ar": [
+      "انقر على زر 'توليد اسم' لإطلاق موجة من الإلهام الفني.",
+      "تصفح الأسماء التي تم إنشاؤها وشاهد أي منها يتردد صداها مع روحك الإبداعية.",
+      "هل وجدت اسمًا يغني لروحك؟ انقر لنسخه على الفور!",
+      "ضع في اعتبارك شكل فنك، ونوعك، والأجواء المرغوبة لتضييق نطاق خياراتك.",
+      "استخدم اسم الفنان الجديد لأسرك الجماهير وتوقيع روائعك!"
+    ],
+    "es": [
+      "Toca el botón 'Generar Nombre' para desatar una ola de inspiración artística.",
+      "Navega por los nombres generados y ve cuáles resuenan con tu espíritu creativo.",
+      "¿Encontraste un nombre que canta a tu alma? ¡Haz clic para copiarlo al instante!",
+      "Considera tu forma de arte, género y ambiente deseado para reducir tus opciones.",
+      "¡Usa tu nuevo nombre de artista para cautivar al público y firmar tus obras maestras!"
+    ],
+    "fr": [
+      "Appuyez sur le bouton 'Générer un nom' pour libérer une vague d'inspiration artistique.",
+      "Parcourez les noms générés et voyez lesquels résonnent avec votre esprit créatif.",
+      "Vous avez trouvé un nom qui chante à votre âme? Cliquez pour le copier instantanément!",
+      "Considérez votre forme d'art, votre genre et l'ambiance souhaitée pour affiner vos choix.",
+      "Utilisez votre nouveau nom d'artiste pour captiver le public et signer vos chefs-d'œuvre!"
+    ],
+    "zh-cn": [
+      "点击“生成名字”按钮，释放艺术灵感的浪潮。",
+      "浏览生成的名称，看看哪些与你的创作精神产生共鸣。",
+      "找到一个让你心动的名字了吗？点击即可立即复制！",
+      "考虑你的艺术形式、流派和所需氛围，以缩小选择范围。",
+      "用你的新艺名去吸引观众，并为你的杰作签名！"
+    ],
+    "ja": [
+      "'名前を生成'ボタンをタップして、芸術的なインスピレーションの波を解き放ちましょう。",
+      "生成された名前を閲覧し、あなたの創造的な精神に響くものを見つけましょう。",
+      "魂に響く名前を見つけましたか？クリックしてすぐにコピーしましょう！",
+      "あなたの芸術形式、ジャンル、そして望む雰囲気を考慮して、選択肢を絞り込みましょう。",
+      "新しいアーティスト名を使って、聴衆を魅了し、あなたの傑作にサインしましょう！"
+    ],
+    "pt": [
+      "Toque no botão 'Gerar Nome' para liberar uma onda de inspiração artística.",
+      "Navegue pelos nomes gerados e veja quais ressoam com seu espírito criativo.",
+      "Encontrou um nome que canta para sua alma? Clique para copiá-lo instantaneamente!",
+      "Considere sua forma de arte, gênero e vibe desejada para restringir suas escolhas.",
+      "Use seu novo nome de artista para cativar o público e assinar suas obras-primas!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Сгенерировать имя', чтобы высвободить волну художественного вдохновения.",
+      "Просмотрите сгенерированные имена и посмотрите, какие из них соответствуют вашему творческому духу.",
+      "Нашли имя, которое поет вашей душе? Нажмите, чтобы скопировать его мгновенно!",
+      "Учитывайте свою форму искусства, жанр и желаемую атмосферу, чтобы сузить выбор.",
+      "Используйте свое новое имя артиста, чтобы очаровывать публику и подписывать свои шедевры!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Artist Name Generator completely free to use?",
+        "ar": "هل مولد أسماء الفنانين هذا مجاني تمامًا للاستخدام؟",
+        "es": "¿Este Generador de Nombres de Artista es completamente gratis?",
+        "fr": "Ce Générateur de Noms d'Artiste est-il entièrement gratuit?",
+        "zh-cn": "这个艺术家名字生成器完全免费吗？",
+        "ja": "このアーティスト名ジェネレーターは完全に無料で使用できますか？",
+        "pt": "Este Gerador de Nomes de Artista é totalmente gratuito?",
+        "ru": "Этот Генератор Имен Артистов полностью бесплатен?"
+      },
+      "answer": {
+        "en": "Yes, absolutely! Our Artist Name Generator is 100% free. We believe creativity should be accessible to everyone, so generate as many names as you need without any cost.",
+        "ar": "نعم، بالتأكيد! مولد أسماء الفنانين لدينا مجاني 100%. نحن نؤمن بأن الإبداع يجب أن يكون متاحًا للجميع، لذا قم بإنشاء أكبر عدد ممكن من الأسماء دون أي تكلفة.",
+        "es": "¡Sí, absolutamente! Nuestro Generador de Nombres de Artista es 100% gratuito. Creemos que la creatividad debe ser accesible para todos, así que genera tantos nombres como necesites sin costo alguno.",
+        "fr": "Oui, absolument! Notre Générateur de Noms d'Artiste est 100% gratuit. Nous pensons que la créativité doit être accessible à tous, alors générez autant de noms que vous le souhaitez sans aucun coût.",
+        "zh-cn": "是的，完全免费！我们的艺术家名字生成器是100%免费的。我们相信创意应该人人可及，所以你可以免费生成任意数量的名字。",
+        "ja": "はい、もちろんです！当社のアーティスト名ジェネレーターは100％無料です。創造性は誰もがアクセスできるものであるべきだと考えているため、費用をかけずに必要なだけ名前を生成してください。",
+        "pt": "Sim, absolutamente! Nosso Gerador de Nomes de Artista é 100% gratuito. Acreditamos que a criatividade deve ser acessível a todos, então gere quantos nomes precisar sem nenhum custo.",
+        "ru": "Да, абсолютно! Наш Генератор Имен Артистов на 100% бесплатен. Мы считаем, что творчество должно быть доступно каждому, поэтому генерируйте столько имен, сколько вам нужно, без каких-либо затрат."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use the generated names for commercial purposes, like branding my music or art?",
+        "ar": "هل يمكنني استخدام الأسماء التي تم إنشاؤها لأغراض تجارية، مثل تسمية الموسيقى أو الفن الخاص بي؟",
+        "es": "¿Puedo usar los nombres generados con fines comerciales, como para la marca de mi música o arte?",
+        "fr": "Puis-je utiliser les noms générés à des fins commerciales, comme pour la marque de ma musique ou de mon art?",
+        "zh-cn": "我可以使用生成的名称进行商业用途吗，例如为我的音乐或艺术作品命名？",
+        "ja": "生成された名前を、自分の音楽やアートのブランディングなどの商業目的で使用できますか？",
+        "pt": "Posso usar os nomes gerados para fins comerciais, como para a marca da minha música ou arte?",
+        "ru": "Могу ли я использовать сгенерированные имена в коммерческих целях, например, для брендинга моей музыки или искусства?"
+      },
+      "answer": {
+        "en": "While our generator provides creative suggestions, we strongly recommend performing your own due diligence (e.g., trademark searches, domain availability) before using any generated name for commercial purposes. We cannot guarantee the uniqueness or legal availability of any name.",
+        "ar": "بينما يوفر مولدنا اقتراحات إبداعية، نوصي بشدة بإجراء العناية الواجبة الخاصة بك (مثل البحث عن العلامات التجارية، وتوفر النطاقات) قبل استخدام أي اسم تم إنشاؤه لأغراض تجارية. لا يمكننا ضمان تفرد أو التوفر القانوني لأي اسم.",
+        "es": "Aunque nuestro generador proporciona sugerencias creativas, recomendamos encarecidamente realizar su propia diligencia debida (por ejemplo, búsquedas de marcas registradas, disponibilidad de dominios) antes de usar cualquier nombre generado con fines comerciales. No podemos garantizar la singularidad o la disponibilidad legal de ningún nombre.",
+        "fr": "Bien que notre générateur fournisse des suggestions créatives, nous vous recommandons fortement d'effectuer votre propre diligence raisonnable (par exemple, recherches de marques, disponibilité de domaines) avant d'utiliser un nom généré à des fins commerciales. Nous ne pouvons garantir l'unicité ou la disponibilité légale d'aucun nom.",
+        "zh-cn": "虽然我们的生成器提供创意建议，但我们强烈建议您在使用任何生成的名称进行商业用途之前，自行进行尽职调查（例如，商标查询、域名可用性）。我们无法保证任何名称的独特性或法律可用性。",
+        "ja": "当社のジェネレーターは創造的な提案を提供しますが、商業目的で生成された名前を使用する前に、ご自身でデューデリジェンス（例：商標検索、ドメインの利用可能性）を行うことを強くお勧めします。当社は、いかなる名前の独自性や法的利用可能性も保証できません。",
+        "pt": "Embora nosso gerador forneça sugestões criativas, recomendamos fortemente que você faça sua própria diligência (por exemplo, pesquisas de marcas registradas, disponibilidade de domínio) antes de usar qualquer nome gerado para fins comerciais. Não podemos garantir a exclusividade ou a disponibilidade legal de nenhum nome.",
+        "ru": "Хотя наш генератор предоставляет творческие предложения, мы настоятельно рекомендуем проводить собственную проверку (например, поиск товарных знаков, доступность доменов) перед использованием любого сгенерированного имени в коммерческих целях. Мы не можем гарантировать уникальность или юридическую доступность любого имени."
+      }
+    },
+    {
+      "question": {
+        "en": "How many names can I generate at once?",
+        "ar": "كم عدد الأسماء التي يمكنني إنشاؤها دفعة واحدة؟",
+        "es": "¿Cuántos nombres puedo generar a la vez?",
+        "fr": "Combien de noms puis-je générer à la fois?",
+        "zh-cn": "我一次可以生成多少个名字？",
+        "ja": "一度にいくつ名前を生成できますか？",
+        "pt": "Quantos nomes posso gerar de uma vez?",
+        "ru": "Сколько имен я могу сгенерировать за один раз?"
+      },
+      "answer": {
+        "en": "Our generator provides a set number of unique names with each click. You can click as many times as you like to explore a wide variety of options until you find the perfect fit for your artistic identity.",
+        "ar": "يوفر مولدنا عددًا محددًا من الأسماء الفريدة مع كل نقرة. يمكنك النقر عدة مرات كما تريد لاستكشاف مجموعة واسعة من الخيارات حتى تجد ما يناسب هويتك الفنية تمامًا.",
+        "es": "Nuestro generador proporciona un número determinado de nombres únicos con cada clic. Puedes hacer clic tantas veces como quieras para explorar una amplia variedad de opciones hasta que encuentres el ajuste perfecto para tu identidad artística.",
+        "fr": "Notre générateur fournit un nombre défini de noms uniques à chaque clic. Vous pouvez cliquer autant de fois que vous le souhaitez pour explorer une grande variété d'options jusqu'à ce que vous trouviez la solution parfaite pour votre identité artistique.",
+        "zh-cn": "我们的生成器每次点击都会提供一组独特的名称。你可以随意点击多次，探索各种各样的选项，直到找到最适合你艺术身份的名字。",
+        "ja": "当社のジェネレーターは、クリックごとに特定の数のユニークな名前を提供します。あなたの芸術的アイデンティティにぴったりの名前が見つかるまで、何度でもクリックして幅広いオプションを探索できます。",
+        "pt": "Nosso gerador fornece um número definido de nomes únicos a cada clique. Você pode clicar quantas vezes quiser para explorar uma ampla variedade de opções até encontrar o ajuste perfeito para sua identidade artística.",
+        "ru": "Наш генератор предоставляет определенное количество уникальных имен при каждом нажатии. Вы можете нажимать столько раз, сколько захотите, чтобы исследовать широкий спектр вариантов, пока не найдете идеальное соответствие для вашей художественной индивидуальности."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names truly unique?",
+        "ar": "هل الأسماء التي تم إنشاؤها فريدة حقًا؟",
+        "es": "¿Los nombres generados son realmente únicos?",
+        "fr": "Les noms générés sont-ils vraiment uniques?",
+        "zh-cn": "生成的名称真的独一无二吗？",
+        "ja": "生成された名前は本当にユニークですか？",
+        "pt": "Os nomes gerados são realmente únicos?",
+        "ru": "Действительно ли сгенерированные имена уникальны?"
+      },
+      "answer": {
+        "en": "Our generator combines various elements to create a wide array of original names. While we strive for uniqueness, the vastness of existing names makes absolute originality impossible to guarantee. We recommend checking for existing uses of any name you consider.",
+        "ar": "يجمع مولدنا بين عناصر مختلفة لإنشاء مجموعة واسعة من الأسماء الأصلية. بينما نسعى جاهدين لتحقيق التفرد، فإن اتساع الأسماء الموجودة يجعل ضمان الأصالة المطلقة أمرًا مستحيلًا. نوصي بالتحقق من الاستخدامات الموجودة لأي اسم تفكر فيه.",
+        "es": "Nuestro generador combina varios elementos para crear una amplia gama de nombres originales. Si bien nos esforzamos por la singularidad, la vastedad de los nombres existentes hace imposible garantizar la originalidad absoluta. Recomendamos verificar los usos existentes de cualquier nombre que considere.",
+        "fr": "Notre générateur combine divers éléments pour créer un large éventail de noms originaux. Bien que nous nous efforcions d'être uniques, l'immensité des noms existants rend impossible de garantir l'originalité absolue. Nous vous recommandons de vérifier les utilisations existantes de tout nom que vous envisagez.",
+        "zh-cn": "我们的生成器结合了各种元素，以创建各种原创名称。虽然我们力求独特性，但现有名称的庞大数量使得绝对原创性无法保证。我们建议您检查任何您考虑使用的名称是否存在现有用途。",
+        "ja": "当社のジェネレーターは、さまざまな要素を組み合わせて、幅広いオリジナル名を作成します。独自性を追求していますが、既存の名前の膨大さから、絶対的な独自性を保証することは不可能です。検討する名前の既存の使用状況を確認することをお勧めします。",
+        "pt": "Nosso gerador combina vários elementos para criar uma ampla gama de nomes originais. Embora nos esforcemos pela exclusividade, a vastidão dos nomes existentes torna impossível garantir a originalidade absoluta. Recomendamos verificar os usos existentes de qualquer nome que você considerar.",
+        "ru": "Наш генератор объединяет различные элементы для создания широкого спектра оригинальных имен. Хотя мы стремимся к уникальности, обширность существующих имен делает абсолютную оригинальность невозможной. Мы рекомендуем проверять существующее использование любого имени, которое вы рассматриваете."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest specific themes or keywords for the generator?",
+        "ar": "هل يمكنني اقتراح مواضيع أو كلمات رئيسية محددة للمولد؟",
+        "es": "¿Puedo sugerir temas o palabras clave específicas para el generador?",
+        "fr": "Puis-je suggérer des thèmes ou des mots-clés spécifiques pour le générateur?",
+        "zh-cn": "我可以为生成器建议特定的主题或关键词吗？",
+        "ja": "ジェネレーターに特定のテーマやキーワードを提案できますか？",
+        "pt": "Posso sugerir temas ou palavras-chave específicas para o gerador?",
+        "ru": "Могу ли я предложить конкретные темы или ключевые слова для генератора?"
+      },
+      "answer": {
+        "en": "Currently, our generator provides a broad range of names without specific keyword input. However, we are always looking to improve! Feel free to send us your suggestions through our feedback channel, as your ideas help us evolve.",
+        "ar": "حاليًا، يوفر مولدنا مجموعة واسعة من الأسماء دون إدخال كلمات رئيسية محددة. ومع ذلك، نحن نسعى دائمًا للتحسين! لا تتردد في إرسال اقتراحاتك إلينا عبر قناة ملاحظاتنا، حيث تساعدنا أفكارك على التطور.",
+        "es": "Actualmente, nuestro generador proporciona una amplia gama de nombres sin entrada de palabras clave específicas. Sin embargo, ¡siempre estamos buscando mejorar! No dudes en enviarnos tus sugerencias a través de nuestro canal de comentarios, ya que tus ideas nos ayudan a evolucionar.",
+        "fr": "Actuellement, notre générateur propose une large gamme de noms sans saisie de mots-clés spécifiques. Cependant, nous cherchons toujours à nous améliorer ! N'hésitez pas à nous envoyer vos suggestions via notre canal de commentaires, car vos idées nous aident à évoluer.",
+        "zh-cn": "目前，我们的生成器提供广泛的名称，不接受特定关键词输入。但是，我们一直在寻求改进！欢迎通过我们的反馈渠道向我们发送您的建议，您的想法有助于我们不断发展。",
+        "ja": "現在、当社のジェネレーターは特定のキーワード入力なしで幅広い名前を提供しています。しかし、私たちは常に改善を目指しています！あなたのアイデアは私たちの進化に役立つため、フィードバックチャンネルを通じてご提案をお寄せください。",
+        "pt": "Atualmente, nosso gerador fornece uma ampla gama de nomes sem entrada de palavras-chave específicas. No entanto, estamos sempre buscando melhorar! Sinta-se à vontade para nos enviar suas sugestões através do nosso canal de feedback, pois suas ideias nos ajudam a evoluir.",
+        "ru": "В настоящее время наш генератор предоставляет широкий спектр имен без ввода конкретных ключевых слов. Однако мы всегда стремимся к совершенствованию! Не стесняйтесь присылать нам свои предложения через наш канал обратной связи, так как ваши идеи помогают нам развиваться."
+      }
+    }
+  ]
+}

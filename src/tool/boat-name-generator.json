@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Boat Name Generator",
+    "ar": "مولد أسماء القوارب",
+    "es": "Generador de Nombres de Barcos",
+    "fr": "Générateur de Noms de Bateaux",
+    "zh-cn": "船名生成器",
+    "ja": "ボート名ジェネレーター",
+    "pt": "Gerador de Nomes de Barcos",
+    "ru": "Генератор Названий Лодок"
+  },
+  "description": {
+    "en": "Ready to set sail but stuck on a name that truly captures your vessel's spirit? Our Boat Name Generator is your ultimate compass to navigate the sea of endless possibilities! From witty and charming to majestic and powerful, find the perfect name that makes your boat stand out from the fleet.",
+    "ar": "هل أنت مستعد للإبحار ولكنك عالق في اختيار اسم يعكس حقًا روح سفينتك؟ مولد أسماء القوارب لدينا هو بوصلتك النهائية للتنقل في بحر الاحتمالات اللانهائية! من الأسماء الذكية والساحرة إلى المهيبة والقوية، ابحث عن الاسم المثالي الذي يجعل قاربك يبرز من الأسطول.",
+    "es": "¿Listo para zarpar pero atascado con un nombre que realmente capture el espíritu de tu embarcación? ¡Nuestro Generador de Nombres de Barcos es tu brújula definitiva para navegar el mar de infinitas posibilidades! Desde ingenioso y encantador hasta majestuoso y poderoso, encuentra el nombre perfecto que haga que tu barco destaque de la flota.",
+    "fr": "Prêt à prendre le large mais bloqué sur un nom qui capture vraiment l'esprit de votre navire? Notre Générateur de Noms de Bateaux est votre boussole ultime pour naviguer dans la mer des possibilités infinies! De l'ingénieux et charmant au majestueux et puissant, trouvez le nom parfait qui fera ressortir votre bateau de la flotte.",
+    "zh-cn": "准备好扬帆起航，却苦于没有一个能真正捕捉你船只精神的名字？我们的船名生成器是你航行于无限可能性海洋的终极指南针！从机智迷人到庄严强大，找到那个让你的船在舰队中脱颖而出的完美名字。",
+    "ja": "出航準備はできたけれど、船の精神を真に捉える名前に悩んでいますか？私たちのボート名ジェネレーターは、無限の可能性の海を航海するための究極の羅針盤です！機知に富んだ魅力的なものから、荘厳で力強いものまで、あなたのボートを艦隊から際立たせる完璧な名前を見つけてください。",
+    "pt": "Pronto para zarpar, mas preso em um nome que realmente capture o espírito da sua embarcação? Nosso Gerador de Nomes de Barcos é sua bússola definitiva para navegar no mar de infinitas possibilidades! De espirituoso e charmoso a majestoso e poderoso, encontre o nome perfeito que faça seu barco se destacar da frota.",
+    "ru": "Готовы отправиться в плавание, но застряли в поиске имени, которое действительно отражает дух вашего судна? Наш Генератор Названий Лодок — ваш идеальный компас для навигации по морю бесконечных возможностей! От остроумных и очаровательных до величественных и мощных — найдите идеальное имя, которое выделит вашу лодку среди флота."
+  },
+  "slug": "boat-name-generator",
+  "prompt": {
+    "en": "Generate a boat name",
+    "ar": "قم بإنشاء اسم قارب",
+    "es": "Generar un nombre de barco",
+    "fr": "Générer un nom de bateau",
+    "zh-cn": "生成一个船名",
+    "ja": "ボート名を生成する",
+    "pt": "Gerar um nome de barco",
+    "ru": "Сгенерировать название лодки"
+  },
+  "icon": "⛵",
+  "introduction": {
+    "en": "A boat's name is more than just a label; it's a reflection of its owner, its adventures, and the tales it will tell. Whether you're christening a grand yacht, a trusty fishing skiff, or a nimble kayak, the right name can infuse your vessel with personality and luck. Dive into our generator and discover names that evoke the ocean's majesty, the thrill of discovery, or the simple joy of being on the water. Your perfect maritime moniker awaits!",
+    "ar": "اسم القارب ليس مجرد تسمية؛ إنه انعكاس لمالكه، ومغامراته، والقصص التي سيرويها. سواء كنت تسمي يختًا فخمًا، أو قارب صيد موثوقًا، أو قارب كاياك رشيق، فإن الاسم الصحيح يمكن أن يضفي على سفينتك شخصية وحظًا. انغمس في مولدنا واكتشف أسماء تستحضر عظمة المحيط، أو إثارة الاكتشاف، أو الفرح البسيط بالتواجد على الماء. اسمك البحري المثالي في انتظارك!",
+    "es": "El nombre de un barco es más que una etiqueta; es un reflejo de su dueño, sus aventuras y las historias que contará. Ya sea que estés bautizando un gran yate, una confiable lancha de pesca o un ágil kayak, el nombre correcto puede infundir a tu embarcación personalidad y suerte. Sumérgete en nuestro generador y descubre nombres que evoquen la majestuosidad del océano, la emoción del descubrimiento o la simple alegría de estar en el agua. ¡Tu apodo marítimo perfecto te espera!",
+    "fr": "Le nom d'un bateau est plus qu'une simple étiquette; c'est le reflet de son propriétaire, de ses aventures et des histoires qu'il racontera. Que vous baptisiez un grand yacht, un fidèle esquif de pêche ou un kayak agile, le bon nom peut insuffler à votre navire personnalité et chance. Plongez dans notre générateur et découvrez des noms qui évoquent la majesté de l'océan, le frisson de la découverte, ou la simple joie d'être sur l'eau. Votre surnom maritime parfait vous attend!",
+    "zh-cn": "船名不仅仅是一个标签；它反映着船主、船只的冒险经历以及它将讲述的故事。无论是为一艘宏伟的游艇、一艘可靠的渔船，还是一艘灵活的皮划艇命名，一个好名字都能为你的船只注入个性和好运。潜入我们的生成器，发现那些能唤起海洋的庄严、发现的刺激，或仅仅是在水上的简单乐趣的名称。你的完美航海绰号正在等待！",
+    "ja": "ボートの名前は単なるラベル以上のものです。それは所有者、その冒険、そして語られる物語を反映しています。壮大なヨット、信頼できる漁船、あるいは軽快なカヤックを命名する場合でも、適切な名前はあなたの船に個性と幸運を吹き込むことができます。私たちのジェネレーターに飛び込み、海の威厳、発見のスリル、あるいは水上にいることの単純な喜びを呼び起こす名前を見つけてください。あなたの完璧な海洋のニックネームがあなたを待っています！",
+    "pt": "O nome de um barco é mais do que apenas um rótulo; é um reflexo de seu proprietário, suas aventuras e as histórias que ele contará. Quer esteja batizando um grande iate, um confiável barco de pesca ou um caiaque ágil, o nome certo pode infundir sua embarcação com personalidade e sorte. Mergulhe em nosso gerador e descubra nomes que evocam a majestade do oceano, a emoção da descoberta ou a simples alegria de estar na água. Seu apelido marítimo perfeito aguarda!",
+    "ru": "Имя лодки — это больше, чем просто ярлык; это отражение ее владельца, ее приключений и историй, которые она расскажет. Независимо от того, крестите ли вы большую яхту, надежный рыболовный скиф или проворный каяк, правильное имя может придать вашему судну индивидуальность и удачу. Погрузитесь в наш генератор и откройте для себя имена, которые вызывают величие океана, острые ощущения от открытий или простую радость пребывания на воде. Ваше идеальное морское прозвище ждет!"
+  },
+  "howToUse": {
+    "en": [
+      "Drop anchor and click the 'Generate' button.",
+      "Watch as a wave of unique boat names appears.",
+      "Scroll through the list and let your imagination set sail!",
+      "Found a name that floats your boat? Copy it!",
+      "Now, go forth and christen your vessel with a name worthy of the high seas!"
+    ],
+    "ar": [
+      "ألقِ المرساة وانقر على زر 'إنشاء'.",
+      "شاهد كيف تظهر موجة من أسماء القوارب الفريدة.",
+      "تصفح القائمة ودع خيالك يبحر!",
+      "هل وجدت اسمًا يعجبك؟ انسخه!",
+      "الآن، انطلق وسمّ سفينتك باسم يليق بالبحار العالية!"
+    ],
+    "es": [
+      "¡Echa el ancla y haz clic en el botón 'Generar'!",
+      "Observa cómo aparece una ola de nombres de barcos únicos.",
+      "¡Desplázate por la lista y deja que tu imaginación zarpe!",
+      "¿Encontraste un nombre que te gusta? ¡Cópialo!",
+      "¡Ahora, ve y bautiza tu embarcación con un nombre digno de alta mar!"
+    ],
+    "fr": [
+      "Jetez l'ancre et cliquez sur le bouton 'Générer'.",
+      "Regardez une vague de noms de bateaux uniques apparaître.",
+      "Faites défiler la liste et laissez votre imagination prendre le large !",
+      "Vous avez trouvé un nom qui vous plaît ? Copiez-le !",
+      "Maintenant, allez et baptisez votre navire avec un nom digne de la haute mer !"
+    ],
+    "zh-cn": [
+      "抛锚并点击“生成”按钮。",
+      "看着一波独特的船名出现。",
+      "滚动列表，让你的想象力扬帆起航！",
+      "找到一个让你心动的名字了吗？复制它！",
+      "现在，去为你的船只命名一个配得上远洋航行的名字吧！"
+    ],
+    "ja": [
+      "錨を下ろして「生成」ボタンをクリックしてください。",
+      "ユニークなボート名の波が現れるのを見てください。",
+      "リストをスクロールして、想像力を航海させましょう！",
+      "気に入った名前が見つかりましたか？コピーしてください！",
+      "さあ、あなたの船に大海原にふさわしい名前を付けて出航しましょう！"
+    ],
+    "pt": [
+      "Lance a âncora e clique no botão 'Gerar'.",
+      "Observe uma onda de nomes de barcos únicos aparecer.",
+      "Role a lista e deixe sua imaginação zarpar!",
+      "Encontrou um nome que te agrada? Copie-o!",
+      "Agora, vá em frente e batize sua embarcação com um nome digno dos mares!"
+    ],
+    "ru": [
+      "Бросьте якорь и нажмите кнопку 'Сгенерировать'.",
+      "Наблюдайте, как появляется волна уникальных названий лодок.",
+      "Прокрутите список и дайте волю своему воображению!",
+      "Нашли имя, которое вам по душе? Скопируйте его!",
+      "Теперь идите и назовите свое судно именем, достойным открытого моря!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Boat Name Generator free to use?",
+        "ar": "هل مولد أسماء القوارب هذا مجاني للاستخدام؟",
+        "es": "¿Es este Generador de Nombres de Barcos de uso gratuito?",
+        "fr": "Ce Générateur de Noms de Bateaux est-il gratuit ?",
+        "zh-cn": "这个船名生成器是免费的吗？",
+        "ja": "このボート名ジェネレーターは無料で利用できますか？",
+        "pt": "Este Gerador de Nomes de Barcos é gratuito para usar?",
+        "ru": "Этот Генератор Названий Лодок бесплатен?"
+      },
+      "answer": {
+        "en": "Aye, captain! Our Boat Name Generator is completely free. We believe every vessel, big or small, deserves a fantastic name without breaking the bank. So, generate away!",
+        "ar": "نعم، أيها القبطان! مولد أسماء القوارب لدينا مجاني تمامًا. نعتقد أن كل سفينة، كبيرة كانت أم صغيرة، تستحق اسمًا رائعًا دون إفراغ الجيب. لذا، انطلق في التوليد!",
+        "es": "¡Sí, capitán! Nuestro Generador de Nombres de Barcos es completamente gratuito. Creemos que cada embarcación, grande o pequeña, merece un nombre fantástico sin arruinarse. ¡Así que, a generar!",
+        "fr": "Oui, capitaine ! Notre Générateur de Noms de Bateaux est entièrement gratuit. Nous pensons que chaque navire, grand ou petit, mérite un nom fantastique sans se ruiner. Alors, générez à volonté !",
+        "zh-cn": "是的，船长！我们的船名生成器完全免费。我们相信每艘船，无论大小，都值得拥有一个绝妙的名字，而且无需花费一分钱。所以，尽情生成吧！",
+        "ja": "はい、船長！私たちのボート名ジェネレーターは完全に無料です。大小にかかわらず、すべての船が素晴らしい名前を持つべきだと信じています。さあ、どんどん生成してください！",
+        "pt": "Sim, capitão! Nosso Gerador de Nomes de Barcos é totalmente gratuito. Acreditamos que toda embarcação, grande ou pequena, merece um nome fantástico sem gastar uma fortuna. Então, gere à vontade!",
+        "ru": "Да, капитан! Наш Генератор Названий Лодок абсолютно бесплатен. Мы считаем, что каждое судно, большое или маленькое, заслуживает фантастического имени без необходимости тратить целое состояние. Так что генерируйте на здоровье!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for a commercial boat or business?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لقارب تجاري أو عمل تجاري؟",
+        "es": "¿Puedo usar estos nombres para un barco comercial o negocio?",
+        "fr": "Puis-je utiliser ces noms pour un bateau commercial ou une entreprise ?",
+        "zh-cn": "我可以将这些名称用于商业船只或商业用途吗？",
+        "ja": "これらの名前を商用ボートやビジネスに使用できますか？",
+        "pt": "Posso usar esses nomes para um barco comercial ou negócio?",
+        "ru": "Могу ли я использовать эти названия для коммерческой лодки или бизнеса?"
+      },
+      "answer": {
+        "en": "While the names generated are free for personal use, for commercial applications, we highly recommend conducting a thorough trademark search to ensure the name is available and doesn't infringe on existing rights. Better safe than sorry on the open water!",
+        "ar": "بينما الأسماء التي تم إنشاؤها مجانية للاستخدام الشخصي، للتطبيقات التجارية، نوصي بشدة بإجراء بحث شامل عن العلامات التجارية للتأكد من أن الاسم متاح ولا ينتهك أي حقوق قائمة. الوقاية خير من العلاج في المياه المفتوحة!",
+        "es": "Si bien los nombres generados son gratuitos para uso personal, para aplicaciones comerciales, recomendamos encarecidamente realizar una búsqueda exhaustiva de marcas registradas para asegurar que el nombre esté disponible y no infrinja derechos existentes. ¡Más vale prevenir que lamentar en aguas abiertas!",
+        "fr": "Bien que les noms générés soient gratuits pour un usage personnel, pour les applications commerciales, nous vous recommandons fortement d'effectuer une recherche approfondie de marques déposées pour vous assurer que le nom est disponible et ne porte pas atteinte aux droits existants. Mieux vaut prévenir que guérir en pleine mer !",
+        "zh-cn": "虽然生成的名称可免费用于个人用途，但对于商业应用，我们强烈建议进行彻底的商标搜索，以确保该名称可用且不侵犯现有权利。在大海上，宁可谨慎行事！",
+        "ja": "生成された名前は個人利用には無料ですが、商業利用の場合は、名前が利用可能であり、既存の権利を侵害しないことを確認するために、徹底的な商標調査を行うことを強くお勧めします。公海では、後悔するよりも安全な方が良いです！",
+        "pt": "Embora os nomes gerados sejam gratuitos para uso pessoal, para aplicações comerciais, recomendamos vivamente a realização de uma pesquisa exaustiva de marcas registadas para garantir que o nome está disponível e não infringe direitos existentes. Mais vale prevenir do que remediar em águas abertas!",
+        "ru": "Хотя сгенерированные имена бесплатны для личного использования, для коммерческих целей мы настоятельно рекомендуем провести тщательный поиск по товарным знакам, чтобы убедиться, что имя доступно и не нарушает существующие права. Лучше перестраховаться, чем потом жалеть в открытом море!"
+      }
+    },
+    {
+      "question": {
+        "en": "How many boat names can I generate?",
+        "ar": "كم عدد أسماء القوارب التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres de barcos puedo generar?",
+        "fr": "Combien de noms de bateaux puis-je générer ?",
+        "zh-cn": "我可以生成多少个船名？",
+        "ja": "いくつのボート名を生成できますか？",
+        "pt": "Quantos nomes de barcos posso gerar?",
+        "ru": "Сколько названий лодок я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "Sail away with as many names as you need! There's no limit to the number of unique boat names you can generate. Keep clicking until you find the perfect one that makes waves!",
+        "ar": "أبحر مع أكبر عدد ممكن من الأسماء التي تحتاجها! لا يوجد حد لعدد أسماء القوارب الفريدة التي يمكنك إنشاؤها. استمر في النقر حتى تجد الاسم المثالي الذي يثير الأمواج!",
+        "es": "¡Zarpa con tantos nombres como necesites! No hay límite en la cantidad de nombres de barcos únicos que puedes generar. ¡Sigue haciendo clic hasta que encuentres el perfecto que cause sensación!",
+        "fr": "Naviguez avec autant de noms que vous le souhaitez ! Il n'y a pas de limite au nombre de noms de bateaux uniques que vous pouvez générer. Continuez à cliquer jusqu'à ce que vous trouviez celui qui fera des vagues !",
+        "zh-cn": "你想要多少个名字都可以！你可以生成无限数量的独特船名。不断点击，直到找到那个能掀起波澜的完美名字！",
+        "ja": "必要なだけ名前を生成できます！生成できるユニークなボート名の数に制限はありません。波を起こす完璧な名前が見つかるまで、クリックし続けてください！",
+        "pt": "Navegue com quantos nomes precisar! Não há limite para o número de nomes de barcos únicos que você pode gerar. Continue clicando até encontrar o perfeito que faça ondas!",
+        "ru": "Генерируйте столько имен, сколько вам нужно! Количество уникальных названий лодок, которые вы можете сгенерировать, не ограничено. Продолжайте нажимать, пока не найдете идеальное, которое произведет фурор!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names truly unique?",
+        "ar": "هل الأسماء التي تم إنشاؤها فريدة حقًا؟",
+        "es": "¿Los nombres generados son realmente únicos?",
+        "fr": "Les noms générés sont-ils vraiment uniques ?",
+        "zh-cn": "生成的名称真的独特吗？",
+        "ja": "生成された名前は本当にユニークですか？",
+        "pt": "Os nomes gerados são realmente únicos?",
+        "ru": "Действительно ли сгенерированные имена уникальны?"
+      },
+      "answer": {
+        "en": "Our generator combines various elements to create a wide array of original names. While we strive for uniqueness, with millions of boats worldwide, absolute originality cannot be guaranteed without a personal check against official registries. Always verify your chosen name!",
+        "ar": "يجمع مولدنا بين عناصر مختلفة لإنشاء مجموعة واسعة من الأسماء الأصلية. بينما نسعى جاهدين للتميز، ومع وجود ملايين القوارب حول العالم، لا يمكن ضمان الأصالة المطلقة بدون فحص شخصي مقابل السجلات الرسمية. تحقق دائمًا من اسمك المختار!",
+        "es": "Nuestro generador combina varios elementos para crear una amplia gama de nombres originales. Si bien nos esforzamos por la singularidad, con millones de barcos en todo el mundo, la originalidad absoluta no puede garantizarse sin una verificación personal contra los registros oficiales. ¡Siempre verifica el nombre elegido!",
+        "fr": "Notre générateur combine divers éléments pour créer un large éventail de noms originaux. Bien que nous nous efforcions d'être uniques, avec des millions de bateaux dans le monde, l'originalité absolue ne peut être garantie sans une vérification personnelle auprès des registres officiels. Vérifiez toujours le nom choisi !",
+        "zh-cn": "我们的生成器结合了各种元素，以创建广泛的原创名称。虽然我们力求独特性，但全球有数百万艘船只，如果没有对照官方注册进行个人核查，无法保证绝对的原创性。请务必核实您选择的名称！",
+        "ja": "私たちのジェネレーターは、さまざまな要素を組み合わせて、幅広いオリジナル名を作成します。ユニークさを追求していますが、世界中に何百万ものボートがあるため、公式登録簿と照合して個人的に確認しない限り、絶対的な独創性を保証することはできません。常に選択した名前を確認してください！",
+        "pt": "Nosso gerador combina vários elementos para criar uma ampla gama de nomes originais. Embora nos esforcemos pela singularidade, com milhões de barcos em todo o mundo, a originalidade absoluta não pode ser garantida sem uma verificação pessoal em relação aos registros oficiais. Sempre verifique o nome escolhido!",
+        "ru": "Наш генератор сочетает различные элементы для создания широкого спектра оригинальных имен. Хотя мы стремимся к уникальности, при миллионах лодок по всему миру абсолютная оригинальность не может быть гарантирована без личной проверки по официальным реестрам. Всегда проверяйте выбранное имя!"
+      }
+    },
+    {
+      "question": {
+        "en": "What kind of boat names does it generate?",
+        "ar": "ما نوع أسماء القوارب التي يولدها؟",
+        "es": "¿Qué tipo de nombres de barcos genera?",
+        "fr": "Quel type de noms de bateaux génère-t-il ?",
+        "zh-cn": "它会生成什么样的船名？",
+        "ja": "どのようなボート名を生成しますか？",
+        "pt": "Que tipo de nomes de barcos ele gera?",
+        "ru": "Какие названия лодок он генерирует?"
+      },
+      "answer": {
+        "en": "Our generator casts a wide net! You'll find names that are classic, funny, adventurous, serene, powerful, and many more. Whether you're after something traditional or a truly creative catch, there's a name here for every type of boat and owner.",
+        "ar": "مولدنا يلقي شبكة واسعة! ستجد أسماء كلاسيكية، مضحكة، مغامرة، هادئة، قوية، وغيرها الكثير. سواء كنت تبحث عن شيء تقليدي أو صيد إبداعي حقًا، يوجد هنا اسم لكل نوع من أنواع القوارب والمالكين.",
+        "es": "¡Nuestro generador lanza una amplia red! Encontrarás nombres clásicos, divertidos, aventureros, serenos, poderosos y muchos más. Ya sea que busques algo tradicional o una captura verdaderamente creativa, aquí hay un nombre para cada tipo de barco y propietario.",
+        "fr": "Notre générateur jette un large filet ! Vous trouverez des noms classiques, drôles, aventureux, sereins, puissants, et bien d'autres encore. Que vous recherchiez quelque chose de traditionnel ou une prise vraiment créative, il y a un nom ici pour chaque type de bateau et de propriétaire.",
+        "zh-cn": "我们的生成器撒下了一张大网！你会发现经典、有趣、冒险、宁静、强大等等各种类型的名字。无论你是想找一个传统的名字，还是一个真正有创意的名字，这里总有一个适合你的船和船主。",
+        "ja": "私たちのジェネレーターは広い網を投げかけます！クラシックなもの、面白いもの、冒険的なもの、穏やかなもの、力強いものなど、様々な名前が見つかります。伝統的なものを探している場合でも、本当に創造的な名前を探している場合でも、あらゆる種類のボートとオーナーにぴったりの名前がここにあります。",
+        "pt": "Nosso gerador lança uma rede ampla! Você encontrará nomes clássicos, engraçados, aventureiros, serenos, poderosos e muitos outros. Seja você em busca de algo tradicional ou uma captura verdadeiramente criativa, há um nome aqui para cada tipo de barco e proprietário.",
+        "ru": "Наш генератор забрасывает широкую сеть! Вы найдете классические, забавные, приключенческие, безмятежные, мощные и многие другие названия. Независимо от того, ищете ли вы что-то традиционное или действительно креативный улов, здесь найдется имя для каждого типа лодки и владельца."
+      }
+    }
+  ]
+}

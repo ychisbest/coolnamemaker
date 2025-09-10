@@ -1,0 +1,192 @@
+{
+  "name": {
+    "en": "Wood Elf Name Generator",
+    "ar": "مولد أسماء قزم الخشب",
+    "es": "Generador de Nombres de Elfos Silvanos",
+    "fr": "Générateur de Noms d'Elfes Sylvains",
+    "zh-cn": "木精灵名称生成器",
+    "ja": "ウッドエルフ名ジェネレーター",
+    "pt": "Gerador de Nomes de Elfos da Floresta",
+    "ru": "Генератор Имен Лесных Эльфов"
+  },
+  "description": {
+    "en": "Journey deep into the ancient forests and discover a name as wild and graceful as the wood elves themselves! Our Wood Elf Name Generator crafts authentic, evocative names perfect for your next fantasy character, story, or RPG campaign. Embrace the spirit of the woodlands!",
+    "ar": "انغمس عميقًا في الغابات القديمة واكتشف اسمًا بريًا ورشيقًا مثل أقزام الخشب أنفسهم! يقوم مولد أسماء قزم الخشب لدينا بصياغة أسماء أصيلة وموحية مثالية لشخصيتك الخيالية القادمة، قصتك، أو حملة آر بي جي. احتضن روح الغابات!",
+    "es": "¡Adéntrate en los bosques antiguos y descubre un nombre tan salvaje y elegante como los propios elfos silvanos! Nuestro Generador de Nombres de Elfos Silvanos crea nombres auténticos y evocadores, perfectos para tu próximo personaje de fantasía, historia o campaña de RPG. ¡Abraza el espíritu de los bosques!",
+    "fr": "Plongez au cœur des forêts anciennes et découvrez un nom aussi sauvage et gracieux que les elfes sylvains eux-mêmes ! Notre Générateur de Noms d'Elfes Sylvains crée des noms authentiques et évocateurs, parfaits pour votre prochain personnage fantastique, histoire ou campagne de JDR. Adoptez l'esprit des bois !",
+    "zh-cn": "深入古老的森林，发现一个像木精灵本身一样狂野而优雅的名字！我们的木精灵名称生成器能为你量身打造真实、富有感染力的名字，非常适合你的下一个奇幻角色、故事或 RPG 战役。拥抱林地的精神吧！",
+    "ja": "古代の森の奥深くへと旅し、ウッドエルフ自身のように野性的で優雅な名前を見つけましょう！私たちのウッドエルフ名ジェネレーターは、あなたの次のファンタジーキャラクター、物語、またはRPGキャンペーンにぴったりの、本物で示唆に富む名前を作成します。森の精神を受け入れましょう！",
+    "pt": "Aventure-se nas florestas antigas e descubra um nome tão selvagem e gracioso quanto os próprios elfos da floresta! Nosso Gerador de Nomes de Elfos da Floresta cria nomes autênticos e evocativos, perfeitos para seu próximo personagem de fantasia, história ou campanha de RPG. Abrace o espírito das florestas!",
+    "ru": "Погрузитесь глубоко в древние леса и откройте для себя имя, столь же дикое и изящное, как сами лесные эльфы! Наш Генератор Имен Лесных Эльфов создает аутентичные, выразительные имена, идеально подходящие для вашего следующего фэнтезийного персонажа, истории или кампании в RPG. Ощутите дух лесов!"
+  },
+  "slug": "wood-elf-name-generator",
+  "prompt": {
+    "en": "Generate a wood elf name",
+    "ar": "قم بإنشاء اسم قزم خشبي",
+    "es": "Generar un nombre de elfo silvano",
+    "fr": "Générer un nom d'elfe sylvain",
+    "zh-cn": "生成一个木精灵名称",
+    "ja": "ウッドエルフ名を生成する",
+    "pt": "Gerar um nome de elfo da floresta",
+    "ru": "Сгенерировать имя лесного эльфа"
+  },
+  "icon": "🌲",
+  "introduction": {
+    "en": "Welcome, seeker of ancient wisdom and forest whispers! If you're crafting a character deeply connected to nature, with keen senses and an agile spirit, then a truly fitting wood elf name is essential. Our generator pulls inspiration from the rustling leaves, flowing rivers, and hidden glades to give your elf a name that resonates with their wild heritage. Whether they are a swift scout, a wise druid, or a deadly archer, their name will speak volumes about their connection to the woodlands. Prepare to be enchanted by the possibilities!",
+    "ar": "مرحبًا بك أيها الباحث عن الحكمة القديمة وهمسات الغابات! إذا كنت تصنع شخصية مرتبطة ارتباطًا وثيقًا بالطبيعة، بحواس حادة وروح رشيقة، فإن اسم قزم خشبي مناسب حقًا أمر ضروري. يستلهم مولدنا الإلهام من حفيف الأوراق، والأنهار المتدفقة، والمساحات الخضراء المخفية لمنح قزمك اسمًا يتردد صداه مع تراثهم البري. سواء كانوا كشافًا سريعًا، أو درويدًا حكيمًا، أو رامي سهام مميت، فإن اسمهم سيتحدث كثيرًا عن ارتباطهم بالغابات. استعد للسحر بالإمكانيات!",
+    "es": "¡Bienvenido, buscador de sabiduría ancestral y susurros del bosque! Si estás creando un personaje profundamente conectado con la naturaleza, con sentidos agudos y un espíritu ágil, entonces un nombre de elfo silvano verdaderamente adecuado es esencial. Nuestro generador se inspira en el susurro de las hojas, los ríos que fluyen y los claros escondidos para darle a tu elfo un nombre que resuene con su herencia salvaje. Ya sea un rápido explorador, un sabio druida o un arquero letal, su nombre hablará volúmenes sobre su conexión con los bosques. ¡Prepárate para ser encantado por las posibilidades!",
+    "fr": "Bienvenue, chercheur de sagesse ancienne et de murmures forestiers ! Si vous créez un personnage profondément lié à la nature, doté de sens aiguisés et d'un esprit agile, alors un nom d'elfe sylvain vraiment approprié est essentiel. Notre générateur puise son inspiration dans le bruissement des feuilles, les rivières qui coulent et les clairières cachées pour donner à votre elfe un nom qui résonne avec son héritage sauvage. Qu'il soit un éclaireur rapide, un druide sage ou un archer mortel, son nom en dira long sur son lien avec les bois. Préparez-vous à être enchanté par les possibilités !",
+    "zh-cn": "欢迎，古代智慧和森林低语的探寻者！如果你正在塑造一个与自然紧密相连、感官敏锐、精神敏捷的角色，那么一个真正合适的木精灵名字至关重要。我们的生成器从沙沙作响的树叶、潺潺的河流和隐秘的林间空地中汲取灵感，为你的精灵赋予一个能与他们野性传承产生共鸣的名字。无论他们是迅捷的侦察兵、睿智的德鲁伊，还是致命的弓箭手，他们的名字都将充分体现他们与林地的联系。准备好被这些可能性所吸引吧！",
+    "ja": "ようこそ、古き知恵と森のささやきを求める者よ！もしあなたが、鋭い感覚と機敏な精神を持ち、自然と深く結びついたキャラクターを創造しているなら、真にふさわしいウッドエルフの名前は不可欠です。私たちのジェネレーターは、葉のささやき、流れる川、隠れた林間からインスピレーションを得て、あなたのエルフに彼らの野生の遺産と共鳴する名前を与えます。彼らが素早い斥候であろうと、賢明なドルイドであろうと、恐ろしい射手であろうと、彼らの名前は森とのつながりを雄弁に語るでしょう。可能性に魅了される準備をしてください！",
+    "pt": "Bem-vindo, buscador de sabedoria antiga e sussurros da floresta! Se você está criando um personagem profundamente conectado à natureza, com sentidos aguçados e um espírito ágil, então um nome de elfo da floresta verdadeiramente adequado é essencial. Nosso gerador busca inspiração nas folhas sussurrantes, rios fluindo e clareiras escondidas para dar ao seu elfo um nome que ressoa com sua herança selvagem. Seja ele um batedor ágil, um druida sábio ou um arqueiro mortal, seu nome falará muito sobre sua conexão com as florestas. Prepare-se para ser encantado pelas possibilidades!",
+    "ru": "Приветствую, искатель древней мудрости и лесного шепота! Если вы создаете персонажа, глубоко связанного с природой, с острыми чувствами и проворным духом, то по-настоящему подходящее имя лесного эльфа просто необходимо. Наш генератор черпает вдохновение из шелеста листьев, текущих рек и скрытых полян, чтобы дать вашему эльфу имя, которое резонирует с их диким наследием. Будь то быстрый разведчик, мудрый друид или смертоносный лучник, их имя будет говорить о их связи с лесами. Приготовьтесь быть очарованными возможностями!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button to summon names from the heart of the forest.",
+      "Witness a collection of unique and enchanting wood elf names appear before your eyes.",
+      "Scan the list for names that whisper to your soul and fit your character's essence.",
+      "Found the perfect moniker? Copy it instantly!",
+      "Now, let your wood elf stride forth with a name that truly embodies their wild spirit and forest home!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' لاستدعاء الأسماء من قلب الغابة.",
+      "شاهد مجموعة من أسماء أقزام الخشب الفريدة والساحرة تظهر أمام عينيك.",
+      "امسح القائمة بحثًا عن الأسماء التي تهمس لروحك وتناسب جوهر شخصيتك.",
+      "هل وجدت الاسم المثالي؟ انسخه على الفور!",
+      "الآن، دع قزمك الخشبي يتقدم باسم يجسد حقًا روحه البرية ومنزله في الغابة!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' para invocar nombres desde el corazón del bosque.",
+      "Sé testigo de cómo aparece ante tus ojos una colección de nombres únicos y encantadores de elfos silvanos.",
+      "Escanea la lista en busca de nombres que susurren a tu alma y se ajusten a la esencia de tu personaje.",
+      "¿Encontraste el apodo perfecto? ¡Cópialo al instante!",
+      "Ahora, ¡deja que tu elfo silvano avance con un nombre que realmente encarne su espíritu salvaje y su hogar en el bosque!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' pour faire apparaître des noms du cœur de la forêt.",
+      "Assistez à l'apparition d'une collection de noms d'elfes sylvains uniques et enchanteurs sous vos yeux.",
+      "Parcourez la liste à la recherche de noms qui murmurent à votre âme et correspondent à l'essence de votre personnage.",
+      "Vous avez trouvé le surnom parfait ? Copiez-le instantanément !",
+      "Maintenant, laissez votre elfe sylvain s'avancer avec un nom qui incarne véritablement son esprit sauvage et sa demeure forestière !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮，从森林深处召唤名字。",
+      "眼前将呈现一系列独特而迷人的木精灵名字。",
+      "浏览列表，寻找那些能触动你灵魂、符合角色本质的名字。",
+      "找到完美的名字了吗？立即复制它！",
+      "现在，让你的木精灵带着一个真正体现其野性精神和森林家园的名字大步前进吧！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、森の奥深くから名前を呼び出します。",
+      "あなたの目の前に、ユニークで魅力的なウッドエルフの名前のコレクションが現れるのを目撃してください。",
+      "リストをスキャンして、あなたの魂にささやき、キャラクターの本質に合う名前を探してください。",
+      "完璧な名前が見つかりましたか？すぐにコピーしてください！",
+      "さあ、あなたのウッドエルフに、その野生の精神と森の家を真に体現する名前を与えて、前進させましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' para invocar nomes do coração da floresta.",
+      "Testemunhe uma coleção de nomes de elfos da floresta únicos e encantadores aparecerem diante de seus olhos.",
+      "Analise a lista em busca de nomes que sussurrem para sua alma e se encaixem na essência de seu personagem.",
+      "Encontrou o nome perfeito? Copie-o instantaneamente!",
+      "Agora, deixe seu elfo da floresta avançar com um nome que realmente incorpora seu espírito selvagem e seu lar na floresta!"
+    ],
+    "ru": [
+      "Нажмите кнопку «Сгенерировать», чтобы вызвать имена из самого сердца леса.",
+      "Станьте свидетелем появления уникальной и очаровательной коллекции имен лесных эльфов перед вашими глазами.",
+      "Просмотрите список в поисках имен, которые шепчут вашей душе и соответствуют сути вашего персонажа.",
+      "Нашли идеальное прозвище? Скопируйте его мгновенно!",
+      "Теперь пусть ваш лесной эльф движется вперед с именем, которое по-настоящему воплощает его дикий дух и лесной дом!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "What kind of wood elf names does this generator create?",
+        "ar": "ما نوع أسماء أقزام الخشب التي ينشئها هذا المولد؟",
+        "es": "¿Qué tipo de nombres de elfos silvanos crea este generador?",
+        "fr": "Quel genre de noms d'elfes sylvains ce générateur crée-t-il ?",
+        "zh-cn": "这个生成器能创建什么样的木精灵名字？",
+        "ja": "このジェネレーターはどのようなウッドエルフ名を作成しますか？",
+        "pt": "Que tipo de nomes de elfos da floresta este gerador cria?",
+        "ru": "Какие имена лесных эльфов создает этот генератор?"
+      },
+      "answer": {
+        "en": "Our generator specializes in names that evoke nature, agility, and ancient wisdom, typical of wood elves. You'll find names that sound rooted in the forest, with a touch of elven grace and wildness. Think names like 'Faelan Swiftarrow,' 'Lyra Whisperwind,' or 'Silvanus Deeproot.'",
+        "ar": "يتخصص مولدنا في الأسماء التي تثير الطبيعة، الرشاقة، والحكمة القديمة، وهي سمات نموذجية لأقزام الخشب. ستجد أسماء تبدو متجذرة في الغابة، مع لمسة من الأناقة والبرية الجنية. فكر في أسماء مثل 'فيلان سويفتارو'، 'ليرا ويسبرويند'، أو 'سيلفانوس ديبروت'.",
+        "es": "Nuestro generador se especializa en nombres que evocan la naturaleza, la agilidad y la sabiduría ancestral, típicos de los elfos silvanos. Encontrarás nombres que suenan arraigados en el bosque, con un toque de gracia y salvajismo élfico. Piensa en nombres como 'Faelan Swiftarrow', 'Lyra Whisperwind' o 'Silvanus Deeproot'.",
+        "fr": "Notre générateur est spécialisé dans les noms qui évoquent la nature, l'agilité et la sagesse ancienne, typiques des elfes sylvains. Vous trouverez des noms qui semblent enracinés dans la forêt, avec une touche de grâce et de sauvagerie elfique. Pensez à des noms comme 'Faelan Swiftarrow', 'Lyra Whisperwind' ou 'Silvanus Deeproot'.",
+        "zh-cn": "我们的生成器专注于创建能够唤起自然、敏捷和古老智慧的名称，这些都是木精灵的典型特征。你会发现名字听起来扎根于森林，带有一丝精灵的优雅和野性。想象一下像 'Faelan Swiftarrow' (费兰·迅箭), 'Lyra Whisperwind' (莱拉·低语风), 或 'Silvanus Deeproot' (西尔瓦努斯·深根) 这样的名字。",
+        "ja": "当社のジェネレーターは、ウッドエルフに典型的な、自然、敏捷性、古代の知恵を想起させる名前に特化しています。森に根ざした響きを持ち、エルフの優雅さと野生のタッチが加わった名前が見つかるでしょう。「フェイラン・スウィフトアロー」、「ライラ・ウィスパーウィンド」、「シルヴァナス・ディープルート」のような名前を想像してみてください。",
+        "pt": "Nosso gerador é especializado em nomes que evocam natureza, agilidade e sabedoria antiga, típicos dos elfos da floresta. Você encontrará nomes que soam enraizados na floresta, com um toque de graça e selvageria élfica. Pense em nomes como 'Faelan Swiftarrow', 'Lyra Whisperwind' ou 'Silvanus Deeproot'.",
+        "ru": "Наш генератор специализируется на именах, вызывающих ассоциации с природой, ловкостью и древней мудростью, что типично для лесных эльфов. Вы найдете имена, звучащие так, будто они укоренены в лесу, с оттенком эльфийской грации и дикости. Подумайте об именах вроде 'Фэйлан Свифтароу', 'Лира Виспервинд' или 'Сильванус Дипрут'."
+      }
+    },
+    {
+      "question": {
+        "en": "Are these names suitable for Dungeons & Dragons (D&D) or other RPGs?",
+        "ar": "هل هذه الأسماء مناسبة لـ Dungeons & Dragons (D&D) أو ألعاب تقمص الأدوار الأخرى؟",
+        "es": "¿Estos nombres son adecuados para Dungeons & Dragons (D&D) u otros juegos de rol?",
+        "fr": "Ces noms sont-ils adaptés pour Donjons et Dragons (D&D) ou d'autres JDR ?",
+        "zh-cn": "这些名字适合《龙与地下城》(D&D) 或其他角色扮演游戏吗？",
+        "ja": "これらの名前はダンジョンズ＆ドラゴンズ（D&D）や他のRPGに適していますか？",
+        "pt": "Estes nomes são adequados para Dungeons & Dragons (D&D) ou outros RPGs?",
+        "ru": "Подходят ли эти имена для Dungeons & Dragons (D&D) или других RPG?"
+      },
+      "answer": {
+        "en": "Absolutely! Our wood elf names are designed with fantasy role-playing in mind. They fit perfectly into the lore of D&D, Pathfinder, or any other fantasy setting where wood elves play a significant role. Give your ranger, druid, or rogue a name that truly belongs to the wild!",
+        "ar": "بالتأكيد! تم تصميم أسماء أقزام الخشب لدينا مع الأخذ في الاعتبار ألعاب تقمص الأدوار الخيالية. إنها تتناسب تمامًا مع تاريخ D&D، باثفايندر، أو أي بيئة خيالية أخرى حيث يلعب أقزام الخشب دورًا مهمًا. امنح رينجرك، درويدك، أو روغك اسمًا ينتمي حقًا إلى البرية!",
+        "es": "¡Absolutamente! Nuestros nombres de elfos silvanos están diseñados pensando en el juego de rol de fantasía. Encajan perfectamente en la tradición de D&D, Pathfinder o cualquier otro entorno de fantasía donde los elfos silvanos desempeñen un papel importante. ¡Dale a tu explorador, druida o pícaro un nombre que realmente pertenezca a la naturaleza!",
+        "fr": "Absolument ! Nos noms d'elfes sylvains sont conçus pour le jeu de rôle fantastique. Ils s'intègrent parfaitement dans l'histoire de D&D, Pathfinder ou tout autre univers fantastique où les elfes sylvains jouent un rôle important. Donnez à votre rôdeur, druide ou roublard un nom qui appartient vraiment à la nature !",
+        "zh-cn": "当然！我们的木精灵名字是为奇幻角色扮演而设计的。它们完美契合《龙与地下城》、Pathfinder 或任何其他木精灵扮演重要角色的奇幻设定。给你的游侠、德鲁伊或盗贼一个真正属于野性的名字吧！",
+        "ja": "もちろんです！私たちのウッドエルフ名は、ファンタジーロールプレイングを念頭に置いて設計されています。D&D、パスファインダー、またはウッドエルフが重要な役割を果たす他のファンタジー設定の伝承に完璧に適合します。あなたのレンジャー、ドルイド、またはローグに、本当に野生に属する名前を与えましょう！",
+        "pt": "Com certeza! Nossos nomes de elfos da floresta são projetados com o role-playing de fantasia em mente. Eles se encaixam perfeitamente na lore de D&D, Pathfinder, ou qualquer outro cenário de fantasia onde os elfos da floresta desempenham um papel significativo. Dê ao seu ranger, druida, ou ladino um nome que realmente pertence à natureza!",
+        "ru": "Абсолютно! Наши имена лесных эльфов разработаны с учетом фэнтезийных ролевых игр. Они идеально вписываются в лор D&D, Pathfinder или любую другую фэнтезийную вселенную, где лесные эльфы играют значительную роль. Дайте своему рейнджеру, друиду или разбойнику имя, которое по-настоящему принадлежит дикой природе!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I customize the generated names?",
+        "ar": "هل يمكنني تخصيص الأسماء التي تم إنشاؤها؟",
+        "es": "¿Puedo personalizar los nombres generados?",
+        "fr": "Puis-je personnaliser les noms générés ?",
+        "zh-cn": "我可以自定义生成的名称吗？",
+        "ja": "生成された名前をカスタマイズできますか？",
+        "pt": "Posso personalizar os nomes gerados?",
+        "ru": "Могу ли я настроить сгенерированные имена?"
+      },
+      "answer": {
+        "en": "While the generator provides complete names, you're always encouraged to use them as inspiration! Feel free to mix and match parts, add unique suffixes, or combine elements to create a name that's truly your own and perfectly suits your character's backstory.",
+        "ar": "بينما يوفر المولد أسماء كاملة، نشجعك دائمًا على استخدامها كمصدر إلهام! لا تتردد في مزج الأجزاء ومطابقتها، أو إضافة لاحقات فريدة، أو دمج العناصر لإنشاء اسم خاص بك تمامًا ويناسب تمامًا قصة شخصيتك الخلفية.",
+        "es": "Aunque el generador proporciona nombres completos, ¡siempre te animamos a usarlos como inspiración! Siéntete libre de mezclar y combinar partes, añadir sufijos únicos o combinar elementos para crear un nombre que sea verdaderamente tuyo y se adapte perfectamente a la historia de tu personaje.",
+        "fr": "Bien que le générateur fournisse des noms complets, nous vous encourageons toujours à les utiliser comme source d'inspiration ! N'hésitez pas à mélanger et assortir des parties, à ajouter des suffixes uniques ou à combiner des éléments pour créer un nom qui est vraiment le vôtre et qui correspond parfaitement à l'histoire de votre personnage.",
+        "zh-cn": "虽然生成器提供完整的名称，但我们始终鼓励你将它们作为灵感！你可以随意混合搭配、添加独特的后缀或组合元素，以创建真正属于你自己的、完美符合角色背景故事的名称。",
+        "ja": "ジェネレーターは完全な名前を提供しますが、常にそれらをインスピレーションとして使用することをお勧めします！自由にパーツを組み合わせたり、ユニークな接尾辞を追加したり、要素を組み合わせて、真にあなた自身のものであり、キャラクターの背景ストーリーに完璧に合う名前を作成してください。",
+        "pt": "Embora o gerador forneça nomes completos, você é sempre encorajado a usá-los como inspiração! Sinta-se à vontade para misturar e combinar partes, adicionar sufixos únicos ou combinar elementos para criar um nome que seja verdadeiramente seu e se adapte perfeitamente à história de seu personagem.",
+        "ru": "Хотя генератор предоставляет полные имена, мы всегда призываем вас использовать их в качестве вдохновения! Не стесняйтесь смешивать и сочетать части, добавлять уникальные суффиксы или комбинировать элементы, чтобы создать имя, которое действительно ваше и идеально подходит для предыстории вашего персонажа."
+      }
+    },
+    {
+      "question": {
+        "en": "Is this Wood Elf Name Generator free to use?",
+        "ar": "هل مولد أسماء قزم الخشب هذا مجاني للاستخدام؟",
+        "es": "¿Este Generador de Nombres de Elfos Silvanos es de uso gratuito?",
+        "fr": "Ce Générateur de Noms d'Elfes Sylvains est-il gratuit ?",
+        "zh-cn": "这个木精灵名称生成器是免费的吗？",
+        "ja": "このウッドエルフ名ジェネレーターは無料で使用できますか？",
+        "pt": "Este Gerador de Nomes de Elfos da Floresta é gratuito para usar?",
+        "ru": "Бесплатен ли этот Генератор Имен Лесных Эльфов?"
+      },
+      "answer": {
+        "en": "Yes, absolutely! Our Wood Elf Name Generator is completely free to use, without any hidden costs or subscriptions. Generate as many names as you need for all your forest-dwelling characters!",
+        "ar": "نعم، بالتأكيد! مولد أسماء قزم الخشب الخاص بنا مجاني تمامًا للاستخدام، بدون أي تكاليف خفية أو اشتراكات. قم بإنشاء العديد من الأسماء التي تحتاجها لجميع شخصياتك التي تعيش في الغابة!",
+        "es": "¡Sí, absolutamente! Nuestro Generador de Nombres de Elfos Silvanos es completamente gratuito, sin costos ocultos ni suscripciones. ¡Genera tantos nombres como necesites para todos tus personajes que habitan el bosque!",
+        "fr": "Oui, absolument ! Notre Générateur de Noms d'Elfes Sylvains est entièrement gratuit, sans frais cachés ni abonnements. Générez autant de noms que vous le souhaitez pour tous vos personnages sylvains !",
+        "zh-cn": "是的，当然！我们的木精灵名称生成器完全免费使用，没有任何隐藏费用或订阅。为你所有生活在森林中的角色生成你需要的任意数量的名字吧！",
+        "ja": "はい、もちろんです！私たちのウッドエルフ名ジェネレーターは、隠れた費用やサブスクリプションなしで完全に無料で使用できます。森に住むキャラクターのために必要なだけ名前を生成してください！",
+        "pt": "Sim, absolutamente! Nosso Gerador de Nomes de Elfos da Floresta é totalmente gratuito para usar, sem custos ocultos ou assinaturas. Gere quantos nomes precisar para todos os seus personagens que habitam a floresta!",
+        "ru": "Да, абсолютно! Наш Генератор Имен Лесных Эльфов абсолютно бесплатен в использовании, без каких-либо скрытых затрат или подписок. Генерируйте столько имен, сколько вам нужно для всех ваших лесных персонажей!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "name": {
+    "en": "Skyrim Name Generator",
+    "ar": "مولد أسماء سكاي ريم",
+    "es": "Generador de Nombres de Skyrim",
+    "fr": "Générateur de Noms Skyrim",
+    "zh-cn": "天际名称生成器",
+    "ja": "スカイリム名前ジェネレーター",
+    "pt": "Gerador de Nomes de Skyrim",
+    "ru": "Генератор Имен Скайрима"
+  },
+  "description": {
+    "en": "Embark on an epic adventure with a name worthy of a true Dragonborn! Our Skyrim Name Generator crafts unique, lore-friendly names for all the races of Tamriel, from the noble Nords to the cunning Khajiit. Whether you're forging a new character or simply seeking inspiration, unleash your inner hero with a name that echoes through the ancient halls of Skyrim!",
+    "ar": "انطلق في مغامرة ملحمية باسم يليق بـ Dragonborn حقيقي! يولد مولد أسماء سكاي ريم لدينا أسماء فريدة ومناسبة للقصة لجميع أعراق تامريل، من النورديين النبلاء إلى الخاجيت الماكرين. سواء كنت تصنع شخصية جديدة أو تبحث ببساطة عن الإلهام، أطلق العنان لبطلك الداخلي باسم يتردد صداه في القاعات القديمة لسكاي ريم!",
+    "es": "¡Embárcate en una aventura épica con un nombre digno de un verdadero Sangre de Dragón! Nuestro Generador de Nombres de Skyrim crea nombres únicos y fieles a la tradición para todas las razas de Tamriel, desde los nobles Nórdicos hasta los astutos Khajiit. Ya sea que estés creando un nuevo personaje o simplemente buscando inspiración, ¡libera a tu héroe interior con un nombre que resuene en los antiguos salones de Skyrim!",
+    "fr": "Embarquez pour une aventure épique avec un nom digne d'un véritable Enfant de Dragon ! Notre Générateur de Noms Skyrim crée des noms uniques et fidèles à la lore pour toutes les races de Tamriel, des nobles Nords aux rusés Khajiit. Que vous forgiez un nouveau personnage ou cherchiez simplement de l'inspiration, libérez votre héros intérieur avec un nom qui résonne dans les anciennes salles de Skyrim !",
+    "zh-cn": "踏上史诗般的冒险，拥有一个配得上真正龙裔的名字！我们的天际名称生成器为泰姆瑞尔的所有种族，从高贵的诺德人到狡猾的虎人，创造独特且符合背景设定的名字。无论你是要创建新角色还是仅仅寻求灵感，用一个在天际古老大厅中回荡的名字，释放你内心的英雄吧！",
+    "ja": "真のドラゴンボーンにふさわしい名前で壮大な冒険に乗り出しましょう！私たちのスカイリム名前ジェネレーターは、高貴なノルドから狡猾なカジートまで、タムリエルのすべての種族のために、ユニークで伝承に忠実な名前を作成します。新しいキャラクターを作成する場合でも、単にインスピレーションを探している場合でも、スカイリムの古代のホールに響き渡る名前で、あなたの内なるヒーローを解き放ちましょう！",
+    "pt": "Embarque em uma aventura épica com um nome digno de um verdadeiro Dragonborn! Nosso Gerador de Nomes de Skyrim cria nomes únicos e fiéis à lore para todas as raças de Tamriel, dos nobres Nords aos astutos Khajiit. Seja você criando um novo personagem ou simplesmente buscando inspiração, liberte seu herói interior com um nome que ecoa pelos antigos salões de Skyrim!",
+    "ru": "Отправляйтесь в эпическое приключение с именем, достойным истинного Драконорожденного! Наш Генератор Имен Скайрима создает уникальные, соответствующие лору имена для всех рас Тамриэля, от благородных нордов до хитрых каджитов. Создаете ли вы нового персонажа или просто ищете вдохновение, высвободите своего внутреннего героя с именем, которое эхом разносится по древним залам Скайрима!"
+  },
+  "slug": "skyrim-name-generator",
+  "prompt": {
+    "en": "Generate a Skyrim name",
+    "ar": "أنشئ اسم سكاي ريم",
+    "es": "Generar un nombre de Skyrim",
+    "fr": "Générer un nom Skyrim",
+    "zh-cn": "生成一个天际名称",
+    "ja": "スカイリムの名前を生成する",
+    "pt": "Gerar um nome de Skyrim",
+    "ru": "Сгенерировать имя Скайрима"
+  },
+  "icon": "⚔️",
+  "introduction": {
+    "en": "Tired of generic fantasy names? Longing for a moniker that truly captures the spirit of the Elder Scrolls universe? Look no further! Our Skyrim Name Generator is your ultimate companion for conjuring up names that feel like they've been plucked straight from the pages of an ancient tome. Whether you're a seasoned adventurer, a stealthy assassin, a powerful mage, or a humble merchant, find a name that resonates with your chosen path. Prepare to be immersed in the rich lore of Tamriel with every generated name!",
+    "ar": "هل سئمت من أسماء الفانتازيا العامة؟ هل تتوق إلى لقب يجسد حقًا روح عالم Elder Scrolls؟ لا تبحث بعيدًا! مولد أسماء سكاي ريم لدينا هو رفيقك الأمثل لإنشاء أسماء تبدو وكأنها انتزعت مباشرة من صفحات مخطوطة قديمة. سواء كنت مغامرًا متمرسًا، قاتلًا متخفيًا، ساحرًا قويًا، أو تاجرًا متواضعًا، ابحث عن اسم يتردد صداه مع مسارك المختار. استعد للانغماس في القصص الغنية لتامريل مع كل اسم يتم إنشاؤه!",
+    "es": "¡Cansado de los nombres de fantasía genéricos? ¿Anhelas un apodo que capture verdaderamente el espíritu del universo de Elder Scrolls? ¡No busques más! Nuestro Generador de Nombres de Skyrim es tu compañero definitivo para conjurar nombres que parecen sacados directamente de las páginas de un tomo antiguo. Ya seas un aventurero experimentado, un asesino sigiloso, un poderoso mago o un humilde comerciante, encuentra un nombre que resuene con tu camino elegido. ¡Prepárate para sumergirte en la rica tradición de Tamriel con cada nombre generado!",
+    "fr": "Fatigué des noms de fantaisie génériques ? Envie d'un surnom qui capture vraiment l'esprit de l'univers d'Elder Scrolls ? Ne cherchez plus ! Notre Générateur de Noms Skyrim est votre compagnon ultime pour créer des noms qui semblent tout droit sortis des pages d'un tome ancien. Que vous soyez un aventurier chevronné, un assassin furtif, un puissant mage ou un humble marchand, trouvez un nom qui résonne avec votre chemin choisi. Préparez-vous à être immergé dans la riche histoire de Tamriel avec chaque nom généré !",
+    "zh-cn": "厌倦了平庸的奇幻名字？渴望一个真正捕捉上古卷轴宇宙精神的称号？别再找了！我们的天际名称生成器是你的终极伴侣，它能帮你创造出仿佛直接从古老卷轴中摘取的名字。无论你是一位经验丰富的冒险家、一名隐秘的刺客、一位强大的法师还是一位谦逊的商人，都能找到一个与你所选道路产生共鸣的名字。准备好随着每一个生成的名字，沉浸在泰姆瑞尔的丰富传说中吧！",
+    "ja": "ありきたりなファンタジー名にうんざりしていませんか？エルダー・スクロールズの世界観を真に捉えた名前が欲しいですか？もう探す必要はありません！私たちのスカイリム名前ジェネレーターは、まるで古代の書物から直接抜き取られたかのような名前を生み出す究極の相棒です。ベテランの冒険者、隠密な暗殺者、強力な魔術師、あるいは謙虚な商人であろうと、あなたの選んだ道に響く名前を見つけてください。生成されるすべての名前で、タムリエルの豊かな伝承に没頭する準備をしてください！",
+    "pt": "Cansado de nomes genéricos de fantasia? Ansiando por um apelido que realmente capture o espírito do universo Elder Scrolls? Não procure mais! Nosso Gerador de Nomes de Skyrim é seu companheiro definitivo para conjurar nomes que parecem ter sido tirados diretamente das páginas de um tomo antigo. Seja você um aventureiro experiente, um assassino furtivo, um poderoso mago ou um humilde comerciante, encontre um nome que ressoe com seu caminho escolhido. Prepare-se para ser imerso na rica lore de Tamriel com cada nome gerado!",
+    "ru": "Устали от обычных фэнтезийных имен? Мечтаете о прозвище, которое по-настоящему отражает дух вселенной Elder Scrolls? Не ищите дальше! Наш Генератор Имен Скайрима — ваш идеальный спутник для создания имен, которые кажутся вырванными прямо из страниц древнего фолианта. Будь вы опытным искателем приключений, скрытным убийцей, могущественным магом или скромным торговцем, найдите имя, которое соответствует вашему выбранному пути. Приготовьтесь погрузиться в богатую историю Тамриэля с каждым сгенерированным именем!"
+  },
+  "howToUse": {
+    "en": [
+      "Select your desired race from the dropdown menu (Nord, Imperial, Elf, Khajiit, Argonian, Orc, Breton, Redguard, etc.).",
+      "Click the 'Generate' button to summon forth a legendary name.",
+      "Not quite right? Click again for more options!",
+      "Found the perfect name for your next hero? Copy it to your clipboard.",
+      "Now, go forth and fulfill your destiny in the lands of Skyrim!"
+    ],
+    "ar": [
+      "اختر العرق المطلوب من القائمة المنسدلة (نوردي، إمبراطوري، قزم، خاجيت، أرجوني، أورك، بريتون، ريدجارد، إلخ).",
+      "انقر على زر 'إنشاء' لاستدعاء اسم أسطوري.",
+      "ليس مناسبًا تمامًا؟ انقر مرة أخرى لمزيد من الخيارات!",
+      "هل وجدت الاسم المثالي لبطلك القادم؟ انسخه إلى الحافظة.",
+      "الآن، انطلق وحقق مصيرك في أراضي سكاي ريم!"
+    ],
+    "es": [
+      "Selecciona la raza deseada del menú desplegable (Nórdico, Imperial, Elfo, Khajiit, Argoniano, Orco, Bretón, Guardia Roja, etc.).",
+      "Haz clic en el botón 'Generar' para invocar un nombre legendario.",
+      "¿No es del todo correcto? ¡Haz clic de nuevo para más opciones!",
+      "¿Encontraste el nombre perfecto para tu próximo héroe? Cópialo a tu portapapeles.",
+      "¡Ahora, ve y cumple tu destino en las tierras de Skyrim!"
+    ],
+    "fr": [
+      "Sélectionnez la race souhaitée dans le menu déroulant (Nord, Impérial, Elfe, Khajiit, Argonien, Orque, Breton, Rougegarde, etc.).",
+      "Cliquez sur le bouton 'Générer' pour faire apparaître un nom légendaire.",
+      "Pas tout à fait ça ? Cliquez à nouveau pour plus d'options !",
+      "Vous avez trouvé le nom parfait pour votre prochain héros ? Copiez-le dans votre presse-papiers.",
+      "Maintenant, partez accomplir votre destin dans les terres de Skyrim !"
+    ],
+    "zh-cn": [
+      "从下拉菜单中选择你想要的种族（诺德人、帝国人、精灵、虎人、亚龙人、兽人、布雷顿人、红卫人等）。",
+      "点击“生成”按钮，召唤一个传奇的名字。",
+      "不太满意？再次点击以获取更多选项！",
+      "找到你下一个英雄的完美名字了吗？复制到剪贴板。",
+      "现在，去天际的土地上实现你的命运吧！"
+    ],
+    "ja": [
+      "ドロップダウンメニューから希望の種族（ノルド、インペリアル、エルフ、カジート、アルゴニアン、オーク、ブレトン、レッドガードなど）を選択します。",
+      "「生成」ボタンをクリックして、伝説的な名前を召喚します。",
+      "しっくりきませんか？もう一度クリックして別のオプションを見てみましょう！",
+      "次のヒーローにぴったりの名前が見つかりましたか？クリップボードにコピーしてください。",
+      "さあ、スカイリムの地であなたの運命を全うしましょう！"
+    ],
+    "pt": [
+      "Selecione a raça desejada no menu suspenso (Nord, Imperial, Elfo, Khajiit, Argoniano, Orc, Breton, Redguard, etc.).",
+      "Clique no botão 'Gerar' para invocar um nome lendário.",
+      "Não está perfeito? Clique novamente para mais opções!",
+      "Encontrou o nome perfeito para seu próximo herói? Copie para a área de transferência.",
+      "Agora, vá e cumpra seu destino nas terras de Skyrim!"
+    ],
+    "ru": [
+      "Выберите желаемую расу из выпадающего меню (Норд, Имперец, Эльф, Каджит, Аргонианин, Орк, Бретонец, Редгард и т.д.).",
+      "Нажмите кнопку 'Сгенерировать', чтобы призвать легендарное имя.",
+      "Не совсем то? Нажмите еще раз для получения дополнительных вариантов!",
+      "Нашли идеальное имя для своего следующего героя? Скопируйте его в буфер обмена.",
+      "Теперь идите и исполните свою судьбу на землях Скайрима!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Skyrim Name Generator lore-friendly?",
+        "ar": "هل مولد أسماء سكاي ريم هذا متوافق مع القصة؟",
+        "es": "¿Este Generador de Nombres de Skyrim es fiel a la tradición?",
+        "fr": "Ce Générateur de Noms Skyrim est-il fidèle à la lore?",
+        "zh-cn": "这个天际名称生成器符合背景设定吗？",
+        "ja": "このスカイリム名前ジェネレーターは伝承に忠実ですか？",
+        "pt": "Este Gerador de Nomes de Skyrim é fiel à lore?",
+        "ru": "Соответствует ли этот Генератор Имен Скайрима лору?"
+      },
+      "answer": {
+        "en": "Absolutely! We've meticulously researched the naming conventions and cultural nuances of each race in Tamriel to ensure every generated name feels authentic and fitting for the Elder Scrolls universe. You won't find any 'Bob the Dragonborn' here!",
+        "ar": "بالتأكيد! لقد بحثنا بدقة في اتفاقيات التسمية والفروق الثقافية الدقيقة لكل عرق في تامريل لضمان أن كل اسم يتم إنشاؤه يبدو أصيلًا ومناسبًا لعالم Elder Scrolls. لن تجد أي 'بوب Dragonborn' هنا!",
+        "es": "¡Absolutamente! Hemos investigado meticulosamente las convenciones de nombres y los matices culturales de cada raza en Tamriel para asegurar que cada nombre generado se sienta auténtico y apropiado para el universo de Elder Scrolls. ¡Aquí no encontrarás a ningún 'Bob el Sangre de Dragón'!",
+        "fr": "Absolument ! Nous avons méticuleusement recherché les conventions de nommage et les nuances culturelles de chaque race de Tamriel pour nous assurer que chaque nom généré semble authentique et approprié pour l'univers d'Elder Scrolls. Vous ne trouverez pas de 'Bob l'Enfant de Dragon' ici !",
+        "zh-cn": "当然！我们精心研究了泰姆瑞尔各个种族的命名惯例和文化细微之处，以确保每个生成的名称都感觉真实，并与上古卷轴宇宙相符。你在这里绝对不会找到任何“龙裔鲍勃”！",
+        "ja": "もちろんです！タムリエルの各種族の命名規則や文化的ニュアンスを綿密に調査し、生成されるすべての名前がエルダー・スクロールズの世界に Authenticity (真正性) と Fitting (適合性) を感じさせるようにしました。「ドラゴンボーンのボブ」のような名前はここにはありません！",
+        "pt": "Absolutamente! Pesquisamos meticulosamente as convenções de nomes e as nuances culturais de cada raça em Tamriel para garantir que cada nome gerado pareça autêntico e apropriado para o universo Elder Scrolls. Você não encontrará nenhum 'Bob o Dragonborn' aqui!",
+        "ru": "Абсолютно! Мы тщательно исследовали правила именования и культурные нюансы каждой расы в Тамриэле, чтобы гарантировать, что каждое сгенерированное имя выглядит аутентичным и подходящим для вселенной Elder Scrolls. Никаких 'Бобов-Драконорожденных' здесь вы не найдете!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I generate names for specific genders?",
+        "ar": "هل يمكنني إنشاء أسماء لأجناس محددة؟",
+        "es": "¿Puedo generar nombres para géneros específicos?",
+        "fr": "Puis-je générer des noms pour des genres spécifiques?",
+        "zh-cn": "我可以为特定性别生成名字吗？",
+        "ja": "特定の性別の名前を生成できますか？",
+        "pt": "Posso gerar nomes para gêneros específicos?",
+        "ru": "Могу ли я генерировать имена для определенных полов?"
+      },
+      "answer": {
+        "en": "Yes! Our generator offers options to filter names by gender (male, female, or neutral) for most races, ensuring you get the perfect fit for your character's identity. Simply select your preference before generating.",
+        "ar": "نعم! يوفر مولدنا خيارات لتصفية الأسماء حسب الجنس (ذكر، أنثى، أو محايد) لمعظم الأعراق، مما يضمن حصولك على الاسم المثالي لهوية شخصيتك. ما عليك سوى تحديد تفضيلك قبل الإنشاء.",
+        "es": "¡Sí! Nuestro generador ofrece opciones para filtrar nombres por género (masculino, femenino o neutral) para la mayoría de las razas, asegurando que obtengas el ajuste perfecto para la identidad de tu personaje. Simplemente selecciona tu preferencia antes de generar.",
+        "fr": "Oui ! Notre générateur offre des options pour filtrer les noms par genre (masculin, féminin ou neutre) pour la plupart des races, vous assurant d'obtenir le nom parfait pour l'identité de votre personnage. Sélectionnez simplement votre préférence avant de générer.",
+        "zh-cn": "是的！我们的生成器提供了按性别（男性、女性或中性）筛选名称的选项，适用于大多数种族，确保您为角色身份找到最完美的匹配。只需在生成前选择您的偏好即可。",
+        "ja": "はい！私たちのジェネレーターは、ほとんどの種族において性別（男性、女性、または中性）で名前をフィルタリングするオプションを提供しており、あなたのキャラクターのアイデンティティにぴったりの名前を見つけることができます。生成する前にあなたの好みを選択するだけです。",
+        "pt": "Sim! Nosso gerador oferece opções para filtrar nomes por gênero (masculino, feminino ou neutro) para a maioria das raças, garantindo que você obtenha o ajuste perfeito para a identidade do seu personagem. Basta selecionar sua preferência antes de gerar.",
+        "ru": "Да! Наш генератор предлагает опции фильтрации имен по полу (мужской, женский или нейтральный) для большинства рас, гарантируя, что вы получите идеальное имя для личности вашего персонажа. Просто выберите свои предпочтения перед генерацией."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my fan fiction or role-playing game?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لقصص المعجبين أو لعبة تقمص الأدوار الخاصة بي؟",
+        "es": "¿Puedo usar estos nombres para mi fan fiction o juego de rol?",
+        "fr": "Puis-je utiliser ces noms pour ma fanfiction ou mon jeu de rôle?",
+        "zh-cn": "我可以将这些名字用于我的同人小说或角色扮演游戏吗？",
+        "ja": "これらの名前をファンフィクションやロールプレイングゲームに使用できますか？",
+        "pt": "Posso usar esses nomes para minha fan fiction ou jogo de RPG?",
+        "ru": "Могу ли я использовать эти имена для своего фанфика или ролевой игры?"
+      },
+      "answer": {
+        "en": "Absolutely! That's what they're for! Our generator is designed to fuel your creativity and provide you with authentic names to enhance your fan fiction, D&D campaigns, or any other creative project set in or inspired by the world of Skyrim. Just give us a shout-out if you love what you get!",
+        "ar": "بالتأكيد! هذا هو الغرض منها! تم تصميم مولدنا لتغذية إبداعك وتزويدك بأسماء أصيلة لتعزيز قصص المعجبين الخاصة بك، حملات D&D، أو أي مشروع إبداعي آخر يدور في عالم سكاي ريم أو مستوحى منه. فقط اذكرنا إذا أعجبك ما تحصل عليه!",
+        "es": "¡Absolutamente! ¡Para eso están! Nuestro generador está diseñado para alimentar tu creatividad y proporcionarte nombres auténticos para mejorar tu fan fiction, campañas de D&D o cualquier otro proyecto creativo ambientado o inspirado en el mundo de Skyrim. ¡Solo menciónanos si te encanta lo que obtienes!",
+        "fr": "Absolument ! C'est à ça qu'elles servent ! Notre générateur est conçu pour alimenter votre créativité et vous fournir des noms authentiques pour enrichir vos fanfictions, campagnes de JdR ou tout autre projet créatif se déroulant dans ou inspiré par le monde de Skyrim. N'hésitez pas à nous faire un clin d'œil si vous aimez ce que vous obtenez !",
+        "zh-cn": "当然！这正是它们的目的！我们的生成器旨在激发您的创造力，为您提供真实的名字，以增强您的同人小说、D&D战役或任何其他以天际世界为背景或灵感的创意项目。如果您喜欢生成的名字，请告诉我们！",
+        "ja": "もちろんです！それが目的です！私たちのジェネレーターは、あなたの創造性を刺激し、ファンフィクション、D&Dキャンペーン、またはスカイリムの世界を舞台にした、あるいはインスピレーションを受けた他のあらゆるクリエイティブなプロジェクトを強化するための authentic (真正な) な名前を提供するために設計されています。もし気に入った名前が見つかったら、ぜひ私たちに教えてください！",
+        "pt": "Absolutamente! É para isso que eles servem! Nosso gerador é projetado para alimentar sua criatividade e fornecer nomes autênticos para aprimorar sua fan fiction, campanhas de D&D ou qualquer outro projeto criativo ambientado ou inspirado no mundo de Skyrim. Apenas nos dê um grito se você amar o que conseguir!",
+        "ru": "Абсолютно! Для этого они и нужны! Наш генератор создан для того, чтобы подпитывать ваше творчество и предоставлять вам аутентичные имена для улучшения ваших фанфиков, кампаний D&D или любых других творческих проектов, происходящих в мире Скайрима или вдохновленных им. Просто дайте нам знать, если вам понравится результат!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are there names for all races, including less common ones like Falmer or Maormer?",
+        "ar": "هل توجد أسماء لجميع الأعراق، بما في ذلك الأعراق الأقل شيوعًا مثل الفالمر أو الماورمر؟",
+        "es": "¿Hay nombres para todas las razas, incluidas las menos comunes como Falmer o Maormer?",
+        "fr": "Y a-t-il des noms pour toutes les races, y compris les moins courantes comme les Falmer ou les Maormer?",
+        "zh-cn": "是否有包括法尔莫或海精灵等不常见种族的名字？",
+        "ja": "ファルマーやマオーマーのようなあまり一般的でない種族を含む、すべての種族の名前はありますか？",
+        "pt": "Existem nomes para todas as raças, incluindo as menos comuns como Falmer ou Maormer?",
+        "ru": "Есть ли имена для всех рас, включая менее распространенные, такие как Фалмеры или Маормеры?"
+      },
+      "answer": {
+        "en": "Our primary focus is on the playable races and those most commonly encountered in Skyrim. While we strive for comprehensive coverage, some of the rarer or extinct races might have limited name options due to scarcity of lore-based examples. We're always expanding our database, though!",
+        "ar": "ينصب تركيزنا الأساسي على الأعراق القابلة للعب وتلك التي يتم مواجهتها بشكل شائع في سكاي ريم. بينما نسعى جاهدين للتغطية الشاملة، قد تكون بعض الأعراق النادرة أو المنقرضة لديها خيارات أسماء محدودة بسبب ندرة الأمثلة المستندة إلى القصة. ومع ذلك، نحن نعمل دائمًا على توسيع قاعدة بياناتنا!",
+        "es": "Nuestro enfoque principal está en las razas jugables y las más comúnmente encontradas en Skyrim. Si bien nos esforzamos por una cobertura exhaustiva, algunas de las razas más raras o extintas pueden tener opciones de nombres limitadas debido a la escasez de ejemplos basados en la tradición. ¡Sin embargo, siempre estamos expandiendo nuestra base de datos!",
+        "fr": "Notre objectif principal est de couvrir les races jouables et celles les plus couramment rencontrées dans Skyrim. Bien que nous nous efforcions d'offrir une couverture complète, certaines des races plus rares ou éteintes pourraient avoir des options de noms limitées en raison de la rareté des exemples basés sur la lore. Mais nous élargissons constamment notre base de données !",
+        "zh-cn": "我们的主要关注点是天际中可玩种族和最常见的种族。虽然我们力求全面覆盖，但由于基于背景设定的例子稀少，一些稀有或已灭绝的种族可能只有有限的名称选项。不过，我们一直在扩展我们的数据库！",
+        "ja": "私たちの主な焦点は、スカイリムでプレイ可能な種族と最も一般的に遭遇する種族です。包括的なカバレッジを目指していますが、伝承に基づいた例が少ないため、一部の稀な種族や絶滅した種族には限られた名前の選択肢しかない場合があります。しかし、私たちは常にデータベースを拡張しています！",
+        "pt": "Nosso foco principal é nas raças jogáveis e nas mais comumente encontradas em Skyrim. Embora nos esforcemos para uma cobertura abrangente, algumas das raças mais raras ou extintas podem ter opções de nomes limitadas devido à escassez de exemplos baseados na lore. No entanto, estamos sempre expandindo nosso banco de dados!",
+        "ru": "Наш основной акцент делается на игровых расах и тех, которые чаще всего встречаются в Скайриме. Хотя мы стремимся к полному охвату, некоторые из более редких или вымерших рас могут иметь ограниченные варианты имен из-за нехватки примеров, основанных на лоре. Тем не менее, мы постоянно расширяем нашу базу данных!"
+      }
+    }
+  ]
+}

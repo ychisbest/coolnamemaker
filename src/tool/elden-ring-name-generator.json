@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Elden Ring Name Generator",
+    "ar": "مولد أسماء إلدن رينج",
+    "es": "Generador de Nombres de Elden Ring",
+    "fr": "Générateur de Noms Elden Ring",
+    "zh-cn": "艾尔登法环名称生成器",
+    "ja": "ELDEN RING 名前ジェネレーター",
+    "pt": "Gerador de Nomes Elden Ring",
+    "ru": "Генератор имен Elden Ring"
+  },
+  "description": {
+    "en": "Journey to the Lands Between with a name worthy of a Tarnished! Our Elden Ring Name Generator conjures up epic, lore-friendly names for your next character, weapon, or even your trusty Spirit Ash. Forge your legend with a name that echoes through the Erdtree!",
+    "ar": "انطلق في رحلة إلى الأراضي الفاصلة باسم يليق بالملعون! يولد مولد أسماء إلدن رينج الخاص بنا أسماء ملحمية ومتوافقة مع القصة لشخصيتك القادمة، سلاحك، أو حتى رماد روحك الموثوق به. اصنع أسطورتك باسم يتردد صداه عبر الشجرة الذهبية!",
+    "es": "¡Viaja a las Tierras Intermedias con un nombre digno de un Sinluz! Nuestro Generador de Nombres de Elden Ring evoca nombres épicos y fieles a la tradición para tu próximo personaje, arma o incluso tu fiel Ceniza Espiritual. ¡Forja tu leyenda con un nombre que resuene a través del Árbol Áureo!",
+    "fr": "Voyagez vers l'Entre-Terre avec un nom digne d'un Sans-éclat ! Notre Générateur de Noms Elden Ring conjure des noms épiques et fidèles à la lore pour votre prochain personnage, arme, ou même votre fidèle Cendre d'esprit. Forgez votre légende avec un nom qui résonne à travers l'Arbre-Monde !",
+    "zh-cn": "带着一个配得上褪色者的名字，踏上交界地的旅程吧！我们的艾尔登法环名称生成器能为你的下一个角色、武器，甚至是你的忠实骨灰，生成史诗般且符合背景故事的名字。用一个在黄金树下回荡的名字，铸就你的传奇！",
+    "ja": "褪せ人として相応しい名前を携え、狭間の地へと旅立とう！私たちのELDEN RING名前ジェネレーターは、あなたの次のキャラクター、武器、あるいは信頼できる霊体灰に、壮大で伝承に忠実な名前を生成します。黄金樹に響き渡る名前で、あなたの伝説を築き上げましょう！",
+    "pt": "Viaje para as Terras Intermédias com um nome digno de um Maculado! Nosso Gerador de Nomes Elden Ring evoca nomes épicos e fiéis à lore para seu próximo personagem, arma, ou até mesmo sua fiel Cinza Espiritual. Forje sua lenda com um nome que ecoa através da Árvore Sagrada!",
+    "ru": "Отправляйтесь в Междуземье с именем, достойным Потускневшего! Наш Генератор имен Elden Ring создает эпические, соответствующие лору имена для вашего следующего персонажа, оружия или даже вашего верного Духовного Пепла. Выкуйте свою легенду с именем, которое эхом разнесется по Эрдтри!"
+  },
+  "slug": "elden-ring-name-generator",
+  "prompt": {
+    "en": "Generate an Elden Ring name",
+    "ar": "إنشاء اسم إلدن رينج",
+    "es": "Generar un nombre de Elden Ring",
+    "fr": "Générer un nom Elden Ring",
+    "zh-cn": "生成一个艾尔登法环名称",
+    "ja": "ELDEN RINGの名前を生成する",
+    "pt": "Gerar um nome Elden Ring",
+    "ru": "Сгенерировать имя Elden Ring"
+  },
+  "icon": "⚔️",
+  "introduction": {
+    "en": "Tired of generic fantasy names that just don't capture the grandeur and despair of the Lands Between? Fear not, Tarnished! Our Elden Ring Name Generator is your ultimate tool for crafting names that feel like they've been plucked directly from the ancient lore. Whether you're a seasoned veteran seeking a new identity or a fresh-faced newcomer forging your first path, prepare to discover names steeped in mystery, power, and the echoes of forgotten gods. Let the grace of the Erdtree guide your choice!",
+    "ar": "هل سئمت من أسماء الخيال العامة التي لا تعكس عظمة ويأس الأراضي الفاصلة؟ لا تخف يا ملعون! مولد أسماء إلدن رينج الخاص بنا هو أداتك النهائية لإنشاء أسماء تبدو وكأنها انتزعت مباشرة من الأساطير القديمة. سواء كنت محاربًا قديمًا يبحث عن هوية جديدة أو وافدًا جديدًا يشق طريقه الأول، استعد لاكتشاف أسماء غارقة في الغموض والقوة، وأصداء الآلهة المنسية. دع نعمة الشجرة الذهبية توجه اختيارك!",
+    "es": "¿Cansado de nombres de fantasía genéricos que simplemente no capturan la grandeza y la desesperación de las Tierras Intermedias? ¡No temas, Sinluz! Nuestro Generador de Nombres de Elden Ring es tu herramienta definitiva para crear nombres que parecen sacados directamente de la antigua tradición. Ya seas un veterano experimentado buscando una nueva identidad o un recién llegado forjando tu primer camino, prepárate para descubrir nombres impregnados de misterio, poder y los ecos de dioses olvidados. ¡Que la gracia del Árbol Áureo guíe tu elección!",
+    "fr": "Fatigué des noms de fantaisie génériques qui ne capturent pas la grandeur et le désespoir de l'Entre-Terre ? N'ayez crainte, Sans-éclat ! Notre Générateur de Noms Elden Ring est votre outil ultime pour créer des noms qui semblent avoir été tirés directement de la lore antique. Que vous soyez un vétéran chevronné cherchant une nouvelle identité ou un nouveau venu forgeant votre premier chemin, préparez-vous à découvrir des noms imprégnés de mystère, de pouvoir et des échos des dieux oubliés. Que la grâce de l'Arbre-Monde guide votre choix !",
+    "zh-cn": "厌倦了那些无法捕捉交界地宏伟与绝望的普通奇幻名字？别怕，褪色者！我们的艾尔登法环名称生成器是你的终极工具，能为你创造出仿佛直接从古老传说中摘取的名字。无论你是一位寻求新身份的资深老兵，还是一个初出茅庐的拓荒者，准备好发现那些充满神秘、力量和被遗忘之神回响的名字吧。让黄金树的恩典指引你的选择！",
+    "ja": "狭間の地の壮大さと絶望を捉えきれない、ありきたりなファンタジー名にうんざりしていませんか？恐れることはありません、褪せ人よ！私たちのELDEN RING名前ジェネレーターは、古代の伝承から直接抜き取られたかのような名前を生み出す究極のツールです。新しいアイデンティティを求めるベテランも、初めての道を切り開く新参者も、神秘、力、そして忘れ去られた神々の響きに満ちた名前を発見する準備をしてください。黄金樹の恩寵があなたの選択を導きますように！",
+    "pt": "Cansado de nomes de fantasia genéricos que simplesmente não capturam a grandeza e o desespero das Terras Intermédias? Não tema, Maculado! Nosso Gerador de Nomes Elden Ring é sua ferramenta definitiva para criar nomes que parecem ter sido tirados diretamente da antiga lore. Seja você um veterano experiente buscando uma nova identidade ou um novato forjando seu primeiro caminho, prepare-se para descobrir nomes imbuídos de mistério, poder e os ecos de deuses esquecidos. Que a graça da Árvore Sagrada guie sua escolha!",
+    "ru": "Устали от шаблонных фэнтезийных имен, которые просто не передают величие и отчаяние Междуземья? Не бойтесь, Потускневший! Наш Генератор имен Elden Ring — ваш идеальный инструмент для создания имен, которые кажутся вырванными прямо из древних преданий. Будь вы опытным ветераном, ищущим новую личность, или новичком, прокладывающим свой первый путь, приготовьтесь открыть для себя имена, пропитанные тайной, силой и эхом забытых богов. Пусть благодать Эрдтри направит ваш выбор!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button, and let the Outer Gods bless your choice!",
+      "Witness a collection of names fit for any Tarnished, demigod, or beast.",
+      "Scroll through the results, feeling the echoes of the past within each name.",
+      "Found a name that sings to your soul? Copy it for your journey!",
+      "Now, go forth and claim your destiny in the Lands Between with a name that strikes fear (or awe) into your enemies!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء'، ودع الآلهة الخارجية تبارك اختيارك!",
+      "شاهد مجموعة من الأسماء التي تناسب أي ملعون، نصف إله، أو وحش.",
+      "تصفح النتائج، وشعر بصدى الماضي في كل اسم.",
+      "هل وجدت اسمًا يغني لروحك؟ انسخه لرحلتك!",
+      "والآن، انطلق واطالب بمصيرك في الأراضي الفاصلة باسم يثير الخوف (أو الرهبة) في أعدائك!"
+    ],
+    "es": [
+      "¡Haz clic en el botón 'Generar' y deja que los Dioses Exteriores bendigan tu elección!",
+      "Contempla una colección de nombres dignos de cualquier Sinluz, semidiós o bestia.",
+      "Desplázate por los resultados, sintiendo los ecos del pasado en cada nombre.",
+      "¿Encontraste un nombre que canta a tu alma? ¡Cópialo para tu viaje!",
+      "¡Ahora, ve y reclama tu destino en las Tierras Intermedias con un nombre que infunda miedo (o asombro) en tus enemigos!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer', et laissez les Dieux Extérieurs bénir votre choix !",
+      "Découvrez une collection de noms dignes de tout Sans-éclat, demi-dieu ou bête.",
+      "Faites défiler les résultats, sentant les échos du passé dans chaque nom.",
+      "Vous avez trouvé un nom qui chante à votre âme ? Copiez-le pour votre voyage !",
+      "Maintenant, partez et revendiquez votre destin dans l'Entre-Terre avec un nom qui inspire la peur (ou l'admiration) à vos ennemis !"
+    ],
+    "zh-cn": [
+      "点击\"生成\"按钮，让外神赐福你的选择！",
+      "见证一系列适合任何褪色者、半神或野兽的名字。",
+      "滚动浏览结果，感受每个名字中回荡的过往。",
+      "找到一个能与你灵魂共鸣的名字了吗？复制它，开启你的旅程！",
+      "现在，带着一个能让你的敌人心生恐惧（或敬畏）的名字，去交界地夺取你的命运吧！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、外なる神々の祝福をあなたの選択に授けましょう！",
+      "褪せ人、半神、あるいは獣にふさわしい名前のコレクションをご覧ください。",
+      "結果をスクロールし、それぞれの名前に過去の響きを感じてください。",
+      "あなたの魂に歌いかける名前を見つけましたか？旅のためにコピーしてください！",
+      "さあ、敵に恐怖（あるいは畏敬の念）を抱かせる名前を携え、狭間の地であなたの運命を掴み取りましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' e deixe os Deuses Exteriores abençoarem sua escolha!",
+      "Testemunhe uma coleção de nomes dignos de qualquer Maculado, semideus ou besta.",
+      "Role pelos resultados, sentindo os ecos do passado em cada nome.",
+      "Encontrou um nome que canta à sua alma? Copie-o para sua jornada!",
+      "Agora, vá e reivindique seu destino nas Terras Intermédias com um nome que inspire medo (ou admiração) em seus inimigos!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Сгенерировать' и пусть Внешние Боги благословят ваш выбор!",
+      "Узрите коллекцию имен, подходящих для любого Потускневшего, полубога или зверя.",
+      "Прокрутите результаты, почувствовав эхо прошлого в каждом имени.",
+      "Нашли имя, которое поет вашей душе? Скопируйте его для своего путешествия!",
+      "Теперь идите и заявите о своей судьбе в Междуземье с именем, которое вселяет страх (или благоговение) в ваших врагов!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Elden Ring Name Generator truly free, Tarnished?",
+        "ar": "هل مولد أسماء إلدن رينج هذا مجاني حقًا يا ملعون؟",
+        "es": "¿Este Generador de Nombres de Elden Ring es realmente gratis, Sinluz?",
+        "fr": "Ce Générateur de Noms Elden Ring est-il vraiment gratuit, Sans-éclat ?",
+        "zh-cn": "这个艾尔登法环名称生成器真的是免费的吗，褪色者？",
+        "ja": "このELDEN RING名前ジェネレーターは本当に無料ですか、褪せ人よ？",
+        "pt": "Este Gerador de Nomes Elden Ring é realmente gratuito, Maculado?",
+        "ru": "Этот Генератор имен Elden Ring действительно бесплатен, Потускневший?"
+      },
+      "answer": {
+        "en": "By the Erdtree, yes! We offer this service freely to all who seek to carve their legend into the Lands Between. No runes required, just a thirst for a truly epic name!",
+        "ar": "بالشجرة الذهبية، نعم! نقدم هذه الخدمة مجانًا لجميع الذين يسعون لنحت أسطورتهم في الأراضي الفاصلة. لا حاجة للرون، فقط عطش لاسم ملحمي حقًا!",
+        "es": "¡Por el Árbol Áureo, sí! Ofrecemos este servicio gratuitamente a todos los que buscan forjar su leyenda en las Tierras Intermedias. ¡No se requieren runas, solo sed de un nombre verdaderamente épico!",
+        "fr": "Par l'Arbre-Monde, oui ! Nous offrons ce service gratuitement à tous ceux qui cherchent à graver leur légende dans l'Entre-Terre. Aucune rune requise, juste une soif d'un nom vraiment épique !",
+        "zh-cn": "以黄金树之名，是的！我们免费向所有寻求在交界地刻画传奇的人提供此服务。无需卢恩，只需对一个真正史诗般名字的渴望！",
+        "ja": "黄金樹にかけて、はい！私たちは、狭間の地に自らの伝説を刻もうとするすべての人に、このサービスを無料で提供します。ルーンは不要、ただ真に壮大な名前への渇望があれば十分です！",
+        "pt": "Pela Árvore Sagrada, sim! Oferecemos este serviço gratuitamente a todos que buscam esculpir sua lenda nas Terras Intermédias. Nenhuma runa é necessária, apenas uma sede por um nome verdadeiramente épico!",
+        "ru": "Клянусь Эрдтри, да! Мы предлагаем эту услугу бесплатно всем, кто стремится выковать свою легенду в Междуземье. Руны не требуются, только жажда по-настоящему эпического имени!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my Elden Ring fan fiction or role-playing?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لقصصي الخيالية أو لعب الأدوار المستوحاة من إلدن رينج؟",
+        "es": "¿Puedo usar estos nombres para mi fan fiction o juegos de rol de Elden Ring?",
+        "fr": "Puis-je utiliser ces noms pour ma fan fiction ou mes jeux de rôle Elden Ring ?",
+        "zh-cn": "我可以用这些名字来写艾尔登法环同人小说或进行角色扮演吗？",
+        "ja": "これらの名前をELDEN RINGの二次創作やロールプレイングに使用できますか？",
+        "pt": "Posso usar esses nomes para minha fan fiction ou RPG de Elden Ring?",
+        "ru": "Могу ли я использовать эти имена для своих фанфиков или ролевых игр по Elden Ring?"
+      },
+      "answer": {
+        "en": "Absolutely! These names are forged in the spirit of the Lands Between, perfect for enriching your personal narratives and adventures. Let your imagination run wild!",
+        "ar": "بالتأكيد! هذه الأسماء صُنعت بروح الأراضي الفاصلة، وهي مثالية لإثراء رواياتك ومغامراتك الشخصية. أطلق العنان لخيالك!",
+        "es": "¡Absolutamente! Estos nombres están forjados en el espíritu de las Tierras Intermedias, perfectos para enriquecer tus narrativas y aventuras personales. ¡Deja volar tu imaginación!",
+        "fr": "Absolument ! Ces noms sont forgés dans l'esprit de l'Entre-Terre, parfaits pour enrichir vos récits personnels et vos aventures. Laissez libre cours à votre imagination !",
+        "zh-cn": "当然可以！这些名字是在交界地的精神中锻造的，非常适合丰富你的个人叙事和冒险。尽情发挥你的想象力吧！",
+        "ja": "もちろんです！これらの名前は狭間の地の精神で鍛えられており、あなたの個人的な物語や冒険を豊かにするのに最適です。想像力を存分に羽ばたかせましょう！",
+        "pt": "Absolutamente! Esses nomes são forjados no espírito das Terras Intermédias, perfeitos para enriquecer suas narrativas e aventuras pessoais. Deixe sua imaginação correr solta!",
+        "ru": "Конечно! Эти имена выкованы в духе Междуземья, идеально подходят для обогащения ваших личных повествований и приключений. Дайте волю своему воображению!"
+      }
+    },
+    {
+      "question": {
+        "en": "How many names can I generate before the Frenzied Flame consumes me?",
+        "ar": "كم عدد الأسماء التي يمكنني إنشاؤها قبل أن تستهلكني الشعلة المجنونة؟",
+        "es": "¿Cuántos nombres puedo generar antes de que la Llama Frenética me consuma?",
+        "fr": "Combien de noms puis-je générer avant que la Flamme Frénétique ne me consume ?",
+        "zh-cn": "在被癫火吞噬之前，我能生成多少个名字？",
+        "ja": "狂い火に飲み込まれる前に、いくつの名前を生成できますか？",
+        "pt": "Quantos nomes posso gerar antes que a Chama Frenética me consuma?",
+        "ru": "Сколько имен я могу сгенерировать, прежде чем меня поглотит Безумное Пламя?"
+      },
+      "answer": {
+        "en": "Fear not the Frenzied Flame for this endeavor! There is no limit to the names you can conjure. Click until your fingers are weary, and find the perfect moniker to strike terror into Malenia herself!",
+        "ar": "لا تخف من الشعلة المجنونة في هذا المسعى! لا يوجد حد للأسماء التي يمكنك استحضارها. انقر حتى تتعب أصابعك، واعثر على الاسم المثالي لإثارة الرعب في مالينيا نفسها!",
+        "es": "¡No temas a la Llama Frenética en esta empresa! No hay límite para los nombres que puedes invocar. ¡Haz clic hasta que tus dedos se cansen y encuentra el sobrenombre perfecto para infundir terror en la propia Malenia!",
+        "fr": "Ne craignez pas la Flamme Frénétique pour cette entreprise ! Il n'y a pas de limite aux noms que vous pouvez conjurer. Cliquez jusqu'à ce que vos doigts soient fatigués, et trouvez le surnom parfait pour terrifier Malenia elle-même !",
+        "zh-cn": "在这项事业中无需惧怕癫火！你可以随意生成名字，没有限制。点击直到你的手指疲惫，找到那个能让玛莲妮亚本人都为之颤抖的完美称号！",
+        "ja": "この試みにおいて狂い火を恐れる必要はありません！生成できる名前に制限はありません。指が疲れるまでクリックして、マレニア自身に恐怖を与える完璧な呼び名を見つけましょう！",
+        "pt": "Não tema a Chama Frenética nesta empreitada! Não há limite para os nomes que você pode conjurar. Clique até que seus dedos estejam cansados e encontre o apelido perfeito para aterrorizar a própria Malenia!",
+        "ru": "Не бойтесь Безумного Пламени в этом деле! Нет предела именам, которые вы можете conjure. Нажимайте, пока ваши пальцы не устанут, и найдите идеальное прозвище, чтобы напугать саму Малению!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names lore-accurate?",
+        "ar": "هل الأسماء التي تم إنشاؤها دقيقة من حيث القصة؟",
+        "es": "¿Los nombres generados son fieles a la tradición?",
+        "fr": "Les noms générés sont-ils fidèles à la lore ?",
+        "zh-cn": "生成的名称符合背景故事吗？",
+        "ja": "生成された名前は伝承に忠実ですか？",
+        "pt": "Os nomes gerados são fiéis à lore?",
+        "ru": "Соответствуют ли сгенерированные имена лору?"
+      },
+      "answer": {
+        "en": "Our generator draws inspiration from the rich tapestry of Elden Ring's lore, including character names, locations, and thematic elements. While not directly pulled from the game, they are crafted to resonate with its unique style and atmosphere, making them feel right at home in the Lands Between.",
+        "ar": "يستمد مولدنا الإلهام من النسيج الغني لقصة إلدن رينج، بما في ذلك أسماء الشخصيات والمواقع والعناصر الموضوعية. بينما لم يتم سحبها مباشرة من اللعبة، إلا أنها صُممت لتتوافق مع أسلوبها وأجوائها الفريدة، مما يجعلها تبدو وكأنها في مكانها الصحيح في الأراضي الفاصلة.",
+        "es": "Nuestro generador se inspira en el rico tapiz de la tradición de Elden Ring, incluyendo nombres de personajes, ubicaciones y elementos temáticos. Aunque no se extraen directamente del juego, están elaborados para resonar con su estilo y atmósfera únicos, haciéndolos sentir como en casa en las Tierras Intermedias.",
+        "fr": "Notre générateur s'inspire de la riche tapisserie de la lore d'Elden Ring, y compris les noms de personnages, les lieux et les éléments thématiques. Bien qu'ils ne soient pas directement tirés du jeu, ils sont conçus pour résonner avec son style et son atmosphère uniques, les faisant se sentir parfaitement à l'aise dans l'Entre-Terre.",
+        "zh-cn": "我们的生成器从艾尔登法环丰富的背景故事中汲取灵感，包括角色名称、地点和主题元素。虽然并非直接取自游戏，但它们的设计旨在与游戏独特的风格和氛围产生共鸣，让它们在交界地中感觉恰如其分。",
+        "ja": "私たちのジェネレーターは、キャラクター名、場所、テーマ要素を含むELDEN RINGの豊かな伝承からインスピレーションを得ています。ゲームから直接引用されたものではありませんが、そのユニークなスタイルと雰囲気に共鳴するように作られており、狭間の地にぴったりと馴染むように感じられるでしょう。",
+        "pt": "Nosso gerador se inspira na rica tapeçaria da lore de Elden Ring, incluindo nomes de personagens, locais e elementos temáticos. Embora não sejam diretamente retirados do jogo, eles são criados para ressoar com seu estilo e atmosfera únicos, fazendo com que se sintam em casa nas Terras Intermédias.",
+        "ru": "Наш генератор черпает вдохновение из богатой ткани лора Elden Ring, включая имена персонажей, локации и тематические элементы. Хотя они не взяты напрямую из игры, они созданы так, чтобы соответствовать ее уникальному стилю и атмосфере, заставляя их чувствовать себя как дома в Междуземье."
+      }
+    },
+    {
+      "question": {
+        "en": "Will using a name generated here help me defeat Godrick the Grafted?",
+        "ar": "هل استخدام اسم تم إنشاؤه هنا سيساعدني على هزيمة غودريك المتشعب؟",
+        "es": "¿Usar un nombre generado aquí me ayudará a derrotar a Godrick el Injertado?",
+        "fr": "L'utilisation d'un nom généré ici m'aidera-t-elle à vaincre Godrick le Greffé ?",
+        "zh-cn": "使用这里生成的名字能帮助我击败接肢葛瑞克吗？",
+        "ja": "ここで生成された名前を使用すると、接ぎ木のゴドリックを倒すのに役立ちますか？",
+        "pt": "Usar um nome gerado aqui me ajudará a derrotar Godrick, o Enxertado?",
+        "ru": "Поможет ли использование сгенерированного здесь имени победить Годрика Сторукого?"
+      },
+      "answer": {
+        "en": "While a powerful name can certainly boost your confidence, true victory against Godrick (or any demigod) comes from skill, perseverance, and perhaps a well-timed dodge roll. But hey, facing him with a name like 'Malakor, Blade of the Blighted' can't hurt!",
+        "ar": "بينما يمكن لاسم قوي أن يعزز ثقتك بالتأكيد، فإن النصر الحقيقي ضد غودريك (أو أي نصف إله) يأتي من المهارة والمثابرة، وربما لفة تفادي في الوقت المناسب. ولكن، مواجهته باسم مثل 'مالاكور، نصل الملعون' بالتأكيد لن يضر!",
+        "es": "Si bien un nombre poderoso puede aumentar tu confianza, la verdadera victoria contra Godrick (o cualquier semidiós) proviene de la habilidad, la perseverancia y quizás una voltereta evasiva en el momento oportuno. Pero oye, ¡enfrentarlo con un nombre como 'Malakor, Hoja del Blight' no puede hacer daño!",
+        "fr": "Bien qu'un nom puissant puisse certainement renforcer votre confiance, la vraie victoire contre Godrick (ou tout demi-dieu) vient de l'habileté, de la persévérance et peut-être d'une roulade d'esquive bien synchronisée. Mais bon, l'affronter avec un nom comme 'Malakor, Lame du Fléau' ne peut pas faire de mal !",
+        "zh-cn": "虽然一个强大的名字无疑能提升你的信心，但战胜葛瑞克（或任何半神）的真正胜利源于技巧、毅力，以及或许是一个恰到好处的翻滚。不过，用一个像“枯萎之刃，马拉克尔”这样的名字去面对他，肯定不会有坏处！",
+        "ja": "強力な名前は確かに自信を高めますが、ゴドリック（あるいは他の半神）に対する真の勝利は、スキル、忍耐力、そしておそらくタイミングの良い回避ロールから生まれます。しかし、'マラコール、枯れたる刃'のような名前で彼に立ち向かうのは、決して悪いことではありません！",
+        "pt": "Embora um nome poderoso possa certamente aumentar sua confiança, a verdadeira vitória contra Godrick (ou qualquer semideus) vem da habilidade, perseverança e talvez um rolamento evasivo bem cronometrado. Mas ei, enfrentá-lo com um nome como 'Malakor, Lâmina do Flagelo' não pode fazer mal!",
+        "ru": "Хотя мощное имя, безусловно, может повысить вашу уверенность, истинная победа над Годриком (или любым полубогом) достигается благодаря навыкам, настойчивости и, возможно, своевременному уклонению. Но эй, встреча с ним с именем вроде 'Малакор, Клинок Погибели' точно не повредит!"
+      }
+    }
+  ]
+}

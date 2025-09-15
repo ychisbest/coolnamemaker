@@ -1,0 +1,192 @@
+{
+  "name": {
+    "en": "Fantasy Human Name Generator",
+    "ar": "مولد أسماء البشر الخيالية",
+    "es": "Generador de Nombres Humanos de Fantasía",
+    "fr": "Générateur de Noms Humains Fantastiques",
+    "zh-cn": "奇幻人类名字生成器",
+    "ja": "ファンタジー人間名ジェネレーター",
+    "pt": "Gerador de Nomes Humanos de Fantasia",
+    "ru": "Генератор Фантазийных Человеческих Имен"
+  },
+  "description": {
+    "en": "Embark on epic quests and craft compelling characters with our Fantasy Human Name Generator! Whether you're a Dungeon Master seeking names for your NPCs, a writer building a rich world, or a gamer creating your next hero, our tool provides a trove of authentic and evocative human names perfect for any fantasy setting. Dive into a realm where every name tells a story!",
+    "ar": "انطلق في مهام ملحمية واصنع شخصيات آسرة باستخدام مولد أسماء البشر الخيالية! سواء كنت سيد الزنزانة تبحث عن أسماء لشخصياتك غير اللاعبين، أو كاتبًا يبني عالمًا غنيًا، أو لاعبًا ينشئ بطلك التالي، فإن أداتنا توفر كنزًا من الأسماء البشرية الأصيلة والموحية المثالية لأي بيئة خيالية. انغمس في عالم حيث كل اسم يحكي قصة!",
+    "es": "¡Embárcate en misiones épicas y crea personajes convincentes con nuestro Generador de Nombres Humanos de Fantasía! Ya seas un Dungeon Master buscando nombres para tus NPCs, un escritor construyendo un mundo rico, o un jugador creando tu próximo héroe, nuestra herramienta proporciona un tesoro de nombres humanos auténticos y evocadores perfectos para cualquier ambientación de fantasía. ¡Sumérgete en un reino donde cada nombre cuenta una historia!",
+    "fr": "Embarquez pour des quêtes épiques et créez des personnages captivants avec notre Générateur de Noms Humains Fantastiques ! Que vous soyez un Maître de Donjon cherchant des noms pour vos PNJ, un écrivain construisant un monde riche, ou un joueur créant votre prochain héros, notre outil fournit un trésor de noms humains authentiques et évocateurs parfaits pour tout cadre fantastique. Plongez dans un royaume où chaque nom raconte une histoire !",
+    "zh-cn": "使用我们的奇幻人类名字生成器，踏上史诗般的征程，塑造引人入胜的角色！无论您是为 NPC 寻找名字的地下城主，还是构建丰富世界的作家，抑或是创造下一个英雄的玩家，我们的工具都能提供大量真实且富有感染力的人类名字，完美适用于任何奇幻设定。潜入一个每个名字都讲述着故事的领域！",
+    "ja": "私たちのファンタジー人間名ジェネレーターで、壮大な探求に乗り出し、魅力的なキャラクターを作りましょう！NPCの名前を探しているダンジョンマスター、豊かな世界を構築している作家、次のヒーローを作成しているゲーマーのいずれであっても、私たちのツールは、どんなファンタジー設定にも完璧な、本物で示唆に富んだ人間名の宝庫を提供します。すべての名前が物語を語る領域に飛び込みましょう！",
+    "pt": "Embarque em missões épicas e crie personagens cativantes com nosso Gerador de Nomes Humanos de Fantasia! Seja você um Mestre de Masmorra procurando nomes para seus NPCs, um escritor construindo um mundo rico, ou um jogador criando seu próximo herói, nossa ferramenta fornece um tesouro de nomes humanos autênticos e evocativos perfeitos para qualquer cenário de fantasia. Mergulhe em um reino onde cada nome conta uma história!",
+    "ru": "Отправляйтесь в эпические приключения и создавайте убедительных персонажей с нашим Генератором Фантазийных Человеческих Имен! Будь вы Мастер Подземелий, ищущий имена для своих NPC, писатель, строящий богатый мир, или игрок, создающий своего следующего героя, наш инструмент предоставляет сокровищницу аутентичных и выразительных человеческих имен, идеально подходящих для любой фэнтезийной обстановки. Погрузитесь в мир, где каждое имя рассказывает историю!"
+  },
+  "slug": "fantasy-human-name-generator",
+  "prompt": {
+    "en": "Generate a fantasy human name",
+    "ar": "إنشاء اسم بشري خيالي",
+    "es": "Generar un nombre humano de fantasía",
+    "fr": "Générer un nom humain fantastique",
+    "zh-cn": "生成一个奇幻人类名字",
+    "ja": "ファンタジー人間名を生成する",
+    "pt": "Gerar um nome humano de fantasia",
+    "ru": "Сгенерировать фантазийное человеческое имя"
+  },
+  "icon": "🧝",
+  "introduction": {
+    "en": "Welcome, adventurer! In the vast and wondrous lands of fantasy, a name is more than just a label – it's a destiny, a heritage, a whisper of a forgotten tale. Our Fantasy Human Name Generator is your portal to crafting the perfect identity for your characters. From the stoic warriors of forgotten kingdoms to the cunning rogues of bustling cities, and the wise mages of ancient orders, find names that resonate with the spirit of your world. No more generic 'John Doe' in your epic saga! Let your imagination soar with names that truly belong to the realms of magic and myth.",
+    "ar": "أهلاً بك أيها المغامر! في الأراضي الشاسعة والعجيبة من الخيال، الاسم هو أكثر من مجرد تسمية - إنه قدر، إرث، همسة من حكاية منسية. مولد أسماء البشر الخيالية لدينا هو بوابتك لصياغة الهوية المثالية لشخصياتك. من المحاربين الصامتين للممالك المنسية إلى اللصوص الماكرين للمدن الصاخبة، والسحرة الحكماء من التنظيمات القديمة، ابحث عن أسماء تتوافق مع روح عالمك. لا مزيد من 'جون دو' العام في ملحمتك الأسطورية! دع خيالك يحلق بأسماء تنتمي حقًا إلى عوالم السحر والأساطير.",
+    "es": "¡Bienvenido, aventurero! En las vastas y maravillosas tierras de la fantasía, un nombre es más que una simple etiqueta: es un destino, una herencia, un susurro de un cuento olvidado. Nuestro Generador de Nombres Humanos de Fantasía es tu portal para forjar la identidad perfecta para tus personajes. Desde los estoicos guerreros de reinos olvidados hasta los astutos pícaros de ciudades bulliciosas, y los sabios magos de órdenes antiguas, encuentra nombres que resuenen con el espíritu de tu mundo. ¡No más 'Juan Pérez' genéricos en tu saga épica! Deja volar tu imaginación con nombres que realmente pertenecen a los reinos de la magia y el mito.",
+    "fr": "Bienvenue, aventurier ! Dans les vastes et merveilleuses terres de la fantasy, un nom est plus qu'une simple étiquette – c'est une destinée, un héritage, un murmure d'un conte oublié. Notre Générateur de Noms Humains Fantastiques est votre portail pour créer l'identité parfaite pour vos personnages. Des guerriers stoïques des royaumes oubliés aux roublards rusés des villes animées, et aux sages mages des ordres anciens, trouvez des noms qui résonnent avec l'esprit de votre monde. Fini les 'Jean Dupont' génériques dans votre saga épique ! Laissez votre imagination s'envoler avec des noms qui appartiennent vraiment aux royaumes de la magie et du mythe.",
+    "zh-cn": "欢迎，冒险者！在奇幻广袤而奇妙的土地上，名字不仅仅是一个称谓——它是一个命运，一份传承，一个被遗忘故事的低语。我们的奇幻人类名字生成器是您为角色打造完美身份的门户。从被遗忘王国的坚毅战士，到繁华都市的狡猾盗贼，再到古老教团的睿智法师，寻找与您世界精神共鸣的名字。在您的史诗传奇中，不再有千篇一律的“张三”！让您的想象力与真正属于魔法和神话领域的名字一起翱翔。",
+    "ja": "ようこそ、冒険者よ！広大で素晴らしいファンタジーの世界では、名前は単なるラベル以上のものです。それは運命であり、遺産であり、忘れ去られた物語のささやきです。私たちのファンタジー人間名ジェネレーターは、あなたのキャラクターに完璧なアイデンティティを作り出すためのポータルです。忘れ去られた王国の寡黙な戦士から、賑やかな都市の狡猾な悪党、そして古代の秩序の賢明な魔術師まで、あなたの世界の精神と共鳴する名前を見つけてください。あなたの壮大な物語に、もはや一般的な「名無し」は必要ありません！魔法と神話の世界に真に属する名前で想像力を羽ばたかせましょう。",
+    "pt": "Bem-vindo, aventureiro! Nas vastas e maravilhosas terras da fantasia, um nome é mais do que apenas um rótulo – é um destino, uma herança, um sussurro de um conto esquecido. Nosso Gerador de Nomes Humanos de Fantasia é seu portal para criar a identidade perfeita para seus personagens. Dos guerreiros estoicos de reinos esquecidos aos ladinos astutos de cidades movimentadas, e aos sábios magos de ordens antigas, encontre nomes que ressoem com o espírito do seu mundo. Chega de 'João Ninguém' genéricos em sua saga épica! Deixe sua imaginação voar com nomes que realmente pertencem aos reinos da magia e do mito.",
+    "ru": "Добро пожаловать, искатель приключений! В обширных и чудесных землях фэнтези имя — это больше, чем просто ярлык — это судьба, наследие, шепот забытой сказки. Наш Генератор Фантазийных Человеческих Имен — ваш портал для создания идеальной личности для ваших персонажей. От стоических воинов забытых королевств до хитрых разбойников оживленных городов и мудрых магов древних орденов, найдите имена, которые резонируют с духом вашего мира. Никаких больше общих 'Иванов Ивановых' в вашей эпической саге! Дайте волю своему воображению с именами, которые по-настоящему принадлежат к царствам магии и мифа."
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button to summon a batch of mystical names.",
+      "Browse through the generated names, each imbued with potential.",
+      "Found a name that sparks your imagination? Click to copy it!",
+      "Refine your search by specifying gender, origin, or fantasy archetype (e.g., 'Elven', 'Dwarven', 'Noble') in the input field.",
+      "Unleash your named heroes and villains upon your fantasy world!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' لاستدعاء مجموعة من الأسماء الغامضة.",
+      "تصفح الأسماء التي تم إنشاؤها، كل منها مشبع بالإمكانات.",
+      "هل وجدت اسمًا يثير خيالك؟ انقر لنسخه!",
+      "قم بتحسين بحثك بتحديد الجنس أو الأصل أو النموذج الأولي الخيالي (مثل 'إلفي'، 'قزمي'، 'نبيل') في حقل الإدخال.",
+      "أطلق أبطالك وأشرارك المسمين على عالمك الخيالي!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' para invocar un lote de nombres místicos.",
+      "Examina los nombres generados, cada uno imbuido de potencial.",
+      "¿Encontraste un nombre que enciende tu imaginación? ¡Haz clic para copiarlo!",
+      "Refina tu búsqueda especificando género, origen o arquetipo de fantasía (ej. 'Élfico', 'Enano', 'Noble') en el campo de entrada.",
+      "¡Libera a tus héroes y villanos nombrados en tu mundo de fantasía!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' pour invoquer un lot de noms mystiques.",
+      "Parcourez les noms générés, chacun imprégné de potentiel.",
+      "Vous avez trouvé un nom qui éveille votre imagination ? Cliquez pour le copier !",
+      "Affinez votre recherche en spécifiant le genre, l'origine ou l'archétype fantastique (ex. 'Elfique', 'Nain', 'Noble') dans le champ de saisie.",
+      "Libérez vos héros et vos méchants nommés dans votre monde fantastique !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮，召唤一批神秘的名字。",
+      "浏览生成的名称，每个都蕴含着潜力。",
+      "找到一个激发您想象力的名字了吗？点击复制它！",
+      "在输入字段中指定性别、起源或奇幻原型（例如，“精灵”、“矮人”、“贵族”），以优化您的搜索。",
+      "将您命名好的英雄和反派释放到您的奇幻世界中！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、神秘的な名前のバッチを召喚します。",
+      "生成された名前を閲覧し、それぞれの名前に秘められた可能性を感じてください。",
+      "あなたの想像力を刺激する名前を見つけましたか？クリックしてコピーしてください！",
+      "入力フィールドで性別、起源、またはファンタジーの原型（例：「エルフ」、「ドワーフ」、「貴族」）を指定して検索を絞り込みます。",
+      "名前を付けた英雄や悪役をあなたのファンタジーの世界に解き放ちましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' para invocar um lote de nomes místicos.",
+      "Navegue pelos nomes gerados, cada um imbuído de potencial.",
+      "Encontrou um nome que acende sua imaginação? Clique para copiá-lo!",
+      "Refine sua busca especificando gênero, origem ou arquétipo de fantasia (ex: 'Élfico', 'Anão', 'Nobre') no campo de entrada.",
+      "Liberte seus heróis e vilões nomeados em seu mundo de fantasia!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Сгенерировать', чтобы вызвать партию мистических имен.",
+      "Просмотрите сгенерированные имена, каждое из которых обладает потенциалом.",
+      "Нашли имя, которое пробуждает ваше воображение? Нажмите, чтобы скопировать его!",
+      "Уточните свой поиск, указав пол, происхождение или фэнтезийный архетип (например, 'Эльфийский', 'Гномий', 'Благородный') в поле ввода.",
+      "Выпустите своих названных героев и злодеев в ваш фэнтезийный мир!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "How does the Fantasy Human Name Generator work?",
+        "ar": "كيف يعمل مولد أسماء البشر الخيالية؟",
+        "es": "¿Cómo funciona el Generador de Nombres Humanos de Fantasía?",
+        "fr": "Comment fonctionne le Générateur de Noms Humains Fantastiques ?",
+        "zh-cn": "奇幻人类名字生成器是如何工作的？",
+        "ja": "ファンタジー人間名ジェネレーターはどのように機能しますか？",
+        "pt": "Como funciona o Gerador de Nomes Humanos de Fantasia?",
+        "ru": "Как работает Генератор Фантазийных Человеческих Имен?"
+      },
+      "answer": {
+        "en": "Our generator uses a sophisticated algorithm that combines elements from various historical and mythological sources, alongside common linguistic patterns, to create names that sound authentic to a fantasy setting. It draws inspiration from real-world cultures, ancient languages, and classic fantasy literature to ensure a diverse and rich output. You can even input keywords to guide the generation!",
+        "ar": "يستخدم مولدنا خوارزمية متطورة تجمع عناصر من مصادر تاريخية وأسطورية مختلفة، جنبًا إلى جنب مع الأنماط اللغوية الشائعة، لإنشاء أسماء تبدو أصيلة لبيئة خيالية. يستمد إلهامه من الثقافات الواقعية واللغات القديمة والأدب الخيالي الكلاسيكي لضمان مخرجات متنوعة وغنية. يمكنك حتى إدخال كلمات رئيسية لتوجيه عملية الإنشاء!",
+        "es": "Nuestro generador utiliza un algoritmo sofisticado que combina elementos de diversas fuentes históricas y mitológicas, junto con patrones lingüísticos comunes, para crear nombres que suenen auténticos en un entorno de fantasía. Se inspira en culturas del mundo real, lenguas antiguas y literatura fantástica clásica para asegurar una producción diversa y rica. ¡Incluso puedes introducir palabras clave para guiar la generación!",
+        "fr": "Notre générateur utilise un algorithme sophistiqué qui combine des éléments de diverses sources historiques et mythologiques, ainsi que des modèles linguistiques courants, pour créer des noms qui sonnent authentiques dans un cadre fantastique. Il s'inspire de cultures réelles, de langues anciennes et de la littérature fantastique classique pour garantir une production diverse et riche. Vous pouvez même saisir des mots-clés pour guider la génération !",
+        "zh-cn": "我们的生成器使用复杂的算法，结合各种历史和神话来源的元素，以及常见的语言模式，来创建听起来真实可信的奇幻名字。它从现实世界的文化、古代语言和经典奇幻文学中汲取灵感，以确保输出的多样性和丰富性。您甚至可以输入关键词来指导生成！",
+        "ja": "当社のジェネレーターは、さまざまな歴史的および神話的情報源からの要素と、一般的な言語パターンを組み合わせて、ファンタジーの設定に本物らしく聞こえる名前を作成する洗練されたアルゴリズムを使用しています。現実世界の文化、古代言語、古典ファンタジー文学からインスピレーションを得て、多様で豊かな出力を保証します。キーワードを入力して生成をガイドすることもできます！",
+        "pt": "Nosso gerador utiliza um algoritmo sofisticado que combina elementos de várias fontes históricas e mitológicas, juntamente com padrões linguísticos comuns, para criar nomes que soam autênticos em um cenário de fantasia. Ele se inspira em culturas do mundo real, línguas antigas e literatura fantástica clássica para garantir uma saída diversa e rica. Você pode até inserir palavras-chave para guiar a geração!",
+        "ru": "Наш генератор использует сложный алгоритм, который сочетает элементы из различных исторических и мифологических источников, наряду с общими лингвистическими паттернами, для создания имен, звучащих аутентично в фэнтезийной обстановке. Он черпает вдохновение из реальных культур, древних языков и классической фэнтезийной литературы, чтобы обеспечить разнообразный и богатый результат. Вы даже можете вводить ключевые слова для управления генерацией!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names unique?",
+        "ar": "هل الأسماء التي تم إنشاؤها فريدة؟",
+        "es": "¿Los nombres generados son únicos?",
+        "fr": "Les noms générés sont-ils uniques ?",
+        "zh-cn": "生成的名称是独一无二的吗？",
+        "ja": "生成された名前はユニークですか？",
+        "pt": "Os nomes gerados são únicos?",
+        "ru": "Являются ли сгенерированные имена уникальными?"
+      },
+      "answer": {
+        "en": "While our generator aims for originality, with the vast number of fantasy works out there, complete uniqueness can't be 100% guaranteed. However, our algorithm is designed to produce a wide array of combinations, making it highly probable that you'll find names that feel fresh and distinct for your specific needs. We recommend doing a quick search if you plan to use a name for a major commercial project.",
+        "ar": "بينما يهدف مولدنا إلى الأصالة، مع العدد الهائل من أعمال الخيال الموجودة، لا يمكن ضمان التفرد الكامل بنسبة 100٪. ومع ذلك، تم تصميم خوارزميتنا لإنتاج مجموعة واسعة من التركيبات، مما يجعل من المحتمل جدًا أن تجد أسماء تبدو جديدة ومميزة لاحتياجاتك الخاصة. نوصي بإجراء بحث سريع إذا كنت تخطط لاستخدام اسم لمشروع تجاري كبير.",
+        "es": "Aunque nuestro generador busca la originalidad, con la gran cantidad de obras de fantasía que existen, la singularidad completa no puede garantizarse al 100%. Sin embargo, nuestro algoritmo está diseñado para producir una amplia gama de combinaciones, lo que hace muy probable que encuentres nombres que se sientan frescos y distintos para tus necesidades específicas. Recomendamos hacer una búsqueda rápida si planeas usar un nombre para un proyecto comercial importante.",
+        "fr": "Bien que notre générateur vise l'originalité, avec le grand nombre d'œuvres fantastiques existantes, une unicité complète ne peut être garantie à 100%. Cependant, notre algorithme est conçu pour produire un large éventail de combinaisons, rendant très probable que vous trouviez des noms qui semblent frais et distincts pour vos besoins spécifiques. Nous vous recommandons de faire une recherche rapide si vous prévoyez d'utiliser un nom pour un projet commercial majeur.",
+        "zh-cn": "尽管我们的生成器旨在追求原创性，但考虑到现有的大量奇幻作品，无法百分之百保证完全的独特性。然而，我们的算法旨在生成广泛的组合，这使得您很有可能找到适合您特定需求的、感觉新颖独特的名称。如果您计划将某个名称用于重要的商业项目，我们建议您进行快速搜索。",
+        "ja": "当社のジェネレーターはオリジナリティを目指していますが、世の中に存在する膨大なファンタジー作品を考えると、完全なユニークさを100％保証することはできません。しかし、当社のアルゴリズムは幅広い組み合わせを生成するように設計されており、特定のニーズに合った新鮮で独特な名前を見つける可能性は非常に高いです。主要な商業プロジェクトに名前を使用する予定がある場合は、簡単な検索を行うことをお勧めします。",
+        "pt": "Embora nosso gerador vise a originalidade, com o vasto número de obras de fantasia existentes, a singularidade completa não pode ser 100% garantida. No entanto, nosso algoritmo é projetado para produzir uma ampla gama de combinações, tornando altamente provável que você encontre nomes que pareçam frescos e distintos para suas necessidades específicas. Recomendamos fazer uma pesquisa rápida se você planeja usar um nome para um grande projeto comercial.",
+        "ru": "Хотя наш генератор стремится к оригинальности, при огромном количестве существующих фэнтезийных произведений полная уникальность не может быть гарантирована на 100%. Однако наш алгоритм разработан для создания широкого спектра комбинаций, что делает весьма вероятным, что вы найдете имена, которые будут свежими и уникальными для ваших конкретных нужд. Мы рекомендуем провести быстрый поиск, если вы планируете использовать имя для крупного коммерческого проекта."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my D&D campaign or novel?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لحملتي D&D أو روايتي؟",
+        "es": "¿Puedo usar estos nombres para mi campaña de D&D o mi novela?",
+        "fr": "Puis-je utiliser ces noms pour ma campagne de D&D ou mon roman ?",
+        "zh-cn": "我可以用这些名字来我的 D&D 战役或小说吗？",
+        "ja": "これらの名前をD&Dキャンペーンや小説に使えますか？",
+        "pt": "Posso usar esses nomes para minha campanha de D&D ou meu romance?",
+        "ru": "Могу ли я использовать эти имена для своей кампании D&D или романа?"
+      },
+      "answer": {
+        "en": "Absolutely! That's exactly what it's for! Our generator is a perfect companion for Dungeon Masters, writers, and role-players looking to populate their worlds with memorable human characters. Feel free to adapt, combine, and modify the names to perfectly fit your narrative. The names are here to inspire your creativity!",
+        "ar": "بالتأكيد! هذا هو بالضبط ما صنع من أجله! مولدنا هو رفيق مثالي لسادة الأبراج، والكتاب، ولاعبي الأدوار الذين يتطلعون إلى ملء عوالمهم بشخصيات بشرية لا تُنسى. لا تتردد في تكييف ودمج وتعديل الأسماء لتناسب روايتك تمامًا. الأسماء هنا لإلهام إبداعك!",
+        "es": "¡Absolutamente! ¡Para eso está exactamente! Nuestro generador es un compañero perfecto para Dungeon Masters, escritores y jugadores de rol que buscan poblar sus mundos con personajes humanos memorables. Siéntete libre de adaptar, combinar y modificar los nombres para que encajen perfectamente en tu narrativa. ¡Los nombres están aquí para inspirar tu creatividad!",
+        "fr": "Absolument ! C'est exactement à cela qu'il sert ! Notre générateur est un compagnon parfait pour les Maîtres de Donjon, les écrivains et les joueurs de rôle qui cherchent à peupler leurs mondes de personnages humains mémorables. N'hésitez pas à adapter, combiner et modifier les noms pour qu'ils correspondent parfaitement à votre narration. Les noms sont là pour inspirer votre créativité !",
+        "zh-cn": "当然可以！这正是它的用途！我们的生成器是地下城主、作家和角色扮演玩家的完美伴侣，他们希望用令人难忘的人类角色来充实自己的世界。您可以随意调整、组合和修改这些名字，使其完美契合您的叙事。这些名字旨在激发您的创造力！",
+        "ja": "もちろん！それがまさにこの目的です！私たちのジェネレーターは、ダンジョンマスター、作家、ロールプレイヤーが記憶に残る人間キャラクターで世界を埋め尽くすための完璧な相棒です。自由に名前を適応、結合、変更して、あなたの物語に完璧にフィットさせてください。名前はあなたの創造性を刺激するためにここにあります！",
+        "pt": "Absolutamente! É exatamente para isso que serve! Nosso gerador é um companheiro perfeito para Mestres de Masmorra, escritores e jogadores de RPG que procuram povoar seus mundos com personagens humanos memoráveis. Sinta-se à vontade para adaptar, combinar e modificar os nomes para que se encaixem perfeitamente em sua narrativa. Os nomes estão aqui para inspirar sua criatividade!",
+        "ru": "Абсолютно! Именно для этого он и предназначен! Наш генератор — идеальный компаньон для Мастеров Подземелий, писателей и ролевиков, желающих населить свои миры запоминающимися человеческими персонажами. Не стесняйтесь адаптировать, комбинировать и изменять имена, чтобы они идеально подходили вашей истории. Имена здесь, чтобы вдохновлять ваше творчество!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I filter names by specific fantasy races or origins?",
+        "ar": "هل يمكنني تصفية الأسماء حسب الأعراق أو الأصول الخيالية المحددة؟",
+        "es": "¿Puedo filtrar nombres por razas o orígenes de fantasía específicos?",
+        "fr": "Puis-je filtrer les noms par races ou origines fantastiques spécifiques ?",
+        "zh-cn": "我可以根据特定的奇幻种族或起源来筛选名字吗？",
+        "ja": "特定のファンタジー種族や起源で名前をフィルタリングできますか？",
+        "pt": "Posso filtrar nomes por raças ou origens de fantasia específicas?",
+        "ru": "Могу ли я фильтровать имена по конкретным фэнтезийным расам или происхождению?"
+      },
+      "answer": {
+        "en": "Yes! While the primary focus is on 'human' names in a broad fantasy sense, our advanced input options allow you to include keywords like 'Elven-sounding,' 'Dwarven-inspired,' 'Noble House,' or even specific cultural influences (e.g., 'Nordic human') to guide the generator towards more tailored results. Experiment with your prompts!",
+        "ar": "نعم! بينما ينصب التركيز الأساسي على الأسماء 'البشرية' بالمعنى الخيالي الواسع، فإن خيارات الإدخال المتقدمة لدينا تسمح لك بتضمين كلمات رئيسية مثل 'ذات صوت إلفي'، 'مستوحاة من الأقزام'، 'البيت النبيل'، أو حتى التأثيرات الثقافية المحددة (مثل 'بشري نوردي') لتوجيه المولد نحو نتائج أكثر تخصيصًا. جرب مطالباتك!",
+        "es": "¡Sí! Si bien el enfoque principal son los nombres 'humanos' en un sentido fantástico amplio, nuestras opciones de entrada avanzadas le permiten incluir palabras clave como 'con sonido élfico', 'inspirado en enanos', 'Casa Noble', o incluso influencias culturales específicas (por ejemplo, 'humano nórdico') para guiar al generador hacia resultados más específicos. ¡Experimenta con tus indicaciones!",
+        "fr": "Oui ! Bien que l'accent principal soit mis sur les noms 'humains' au sens large de la fantasy, nos options de saisie avancées vous permettent d'inclure des mots-clés tels que 'sonorité elfique', 'inspiré par les nains', 'Maison Noble', ou même des influences culturelles spécifiques (par exemple, 'humain nordique') pour orienter le générateur vers des résultats plus personnalisés. Expérimentez avec vos invites !",
+        "zh-cn": "是的！虽然主要关注的是广义奇幻中的“人类”名字，但我们的高级输入选项允许您包含诸如“精灵风格”、“矮人启发”、“贵族世家”等关键词，甚至具体的文化影响（例如，“北欧人类”）来引导生成器获得更定制化的结果。尝试使用您的提示词吧！",
+        "ja": "はい！主な焦点は広範なファンタジーの意味での「人間」の名前ですが、高度な入力オプションを使用すると、「エルフ風」、「ドワーフ風」、「貴族の家」、さらには特定の文化的影響（例：「北欧の人間」）などのキーワードを含めて、ジェネレーターをよりオーダーメイドの結果に導くことができます。プロンプトを試してみてください！",
+        "pt": "Sim! Embora o foco principal seja em nomes 'humanos' em um sentido amplo de fantasia, nossas opções de entrada avançadas permitem que você inclua palavras-chave como 'com sonoridade élfica', 'inspirado em anões', 'Casa Nobre', ou até mesmo influências culturais específicas (por exemplo, 'humano nórdico') para guiar o gerador para resultados mais personalizados. Experimente com suas sugestões!",
+        "ru": "Да! Хотя основное внимание уделяется 'человеческим' именам в широком фэнтезийном смысле, наши расширенные параметры ввода позволяют вам включать ключевые слова, такие как 'эльфийский', 'дварфийский', 'Благородный Дом' или даже конкретные культурные влияния (например, 'нордический человек'), чтобы направить генератор к более индивидуальным результатам. Экспериментируйте со своими запросами!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "OC Name Generator",
+    "ar": "مولد أسماء الشخصيات الأصلية",
+    "es": "Generador de Nombres de Personajes Originales",
+    "fr": "Générateur de Noms de Personnages Originaux",
+    "zh-cn": "原创角色名称生成器",
+    "ja": "オリジナルキャラクター名ジェネレーター",
+    "pt": "Gerador de Nomes de Personagens Originais",
+    "ru": "Генератор Имен Оригинальных Персонажей"
+  },
+  "description": {
+    "en": "Struggling to find that perfect, memorable name for your original character? Whether they're a hero, villain, or quirky sidekick, our OC Name Generator is here to spark your imagination! Dive into a world of endless possibilities and discover a name that truly brings your character to life. Get ready to create legends!",
+    "ar": "هل تكافح للعثور على الاسم المثالي الذي لا يُنسى لشخصيتك الأصلية؟ سواء كانوا بطلاً أو شريرًا أو رفيقًا غريب الأطوار، فإن مولد أسماء الشخصيات الأصلية لدينا هنا لإثارة خيالك! انغمس في عالم من الاحتمالات اللانهائية واكتشف اسمًا يحيي شخصيتك حقًا. استعد لإنشاء أساطير!",
+    "es": "¿Luchando por encontrar ese nombre perfecto y memorable para tu personaje original? Ya sea un héroe, villano o compañero peculiar, nuestro Generador de Nombres de Personajes Originales está aquí para encender tu imaginación. Sumérgete en un mundo de infinitas posibilidades y descubre un nombre que realmente dé vida a tu personaje. ¡Prepárate para crear leyendas!",
+    "fr": "Vous avez du mal à trouver ce nom parfait et mémorable pour votre personnage original ? Qu'il s'agisse d'un héros, d'un méchant ou d'un acolyte excentrique, notre Générateur de Noms de Personnages Originaux est là pour stimuler votre imagination ! Plongez dans un monde de possibilités infinies et découvrez un nom qui donne vraiment vie à votre personnage. Préparez-vous à créer des légendes !",
+    "zh-cn": "还在为你的原创角色寻找一个完美、令人难忘的名字而苦恼吗？无论他们是英雄、反派还是古怪的伙伴，我们的原创角色名称生成器都能激发你的想象力！潜入一个充满无限可能的世界，发现一个真正能让你的角色栩栩如生的名字。准备好创造传奇吧！",
+    "ja": "あなたのオリジナルキャラクターにぴったりの、記憶に残る名前を見つけるのに苦労していませんか？彼らがヒーロー、悪役、または風変わりな相棒であろうと、私たちのOCネームジェネレーターはあなたの想像力を刺激するためにここにあります！無限の可能性の世界に飛び込み、あなたのキャラクターに真の命を吹き込む名前を発見してください。伝説を創造する準備をしてください！",
+    "pt": "Lutando para encontrar aquele nome perfeito e memorável para seu personagem original? Seja um herói, vilão ou companheiro peculiar, nosso Gerador de Nomes de Personagens Originais está aqui para acender sua imaginação! Mergulhe em um mundo de possibilidades infinitas e descubra um nome que realmente dê vida ao seu personagem. Prepare-se para criar lendas!",
+    "ru": "Пытаетесь найти идеальное, запоминающееся имя для своего оригинального персонажа? Будь то герой, злодей или эксцентричный помощник, наш Генератор Имен Оригинальных Персонажей здесь, чтобы разжечь ваше воображение! Погрузитесь в мир бесконечных возможностей и откройте для себя имя, которое по-настоящему оживит вашего персонажа. Приготовьтесь создавать легенды!"
+  },
+  "slug": "oc-name-generator",
+  "prompt": {
+    "en": "Generate an OC name",
+    "ar": "إنشاء اسم شخصية أصلية",
+    "es": "Generar un nombre de personaje original",
+    "fr": "Générer un nom de personnage original",
+    "zh-cn": "生成一个原创角色名称",
+    "ja": "オリジナルキャラクター名を生成する",
+    "pt": "Gerar um nome de personagem original",
+    "ru": "Сгенерировать имя оригинального персонажа"
+  },
+  "icon": "✨",
+  "introduction": {
+    "en": "Every great story starts with a great character, and every great character needs a name that resonates. Forget generic placeholders and dive into a universe of unique monikers. Our OC Name Generator is designed to provide you with names that fit a myriad of genres, from epic fantasy to gritty cyberpunk, from whimsical fairy tales to intense sci-fi. Let your creativity soar, and let us handle the naming! Your next iconic character is just a click away.",
+    "ar": "كل قصة عظيمة تبدأ بشخصية عظيمة، وكل شخصية عظيمة تحتاج إلى اسم يتردد صداه. انسَ الأسماء العامة وادخل إلى عالم من الأسماء الفريدة. تم تصميم مولد أسماء الشخصيات الأصلية لدينا ليوفر لك أسماء تناسب عددًا لا يحصى من الأنواع، من الخيال الملحمي إلى السايبربانك القاسي، ومن الحكايات الخرافية الغريبة إلى الخيال العلمي المكثف. دع إبداعك يرتفع، ودعنا نتولى التسمية! شخصيتك الأيقونية التالية على بعد نقرة واحدة فقط.",
+    "es": "Toda gran historia comienza con un gran personaje, y todo gran personaje necesita un nombre que resuene. Olvídate de los nombres genéricos y sumérgete en un universo de apodos únicos. Nuestro Generador de Nombres de Personajes Originales está diseñado para proporcionarte nombres que se adapten a una miríada de géneros, desde la fantasía épica hasta el ciberpunk crudo, desde cuentos de hadas caprichosos hasta ciencia ficción intensa. ¡Deja volar tu creatividad y déjanos el nombramiento! Tu próximo personaje icónico está a solo un clic de distancia.",
+    "fr": "Toute grande histoire commence par un grand personnage, et tout grand personnage a besoin d'un nom qui résonne. Oubliez les noms génériques et plongez dans un univers de surnoms uniques. Notre Générateur de Noms de Personnages Originaux est conçu pour vous fournir des noms qui conviennent à une myriade de genres, de la fantasy épique au cyberpunk sombre, des contes de fées fantaisistes à la science-fiction intense. Laissez votre créativité s'envoler, et laissez-nous nous occuper du nom ! Votre prochain personnage emblématique est à portée de clic.",
+    "zh-cn": "每一个伟大的故事都始于一个伟大的角色，而每一个伟大的角色都需要一个能引起共鸣的名字。忘记那些通用占位符吧，深入到一个充满独特称谓的宇宙。我们的原创角色名称生成器旨在为你提供适合各种流派的名称，从史诗奇幻到硬核赛博朋克，从异想天开的童话到紧张的科幻。让你的创造力飞扬，命名的事就交给我们吧！你的下一个标志性角色只需点击一下即可诞生。",
+    "ja": "すべての素晴らしい物語は素晴らしいキャラクターから始まり、すべての素晴らしいキャラクターには共鳴する名前が必要です。一般的なプレースホルダーを忘れて、ユニークな名前の宇宙に飛び込みましょう。私たちのOCネームジェネレーターは、壮大なファンタジーから荒々しいサイバーパンク、気まぐれな童話から激しいSFまで、無数のジャンルに合う名前を提供するように設計されています。あなたの創造性を解き放ち、名付けは私たちにお任せください！あなたの次の象徴的なキャラクターは、クリックするだけですぐそこにいます。",
+    "pt": "Toda grande história começa com um grande personagem, e todo grande personagem precisa de um nome que ressoe. Esqueça os nomes genéricos e mergulhe em um universo de nomes únicos. Nosso Gerador de Nomes de Personagens Originais é projetado para fornecer nomes que se encaixam em uma miríade de gêneros, da fantasia épica ao cyberpunk sombrio, de contos de fadas caprichosos à ficção científica intensa. Deixe sua criatividade voar, e deixe-nos cuidar da nomeação! Seu próximo personagem icônico está a apenas um clique de distância.",
+    "ru": "Каждая великая история начинается с великого персонажа, и каждому великому персонажу нужно имя, которое находит отклик. Забудьте о стандартных именах и погрузитесь во вселенную уникальных прозвищ. Наш Генератор Имен Оригинальных Персонажей разработан, чтобы предоставить вам имена, подходящие для множества жанров, от эпического фэнтези до сурового киберпанка, от причудливых сказок до напряженной научной фантастики. Дайте волю своему творчеству, а мы позаботимся о названии! Ваш следующий культовый персонаж находится всего в одном клике."
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate OC Name' button to get started.",
+      "A new, unique name will instantly appear, ready for your character.",
+      "Not quite right? Click again for more options!",
+      "Love a name? Copy it and paste it directly into your story or game.",
+      "Experiment with different clicks to find names for all your characters, from main protagonists to background extras!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء اسم شخصية أصلية' للبدء.",
+      "سيظهر اسم فريد وجديد على الفور، جاهزًا لشخصيتك.",
+      "ليس مناسبًا تمامًا؟ انقر مرة أخرى لمزيد من الخيارات!",
+      "هل أعجبك اسم؟ انسخه والصقه مباشرة في قصتك أو لعبتك.",
+      "جرب النقرات المختلفة للعثور على أسماء لجميع شخصياتك، من الأبطال الرئيسيين إلى الشخصيات الثانوية!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar Nombre de Personaje Original' para empezar.",
+      "Un nombre nuevo y único aparecerá instantáneamente, listo para tu personaje.",
+      "¿No es del todo correcto? ¡Haz clic de nuevo para más opciones!",
+      "¿Te encanta un nombre? Cópialo y pégalo directamente en tu historia o juego.",
+      "¡Experimenta con diferentes clics para encontrar nombres para todos tus personajes, desde protagonistas principales hasta extras de fondo!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer un Nom de Personnage Original' pour commencer.",
+      "Un nouveau nom unique apparaîtra instantanément, prêt pour votre personnage.",
+      "Pas tout à fait ça ? Cliquez à nouveau pour plus d'options !",
+      "Vous aimez un nom ? Copiez-le et collez-le directement dans votre histoire ou votre jeu.",
+      "Expérimentez avec différents clics pour trouver des noms pour tous vos personnages, des protagonistes principaux aux figurants !"
+    ],
+    "zh-cn": [
+      "点击“生成原创角色名称”按钮开始。",
+      "一个全新的、独特的名称将立即出现，为你的角色准备就绪。",
+      "不太满意？再次点击以获取更多选项！",
+      "喜欢一个名字？复制它并直接粘贴到你的故事或游戏中。",
+      "尝试不同的点击，为你的所有角色寻找名字，从主要主角到背景配角！"
+    ],
+    "ja": [
+      "「OC名を生成」ボタンをクリックして開始します。",
+      "新しいユニークな名前がすぐに表示され、あなたのキャラクターに準備が整います。",
+      "しっくりきませんか？もう一度クリックして他のオプションを試してください！",
+      "気に入った名前がありましたか？コピーして、ストーリーやゲームに直接貼り付けてください。",
+      "メインキャラクターから背景の脇役まで、すべてのキャラクターの名前を見つけるために、さまざまなクリックを試してみてください！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar Nome de Personagem Original' para começar.",
+      "Um nome novo e único aparecerá instantaneamente, pronto para seu personagem.",
+      "Não está perfeito? Clique novamente para mais opções!",
+      "Adora um nome? Copie-o e cole-o diretamente em sua história ou jogo.",
+      "Experimente com diferentes cliques para encontrar nomes para todos os seus personagens, desde protagonistas principais até figurantes de fundo!"
+    ],
+    "ru": [
+      "Нажмите кнопку «Сгенерировать имя OC», чтобы начать.",
+      "Новое, уникальное имя мгновенно появится, готовое для вашего персонажа.",
+      "Не совсем то? Нажмите еще раз для получения дополнительных вариантов!",
+      "Понравилось имя? Скопируйте его и вставьте прямо в свою историю или игру.",
+      "Экспериментируйте с разными кликами, чтобы найти имена для всех ваших персонажей, от главных героев до статистов!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "What kind of OC names does this generator create?",
+        "ar": "ما نوع أسماء الشخصيات الأصلية التي ينشئها هذا المولد؟",
+        "es": "¿Qué tipo de nombres de personajes originales crea este generador?",
+        "fr": "Quel type de noms de personnages originaux ce générateur crée-t-il?",
+        "zh-cn": "这个生成器能创建哪种类型的原创角色名称？",
+        "ja": "このジェネレーターはどのようなOC名を作成しますか？",
+        "pt": "Que tipo de nomes de personagens originais este gerador cria?",
+        "ru": "Какие имена оригинальных персонажей создает этот генератор?"
+      },
+      "answer": {
+        "en": "Our OC Name Generator is designed to be versatile! It can produce names suitable for fantasy, sci-fi, modern settings, and everything in between. We aim for a mix of unique, evocative, and sometimes classic-sounding names to inspire your storytelling.",
+        "ar": "تم تصميم مولد أسماء الشخصيات الأصلية لدينا ليكون متعدد الاستخدامات! يمكنه إنتاج أسماء مناسبة للخيال العلمي، والخيال، والإعدادات الحديثة، وكل ما بينهما. نهدف إلى مزيج من الأسماء الفريدة، والموحية، وأحيانًا الكلاسيكية لإلهام سرد قصصك.",
+        "es": "¡Nuestro Generador de Nombres de Personajes Originales está diseñado para ser versátil! Puede producir nombres adecuados para fantasía, ciencia ficción, entornos modernos y todo lo demás. Buscamos una mezcla de nombres únicos, evocadores y a veces de sonido clásico para inspirar tu narración.",
+        "fr": "Notre Générateur de Noms de Personnages Originaux est conçu pour être polyvalent ! Il peut produire des noms adaptés à la fantasy, à la science-fiction, aux décors modernes et à tout ce qui se trouve entre les deux. Nous visons un mélange de noms uniques, évocateurs et parfois classiques pour inspirer votre narration.",
+        "zh-cn": "我们的原创角色名称生成器旨在实现多功能性！它可以生成适合奇幻、科幻、现代背景以及介于两者之间的一切名称。我们旨在提供独特、富有感染力且有时听起来经典的名称，以激发你的故事创作灵感。",
+        "ja": "私たちのOCネームジェネレーターは多用途に設計されています！ファンタジー、SF、現代設定など、あらゆるジャンルに適した名前を生成できます。あなたのストーリーテリングを刺激するために、ユニークで示唆に富み、時には古典的な響きの名前の組み合わせを目指しています。",
+        "pt": "Nosso Gerador de Nomes de Personagens Originais é projetado para ser versátil! Ele pode produzir nomes adequados para fantasia, ficção científica, cenários modernos e tudo mais. Nosso objetivo é uma mistura de nomes únicos, evocativos e, às vezes, de sonoridade clássica para inspirar sua narrativa.",
+        "ru": "Наш Генератор Имен Оригинальных Персонажей разработан, чтобы быть универсальным! Он может создавать имена, подходящие для фэнтези, научной фантастики, современных декораций и всего, что между ними. Мы стремимся к сочетанию уникальных, вызывающих воспоминания и иногда классически звучащих имен, чтобы вдохновить ваше повествование."
+      }
+    },
+    {
+      "question": {
+        "en": "Is this OC Name Generator free to use?",
+        "ar": "هل مولد أسماء الشخصيات الأصلية هذا مجاني للاستخدام؟",
+        "es": "¿Es este Generador de Nombres de Personajes Originales de uso gratuito?",
+        "fr": "Ce Générateur de Noms de Personnages Originaux est-il gratuit?",
+        "zh-cn": "这个原创角色名称生成器免费使用吗？",
+        "ja": "このOCネームジェネレーターは無料で利用できますか？",
+        "pt": "Este Gerador de Nomes de Personagens Originais é gratuito para usar?",
+        "ru": "Этот Генератор Имен Оригинальных Персонажей бесплатен в использовании?"
+      },
+      "answer": {
+        "en": "Absolutely! Our OC Name Generator is completely free. We believe creativity should be accessible to everyone, so feel free to generate as many names as you need without any cost.",
+        "ar": "بالتأكيد! مولد أسماء الشخصيات الأصلية لدينا مجاني تمامًا. نحن نؤمن بأن الإبداع يجب أن يكون متاحًا للجميع، لذا لا تتردد في إنشاء أكبر عدد ممكن من الأسماء دون أي تكلفة.",
+        "es": "¡Absolutamente! Nuestro Generador de Nombres de Personajes Originales es completamente gratuito. Creemos que la creatividad debe ser accesible para todos, así que siéntete libre de generar tantos nombres como necesites sin ningún costo.",
+        "fr": "Absolument ! Notre Générateur de Noms de Personnages Originaux est entièrement gratuit. Nous pensons que la créativité doit être accessible à tous, alors n'hésitez pas à générer autant de noms que vous le souhaitez sans aucun coût.",
+        "zh-cn": "完全免费！我们的原创角色名称生成器是完全免费的。我们相信创造力应该人人可及，所以请随意生成你需要的任意数量的名字，无需任何费用。",
+        "ja": "もちろんです！私たちのOCネームジェネレーターは完全に無料です。創造性は誰にでもアクセスできるべきだと考えているので、費用をかけずに必要なだけ名前を生成してください。",
+        "pt": "Absolutamente! Nosso Gerador de Nomes de Personagens Originais é totalmente gratuito. Acreditamos que a criatividade deve ser acessível a todos, então sinta-se à vontade para gerar quantos nomes precisar sem nenhum custo.",
+        "ru": "Конечно! Наш Генератор Имен Оригинальных Персонажей абсолютно бесплатен. Мы считаем, что творчество должно быть доступно каждому, поэтому смело генерируйте столько имен, сколько вам нужно, без каких-либо затрат."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these generated names for commercial projects?",
+        "ar": "هل يمكنني استخدام هذه الأسماء التي تم إنشاؤها للمشاريع التجارية؟",
+        "es": "¿Puedo usar estos nombres generados para proyectos comerciales?",
+        "fr": "Puis-je utiliser ces noms générés pour des projets commerciaux?",
+        "zh-cn": "我可以在商业项目中使用这些生成的名称吗？",
+        "ja": "これらの生成された名前を商業プロジェクトに使用できますか？",
+        "pt": "Posso usar esses nomes gerados para projetos comerciais?",
+        "ru": "Могу ли я использовать эти сгенерированные имена для коммерческих проектов?"
+      },
+      "answer": {
+        "en": "Yes, you can! All names generated by our tool are free for both personal and commercial use. However, we always recommend performing a quick search to ensure the name isn't already in use, especially for major commercial endeavors.",
+        "ar": "نعم، يمكنك ذلك! جميع الأسماء التي تم إنشاؤها بواسطة أداتنا مجانية للاستخدام الشخصي والتجاري. ومع ذلك، نوصي دائمًا بإجراء بحث سريع للتأكد من أن الاسم ليس قيد الاستخدام بالفعل، خاصة للمشاريع التجارية الكبرى.",
+        "es": "¡Sí, puedes! Todos los nombres generados por nuestra herramienta son gratuitos tanto para uso personal como comercial. Sin embargo, siempre recomendamos realizar una búsqueda rápida para asegurarte de que el nombre no esté ya en uso, especialmente para grandes proyectos comerciales.",
+        "fr": "Oui, vous le pouvez ! Tous les noms générés par notre outil sont libres d'utilisation personnelle et commerciale. Cependant, nous vous recommandons toujours d'effectuer une recherche rapide pour vous assurer que le nom n'est pas déjà utilisé, surtout pour les projets commerciaux majeurs.",
+        "zh-cn": "是的，可以！我们工具生成的所有名称都可以用于个人和商业用途。但是，我们始终建议你进行快速搜索，以确保该名称尚未被使用，尤其是在进行大型商业项目时。",
+        "ja": "はい、可能です！私たちのツールで生成されたすべての名前は、個人用および商業用の両方で自由に使用できます。ただし、特に大規模な商業プロジェクトの場合は、名前がすでに使用されていないかを確認するために、常に簡単な検索を行うことをお勧めします。",
+        "pt": "Sim, você pode! Todos os nomes gerados por nossa ferramenta são gratuitos para uso pessoal e comercial. No entanto, sempre recomendamos fazer uma busca rápida para garantir que o nome não esteja em uso, especialmente para grandes empreendimentos comerciais.",
+        "ru": "Да, можете! Все имена, сгенерированные нашим инструментом, бесплатны как для личного, так и для коммерческого использования. Однако мы всегда рекомендуем провести быстрый поиск, чтобы убедиться, что имя не используется, особенно для крупных коммерческих предприятий."
+      }
+    },
+    {
+      "question": {
+        "en": "How many names can I generate at once?",
+        "ar": "كم عدد الأسماء التي يمكنني إنشاؤها في وقت واحد؟",
+        "es": "¿Cuántos nombres puedo generar a la vez?",
+        "fr": "Combien de noms puis-je générer à la fois?",
+        "zh-cn": "我一次可以生成多少个名称？",
+        "ja": "一度にいくつ名前を生成できますか？",
+        "pt": "Quantos nomes posso gerar de uma vez?",
+        "ru": "Сколько имен я могу сгенерировать за раз?"
+      },
+      "answer": {
+        "en": "Currently, our generator provides one unique name per click. This allows you to focus on each suggestion and consider its fit for your character. Just keep clicking for more options!",
+        "ar": "حاليًا، يوفر المولد الخاص بنا اسمًا فريدًا واحدًا لكل نقرة. يتيح لك ذلك التركيز على كل اقتراح والنظر في مدى ملاءمته لشخصيتك. ما عليك سوى النقر للحصول على المزيد من الخيارات!",
+        "es": "Actualmente, nuestro generador proporciona un nombre único por cada clic. Esto te permite concentrarte en cada sugerencia y considerar su idoneidad para tu personaje. ¡Simplemente sigue haciendo clic para obtener más opciones!",
+        "fr": "Actuellement, notre générateur fournit un nom unique par clic. Cela vous permet de vous concentrer sur chaque suggestion et de considérer son adéquation à votre personnage. Il suffit de continuer à cliquer pour plus d'options !",
+        "zh-cn": "目前，我们的生成器每次点击提供一个独特的名称。这能让你专注于每个建议，并考虑它是否适合你的角色。只需继续点击即可获得更多选项！",
+        "ja": "現在、私たちのジェネレーターはクリックごとに1つのユニークな名前を提供します。これにより、各提案に集中し、キャラクターへの適合性を検討できます。さらに多くのオプションが必要な場合は、クリックし続けてください！",
+        "pt": "Atualmente, nosso gerador fornece um nome único por clique. Isso permite que você se concentre em cada sugestão e considere sua adequação ao seu personagem. Basta continuar clicando para mais opções!",
+        "ru": "В настоящее время наш генератор предоставляет одно уникальное имя за один клик. Это позволяет вам сосредоточиться на каждом предложении и оценить его пригодность для вашего персонажа. Просто продолжайте нажимать для получения дополнительных вариантов!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest specific themes or styles for names?",
+        "ar": "هل يمكنني اقتراح مواضيع أو أنماط محددة للأسماء؟",
+        "es": "¿Puedo sugerir temas o estilos específicos para los nombres?",
+        "fr": "Puis-je suggérer des thèmes ou des styles spécifiques pour les noms?",
+        "zh-cn": "我可以为名称建议特定的主题或风格吗？",
+        "ja": "名前の特定のテーマやスタイルを提案できますか？",
+        "pt": "Posso sugerir temas ou estilos específicos para os nomes?",
+        "ru": "Могу ли я предложить конкретные темы или стили для имен?"
+      },
+      "answer": {
+        "en": "We love hearing from our users! While the current version offers a broad range, we are always looking to improve. Feel free to send us your suggestions through our feedback channel. Your ideas could help shape future updates!",
+        "ar": "نحن نحب الاستماع إلى مستخدمينا! بينما يقدم الإصدار الحالي نطاقًا واسعًا، فإننا نبحث دائمًا عن التحسين. لا تتردد في إرسال اقتراحاتك إلينا عبر قناة ملاحظاتنا. قد تساعد أفكارك في تشكيل التحديثات المستقبلية!",
+        "es": "¡Nos encanta escuchar a nuestros usuarios! Si bien la versión actual ofrece una amplia gama, siempre buscamos mejorar. No dudes en enviarnos tus sugerencias a través de nuestro canal de comentarios. ¡Tus ideas podrían ayudar a dar forma a futuras actualizaciones!",
+        "fr": "Nous adorons entendre nos utilisateurs ! Bien que la version actuelle offre un large éventail, nous cherchons toujours à nous améliorer. N'hésitez pas à nous envoyer vos suggestions via notre canal de commentaires. Vos idées pourraient aider à façonner les futures mises à jour !",
+        "zh-cn": "我们非常乐意听取用户的意见！虽然当前版本提供了广泛的选择，但我们一直在寻求改进。请随时通过我们的反馈渠道向我们发送您的建议。您的想法可能有助于塑造未来的更新！",
+        "ja": "ユーザーの皆様からのご意見をお待ちしております！現在のバージョンは幅広い選択肢を提供していますが、私たちは常に改善を目指しています。フィードバックチャネルを通じてご提案をお送りください。あなたのアイデアが今後のアップデートに役立つかもしれません！",
+        "pt": "Adoramos ouvir nossos usuários! Embora a versão atual ofereça uma ampla gama, estamos sempre procurando melhorar. Sinta-se à vontade para nos enviar suas sugestões através do nosso canal de feedback. Suas ideias podem ajudar a moldar futuras atualizações!",
+        "ru": "Мы рады слышать от наших пользователей! Хотя текущая версия предлагает широкий диапазон, мы всегда стремимся к улучшению. Не стесняйтесь присылать нам свои предложения через наш канал обратной связи. Ваши идеи могут помочь сформировать будущие обновления!"
+      }
+    }
+  ]
+}

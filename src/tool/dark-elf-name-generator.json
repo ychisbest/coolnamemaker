@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Dark Elf Name Generator",
+    "ar": "مولد أسماء الجان المظلم",
+    "es": "Generador de Nombres de Elfo Oscuro",
+    "fr": "Générateur de Noms d'Elfe Noir",
+    "zh-cn": "黑暗精灵名字生成器",
+    "ja": "ダークエルフ名ジェネレーター",
+    "pt": "Gerador de Nomes de Elfo Negro",
+    "ru": "Генератор Имен Темных Эльфов"
+  },
+  "description": {
+    "en": "Delve into the shadowy world of the Drow and unearth a name that whispers of ancient malice, cunning strategy, and unparalleled beauty. Our Dark Elf Name Generator is your portal to crafting names that are as intricate and enigmatic as the denizens of the Underdark themselves. Forge an identity worthy of the Spider Queen's favor, or one that strikes fear into the hearts of your surface-dwelling foes.",
+    "ar": "اغوص في عالم الظلال للدروا واكتشف اسمًا يهمس بالخبث القديم، والاستراتيجية الماكرة، والجمال الذي لا يضاهى. مولد أسماء الجان المظلم هو بوابتك لصياغة أسماء معقدة وغامضة مثل سكان العالم السفلي أنفسهم. اصنع هوية تستحق رضى ملكة العنكبوت، أو هوية تبث الرعب في قلوب أعدائك سكان السطح.",
+    "es": "Adéntrate en el sombrío mundo de los Drow y desentierra un nombre que susurre de antigua malicia, astutas estrategias y belleza inigualable. Nuestro Generador de Nombres de Elfo Oscuro es tu portal para crear nombres tan intrincados y enigmáticos como los propios habitantes de la Infraoscuridad. Forja una identidad digna del favor de la Reina Araña, o una que infunda terror en los corazones de tus enemigos de la superficie.",
+    "fr": "Plongez dans le monde obscur des Drows et dénichez un nom qui murmure la malice ancienne, la stratégie astucieuse et une beauté inégalée. Notre Générateur de Noms d'Elfe Noir est votre portail pour créer des noms aussi complexes et énigmatiques que les habitants de l'Outreterre eux-mêmes. Forgez une identité digne de la faveur de la Reine Araignée, ou une qui inspire la peur dans le cœur de vos ennemis de la surface.",
+    "zh-cn": "深入卓尔精灵的阴影世界，发掘一个低语着古老恶意、狡诈策略和无与伦比之美的名字。我们的黑暗精灵名字生成器是您通往创造名字的门户，这些名字如同幽暗地域的居民本身一样错综复杂且神秘莫测。铸造一个值得蜘蛛女王青睐的身份，或者一个让地表敌人心生恐惧的身份。",
+    "ja": "ドロウの影の世界に深く入り込み、古代の悪意、狡猾な戦略、そして比類なき美しさをささやく名前を発掘してください。私たちのダークエルフ名ジェネレーターは、アンダーダークの住人たち自身と同じくらい複雑で謎めいた名前を作り出すためのポータルです。蜘蛛の女王の恩恵に値するアイデンティティ、あるいは地表の敵の心に恐怖を植え付けるアイデンティティを築き上げましょう。",
+    "pt": "Mergulhe no mundo sombrio dos Drow e desenterre um nome que sussurre de malícia antiga, astúcia estratégica e beleza incomparável. Nosso Gerador de Nomes de Elfo Negro é seu portal para criar nomes tão intrincados e enigmáticos quanto os próprios habitantes da Subterra. Forje uma identidade digna do favor da Rainha Aranha, ou uma que incuta medo nos corações de seus inimigos da superfície.",
+    "ru": "Погрузитесь в теневой мир дроу и откопайте имя, шепчущее о древнем зле, хитрой стратегии и несравненной красоте. Наш Генератор Имен Темных Эльфов — это ваш портал для создания имен, столь же сложных и загадочных, как и сами обитатели Подземья. Создайте личность, достойную благосклонности Паучьей Королевы, или такую, что вселяет страх в сердца ваших врагов, живущих на поверхности."
+  },
+  "slug": "dark-elf-name-generator",
+  "prompt": {
+    "en": "Generate a dark elf name",
+    "ar": "قم بإنشاء اسم جان مظلم",
+    "es": "Generar un nombre de elfo oscuro",
+    "fr": "Générer un nom d'elfe noir",
+    "zh-cn": "生成一个黑暗精灵名字",
+    "ja": "ダークエルフ名を生成する",
+    "pt": "Gerar um nome de elfo negro",
+    "ru": "Сгенерировать имя темного эльфа"
+  },
+  "icon": "🕷️",
+  "introduction": {
+    "en": "The Drow, or Dark Elves, are a race steeped in shadow, intrigue, and a brutal matriarchal society. Their names often reflect their sharp intellect, their devotion (or defiance) to Lolth, and the inherent danger they pose. Whether you're crafting a character for a tabletop RPG, writing a dark fantasy novel, or simply seeking inspiration for a powerful moniker, our generator will provide you with a wealth of authentic and evocative Drow names. Prepare to embrace the darkness!",
+    "ar": "الدروا، أو الجان المظلم، هم عرق غارق في الظلال، والمؤامرات، ومجتمع أمومي وحشي. غالبًا ما تعكس أسماؤهم ذكاءهم الحاد، وولائهم (أو تحديهم) للوث، والخطر الكامن الذي يشكلونه. سواء كنت تصنع شخصية للعبة تقمص الأدوار على الطاولة، أو تكتب رواية خيال مظلم، أو تبحث ببساطة عن الإلهام لاسم قوي، سيوفر لك مولدنا ثروة من أسماء الدروا الأصيلة والموحية. استعد لاحتضان الظلام!",
+    "es": "Los Drow, o Elfos Oscuros, son una raza inmersa en la sombra, la intriga y una brutal sociedad matriarcal. Sus nombres a menudo reflejan su aguda inteligencia, su devoción (o desafío) a Lolth, y el peligro inherente que representan. Ya sea que estés creando un personaje para un juego de rol de mesa, escribiendo una novela de fantasía oscura, o simplemente buscando inspiración para un apodo poderoso, nuestro generador te proporcionará una gran cantidad de nombres Drow auténticos y evocadores. ¡Prepárate para abrazar la oscuridad!",
+    "fr": "Les Drows, ou Elfes Noirs, sont une race plongée dans l'ombre, l'intrigue et une société matriarcale brutale. Leurs noms reflètent souvent leur intellect aiguisé, leur dévotion (ou défi) à Lolth, et le danger inhérent qu'ils représentent. Que vous créiez un personnage pour un jeu de rôle sur table, écriviez un roman de fantasy sombre, ou cherchiez simplement l'inspiration pour un surnom puissant, notre générateur vous fournira une multitude de noms Drows authentiques et évocateurs. Préparez-vous à embrasser les ténèbres !",
+    "zh-cn": "卓尔精灵，或称黑暗精灵，是一个沉浸在阴影、阴谋和残酷母系社会中的种族。他们的名字常常反映出他们敏锐的智慧、对罗丝的忠诚（或反抗），以及他们固有的危险性。无论您是为桌面角色扮演游戏创造角色，撰写黑暗奇幻小说，还是仅仅为一个强大的绰号寻找灵感，我们的生成器都将为您提供大量真实且富有启发性的卓尔精灵名字。准备好拥抱黑暗吧！",
+    "ja": "ドロウ、またはダークエルフは、影、陰謀、そして残忍な母系社会に深く根ざした種族です。彼らの名前はしばしば、鋭い知性、ロルスへの献身（または反抗）、そして彼らがもたらす固有の危険性を反映しています。テーブルトークRPGのキャラクターを作成している場合でも、ダークファンタジー小説を書いている場合でも、あるいは単に強力な名前のインスピレーションを探している場合でも、私たちのジェネレーターは、本物で示唆に富むドロウの名前を豊富に提供します。闇を受け入れる準備をしてください！",
+    "pt": "Os Drow, ou Elfos Negros, são uma raça imersa em sombras, intrigas e uma sociedade matriarcal brutal. Seus nomes frequentemente refletem sua inteligência aguçada, sua devoção (ou desafio) a Lolth, e o perigo inerente que representam. Quer você esteja criando um personagem para um RPG de mesa, escrevendo um romance de fantasia sombria, ou simplesmente buscando inspiração para um apelido poderoso, nosso gerador fornecerá uma riqueza de nomes Drow autênticos e evocativos. Prepare-se para abraçar a escuridão!",
+    "ru": "Дроу, или Темные Эльфы, — это раса, погруженная в тень, интриги и жестокое матриархальное общество. Их имена часто отражают их острый интеллект, их преданность (или неповиновение) Ллот и присущую им опасность. Независимо от того, создаете ли вы персонажа для настольной ролевой игры, пишете темный фэнтези-роман или просто ищете вдохновение для мощного прозвища, наш генератор предоставит вам множество аутентичных и вызывающих воспоминания имен дроу. Приготовьтесь окунуться во тьму!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button to summon a new Dark Elf name from the depths of the Underdark.",
+      "Each click unveils a unique name, perfect for your Drow character or story.",
+      "Scan the results for names that resonate with the cunning, elegance, or terror of the Drow.",
+      "Found a name that feels just right? Copy it to your clipboard with ease.",
+      "Unleash your newly named Dark Elf upon the world – be it in a game, a book, or your imagination!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' لاستدعاء اسم جان مظلم جديد من أعماق العالم السفلي.",
+      "كل نقرة تكشف عن اسم فريد، مثالي لشخصيتك الدروا أو قصتك.",
+      "امسح النتائج بحثًا عن الأسماء التي تتناسب مع مكر، أناقة، أو رعب الدروا.",
+      "هل وجدت اسمًا يناسبك تمامًا؟ انسخه إلى حافظتك بسهولة.",
+      "أطلق العنان لجانك المظلم المسمى حديثًا على العالم - سواء كان ذلك في لعبة، كتاب، أو خيالك!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' para invocar un nuevo nombre de Elfo Oscuro desde las profundidades de la Infraoscuridad.",
+      "Cada clic revela un nombre único, perfecto para tu personaje o historia Drow.",
+      "Escanea los resultados en busca de nombres que resuenen con la astucia, elegancia o terror de los Drow.",
+      "¿Encontraste un nombre que te parece perfecto? Cópialo a tu portapapeles con facilidad.",
+      "¡Libera a tu Elfo Oscuro recién nombrado en el mundo, ya sea en un juego, un libro o tu imaginación!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' pour invoquer un nouveau nom d'Elfe Noir des profondeurs de l'Outreterre.",
+      "Chaque clic dévoile un nom unique, parfait pour votre personnage ou histoire Drow.",
+      "Parcourez les résultats pour des noms qui résonnent avec la ruse, l'élégance ou la terreur des Drows.",
+      "Vous avez trouvé un nom qui vous convient parfaitement ? Copiez-le facilement dans votre presse-papiers.",
+      "Libérez votre Elfe Noir nouvellement nommé sur le monde – que ce soit dans un jeu, un livre ou votre imagination !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮，从幽暗地域深处召唤一个全新的黑暗精灵名字。",
+      "每次点击都会揭示一个独特的名称，非常适合您的卓尔角色或故事。",
+      "扫描结果，寻找与卓尔的狡猾、优雅或恐怖产生共鸣的名字。",
+      "找到一个感觉恰到好处的名字了吗？轻松将其复制到剪贴板。",
+      "将您新命名的黑暗精灵释放到世界中——无论是在游戏中、书中，还是您的想象中！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、アンダーダークの深淵から新しいダークエルフの名前を召喚してください。",
+      "クリックするたびに、あなたのドロウのキャラクターや物語にぴったりのユニークな名前が明らかになります。",
+      "ドロウの狡猾さ、優雅さ、あるいは恐怖と響き合う名前を求めて結果をスキャンしてください。",
+      "ぴったりだと感じる名前が見つかりましたか？簡単にクリップボードにコピーしてください。",
+      "新しく名付けたダークエルフを世界に解き放ちましょう – それはゲーム、本、あるいはあなたの想像力の中で！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' para invocar um novo nome de Elfo Negro das profundezas da Subterra.",
+      "Cada clique revela um nome único, perfeito para seu personagem ou história Drow.",
+      "Examine os resultados em busca de nomes que ressoem com a astúcia, elegância ou terror dos Drow.",
+      "Encontrou um nome que parece perfeito? Copie-o para sua área de transferência com facilidade.",
+      "Liberte seu Elfo Negro recém-nomeado no mundo – seja em um jogo, um livro ou sua imaginação!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Генерировать', чтобы призвать новое имя Темного Эльфа из глубин Подземья.",
+      "Каждое нажатие открывает уникальное имя, идеальное для вашего персонажа дроу или истории.",
+      "Просканируйте результаты в поисках имен, которые отражают хитрость, элегантность или ужас дроу.",
+      "Нашли имя, которое кажется идеальным? Скопируйте его в буфер обмена с легкостью.",
+      "Выпустите своего новоиспеченного Темного Эльфа в мир — будь то в игре, книге или вашем воображении!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Are these names authentic to Dungeons & Dragons lore?",
+        "ar": "هل هذه الأسماء أصلية لتقاليد Dungeons & Dragons؟",
+        "es": "¿Estos nombres son auténticos según la tradición de Dungeons & Dragons?",
+        "fr": "Ces noms sont-ils authentiques par rapport à la tradition de Donjons et Dragons ?",
+        "zh-cn": "这些名字符合《龙与地下城》的设定吗？",
+        "ja": "これらの名前はダンジョンズ＆ドラゴンズの伝承に忠実ですか？",
+        "pt": "Esses nomes são autênticos à lore de Dungeons & Dragons?",
+        "ru": "Являются ли эти имена аутентичными для лора Dungeons & Dragons?"
+      },
+      "answer": {
+        "en": "Our generator draws inspiration from established Drow naming conventions and common fantasy tropes to create names that feel authentic to the dark elf aesthetic. While not directly pulled from official sourcebooks, they are designed to fit seamlessly into most fantasy settings.",
+        "ar": "يستلهم مولدنا إلهامه من تقاليد تسمية الدروا المعمول بها والمفاهيم الخيالية الشائعة لخلق أسماء تبدو أصلية لجمالية الجان المظلم. على الرغم من أنها ليست مأخوذة مباشرة من الكتب المصدر الرسمية، إلا أنها مصممة لتناسب معظم إعدادات الخيال بسلاسة.",
+        "es": "Nuestro generador se inspira en las convenciones de nombres Drow establecidas y en los tropos de fantasía comunes para crear nombres que se sientan auténticos a la estética del elfo oscuro. Aunque no se extraen directamente de los libros de fuentes oficiales, están diseñados para encajar perfectamente en la mayoría de los escenarios de fantasía.",
+        "fr": "Notre générateur s'inspire des conventions de nommage Drow établies et des tropes fantastiques courants pour créer des noms qui semblent authentiques à l'esthétique des elfes noirs. Bien qu'ils ne soient pas directement tirés des livres de règles officiels, ils sont conçus pour s'intégrer parfaitement dans la plupart des décors fantastiques.",
+        "zh-cn": "我们的生成器从既定的卓尔命名惯例和常见的奇幻原型中汲取灵感，创造出符合黑暗精灵美学的名字。虽然它们并非直接来自官方资料书，但旨在无缝融入大多数奇幻设定。",
+        "ja": "私たちのジェネレーターは、確立されたドロウの命名規則と一般的なファンタジーの定型からインスピレーションを得て、ダークエルフの美学に忠実な名前を作成します。公式の資料集から直接引用されたものではありませんが、ほとんどのファンタジー設定にシームレスに適合するように設計されています。",
+        "pt": "Nosso gerador se inspira em convenções de nomes Drow estabelecidas e tropos de fantasia comuns para criar nomes que pareçam autênticos à estética do elfo negro. Embora não sejam retirados diretamente de livros de fontes oficiais, eles são projetados para se encaixar perfeitamente na maioria das configurações de fantasia.",
+        "ru": "Наш генератор черпает вдохновение из устоявшихся правил именования дроу и общих фэнтезийных тропов, чтобы создавать имена, которые кажутся аутентичными для эстетики темных эльфов. Хотя они не взяты напрямую из официальных источников, они разработаны так, чтобы органично вписываться в большинство фэнтезийных сеттингов."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I specify gender for the names?",
+        "ar": "هل يمكنني تحديد الجنس للأسماء؟",
+        "es": "¿Puedo especificar el género para los nombres?",
+        "fr": "Puis-je spécifier le genre pour les noms ?",
+        "zh-cn": "我可以指定名字的性别吗？",
+        "ja": "名前に性別を指定できますか？",
+        "pt": "Posso especificar o gênero para os nomes?",
+        "ru": "Могу ли я указать пол для имен?"
+      },
+      "answer": {
+        "en": "Currently, our generator provides a mix of names that can lean masculine, feminine, or be gender-neutral. In Drow society, some names may have a stronger association with one gender due to their cultural roles. We aim to offer a diverse range for all your needs.",
+        "ar": "حاليًا، يقدم مولدنا مزيجًا من الأسماء التي يمكن أن تكون ذكورية، أنثوية، أو محايدة جنسيًا. في مجتمع الدروا، قد يكون لبعض الأسماء ارتباط أقوى بجنس واحد بسبب أدوارهم الثقافية. نهدف إلى تقديم مجموعة متنوعة لجميع احتياجاتك.",
+        "es": "Actualmente, nuestro generador proporciona una mezcla de nombres que pueden inclinarse hacia lo masculino, lo femenino o ser de género neutro. En la sociedad Drow, algunos nombres pueden tener una asociación más fuerte con un género debido a sus roles culturales. Nuestro objetivo es ofrecer una amplia gama para todas tus necesidades.",
+        "fr": "Actuellement, notre générateur propose un mélange de noms qui peuvent être masculins, féminins ou neutres. Dans la société Drow, certains noms peuvent avoir une association plus forte avec un genre en raison de leurs rôles culturels. Nous visons à offrir une gamme variée pour tous vos besoins.",
+        "zh-cn": "目前，我们的生成器提供混合的名字，可以偏向男性化、女性化或性别中立。在卓尔社会中，由于文化角色的原因，一些名字可能与特定性别有更强的关联。我们旨在为您提供多样化的选择，以满足您的所有需求。",
+        "ja": "現在、当社のジェネレーターは、男性的なもの、女性的なもの、または性別を問わない名前を組み合わせて提供しています。ドロウ社会では、文化的な役割により、一部の名前は特定の性別と強く関連付けられる場合があります。お客様のあらゆるニーズに対応できるよう、多様な範囲を提供することを目指しています。",
+        "pt": "Atualmente, nosso gerador oferece uma mistura de nomes que podem ser masculinos, femininos ou neutros em termos de gênero. Na sociedade Drow, alguns nomes podem ter uma associação mais forte com um gênero devido aos seus papéis culturais. Nosso objetivo é oferecer uma gama diversificada para todas as suas necessidades.",
+        "ru": "В настоящее время наш генератор предлагает сочетание имен, которые могут быть как мужскими, так и женскими, или гендерно-нейтральными. В обществе дроу некоторые имена могут иметь более сильную связь с одним полом из-за их культурных ролей. Мы стремимся предложить разнообразный выбор для всех ваших потребностей."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my published work?",
+        "ar": "هل يمكنني استخدام هذه الأسماء في عملي المنشور؟",
+        "es": "¿Puedo usar estos nombres para mi trabajo publicado?",
+        "fr": "Puis-je utiliser ces noms pour mon œuvre publiée ?",
+        "zh-cn": "我可以在我的出版作品中使用这些名字吗？",
+        "ja": "これらの名前を出版作品に使用できますか？",
+        "pt": "Posso usar esses nomes para meu trabalho publicado?",
+        "ru": "Могу ли я использовать эти имена в своей опубликованной работе?"
+      },
+      "answer": {
+        "en": "Absolutely! The names generated here are free for you to use in your creative projects, be it novels, games, or fanfiction. We encourage you to adapt them, combine them, and make them your own to truly bring your Dark Elf characters to life.",
+        "ar": "بالتأكيد! الأسماء التي تم إنشاؤها هنا مجانية لك لاستخدامها في مشاريعك الإبداعية، سواء كانت روايات، ألعاب، أو قصص معجبين. نشجعك على تكييفها، دمجها، وجعلها ملكًا لك لإضفاء الحياة حقًا على شخصيات الجان المظلم الخاصة بك.",
+        "es": "¡Absolutamente! Los nombres generados aquí son libres para que los uses en tus proyectos creativos, ya sean novelas, juegos o fanfiction. Te animamos a adaptarlos, combinarlos y hacerlos tuyos para dar vida a tus personajes de Elfo Oscuro.",
+        "fr": "Absolument ! Les noms générés ici sont libres d'utilisation dans vos projets créatifs, qu'il s'agisse de romans, de jeux ou de fanfictions. Nous vous encourageons à les adapter, à les combiner et à les faire vôtres pour donner véritablement vie à vos personnages d'Elfes Noirs.",
+        "zh-cn": "当然可以！这里生成的名字您可以自由用于您的创意项目，无论是小说、游戏还是同人作品。我们鼓励您改编、组合并使其成为您自己的名字，以真正赋予您的黑暗精灵角色生命。",
+        "ja": "もちろんです！ここで生成された名前は、小説、ゲーム、ファンフィクションなど、あなたのクリエイティブなプロジェクトで自由に使用できます。それらを適応させ、組み合わせ、そしてあなた自身のものにして、あなたのダークエルフのキャラクターに命を吹き込むことをお勧めします。",
+        "pt": "Absolutamente! Os nomes gerados aqui são livres para você usar em seus projetos criativos, sejam eles romances, jogos ou fanfiction. Nós o encorajamos a adaptá-los, combiná-los e torná-los seus para realmente dar vida aos seus personagens Elfos Negros.",
+        "ru": "Безусловно! Созданные здесь имена вы можете свободно использовать в своих творческих проектах, будь то романы, игры или фанфики. Мы рекомендуем вам адаптировать их, комбинировать и делать их своими, чтобы по-настоящему оживить ваших персонажей Темных Эльфов."
+      }
+    },
+    {
+      "question": {
+        "en": "What kind of inspiration goes into the names?",
+        "ar": "ما نوع الإلهام الذي يدخل في الأسماء؟",
+        "es": "¿Qué tipo de inspiración se utiliza para los nombres?",
+        "fr": "Quel genre d'inspiration est utilisé pour les noms ?",
+        "zh-cn": "这些名字的灵感来源于哪里？",
+        "ja": "名前にはどのようなインスピレーションが込められていますか？",
+        "pt": "Que tipo de inspiração é usada nos nomes?",
+        "ru": "Какое вдохновение лежит в основе имен?"
+      },
+      "answer": {
+        "en": "Our names are crafted with a blend of harsh-sounding consonants, sibilant sounds, and often include prefixes and suffixes that evoke themes of darkness, nobility, spider imagery, and the Underdark. We also consider the power dynamics and social structures of Drow society to give names a fitting weight.",
+        "ar": "تم صياغة أسماءنا بمزيج من الحروف الساكنة ذات الصوت القاسي، والأصوات الصفيرية، وغالبًا ما تتضمن بادئات ولاحقات تستحضر موضوعات الظلام، النبالة، صور العنكبوت، والعالم السفلي. كما نأخذ في الاعتبار ديناميكيات القوة والهياكل الاجتماعية لمجتمع الدروا لإعطاء الأسماء وزنًا مناسبًا.",
+        "es": "Nuestros nombres están elaborados con una mezcla de consonantes de sonido áspero, sonidos sibilantes, y a menudo incluyen prefijos y sufijos que evocan temas de oscuridad, nobleza, imágenes de arañas y la Infraoscuridad. También consideramos la dinámica de poder y las estructuras sociales de la sociedad Drow para dar a los nombres un peso adecuado.",
+        "fr": "Nos noms sont créés avec un mélange de consonnes dures, de sons sifflants, et incluent souvent des préfixes et des suffixes qui évoquent des thèmes de ténèbres, de noblesse, d'imagerie d'araignée et de l'Outreterre. Nous prenons également en compte la dynamique de pouvoir et les structures sociales de la société Drow pour donner aux noms un poids approprié.",
+        "zh-cn": "我们的名字融合了刺耳的辅音、嘶嘶作响的声音，并且通常包含唤起黑暗、贵族、蜘蛛意象和幽暗地域主题的前缀和后缀。我们还考虑卓尔社会的权力动态和社会结构，以赋予名字恰当的份量。",
+        "ja": "私たちの名前は、耳障りな子音、摩擦音を組み合わせ、しばしば闇、高貴さ、蜘蛛のイメージ、アンダーダークといったテーマを想起させる接頭辞や接尾辞を含んでいます。また、ドロウ社会の力のダイナミクスや社会構造も考慮し、名前に適切な重みを与えています。",
+        "pt": "Nossos nomes são criados com uma mistura de consoantes de som áspero, sons sibilantes, e frequentemente incluem prefixos e sufixos que evocam temas de escuridão, nobreza, imagens de aranha e a Subterra. Também consideramos a dinâmica de poder e as estruturas sociais da sociedade Drow para dar aos nomes um peso adequado.",
+        "ru": "Наши имена созданы с использованием сочетания резких согласных, шипящих звуков и часто включают префиксы и суффиксы, которые вызывают темы тьмы, благородства, образов пауков и Подземья. Мы также учитываем динамику власти и социальные структуры общества дроу, чтобы придать именам соответствующий вес."
+      }
+    },
+    {
+      "question": {
+        "en": "Why are Dark Elf names so complex?",
+        "ar": "لماذا أسماء الجان المظلم معقدة جدًا؟",
+        "es": "¿Por qué los nombres de los Elfos Oscuros son tan complejos?",
+        "fr": "Pourquoi les noms d'Elfes Noirs sont-ils si complexes ?",
+        "zh-cn": "为什么黑暗精灵的名字如此复杂？",
+        "ja": "なぜダークエルフの名前はそんなに複雑なのですか？",
+        "pt": "Por que os nomes dos Elfos Negros são tão complexos?",
+        "ru": "Почему имена Темных Эльфов такие сложные?"
+      },
+      "answer": {
+        "en": "The complexity of Dark Elf names often reflects their intricate culture, strict social hierarchy, and the emphasis on lineage and power. A longer, more elaborate name can signify greater status or a more ancient bloodline within Drow society. It adds to their mysterious and formidable aura.",
+        "ar": "تعكس تعقيد أسماء الجان المظلم غالبًا ثقافتهم المعقدة، وتسلسلهم الاجتماعي الصارم، والتركيز على النسب والقوة. يمكن لاسم أطول وأكثر تفصيلاً أن يدل على مكانة أعلى أو سلالة أقدم داخل مجتمع الدروا. إنه يضيف إلى هالتهم الغامضة والمخيفة.",
+        "es": "La complejidad de los nombres de los Elfos Oscuros a menudo refleja su intrincada cultura, estricta jerarquía social y el énfasis en el linaje y el poder. Un nombre más largo y elaborado puede significar un mayor estatus o un linaje más antiguo dentro de la sociedad Drow. Contribuye a su aura misteriosa y formidable.",
+        "fr": "La complexité des noms d'Elfes Noirs reflète souvent leur culture complexe, leur hiérarchie sociale stricte et l'accent mis sur la lignée et le pouvoir. Un nom plus long et plus élaboré peut signifier un statut plus élevé ou une lignée plus ancienne au sein de la société Drow. Cela ajoute à leur aura mystérieuse et formidable.",
+        "zh-cn": "黑暗精灵名字的复杂性常常反映出他们错综复杂的文化、严格的社会等级制度以及对血统和权力的重视。一个更长、更精巧的名字可能意味着在卓尔社会中更高的地位或更古老的血统。这增加了他们神秘而强大的气场。",
+        "ja": "ダークエルフの名前の複雑さは、しばしば彼らの複雑な文化、厳格な社会階層、そして血統と権力への重点を反映しています。より長く、より凝った名前は、ドロウ社会におけるより高い地位やより古い血統を示すことがあります。それは彼らの神秘的で手ごわいオーラを増幅させます。",
+        "pt": "A complexidade dos nomes dos Elfos Negros frequentemente reflete sua cultura intrincada, hierarquia social estrita e a ênfase na linhagem e no poder. Um nome mais longo e elaborado pode significar maior status ou uma linhagem mais antiga dentro da sociedade Drow. Isso adiciona à sua aura misteriosa e formidável.",
+        "ru": "Сложность имен Темных Эльфов часто отражает их запутанную культуру, строгую социальную иерархию и акцент на родословной и власти. Более длинное, более сложное имя может означать более высокий статус или более древнюю родословную в обществе дроу. Это добавляет им таинственной и грозной ауры."
+      }
+    }
+  ]
+}

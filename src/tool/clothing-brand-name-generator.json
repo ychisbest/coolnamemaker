@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Clothing Brand Name Generator",
+    "ar": "مولد أسماء ماركات الملابس",
+    "es": "Generador de Nombres de Marcas de Ropa",
+    "fr": "Générateur de Noms de Marques de Vêtements",
+    "zh-cn": "服装品牌名称生成器",
+    "ja": "アパレルブランド名ジェネレーター",
+    "pt": "Gerador de Nomes de Marcas de Roupas",
+    "ru": "Генератор Названий Брендов Одежды"
+  },
+  "description": {
+    "en": "Launching a new fashion line? Struggling to find that perfect, catchy name that screams 'style' and 'success'? Our Clothing Brand Name Generator is your ultimate design partner! Unleash a wave of creative, memorable, and trend-setting names that will make your brand stand out from the runway to the retail rack. Get ready to dress for success!",
+    "ar": "هل تطلق خط أزياء جديد؟ هل تكافح للعثور على الاسم الجذاب المثالي الذي يصرخ 'الأناقة' و 'النجاح'؟ مولد أسماء ماركات الملابس لدينا هو شريكك التصميمي الأمثل! أطلق العنان لموجة من الأسماء الإبداعية، التي لا تُنسى، وتحدد الاتجاهات، والتي ستجعل علامتك التجارية تبرز من منصة العرض إلى رف البيع بالتجزئة. استعد للبس من أجل النجاح!",
+    "es": "¿Lanzando una nueva línea de moda? ¿Luchando por encontrar ese nombre perfecto y pegadizo que grite 'estilo' y 'éxito'? ¡Nuestro Generador de Nombres de Marcas de Ropa es tu socio de diseño definitivo! Desata una ola de nombres creativos, memorables y que marcan tendencia que harán que tu marca se destaque desde la pasarela hasta el estante de venta al por menor. ¡Prepárate para vestirte para el éxito!",
+    "fr": "Vous lancez une nouvelle ligne de mode ? Vous avez du mal à trouver ce nom parfait et accrocheur qui crie 'style' et 'succès' ? Notre Générateur de Noms de Marques de Vêtements est votre partenaire de conception ultime ! Libérez une vague de noms créatifs, mémorables et qui feront tendance, qui feront que votre marque se démarquera du podium au rayon de vente au détail. Préparez-vous à vous habiller pour le succès !",
+    "zh-cn": "正在推出新时尚系列？还在为寻找那个完美、朗朗上口、能彰显“时尚”与“成功”的品牌名称而苦恼吗？我们的服装品牌名称生成器是您的终极设计伙伴！释放一波创意十足、令人难忘、引领潮流的名称，让您的品牌从T台到货架都脱颖而出。准备好为成功而着装吧！",
+    "ja": "新しいファッションラインを立ち上げていますか？「スタイル」と「成功」を叫ぶ、完璧でキャッチーな名前を見つけるのに苦労していませんか？私たちのアパレルブランド名ジェネレーターは、あなたの究極のデザインパートナーです！ランウェイから小売棚まで、あなたのブランドを際立たせる創造的で記憶に残る、トレンドセッターな名前の波を解き放ちましょう。成功のためにドレスアップする準備をしましょう！",
+    "pt": "Lançando uma nova linha de moda? Lutando para encontrar aquele nome perfeito e cativante que grita 'estilo' e 'sucesso'? Nosso Gerador de Nomes de Marcas de Roupas é seu parceiro de design definitivo! Libere uma onda de nomes criativos, memoráveis e que ditam tendências que farão sua marca se destacar da passarela à prateleira de varejo. Prepare-se para se vestir para o sucesso!",
+    "ru": "Запускаете новую линию моды? Испытываете трудности с поиском идеального, запоминающегося названия, которое кричит «стиль» и «успех»? Наш Генератор Названий Брендов Одежды — ваш идеальный партнер по дизайну! Выпустите волну креативных, запоминающихся и задающих тренды названий, которые выделят ваш бренд от подиума до розничной полки. Приготовьтесь одеваться для успеха!"
+  },
+  "slug": "clothing-brand-name-generator",
+  "prompt": {
+    "en": "Generate a clothing brand name",
+    "ar": "قم بإنشاء اسم ماركة ملابس",
+    "es": "Generar un nombre de marca de ropa",
+    "fr": "Générer un nom de marque de vêtements",
+    "zh-cn": "生成一个服装品牌名称",
+    "ja": "アパレルブランド名を生成する",
+    "pt": "Gerar um nome de marca de roupas",
+    "ru": "Сгенерировать название бренда одежды"
+  },
+  "icon": "👕",
+  "introduction": {
+    "en": "In the cutthroat world of fashion, a killer name isn't just an accessory – it's the foundation of your empire! This isn't just a name generator; it's your runway to a brand identity that's as chic and unforgettable as your designs. Whether you're crafting haute couture, streetwear, or sustainable fashion, we've got you covered. Prepare to be dazzled by the sheer ingenuity (and occasional whimsy) of the names you'll discover. Your journey to fashion dominance starts here!",
+    "ar": "في عالم الموضة التنافسي، الاسم الرائع ليس مجرد إكسسوار - إنه أساس إمبراطوريتك! هذا ليس مجرد مولد أسماء؛ إنه منبرك لهوية العلامة التجارية التي تتسم بالأناقة ولا تُنسى مثل تصاميمك. سواء كنت تصنع أزياء راقية، أو ملابس شارع، أو أزياء مستدامة، فنحن هنا لمساعدتك. استعد للانبهار بالعبقرية البارعة (والنزوة العرضية) للأسماء التي ستكتشفها. رحلتك نحو الهيمنة على الموضة تبدأ هنا!",
+    "es": "En el despiadado mundo de la moda, un nombre impactante no es solo un accesorio, ¡es la base de tu imperio! Esto no es solo un generador de nombres; es tu pasarela hacia una identidad de marca tan chic e inolvidable como tus diseños. Ya sea que estés creando alta costura, ropa urbana o moda sostenible, te tenemos cubierto. Prepárate para ser deslumbrado por la pura ingeniosidad (y el capricho ocasional) de los nombres que descubrirás. ¡Tu camino hacia el dominio de la moda comienza aquí!",
+    "fr": "Dans le monde impitoyable de la mode, un nom percutant n'est pas seulement un accessoire – c'est le fondement de votre empire ! Ce n'est pas qu'un générateur de noms ; c'est votre podium vers une identité de marque aussi chic et inoubliable que vos créations. Que vous créiez de la haute couture, du streetwear ou de la mode durable, nous avons ce qu'il vous faut. Préparez-vous à être ébloui par l'ingéniosité pure (et l'occasionnelle fantaisie) des noms que vous découvrirez. Votre voyage vers la domination de la mode commence ici !",
+    "zh-cn": "在竞争激烈的时尚界，一个响亮的名字不仅仅是配饰，更是您帝国的基石！这不仅仅是一个名称生成器；它是您通往品牌身份的T台，让您的品牌像您的设计一样时尚而令人难忘。无论您是设计高级定制、街头服饰还是可持续时尚，我们都能满足您的需求。准备好被您将发现的纯粹独创性（和偶尔的奇思妙想）所震撼吧。您的时尚霸主之路从这里开始！",
+    "ja": "ファッションの熾烈な世界では、キラーネームは単なるアクセサリーではありません。それはあなたの帝国の基盤です！これは単なる名前ジェネレーターではありません。それはあなたのデザインと同じくらいシックで忘れられないブランドアイデンティティへの滑走路です。オートクチュール、ストリートウェア、サステナブルファッションのいずれを手がけている場合でも、私たちはあなたをサポートします。あなたが発見する名前の純粋な創意工夫（そして時折の気まぐれさ）に目を奪われる準備をしてください。ファッション支配への旅はここから始まります！",
+    "pt": "No mundo competitivo da moda, um nome matador não é apenas um acessório – é a base do seu império! Este não é apenas um gerador de nomes; é sua passarela para uma identidade de marca tão chique e inesquecível quanto seus designs. Quer você esteja criando alta costura, streetwear ou moda sustentável, nós temos o que você precisa. Prepare-se para ser deslumbrado pela pura engenhosidade (e ocasional capricho) dos nomes que você descobrirá. Sua jornada para o domínio da moda começa aqui!",
+    "ru": "В беспощадном мире моды броское название — это не просто аксессуар, это основа вашей империи! Это не просто генератор имен; это ваш подиум к идентичности бренда, которая так же шикарна и незабываема, как ваши дизайны. Независимо от того, создаете ли вы высокую моду, уличную одежду или устойчивую моду, мы вам поможем. Приготовьтесь быть ослепленными чистой изобретательностью (и случайной причудливостью) имен, которые вы обнаружите. Ваш путь к доминированию в моде начинается здесь!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button to unleash a wave of stylish names.",
+      "Browse through the curated list of potential brand names.",
+      "See a name that perfectly fits your brand's aesthetic? Copy it!",
+      "Refine your search with keywords related to your style (e.g., 'vintage', 'modern', 'eco-friendly').",
+      "Use your chosen name to create a brand that turns heads and sets trends!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' لإطلاق موجة من الأسماء الأنيقة.",
+      "تصفح القائمة المنسقة من أسماء العلامات التجارية المحتملة.",
+      "هل ترى اسمًا يتناسب تمامًا مع جمالية علامتك التجارية؟ انسخه!",
+      "صقل بحثك باستخدام الكلمات الرئيسية المتعلقة بأسلوبك (مثل 'عتيق'، 'حديث'، 'صديق للبيئة').",
+      "استخدم الاسم الذي اخترته لإنشاء علامة تجارية تلفت الأنظار وتحدد الاتجاهات!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' para desatar una ola de nombres con estilo.",
+      "Navega por la lista curada de posibles nombres de marcas.",
+      "¿Ves un nombre que se ajusta perfectamente a la estética de tu marca? ¡Cópialo!",
+      "Refina tu búsqueda con palabras clave relacionadas con tu estilo (por ejemplo, 'vintage', 'moderno', 'ecológico').",
+      "¡Usa el nombre elegido para crear una marca que llame la atención y marque tendencias!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' pour libérer une vague de noms élégants.",
+      "Parcourez la liste sélectionnée de noms de marques potentiels.",
+      "Vous voyez un nom qui correspond parfaitement à l'esthétique de votre marque ? Copiez-le !",
+      "Affinez votre recherche avec des mots-clés liés à votre style (par exemple, 'vintage', 'moderne', 'écologique').",
+      "Utilisez le nom choisi pour créer une marque qui fait tourner les têtes et lance les tendances !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮，释放一波时尚名称。",
+      "浏览精选的潜在品牌名称列表。",
+      "看到一个完美符合您品牌美学的名称了吗？复制它！",
+      "使用与您的风格相关的关键词（例如，“复古”、“现代”、“环保”）来优化您的搜索。",
+      "使用您选择的名称来创建一个引人注目、引领潮流的品牌！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、スタイリッシュな名前の波を解き放ちましょう。",
+      "厳選された潜在的なブランド名のリストを閲覧してください。",
+      "あなたのブランドの美学に完璧に合う名前を見つけましたか？コピーしましょう！",
+      "あなたのスタイルに関連するキーワード（例：「ヴィンテージ」、「モダン」、「エコフレンドリー」）で検索を絞り込みましょう。",
+      "選んだ名前を使って、注目を集め、トレンドを生み出すブランドを作りましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' para liberar uma onda de nomes estilosos.",
+      "Navegue pela lista selecionada de possíveis nomes de marcas.",
+      "Vê um nome que se encaixa perfeitamente na estética da sua marca? Copie-o!",
+      "Refine sua busca com palavras-chave relacionadas ao seu estilo (por exemplo, 'vintage', 'moderno', 'ecologicamente correto').",
+      "Use o nome escolhido para criar uma marca que chame a atenção e defina tendências!"
+    ],
+    "ru": [
+      "Нажмите кнопку «Сгенерировать», чтобы выпустить волну стильных названий.",
+      "Просмотрите отобранный список потенциальных названий брендов.",
+      "Видите название, которое идеально соответствует эстетике вашего бренда? Скопируйте его!",
+      "Уточните свой поиск с помощью ключевых слов, связанных с вашим стилем (например, «винтаж», «современный», «экологичный»).",
+      "Используйте выбранное имя для создания бренда, который привлекает внимание и задает тенденции!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Clothing Brand Name Generator free to use?",
+        "ar": "هل مولد أسماء ماركات الملابس هذا مجاني للاستخدام؟",
+        "es": "¿Este Generador de Nombres de Marcas de Ropa es de uso gratuito?",
+        "fr": "Ce Générateur de Noms de Marques de Vêtements est-il gratuit ?",
+        "zh-cn": "这个服装品牌名称生成器是免费的吗？",
+        "ja": "このアパレルブランド名ジェネレーターは無料で使用できますか？",
+        "pt": "Este Gerador de Nomes de Marcas de Roupas é gratuito para usar?",
+        "ru": "Этот Генератор Названий Брендов Одежды бесплатен в использовании?"
+      },
+      "answer": {
+        "en": "Absolutely! We believe every aspiring fashion mogul deserves a fantastic start without breaking the bank. Generate as many names as your creative heart desires!",
+        "ar": "بالتأكيد! نعتقد أن كل قطب أزياء طموح يستحق بداية رائعة دون إفراغ جيوبه. أنشئ عددًا من الأسماء بقدر ما يرغب قلبك الإبداعي!",
+        "es": "¡Absolutamente! Creemos que todo magnate de la moda aspirante merece un comienzo fantástico sin gastar una fortuna. ¡Genera tantos nombres como tu corazón creativo desee!",
+        "fr": "Absolument ! Nous pensons que tout magnat de la mode en herbe mérite un départ fantastique sans se ruiner. Générez autant de noms que votre cœur créatif le désire !",
+        "zh-cn": "当然！我们相信每一位有抱负的时尚大亨都应该有一个出色的开端，而无需破费。尽情生成您创意之心所愿的名称吧！",
+        "ja": "もちろんです！私たちは、すべての意欲的なファッション界の大物が、お金をかけずに素晴らしいスタートを切るに値すると信じています。あなたの創造的な心が望むだけ、いくらでも名前を生成してください！",
+        "pt": "Absolutamente! Acreditamos que todo aspirante a magnata da moda merece um começo fantástico sem gastar muito. Gere quantos nomes seu coração criativo desejar!",
+        "ru": "Абсолютно! Мы считаем, что каждый начинающий модный магнат заслуживает фантастического старта без больших затрат. Генерируйте столько названий, сколько пожелает ваше творческое сердце!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these generated names for my commercial clothing brand?",
+        "ar": "هل يمكنني استخدام هذه الأسماء المولدة لعلامتي التجارية للملابس التجارية؟",
+        "es": "¿Puedo usar estos nombres generados para mi marca de ropa comercial?",
+        "fr": "Puis-je utiliser ces noms générés pour ma marque de vêtements commerciale ?",
+        "zh-cn": "我可以使用这些生成的名称作为我的商业服装品牌吗？",
+        "ja": "生成されたこれらの名前を、私の商業用アパレルブランドに使用できますか？",
+        "pt": "Posso usar esses nomes gerados para minha marca de roupas comercial?",
+        "ru": "Могу ли я использовать эти сгенерированные названия для своего коммерческого бренда одежды?"
+      },
+      "answer": {
+        "en": "While our generator provides unique and creative ideas, we strongly recommend performing a thorough trademark search before finalizing any name for commercial use. This ensures your brand is truly one-of-a-kind and legally protected.",
+        "ar": "بينما يوفر مولدنا أفكارًا فريدة ومبتكرة، نوصي بشدة بإجراء بحث شامل عن العلامات التجارية قبل الانتهاء من أي اسم للاستخدام التجاري. يضمن ذلك أن تكون علامتك التجارية فريدة حقًا ومحمية قانونًا.",
+        "es": "Si bien nuestro generador proporciona ideas únicas y creativas, recomendamos encarecidamente realizar una búsqueda exhaustiva de marcas registradas antes de finalizar cualquier nombre para uso comercial. Esto asegura que su marca sea verdaderamente única y esté legalmente protegida.",
+        "fr": "Bien que notre générateur fournisse des idées uniques et créatives, nous recommandons fortement d'effectuer une recherche approfondie de marques déposées avant de finaliser un nom pour un usage commercial. Cela garantit que votre marque est vraiment unique et légalement protégée.",
+        "zh-cn": "虽然我们的生成器提供了独特且富有创意的想法，但我们强烈建议您在将任何名称用于商业用途之前进行彻底的商标搜索。这可以确保您的品牌真正独一无二并受到法律保护。",
+        "ja": "当社のジェネレーターはユニークで創造的なアイデアを提供しますが、商用利用のために名前を最終決定する前に、徹底的な商標調査を行うことを強くお勧めします。これにより、ブランドが真に唯一無二であり、法的に保護されることが保証されます。",
+        "pt": "Embora nosso gerador forneça ideias únicas e criativas, recomendamos fortemente realizar uma pesquisa minuciosa de marcas registradas antes de finalizar qualquer nome para uso comercial. Isso garante que sua marca seja verdadeiramente única e legalmente protegida.",
+        "ru": "Хотя наш генератор предоставляет уникальные и креативные идеи, мы настоятельно рекомендуем провести тщательный поиск товарных знаков, прежде чем окончательно утверждать какое-либо название для коммерческого использования. Это гарантирует, что ваш бренд будет действительно уникальным и юридически защищенным."
+      }
+    },
+    {
+      "question": {
+        "en": "How many names can I generate at once?",
+        "ar": "كم عدد الأسماء التي يمكنني إنشاؤها في المرة الواحدة؟",
+        "es": "¿Cuántos nombres puedo generar a la vez?",
+        "fr": "Combien de noms puis-je générer en une seule fois ?",
+        "zh-cn": "我一次可以生成多少个名称？",
+        "ja": "一度にいくつの名前を生成できますか？",
+        "pt": "Quantos nomes posso gerar de uma vez?",
+        "ru": "Сколько названий я могу сгенерировать за один раз?"
+      },
+      "answer": {
+        "en": "Our generator typically provides a diverse list of names with each click. You can keep generating until you find the perfect fit, ensuring you have ample options to choose from for your clothing brand.",
+        "ar": "يوفر مولدنا عادةً قائمة متنوعة من الأسماء مع كل نقرة. يمكنك الاستمرار في الإنشاء حتى تجد الاسم المثالي، مما يضمن حصولك على خيارات وفيرة للاختيار من بينها لعلامتك التجارية للملابس.",
+        "es": "Nuestro generador generalmente proporciona una lista diversa de nombres con cada clic. Puedes seguir generando hasta que encuentres el ajuste perfecto, asegurando que tengas amplias opciones para elegir para tu marca de ropa.",
+        "fr": "Notre générateur fournit généralement une liste diversifiée de noms à chaque clic. Vous pouvez continuer à générer jusqu'à ce que vous trouviez la correspondance parfaite, vous assurant ainsi d'avoir de nombreuses options pour votre marque de vêtements.",
+        "zh-cn": "我们的生成器通常每次点击都会提供一份多样化的名称列表。您可以持续生成，直到找到最合适的，确保您的服装品牌有充足的选择。",
+        "ja": "当社のジェネレーターは、通常、クリックするたびに多様な名前のリストを提供します。完璧な名前が見つかるまで生成を続けることができ、アパレルブランドに豊富な選択肢があることを保証します。",
+        "pt": "Nosso gerador geralmente fornece uma lista diversificada de nomes a cada clique. Você pode continuar gerando até encontrar o ajuste perfeito, garantindo que você tenha amplas opções para escolher para sua marca de roupas.",
+        "ru": "Наш генератор обычно предоставляет разнообразный список названий при каждом клике. Вы можете продолжать генерировать, пока не найдете идеальный вариант, обеспечивая себе множество вариантов для выбора для вашего бренда одежды."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names suitable for all types of clothing brands?",
+        "ar": "هل الأسماء المولدة مناسبة لجميع أنواع ماركات الملابس؟",
+        "es": "¿Los nombres generados son adecuados para todo tipo de marcas de ropa?",
+        "fr": "Les noms générés conviennent-ils à tous les types de marques de vêtements ?",
+        "zh-cn": "生成的名称适用于所有类型的服装品牌吗？",
+        "ja": "生成された名前は、あらゆる種類のアパレルブランドに適していますか？",
+        "pt": "Os nomes gerados são adequados para todos os tipos de marcas de roupas?",
+        "ru": "Подходят ли сгенерированные названия для всех типов брендов одежды?"
+      },
+      "answer": {
+        "en": "Our generator is designed to offer a wide range of names, from elegant and sophisticated to edgy and playful. While many names are versatile, consider your specific brand aesthetic and target audience when making your final selection.",
+        "ar": "تم تصميم مولدنا لتقديم مجموعة واسعة من الأسماء، من الأنيقة والراقية إلى الجريئة والمرحة. بينما العديد من الأسماء متعددة الاستخدامات، ضع في اعتبارك جمالية علامتك التجارية المحددة وجمهورك المستهدف عند اتخاذ اختيارك النهائي.",
+        "es": "Nuestro generador está diseñado para ofrecer una amplia gama de nombres, desde elegantes y sofisticados hasta atrevidos y divertidos. Si bien muchos nombres son versátiles, considere la estética específica de su marca y su público objetivo al hacer su selección final.",
+        "fr": "Notre générateur est conçu pour offrir une large gamme de noms, des plus élégants et sophistiqués aux plus audacieux et ludiques. Bien que de nombreux noms soient polyvalents, tenez compte de l'esthétique spécifique de votre marque et de votre public cible lors de votre sélection finale.",
+        "zh-cn": "我们的生成器旨在提供各种名称，从优雅精致到前卫俏皮。虽然许多名称都具有多功能性，但在做出最终选择时，请考虑您特定的品牌美学和目标受众。",
+        "ja": "当社のジェネレーターは、エレガントで洗練されたものから、エッジの効いた遊び心のあるものまで、幅広い名前を提供するように設計されています。多くの名前は汎用性がありますが、最終的な選択を行う際には、特定のブランドの美学とターゲットオーディエンスを考慮してください。",
+        "pt": "Nosso gerador é projetado para oferecer uma ampla gama de nomes, de elegantes e sofisticados a ousados e divertidos. Embora muitos nomes sejam versáteis, considere a estética específica da sua marca e o público-alvo ao fazer sua seleção final.",
+        "ru": "Наш генератор разработан для предложения широкого спектра названий, от элегантных и утонченных до дерзких и игривых. Хотя многие названия универсальны, при окончательном выборе учитывайте специфическую эстетику вашего бренда и целевую аудиторию."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest new themes or styles for the generator?",
+        "ar": "هل يمكنني اقتراح مواضيع أو أنماط جديدة للمولد؟",
+        "es": "¿Puedo sugerir nuevos temas o estilos para el generador?",
+        "fr": "Puis-je suggérer de nouveaux thèmes ou styles pour le générateur ?",
+        "zh-cn": "我可以为生成器建议新的主题或风格吗？",
+        "ja": "ジェネレーターに新しいテーマやスタイルを提案できますか？",
+        "pt": "Posso sugerir novos temas ou estilos para o gerador?",
+        "ru": "Могу ли я предложить новые темы или стили для генератора?"
+      },
+      "answer": {
+        "en": "We love hearing from our users! Your feedback helps us evolve and improve. Feel free to share your ideas for new themes, styles, or even specific keywords through our contact form. Who knows, your suggestion might inspire the next big fashion trend!",
+        "ar": "نحن نحب أن نسمع من مستخدمينا! تساعدنا ملاحظاتكم على التطور والتحسين. لا تتردد في مشاركة أفكارك لمواضيع أو أنماط جديدة، أو حتى كلمات رئيسية محددة عبر نموذج الاتصال الخاص بنا. من يدري، قد يلهم اقتراحك الاتجاه الكبير التالي في الموضة!",
+        "es": "¡Nos encanta escuchar a nuestros usuarios! Sus comentarios nos ayudan a evolucionar y mejorar. No dude en compartir sus ideas para nuevos temas, estilos o incluso palabras clave específicas a través de nuestro formulario de contacto. ¡Quién sabe, su sugerencia podría inspirar la próxima gran tendencia de moda!",
+        "fr": "Nous adorons entendre nos utilisateurs ! Vos commentaires nous aident à évoluer et à nous améliorer. N'hésitez pas à partager vos idées de nouveaux thèmes, styles ou même des mots-clés spécifiques via notre formulaire de contact. Qui sait, votre suggestion pourrait inspirer la prochaine grande tendance de la mode !",
+        "zh-cn": "我们很高兴收到用户的反馈！您的反馈有助于我们发展和改进。请随时通过我们的联系表分享您对新主题、风格甚至特定关键词的想法。谁知道呢，您的建议可能会激发下一个大的时尚潮流！",
+        "ja": "ユーザーの皆様からのご意見をお待ちしております！皆様のフィードバックは、私たちが進化し、改善するのに役立ちます。新しいテーマ、スタイル、あるいは特定のキーワードに関するアイデアを、お気軽にお問い合わせフォームから共有してください。あなたの提案が次の大きなファッショントレンドを刺激するかもしれません！",
+        "pt": "Adoramos ouvir nossos usuários! Seu feedback nos ajuda a evoluir e melhorar. Sinta-se à vontade para compartilhar suas ideias para novos temas, estilos ou até mesmo palavras-chave específicas através do nosso formulário de contato. Quem sabe, sua sugestão pode inspirar a próxima grande tendência da moda!",
+        "ru": "Мы любим получать отзывы от наших пользователей! Ваша обратная связь помогает нам развиваться и совершенствоваться. Не стесняйтесь делиться своими идеями для новых тем, стилей или даже конкретных ключевых слов через нашу контактную форму. Кто знает, ваше предложение может вдохновить следующий крупный модный тренд!"
+      }
+    }
+  ]
+}

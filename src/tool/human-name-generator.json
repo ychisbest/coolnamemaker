@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Human Name Generator",
+    "ar": "مولد أسماء بشرية",
+    "es": "Generador de Nombres Humanos",
+    "fr": "Générateur de Noms Humains",
+    "zh-cn": "人类姓名生成器",
+    "ja": "人間名ジェネレーター",
+    "pt": "Gerador de Nomes Humanos",
+    "ru": "Генератор Человеческих Имен"
+  },
+  "description": {
+    "en": "Need a name for your next novel's protagonist, a character in your D&D campaign, or just a cool alias? Our Human Name Generator is your ultimate resource for unique, authentic, and diverse names. Dive into a world of possibilities and find the perfect name that resonates with your vision!",
+    "ar": "هل تحتاج إلى اسم لبطل روايتك القادمة، أو شخصية في حملة D&D الخاصة بك، أو مجرد اسم مستعار رائع؟ مولد الأسماء البشرية لدينا هو مصدرك النهائي للأسماء الفريدة والأصيلة والمتنوعة. انغمس في عالم من الاحتمالات واعثر على الاسم المثالي الذي يتردد صداه مع رؤيتك!",
+    "es": "¿Necesitas un nombre para el protagonista de tu próxima novela, un personaje en tu campaña de D&D, o simplemente un alias genial? Nuestro Generador de Nombres Humanos es tu recurso definitivo para nombres únicos, auténticos y diversos. ¡Sumérgete en un mundo de posibilidades y encuentra el nombre perfecto que resuene con tu visión!",
+    "fr": "Besoin d'un nom pour le protagoniste de votre prochain roman, un personnage de votre campagne D&D, ou juste un alias cool ? Notre Générateur de Noms Humains est votre ressource ultime pour des noms uniques, authentiques et diversifiés. Plongez dans un monde de possibilités et trouvez le nom parfait qui résonne avec votre vision !",
+    "zh-cn": "为你的下一部小说主角、D&D 战役中的角色，或者只是一个酷炫的化名寻找名字？我们的人类姓名生成器是你获取独特、真实且多样化姓名的终极资源。潜入充满可能性的世界，找到与你的愿景产生共鸣的完美姓名！",
+    "ja": "次の小説の主人公、D&Dキャンペーンのキャラクター、または単にクールな別名が必要ですか？私たちの人間名ジェネレーターは、ユニークで本物、多様な名前を見つけるための究極のリソースです。可能性の世界に飛び込み、あなたのビジョンに響く完璧な名前を見つけてください！",
+    "pt": "Precisa de um nome para o protagonista do seu próximo romance, um personagem da sua campanha de D&D, ou apenas um pseudônimo legal? Nosso Gerador de Nomes Humanos é seu recurso definitivo para nomes únicos, autênticos e diversos. Mergulhe em um mundo de possibilidades e encontre o nome perfeito que ressoa com sua visão!",
+    "ru": "Нужно имя для главного героя вашего следующего романа, персонажа в вашей кампании D&D или просто крутой псевдоним? Наш Генератор Человеческих Имен — ваш лучший ресурс для уникальных, аутентичных и разнообразных имен. Погрузитесь в мир возможностей и найдите идеальное имя, которое соответствует вашему видению!"
+  },
+  "slug": "human-name-generator",
+  "prompt": {
+    "en": "Generate a human name",
+    "ar": "توليد اسم بشري",
+    "es": "Generar un nombre humano",
+    "fr": "Générer un nom humain",
+    "zh-cn": "生成人类姓名",
+    "ja": "人間名を生成する",
+    "pt": "Gerar um nome humano",
+    "ru": "Сгенерировать человеческое имя"
+  },
+  "icon": "👤",
+  "introduction": {
+    "en": "Embark on a journey to discover the perfect name! Whether you're a writer crafting intricate characters, a game master populating fantastical realms, or simply seeking inspiration, our Human Name Generator offers an endless array of options. From classic to contemporary, and from common to uniquely exotic, you'll find names that add depth and personality to any creation. Say goodbye to generic placeholders and hello to names that tell a story!",
+    "ar": "انطلق في رحلة لاكتشاف الاسم المثالي! سواء كنت كاتبًا يصوغ شخصيات معقدة، أو سيد لعبة يملأ عوالم خيالية، أو ببساطة تبحث عن الإلهام، فإن مولد الأسماء البشرية لدينا يقدم مجموعة لا حصر لها من الخيارات. من الكلاسيكي إلى المعاصر، ومن الشائع إلى الغريب بشكل فريد، ستجد أسماء تضيف عمقًا وشخصية لأي إبداع. قل وداعًا للاسمات العامة ومرحبًا بالأسماء التي تحكي قصة!",
+    "es": "¡Embárcate en un viaje para descubrir el nombre perfecto! Ya seas un escritor creando personajes intrincados, un maestro de juego poblando reinos fantásticos, o simplemente buscando inspiración, nuestro Generador de Nombres Humanos ofrece una infinita variedad de opciones. Desde lo clásico hasta lo contemporáneo, y desde lo común hasta lo exótico y único, encontrarás nombres que añaden profundidad y personalidad a cualquier creación. ¡Di adiós a los marcadores de posición genéricos y hola a los nombres que cuentan una historia!",
+    "fr": "Embarquez pour un voyage à la découverte du nom parfait ! Que vous soyez un écrivain créant des personnages complexes, un maître de jeu peuplant des royaumes fantastiques, ou simplement à la recherche d'inspiration, notre Générateur de Noms Humains offre une gamme infinie d'options. Du classique au contemporain, et du commun à l'exotique unique, vous trouverez des noms qui ajoutent de la profondeur et de la personnalité à toute création. Dites adieu aux noms génériques et bonjour aux noms qui racontent une histoire !",
+    "zh-cn": "踏上发现完美姓名的旅程！无论你是正在塑造复杂角色的作家，填充奇幻世界的游戏主持人，还是仅仅寻求灵感，我们的人类姓名生成器都能提供无穷无尽的选择。从经典到现代，从常见到独特异域，你都会找到能为任何创作增添深度和个性的姓名。告别平庸的占位符，迎接讲述故事的姓名吧！",
+    "ja": "完璧な名前を見つける旅に出かけましょう！あなたが複雑なキャラクターを作り上げる作家であろうと、ファンタジーの世界を彩るゲームマスターであろうと、あるいは単にインスピレーションを求めているだけであろうと、私たちの人間名ジェネレーターは無限の選択肢を提供します。クラシックから現代、そして一般的からユニークでエキゾチックなものまで、あらゆる創造物に深みと個性を加える名前が見つかるでしょう。一般的なプレースホルダーに別れを告げ、物語を語る名前にこんにちはを言いましょう！",
+    "pt": "Embarque em uma jornada para descobrir o nome perfeito! Seja você um escritor criando personagens intrincados, um mestre de jogo povoando reinos fantásticos, ou simplesmente buscando inspiração, nosso Gerador de Nomes Humanos oferece uma infinita variedade de opções. Do clássico ao contemporâneo, e do comum ao exótico e único, você encontrará nomes que adicionam profundidade e personalidade a qualquer criação. Diga adeus aos nomes genéricos e olá aos nomes que contam uma história!",
+    "ru": "Отправьтесь в путешествие, чтобы найти идеальное имя! Будь вы писателем, создающим сложных персонажей, мастером игры, населяющим фантастические миры, или просто ищущим вдохновение, наш Генератор Человеческих Имен предлагает бесконечное множество вариантов. От классических до современных, от обычных до уникально экзотических, вы найдете имена, которые добавят глубины и индивидуальности любому творению. Прощайте, общие заменители, и здравствуйте, имена, которые рассказывают историю!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button to conjure a fresh batch of names.",
+      "Explore the diverse list of names, each with its own charm.",
+      "Filter by gender, origin, or style to narrow down your search (coming soon!).",
+      "Found a name that clicks? Simply copy it to your clipboard.",
+      "Integrate your new, captivating name into your project and watch it come to life!"
+    ],
+    "ar": [
+      "انقر على زر 'توليد' لإنشاء مجموعة جديدة من الأسماء.",
+      "استكشف القائمة المتنوعة للأسماء، كل منها بسحره الخاص.",
+      "قم بالتصفية حسب الجنس أو الأصل أو الأسلوب لتضييق نطاق بحثك (قريبًا!).",
+      "هل وجدت اسمًا يثير إعجابك؟ انسخه ببساطة إلى الحافظة.",
+      "ادمج اسمك الجديد الآسر في مشروعك وشاهده ينبض بالحياة!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' para conjurar una nueva tanda de nombres.",
+      "Explora la diversa lista de nombres, cada uno con su propio encanto.",
+      "Filtra por género, origen o estilo para refinar tu búsqueda (¡próximamente!).",
+      "¿Encontraste un nombre que te gusta? Simplemente cópialo a tu portapapeles.",
+      "¡Integra tu nuevo y cautivador nombre en tu proyecto y mira cómo cobra vida!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' pour faire apparaître une nouvelle série de noms.",
+      "Explorez la liste diversifiée de noms, chacun avec son propre charme.",
+      "Filtrez par genre, origine ou style pour affiner votre recherche (bientôt disponible !).",
+      "Vous avez trouvé un nom qui vous plaît ? Copiez-le simplement dans votre presse-papiers.",
+      "Intégrez votre nouveau nom captivant dans votre projet et regardez-le prendre vie !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮，即可获取一批新的姓名。",
+      "浏览多样化的姓名列表，每个名字都有其独特的魅力。",
+      "通过性别、来源或风格进行筛选，以缩小你的搜索范围（即将推出！）。",
+      "找到一个让你心动的名字了吗？只需将其复制到剪贴板。",
+      "将你的新颖迷人的名字融入你的项目中，看着它焕发生机！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、新しい名前のバッチを生成します。",
+      "それぞれの魅力を持つ多様な名前のリストを探索してください。",
+      "検索を絞り込むために、性別、起源、またはスタイルでフィルタリングします（近日公開！）。",
+      "気に入った名前が見つかりましたか？クリップボードにコピーするだけです。",
+      "あなたの新しい、魅力的な名前をプロジェクトに統合し、それが生き生きとするのを見てください！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' para conjurar um novo lote de nomes.",
+      "Explore a lista diversificada de nomes, cada um com seu próprio encanto.",
+      "Filtre por gênero, origem ou estilo para refinar sua busca (em breve!).",
+      "Encontrou um nome que te agrada? Basta copiá-lo para a sua área de transferência.",
+      "Integre seu novo e cativante nome ao seu projeto e veja-o ganhar vida!"
+    ],
+    "ru": [
+      "Нажмите кнопку «Сгенерировать», чтобы получить новую порцию имен.",
+      "Изучите разнообразный список имен, каждое из которых обладает своим очарованием.",
+      "Фильтруйте по полу, происхождению или стилю, чтобы сузить поиск (скоро!).",
+      "Нашли имя, которое вам нравится? Просто скопируйте его в буфер обмена.",
+      "Интегрируйте свое новое, увлекательное имя в свой проект и наблюдайте, как оно оживает!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Human Name Generator free to use?",
+        "ar": "هل مولد الأسماء البشرية هذا مجاني للاستخدام؟",
+        "es": "¿Es este Generador de Nombres Humanos de uso gratuito?",
+        "fr": "Ce Générateur de Noms Humains est-il gratuit ?",
+        "zh-cn": "这个人类姓名生成器是免费的吗？",
+        "ja": "この人間名ジェネレーターは無料で利用できますか？",
+        "pt": "Este Gerador de Nomes Humanos é gratuito?",
+        "ru": "Этот Генератор Человеческих Имен бесплатен?"
+      },
+      "answer": {
+        "en": "Yes, absolutely! Our Human Name Generator is completely free to use for all your creative needs. Generate as many names as you like, without any hidden costs.",
+        "ar": "نعم، بالتأكيد! مولد الأسماء البشرية لدينا مجاني تمامًا للاستخدام لجميع احتياجاتك الإبداعية. قم بإنشاء العديد من الأسماء كما تريد، دون أي تكاليف خفية.",
+        "es": "¡Sí, absolutamente! Nuestro Generador de Nombres Humanos es completamente gratuito para todas tus necesidades creativas. Genera tantos nombres como quieras, sin costos ocultos.",
+        "fr": "Oui, absolument ! Notre Générateur de Noms Humains est entièrement gratuit pour tous vos besoins créatifs. Générez autant de noms que vous le souhaitez, sans frais cachés.",
+        "zh-cn": "是的，完全免费！我们的人类姓名生成器完全免费供您所有创意需求使用。您可以生成任意数量的姓名，没有任何隐藏费用。",
+        "ja": "はい、もちろんです！私たちの人間名ジェネレーターは、すべてのクリエイティブなニーズに完全に無料で利用できます。隠れた費用なしで、好きなだけ名前を生成してください。",
+        "pt": "Sim, absolutamente! Nosso Gerador de Nomes Humanos é totalmente gratuito para todas as suas necessidades criativas. Gere quantos nomes quiser, sem custos ocultos.",
+        "ru": "Да, абсолютно! Наш Генератор Человеческих Имен абсолютно бесплатен для всех ваших творческих нужд. Генерируйте столько имен, сколько хотите, без скрытых затрат."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for commercial projects, like books or games?",
+        "ar": "هل يمكنني استخدام هذه الأسماء للمشاريع التجارية، مثل الكتب أو الألعاب؟",
+        "es": "¿Puedo usar estos nombres para proyectos comerciales, como libros o juegos?",
+        "fr": "Puis-je utiliser ces noms pour des projets commerciaux, comme des livres ou des jeux ?",
+        "zh-cn": "我可以将这些姓名用于商业项目吗，比如书籍或游戏？",
+        "ja": "これらの名前を本やゲームなどの商業プロジェクトに使用できますか？",
+        "pt": "Posso usar esses nomes para projetos comerciais, como livros ou jogos?",
+        "ru": "Могу ли я использовать эти имена для коммерческих проектов, таких как книги или игры?"
+      },
+      "answer": {
+        "en": "While the names themselves are free to use, we always recommend performing a quick search to ensure the name isn't already in use or trademarked, especially for significant commercial ventures.",
+        "ar": "بينما الأسماء نفسها مجانية للاستخدام، نوصي دائمًا بإجراء بحث سريع للتأكد من أن الاسم ليس مستخدمًا بالفعل أو محميًا بعلامة تجارية، خاصة للمشاريع التجارية الهامة.",
+        "es": "Aunque los nombres en sí son de uso gratuito, siempre recomendamos realizar una búsqueda rápida para asegurar que el nombre no esté ya en uso o registrado como marca, especialmente para proyectos comerciales significativos.",
+        "fr": "Bien que les noms soient libres d'utilisation, nous recommandons toujours d'effectuer une recherche rapide pour s'assurer que le nom n'est pas déjà utilisé ou déposé, surtout pour les projets commerciaux importants.",
+        "zh-cn": "虽然姓名本身可以免费使用，但我们始终建议您进行快速搜索，以确保该姓名尚未被使用或注册商标，特别是对于重要的商业项目。",
+        "ja": "名前自体は自由に使用できますが、特に重要な商業ベンチャーの場合は、名前がすでに使用されていないか、商標登録されていないかを迅速に検索することをお勧めします。",
+        "pt": "Embora os nomes em si sejam de uso gratuito, sempre recomendamos realizar uma busca rápida para garantir que o nome não esteja já em uso ou registrado como marca, especialmente para empreendimentos comerciais significativos.",
+        "ru": "Хотя сами имена можно использовать бесплатно, мы всегда рекомендуем провести быстрый поиск, чтобы убедиться, что имя не используется или не зарегистрировано как торговая марка, особенно для значительных коммерческих предприятий."
+      }
+    },
+    {
+      "question": {
+        "en": "How many names can I generate at once?",
+        "ar": "كم عدد الأسماء التي يمكنني إنشاؤها في وقت واحد؟",
+        "es": "¿Cuántos nombres puedo generar a la vez?",
+        "fr": "Combien de noms puis-je générer à la fois ?",
+        "zh-cn": "我一次可以生成多少个姓名？",
+        "ja": "一度にいくつの名前を生成できますか？",
+        "pt": "Quantos nomes posso gerar de uma vez?",
+        "ru": "Сколько имен я могу сгенерировать за один раз?"
+      },
+      "answer": {
+        "en": "Currently, our generator provides a batch of names with each click. You can keep clicking to generate new sets until you find the perfect one. We're always looking to improve, so stay tuned for potential future updates!",
+        "ar": "حاليًا، يوفر مولدنا مجموعة من الأسماء مع كل نقرة. يمكنك الاستمرار في النقر لإنشاء مجموعات جديدة حتى تجد الاسم المثالي. نحن نسعى دائمًا للتحسين، لذا ترقبوا التحديثات المستقبلية المحتملة!",
+        "es": "Actualmente, nuestro generador proporciona un lote de nombres con cada clic. Puedes seguir haciendo clic para generar nuevos conjuntos hasta que encuentres el perfecto. Siempre estamos buscando mejorar, ¡así que mantente atento a posibles futuras actualizaciones!",
+        "fr": "Actuellement, notre générateur fournit un lot de noms à chaque clic. Vous pouvez continuer à cliquer pour générer de nouveaux ensembles jusqu'à ce que vous trouviez le parfait. Nous cherchons toujours à nous améliorer, alors restez à l'écoute pour d'éventuelles futures mises à jour !",
+        "zh-cn": "目前，我们的生成器每次点击都会提供一批姓名。您可以继续点击以生成新的姓名集合，直到找到完美的。我们一直在寻求改进，敬请关注未来可能的更新！",
+        "ja": "現在、私たちのジェネレーターはクリックごとに名前のバッチを提供します。完璧な名前が見つかるまで、クリックし続けて新しいセットを生成できます。私たちは常に改善を目指していますので、今後の潜在的なアップデートにご期待ください！",
+        "pt": "Atualmente, nosso gerador fornece um lote de nomes a cada clique. Você pode continuar clicando para gerar novos conjuntos até encontrar o perfeito. Estamos sempre procurando melhorar, então fique atento a possíveis futuras atualizações!",
+        "ru": "В настоящее время наш генератор предоставляет партию имен при каждом нажатии. Вы можете продолжать нажимать, чтобы генерировать новые наборы, пока не найдете идеальный. Мы всегда стремимся к совершенствованию, поэтому следите за возможными будущими обновлениями!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are the names generated truly random?",
+        "ar": "هل الأسماء التي تم إنشاؤها عشوائية حقًا؟",
+        "es": "¿Los nombres generados son realmente aleatorios?",
+        "fr": "Les noms générés sont-ils vraiment aléatoires ?",
+        "zh-cn": "生成的姓名真的是随机的吗？",
+        "ja": "生成される名前は本当にランダムですか？",
+        "pt": "Os nomes gerados são realmente aleatórios?",
+        "ru": "Действительно ли сгенерированные имена случайны?"
+      },
+      "answer": {
+        "en": "Our generator uses a sophisticated algorithm to combine various linguistic elements and cultural influences, aiming for a diverse and realistic output. While there's a degree of randomness, the system is designed to produce plausible and interesting names, not just gibberish.",
+        "ar": "يستخدم مولدنا خوارزمية متطورة لدمج عناصر لغوية وتأثيرات ثقافية مختلفة، بهدف الحصول على مخرجات متنوعة وواقعية. بينما توجد درجة من العشوائية، تم تصميم النظام لإنتاج أسماء معقولة ومثيرة للاهتمام، وليس مجرد هراء.",
+        "es": "Nuestro generador utiliza un algoritmo sofisticado para combinar varios elementos lingüísticos e influencias culturales, buscando una salida diversa y realista. Aunque hay un grado de aleatoriedad, el sistema está diseñado para producir nombres plausibles e interesantes, no solo galimatías.",
+        "fr": "Notre générateur utilise un algorithme sophistiqué pour combiner divers éléments linguistiques et influences culturelles, visant une sortie diverse et réaliste. Bien qu'il y ait un certain degré d'aléatoire, le système est conçu pour produire des noms plausibles et intéressants, pas seulement du charabia.",
+        "zh-cn": "我们的生成器采用复杂的算法，结合各种语言元素和文化影响，旨在提供多样化且真实的输出。虽然存在一定程度的随机性，但系统旨在生成合理且有趣的姓名，而不仅仅是胡言乱语。",
+        "ja": "私たちのジェネレーターは、多様で現実的な出力を目指し、様々な言語要素と文化的影響を組み合わせる洗練されたアルゴリズムを使用しています。ある程度のランダム性はありますが、システムは単なる意味不明なものではなく、もっともらしく興味深い名前を生成するように設計されています。",
+        "pt": "Nosso gerador usa um algoritmo sofisticado para combinar vários elementos linguísticos e influências culturais, visando uma saída diversa e realista. Embora haja um grau de aleatoriedade, o sistema é projetado para produzir nomes plausíveis e interessantes, não apenas balbucios.",
+        "ru": "Наш генератор использует сложный алгоритм для объединения различных лингвистических элементов и культурных влияний, стремясь к разнообразному и реалистичному результату. Хотя существует степень случайности, система разработана для создания правдоподобных и интересных имен, а не просто бессмыслицы."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I request specific types of names (e.g., fantasy, historical)?",
+        "ar": "هل يمكنني طلب أنواع معينة من الأسماء (على سبيل المثال، خيالية، تاريخية)؟",
+        "es": "¿Puedo solicitar tipos específicos de nombres (por ejemplo, fantasía, históricos)?",
+        "fr": "Puis-je demander des types de noms spécifiques (par exemple, fantaisie, historique) ?",
+        "zh-cn": "我可以请求特定类型的姓名吗（例如，奇幻、历史）？",
+        "ja": "特定の種類の名前（例：ファンタジー、歴史）をリクエストできますか？",
+        "pt": "Posso solicitar tipos específicos de nomes (por exemplo, fantasia, históricos)?",
+        "ru": "Могу ли я запросить конкретные типы имен (например, фэнтези, исторические)?"
+      },
+      "answer": {
+        "en": "Currently, the generator focuses on a broad range of human names. While we don't have direct filters for genre-specific names yet, we are continuously working on expanding our features to include more specialized categories based on user feedback. Stay tuned!",
+        "ar": "حاليًا، يركز المولد على مجموعة واسعة من الأسماء البشرية. بينما لا توجد لدينا فلاتر مباشرة للأسماء الخاصة بالنوع بعد، فإننا نعمل باستمرار على توسيع ميزاتنا لتشمل فئات أكثر تخصصًا بناءً على ملاحظات المستخدمين. ترقبوا!",
+        "es": "Actualmente, el generador se centra en una amplia gama de nombres humanos. Aunque todavía no tenemos filtros directos para nombres específicos de género, estamos trabajando continuamente para expandir nuestras características e incluir categorías más especializadas basadas en los comentarios de los usuarios. ¡Mantente atento!",
+        "fr": "Actuellement, le générateur se concentre sur un large éventail de noms humains. Bien que nous n'ayons pas encore de filtres directs pour les noms spécifiques à un genre, nous travaillons continuellement à l'expansion de nos fonctionnalités pour inclure des catégories plus spécialisées basées sur les commentaires des utilisateurs. Restez à l'écoute !",
+        "zh-cn": "目前，生成器侧重于广泛的人类姓名。虽然我们尚未提供针对特定类型的姓名的直接筛选器，但我们正在根据用户反馈不断努力扩展功能，以包含更多专业类别。敬请期待！",
+        "ja": "現在、ジェネレーターは幅広い人間名に焦点を当てています。ジャンル別の名前に対する直接的なフィルターはまだありませんが、ユーザーからのフィードバックに基づいて、より専門的なカテゴリを含めるために機能を継続的に拡張しています。ご期待ください！",
+        "pt": "Atualmente, o gerador se concentra em uma ampla gama de nomes humanos. Embora ainda não tenhamos filtros diretos para nomes específicos de gênero, estamos trabalhando continuamente para expandir nossos recursos para incluir categorias mais especializadas com base no feedback do usuário. Fique ligado!",
+        "ru": "В настоящее время генератор ориентирован на широкий спектр человеческих имен. Хотя у нас пока нет прямых фильтров для имен, специфичных для жанра, мы постоянно работаем над расширением наших функций, чтобы включить более специализированные категории на основе отзывов пользователей. Следите за обновлениями!"
+      }
+    }
+  ]
+}

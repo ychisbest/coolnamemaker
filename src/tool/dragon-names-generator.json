@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Dragon Names Generator",
+    "ar": "مولد أسماء التنانين",
+    "es": "Generador de Nombres de Dragones",
+    "fr": "Générateur de Noms de Dragons",
+    "zh-cn": "龙名字生成器",
+    "ja": "ドラゴンネームジェネレーター",
+    "pt": "Gerador de Nomes de Dragões",
+    "ru": "Генератор Имен Драконов"
+  },
+  "description": {
+    "en": "Unleash the mythical beast within! Our Dragon Names Generator conjures up thousands of unique, powerful, and awe-inspiring names for your fantasy stories, games, or just for fun. From ancient and wise to fiery and fierce, find the perfect moniker for your legendary creature and make your dragon truly unforgettable.",
+    "ar": "أطلق العنان للوحش الأسطوري الكامن! يبتكر مولد أسماء التنانين لدينا آلاف الأسماء الفريدة والقوية والمهيبة لقصصك الخيالية أو ألعابك أو لمجرد المتعة. من الأسماء القديمة والحكيمة إلى النارية والشرسة، ابحث عن الاسم المثالي لمخلوقك الأسطوري واجعل تنينك لا يُنسى حقًا.",
+    "es": "¡Libera a la bestia mítica que llevas dentro! Nuestro Generador de Nombres de Dragones evoca miles de nombres únicos, poderosos e impresionantes para tus historias de fantasía, juegos o simplemente por diversión. Desde antiguos y sabios hasta ardientes y feroces, encuentra el apodo perfecto para tu criatura legendaria y haz que tu dragón sea verdaderamente inolvidable.",
+    "fr": "Libérez la bête mythique qui est en vous ! Notre Générateur de Noms de Dragons conjure des milliers de noms uniques, puissants et impressionnants pour vos histoires fantastiques, jeux, ou juste pour le plaisir. Des noms anciens et sages aux noms ardents et féroces, trouvez le surnom parfait pour votre créature légendaire et rendez votre dragon vraiment inoubliable.",
+    "zh-cn": "释放你内心的神话巨兽！我们的龙名字生成器能为你奇幻故事、游戏或纯粹娱乐创造数千个独特、强大且令人敬畏的名字。从古老智慧到炽热凶猛，为你的传奇生物找到完美的称号，让你的龙真正令人难忘。",
+    "ja": "内に秘めた神話の獣を解き放て！私たちのドラゴンネームジェネレーターは、あなたのファンタジー物語、ゲーム、あるいは単なる楽しみのために、何千ものユニークでパワフルな、畏敬の念を抱かせる名前を呼び起こします。古く賢いものから、燃えるように激しいものまで、あなたの伝説のクリーチャーにぴったりの名前を見つけて、あなたのドラゴンを真に忘れられないものにしましょう。",
+    "pt": "Liberte a besta mítica interior! Nosso Gerador de Nomes de Dragões evoca milhares de nomes únicos, poderosos e inspiradores para suas histórias de fantasia, jogos ou apenas por diversão. De antigos e sábios a ardentes e ferozes, encontre o apelido perfeito para sua criatura lendária e torne seu dragão verdadeiramente inesquecível.",
+    "ru": "Выпустите мифического зверя наружу! Наш Генератор Имен Драконов создает тысячи уникальных, могущественных и внушающих благоговение имен для ваших фэнтезийных историй, игр или просто для развлечения. От древних и мудрых до огненных и свирепых, найдите идеальное прозвище для вашего легендарного существа и сделайте вашего дракона поистине незабываемым."
+  },
+  "slug": "dragon-names-generator",
+  "prompt": {
+    "en": "Generate a dragon name",
+    "ar": "قم بإنشاء اسم تنين",
+    "es": "Generar un nombre de dragón",
+    "fr": "Générer un nom de dragon",
+    "zh-cn": "生成一个龙名字",
+    "ja": "ドラゴンネームを生成する",
+    "pt": "Gerar um nome de dragão",
+    "ru": "Сгенерировать имя дракона"
+  },
+  "icon": "🐉",
+  "introduction": {
+    "en": "Every great dragon needs a name that commands respect and strikes fear (or awe!) into the hearts of mortals. Whether you're crafting a new D&D campaign, writing an epic fantasy novel, or simply looking for a cool username, our Dragon Names Generator is your ultimate hoard of naming inspiration. Prepare to discover names that breathe fire, soar through the skies, and guard untold treasures.",
+    "ar": "كل تنين عظيم يحتاج إلى اسم يفرض الاحترام ويبث الخوف (أو الرهبة!) في قلوب البشر. سواء كنت تصمم حملة D&D جديدة، أو تكتب رواية خيالية ملحمية، أو تبحث ببساطة عن اسم مستخدم رائع، فإن مولد أسماء التنانين لدينا هو كنزك المطلق للإلهام في التسمية. استعد لاكتشاف أسماء تنفث النار، وتحلق في السماء، وتحرس كنوزًا لا تُحصى.",
+    "es": "Todo gran dragón necesita un nombre que inspire respeto y cause miedo (¡o asombro!) en los corazones de los mortales. Ya sea que estés creando una nueva campaña de D&D, escribiendo una novela de fantasía épica, o simplemente buscando un nombre de usuario genial, nuestro Generador de Nombres de Dragones es tu tesoro definitivo de inspiración para nombres. Prepárate para descubrir nombres que escupen fuego, surcan los cielos y custodian tesoros incalculables.",
+    "fr": "Chaque grand dragon a besoin d'un nom qui impose le respect et inspire la peur (ou l'admiration !) aux mortels. Que vous créiez une nouvelle campagne D&D, écriviez un roman fantastique épique, ou cherchiez simplement un nom d'utilisateur cool, notre Générateur de Noms de Dragons est votre ultime trésor d'inspiration. Préparez-vous à découvrir des noms qui crachent du feu, planent dans les cieux et gardent des trésors incalculables.",
+    "zh-cn": "每一条巨龙都需要一个能令人敬畏、让凡人心中充满恐惧（或惊叹！）的名字。无论你是要设计一场新的D&D战役，撰写一部史诗奇幻小说，还是仅仅寻找一个酷炫的用户名，我们的龙名字生成器都是你取名灵感的终极宝库。准备好发现那些喷吐火焰、翱翔天际、守护无数宝藏的名字吧。",
+    "ja": "すべての偉大なドラゴンは、尊敬を集め、人々の心に恐怖（または畏敬の念！）を抱かせる名前を必要とします。新しいD&Dキャンペーンを作成している場合でも、壮大なファンタジー小説を書いている場合でも、単にクールなユーザー名を探している場合でも、私たちのドラゴンネームジェネレーターは、名付けのインスピレーションの究極の宝庫です。火を吐き、空を舞い、計り知れない宝を守る名前を発見する準備をしてください。",
+    "pt": "Todo grande dragão precisa de um nome que inspire respeito e cause medo (ou admiração!) nos corações dos mortais. Seja você criando uma nova campanha de D&D, escrevendo um romance de fantasia épico, ou simplesmente procurando um nome de usuário legal, nosso Gerador de Nomes de Dragões é seu tesouro definitivo de inspiração para nomes. Prepare-se para descobrir nomes que cospem fogo, voam pelos céus e guardam tesouros incalculáveis.",
+    "ru": "Каждому великому дракону нужно имя, которое внушает уважение и вселяет страх (или благоговение!) в сердца смертных. Независимо от того, создаете ли вы новую кампанию D&D, пишете эпический фэнтезийный роман или просто ищете крутое имя пользователя, наш Генератор Имен Драконов — это ваш главный источник вдохновения. Приготовьтесь открыть для себя имена, которые изрыгают огонь, парят в небесах и охраняют несметные сокровища."
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button to summon a new batch of dragon names.",
+      "Browse through the generated names, each with its own unique flair.",
+      "Found a name that sparks your imagination? Click to copy it instantly!",
+      "Refine your search by adding keywords or choosing a specific style (e.g., 'ancient', 'fiery', 'ice') if you have specific criteria.",
+      "Unleash your chosen dragon name into your next legendary tale or game!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' لاستدعاء دفعة جديدة من أسماء التنانين.",
+      "تصفح الأسماء التي تم إنشاؤها، كل منها بلمسته الفريدة.",
+      "هل وجدت اسمًا يشعل خيالك؟ انقر لنسخه على الفور!",
+      "صقل بحثك بإضافة كلمات مفتاحية أو اختيار نمط معين (مثل 'قديم'، 'ناري'، 'جليدي') إذا كان لديك معايير محددة.",
+      "أطلق اسم التنين الذي اخترته في قصتك الأسطورية أو لعبتك القادمة!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' para invocar un nuevo lote de nombres de dragones.",
+      "Examina los nombres generados, cada uno con su propio estilo único.",
+      "¿Encontraste un nombre que enciende tu imaginación? ¡Haz clic para copiarlo al instante!",
+      "Refina tu búsqueda añadiendo palabras clave o eligiendo un estilo específico (por ejemplo, 'antiguo', 'ardiente', 'hielo') si tienes criterios específicos.",
+      "¡Libera el nombre de dragón elegido en tu próxima historia legendaria o juego!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' pour invoquer une nouvelle série de noms de dragons.",
+      "Parcourez les noms générés, chacun avec son propre style unique.",
+      "Vous avez trouvé un nom qui stimule votre imagination ? Cliquez pour le copier instantanément !",
+      "Affinez votre recherche en ajoutant des mots-clés ou en choisissant un style spécifique (par exemple, 'ancien', 'ardent', 'glace') si vous avez des critères précis.",
+      "Libérez le nom de dragon choisi dans votre prochaine histoire légendaire ou jeu !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮，召唤一批新的龙名字。",
+      "浏览生成的名称，每个都拥有其独特的风格。",
+      "找到一个激发你想象力的名字了吗？点击即可立即复制！",
+      "如果你有特定标准，可以通过添加关键词或选择特定风格（例如“古老”、“炽热”、“冰冷”）来优化你的搜索。",
+      "将你选定的龙名字融入你的下一个传奇故事或游戏中！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、新しいドラゴンの名前を呼び出します。",
+      "生成された名前を閲覧し、それぞれに独自のセンスがあります。",
+      "想像力をかき立てる名前を見つけましたか？クリックしてすぐにコピーしてください！",
+      "特定の基準がある場合は、キーワードを追加したり、特定のスタイル（例：「古代」、「燃える」、「氷」）を選択したりして、検索を絞り込みます。",
+      "選んだドラゴンの名前を次の伝説の物語やゲームで解き放ちましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' para invocar um novo lote de nomes de dragões.",
+      "Navegue pelos nomes gerados, cada um com seu próprio toque único.",
+      "Encontrou um nome que acende sua imaginação? Clique para copiá-lo instantaneamente!",
+      "Refine sua busca adicionando palavras-chave ou escolhendo um estilo específico (por exemplo, 'antigo', 'ardente', 'gelo') se tiver critérios específicos.",
+      "Liberte o nome de dragão escolhido em sua próxima história lendária ou jogo!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Сгенерировать', чтобы получить новую порцию имен драконов.",
+      "Просмотрите сгенерированные имена, каждое из которых обладает своим уникальным колоритом.",
+      "Нашли имя, которое будоражит ваше воображение? Нажмите, чтобы скопировать его мгновенно!",
+      "Уточните свой поиск, добавив ключевые слова или выбрав определенный стиль (например, 'древний', 'огненный', 'ледяной'), если у вас есть конкретные критерии.",
+      "Используйте выбранное имя дракона в своей следующей легендарной истории или игре!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Are these dragon names truly unique?",
+        "ar": "هل أسماء التنانين هذه فريدة حقًا؟",
+        "es": "¿Estos nombres de dragones son realmente únicos?",
+        "fr": "Ces noms de dragons sont-ils vraiment uniques?",
+        "zh-cn": "这些龙名字真的独特吗？",
+        "ja": "これらのドラゴンの名前は本当にユニークですか？",
+        "pt": "Esses nomes de dragões são verdadeiramente únicos?",
+        "ru": "Эти имена драконов действительно уникальны?"
+      },
+      "answer": {
+        "en": "Our generator combines various linguistic elements and fantasy tropes to create a vast array of names. While we can't guarantee absolute uniqueness across all existing fantasy lore, our algorithm strives to produce distinct and original combinations, making it highly probable you'll find a name that feels fresh and powerful.",
+        "ar": "يجمع مولدنا بين عناصر لغوية مختلفة ومفاهيم خيالية لإنشاء مجموعة واسعة من الأسماء. بينما لا يمكننا ضمان التفرد المطلق عبر جميع الأساطير الخيالية الموجودة، تسعى خوارزميتنا جاهدة لإنتاج تركيبات مميزة وأصلية، مما يجعل من المحتمل جدًا أن تجد اسمًا يبدو جديدًا وقويًا.",
+        "es": "Nuestro generador combina varios elementos lingüísticos y tropos de fantasía para crear una vasta gama de nombres. Si bien no podemos garantizar una singularidad absoluta en toda la tradición de fantasía existente, nuestro algoritmo se esfuerza por producir combinaciones distintas y originales, lo que hace muy probable que encuentres un nombre que se sienta fresco y poderoso.",
+        "fr": "Notre générateur combine divers éléments linguistiques et tropes fantastiques pour créer une vaste gamme de noms. Bien que nous ne puissions pas garantir une unicité absolue dans toutes les légendes fantastiques existantes, notre algorithme s'efforce de produire des combinaisons distinctes et originales, ce qui rend très probable que vous trouviez un nom qui semble frais et puissant.",
+        "zh-cn": "我们的生成器结合了各种语言元素和奇幻主题，创造出大量名字。虽然我们无法保证在所有现有奇幻传说中绝对的独特性，但我们的算法致力于生成独特且原创的组合，这使得你很有可能找到一个感觉新颖而强大的名字。",
+        "ja": "私たちのジェネレーターは、さまざまな言語要素とファンタジーの定型表現を組み合わせて、膨大な数の名前を作成します。既存のすべてのファンタジー伝承において絶対的な独自性を保証することはできませんが、私たちのアルゴリズムは独特でオリジナルの組み合わせを生み出すよう努めており、新鮮で力強いと感じる名前を見つける可能性が高いです。",
+        "pt": "Nosso gerador combina vários elementos linguísticos e tropos de fantasia para criar uma vasta gama de nomes. Embora não possamos garantir a singularidade absoluta em todo o folclore de fantasia existente, nosso algoritmo se esforça para produzir combinações distintas e originais, tornando altamente provável que você encontre um nome que pareça novo e poderoso.",
+        "ru": "Наш генератор сочетает различные лингвистические элементы и фэнтезийные тропы для создания огромного количества имен. Хотя мы не можем гарантировать абсолютную уникальность во всей существующей фэнтезийной мифологии, наш алгоритм стремится создавать отчетливые и оригинальные комбинации, что делает весьма вероятным, что вы найдете имя, которое покажется свежим и мощным."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I filter names by dragon type (e.g., fire, ice, shadow)?",
+        "ar": "هل يمكنني تصفية الأسماء حسب نوع التنين (مثل النار، الجليد، الظل)؟",
+        "es": "¿Puedo filtrar nombres por tipo de dragón (por ejemplo, fuego, hielo, sombra)?",
+        "fr": "Puis-je filtrer les noms par type de dragon (par exemple, feu, glace, ombre) ?",
+        "zh-cn": "我可以按龙的类型（例如火、冰、影）过滤名字吗？",
+        "ja": "ドラゴンの種類（例：火、氷、影）で名前をフィルタリングできますか？",
+        "pt": "Posso filtrar nomes por tipo de dragão (por exemplo, fogo, gelo, sombra)?",
+        "ru": "Могу ли я фильтровать имена по типу дракона (например, огонь, лед, тень)?"
+      },
+      "answer": {
+        "en": "Currently, our generator provides a broad range of names. However, many names naturally evoke certain elements. For a more targeted search, you can often add descriptive keywords to your prompt to guide the generation towards the desired theme, or simply browse and let your imagination connect the name to a specific dragon type.",
+        "ar": "حاليًا، يوفر مولدنا مجموعة واسعة من الأسماء. ومع ذلك، فإن العديد من الأسماء تستحضر عناصر معينة بشكل طبيعي. للحصول على بحث أكثر استهدافًا، يمكنك غالبًا إضافة كلمات مفتاحية وصفية إلى طلبك لتوجيه التوليد نحو الموضوع المطلوب، أو ببساطة تصفح ودع خيالك يربط الاسم بنوع تنين معين.",
+        "es": "Actualmente, nuestro generador ofrece una amplia gama de nombres. Sin embargo, muchos nombres evocan naturalmente ciertos elementos. Para una búsqueda más específica, a menudo puedes añadir palabras clave descriptivas a tu solicitud para guiar la generación hacia el tema deseado, o simplemente navegar y dejar que tu imaginación conecte el nombre con un tipo de dragón específico.",
+        "fr": "Actuellement, notre générateur propose une large gamme de noms. Cependant, de nombreux noms évoquent naturellement certains éléments. Pour une recherche plus ciblée, vous pouvez souvent ajouter des mots-clés descriptifs à votre invite pour orienter la génération vers le thème souhaité, ou simplement parcourir et laisser votre imagination connecter le nom à un type de dragon spécifique.",
+        "zh-cn": "目前，我们的生成器提供广泛的名字。然而，许多名字自然会唤起某些元素。为了进行更有针对性的搜索，你通常可以在提示中添加描述性关键词，以引导生成器生成所需主题的名字，或者干脆浏览并让你的想象力将名字与特定的龙类型联系起来。",
+        "ja": "現在、私たちのジェネレーターは幅広い名前を提供しています。しかし、多くの名前は自然に特定の要素を想起させます。よりターゲットを絞った検索のためには、プロンプトに説明的なキーワードを追加して、目的のテーマに沿った生成を誘導したり、単に閲覧して、あなたの想像力に名前と特定のドラゴンの種類を結びつけさせたりすることができます。",
+        "pt": "Atualmente, nosso gerador oferece uma ampla gama de nomes. No entanto, muitos nomes evocam naturalmente certos elementos. Para uma busca mais direcionada, você pode frequentemente adicionar palavras-chave descritivas ao seu prompt para guiar a geração em direção ao tema desejado, ou simplesmente navegar e deixar sua imaginação conectar o nome a um tipo de dragão específico.",
+        "ru": "В настоящее время наш генератор предоставляет широкий спектр имен. Однако многие имена естественным образом вызывают определенные элементы. Для более целенаправленного поиска вы часто можете добавить описательные ключевые слова к своему запросу, чтобы направить генерацию к желаемой теме, или просто просматривать и позволить своему воображению связать имя с конкретным типом дракона."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my published fantasy novel or game?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لروايتي الخيالية أو لعبتي المنشورة؟",
+        "es": "¿Puedo usar estos nombres para mi novela de fantasía o juego publicado?",
+        "fr": "Puis-je utiliser ces noms pour mon roman fantastique ou mon jeu publié ?",
+        "zh-cn": "我可以在我出版的奇幻小说或游戏中使用这些名字吗？",
+        "ja": "これらの名前を出版するファンタジー小説やゲームに使用できますか？",
+        "pt": "Posso usar esses nomes para meu romance de fantasia ou jogo publicado?",
+        "ru": "Могу ли я использовать эти имена для своего опубликованного фэнтезийного романа или игры?"
+      },
+      "answer": {
+        "en": "Yes, you are free to use any generated names for your creative projects, including commercial ones. We encourage creativity! However, as with any creative resource, we recommend conducting your own due diligence (e.g., trademark searches) if you plan to use a name extensively or in a highly commercial capacity.",
+        "ar": "نعم، أنت حر في استخدام أي أسماء تم إنشاؤها لمشاريعك الإبداعية، بما في ذلك المشاريع التجارية. نحن نشجع الإبداع! ومع ذلك، كما هو الحال مع أي مورد إبداعي، نوصي بإجراء العناية الواجبة الخاصة بك (مثل البحث عن العلامات التجارية) إذا كنت تخطط لاستخدام اسم على نطاق واسع أو في قدرة تجارية عالية.",
+        "es": "Sí, eres libre de usar cualquier nombre generado para tus proyectos creativos, incluidos los comerciales. ¡Fomentamos la creatividad! Sin embargo, como con cualquier recurso creativo, recomendamos realizar tu propia diligencia debida (por ejemplo, búsquedas de marcas comerciales) si planeas usar un nombre de forma extensiva o con una capacidad altamente comercial.",
+        "fr": "Oui, vous êtes libre d'utiliser les noms générés pour vos projets créatifs, y compris commerciaux. Nous encourageons la créativité ! Cependant, comme pour toute ressource créative, nous vous recommandons de faire vos propres vérifications (par exemple, recherches de marques déposées) si vous prévoyez d'utiliser un nom de manière extensive ou à des fins hautement commerciales.",
+        "zh-cn": "是的，你可以自由地将生成的任何名字用于你的创意项目，包括商业项目。我们鼓励创意！然而，与任何创意资源一样，如果你打算广泛使用或以高度商业化的方式使用某个名字，我们建议你进行自己的尽职调查（例如，商标搜索）。",
+        "ja": "はい、生成された名前は、商業的なものを含め、あなたのクリエイティブなプロジェクトに自由に使用できます。私たちは創造性を奨励します！ただし、他のクリエイティブなリソースと同様に、名前を広範囲に、または商業的に使用する予定がある場合は、ご自身のデューデリジェンス（例：商標調査）を行うことをお勧めします。",
+        "pt": "Sim, você está livre para usar quaisquer nomes gerados para seus projetos criativos, incluindo os comerciais. Nós incentivamos a criatividade! No entanto, como em qualquer recurso criativo, recomendamos realizar sua própria diligência (por exemplo, pesquisas de marcas registradas) se você planeja usar um nome extensivamente ou em uma capacidade altamente comercial.",
+        "ru": "Да, вы можете свободно использовать любые сгенерированные имена для своих творческих проектов, включая коммерческие. Мы поощряем творчество! Однако, как и в случае с любым творческим ресурсом, мы рекомендуем проводить собственную проверку (например, поиск товарных знаков), если вы планируете использовать имя широко или в очень коммерческих целях."
+      }
+    },
+    {
+      "question": {
+        "en": "What kind of personality traits do these names suggest?",
+        "ar": "ما هي السمات الشخصية التي توحي بها هذه الأسماء؟",
+        "es": "¿Qué tipo de rasgos de personalidad sugieren estos nombres?",
+        "fr": "Quels types de traits de personnalité ces noms suggèrent-ils ?",
+        "zh-cn": "这些名字暗示了什么样的性格特征？",
+        "ja": "これらの名前はどのような性格特性を示唆していますか？",
+        "pt": "Que tipo de traços de personalidade esses nomes sugerem?",
+        "ru": "Какие черты характера подразумевают эти имена?"
+      },
+      "answer": {
+        "en": "Our names can evoke a wide spectrum of traits! Some sound ancient and wise, hinting at powerful magic and millennia of knowledge. Others might be sharp and guttural, suggesting a fierce, territorial beast. You'll find names that whisper of stealth and cunning, or roar with raw, untamed power. The beauty is in interpreting the name to fit your dragon's unique story.",
+        "ar": "يمكن لأسماءنا أن تستحضر طيفًا واسعًا من السمات! بعضها يبدو قديمًا وحكيمًا، ويلمح إلى سحر قوي وآلاف السنين من المعرفة. قد يكون البعض الآخر حادًا وبحلقيًا، مما يشير إلى وحش شرس وإقليمي. ستجد أسماء تهمس بالخفاء والمكر، أو تزأر بقوة خام وغير مروضة. الجمال يكمن في تفسير الاسم ليناسب قصة تنينك الفريدة.",
+        "es": "¡Nuestros nombres pueden evocar un amplio espectro de rasgos! Algunos suenan antiguos y sabios, insinuando magia poderosa y milenios de conocimiento. Otros podrían ser agudos y guturales, sugiriendo una bestia feroz y territorial. Encontrarás nombres que susurran sigilo y astucia, o rugen con poder crudo e indomable. La belleza está en interpretar el nombre para que se ajuste a la historia única de tu dragón.",
+        "fr": "Nos noms peuvent évoquer un large éventail de traits ! Certains sonnent anciens et sages, suggérant une magie puissante et des millénaires de connaissances. D'autres peuvent être vifs et gutturaux, suggérant une bête féroce et territoriale. Vous trouverez des noms qui chuchotent la furtivité et la ruse, ou rugissent avec une puissance brute et indomptée. La beauté réside dans l'interprétation du nom pour qu'il corresponde à l'histoire unique de votre dragon.",
+        "zh-cn": "我们的名字可以唤起广泛的性格特征！有些听起来古老而睿智，暗示着强大的魔法和数千年的知识。另一些可能尖锐而低沉，暗示着凶猛、领地意识强的野兽。你会发现那些低语着隐秘和狡猾的名字，或是咆哮着原始、未驯服力量的名字。美在于如何诠释名字以契合你的龙的独特故事。",
+        "ja": "私たちの名前は、幅広い特性を呼び起こすことができます！あるものは古く賢明に聞こえ、強力な魔法と数千年の知識を示唆しています。また、鋭く喉から出るような音のものは、凶暴で縄張り意識の強い獣を示唆しているかもしれません。ステルスと狡猾さをささやく名前や、生の、手つかずの力で咆哮する名前が見つかるでしょう。美しさは、あなたのドラゴンのユニークな物語に合うように名前を解釈することにあります。",
+        "pt": "Nossos nomes podem evocar um amplo espectro de traços! Alguns soam antigos e sábios, sugerindo magia poderosa e milênios de conhecimento. Outros podem ser afiados e guturais, sugerindo uma besta feroz e territorial. Você encontrará nomes que sussurram furtividade e astúcia, ou rugem com poder bruto e indomável. A beleza está em interpretar o nome para se adequar à história única do seu dragão.",
+        "ru": "Наши имена могут вызывать широкий спектр черт характера! Некоторые звучат древними и мудрыми, намекая на могущественную магию и тысячелетия знаний. Другие могут быть резкими и гортанными, предполагая свирепого, территориального зверя. Вы найдете имена, которые шепчут о скрытности и хитрости, или ревут сырой, необузданной силой. Красота заключается в интерпретации имени, чтобы оно соответствовало уникальной истории вашего дракона."
+      }
+    },
+    {
+      "question": {
+        "en": "How often are new names or variations added?",
+        "ar": "كم مرة يتم إضافة أسماء أو أشكال جديدة؟",
+        "es": "¿Con qué frecuencia se añaden nuevos nombres o variaciones?",
+        "fr": "À quelle fréquence de nouveaux noms ou variations sont-ils ajoutés ?",
+        "zh-cn": "多久会添加新的名字或变体？",
+        "ja": "新しい名前やバリエーションはどれくらいの頻度で追加されますか？",
+        "pt": "Com que frequência novos nomes ou variações são adicionados?",
+        "ru": "Как часто добавляются новые имена или варианты?"
+      },
+      "answer": {
+        "en": "We're constantly refining our algorithms and expanding our database of linguistic components to ensure a fresh and diverse output. While there isn't a fixed schedule, we aim to introduce new variations regularly, keeping the Dragon Names Generator a rich source of inspiration for all your fantasy needs.",
+        "ar": "نحن نعمل باستمرار على تحسين خوارزمياتنا وتوسيع قاعدة بياناتنا للمكونات اللغوية لضمان مخرجات جديدة ومتنوعة. على الرغم من عدم وجود جدول زمني ثابت، فإننا نهدف إلى تقديم تغييرات جديدة بانتظام، مما يجعل مولد أسماء التنانين مصدرًا غنيًا للإلهام لجميع احتياجاتك الخيالية.",
+        "es": "Estamos constantemente perfeccionando nuestros algoritmos y expandiendo nuestra base de datos de componentes lingüísticos para asegurar una salida fresca y diversa. Aunque no hay un calendario fijo, nuestro objetivo es introducir nuevas variaciones regularmente, manteniendo el Generador de Nombres de Dragones como una rica fuente de inspiración para todas tus necesidades de fantasía.",
+        "fr": "Nous affinons constamment nos algorithmes et élargissons notre base de données de composants linguistiques pour assurer une production fraîche et diversifiée. Bien qu'il n'y ait pas de calendrier fixe, nous visons à introduire de nouvelles variations régulièrement, faisant du Générateur de Noms de Dragons une source riche d'inspiration pour tous vos besoins fantastiques.",
+        "zh-cn": "我们不断改进算法并扩展语言组件数据库，以确保输出的新鲜度和多样性。虽然没有固定的时间表，但我们旨在定期引入新的变体，使龙名字生成器成为满足你所有奇幻需求的丰富灵感来源。",
+        "ja": "私たちは常にアルゴリズムを改良し、言語コンポーネントのデータベースを拡張して、新鮮で多様な出力を確保しています。固定されたスケジュールはありませんが、定期的に新しいバリエーションを導入することを目指しており、ドラゴンネームジェネレーターをあなたのすべてのファンタジーのニーズのための豊かなインスピレーション源として維持しています。",
+        "pt": "Estamos constantemente refinando nossos algoritmos e expandindo nosso banco de dados de componentes linguísticos para garantir uma saída fresca e diversificada. Embora não haja um cronograma fixo, nosso objetivo é introduzir novas variações regularmente, mantendo o Gerador de Nomes de Dragões como uma rica fonte de inspiração para todas as suas necessidades de fantasia.",
+        "ru": "Мы постоянно совершенствуем наши алгоритмы и расширяем нашу базу данных лингвистических компонентов, чтобы обеспечить свежий и разнообразный результат. Хотя фиксированного расписания нет, мы стремимся регулярно вводить новые варианты, сохраняя Генератор Имен Драконов богатым источником вдохновения для всех ваших фэнтезийных потребностей."
+      }
+    }
+  ]
+}

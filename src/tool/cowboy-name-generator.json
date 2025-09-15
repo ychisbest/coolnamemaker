@@ -1,0 +1,208 @@
+{
+  "name": {
+    "en": "Cowboy Name Generator",
+    "ar": "مولد أسماء رعاة البقر",
+    "es": "Generador de Nombres de Vaquero",
+    "fr": "Générateur de Noms de Cowboy",
+    "zh-cn": "牛仔名字生成器",
+    "ja": "カウボーイ名ジェネレーター",
+    "pt": "Gerador de Nomes de Cowboy",
+    "ru": "Генератор Имен Ковбоев"
+  },
+  "description": {
+    "en": "Saddle up, partner! Ever dreamt of a name as tough as a two-dollar steak and as legendary as the Wild West itself? Our Cowboy Name Generator is here to rustle up the perfect moniker for your inner desperado, gunslinger, or trail boss. Get ready to ride off into the sunset with a name that screams 'yeehaw' and 'justice'!",
+    "ar": "استعد، يا شريك! هل حلمت يومًا باسم قوي مثل شريحة لحم بقيمة دولارين وأسطوري مثل الغرب المتوحش نفسه؟ مولد أسماء رعاة البقر لدينا هنا ليجلب لك الاسم المثالي لشخصيتك الداخلية الخارجة عن القانون، أو قاذف السلاح، أو قائد القافلة. استعد للانطلاق نحو غروب الشمس باسم يصرخ 'يه هاو' و'العدالة'!",
+    "es": "¡Engancha la silla, compañero! ¿Alguna vez soñaste con un nombre tan rudo como un bistec de dos dólares y tan legendario como el propio Salvaje Oeste? Nuestro Generador de Nombres de Vaquero está aquí para conseguir el apodo perfecto para tu forajido interior, pistolero o jefe de caravana. ¡Prepárate para cabalgar hacia el atardecer con un nombre que grita 'yeehaw' y 'justicia'!",
+    "fr": "En selle, partenaire ! Vous avez toujours rêvé d'un nom aussi coriace qu'un steak à deux dollars et aussi légendaire que le Far West lui-même ? Notre Générateur de Noms de Cowboy est là pour vous dénicher le surnom parfait pour votre desperado intérieur, votre tireur d'élite ou votre chef de piste. Préparez-vous à chevaucher vers le soleil couchant avec un nom qui crie 'yeehaw' et 'justice' !",
+    "zh-cn": "上马吧，伙计！你是否曾梦想过一个像两美元牛排一样坚韧，像狂野西部本身一样传奇的名字？我们的牛仔名字生成器将为你内心的亡命徒、枪手或领队找到完美的绰号。准备好带着一个高喊“驾！”和“正义！”的名字，驰骋向日落吧！",
+    "ja": "相棒、鞍をつけろ！2ドルのステーキのようにタフで、ワイルドウェストそのもののように伝説的な名前を夢見たことはありませんか？私たちのカウボーイ名ジェネレーターは、あなたの内なる無法者、ガンマン、またはトレイルボスにぴったりの呼び名を見つけるためにここにいます。「イェーイ」と「正義」を叫ぶ名前で夕日に向かって走り出す準備をしてください！",
+    "pt": "Sela a montaria, parceiro! Já sonhou com um nome tão resistente quanto um bife de dois dólares e tão lendário quanto o Velho Oeste? Nosso Gerador de Nomes de Cowboy está aqui para encontrar o apelido perfeito para seu forasteiro interior, pistoleiro ou chefe de trilha. Prepare-se para cavalgar rumo ao pôr do sol com um nome que grita 'yeehaw' e 'justiça'!",
+    "ru": "Седлай, приятель! Мечтали ли вы когда-нибудь об имени, таком же крутом, как стейк за два доллара, и таком же легендарном, как сам Дикий Запад? Наш Генератор Имен Ковбоев здесь, чтобы подобрать идеальный псевдоним для вашего внутреннего отчаянного, стрелка или главаря банды. Приготовьтесь ускакать в закат с именем, которое кричит «уииихааа» и «справедливость»!"
+  },
+  "slug": "cowboy-name-generator",
+  "prompt": {
+    "en": "Generate a cowboy name",
+    "ar": "قم بإنشاء اسم راعي بقر",
+    "es": "Generar un nombre de vaquero",
+    "fr": "Générer un nom de cowboy",
+    "zh-cn": "生成一个牛仔名字",
+    "ja": "カウボーイ名を生成する",
+    "pt": "Gerar um nome de cowboy",
+    "ru": "Сгенерировать имя ковбоя"
+  },
+  "icon": "🤠",
+  "introduction": {
+    "en": "Yeehaw! Step right up, folks, and get ready to claim your place in the annals of the Wild West! This ain't just any old name generator; it's your trusty steed, guiding you to a moniker that'll strike fear into the hearts of outlaws and admiration into the eyes of saloon girls. Whether you're wrangling cattle, chasing bandits, or just looking for a cool username for your online posse, we've got a name that'll fit you like a well-worn pair of boots. Prepare for a rootin' tootin' good time!",
+    "ar": "يه هاو! تفضلوا أيها الناس، واستعدوا للمطالبة بمكانكم في سجلات الغرب المتوحش! هذا ليس مجرد مولد أسماء قديم؛ إنه حصانك الموثوق به، يرشدك إلى اسم يزرع الخوف في قلوب الخارجين عن القانون والإعجاب في عيون فتيات الصالون. سواء كنت ترعى الماشية، أو تطارد اللصوص، أو تبحث فقط عن اسم مستخدم رائع لمجموعتك عبر الإنترنت، فلدينا اسم يناسبك تمامًا مثل زوج من الأحذية القديمة المريحة. استعد لوقت ممتع ومثير!",
+    "es": "¡Yeehaw! ¡Acérquense, amigos, y prepárense para reclamar su lugar en los anales del Salvaje Oeste! Este no es un generador de nombres cualquiera; es tu fiel corcel, guiándote a un apodo que infundirá miedo en los corazones de los forajidos y admiración en los ojos de las chicas del salón. Ya sea que estés arreando ganado, persiguiendo bandidos o simplemente buscando un nombre de usuario genial para tu pandilla en línea, tenemos un nombre que te quedará como un par de botas bien gastadas. ¡Prepárate para un buen rato de vaqueros!",
+    "fr": "Yeehaw ! Approchez, les amis, et préparez-vous à revendiquer votre place dans les annales du Far West ! Ce n'est pas n'importe quel générateur de noms ; c'est votre fidèle destrier, vous guidant vers un surnom qui fera trembler les hors-la-loi et suscitera l'admiration des filles de saloon. Que vous soyez en train de rassembler du bétail, de chasser des bandits, ou simplement à la recherche d'un nom d'utilisateur cool pour votre bande en ligne, nous avons un nom qui vous ira comme une paire de bottes bien usées. Préparez-vous pour un bon moment de folie !",
+    "zh-cn": "驾！大家快来，准备好在狂野西部的史册中占据一席之地吧！这可不是普通的姓名生成器；它是你忠实的骏马，指引你找到一个能让亡命之徒心生恐惧，让酒吧女郎眼中充满钦佩的绰号。无论你是赶牛、追捕土匪，还是只是为你的线上队伍寻找一个酷炫的用户名，我们都有一个名字能像一双穿旧的靴子一样适合你。准备好享受一段热闹非凡的时光吧！",
+    "ja": "イェーイ！さあ、皆さん、ワイルドウェストの歴史に名を刻む準備をしてください！これはただの古い名前ジェネレーターではありません。これはあなたの信頼できる愛馬であり、無法者の心に恐怖を、酒場の女性の目に賞賛を呼び起こすニックネームへとあなたを導きます。家畜を飼育している場合でも、盗賊を追っている場合でも、あるいはオンラインの仲間たちのためのクールなユーザー名を探している場合でも、履き慣れたブーツのようにあなたにぴったりの名前が見つかります。楽しい時間を過ごす準備をしてください！",
+    "pt": "Yeehaw! Cheguem mais, pessoal, e preparem-se para reivindicar seu lugar nos anais do Velho Oeste! Este não é um gerador de nomes qualquer; é seu fiel corcel, guiando-o a um apelido que infundirá medo nos corações dos foras da lei e admiração nos olhos das moças do saloon. Esteja você lidando com gado, perseguindo bandidos ou apenas procurando um nome de usuário legal para sua turma online, temos um nome que lhe cairá como um par de botas bem usadas. Prepare-se para um tempo de muita diversão!",
+    "ru": "Уииихааа! Подходите, народ, и приготовьтесь занять свое место в анналах Дикого Запада! Это не просто какой-то там генератор имен; это ваш верный конь, который приведет вас к прозвищу, что вселит страх в сердца бандитов и восхищение в глаза салунных девиц. Независимо от того, пасете ли вы скот, гоняетесь за разбойниками или просто ищете крутое имя пользователя для своей онлайн-команды, у нас есть имя, которое подойдет вам, как пара хорошо поношенных сапог. Приготовьтесь к веселью и безрассудству!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Rustle Up a Name!' button. Don't be shy, partner!",
+      "Behold a magnificent bounty of cowboy names, fresh from the range.",
+      "Scan the list for a name that speaks to your rugged soul.",
+      "Found your legendary handle? Copy it with a click!",
+      "Now, go forth and make your mark on the frontier, ya hear?"
+    ],
+    "ar": [
+      "اضغط على زر 'ابحث عن اسم!' لا تخجل يا شريك!",
+      "شاهد مجموعة رائعة من أسماء رعاة البقر، طازجة من البراري.",
+      "امسح القائمة بحثًا عن اسم يتحدث إلى روحك الوعرة.",
+      "هل وجدت لقبك الأسطوري؟ انسخه بنقرة واحدة!",
+      "والآن، انطلق واصنع بصمتك على الحدود، هل تسمع؟"
+    ],
+    "es": [
+      "Haz clic en el botón '¡Consigue un Nombre!'. ¡No seas tímido, compañero!",
+      "Contempla una magnífica abundancia de nombres de vaquero, recién salidos del rancho.",
+      "Escanea la lista en busca de un nombre que hable a tu alma ruda.",
+      "¿Encontraste tu legendario apodo? ¡Cópialo con un clic!",
+      "¡Ahora, ve y deja tu huella en la frontera, ¿me oyes?!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton « Trouvez un nom ! ». N'ayez pas peur, partenaire !",
+      "Admirez une magnifique sélection de noms de cowboy, fraîchement sortis de la prairie.",
+      "Parcourez la liste pour un nom qui parle à votre âme robuste.",
+      "Vous avez trouvé votre nom légendaire ? Copiez-le d'un clic !",
+      "Maintenant, partez et laissez votre marque à la frontière, vous m'entendez ?"
+    ],
+    "zh-cn": [
+      "点击“生成一个名字！”按钮。别害羞，伙计！",
+      "瞧，一大批新鲜出炉的牛仔名字正等着你。",
+      "浏览列表，寻找一个能触动你粗犷灵魂的名字。",
+      "找到你的传奇称号了吗？点击复制它！",
+      "现在，去边疆留下你的印记吧，听到了吗？"
+    ],
+    "ja": "さあ、フロンティアで名を馳せてください、聞こえますか？",
+    "pt": [
+      "Clique no botão 'Encontre um Nome!'. Não seja tímido, parceiro!",
+      "Contemple uma magnífica abundância de nomes de cowboy, frescos da pradaria.",
+      "Analise a lista em busca de um nome que fale à sua alma robusta.",
+      "Encontrou seu lendário apelido? Copie-o com um clique!",
+      "Agora, vá em frente e deixe sua marca na fronteira, ouviu bem?"
+    ],
+    "ru": [
+      "Нажмите кнопку «Придумать имя!». Не стесняйтесь, приятель!",
+      "Взгляните на великолепное изобилие ковбойских имен, только что с пастбища.",
+      "Просмотрите список в поисках имени, которое говорит вашей суровой душе.",
+      "Нашли свой легендарный псевдоним? Скопируйте его одним щелчком!",
+      "Теперь идите и оставьте свой след на границе, слышите?"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Cowboy Name Generator as free as the open range?",
+        "ar": "هل مولد أسماء رعاة البقر هذا مجاني مثل المراعي المفتوحة؟",
+        "es": "¿Es este Generador de Nombres de Vaquero tan libre como la pradera abierta?",
+        "fr": "Ce Générateur de Noms de Cowboy est-il aussi libre que la plaine ouverte ?",
+        "zh-cn": "这个牛仔名字生成器像开阔的牧场一样免费吗？",
+        "ja": "このカウボーイ名ジェネレーターは、開かれた牧草地のように無料ですか？",
+        "pt": "Este Gerador de Nomes de Cowboy é tão livre quanto a pradaria aberta?",
+        "ru": "Этот Генератор Имен Ковбоев так же свободен, как открытые прерии?"
+      },
+      "answer": {
+        "en": "You bet your boots it is! We believe every aspiring cowboy and cowgirl deserves a legendary name without having to pay a single silver dollar. So, generate away!",
+        "ar": "بالتأكيد هو كذلك! نعتقد أن كل راعي بقر ورعاة بقر طموح يستحق اسمًا أسطوريًا دون الحاجة إلى دفع دولار فضي واحد. لذا، قم بالتوليد بحرية!",
+        "es": "¡Puedes apostar tus botas que sí! Creemos que cada aspirante a vaquero y vaquera merece un nombre legendario sin tener que pagar un solo dólar de plata. ¡Así que, genera sin parar!",
+        "fr": "Vous pouvez parier vos bottes que oui ! Nous pensons que chaque cowboy et cowgirl en herbe mérite un nom légendaire sans avoir à débourser un seul dollar d'argent. Alors, générez à volonté !",
+        "zh-cn": "你敢打赌，当然是！我们相信每一个有抱负的牛仔都应该拥有一个传奇的名字，而不必支付一分钱。所以，尽管生成吧！",
+        "ja": "もちろんですよ！私たちは、すべての志望するカウボーイとカウガールが、1枚の銀貨も払うことなく伝説的な名前を持つ権利があると信じています。だから、どんどん生成してください！",
+        "pt": "Pode apostar suas botas que sim! Acreditamos que todo aspirante a cowboy e cowgirl merece um nome lendário sem ter que pagar um único dólar de prata. Então, gere à vontade!",
+        "ru": "Можете поспорить, что это так! Мы считаем, что каждый начинающий ковбой и ковбойка заслуживает легендарного имени, не заплатив ни единого серебряного доллара. Так что, генерируйте на здоровье!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my spaghetti western screenplay?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لسيناريو فيلمي الغربي؟",
+        "es": "¿Puedo usar estos nombres para mi guion de spaghetti western?",
+        "fr": "Puis-je utiliser ces noms pour mon scénario de western spaghetti ?",
+        "zh-cn": "我可以在我的意大利式西部片剧本中使用这些名字吗？",
+        "ja": "これらの名前をスパゲッティ・ウェスタンの脚本に使用できますか？",
+        "pt": "Posso usar esses nomes para o meu roteiro de spaghetti western?",
+        "ru": "Могу ли я использовать эти имена для своего сценария спагетти-вестерна?"
+      },
+      "answer": {
+        "en": "Howdy, screenwriter! While we love the idea, we can't guarantee the uniqueness or availability of these names for commercial use like screenplays or character branding. Always check copyright and trademark laws before you lasso one for your big project.",
+        "ar": "مرحبًا أيها كاتب السيناريو! بينما نحب الفكرة، لا يمكننا ضمان تفرد أو توفر هذه الأسماء للاستخدام التجاري مثل السيناريوهات أو العلامات التجارية للشخصيات. تحقق دائمًا من قوانين حقوق النشر والعلامات التجارية قبل أن تختار اسمًا لمشروعك الكبير.",
+        "es": "¡Hola, guionista! Aunque nos encanta la idea, no podemos garantizar la singularidad o disponibilidad de estos nombres para uso comercial como guiones o marcas de personajes. Siempre verifica las leyes de derechos de autor y marcas registradas antes de elegir uno para tu gran proyecto.",
+        "fr": "Salut, scénariste ! Bien que nous aimions l'idée, nous ne pouvons pas garantir l'unicité ou la disponibilité de ces noms pour un usage commercial comme les scénarios ou l'image de marque des personnages. Vérifiez toujours les lois sur le droit d'auteur et les marques de commerce avant d'en choisir un pour votre grand projet.",
+        "zh-cn": "你好，编剧！虽然我们很喜欢这个想法，但我们无法保证这些名字在商业用途（如剧本或角色品牌）上的独特性或可用性。在为你的大项目选择名字之前，务必检查版权和商标法。",
+        "ja": "やあ、脚本家さん！そのアイデアは素晴らしいですが、これらの名前が脚本やキャラクターのブランド化などの商業利用において独自性や利用可能性を保証することはできません。大きなプロジェクトで名前を使う前に、必ず著作権法と商標法を確認してください。",
+        "pt": "Olá, roteirista! Embora amemos a ideia, não podemos garantir a exclusividade ou disponibilidade desses nomes para uso comercial, como roteiros ou branding de personagens. Sempre verifique as leis de direitos autorais e marcas registradas antes de escolher um para seu grande projeto.",
+        "ru": "Привет, сценарист! Хотя нам нравится эта идея, мы не можем гарантировать уникальность или доступность этих имен для коммерческого использования, такого как сценарии или брендинг персонажей. Всегда проверяйте законы об авторском праве и товарных знаках, прежде чем брать одно для своего большого проекта."
+      }
+    },
+    {
+      "question": {
+        "en": "How many cowboy names can I generate before my Stetson falls off?",
+        "ar": "كم عدد أسماء رعاة البقر التي يمكنني إنشاؤها قبل أن يسقط قبعتي؟",
+        "es": "¿Cuántos nombres de vaquero puedo generar antes de que se me caiga el Stetson?",
+        "fr": "Combien de noms de cowboy puis-je générer avant que mon Stetson ne tombe ?",
+        "zh-cn": "在我的斯泰森帽掉下来之前，我能生成多少个牛仔名字？",
+        "ja": "ステットソン帽が落ちる前に、いくつのカウボーイ名を生成できますか？",
+        "pt": "Quantos nomes de cowboy posso gerar antes que meu Stetson caia?",
+        "ru": "Сколько ковбойских имен я могу сгенерировать, прежде чем слетит мой стетсон?"
+      },
+      "answer": {
+        "en": "Generate 'til the cows come home! There's no limit to the number of rugged, rootin' tootin' names you can conjure up. Keep clicking that button until you find the one that fits your legend like a glove!",
+        "ar": "قم بالتوليد حتى تعود الأبقار إلى المنزل! لا يوجد حد لعدد الأسماء الوعرة والمثيرة التي يمكنك ابتكارها. استمر في النقر على هذا الزر حتى تجد الاسم الذي يناسب أسطورتك تمامًا!",
+        "es": "¡Genera hasta que las vacas vuelvan a casa! No hay límite para la cantidad de nombres rudos y ruidosos que puedes conjurar. ¡Sigue haciendo clic en ese botón hasta que encuentres el que se ajuste a tu leyenda como un guante!",
+        "fr": "Générez jusqu'à ce que les vaches rentrent à la maison ! Il n'y a pas de limite au nombre de noms robustes et excentriques que vous pouvez inventer. Continuez à cliquer sur ce bouton jusqu'à ce que vous trouviez celui qui correspond à votre légende comme un gant !",
+        "zh-cn": "生成到牛群回家为止！你可以生成无数粗犷、热闹的名字。继续点击那个按钮，直到你找到一个像手套一样适合你的传奇的名字！",
+        "ja": "牛が家に帰ってくるまで生成し続けてください！生成できる荒々しく騒々しい名前の数に制限はありません。あなたの伝説にぴったり合う名前が見つかるまで、そのボタンをクリックし続けてください！",
+        "pt": "Gere até as vacas voltarem para casa! Não há limite para o número de nomes robustos e barulhentos que você pode conjurar. Continue clicando nesse botão até encontrar aquele que se encaixa na sua lenda como uma luva!",
+        "ru": "Генерируйте, пока коровы не вернутся домой! Нет предела количеству суровых, шумных имен, которые вы можете придумать. Продолжайте нажимать эту кнопку, пока не найдете то, что идеально подходит вашей легенде!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are these names authentic Wild West names?",
+        "ar": "هل هذه الأسماء هي أسماء الغرب المتوحش الأصلية؟",
+        "es": "¿Son estos nombres auténticos nombres del Salvaje Oeste?",
+        "fr": "Ces noms sont-ils de véritables noms du Far West ?",
+        "zh-cn": "这些名字是真实的狂野西部名字吗？",
+        "ja": "これらの名前は本物のワイルドウェストの名前ですか？",
+        "pt": "Esses nomes são nomes autênticos do Velho Oeste?",
+        "ru": "Являются ли эти имена подлинными именами Дикого Запада?"
+      },
+      "answer": {
+        "en": "We've wrangled up a mix of historically inspired terms, classic Western tropes, and a dash of creative flair to give you names that *feel* authentic, even if they weren't penned in a dusty saloon ledger. They're built for adventure!",
+        "ar": "لقد جمعنا مزيجًا من المصطلحات المستوحاة تاريخيًا، والعبارات الغربية الكلاسيكية، وقليلًا من الذوق الإبداعي لنمنحك أسماء تبدو أصلية، حتى لو لم تُكتب في سجل صالون مغبر. إنها مصممة للمغامرة!",
+        "es": "Hemos reunido una mezcla de términos inspirados históricamente, tropos clásicos del Oeste y una pizca de estilo creativo para darte nombres que *se sienten* auténticos, incluso si no fueron escritos en un polvoriento libro de contabilidad de salón. ¡Están hechos para la aventura!",
+        "fr": "Nous avons rassemblé un mélange de termes inspirés de l'histoire, de tropes classiques du Western et d'une touche de créativité pour vous donner des noms qui *semblent* authentiques, même s'ils n'ont pas été écrits dans un registre de saloon poussiéreux. Ils sont faits pour l'aventure !",
+        "zh-cn": "我们混合了受历史启发的词语、经典的西部比喻和一点创意，为你提供听起来地道的名字，即使它们不是写在尘土飞扬的酒吧账本上。它们是为冒险而生的！",
+        "ja": "歴史にインスパイアされた用語、古典的な西部劇の比喩、そして創造的なセンスを混ぜ合わせ、たとえ埃っぽい酒場の台帳に書かれていなくても、本物だと*感じられる*名前を提供します。これらは冒険のために作られています！",
+        "pt": "Reunimos uma mistura de termos historicamente inspirados, tropos clássicos do Oeste e uma pitada de talento criativo para lhe dar nomes que *parecem* autênticos, mesmo que não tenham sido escritos em um livro de registro de saloon empoeirado. Eles são feitos para a aventura!",
+        "ru": "Мы собрали смесь исторически вдохновленных терминов, классических западных tropes и щепотку творческого таланта, чтобы дать вам имена, которые *ощущаются* аутентичными, даже если они не были записаны в пыльной салунной книге. Они созданы для приключений!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest new cowboy-themed words for the generator?",
+        "ar": "هل يمكنني اقتراح كلمات جديدة ذات طابع رعاة البقر للمولد؟",
+        "es": "¿Puedo sugerir nuevas palabras con temática de vaquero para el generador?",
+        "fr": "Puis-je suggérer de nouveaux mots sur le thème des cowboys pour le générateur ?",
+        "zh-cn": "我可以为生成器建议新的牛仔主题词汇吗？",
+        "ja": "ジェネレーターに新しいカウボーイをテーマにした単語を提案できますか？",
+        "pt": "Posso sugerir novas palavras com tema de cowboy para o gerador?",
+        "ru": "Могу ли я предложить новые слова на ковбойскую тематику для генератора?"
+      },
+      "answer": {
+        "en": "Well, shucks, we'd be happier than a pig in mud! We're always lookin' to expand our vocabulary and make our generator even better. Send your ideas our way, and you might just see 'em ridin' alongside the other names in the next update!",
+        "ar": "حسنًا، سنكون أسعد من خنزير في الوحل! نحن دائمًا نبحث عن توسيع مفرداتنا وجعل مولدنا أفضل. أرسل لنا أفكارك، وقد تراها تتجول جنبًا إلى جنب مع الأسماء الأخرى في التحديث القادم!",
+        "es": "¡Caramba, seríamos más felices que un cerdo en el barro! Siempre estamos buscando expandir nuestro vocabulario y mejorar nuestro generador. ¡Envíanos tus ideas y podrías verlas cabalgando junto a los otros nombres en la próxima actualización!",
+        "fr": "Eh bien, zut, nous serions plus heureux qu'un cochon dans la boue ! Nous cherchons toujours à élargir notre vocabulaire et à améliorer notre générateur. Envoyez-nous vos idées, et vous pourriez les voir chevaucher aux côtés des autres noms dans la prochaine mise à jour !",
+        "zh-cn": "哎呀，那我们可就高兴坏了！我们一直在寻找扩大词汇量并让我们的生成器变得更好的方法。把你的想法发给我们，说不定在下次更新中，你就能看到它们和其他名字一起驰骋了！",
+        "ja": "いやいや、豚が泥の中にいるよりも幸せになりますよ！私たちは常に語彙を広げ、ジェネレーターをさらに良くしようと考えています。あなたのアイデアを送ってください。次回のアップデートで、他の名前と一緒にそれらが登場するかもしれませんよ！",
+        "pt": "Bem, caramba, ficaríamos mais felizes que um porco na lama! Estamos sempre procurando expandir nosso vocabulário e tornar nosso gerador ainda melhor. Envie-nos suas ideias, e você poderá vê-las cavalgando junto com os outros nomes na próxima atualização!",
+        "ru": "Ну, черт возьми, мы были бы счастливее, чем свинья в грязи! Мы всегда ищем возможности расширить наш словарный запас и сделать наш генератор еще лучше. Присылайте нам свои идеи, и вы, возможно, увидите их скачущими рядом с другими именами в следующем обновлении!"
+      }
+    }
+  ]
+}

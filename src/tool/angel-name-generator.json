@@ -1,0 +1,192 @@
+{
+  "name": {
+    "en": "Angel Name Generator",
+    "ar": "مولد أسماء الملائكة",
+    "es": "Generador de Nombres de Ángeles",
+    "fr": "Générateur de Noms d'Anges",
+    "zh-cn": "天使名称生成器",
+    "ja": "天使の名前ジェネレーター",
+    "pt": "Gerador de Nomes de Anjos",
+    "ru": "Генератор Имен Ангелов"
+  },
+  "description": {
+    "en": "Seeking a celestial name for your character, pet, or spiritual journey? Our Angel Name Generator conjures a divine array of names inspired by heavenly beings! Discover names that resonate with grace, power, and ethereal beauty. Perfect for writers, gamers, or anyone seeking a touch of the divine.",
+    "ar": "هل تبحث عن اسم سماوي لشخصيتك، حيوانك الأليف، أو رحلتك الروحية؟ يولد مولد أسماء الملائكة لدينا مجموعة إلهية من الأسماء المستوحاة من الكائنات السماوية! اكتشف أسماء تتناغم مع النعمة، القوة، والجمال الأثيري. مثالي للكتاب، اللاعبين، أو أي شخص يبحث عن لمسة إلهية.",
+    "es": "¿Buscas un nombre celestial para tu personaje, mascota o viaje espiritual? ¡Nuestro Generador de Nombres de Ángeles conjura una divina variedad de nombres inspirados en seres celestiales! Descubre nombres que resuenan con gracia, poder y belleza etérea. Perfecto para escritores, jugadores o cualquiera que busque un toque de lo divino.",
+    "fr": "Vous cherchez un nom céleste pour votre personnage, votre animal de compagnie ou votre cheminement spirituel ? Notre Générateur de Noms d'Anges évoque un éventail divin de noms inspirés des êtres célestes ! Découvrez des noms qui résonnent avec la grâce, la puissance et la beauté éthérée. Parfait pour les écrivains, les joueurs ou toute personne en quête d'une touche de divinité.",
+    "zh-cn": "正在为你的角色、宠物或精神之旅寻找一个神圣的名字吗？我们的天使名称生成器将召唤出一系列受天堂生物启发的圣洁名字！发现那些与优雅、力量和超凡脱俗之美产生共鸣的名字。非常适合作家、玩家或任何寻求神圣气息的人。",
+    "ja": "あなたのキャラクター、ペット、またはスピリチュアルな旅に天上の名前をお探しですか？私たちの天使の名前ジェネレーターは、天の存在にインスパイアされた神聖な名前の数々を生み出します！優雅さ、力、そして優美な美しさに共鳴する名前を発見してください。作家、ゲーマー、または神聖なものに触れたいすべての人に最適です。",
+    "pt": "Procurando um nome celestial para seu personagem, animal de estimação ou jornada espiritual? Nosso Gerador de Nomes de Anjos conjura uma variedade divina de nomes inspirados em seres celestiais! Descubra nomes que ressoam com graça, poder e beleza etérea. Perfeito para escritores, jogadores ou qualquer pessoa que busca um toque do divino.",
+    "ru": "Ищете небесное имя для своего персонажа, питомца или духовного путешествия? Наш Генератор Имен Ангелов создает божественное множество имен, вдохновленных небесными существами! Откройте для себя имена, которые резонируют с благодатью, силой и эфирной красотой. Идеально подходит для писателей, геймеров или любого, кто ищет прикосновение божественного."
+  },
+  "slug": "angel-name-generator",
+  "prompt": {
+    "en": "Generate an angel name",
+    "ar": "توليد اسم ملاك",
+    "es": "Generar un nombre de ángel",
+    "fr": "Générer un nom d'ange",
+    "zh-cn": "生成一个天使名称",
+    "ja": "天使の名前を生成する",
+    "pt": "Gerar um nome de anjo",
+    "ru": "Сгенерировать имя ангела"
+  },
+  "icon": "👼",
+  "introduction": {
+    "en": "Step into the celestial realm and let your imagination take flight! This isn't just an ordinary name generator; it's a portal to names imbued with divine essence. Whether you're crafting an epic fantasy, naming a spiritual guide, or simply seeking a name with profound meaning, our generator offers a celestial symphony of options. Prepare to be enchanted by names that whisper of ancient wisdom, heavenly grace, and timeless power.",
+    "ar": "ادخل إلى العالم السماوي ودع خيالك يحلق! هذا ليس مجرد مولد أسماء عادي؛ إنه بوابة لأسماء مشبعة بالجوهر الإلهي. سواء كنت تصنع خيالًا ملحميًا، أو تسمي مرشدًا روحيًا، أو ببساطة تبحث عن اسم ذي معنى عميق، فإن مولدنا يقدم سيمفونية سماوية من الخيارات. استعد للسحر من خلال أسماء تهمس بالحكمة القديمة، النعمة السماوية، والقوة الخالدة.",
+    "es": "¡Adéntrate en el reino celestial y deja volar tu imaginación! Este no es solo un generador de nombres ordinario; es un portal a nombres imbuidos de esencia divina. Ya sea que estés creando una fantasía épica, nombrando un guía espiritual o simplemente buscando un nombre con un significado profundo, nuestro generador ofrece una sinfonía celestial de opciones. Prepárate para ser encantado por nombres que susurran sabiduría antigua, gracia celestial y poder atemporal.",
+    "fr": "Entrez dans le royaume céleste et laissez votre imagination prendre son envol ! Ce n'est pas un simple générateur de noms ; c'est un portail vers des noms imprégnés d'essence divine. Que vous soyez en train de créer une fantaisie épique, de nommer un guide spirituel ou simplement de chercher un nom avec une signification profonde, notre générateur offre une symphonie céleste d'options. Préparez-vous à être enchanté par des noms qui murmurent de sagesse ancienne, de grâce céleste et de pouvoir intemporel.",
+    "zh-cn": "踏入天界，让你的想象力自由翱翔！这不仅仅是一个普通的名称生成器；它是一个通往蕴含神圣本质之名的门户。无论你是在创作一部史诗奇幻作品，为一位精神导师命名，还是仅仅寻找一个具有深刻意义的名字，我们的生成器都能提供一系列天籁般的选择。准备好被那些低语着古老智慧、天堂恩典和永恒力量的名字所迷住吧。",
+    "ja": "天上の領域に足を踏み入れ、想像力を羽ばたかせましょう！これは単なる名前ジェネレーターではありません。神聖な本質が染み込んだ名前へのポータルです。壮大なファンタジーを制作している場合でも、スピリチュアルガイドに名前を付けている場合でも、あるいは単に深い意味を持つ名前を探している場合でも、私たちのジェネレーターは天上のシンフォニーのようなオプションを提供します。古代の知恵、天の恩寵、そして時代を超越した力をささやく名前に魅了される準備をしてください。",
+    "pt": "Entre no reino celestial e deixe sua imaginação voar! Este não é apenas um gerador de nomes comum; é um portal para nomes imbuídos de essência divina. Quer você esteja criando uma fantasia épica, nomeando um guia espiritual ou simplesmente buscando um nome com um significado profundo, nosso gerador oferece uma sinfonia celestial de opções. Prepare-se para ser encantado por nomes que sussurram sabedoria antiga, graça celestial e poder atemporal.",
+    "ru": "Шагните в небесное царство и дайте волю своему воображению! Это не просто обычный генератор имен; это портал к именам, пронизанным божественной сущностью. Независимо от того, создаете ли вы эпическое фэнтези, даете имя духовному наставнику или просто ищете имя с глубоким смыслом, наш генератор предлагает небесную симфонию вариантов. Приготовьтесь быть очарованными именами, которые шепчут о древней мудрости, небесной благодати и вечной силе."
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate Angel Name' button to summon a heavenly suggestion.",
+      "A divine name, complete with its ethereal aura, will appear before you.",
+      "Not quite heavenly enough? Click again for more celestial inspiration!",
+      "Once you find your perfect angelic moniker, copy it for your sacred purpose.",
+      "Let your chosen name guide your journey with grace and light!"
+    ],
+    "ar": [
+      "انقر على زر 'توليد اسم ملاك' لاستدعاء اقتراح سماوي.",
+      "سيظهر أمامك اسم إلهي، مكتمل بهالته الأثيرية.",
+      "ليس سماويًا بما فيه الكفاية؟ انقر مرة أخرى لمزيد من الإلهام السماوي!",
+      "بمجرد أن تجد اسمك الملائكي المثالي، انسخه لغرضك المقدس.",
+      "دع اسمك المختار يرشد رحلتك بالنعمة والنور!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar Nombre de Ángel' para invocar una sugerencia celestial.",
+      "Un nombre divino, completo con su aura etérea, aparecerá ante ti.",
+      "¿No es lo suficientemente celestial? ¡Haz clic de nuevo para más inspiración celestial!",
+      "Una vez que encuentres tu apodo angelical perfecto, cópialo para tu propósito sagrado.",
+      "¡Deja que el nombre elegido guíe tu viaje con gracia y luz!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer un Nom d'Ange' pour invoquer une suggestion céleste.",
+      "Un nom divin, complet avec son aura éthérée, apparaîtra devant vous.",
+      "Pas assez céleste ? Cliquez à nouveau pour plus d'inspiration divine !",
+      "Une fois que vous avez trouvé votre parfait surnom angélique, copiez-le pour votre dessein sacré.",
+      "Laissez le nom choisi guider votre voyage avec grâce et lumière !"
+    ],
+    "zh-cn": [
+      "点击“生成天使名称”按钮，召唤一个神圣的建议。",
+      "一个神圣的名字，带着它空灵的光环，将呈现在你面前。",
+      "不够神圣？再次点击以获取更多天国灵感！",
+      "一旦找到你完美的天使名字，复制它以用于你的神圣目的。",
+      "让你的选择之名以恩典和光明指引你的旅程！"
+    ],
+    "ja": [
+      "「天使の名前を生成」ボタンをクリックして、天からの提案を呼び出してください。",
+      "神聖な名前が、その優美なオーラと共にあなたの目の前に現れます。",
+      "十分に天国らしくないですか？もう一度クリックして、さらに天上のインスピレーションを得てください！",
+      "完璧な天使の愛称を見つけたら、神聖な目的のためにコピーしてください。",
+      "選んだ名前が、恵みと光であなたの旅を導きますように！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar Nome de Anjo' para invocar uma sugestão celestial.",
+      "Um nome divino, completo com sua aura etérea, aparecerá diante de você.",
+      "Não é celestial o suficiente? Clique novamente para mais inspiração celestial!",
+      "Depois de encontrar seu apelido angélico perfeito, copie-o para seu propósito sagrado.",
+      "Deixe seu nome escolhido guiar sua jornada com graça e luz!"
+    ],
+    "ru": [
+      "Нажмите кнопку «Сгенерировать имя ангела», чтобы вызвать небесное предложение.",
+      "Божественное имя, дополненное его эфирной аурой, появится перед вами.",
+      "Недостаточно небесно? Нажмите еще раз для большего небесного вдохновения!",
+      "Как только вы найдете свое идеальное ангельское прозвище, скопируйте его для своей священной цели.",
+      "Пусть выбранное вами имя ведет ваш путь с изяществом и светом!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Are these angel names based on traditional lore?",
+        "ar": "هل تستند أسماء الملائكة هذه إلى التقاليد القديمة؟",
+        "es": "¿Estos nombres de ángeles se basan en la tradición tradicional?",
+        "fr": "Ces noms d'anges sont-ils basés sur la tradition traditionnelle?",
+        "zh-cn": "这些天使名称是基于传统传说吗？",
+        "ja": "これらの天使の名前は伝統的な伝承に基づいていますか？",
+        "pt": "Esses nomes de anjos são baseados em lendas tradicionais?",
+        "ru": "Эти имена ангелов основаны на традиционных преданиях?"
+      },
+      "answer": {
+        "en": "Our generator draws inspiration from a wide array of sources, including traditional angelic hierarchies, mythological figures, and spiritual concepts. You'll find names that resonate with both classic and unique angelic qualities.",
+        "ar": "يستمد مولدنا الإلهام من مجموعة واسعة من المصادر، بما في ذلك التسلسلات الهرمية الملائكية التقليدية، والشخصيات الأسطورية، والمفاهيم الروحية. ستجد أسماء تتناغم مع الصفات الملائكية الكلاسيكية والفريدة.",
+        "es": "Nuestro generador se inspira en una amplia gama de fuentes, incluyendo jerarquías angélicas tradicionales, figuras mitológicas y conceptos espirituales. Encontrarás nombres que resuenan con cualidades angélicas clásicas y únicas.",
+        "fr": "Notre générateur s'inspire d'un large éventail de sources, y compris les hiérarchies angéliques traditionnelles, les figures mythologiques et les concepts spirituels. Vous trouverez des noms qui résonnent avec des qualités angéliques classiques et uniques.",
+        "zh-cn": "我们的生成器从广泛的来源中汲取灵感，包括传统的天使等级、神话人物和精神概念。你会找到与经典和独特天使特质产生共鸣的名字。",
+        "ja": "私たちのジェネレーターは、伝統的な天使の階級、神話上の人物、スピリチュアルな概念など、幅広い情報源からインスピレーションを得ています。古典的でユニークな天使の資質に共鳴する名前が見つかるでしょう。",
+        "pt": "Nosso gerador se inspira em uma ampla gama de fontes, incluindo hierarquias angelicais tradicionais, figuras mitológicas e conceitos espirituais. Você encontrará nomes que ressoam com qualidades angelicais clássicas e únicas.",
+        "ru": "Наш генератор черпает вдохновение из широкого круга источников, включая традиционные ангельские иерархии, мифологические фигуры и духовные концепции. Вы найдете имена, которые резонируют как с классическими, так и с уникальными ангельскими качествами."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my fictional characters?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لشخصياتي الخيالية؟",
+        "es": "¿Puedo usar estos nombres para mis personajes de ficción?",
+        "fr": "Puis-je utiliser ces noms pour mes personnages de fiction?",
+        "zh-cn": "我可以将这些名字用于我的虚构人物吗？",
+        "ja": "これらの名前を私の架空のキャラクターに使用できますか？",
+        "pt": "Posso usar esses nomes para meus personagens fictícios?",
+        "ru": "Могу ли я использовать эти имена для своих вымышленных персонажей?"
+      },
+      "answer": {
+        "en": "Absolutely! These names are perfect for adding a touch of the divine to your novels, role-playing games, or any creative writing project. Let them inspire the backstories and personalities of your celestial beings!",
+        "ar": "بالتأكيد! هذه الأسماء مثالية لإضافة لمسة إلهية إلى رواياتك، ألعاب لعب الأدوار، أو أي مشروع كتابة إبداعية. دعها تلهم الخلفيات والشخصيات لكائناتك السماوية!",
+        "es": "¡Absolutamente! Estos nombres son perfectos para añadir un toque divino a tus novelas, juegos de rol o cualquier proyecto de escritura creativa. ¡Deja que inspiren las historias de fondo y las personalidades de tus seres celestiales!",
+        "fr": "Absolument ! Ces noms sont parfaits pour ajouter une touche de divinité à vos romans, jeux de rôle ou tout projet d'écriture créative. Laissez-les inspirer les histoires et les personnalités de vos êtres célestes !",
+        "zh-cn": "当然可以！这些名字非常适合为你的小说、角色扮演游戏或任何创意写作项目增添神圣的气息。让它们激发你天界生物的背景故事和个性！",
+        "ja": "もちろんです！これらの名前は、あなたの小説、ロールプレイングゲーム、またはあらゆるクリエイティブな執筆プロジェクトに神聖なタッチを加えるのに最適です。彼らがあなたの天上の存在の背景や個性を刺激するままにしてください！",
+        "pt": "Com certeza! Esses nomes são perfeitos para adicionar um toque do divino aos seus romances, jogos de RPG ou qualquer projeto de escrita criativa. Deixe-os inspirar as histórias e personalidades de seus seres celestiais!",
+        "ru": "Конечно! Эти имена идеально подходят для того, чтобы добавить нотку божественности в ваши романы, ролевые игры или любой творческий письменный проект. Пусть они вдохновляют предыстории и личности ваших небесных существ!"
+      }
+    },
+    {
+      "question": {
+        "en": "How many angel names can I generate?",
+        "ar": "كم عدد أسماء الملائكة التي يمكنني توليدها؟",
+        "es": "¿Cuántos nombres de ángeles puedo generar?",
+        "fr": "Combien de noms d'anges puis-je générer?",
+        "zh-cn": "我能生成多少个天使名称？",
+        "ja": "いくつの天使の名前を生成できますか？",
+        "pt": "Quantos nomes de anjos posso gerar?",
+        "ru": "Сколько имен ангелов я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "The heavens are limitless, and so is our generator! Feel free to generate as many angelic names as your heart desires. Keep exploring until you find the name that truly resonates with your vision.",
+        "ar": "السماوات لا حدود لها، وكذلك مولدنا! لا تتردد في توليد أكبر عدد ممكن من الأسماء الملائكية حسب رغبة قلبك. استمر في الاستكشاف حتى تجد الاسم الذي يتوافق حقًا مع رؤيتك.",
+        "es": "¡Los cielos son ilimitados, y también nuestro generador! Siéntete libre de generar tantos nombres angelicales como tu corazón desee. Sigue explorando hasta que encuentres el nombre que realmente resuene con tu visión.",
+        "fr": "Les cieux sont illimités, tout comme notre générateur ! N'hésitez pas à générer autant de noms angéliques que votre cœur le désire. Continuez à explorer jusqu'à ce que vous trouviez le nom qui résonne vraiment avec votre vision.",
+        "zh-cn": "天堂是无限的，我们的生成器也是！尽情生成你心中所愿的天使名字吧。不断探索，直到找到真正与你的愿景产生共鸣的名字。",
+        "ja": "天国は無限であり、私たちのジェネレーターも同様です！心ゆくまで天使の名前を生成してください。あなたのビジョンに真に共鳴する名前が見つかるまで探索を続けてください。",
+        "pt": "Os céus são ilimitados, e nosso gerador também! Sinta-se à vontade para gerar quantos nomes angelicais seu coração desejar. Continue explorando até encontrar o nome que realmente ressoa com sua visão.",
+        "ru": "Небеса безграничны, и наш генератор тоже! Не стесняйтесь генерировать столько ангельских имен, сколько пожелает ваше сердце. Продолжайте исследовать, пока не найдете имя, которое действительно соответствует вашему видению."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest new themes or origins for angel names?",
+        "ar": "هل يمكنني اقتراح مواضيع أو أصول جديدة لأسماء الملائكة؟",
+        "es": "¿Puedo sugerir nuevos temas u orígenes para nombres de ángeles?",
+        "fr": "Puis-je suggérer de nouveaux thèmes ou origines pour les noms d'anges?",
+        "zh-cn": "我可以为天使名称建议新的主题或起源吗？",
+        "ja": "天使の名前の新しいテーマや起源を提案できますか？",
+        "pt": "Posso sugerir novos temas ou origens para nomes de anjos?",
+        "ru": "Могу ли я предложить новые темы или происхождение для имен ангелов?"
+      },
+      "answer": {
+        "en": "We welcome all celestial suggestions! Your feedback helps us expand our angelic dictionary and offer even more diverse and inspiring names. Please share your ideas through our feedback portal, and help us create a truly divine resource!",
+        "ar": "نرحب بجميع الاقتراحات السماوية! تساعدنا ملاحظاتك على توسيع قاموسنا الملائكي وتقديم أسماء أكثر تنوعًا وإلهامًا. يرجى مشاركة أفكارك من خلال بوابة الملاحظات الخاصة بنا، ومساعدتنا في إنشاء مورد إلهي حقًا!",
+        "es": "¡Damos la bienvenida a todas las sugerencias celestiales! Tus comentarios nos ayudan a expandir nuestro diccionario angelical y ofrecer nombres aún más diversos e inspiradores. ¡Por favor, comparte tus ideas a través de nuestro portal de comentarios y ayúdanos a crear un recurso verdaderamente divino!",
+        "fr": "Nous accueillons toutes les suggestions célestes ! Vos commentaires nous aident à élargir notre dictionnaire angélique et à offrir des noms encore plus divers et inspirants. Veuillez partager vos idées via notre portail de commentaires, et aidez-nous à créer une ressource véritablement divine !",
+        "zh-cn": "我们欢迎所有天界建议！您的反馈有助于我们扩展天使词典，并提供更多样化和鼓舞人心的名字。请通过我们的反馈门户分享您的想法，帮助我们创建一个真正神圣的资源！",
+        "ja": "私たちはすべての天上の提案を歓迎します！皆様からのフィードバックは、私たちの天使の辞書を拡張し、さらに多様でインスピレーションに満ちた名前を提供するのに役立ちます。フィードバックポータルを通じてアイデアを共有し、真に神聖なリソースの作成にご協力ください！",
+        "pt": "Aceitamos todas as sugestões celestiais! Seu feedback nos ajuda a expandir nosso dicionário angelical e oferecer nomes ainda mais diversos e inspiradores. Por favor, compartilhe suas ideias através do nosso portal de feedback e nos ajude a criar um recurso verdadeiramente divino!",
+        "ru": "Мы приветствуем все небесные предложения! Ваша обратная связь помогает нам расширять наш ангельский словарь и предлагать еще более разнообразные и вдохновляющие имена. Пожалуйста, поделитесь своими идеями через наш портал обратной связи и помогите нам создать по-настоящему божественный ресурс!"
+      }
+    }
+  ]
+}

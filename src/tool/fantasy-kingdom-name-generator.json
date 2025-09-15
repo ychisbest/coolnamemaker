@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Fantasy Kingdom Name Generator",
+    "ar": "مولد أسماء الممالك الخيالية",
+    "es": "Generador de Nombres de Reinos de Fantasía",
+    "fr": "Générateur de Noms de Royaumes Fantastiques",
+    "zh-cn": "奇幻王国名称生成器",
+    "ja": "ファンタジー王国名ジェネレーター",
+    "pt": "Gerador de Nomes de Reinos de Fantasia",
+    "ru": "Генератор Названий Фантастических Королевств"
+  },
+  "description": {
+    "en": "Embark on an epic quest to name your fantastical realm! Whether for a novel, a D&D campaign, or a video game, our Fantasy Kingdom Name Generator unleashes a torrent of majestic, mysterious, and memorable names. Discover names that evoke ancient magic, valiant heroes, and sprawling empires. Your legend begins with the perfect name!",
+    "ar": "انطلق في مهمة ملحمية لتسمية مملكتك الخيالية! سواء كانت لرواية، حملة D&D، أو لعبة فيديو، فإن مولد أسماء الممالك الخيالية لدينا يطلق العنان لسيل من الأسماء المهيبة، الغامضة، والتي لا تُنسى. اكتشف أسماء تستحضر السحر القديم، الأبطال الشجعان، والإمبراطوريات المترامية الأطراف. تبدأ أسطورتك بالاسم المثالي!",
+    "es": "¡Embárcate en una búsqueda épica para nombrar tu reino fantástico! Ya sea para una novela, una campaña de D&D o un videojuego, nuestro Generador de Nombres de Reinos de Fantasía desata un torrente de nombres majestuosos, misteriosos y memorables. Descubre nombres que evocan magia antigua, héroes valientes e imperios extensos. ¡Tu leyenda comienza con el nombre perfecto!",
+    "fr": "Embarquez pour une quête épique pour nommer votre royaume fantastique ! Que ce soit pour un roman, une campagne D&D ou un jeu vidéo, notre Générateur de Noms de Royaumes Fantastiques libère un torrent de noms majestueux, mystérieux et mémorables. Découvrez des noms qui évoquent la magie ancienne, les héros vaillants et les empires tentaculaires. Votre légende commence avec le nom parfait !",
+    "zh-cn": "踏上史诗般的征程，为你的奇幻王国命名！无论是小说、龙与地下城战役，还是电子游戏，我们的奇幻王国名称生成器都能为你带来大量宏伟、神秘且令人难忘的名字。探索那些能唤起古老魔法、英勇英雄和广阔帝国之感的名称。你的传奇从一个完美的名字开始！",
+    "ja": "あなたの幻想的な王国に名前を付ける壮大な探求に乗り出しましょう！小説、D&Dキャンペーン、ビデオゲームのいずれであっても、私たちのファンタジー王国名ジェネレーターは、雄大で神秘的で記憶に残る名前の奔流を解き放ちます。古代の魔法、勇敢な英雄、広大な帝国を想起させる名前を発見してください。あなたの伝説は完璧な名前から始まります！",
+    "pt": "Embarque em uma jornada épica para nomear seu reino fantástico! Seja para um romance, uma campanha de D&D ou um videogame, nosso Gerador de Nomes de Reinos de Fantasia libera uma torrente de nomes majestosos, misteriosos e memoráveis. Descubra nomes que evocam magia antiga, heróis valentes e impérios vastos. Sua lenda começa com o nome perfeito!",
+    "ru": "Отправьтесь в эпическое приключение, чтобы назвать свое фантастическое королевство! Будь то для романа, кампании D&D или видеоигры, наш Генератор Названий Фантастических Королевств выпускает поток величественных, таинственных и запоминающихся имен. Откройте для себя имена, которые вызывают древнюю магию, доблестных героев и обширные империи. Ваша легенда начинается с идеального имени!"
+  },
+  "slug": "fantasy-kingdom-name-generator",
+  "prompt": {
+    "en": "Generate a fantasy kingdom name",
+    "ar": "قم بإنشاء اسم مملكة خيالية",
+    "es": "Generar un nombre de reino de fantasía",
+    "fr": "Générer un nom de royaume fantastique",
+    "zh-cn": "生成一个奇幻王国名称",
+    "ja": "ファンタジー王国名を生成する",
+    "pt": "Gerar um nome de reino de fantasia",
+    "ru": "Сгенерировать название фантастического королевства"
+  },
+  "icon": "🏰",
+  "introduction": {
+    "en": "In the vast tapestry of fantasy, a kingdom's name is its very soul. It whispers tales of its history, its magic, its people, and its destiny. Our Fantasy Kingdom Name Generator is your ultimate tool to forge names that resonate with power, mystery, and allure. From the shimmering spires of elven realms to the rugged fortresses of dwarven strongholds, from sun-drenched human empires to shadow-haunted lands, find the name that will echo through ages. Let your imagination soar and crown your creation with a name worthy of legend!",
+    "ar": "في نسيج الفانتازيا الواسع، اسم المملكة هو روحها نفسها. يهمس بحكايات تاريخها، سحرها، شعبها، ومصيرها. مولد أسماء الممالك الخيالية لدينا هو أداتك المطلقة لصياغة أسماء تتردد صداها بالقوة، الغموض، والجاذبية. من الأبراج اللامعة لممالك الأقزام إلى الحصون الوعرة للقلاع القزمية، من الإمبراطوريات البشرية المشمسة إلى الأراضي المسكونة بالظلال، ابحث عن الاسم الذي سيتردد صداه عبر العصور. دع خيالك يحلق وتوج إبداعك باسم يستحق الأسطورة!",
+    "es": "En el vasto tapiz de la fantasía, el nombre de un reino es su propia alma. Susurra cuentos de su historia, su magia, su gente y su destino. Nuestro Generador de Nombres de Reinos de Fantasía es tu herramienta definitiva para forjar nombres que resuenen con poder, misterio y encanto. Desde las relucientes agujas de los reinos élficos hasta las escarpadas fortalezas de los baluartes enanos, desde los imperios humanos bañados por el sol hasta las tierras acechadas por las sombras, encuentra el nombre que resonará a través de las edades. ¡Deja volar tu imaginación y corona tu creación con un nombre digno de leyenda!",
+    "fr": "Dans la vaste tapisserie de la fantasy, le nom d'un royaume est son âme même. Il murmure des contes de son histoire, de sa magie, de son peuple et de sa destinée. Notre Générateur de Noms de Royaumes Fantastiques est votre outil ultime pour forger des noms qui résonnent avec puissance, mystère et attrait. Des flèches chatoyantes des royaumes elfiques aux forteresses robustes des bastions nains, des empires humains baignés de soleil aux terres hantées par les ombres, trouvez le nom qui résonnera à travers les âges. Laissez votre imagination s'envoler et couronnez votre création d'un nom digne de légende !",
+    "zh-cn": "在奇幻的广阔画卷中，一个王国的名字就是它的灵魂。它低语着它的历史、魔法、人民和命运的故事。我们的奇幻王国名称生成器是您打造充满力量、神秘和魅力的名称的终极工具。从精灵王国闪耀的尖塔到矮人堡垒崎岖的要塞，从阳光普照的人类帝国到阴影笼罩的土地，找到那个将回响千年的名字。让您的想象力驰骋，为您的创作冠以一个传奇般的名称！",
+    "ja": "ファンタジーの広大なタペストリーの中で、王国の名前はその魂そのものです。その歴史、魔法、人々、そして運命の物語をささやきます。私たちのファンタジー王国名ジェネレーターは、力、神秘、魅力を響かせる名前を鍛造するための究極のツールです。エルフの王国の輝く尖塔から、ドワーフの要塞の険しい砦まで、太陽が降り注ぐ人間の帝国から影に覆われた土地まで、時代を超えて響き渡る名前を見つけてください。想像力を羽ばたかせ、伝説にふさわしい名前であなたの創造物を飾りましょう！",
+    "pt": "Na vasta tapeçaria da fantasia, o nome de um reino é sua própria alma. Ele sussurra contos de sua história, sua magia, seu povo e seu destino. Nosso Gerador de Nomes de Reinos de Fantasia é sua ferramenta definitiva para forjar nomes que ressoam com poder, mistério e fascínio. Desde as torres cintilantes dos reinos élficos até as fortalezas robustas dos baluartes anões, desde os impérios humanos banhados pelo sol até as terras assombradas pelas sombras, encontre o nome que ecoará através das eras. Deixe sua imaginação voar e coroe sua criação com um nome digno de lenda!",
+    "ru": "В обширном гобелене фэнтези имя королевства — это его душа. Оно шепчет истории о его истории, магии, народе и судьбе. Наш Генератор Названий Фантастических Королевств — ваш идеальный инструмент для создания имен, которые резонируют с силой, тайной и очарованием. От мерцающих шпилей эльфийских царств до суровых крепостей гномьих твердынь, от залитых солнцем человеческих империй до земель, преследуемых тенями, найдите имя, которое будет звучать сквозь века. Дайте волю своему воображению и увенчайте свое творение именем, достойным легенды!"
+  },
+  "howToUse": {
+    "en": [
+      "Summon your inner loremaster and click the 'Generate' button.",
+      "Witness an array of magnificent kingdom names appear before your eyes.",
+      "Scroll through the list, feeling the magic of each suggestion.",
+      "Found a name that inspires epic tales? Copy it and let the adventures begin!",
+      "Repeat as often as your heart desires until your world is fully named!"
+    ],
+    "ar": [
+      "استدعِ سيد المعرفة بداخلك وانقر على زر 'إنشاء'.",
+      "شاهد مجموعة من أسماء الممالك الرائعة تظهر أمام عينيك.",
+      "تصفح القائمة، وشعر بسحر كل اقتراح.",
+      "هل وجدت اسمًا يلهم قصصًا ملحمية؟ انسخه ودع المغامرات تبدأ!",
+      "كرر ذلك كلما رغبت حتى يتم تسمية عالمك بالكامل!"
+    ],
+    "es": [
+      "¡Invoca a tu maestro de la tradición interior y haz clic en el botón 'Generar'!",
+      "Sé testigo de una serie de magníficos nombres de reinos que aparecen ante tus ojos.",
+      "Desplázate por la lista, sintiendo la magia de cada sugerencia.",
+      "¿Encontraste un nombre que inspira cuentos épicos? ¡Cópialo y que comiencen las aventuras!",
+      "¡Repite tantas veces como tu corazón desee hasta que tu mundo esté completamente nombrado!"
+    ],
+    "fr": [
+      "Invoquez votre maître du savoir intérieur et cliquez sur le bouton 'Générer'.",
+      "Observez un éventail de noms de royaumes magnifiques apparaître sous vos yeux.",
+      "Faites défiler la liste, ressentant la magie de chaque suggestion.",
+      "Vous avez trouvé un nom qui inspire des récits épiques ? Copiez-le et que les aventures commencent !",
+      "Répétez aussi souvent que votre cœur le désire jusqu'à ce que votre monde soit entièrement nommé !"
+    ],
+    "zh-cn": [
+      "召唤你内心的知识大师，然后点击“生成”按钮。",
+      "见证一系列宏伟的王国名称呈现在你眼前。",
+      "滚动浏览列表，感受每个建议的魔力。",
+      "找到一个能激发史诗故事的名称了吗？复制它，让冒险开始！",
+      "随心所欲地重复操作，直到你的世界被完全命名！"
+    ],
+    "ja": [
+      "あなたの内なるロアマスターを召喚し、「生成」ボタンをクリックしてください。",
+      "壮大な王国名の数々が目の前に現れるのを目撃してください。",
+      "リストをスクロールし、それぞれの提案の魔法を感じてください。",
+      "壮大な物語を刺激する名前を見つけましたか？それをコピーして、冒険を始めましょう！",
+      "あなたの世界が完全に命名されるまで、何度でも繰り返してください！"
+    ],
+    "pt": [
+      "Invoque seu loremaster interior e clique no botão 'Gerar'.",
+      "Testemunhe uma variedade de nomes magníficos de reinos aparecerem diante de seus olhos.",
+      "Role pela lista, sentindo a magia de cada sugestão.",
+      "Encontrou um nome que inspira contos épicos? Copie-o e que as aventuras comecem!",
+      "Repita quantas vezes seu coração desejar até que seu mundo esteja completamente nomeado!"
+    ],
+    "ru": [
+      "Призовите своего внутреннего лормастера и нажмите кнопку 'Сгенерировать'.",
+      "Станьте свидетелем появления множества великолепных названий королевств перед вашими глазами.",
+      "Прокрутите список, ощущая магию каждого предложения.",
+      "Нашли имя, которое вдохновляет на эпические сказания? Скопируйте его, и пусть приключения начнутся!",
+      "Повторяйте столько раз, сколько пожелает ваше сердце, пока ваш мир не будет полностью назван!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Fantasy Kingdom Name Generator truly free?",
+        "ar": "هل مولد أسماء الممالك الخيالية هذا مجاني حقًا؟",
+        "es": "¿Este Generador de Nombres de Reinos de Fantasía es realmente gratis?",
+        "fr": "Ce Générateur de Noms de Royaumes Fantastiques est-il vraiment gratuit?",
+        "zh-cn": "这个奇幻王国名称生成器真的是免费的吗？",
+        "ja": "このファンタジー王国名ジェネレーターは本当に無料ですか？",
+        "pt": "Este Gerador de Nomes de Reinos de Fantasia é realmente gratuito?",
+        "ru": "Этот Генератор Названий Фантастических Королевств действительно бесплатный?"
+      },
+      "answer": {
+        "en": "By the ancient decrees of the Eldar, yes! We believe every adventurer, writer, and game master deserves access to a legendary name. Generate to your heart's content, no gold required!",
+        "ar": "بمراسيم القدماء، نعم! نحن نؤمن بأن كل مغامر، كاتب، ومدير لعبة يستحق الوصول إلى اسم أسطوري. قم بالإنشاء بقدر ما يرغب قلبك، لا يلزم دفع ذهب!",
+        "es": "¡Por los antiguos decretos de los Eldar, sí! Creemos que todo aventurero, escritor y maestro de juego merece acceso a un nombre legendario. ¡Genera a tu gusto, no se requiere oro!",
+        "fr": "Par les anciens décrets des Anciens, oui ! Nous pensons que chaque aventurier, écrivain et maître de jeu mérite d'avoir accès à un nom légendaire. Générez à votre guise, pas d'or requis !",
+        "zh-cn": "根据远古精灵的法令，是的！我们相信每个冒险家、作家和游戏大师都应该拥有一个传奇的名字。尽情生成吧，无需金币！",
+        "ja": "エルダールの古の法令により、はい！すべての冒険者、作家、ゲームマスターが伝説的な名前を手に入れる権利があると信じています。心ゆくまで生成してください、金貨は必要ありません！",
+        "pt": "Pelos antigos decretos dos Eldar, sim! Acreditamos que todo aventureiro, escritor e mestre de jogo merece acesso a um nome lendário. Gere à vontade, sem ouro necessário!",
+        "ru": "По древним указам Эльдар, да! Мы верим, что каждый искатель приключений, писатель и гейм-мастер заслуживает доступа к легендарному имени. Генерируйте сколько душе угодно, золото не требуется!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these kingdom names in my published fantasy novel or game?",
+        "ar": "هل يمكنني استخدام أسماء الممالك هذه في روايتي الخيالية المنشورة أو لعبتي؟",
+        "es": "¿Puedo usar estos nombres de reinos en mi novela de fantasía o juego publicado?",
+        "fr": "Puis-je utiliser ces noms de royaumes dans mon roman fantastique ou mon jeu publié?",
+        "zh-cn": "我可以在我的奇幻小说或游戏中出版这些王国名称吗？",
+        "ja": "これらの王国名を私の出版されたファンタジー小説やゲームで使用できますか？",
+        "pt": "Posso usar esses nomes de reinos em meu romance de fantasia ou jogo publicado?",
+        "ru": "Могу ли я использовать эти названия королевств в своем опубликованном фэнтези-романе или игре?"
+      },
+      "answer": {
+        "en": "Indeed! These names are crafted for your creative endeavors. While we provide the inspiration, we always recommend conducting a quick search to ensure your chosen name hasn't already been claimed in a major work. May your stories flourish!",
+        "ar": "بالتأكيد! هذه الأسماء مصممة لمساعيك الإبداعية. بينما نقدم الإلهام، نوصي دائمًا بإجراء بحث سريع للتأكد من أن اسمك المختار لم يتم المطالبة به بالفعل في عمل رئيسي. ليزدهر قصصك!",
+        "es": "¡De hecho! Estos nombres están diseñados para tus esfuerzos creativos. Si bien proporcionamos la inspiración, siempre recomendamos realizar una búsqueda rápida para asegurarte de que el nombre elegido no haya sido reclamado ya en una obra importante. ¡Que tus historias florezcan!",
+        "fr": "En effet ! Ces noms sont conçus pour vos efforts créatifs. Bien que nous fournissions l'inspiration, nous recommandons toujours d'effectuer une recherche rapide pour vous assurer que le nom choisi n'a pas déjà été revendiqué dans une œuvre majeure. Que vos histoires fleurissent !",
+        "zh-cn": "当然可以！这些名称专为您的创作而生。虽然我们提供灵感，但我们始终建议您快速搜索一下，以确保您选择的名称尚未在主要作品中被使用。愿您的故事蓬勃发展！",
+        "ja": "もちろんです！これらの名前はあなたの創造的な努力のために作られています。私たちはインスピレーションを提供しますが、選んだ名前が主要な作品ですでに使用されていないか、簡単な検索を行うことを常にお勧めします。あなたの物語が繁栄しますように！",
+        "pt": "De fato! Esses nomes são criados para seus esforços criativos. Embora forneçamos a inspiração, sempre recomendamos realizar uma busca rápida para garantir que o nome escolhido não tenha sido reivindicado em uma obra importante. Que suas histórias floresçam!",
+        "ru": "Разумеется! Эти имена созданы для ваших творческих начинаний. Хотя мы предоставляем вдохновение, мы всегда рекомендуем провести быстрый поиск, чтобы убедиться, что выбранное вами имя еще не было использовано в крупном произведении. Пусть ваши истории процветают!"
+      }
+    },
+    {
+      "question": {
+        "en": "How many kingdom names can I generate?",
+        "ar": "كم عدد أسماء الممالك التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres de reinos puedo generar?",
+        "fr": "Combien de noms de royaumes puis-je générer?",
+        "zh-cn": "我可以生成多少个王国名称？",
+        "ja": "いくつの王国名を生成できますか？",
+        "pt": "Quantos nomes de reinos posso gerar?",
+        "ru": "Сколько названий королевств я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "As many as the stars in the night sky, brave creator! There is no limit to the legendary names you can uncover. Keep clicking, keep dreaming, and build your boundless world!",
+        "ar": "بقدر عدد النجوم في سماء الليل، أيها المبدع الشجاع! لا يوجد حد للأسماء الأسطورية التي يمكنك اكتشافها. استمر في النقر، استمر في الحلم، وابنِ عالمك اللامحدود!",
+        "es": "¡Tantos como las estrellas en el cielo nocturno, valiente creador! No hay límite para los nombres legendarios que puedes descubrir. ¡Sigue haciendo clic, sigue soñando y construye tu mundo ilimitado!",
+        "fr": "Autant que les étoiles dans le ciel nocturne, brave créateur ! Il n'y a pas de limite aux noms légendaires que vous pouvez découvrir. Continuez à cliquer, continuez à rêver et construisez votre monde sans limites !",
+        "zh-cn": "如同夜空中的繁星一般多，勇敢的创作者！您可以发现的传奇名称数量没有限制。持续点击，持续梦想，构建您无限的世界！",
+        "ja": "夜空の星の数だけ、勇敢なる創造主よ！発見できる伝説の名前の数に限りはありません。クリックし続け、夢を見続け、あなたの無限の世界を築き上げましょう！",
+        "pt": "Tantos quanto as estrelas no céu noturno, bravo criador! Não há limite para os nomes lendários que você pode descobrir. Continue clicando, continue sonhando e construa seu mundo ilimitado!",
+        "ru": "Столько, сколько звезд на ночном небе, храбрый создатель! Нет предела легендарным именам, которые вы можете открыть. Продолжайте нажимать, продолжайте мечтать и стройте свой бескрайний мир!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names actually any good for a fantasy setting?",
+        "ar": "هل الأسماء التي تم إنشاؤها جيدة حقًا لإعداد خيالي؟",
+        "es": "¿Los nombres generados son realmente buenos para un entorno de fantasía?",
+        "fr": "Les noms générés sont-ils vraiment bons pour un cadre fantastique?",
+        "zh-cn": "生成的名称真的适合奇幻设定吗？",
+        "ja": "生成された名前は実際にファンタジー設定に適していますか？",
+        "pt": "Os nomes gerados são realmente bons para um cenário de fantasia?",
+        "ru": "Действительно ли сгенерированные названия хороши для фэнтезийной обстановки?"
+      },
+      "answer": {
+        "en": "Our generator is imbued with ancient magic and modern algorithms to conjure names that fit various fantasy aesthetics. From the grand and noble to the dark and mysterious, you'll find a name that sparks your imagination. If a name doesn't quite fit, simply generate another!",
+        "ar": "مولدنا مشبع بالسحر القديم والخوارزميات الحديثة لاستحضار أسماء تتناسب مع جماليات الفانتازيا المختلفة. من العظيم والنبيل إلى المظلم والغامض، ستجد اسمًا يثير خيالك. إذا لم يتناسب اسم ما تمامًا، فما عليك سوى إنشاء آخر!",
+        "es": "Nuestro generador está imbuido de magia antigua y algoritmos modernos para conjurar nombres que se ajusten a diversas estéticas de fantasía. Desde lo grandioso y noble hasta lo oscuro y misterioso, encontrarás un nombre que encienda tu imaginación. Si un nombre no encaja del todo, ¡simplemente genera otro!",
+        "fr": "Notre générateur est imprégné de magie ancienne et d'algorithmes modernes pour conjurer des noms qui correspondent à diverses esthétiques fantastiques. Du grandiose et noble au sombre et mystérieux, vous trouverez un nom qui stimulera votre imagination. Si un nom ne convient pas tout à fait, générez-en simplement un autre !",
+        "zh-cn": "我们的生成器融合了古老的魔法和现代算法，以创造出符合各种奇幻美学的名称。从宏伟高贵到黑暗神秘，您都能找到一个能激发您想象力的名字。如果某个名称不太合适，只需再次生成即可！",
+        "ja": "私たちのジェネレーターは、古代の魔法と現代のアルゴリズムが注入されており、さまざまなファンタジーの美学に合う名前を呼び起こします。壮大で高貴なものから、暗く神秘的なものまで、あなたの想像力を刺激する名前が見つかるでしょう。もし名前がしっくりこなくても、別の名前を生成するだけです！",
+        "pt": "Nosso gerador é imbuído de magia antiga e algoritmos modernos para conjurar nomes que se encaixam em várias estéticas de fantasia. Do grandioso e nobre ao sombrio e misterioso, você encontrará um nome que acende sua imaginação. Se um nome não se encaixar perfeitamente, basta gerar outro!",
+        "ru": "Наш генератор пропитан древней магией и современными алгоритмами для создания названий, подходящих для различных фэнтезийных эстетик. От величественных и благородных до темных и загадочных, вы найдете имя, которое разбудит ваше воображение. Если имя не совсем подходит, просто сгенерируйте другое!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest new themes or name styles for the generator?",
+        "ar": "هل يمكنني اقتراح مواضيع أو أنماط أسماء جديدة للمولد؟",
+        "es": "¿Puedo sugerir nuevos temas o estilos de nombres para el generador?",
+        "fr": "Puis-je suggérer de nouveaux thèmes ou styles de noms pour le générateur?",
+        "zh-cn": "我可以为生成器建议新的主题或名称风格吗？",
+        "ja": "ジェネレーターに新しいテーマや名前のスタイルを提案できますか？",
+        "pt": "Posso sugerir novos temas ou estilos de nomes para o gerador?",
+        "ru": "Могу ли я предложить новые темы или стили названий для генератора?"
+      },
+      "answer": {
+        "en": "Your wisdom is valued, intrepid traveler! We are always seeking to expand our arcane knowledge. Share your ideas through our enchanted feedback portal, and your contributions might just shape the future of our generator!",
+        "ar": "حكمتك قيمة، أيها المسافر الشجاع! نحن نسعى دائمًا لتوسيع معرفتنا الغامضة. شارك أفكارك من خلال بوابة الملاحظات المسحورة لدينا، وقد تشكل مساهماتك مستقبل مولدنا!",
+        "es": "¡Tu sabiduría es valorada, intrépido viajero! Siempre estamos buscando expandir nuestro conocimiento arcano. ¡Comparte tus ideas a través de nuestro portal de comentarios encantado, y tus contribuciones podrían dar forma al futuro de nuestro generador!",
+        "fr": "Votre sagesse est précieuse, intrépide voyageur ! Nous cherchons toujours à étendre notre connaissance arcanique. Partagez vos idées via notre portail de commentaires enchanté, et vos contributions pourraient bien façonner l'avenir de notre générateur !",
+        "zh-cn": "您的智慧弥足珍贵，勇敢的旅行者！我们一直在寻求扩展我们的奥术知识。通过我们施了魔法的反馈门户分享您的想法，您的贡献或许就能塑造我们生成器的未来！",
+        "ja": "あなたの知恵は貴重です、勇敢な旅人よ！私たちは常に秘術の知識を拡大しようと努めています。私たちの魔法のフィードバックポータルを通じてあなたのアイデアを共有してください。あなたの貢献がジェネレーターの未来を形作るかもしれません！",
+        "pt": "Sua sabedoria é valorizada, intrépido viajante! Estamos sempre buscando expandir nosso conhecimento arcano. Compartilhe suas ideias através do nosso portal de feedback encantado, e suas contribuições podem moldar o futuro do nosso gerador!",
+        "ru": "Ваша мудрость ценится, отважный путешественник! Мы всегда стремимся расширить наши тайные знания. Делитесь своими идеями через наш заколдованный портал обратной связи, и ваши вклады могут сформировать будущее нашего генератора!"
+      }
+    }
+  ]
+}

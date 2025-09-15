@@ -1,0 +1,208 @@
+{
+  "name": {
+    "en": "Alien Name Generator",
+    "ar": "مولد أسماء الكائنات الفضائية",
+    "es": "Generador de Nombres Alienígenas",
+    "fr": "Générateur de Noms d'Aliens",
+    "zh-cn": "外星人名称生成器",
+    "ja": "エイリアンネームジェネレーター",
+    "pt": "Gerador de Nomes Alienígenas",
+    "ru": "Генератор Имен Инопланетян"
+  },
+  "description": {
+    "en": "Journey to the stars and beyond with our Alien Name Generator! Whether you're crafting a sci-fi epic, designing a new species, or just looking for a quirky username, our generator will beam up a galaxy of unique, otherworldly, and truly out-of-this-world names. Prepare to meet your cosmic alter ego!",
+    "ar": "انطلق في رحلة إلى النجوم وما بعدها مع مولد أسماء الكائنات الفضائية الخاص بنا! سواء كنت تصنع ملحمة خيال علمي، أو تصمم نوعًا جديدًا، أو تبحث فقط عن اسم مستخدم غريب الأطوار، فإن مولدنا سيقدم لك مجرة من الأسماء الفريدة والغريبة والغير عادية حقًا. استعد لمقابلة توأمك الكوني!",
+    "es": "¡Viaja a las estrellas y más allá con nuestro Generador de Nombres Alienígenas! Ya sea que estés creando una epopeya de ciencia ficción, diseñando una nueva especie o simplemente buscando un nombre de usuario peculiar, nuestro generador te traerá una galaxia de nombres únicos, de otro mundo y verdaderamente fuera de este planeta. ¡Prepárate para conocer a tu alter ego cósmico!",
+    "fr": "Voyagez vers les étoiles et au-delà avec notre Générateur de Noms d'Aliens ! Que vous créiez une épopée de science-fiction, conceviez une nouvelle espèce, ou cherchiez simplement un nom d'utilisateur original, notre générateur vous offrira une galaxie de noms uniques, d'un autre monde et vraiment hors du commun. Préparez-vous à rencontrer votre alter ego cosmique !",
+    "zh-cn": "使用我们的外星人名称生成器，踏上星际之旅！无论您是在创作科幻史诗、设计新物种，还是只是寻找一个古怪的用户名，我们的生成器都将为您提供一个充满独特、超凡脱俗且真正非凡名称的星系。准备好迎接您的宇宙分身吧！",
+    "ja": "エイリアンネームジェネレーターで星の彼方へ旅に出ましょう！SF叙事詩を作成したり、新種をデザインしたり、あるいは単に風変わりなユーザー名を求めている場合でも、私たちのジェネレーターは、ユニークで異世界のような、そして本当にこの世のものとは思えない名前の銀河を生成します。あなたの宇宙の分身に会う準備をしてください！",
+    "pt": "Viaje para as estrelas e além com o nosso Gerador de Nomes Alienígenas! Quer esteja a criar uma epopeia de ficção científica, a desenhar uma nova espécie, ou apenas à procura de um nome de utilizador peculiar, o nosso gerador irá apresentar-lhe uma galáxia de nomes únicos, de outro mundo e verdadeiramente fora deste planeta. Prepare-se para conhecer o seu alter ego cósmico!",
+    "ru": "Отправьтесь в путешествие к звездам и за их пределы с нашим Генератором Имен Инопланетян! Создаете ли вы научно-фантастический эпос, разрабатываете новый вид или просто ищете необычное имя пользователя, наш генератор предоставит вам галактику уникальных, потусторонних и поистине неземных имен. Приготовьтесь встретить свое космическое альтер-эго!"
+  },
+  "slug": "alien-name-generator",
+  "prompt": {
+    "en": "Generate an alien name",
+    "ar": "قم بإنشاء اسم كائن فضائي",
+    "es": "Generar un nombre alienígena",
+    "fr": "Générer un nom d'alien",
+    "zh-cn": "生成一个外星人名称",
+    "ja": "エイリアン名を生成する",
+    "pt": "Gerar um nome alienígena",
+    "ru": "Сгенерировать имя инопланетянина"
+  },
+  "icon": "👽",
+  "introduction": {
+    "en": "From the icy plains of Xylos to the vibrant jungles of K'tharr, every alien deserves a name as unique as their home world. Our Alien Name Generator is your portal to countless galactic possibilities. Forget generic 'Zorgs' and 'Glarbs' – we're talking about names that evoke ancient cosmic wisdom, fierce warrior pride, or playful interstellar mischief. Whether your alien is a benevolent diplomat, a terrifying conqueror, or a mysterious wanderer, we have the perfect designation waiting. Prepare for transmission!",
+    "ar": "من سهول زيلوس الجليدية إلى غابات كيثار النابضة بالحياة، يستحق كل كائن فضائي اسمًا فريدًا مثل عالمه الأم. مولد أسماء الكائنات الفضائية الخاص بنا هو بوابتك إلى إمكانيات مجرية لا حصر لها. انسَ أسماء 'زورغ' و 'غلارب' العامة - نحن نتحدث عن أسماء تستحضر الحكمة الكونية القديمة، أو فخر المحارب الشرس، أو المشاغبين بين النجوم. سواء كان كائنك الفضائي دبلوماسيًا خيرًا، أو فاتحًا مرعبًا، أو متجولًا غامضًا، فلدينا التسمية المثالية في انتظارك. استعد للإرسال!",
+    "es": "Desde las llanuras heladas de Xylos hasta las vibrantes junglas de K'tharr, cada alienígena merece un nombre tan único como su mundo natal. Nuestro Generador de Nombres Alienígenas es tu portal a innumerables posibilidades galácticas. Olvídate de los genéricos 'Zorgs' y 'Glarbs' – estamos hablando de nombres que evocan la antigua sabiduría cósmica, el fiero orgullo guerrero o la juguetona travesura interestelar. Ya sea que tu alienígena sea un diplomático benévolo, un conquistador aterrador o un misterioso vagabundo, tenemos la designación perfecta esperándote. ¡Prepárate para la transmisión!",
+    "fr": "Des plaines glaciales de Xylos aux jungles vibrantes de K'tharr, chaque alien mérite un nom aussi unique que son monde natal. Notre Générateur de Noms d'Aliens est votre portail vers d'innombrables possibilités galactiques. Oubliez les 'Zorgs' et 'Glarbs' génériques – nous parlons de noms qui évoquent l'ancienne sagesse cosmique, la fierté féroce des guerriers ou la malice intergalactique espiègle. Que votre alien soit un diplomate bienveillant, un conquérant terrifiant ou un mystérieux vagabond, nous avons la désignation parfaite qui vous attend. Préparez-vous pour la transmission !",
+    "zh-cn": "从 Xylos 的冰冷平原到 K'tharr 充满活力的丛林，每个外星人都应该拥有一个像他们的母星一样独特的名字。我们的外星人名称生成器是您通往无数银河可能性的门户。忘记那些普通的“Zorgs”和“Glarbs”——我们谈论的是那些能唤起古老宇宙智慧、凶猛战士的骄傲或顽皮的星际恶作剧的名字。无论您的外星人是仁慈的外交官、可怕的征服者还是神秘的流浪者，我们都有完美的名称等着您。准备好传输吧！",
+    "ja": "サイロス星の氷の平原からク'サー星の活気あるジャングルまで、すべてのエイリアンは故郷の惑星と同じくらいユニークな名前を持つにふさわしいです。私たちのエイリアンネームジェネレーターは、無数の銀河の可能性へのポータルです。一般的な「ゾーグ」や「グラブ」は忘れてください—私たちは、古代の宇宙の知恵、猛烈な戦士の誇り、または遊び心のある星間いたずらを呼び起こす名前について話しています。あなたのエイリアンが慈悲深い外交官であろうと、恐ろしい征服者であろうと、神秘的な放浪者であろうと、完璧な名称があなたを待っています。送信の準備をしてください！",
+    "pt": "Das planícies geladas de Xylos às vibrantes selvas de K'tharr, cada alienígena merece um nome tão único quanto o seu mundo natal. O nosso Gerador de Nomes Alienígenas é o seu portal para inúmeras possibilidades galácticas. Esqueça os genéricos 'Zorgs' e 'Glarbs' – estamos a falar de nomes que evocam a antiga sabedoria cósmica, o orgulho feroz de guerreiros ou a travessura interestelar brincalhona. Quer o seu alienígena seja um diplomata benevolente, um conquistador aterrorizante ou um misterioso andarilho, temos a designação perfeita à espera. Prepare-se para a transmissão!",
+    "ru": "От ледяных равнин Ксилоса до ярких джунглей К'тарра, каждый инопланетянин заслуживает имени, столь же уникального, как и его родной мир. Наш Генератор Имен Инопланетян — это ваш портал к бесчисленным галактическим возможностям. Забудьте о стандартных «Зоргаx» и «Гларбаx» — мы говорим о именах, которые вызывают древнюю космическую мудрость, яростную воинскую гордость или игривое межзвездное озорство. Будь то ваш инопланетянин доброжелательным дипломатом, ужасающим завоевателем или таинственным скитальцем, у нас есть идеальное обозначение, ожидающее вас. Приготовьтесь к передаче!"
+  },
+  "howToUse": {
+    "en": [
+      "Initiate contact: Click the 'Generate' button to begin your interstellar naming mission.",
+      "Observe the results: A host of alien names will materialize before your eyes.",
+      "Scan for favorites: Scroll through the generated names and identify those that resonate with your cosmic vision.",
+      "Capture the data: Copy any names that fit your alien's persona.",
+      "Transmit and create: Use your new alien name to populate your sci-fi worlds, games, or imaginative tales!"
+    ],
+    "ar": [
+      "ابدأ الاتصال: انقر على زر 'إنشاء' لبدء مهمة تسمية الكائنات الفضائية الخاصة بك.",
+      "راقب النتائج: ستظهر مجموعة من أسماء الكائنات الفضائية أمام عينيك.",
+      "ابحث عن المفضلة: مرر عبر الأسماء التي تم إنشاؤها وحدد تلك التي تتوافق مع رؤيتك الكونية.",
+      "التقط البيانات: انسخ أي أسماء تناسب شخصية كائنك الفضائي.",
+      "إرسال وإنشاء: استخدم اسم كائنك الفضائي الجديد لملء عوالم الخيال العلمي الخاصة بك، أو ألعابك، أو قصصك الخيالية!"
+    ],
+    "es": [
+      "Iniciar contacto: Haz clic en el botón 'Generar' para comenzar tu misión de nombrar interestelar.",
+      "Observar los resultados: Una multitud de nombres alienígenas se materializarán ante tus ojos.",
+      "Escanear favoritos: Desplázate por los nombres generados e identifica aquellos que resuenan con tu visión cósmica.",
+      "Capturar los datos: Copia cualquier nombre que se ajuste a la personalidad de tu alienígena.",
+      "Transmitir y crear: ¡Usa tu nuevo nombre alienígena para poblar tus mundos de ciencia ficción, juegos o cuentos imaginativos!"
+    ],
+    "fr": [
+      "Initiez le contact : Cliquez sur le bouton 'Générer' pour commencer votre mission de dénomination interstellaire.",
+      "Observez les résultats : Une multitude de noms d'aliens apparaîtront sous vos yeux.",
+      "Recherchez les favoris : Faites défiler les noms générés et identifiez ceux qui résonnent avec votre vision cosmique.",
+      "Capturez les données : Copiez tous les noms qui correspondent à la personnalité de votre alien.",
+      "Transmettez et créez : Utilisez votre nouveau nom d'alien pour peupler vos mondes de science-fiction, jeux ou récits imaginatifs !"
+    ],
+    "zh-cn": [
+      "开始接触：点击“生成”按钮，开始您的星际命名任务。",
+      "观察结果：一系列外星人名称将呈现在您眼前。",
+      "扫描收藏：滚动浏览生成的名称，找出与您的宇宙愿景产生共鸣的名称。",
+      "捕获数据：复制任何符合您外星人形象的名称。",
+      "传输并创建：使用您新的外星人名称来填充您的科幻世界、游戏或富有想象力的故事！"
+    ],
+    "ja": "送信して作成：新しいエイリアン名を使って、SFの世界、ゲーム、想像力豊かな物語を彩りましょう！",
+    "pt": [
+      "Iniciar contato: Clique no botão 'Gerar' para começar sua missão de nomenclatura interestelar.",
+      "Observe os resultados: Uma série de nomes alienígenas se materializará diante dos seus olhos.",
+      "Procure os favoritos: Role a lista de nomes gerados e identifique aqueles que ressoam com sua visão cósmica.",
+      "Capture os dados: Copie quaisquer nomes que se encaixem na persona do seu alienígena.",
+      "Transmita e crie: Use seu novo nome alienígena para povoar seus mundos de ficção científica, jogos ou contos imaginativos!"
+    ],
+    "ru": [
+      "Установите контакт: Нажмите кнопку «Сгенерировать», чтобы начать свою межзвездную миссию по именованию.",
+      "Наблюдайте за результатами: Перед вашими глазами материализуется множество инопланетных имен.",
+      "Сканируйте избранное: Прокрутите сгенерированные имена и определите те, которые соответствуют вашему космическому видению.",
+      "Захватите данные: Скопируйте любые имена, которые подходят для вашего инопланетного персонажа.",
+      "Передайте и создайте: Используйте свое новое инопланетное имя, чтобы заселить свои научно-фантастические миры, игры или творческие истории!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Alien Name Generator free to use?",
+        "ar": "هل مولد أسماء الكائنات الفضائية هذا مجاني للاستخدام؟",
+        "es": "¿Es este Generador de Nombres Alienígenas de uso gratuito?",
+        "fr": "Ce Générateur de Noms d'Aliens est-il gratuit ?",
+        "zh-cn": "这个外星人名称生成器免费使用吗？",
+        "ja": "このエイリアンネームジェネレーターは無料で使えますか？",
+        "pt": "Este Gerador de Nomes Alienígenas é gratuito?",
+        "ru": "Этот Генератор Имен Инопланетян бесплатен?"
+      },
+      "answer": {
+        "en": "Affirmative, Earthling! Our generator is 100% free for all your interstellar naming needs. No credits, no payment, just pure, unadulterated cosmic creativity!",
+        "ar": "نعم، أيها الأرضي! مولدنا مجاني 100% لجميع احتياجات التسمية بين النجوم. لا توجد أرصدة، لا دفع، فقط إبداع كوني نقي وغير مغشوش!",
+        "es": "¡Afirmativo, terrícola! Nuestro generador es 100% gratuito para todas tus necesidades de nombres interestelares. ¡Sin créditos, sin pagos, solo pura y no adulterada creatividad cósmica!",
+        "fr": "Affirmatif, Terrien ! Notre générateur est 100% gratuit pour tous vos besoins de noms interstellaires. Pas de crédits, pas de paiement, juste de la pure créativité cosmique inaltérée !",
+        "zh-cn": "肯定，地球人！我们的生成器完全免费，满足您所有的星际命名需求。无需积分，无需付费，只有纯粹、未经稀释的宇宙创造力！",
+        "ja": "肯定、地球人！私たちのジェネレーターは、あなたのすべての星間命名のニーズに100%無料です。クレジットなし、支払いなし、ただ純粋で混じりけのない宇宙の創造性だけです！",
+        "pt": "Afirmativo, Terráqueo! O nosso gerador é 100% gratuito para todas as suas necessidades de nomes interestelares. Sem créditos, sem pagamento, apenas criatividade cósmica pura e não adulterada!",
+        "ru": "Подтверждаю, Землянин! Наш генератор на 100% бесплатен для всех ваших межзвездных потребностей в именовании. Никаких кредитов, никакой оплаты, только чистая, неподдельная космическая креативность!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use the generated alien names for my novel or game?",
+        "ar": "هل يمكنني استخدام أسماء الكائنات الفضائية التي تم إنشاؤها لقصتي أو لعبتي؟",
+        "es": "¿Puedo usar los nombres alienígenas generados para mi novela o juego?",
+        "fr": "Puis-je utiliser les noms d'aliens générés pour mon roman ou mon jeu ?",
+        "zh-cn": "我可以在我的小说或游戏中使用生成的外星人名称吗？",
+        "ja": "生成されたエイリアン名を私の小説やゲームに使えますか？",
+        "pt": "Posso usar os nomes alienígenas gerados para o meu romance ou jogo?",
+        "ru": "Могу ли я использовать сгенерированные инопланетные имена для своего романа или игры?"
+      },
+      "answer": {
+        "en": "Of course! These names are designed to spark your imagination and populate your fictional universes. While we encourage you to use them creatively, remember to check for existing intellectual property if you plan to commercialize your work.",
+        "ar": "بالتأكيد! هذه الأسماء مصممة لتحفيز خيالك وملء عوالمك الخيالية. بينما نشجعك على استخدامها بشكل إبداعي، تذكر التحقق من الملكية الفكرية الموجودة إذا كنت تخطط لتسويق عملك.",
+        "es": "¡Por supuesto! Estos nombres están diseñados para encender tu imaginación y poblar tus universos ficticios. Aunque te animamos a usarlos de forma creativa, recuerda verificar la propiedad intelectual existente si planeas comercializar tu trabajo.",
+        "fr": "Bien sûr ! Ces noms sont conçus pour stimuler votre imagination et peupler vos univers fictifs. Bien que nous vous encourageons à les utiliser de manière créative, n'oubliez pas de vérifier l'existence de propriétés intellectuelles si vous prévoyez de commercialiser votre œuvre.",
+        "zh-cn": "当然！这些名字旨在激发您的想象力，丰富您的虚构宇宙。虽然我们鼓励您创造性地使用它们，但如果您打算将您的作品商业化，请记住检查现有的知识产权。",
+        "ja": "もちろん！これらの名前は、あなたの想像力を刺激し、架空の宇宙を豊かにするために設計されています。創造的に使用することを奨励しますが、作品を商業化する予定がある場合は、既存の知的財産権を確認することを忘れないでください。",
+        "pt": "Claro! Estes nomes são projetados para estimular a sua imaginação e povoar os seus universos fictícios. Embora o incentivemos a usá-los de forma criativa, lembre-se de verificar a propriedade intelectual existente se planeia comercializar o seu trabalho.",
+        "ru": "Конечно! Эти имена созданы для того, чтобы разжечь ваше воображение и заселить ваши вымышленные вселенные. Хотя мы призываем вас использовать их творчески, не забудьте проверить наличие существующей интеллектуальной собственности, если вы планируете коммерциализировать свою работу."
+      }
+    },
+    {
+      "question": {
+        "en": "How many alien names can I generate at once?",
+        "ar": "كم عدد أسماء الكائنات الفضائية التي يمكنني إنشاؤها مرة واحدة؟",
+        "es": "¿Cuántos nombres alienígenas puedo generar a la vez?",
+        "fr": "Combien de noms d'aliens puis-je générer en une seule fois ?",
+        "zh-cn": "我一次可以生成多少个外星人名称？",
+        "ja": "一度にいくつのエイリアン名を生成できますか？",
+        "pt": "Quantos nomes alienígenas posso gerar de uma vez?",
+        "ru": "Сколько инопланетных имен я могу сгенерировать за один раз?"
+      },
+      "answer": {
+        "en": "Our generator typically provides several unique names with each click, offering a diverse selection for your consideration. Keep generating until your starship's manifest is full!",
+        "ar": "يقدم مولدنا عادةً العديد من الأسماء الفريدة مع كل نقرة، مما يوفر مجموعة متنوعة لاختيارك. استمر في الإنشاء حتى يمتلئ سجل سفينتك الفضائية!",
+        "es": "Nuestro generador generalmente proporciona varios nombres únicos con cada clic, ofreciendo una selección diversa para su consideración. ¡Sigue generando hasta que el manifiesto de tu nave estelar esté lleno!",
+        "fr": "Notre générateur fournit généralement plusieurs noms uniques à chaque clic, offrant une sélection variée pour votre considération. Continuez à générer jusqu'à ce que le manifeste de votre vaisseau spatial soit plein !",
+        "zh-cn": "我们的生成器通常每次点击都会提供几个独特的名称，为您提供多样化的选择。继续生成，直到您的星际飞船舱单满载！",
+        "ja": "当社のジェネレーターは通常、クリックするたびに複数のユニークな名前を提供し、検討のための多様な選択肢を提供します。宇宙船の乗船者名簿がいっぱいになるまで生成し続けてください！",
+        "pt": "O nosso gerador normalmente fornece vários nomes únicos a cada clique, oferecendo uma seleção diversificada para sua consideração. Continue a gerar até que o manifesto da sua nave estelar esteja cheio!",
+        "ru": "Наш генератор обычно предоставляет несколько уникальных имен при каждом нажатии, предлагая разнообразный выбор для вашего рассмотрения. Продолжайте генерировать, пока манифест вашего звездолета не будет полон!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names truly random, or do they follow a pattern?",
+        "ar": "هل الأسماء التي تم إنشاؤها عشوائية حقًا، أم أنها تتبع نمطًا معينًا؟",
+        "es": "¿Los nombres generados son realmente aleatorios o siguen un patrón?",
+        "fr": "Les noms générés sont-ils vraiment aléatoires, ou suivent-ils un modèle ?",
+        "zh-cn": "生成的名称是完全随机的，还是遵循某种模式？",
+        "ja": "生成された名前は本当にランダムですか、それともパターンに従っていますか？",
+        "pt": "Os nomes gerados são realmente aleatórios, ou seguem um padrão?",
+        "ru": "Действительно ли сгенерированные имена случайны или они следуют определенному шаблону?"
+      },
+      "answer": {
+        "en": "Our advanced algorithms are programmed to create names with a blend of randomness and phonetic structures that evoke an alien feel. This ensures variety while maintaining a sense of otherworldliness. Expect names that sound plausible for various alien species!",
+        "ar": "تمت برمجة خوارزمياتنا المتقدمة لإنشاء أسماء بمزيج من العشوائية والهياكل الصوتية التي تثير شعورًا فضائيًا. وهذا يضمن التنوع مع الحفاظ على إحساس بالغرابة. توقع أسماء تبدو معقولة لمختلف أنواع الكائنات الفضائية!",
+        "es": "Nuestros avanzados algoritmos están programados para crear nombres con una mezcla de aleatoriedad y estructuras fonéticas que evocan una sensación alienígena. Esto asegura variedad mientras se mantiene una sensación de otro mundo. ¡Espera nombres que suenen plausibles para varias especies alienígenas!",
+        "fr": "Nos algorithmes avancés sont programmés pour créer des noms avec un mélange d'aléatoire et de structures phonétiques qui évoquent une sensation extraterrestre. Cela garantit la variété tout en conservant un sentiment d'altérité. Attendez-vous à des noms qui sonnent plausibles pour diverses espèces extraterrestres !",
+        "zh-cn": "我们先进的算法被编程为生成既具有随机性又具有语音结构的名字，以唤起外星人的感觉。这确保了多样性，同时保持了超凡脱俗的感觉。期待听起来对各种外星物种都合理的名字！",
+        "ja": "当社の高度なアルゴリズムは、ランダム性とエイリアンの感覚を呼び起こす音韻構造を組み合わせて名前を作成するようにプログラムされています。これにより、異世界感を保ちつつ多様性が確保されます。さまざまなエイリアン種にとって説得力のある名前が期待できます！",
+        "pt": "Os nossos algoritmos avançados são programados para criar nomes com uma mistura de aleatoriedade e estruturas fonéticas que evocam uma sensação alienígena. Isso garante variedade, mantendo um senso de outro mundo. Espere nomes que soem plausíveis para várias espécies alienígenas!",
+        "ru": "Наши передовые алгоритмы запрограммированы на создание имен с сочетанием случайности и фонетических структур, которые вызывают ощущение инопланетности. Это обеспечивает разнообразие, сохраняя при этом ощущение потусторонности. Ожидайте имен, которые звучат правдоподобно для различных инопланетных видов!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest new linguistic influences or themes for the generator?",
+        "ar": "هل يمكنني اقتراح تأثيرات لغوية أو مواضيع جديدة للمولد؟",
+        "es": "¿Puedo sugerir nuevas influencias lingüísticas o temas para el generador?",
+        "fr": "Puis-je suggérer de nouvelles influences linguistiques ou thèmes pour le générateur ?",
+        "zh-cn": "我可以为生成器建议新的语言影响或主题吗？",
+        "ja": "ジェネレーターに新しい言語的影響やテーマを提案できますか？",
+        "pt": "Posso sugerir novas influências linguísticas ou temas para o gerador?",
+        "ru": "Могу ли я предложить новые лингвистические влияния или темы для генератора?"
+      },
+      "answer": {
+        "en": "Your input is highly valued! We are always looking to expand our cosmic database. Feel free to send your suggestions through our feedback channel. Your ideas could help shape the next generation of alien nomenclature!",
+        "ar": "مدخلاتك ذات قيمة عالية! نحن نتطلع دائمًا لتوسيع قاعدة بياناتنا الكونية. لا تتردد في إرسال اقتراحاتك عبر قناة الملاحظات الخاصة بنا. قد تساعد أفكارك في تشكيل الجيل القادم من التسميات الفضائية!",
+        "es": "¡Su opinión es muy valorada! Siempre estamos buscando expandir nuestra base de datos cósmica. No dude en enviar sus sugerencias a través de nuestro canal de comentarios. ¡Sus ideas podrían ayudar a dar forma a la próxima generación de nomenclatura alienígena!",
+        "fr": "Votre avis est très apprécié ! Nous cherchons toujours à étendre notre base de données cosmique. N'hésitez pas à nous faire part de vos suggestions via notre canal de commentaires. Vos idées pourraient aider à façonner la prochaine génération de nomenclature extraterrestre !",
+        "zh-cn": "您的意见非常宝贵！我们一直在寻求扩展我们的宇宙数据库。请随时通过我们的反馈渠道发送您的建议。您的想法可能有助于塑造下一代外星人命名法！",
+        "ja": "あなたの意見は大歓迎です！私たちは常に宇宙データベースの拡張を目指しています。フィードバックチャネルを通じてご提案をお寄せください。あなたのアイデアが、次世代のエイリアン命名法を形作るのに役立つかもしれません！",
+        "pt": "A sua contribuição é altamente valorizada! Estamos sempre à procura de expandir a nossa base de dados cósmica. Sinta-se à vontade para enviar as suas sugestões através do nosso canal de feedback. As suas ideias podem ajudar a moldar a próxima geração de nomenclatura alienígena!",
+        "ru": "Ваш вклад высоко ценится! Мы всегда стремимся расширять нашу космическую базу данных. Не стесняйтесь отправлять свои предложения через наш канал обратной связи. Ваши идеи могут помочь сформировать следующее поколение инопланетной номенклатуры!"
+      }
+    }
+  ]
+}

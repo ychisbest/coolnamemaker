@@ -1,0 +1,184 @@
+{
+  "name": {
+    "en": "Fae Name Generator",
+    "ar": "مولد أسماء الجنيات",
+    "es": "Generador de Nombres de Hadas",
+    "fr": "Générateur de Noms de Fées",
+    "zh-cn": "仙子名称生成器",
+    "ja": "妖精の名前ジェネレーター",
+    "pt": "Gerador de Nomes de Fadas",
+    "ru": "Генератор Имен Фей"
+  },
+  "description": {
+    "en": "Step into the enchanted realm and discover a name as magical and unique as the fae folk themselves! Our Fae Name Generator conjures up whimsical, mystical, and sometimes mischievous names perfect for your next fantasy character, story, or role-playing game. Unleash the magic and find your true fae identity!",
+    "ar": "ادخل إلى العالم المسحور واكتشف اسمًا سحريًا وفريدًا مثل أهل الجنيات أنفسهم! يولد مولد أسماء الجنيات لدينا أسماء غريبة، صوفية، وأحيانًا مؤذية، مثالية لشخصيتك الخيالية التالية، قصتك، أو لعبة الأدوار. أطلق العنان للسحر وابحث عن هويتك الجنية الحقيقية!",
+    "es": "¡Adéntrate en el reino encantado y descubre un nombre tan mágico y único como las propias criaturas feéricas! Nuestro Generador de Nombres de Hadas evoca nombres caprichosos, místicos y a veces traviesos, perfectos para tu próximo personaje de fantasía, historia o juego de rol. ¡Libera la magia y encuentra tu verdadera identidad feérica!",
+    "fr": "Entrez dans le royaume enchanté et découvrez un nom aussi magique et unique que le peuple féerique lui-même ! Notre Générateur de Noms de Fées évoque des noms fantaisistes, mystiques et parfois malicieux, parfaits pour votre prochain personnage fantastique, votre histoire ou votre jeu de rôle. Libérez la magie et trouvez votre véritable identité féerique !",
+    "zh-cn": "踏入这片魔法领域，为你的仙子角色寻找一个如它们自身般神秘独特的名称！我们的仙子名称生成器能为你创造出奇幻、神秘，有时甚至带点顽皮的名字，完美适用于你的下一个奇幻角色、故事或角色扮演游戏。释放魔法，找到你真正的仙子身份！",
+    "ja": "魅惑的な世界に足を踏み入れ、妖精たち自身のように魔法的でユニークな名前を見つけましょう！私たちの妖精の名前ジェネレーターは、あなたの次のファンタジーキャラクター、物語、ロールプレイングゲームにぴったりの、気まぐれで神秘的で、時にはいたずら好きな名前を呼び起こします。魔法を解き放ち、あなたの真の妖精のアイデンティティを見つけてください！",
+    "pt": "Entre no reino encantado e descubra um nome tão mágico e único quanto o próprio povo fae! Nosso Gerador de Nomes de Fadas evoca nomes caprichosos, místicos e às vezes travessos, perfeitos para seu próximo personagem de fantasia, história ou jogo de RPG. Liberte a magia e encontre sua verdadeira identidade fae!",
+    "ru": "Окунитесь в зачарованное царство и откройте для себя имя, столь же волшебное и уникальное, как и сами феи! Наш Генератор Имен Фей вызывает причудливые, мистические, а иногда и озорные имена, идеально подходящие для вашего следующего фэнтезийного персонажа, истории или ролевой игры. Выпустите магию и найдите свою истинную фею!"
+  },
+  "slug": "fae-name-generator",
+  "prompt": {
+    "en": "Generate a fae name",
+    "ar": "توليد اسم جنية",
+    "es": "Generar un nombre de hada",
+    "fr": "Générer un nom de fée",
+    "zh-cn": "生成一个仙子名称",
+    "ja": "妖精の名前を生成する",
+    "pt": "Gerar um nome de fada",
+    "ru": "Сгенерировать имя феи"
+  },
+  "icon": "✨",
+  "introduction": {
+    "en": "From the shimmering glades of the Summer Court to the shadowy depths of the Unseelie, fae names are as diverse and enchanting as the creatures they belong to. Whether you're seeking a name for a mischievous pixie, a noble elf, a wise dryad, or a formidable dark fae, our generator is your gateway to a world of linguistic magic. Prepare to be swept away by names that whisper of ancient forests, starlit dances, and forgotten spells. Let your imagination take flight and find the perfect appellation for your ethereal being!",
+    "ar": "من المروج المتلألئة في بلاط الصيف إلى الأعماق المظلمة لـ Unseelie، أسماء الجنيات متنوعة وساحرة مثل المخلوقات التي تنتمي إليها. سواء كنت تبحث عن اسم لبيكسي مؤذية، قزم نبيل، حورية غابة حكيمة، أو جنية مظلمة قوية، فإن مولدنا هو بوابتك إلى عالم من السحر اللغوي. استعد لتنجرف بأسماء تهمس بالغابات القديمة، الرقصات المضاءة بالنجوم، والتعاويذ المنسية. دع خيالك يحلق وابحث عن الاسم المثالي لكائنك الأثيري!",
+    "es": "Desde los brillantes claros de la Corte de Verano hasta las sombrías profundidades de la Unseelie, los nombres feéricos son tan diversos y encantadores como las criaturas a las que pertenecen. Ya sea que busques un nombre para un duendecillo travieso, un elfo noble, una dríada sabia o un formidable hada oscura, nuestro generador es tu puerta de entrada a un mundo de magia lingüística. Prepárate para ser arrastrado por nombres que susurran sobre bosques antiguos, bailes bajo las estrellas y hechizos olvidados. ¡Deja volar tu imaginación y encuentra la apelación perfecta para tu ser etéreo!",
+    "fr": "Des clairières scintillantes de la Cour d'Été aux profondeurs obscures de l'Unseelie, les noms féeriques sont aussi divers et enchanteurs que les créatures auxquelles ils appartiennent. Que vous cherchiez un nom pour un lutin malicieux, un elfe noble, une dryade sage ou une redoutable fée noire, notre générateur est votre porte d'entrée vers un monde de magie linguistique. Préparez-vous à être emporté par des noms qui murmurent des forêts anciennes, des danses étoilées et des sorts oubliés. Laissez libre cours à votre imagination et trouvez l'appellation parfaite pour votre être éthéré !",
+    "zh-cn": "从夏日宫廷闪耀的林间空地，到幽暗的无光之境深处，仙子的名字如同它们所属的生物一样多样而迷人。无论你是为顽皮的精灵、高贵的精灵、睿智的树精，还是强大的黑暗仙子寻找名字，我们的生成器都是你通往语言魔法世界的门户。准备好被那些低语着古老森林、星光舞会和被遗忘咒语的名字所吸引吧。让你的想象力自由飞翔，为你的空灵之躯找到最完美的称谓！",
+    "ja": "夏の宮廷のきらめく森の空き地から、アンシーリーの影の奥深くまで、妖精の名前は、それらが属する生き物と同じくらい多様で魅力的です。いたずら好きなピクシー、高貴なエルフ、賢いドライアド、あるいは手ごわい闇の妖精の名前を探している場合でも、私たちのジェネレーターは言語の魔法の世界への入り口です。古代の森、星空のダンス、忘れられた呪文をささやく名前に魅了される準備をしてください。想像力を羽ばたかせ、あなたのエーテル的な存在にぴったりの名前を見つけてください！",
+    "pt": "Desde as clareiras cintilantes da Corte de Verão até as profundezas sombrias da Unseelie, os nomes fae são tão diversos e encantadores quanto as criaturas a que pertencem. Seja você buscando um nome para um duende travesso, um elfo nobre, uma dríade sábia ou uma formidável fada sombria, nosso gerador é sua porta de entrada para um mundo de magia linguística. Prepare-se para ser levado por nomes que sussurram sobre florestas antigas, danças sob as estrelas e feitiços esquecidos. Deixe sua imaginação voar e encontre a denominação perfeita para seu ser etéreo!",
+    "ru": "От сверкающих полян Летнего Двора до темных глубин Неблагословенных, имена фей так же разнообразны и очаровательны, как и существа, которым они принадлежат. Ищете ли вы имя для озорного пикси, благородного эльфа, мудрой дриады или грозной темной феи, наш генератор — это ваш путь в мир лингвистической магии. Приготовьтесь быть унесенными именами, шепчущими о древних лесах, танцах под звездами и забытых заклинаниях. Дайте волю своему воображению и найдите идеальное имя для своего эфирного существа!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button to summon a new fae name.",
+      "Browse through the mystical monikers that appear.",
+      "Found one that resonates with your inner fae? Click to copy it!",
+      "Use your newfound fae name to bring your fantasy characters to life, or just for fun!"
+    ],
+    "ar": [
+      "انقر على زر 'توليد' لاستدعاء اسم جنية جديد.",
+      "تصفح الأسماء الغامضة التي تظهر.",
+      "هل وجدت اسمًا يتردد صداه مع جنية داخلك؟ انقر لنسخه!",
+      "استخدم اسم الجنية الجديد لإحياء شخصياتك الخيالية، أو للمتعة فقط!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' para invocar un nuevo nombre de hada.",
+      "Explora los nombres místicos que aparecen.",
+      "¿Encontraste uno que resuene con tu hada interior? ¡Haz clic para copiarlo!",
+      "¡Usa tu nuevo nombre de hada para dar vida a tus personajes de fantasía, o simplemente por diversión!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' pour invoquer un nouveau nom de fée.",
+      "Parcourez les noms mystiques qui apparaissent.",
+      "Vous en avez trouvé un qui résonne avec votre fée intérieure ? Cliquez pour le copier !",
+      "Utilisez votre nouveau nom de fée pour donner vie à vos personnages fantastiques, ou simplement pour le plaisir !"
+    ],
+    "zh-cn": [
+      "点击\"生成\"按钮，召唤一个新的仙子名称。",
+      "浏览出现的神秘名称。",
+      "找到一个与你内心仙子产生共鸣的名字了吗？点击它即可复制！",
+      "使用你新获得的仙子名称，让你的奇幻角色栩栩如生，或者仅仅是为了好玩！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、新しい妖精の名前を召喚します。",
+      "表示される神秘的な名前を閲覧します。",
+      "あなたの内なる妖精と響き合う名前を見つけましたか？クリックしてコピーしてください！",
+      "見つけた妖精の名前を使って、ファンタジーキャラクターに命を吹き込んだり、ただ楽しんだりしてください！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' para invocar um novo nome fae.",
+      "Navegue pelos nomes místicos que aparecerem.",
+      "Encontrou um que ressoa com sua fae interior? Clique para copiá-lo!",
+      "Use seu novo nome fae para dar vida aos seus personagens de fantasia, ou apenas por diversão!"
+    ],
+    "ru": [
+      "Нажмите кнопку «Сгенерировать», чтобы вызвать новое имя феи.",
+      "Просмотрите появившиеся мистические имена.",
+      "Нашли то, что резонирует с вашей внутренней феей? Нажмите, чтобы скопировать!",
+      "Используйте свое новое имя феи, чтобы оживить своих фэнтезийных персонажей, или просто для развлечения!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Fae Name Generator truly free?",
+        "ar": "هل مولد أسماء الجنيات هذا مجاني حقًا؟",
+        "es": "¿Este Generador de Nombres de Hadas es realmente gratis?",
+        "fr": "Ce Générateur de Noms de Fées est-il vraiment gratuit?",
+        "zh-cn": "这个仙子名称生成器真的是免费的吗？",
+        "ja": "この妖精の名前ジェネレーターは本当に無料ですか？",
+        "pt": "Este Gerador de Nomes de Fadas é realmente gratuito?",
+        "ru": "Этот Генератор Имен Фей действительно бесплатный?"
+      },
+      "answer": {
+        "en": "Yes, it is! We believe the magic of fae names should be accessible to all. Generate as many as you like, completely free of charge!",
+        "ar": "نعم، هو كذلك! نحن نؤمن بأن سحر أسماء الجنيات يجب أن يكون متاحًا للجميع. قم بتوليد العدد الذي تريده، مجانًا بالكامل!",
+        "es": "¡Sí, lo es! Creemos que la magia de los nombres feéricos debe ser accesible para todos. ¡Genera tantos como quieras, completamente gratis!",
+        "fr": "Oui, absolument ! Nous pensons que la magie des noms féeriques devrait être accessible à tous. Générez autant que vous le souhaitez, entièrement gratuitement !",
+        "zh-cn": "是的，它是！我们相信仙子名字的魔力应该对所有人开放。你可以免费生成任意数量的名字！",
+        "ja": "はい、そうです！妖精の名前の魔法は誰もが利用できるべきだと私たちは信じています。完全に無料で、好きなだけ生成してください！",
+        "pt": "Sim, é! Acreditamos que a magia dos nomes fae deve ser acessível a todos. Gere quantos quiser, completamente grátis!",
+        "ru": "Да, это так! Мы считаем, что магия имен фей должна быть доступна всем. Генерируйте сколько угодно, совершенно бесплатно!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my books, games, or other creative works?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لكُتبي، ألعابي، أو أعمالي الإبداعية الأخرى؟",
+        "es": "¿Puedo usar estos nombres para mis libros, juegos u otras obras creativas?",
+        "fr": "Puis-je utiliser ces noms pour mes livres, jeux ou autres œuvres créatives?",
+        "zh-cn": "我可以在我的书籍、游戏或其他创意作品中使用这些名字吗？",
+        "ja": "これらの名前を私の本、ゲーム、または他の創造的な作品に使用できますか？",
+        "pt": "Posso usar esses nomes para meus livros, jogos ou outras obras criativas?",
+        "ru": "Могу ли я использовать эти имена для своих книг, игр или других творческих работ?"
+      },
+      "answer": {
+        "en": "Absolutely! These names are generated for your creative inspiration. Feel free to incorporate them into your fantasy novels, role-playing games, or any other project where a touch of fae magic is needed. No attribution is required, but a shout-out is always appreciated!",
+        "ar": "بالتأكيد! تم توليد هذه الأسماء لإلهامك الإبداعي. لا تتردد في دمجها في رواياتك الخيالية، ألعاب الأدوار، أو أي مشروع آخر يحتاج إلى لمسة من سحر الجنيات. لا يلزم الإسناد، ولكن التقدير دائمًا مرحب به!",
+        "es": "¡Absolutamente! Estos nombres se generan para tu inspiración creativa. Siéntete libre de incorporarlos en tus novelas de fantasía, juegos de rol o cualquier otro proyecto donde se necesite un toque de magia feérica. No se requiere atribución, ¡pero un reconocimiento siempre es bienvenido!",
+        "fr": "Absolument ! Ces noms sont générés pour votre inspiration créative. N'hésitez pas à les incorporer dans vos romans fantastiques, jeux de rôle ou tout autre projet où une touche de magie féerique est nécessaire. Aucune attribution n'est requise, mais un petit clin d'œil est toujours apprécié !",
+        "zh-cn": "当然可以！这些名字是为了激发你的创作灵感而生成的。欢迎你将它们融入你的奇幻小说、角色扮演游戏或任何需要仙子魔法的项目中。无需注明出处，但如果能提及我们，我们不胜感激！",
+        "ja": "もちろんです！これらの名前はあなたの創造的なインスピレーションのために生成されます。ファンタジー小説、ロールプレイングゲーム、または妖精の魔法が必要なその他のプロジェクトに自由に組み込んでください。帰属表示は不要ですが、言及していただけると常に感謝いたします！",
+        "pt": "Absolutamente! Esses nomes são gerados para sua inspiração criativa. Sinta-se à vontade para incorporá-los em seus romances de fantasia, jogos de RPG ou qualquer outro projeto onde um toque de magia fae seja necessário. Nenhuma atribuição é necessária, mas um reconhecimento é sempre apreciado!",
+        "ru": "Конечно! Эти имена созданы для вашего творческого вдохновения. Не стесняйтесь включать их в свои фэнтезийные романы, ролевые игры или любой другой проект, где требуется прикосновение магии фей. Указание авторства не требуется, но упоминание всегда приветствуется!"
+      }
+    },
+    {
+      "question": {
+        "en": "How many fae names can I generate?",
+        "ar": "كم عدد أسماء الجنيات التي يمكنني توليدها؟",
+        "es": "¿Cuántos nombres de hadas puedo generar?",
+        "fr": "Combien de noms de fées puis-je générer?",
+        "zh-cn": "我可以生成多少个仙子名称？",
+        "ja": "いくつの妖精の名前を生成できますか？",
+        "pt": "Quantos nomes de fadas posso gerar?",
+        "ru": "Сколько имен фей я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "There's no limit to the magic! Keep clicking the 'Generate' button until you find the perfect name that captures the essence of your fae character. The possibilities are endless!",
+        "ar": "لا يوجد حد للسحر! استمر في النقر على زر 'توليد' حتى تجد الاسم المثالي الذي يجسد جوهر شخصيتك الجنية. الاحتمالات لا حصر لها!",
+        "es": "¡No hay límite para la magia! Sigue haciendo clic en el botón 'Generar' hasta que encuentres el nombre perfecto que capture la esencia de tu personaje feérico. ¡Las posibilidades son infinitas!",
+        "fr": "Il n'y a pas de limite à la magie ! Continuez à cliquer sur le bouton 'Générer' jusqu'à ce que vous trouviez le nom parfait qui capture l'essence de votre personnage féerique. Les possibilités sont infinies !",
+        "zh-cn": "魔法没有限制！持续点击“生成”按钮，直到找到一个能捕捉到你仙子角色精髓的完美名字。可能性是无限的！",
+        "ja": "魔法に限界はありません！妖精のキャラクターの本質を捉えた完璧な名前が見つかるまで、「生成」ボタンをクリックし続けてください。可能性は無限大です！",
+        "pt": "Não há limite para a magia! Continue clicando no botão 'Gerar' até encontrar o nome perfeito que capture a essência do seu personagem fae. As possibilidades são infinitas!",
+        "ru": "Магии нет предела! Продолжайте нажимать кнопку «Сгенерировать», пока не найдете идеальное имя, которое передает суть вашего персонажа-феи. Возможности безграничны!"
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names suitable for all types of fae?",
+        "ar": "هل الأسماء المولدة مناسبة لجميع أنواع الجنيات؟",
+        "es": "¿Los nombres generados son adecuados para todo tipo de hadas?",
+        "fr": "Les noms générés conviennent-ils à tous les types de fées?",
+        "zh-cn": "生成的名称适合所有类型的仙子吗？",
+        "ja": "生成された名前はすべての種類の妖精に適していますか？",
+        "pt": "Os nomes gerados são adequados para todos os tipos de fae?",
+        "ru": "Подходят ли сгенерированные имена для всех типов фей?"
+      },
+      "answer": {
+        "en": "Our generator aims for a wide variety, from delicate and ethereal to strong and ancient. While some names might lean towards specific fae types, you'll find a diverse range that can be adapted to pixies, elves, sprites, goblins, and more. Let your imagination be your guide!",
+        "ar": "يهدف مولدنا إلى توفير تشكيلة واسعة، من الرقيق والأثيري إلى القوي والقديم. بينما قد تميل بعض الأسماء نحو أنواع معينة من الجنيات، ستجد مجموعة متنوعة يمكن تكييفها مع بيكسيز، الأقزام، العفاريت، الغيلان، والمزيد. دع خيالك يكون دليلك!",
+        "es": "Nuestro generador busca una amplia variedad, desde delicados y etéreos hasta fuertes y antiguos. Si bien algunos nombres pueden inclinarse hacia tipos específicos de hadas, encontrarás una gama diversa que se puede adaptar a duendes, elfos, sílfides, goblins y más. ¡Deja que tu imaginación sea tu guía!",
+        "fr": "Notre générateur vise une grande variété, du délicat et éthéré au fort et ancien. Bien que certains noms puissent pencher vers des types de fées spécifiques, vous trouverez une gamme diversifiée qui peut être adaptée aux lutins, elfes, esprits, gobelins, et plus encore. Laissez votre imagination être votre guide !",
+        "zh-cn": "我们的生成器旨在提供广泛的选择，从精致空灵到强大古老。虽然有些名字可能更倾向于特定的仙子类型，但你会发现各种各样的名字，可以适用于小精灵、精灵、小仙子、地精等等。让你的想象力引导你吧！",
+        "ja": "私たちのジェネレーターは、繊細で優美なものから、力強く古代のものまで、幅広い種類を目指しています。特定の妖精の種類に傾く名前もありますが、ピクシー、エルフ、スプライト、ゴブリンなど、さまざまな妖精に適応できる多様な範囲が見つかるでしょう。あなたの想像力をガイドにしてください！",
+        "pt": "Nosso gerador visa uma ampla variedade, do delicado e etéreo ao forte e antigo. Embora alguns nomes possam tender a tipos específicos de fae, você encontrará uma gama diversificada que pode ser adaptada a duendes, elfos, sprites, goblins e muito mais. Deixe sua imaginação ser seu guia!",
+        "ru": "Наш генератор стремится к широкому разнообразию, от нежных и эфирных до сильных и древних. Хотя некоторые имена могут склоняться к определенным типам фей, вы найдете разнообразный диапазон, который можно адаптировать к пикси, эльфам, спрайтам, гоблинам и многим другим. Пусть ваше воображение будет вашим проводником!"
+      }
+    }
+  ]
+}

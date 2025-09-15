@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Vampire Name Generator",
+    "ar": "مولد أسماء مصاصي الدماء",
+    "es": "Generador de Nombres de Vampiros",
+    "fr": "Générateur de Noms de Vampires",
+    "zh-cn": "吸血鬼名字生成器",
+    "ja": "ヴァンパイア名ジェネレーター",
+    "pt": "Gerador de Nomes de Vampiros",
+    "ru": "Генератор Имен Вампиров"
+  },
+  "description": {
+    "en": "Unleash your inner creature of the night with our Vampire Name Generator! Whether you're writing a dark fantasy novel, creating a character for your next RPG, or just want a chillingly cool alias, our generator will provide you with a name worthy of the immortal elite. From ancient and aristocratic to modern and mysterious, find the perfect moniker that drips with nocturnal charm and eternal power.",
+    "ar": "أطلق العنان لمخلوق الليل بداخلك مع مولد أسماء مصاصي الدماء الخاص بنا! سواء كنت تكتب رواية فانتازيا مظلمة، أو تنشئ شخصية للعبة تقمص الأدوار القادمة، أو تريد مجرد اسم مستعار مخيف، سيمنحك مولدنا اسمًا يليق بالنخبة الخالدة. من الأسماء القديمة والأرستقراطية إلى الحديثة والغامضة، اعثر على اللقب المثالي الذي يقطر سحرًا ليليًا وقوة أبدية.",
+    "es": "¡Libera tu criatura de la noche interior con nuestro Generador de Nombres de Vampiros! Ya sea que estés escribiendo una novela de fantasía oscura, creando un personaje para tu próximo juego de rol, o simplemente quieras un alias escalofriantemente genial, nuestro generador te proporcionará un nombre digno de la élite inmortal. Desde lo antiguo y aristocrático hasta lo moderno y misterioso, encuentra el apodo perfecto que gotea encanto nocturno y poder eterno.",
+    "fr": "Libérez votre créature de la nuit intérieure avec notre Générateur de Noms de Vampires ! Que vous écriviez un roman de dark fantasy, créiez un personnage pour votre prochain jeu de rôle, ou que vous vouliez simplement un alias effrayant et cool, notre générateur vous fournira un nom digne de l'élite immortelle. De l'ancien et aristocratique au moderne et mystérieux, trouvez le surnom parfait qui déborde de charme nocturne et de pouvoir éternel.",
+    "zh-cn": "使用我们的吸血鬼名字生成器，释放你内心的暗夜生物！无论你是想写一部黑暗奇幻小说，为你的下一个角色扮演游戏创造一个角色，还是只是想要一个令人毛骨悚然的酷炫别名，我们的生成器都会为你提供一个配得上不朽精英的名字。从古老而贵族化到现代而神秘，找到那个充满暗夜魅力和永恒力量的完美称号。",
+    "ja": "ヴァンパイア名ジェネレーターで、あなたの内なる夜の生物を解き放ちましょう！ダークファンタジー小説を書いている、次のRPGのキャラクターを作成している、あるいは単にゾクゾクするほどクールな別名が欲しい場合でも、私たちのジェネレーターは不死の精鋭にふさわしい名前を提供します。古風で貴族的なものから、現代的で神秘的なものまで、夜の魅力と永遠の力にあふれた完璧な呼び名を見つけてください。",
+    "pt": "Liberte sua criatura da noite interior com nosso Gerador de Nomes de Vampiros! Seja para escrever um romance de fantasia sombria, criar um personagem para seu próximo RPG, ou apenas querer um apelido assustadoramente legal, nosso gerador fornecerá um nome digno da elite imortal. Do antigo e aristocrático ao moderno e misterioso, encontre o apelido perfeito que escorre charme noturno e poder eterno.",
+    "ru": "Раскройте своего внутреннего создания ночи с нашим Генератором Имен Вампиров! Пишете ли вы темный фэнтезийный роман, создаете персонажа для своей следующей RPG или просто хотите жутко крутой псевдоним, наш генератор предоставит вам имя, достойное бессмертной элиты. От древних и аристократических до современных и таинственных, найдите идеальное прозвище, источающее ночное очарование и вечную силу."
+  },
+  "slug": "vampire-name-generator",
+  "prompt": {
+    "en": "Generate a vampire name",
+    "ar": "قم بإنشاء اسم مصاص دماء",
+    "es": "Generar un nombre de vampiro",
+    "fr": "Générer un nom de vampire",
+    "zh-cn": "生成一个吸血鬼名字",
+    "ja": "ヴァンパイア名を生成する",
+    "pt": "Gerar um nome de vampiro",
+    "ru": "Сгенерировать имя вампира"
+  },
+  "icon": "🧛",
+  "introduction": {
+    "en": "Step into the shadows and claim your rightful place among the immortal! Our Vampire Name Generator is your gateway to a world of gothic romance, ancient curses, and eternal night. Forget mundane human names; it's time to embrace a moniker that whispers of centuries-old secrets and blood-soaked legacies. Whether you envision a sophisticated count from Transylvania, a rebellious bloodsucker from the modern underworld, or a tragic figure cursed to walk the earth forever, we have the perfect name to match your vampiric persona. Prepare to be enchanted by the dark elegance and formidable power that these names evoke.",
+    "ar": "ادخل إلى الظلال واطلب مكانك الصحيح بين الخالدين! مولد أسماء مصاصي الدماء الخاص بنا هو بوابتك إلى عالم من الرومانسية القوطية، اللعنات القديمة، والليل الأبدي. انسَ الأسماء البشرية العادية؛ حان الوقت لاحتضان اسم يهمس بأسرار عمرها قرون وتراث ملطخ بالدماء. سواء كنت تتخيل كونتًا راقيًا من ترانسيلفانيا، أو مصاص دماء متمردًا من العالم السفلي الحديث، أو شخصية مأساوية ملعونة بالمشي على الأرض إلى الأبد، لدينا الاسم المثالي الذي يتناسب مع شخصيتك الشبيهة بمصاصي الدماء. استعد لتكون مسحورًا بالأناقة المظلمة والقوة الهائلة التي تثيرها هذه الأسماء.",
+    "es": "¡Adéntrate en las sombras y reclama tu lugar legítimo entre los inmortales! Nuestro Generador de Nombres de Vampiros es tu puerta de entrada a un mundo de romance gótico, maldiciones antiguas y noche eterna. Olvídate de los nombres humanos mundanos; es hora de adoptar un apodo que susurra secretos centenarios y legados empapados de sangre. Ya sea que imagines un conde sofisticado de Transilvania, un chupasangre rebelde del inframundo moderno, o una figura trágica condenada a caminar por la tierra para siempre, tenemos el nombre perfecto para tu persona vampírica. Prepárate para ser encantado por la oscura elegancia y el formidable poder que estos nombres evocan.",
+    "fr": "Entrez dans l'ombre et revendiquez votre place légitime parmi les immortels ! Notre Générateur de Noms de Vampires est votre passerelle vers un monde de romance gothique, de malédictions anciennes et de nuit éternelle. Oubliez les noms humains banals ; il est temps d'adopter un surnom qui murmure des secrets séculaires et des héritages ensanglantés. Que vous envisagiez un comte sophistiqué de Transylvanie, un suceur de sang rebelle du monde souterrain moderne, ou une figure tragique condamnée à marcher sur la terre pour toujours, nous avons le nom parfait pour correspondre à votre personnalité vampirique. Préparez-vous à être enchanté par l'élégance sombre et le pouvoir formidable qu'évoquent ces noms.",
+    "zh-cn": "踏入阴影，在不朽者中宣称你的正当之地！我们的吸血鬼名字生成器是您通往哥特式浪漫、古老诅咒和永恒夜晚世界的门户。忘记世俗的人类名字吧；是时候拥抱一个低语着百年秘密和血腥遗产的称号了。无论你设想的是一个来自特兰西瓦尼亚的 sofisticado 伯爵，一个来自现代地下世界的叛逆吸血鬼，还是一个注定永远行走于世的悲剧人物，我们都有完美的名字来匹配你的吸血鬼身份。准备好被这些名字所唤起的黑暗优雅和强大力量所迷惑吧。",
+    "ja": "影の中に足を踏み入れ、不死者たちの間で正当な場所を主張しましょう！私たちのヴァンパイア名ジェネレーターは、ゴシックロマンス、古代の呪い、そして永遠の夜の世界への入り口です。平凡な人間の名前は忘れましょう。何世紀にもわたる秘密と血塗られた遺産をささやく呼び名を受け入れる時です。トランシルヴァニアの洗練された伯爵、現代の裏社会の反抗的な吸血鬼、あるいは永遠に地球を歩く運命にある悲劇的な人物を思い描いている場合でも、あなたのヴァンパイアのペルソナにぴったりの名前が見つかります。これらの名前が呼び起こす闇の優雅さと恐るべき力に魅了される準備をしてください。",
+    "pt": "Adentre as sombras e reivindique seu lugar de direito entre os imortais! Nosso Gerador de Nomes de Vampiros é sua porta de entrada para um mundo de romance gótico, maldições antigas e noite eterna. Esqueça os nomes humanos mundanos; é hora de abraçar um apelido que sussurra segredos centenários e legados ensanguentados. Seja você um conde sofisticado da Transilvânia, um vampiro rebelde do submundo moderno, ou uma figura trágica amaldiçoada a caminhar pela terra para sempre, temos o nome perfeito para combinar com sua persona vampírica. Prepare-se para ser encantado pela elegância sombria e o poder formidável que esses nomes evocam.",
+    "ru": "Шагните в тень и займите свое законное место среди бессмертных! Наш Генератор Имен Вампиров — это ваш портал в мир готической романтики, древних проклятий и вечной ночи. Забудьте о мирских человеческих именах; пришло время принять прозвище, шепчущее о вековых тайнах и кровавых наследиях. Представляете ли вы себе утонченного графа из Трансильвании, мятежного кровососа из современного преступного мира или трагическую фигуру, проклятую вечно бродить по земле, у нас есть идеальное имя, соответствующее вашей вампирской личности. Приготовьтесь быть очарованными темной элегантностью и грозной силой, которые вызывают эти имена."
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button to summon a new vampiric identity.",
+      "Witness a collection of names, each imbued with dark allure and ancient mystique.",
+      "Scroll through the results to find the name that truly resonates with your immortal soul.",
+      "Found your eternal alias? Copy it to your clipboard!",
+      "Now, go forth and embrace your destiny as a creature of the night, with a name that commands respect and fear!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' لاستدعاء هوية مصاص دماء جديدة.",
+      "شاهد مجموعة من الأسماء، كل منها مشبع بسحر مظلم وغموض قديم.",
+      "تصفح النتائج للعثور على الاسم الذي يتردد صداه حقًا مع روحك الخالدة.",
+      "هل وجدت اسمك الخالد؟ انسخه إلى الحافظة!",
+      "الآن، انطلق واحتضن مصيرك كمخلوق من الليل، باسم يفرض الاحترام والخوف!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' para invocar una nueva identidad vampírica.",
+      "Contempla una colección de nombres, cada uno imbuido de oscuro encanto y antigua mística.",
+      "Desplázate por los resultados para encontrar el nombre que realmente resuena con tu alma inmortal.",
+      "¿Encontraste tu alias eterno? ¡Cópialo en tu portapapeles!",
+      "¡Ahora, adelante y abraza tu destino como criatura de la noche, con un nombre que impone respeto y temor!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' pour invoquer une nouvelle identité vampirique.",
+      "Découvrez une collection de noms, chacun imprégné d'une allure sombre et d'une mystique ancienne.",
+      "Faites défiler les résultats pour trouver le nom qui résonne vraiment avec votre âme immortelle.",
+      "Vous avez trouvé votre alias éternel ? Copiez-le dans votre presse-papiers !",
+      "Maintenant, allez-y et embrassez votre destin de créature de la nuit, avec un nom qui commande le respect et la peur !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮，召唤一个新的吸血鬼身份。",
+      "见证一系列名字，每个都充满黑暗魅力和古老神秘。",
+      "滚动浏览结果，找到真正与你的不朽灵魂产生共鸣的名字。",
+      "找到你的永恒别名了吗？复制到剪贴板！",
+      "现在，带着一个令人敬畏的名字，去迎接你作为暗夜生物的命运吧！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、新しいヴァンパイアのアイデンティティを召喚します。",
+      "それぞれが闇の魅力と古代の神秘を帯びた名前のコレクションを目撃してください。",
+      "結果をスクロールして、あなたの不死の魂に真に響く名前を見つけてください。",
+      "あなたの永遠の別名を見つけましたか？クリップボードにコピーしてください！",
+      "さあ、夜の生物としての運命を受け入れ、尊敬と畏怖を命じる名前で進んでください！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' para invocar uma nova identidade vampírica.",
+      "Testemunhe uma coleção de nomes, cada um imbuído de um fascínio sombrio e mística antiga.",
+      "Role pelos resultados para encontrar o nome que realmente ressoa com sua alma imortal.",
+      "Encontrou seu apelido eterno? Copie-o para sua área de transferência!",
+      "Agora, vá em frente e abrace seu destino como uma criatura da noite, com um nome que impõe respeito e medo!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Сгенерировать', чтобы призвать новую вампирскую личность.",
+      "Станьте свидетелем коллекции имен, каждое из которых наполнено темным очарованием и древней мистикой.",
+      "Прокрутите результаты, чтобы найти имя, которое действительно резонирует с вашей бессмертной душой.",
+      "Нашли свое вечное прозвище? Скопируйте его в буфер обмена!",
+      "Теперь идите и примите свою судьбу как существо ночи, с именем, которое внушает уважение и страх!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Vampire Name Generator truly free?",
+        "ar": "هل مولد أسماء مصاصي الدماء هذا مجاني حقًا؟",
+        "es": "¿Este Generador de Nombres de Vampiros es realmente gratis?",
+        "fr": "Ce Générateur de Noms de Vampires est-il vraiment gratuit?",
+        "zh-cn": "这个吸血鬼名字生成器是真的免费吗？",
+        "ja": "このヴァンパイア名ジェネレーターは本当に無料ですか？",
+        "pt": "Este Gerador de Nomes de Vampiros é realmente gratuito?",
+        "ru": "Этот Генератор Имен Вампиров действительно бесплатен?"
+      },
+      "answer": {
+        "en": "Yes, absolutely! We believe that every aspiring creature of the night deserves a magnificent name without any cost. Unleash as many names as your dark heart desires!",
+        "ar": "نعم، بالتأكيد! نحن نؤمن بأن كل مخلوق طموح من الليل يستحق اسمًا رائعًا بدون أي تكلفة. أطلق العنان للعديد من الأسماء كما يرغب قلبك المظلم!",
+        "es": "¡Sí, absolutamente! Creemos que cada criatura de la noche aspirante merece un nombre magnífico sin ningún costo. ¡Desata tantos nombres como tu oscuro corazón desee!",
+        "fr": "Oui, absolument ! Nous pensons que chaque créature de la nuit en devenir mérite un nom magnifique sans aucun coût. Libérez autant de noms que votre cœur sombre le désire !",
+        "zh-cn": "是的，完全免费！我们相信每一个有抱负的暗夜生物都应该拥有一个宏伟的名字，无需任何费用。尽情生成你黑暗之心所渴望的名字吧！",
+        "ja": "はい、もちろんです！夜の生き物を目指すすべての人が、費用なしで素晴らしい名前を持つ資格があると信じています。あなたの暗い心が望むだけ、たくさんの名前を解き放ってください！",
+        "pt": "Sim, absolutamente! Acreditamos que toda criatura da noite aspirante merece um nome magnífico sem nenhum custo. Libere quantos nomes seu coração sombrio desejar!",
+        "ru": "Да, абсолютно! Мы верим, что каждое начинающее существо ночи заслуживает великолепного имени без каких-либо затрат. Создавайте столько имен, сколько пожелает ваше темное сердце!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my fictional characters or games?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لشخصياتي الخيالية أو ألعابي؟",
+        "es": "¿Puedo usar estos nombres para mis personajes de ficción o juegos?",
+        "fr": "Puis-je utiliser ces noms pour mes personnages de fiction ou mes jeux?",
+        "zh-cn": "我可以用这些名字来命名我的虚构人物或游戏吗？",
+        "ja": "これらの名前を私の架空のキャラクターやゲームに使用できますか？",
+        "pt": "Posso usar esses nomes para meus personagens fictícios ou jogos?",
+        "ru": "Могу ли я использовать эти имена для своих вымышленных персонажей или игр?"
+      },
+      "answer": {
+        "en": "Absolutely! These names are perfect for adding depth and mystique to your creative projects. Feel free to use them for your novels, role-playing games, or any other dark fantasy endeavors.",
+        "ar": "بالتأكيد! هذه الأسماء مثالية لإضافة عمق وغموض إلى مشاريعك الإبداعية. لا تتردد في استخدامها لرواياتك، ألعاب تقمص الأدوار، أو أي مساعي فانتازيا مظلمة أخرى.",
+        "es": "¡Absolutamente! Estos nombres son perfectos para añadir profundidad y mística a tus proyectos creativos. Siéntete libre de usarlos para tus novelas, juegos de rol o cualquier otra empresa de fantasía oscura.",
+        "fr": "Absolument ! Ces noms sont parfaits pour ajouter de la profondeur et du mystère à vos projets créatifs. N'hésitez pas à les utiliser pour vos romans, jeux de rôle ou toute autre entreprise de dark fantasy.",
+        "zh-cn": "当然可以！这些名字非常适合为你的创意项目增添深度和神秘感。你可以随意将它们用于你的小说、角色扮演游戏或任何其他黑暗奇幻创作。",
+        "ja": "もちろんです！これらの名前は、あなたの創造的なプロジェクトに深みと神秘性を加えるのに最適です。小説、ロールプレイングゲーム、その他のダークファンタジーの作品に自由にお使いください。",
+        "pt": "Absolutamente! Esses nomes são perfeitos para adicionar profundidade e mística aos seus projetos criativos. Sinta-se à vontade para usá-los em seus romances, jogos de RPG ou quaisquer outros empreendimentos de fantasia sombria.",
+        "ru": "Конечно! Эти имена идеально подходят для придания глубины и таинственности вашим творческим проектам. Смело используйте их для своих романов, ролевых игр или любых других проектов в жанре темного фэнтези."
+      }
+    },
+    {
+      "question": {
+        "en": "How many vampire names can I generate?",
+        "ar": "كم عدد أسماء مصاصي الدماء التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres de vampiros puedo generar?",
+        "fr": "Combien de noms de vampires puis-je générer?",
+        "zh-cn": "我可以生成多少个吸血鬼名字？",
+        "ja": "いくつのヴァンパイア名を生成できますか？",
+        "pt": "Quantos nomes de vampiros posso gerar?",
+        "ru": "Сколько имен вампиров я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "As many as the moon has phases! There's no limit to the number of chillingly elegant vampire names you can conjure. Keep clicking until you find the one that truly embodies your eternal essence.",
+        "ar": "بقدر ما للقمر من مراحل! لا يوجد حد لعدد أسماء مصاصي الدماء الأنيقة والمخيفة التي يمكنك استحضارها. استمر في النقر حتى تجد الاسم الذي يجسد جوهرك الأبدي حقًا.",
+        "es": "¡Tantos como fases tenga la luna! No hay límite para la cantidad de nombres de vampiros escalofriantemente elegantes que puedes conjurar. Sigue haciendo clic hasta que encuentres el que realmente encarne tu esencia eterna.",
+        "fr": "Autant que la lune a de phases ! Il n'y a pas de limite au nombre de noms de vampires élégamment effrayants que vous pouvez conjurer. Continuez à cliquer jusqu'à ce que vous trouviez celui qui incarne vraiment votre essence éternelle.",
+        "zh-cn": "只要月亮有阴晴圆缺，你就能生成多少个名字！你可以随意生成无数令人毛骨悚然的优雅吸血鬼名字。不停点击，直到找到那个真正能体现你永恒本质的名字。",
+        "ja": "月の満ち欠けと同じくらいたくさん！ゾクゾクするほどエレガントなヴァンパイアの名前は、いくらでも生成できます。あなたの永遠の本質を真に体現する名前が見つかるまで、クリックし続けてください。",
+        "pt": "Tantos quanto as fases da lua! Não há limite para o número de nomes de vampiros elegantemente arrepiantes que você pode conjurar. Continue clicando até encontrar aquele que realmente incorpora sua essência eterna.",
+        "ru": "Столько, сколько фаз у луны! Нет предела количеству жутко элегантных вампирских имен, которые вы можете создать. Продолжайте нажимать, пока не найдете то, что действительно воплощает вашу вечную сущность."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names unique?",
+        "ar": "هل الأسماء التي تم إنشاؤها فريدة؟",
+        "es": "¿Los nombres generados son únicos?",
+        "fr": "Les noms générés sont-ils uniques?",
+        "zh-cn": "生成的名称是独一无二的吗？",
+        "ja": "生成された名前はユニークですか？",
+        "pt": "Os nomes gerados são únicos?",
+        "ru": "Являются ли сгенерированные имена уникальными?"
+      },
+      "answer": {
+        "en": "While our generator aims for originality, with the vast number of names in existence, we cannot guarantee absolute uniqueness. We recommend performing a quick search if you plan to use a name for a major project.",
+        "ar": "بينما يهدف مولدنا إلى الأصالة، مع العدد الهائل من الأسماء الموجودة، لا يمكننا ضمان التفرد المطلق. نوصي بإجراء بحث سريع إذا كنت تخطط لاستخدام اسم لمشروع كبير.",
+        "es": "Aunque nuestro generador busca la originalidad, con la gran cantidad de nombres existentes, no podemos garantizar una unicidad absoluta. Recomendamos realizar una búsqueda rápida si planeas usar un nombre para un proyecto importante.",
+        "fr": "Bien que notre générateur vise l'originalité, avec le grand nombre de noms existants, nous ne pouvons pas garantir une unicité absolue. Nous vous recommandons d'effectuer une recherche rapide si vous prévoyez d'utiliser un nom pour un projet majeur.",
+        "zh-cn": "虽然我们的生成器旨在追求原创性，但鉴于现有名字的数量庞大，我们无法保证绝对的独一无二。如果您计划将某个名字用于重要项目，我们建议您进行快速搜索。",
+        "ja": "私たちのジェネレーターは独創性を目指していますが、膨大な数の名前が存在するため、絶対的なユニークさを保証することはできません。主要なプロジェクトに名前を使用する場合は、簡単な検索を実行することをお勧めします。",
+        "pt": "Embora nosso gerador vise a originalidade, com o vasto número de nomes existentes, não podemos garantir a unicidade absoluta. Recomendamos realizar uma pesquisa rápida se você planeja usar um nome para um projeto importante.",
+        "ru": "Хотя наш генератор стремится к оригинальности, учитывая огромное количество существующих имен, мы не можем гарантировать абсолютную уникальность. Мы рекомендуем провести быстрый поиск, если вы планируете использовать имя для крупного проекта."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I suggest new themes or styles for vampire names?",
+        "ar": "هل يمكنني اقتراح مواضيع أو أنماط جديدة لأسماء مصاصي الدماء؟",
+        "es": "¿Puedo sugerir nuevos temas o estilos para nombres de vampiros?",
+        "fr": "Puis-je suggérer de nouveaux thèmes ou styles pour les noms de vampires?",
+        "zh-cn": "我可以为吸血鬼名字建议新的主题或风格吗？",
+        "ja": "ヴァンパイア名の新しいテーマやスタイルを提案できますか？",
+        "pt": "Posso sugerir novos temas ou estilos para nomes de vampiros?",
+        "ru": "Могу ли я предложить новые темы или стили для имен вампиров?"
+      },
+      "answer": {
+        "en": "We welcome all suggestions from our fellow night-dwellers! Your input helps us refine and expand our generator's capabilities. Please share your ideas through our feedback channels, and who knows, your vision might inspire the next generation of vampiric monikers!",
+        "ar": "نحن نرحب بجميع الاقتراحات من زملائنا سكان الليل! تساعدنا مدخلاتك في تحسين وتوسيع قدرات مولدنا. يرجى مشاركة أفكارك من خلال قنوات الملاحظات لدينا، ومن يدري، قد تلهم رؤيتك الجيل القادم من أسماء مصاصي الدماء!",
+        "es": "¡Damos la bienvenida a todas las sugerencias de nuestros compañeros habitantes de la noche! Tus aportaciones nos ayudan a refinar y expandir las capacidades de nuestro generador. ¡Por favor, comparte tus ideas a través de nuestros canales de retroalimentación, y quién sabe, tu visión podría inspirar la próxima generación de apodos vampíricos!",
+        "fr": "Nous accueillons toutes les suggestions de nos compagnons habitants de la nuit ! Vos commentaires nous aident à affiner et à étendre les capacités de notre générateur. Veuillez partager vos idées via nos canaux de rétroaction, et qui sait, votre vision pourrait inspirer la prochaine génération de surnoms vampiriques !",
+        "zh-cn": "我们欢迎所有来自同伴夜行者的建议！你的反馈有助于我们改进和扩展生成器的功能。请通过我们的反馈渠道分享你的想法，谁知道呢，你的愿景可能会激发下一代吸血鬼名字的诞生！",
+        "ja": "夜の住人である皆様からのご提案を歓迎いたします！皆様のご意見は、ジェネレーターの機能を改善し、拡張するのに役立ちます。フィードバックチャネルを通じてアイデアを共有してください。あなたのビジョンが、次の世代のヴァンパイアの呼び名をインスパイアするかもしれません！",
+        "pt": "Acolhemos todas as sugestões de nossos companheiros noturnos! Sua contribuição nos ajuda a refinar e expandir as capacidades do nosso gerador. Por favor, compartilhe suas ideias através de nossos canais de feedback, e quem sabe, sua visão pode inspirar a próxima geração de apelidos vampíricos!",
+        "ru": "Мы приветствуем все предложения от наших собратьев, обитателей ночи! Ваш вклад помогает нам совершенствовать и расширять возможности нашего генератора. Пожалуйста, делитесь своими идеями через наши каналы обратной связи, и кто знает, ваше видение может вдохновить следующее поколение вампирских прозвищ!"
+      }
+    }
+  ]
+}

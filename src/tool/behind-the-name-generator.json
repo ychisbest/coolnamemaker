@@ -1,0 +1,192 @@
+{
+  "name": {
+    "en": "Behind the Name Generator",
+    "ar": "مولد 'وراء الاسم'",
+    "es": "Generador 'Detrás del Nombre'",
+    "fr": "Générateur 'Derrière le Nom'",
+    "zh-cn": "名字背后生成器",
+    "ja": "名前の由来ジェネレーター",
+    "pt": "Gerador 'Por Trás do Nome'",
+    "ru": "Генератор 'За Именами'"
+  },
+  "description": {
+    "en": "Ever wondered about the hidden meanings, origins, and fascinating histories behind names? Our 'Behind the Name Generator' is your ultimate guide to unlocking the secrets of nomenclature. Whether you're naming a character, a pet, or just curious about your own name, dive into a world of etymology, culture, and surprising facts!",
+    "ar": "هل تساءلت يومًا عن المعاني الخفية والأصول والتواريخ الرائعة وراء الأسماء؟ مولد 'وراء الاسم' هو دليلك النهائي لفتح أسرار التسمية. سواء كنت تسمي شخصية، أو حيوانًا أليفًا، أو مجرد فضول بشأن اسمك الخاص، انغمس في عالم من أصول الكلمات، والثقافة، والحقائق المدهشة!",
+    "es": "¿Alguna vez te has preguntado sobre los significados ocultos, orígenes e historias fascinantes detrás de los nombres? Nuestro 'Generador Detrás del Nombre' es tu guía definitiva para desvelar los secretos de la nomenclatura. Ya sea que estés nombrando a un personaje, una mascota o simplemente tengas curiosidad sobre tu propio nombre, ¡sumérgete en un mundo de etimología, cultura y hechos sorprendentes!",
+    "fr": "Vous êtes-vous déjà interrogé sur les significations cachées, les origines et les histoires fascinantes derrière les noms ? Notre 'Générateur Derrière le Nom' est votre guide ultime pour percer les secrets de la nomenclature. Que vous nommiez un personnage, un animal de compagnie, ou simplement curieux de votre propre nom, plongez dans un monde d'étymologie, de culture et de faits surprenants !",
+    "zh-cn": "你是否曾好奇名字背后隐藏的含义、起源和引人入胜的故事？我们的“名字背后生成器”是解锁命名秘密的终极指南。无论你是为角色、宠物命名，还是仅仅对自己名字的好奇，都可以深入探索词源、文化和令人惊讶的事实世界！",
+    "ja": "名前の背後にある隠された意味、起源、魅力的な歴史について疑問に思ったことはありませんか？私たちの「名前の由来ジェネレーター」は、命名法の秘密を解き明かす究極のガイドです。キャラクターやペットに名前を付けたり、自分の名前に興味があるだけでも、語源、文化、驚くべき事実の世界に飛び込んでみましょう！",
+    "pt": "Já se perguntou sobre os significados ocultos, origens e histórias fascinantes por trás dos nomes? Nosso 'Gerador Por Trás do Nome' é o seu guia definitivo para desvendar os segredos da nomenclatura. Se você está nomeando um personagem, um animal de estimação, ou apenas curioso sobre o seu próprio nome, mergulhe em um mundo de etimologia, cultura e fatos surpreendentes!",
+    "ru": "Вы когда-нибудь задумывались о скрытых значениях, происхождении и увлекательных историях, стоящих за именами? Наш 'Генератор За Именами' - это ваш лучший путеводитель по раскрытию секретов номенклатуры. Независимо от того, называете ли вы персонажа, домашнее животное или просто любопытствуете о своем собственном имени, погрузитесь в мир этимологии, культуры и удивительных фактов!"
+  },
+  "slug": "behind-the-name-generator",
+  "prompt": {
+    "en": "Generate a name and its meaning/origin",
+    "ar": "قم بإنشاء اسم ومعناه/أصله",
+    "es": "Generar un nombre y su significado/origen",
+    "fr": "Générer un nom et sa signification/origine",
+    "zh-cn": "生成一个名字及其含义/起源",
+    "ja": "名前とその意味/由来を生成する",
+    "pt": "Gerar um nome e seu significado/origem",
+    "ru": "Сгенерировать имя и его значение/происхождение"
+  },
+  "icon": "📜",
+  "introduction": {
+    "en": "Every name tells a story. From ancient myths to modern trends, names carry a weight of history, culture, and personal significance. Our 'Behind the Name Generator' is designed to not just give you names, but to unveil the rich tapestry of information woven into each one. Discover names with powerful meanings, explore their linguistic roots, and find inspiration for your next big idea, whether it's a novel, a brand, or a new addition to your family. Prepare to be enlightened and amazed by the depth found in a simple word!",
+    "ar": "كل اسم يحكي قصة. من الأساطير القديمة إلى الاتجاهات الحديثة، تحمل الأسماء ثقلاً من التاريخ والثقافة والأهمية الشخصية. تم تصميم مولد 'وراء الاسم' الخاص بنا ليس فقط لإعطائك أسماء، ولكن للكشف عن النسيج الغني للمعلومات المنسوجة في كل واحد منها. اكتشف أسماء ذات معانٍ قوية، واستكشف جذورها اللغوية، وابحث عن الإلهام لفكرتك الكبيرة التالية، سواء كانت رواية، أو علامة تجارية، أو إضافة جديدة لعائلتك. استعد للتنوير والدهشة من العمق الموجود في كلمة بسيطة!",
+    "es": "Cada nombre cuenta una historia. Desde mitos antiguos hasta tendencias modernas, los nombres llevan el peso de la historia, la cultura y el significado personal. Nuestro 'Generador Detrás del Nombre' está diseñado no solo para darte nombres, sino para desvelar el rico tapiz de información entretejido en cada uno. Descubre nombres con significados poderosos, explora sus raíces lingüísticas y encuentra inspiración para tu próxima gran idea, ya sea una novela, una marca o una nueva incorporación a tu familia. ¡Prepárate para ser iluminado y asombrado por la profundidad que se encuentra en una simple palabra!",
+    "fr": "Chaque nom raconte une histoire. Des mythes anciens aux tendances modernes, les noms portent le poids de l'histoire, de la culture et de la signification personnelle. Notre 'Générateur Derrière le Nom' est conçu non seulement pour vous donner des noms, mais pour dévoiler la riche tapisserie d'informations tissée dans chacun d'eux. Découvrez des noms aux significations puissantes, explorez leurs racines linguistiques et trouvez l'inspiration pour votre prochaine grande idée, qu'il s'agisse d'un roman, d'une marque ou d'un nouvel ajout à votre famille. Préparez-vous à être éclairé et étonné par la profondeur trouvée dans un simple mot !",
+    "zh-cn": "每个名字都讲述一个故事。从古老的传说到现代的潮流，名字承载着历史、文化和个人意义的重量。我们的“名字背后生成器”旨在不仅为你提供名字，更要揭示每个名字中蕴含的丰富信息。发现寓意深远的名字，探索它们的语言根源，为你下一个宏伟构想寻找灵感，无论是小说、品牌，还是家庭的新成员。准备好被一个简单词语中蕴藏的深度所启发和震撼吧！",
+    "ja": "すべての名前には物語があります。古代の神話から現代のトレンドまで、名前は歴史、文化、そして個人的な意味の重みを帯びています。私たちの「名前の由来ジェネレーター」は、単に名前を提供するだけでなく、それぞれの名前に織り込まれた豊かな情報のタペストリーを解き明かすように設計されています。力強い意味を持つ名前を発見し、その言語的ルーツを探り、小説、ブランド、あるいは家族への新しい追加など、あなたの次の大きなアイデアのためのインスピレーションを見つけてください。シンプルな言葉の中に見られる深さに啓発され、驚く準備をしてください！",
+    "pt": "Todo nome conta uma história. Desde mitos antigos até tendências modernas, os nomes carregam um peso de história, cultura e significado pessoal. Nosso 'Gerador Por Trás do Nome' foi projetado não apenas para lhe dar nomes, mas para desvendar a rica tapeçaria de informações tecida em cada um. Descubra nomes com significados poderosos, explore suas raízes linguísticas e encontre inspiração para sua próxima grande ideia, seja um romance, uma marca ou uma nova adição à sua família. Prepare-se para ser iluminado e maravilhado com a profundidade encontrada em uma palavra simples!",
+    "ru": "Каждое имя рассказывает историю. От древних мифов до современных тенденций, имена несут в себе вес истории, культуры и личного значения. Наш 'Генератор За Именами' разработан не просто для того, чтобы дать вам имена, а для того, чтобы раскрыть богатое полотно информации, вплетенной в каждое из них. Откройте для себя имена с мощными значениями, исследуйте их лингвистические корни и найдите вдохновение для вашей следующей большой идеи, будь то роман, бренд или новое пополнение в вашей семье. Приготовьтесь быть просвещенными и пораженными глубиной, найденной в простом слове!"
+  },
+  "howToUse": {
+    "en": [
+      "Enter a keyword, theme, or even just a letter to get started.",
+      "Click 'Generate' and watch the magic unfold!",
+      "Explore the generated names, their origins, meanings, and cultural significance.",
+      "Found a name that sparks joy? Save it to your favorites!",
+      "Use these insights to enrich your writing, naming projects, or simply broaden your knowledge!"
+    ],
+    "ar": [
+      "أدخل كلمة رئيسية أو موضوعًا أو حتى مجرد حرف للبدء.",
+      "انقر على 'إنشاء' وشاهد السحر يتكشف!",
+      "استكشف الأسماء التي تم إنشاؤها وأصولها ومعانيها وأهميتها الثقافية.",
+      "هل وجدت اسمًا يثير البهجة؟ احفظه في مفضلاتك!",
+      "استخدم هذه الأفكار لإثراء كتاباتك ومشاريع التسمية الخاصة بك أو ببساطة لتوسيع معرفتك!"
+    ],
+    "es": [
+      "Introduce una palabra clave, un tema o incluso solo una letra para empezar.",
+      "Haz clic en 'Generar' y observa cómo se desarrolla la magia.",
+      "Explora los nombres generados, sus orígenes, significados y relevancia cultural.",
+      "¿Encontraste un nombre que te encanta? ¡Guárdalo en tus favoritos!",
+      "¡Usa estos conocimientos para enriquecer tu escritura, proyectos de nombres o simplemente para ampliar tu conocimiento!"
+    ],
+    "fr": [
+      "Saisissez un mot-clé, un thème, ou même juste une lettre pour commencer.",
+      "Cliquez sur 'Générer' et regardez la magie opérer !",
+      "Explorez les noms générés, leurs origines, significations et importance culturelle.",
+      "Vous avez trouvé un nom qui vous plaît ? Enregistrez-le dans vos favoris !",
+      "Utilisez ces informations pour enrichir votre écriture, vos projets de nomination, ou simplement pour élargir vos connaissances !"
+    ],
+    "zh-cn": [
+      "输入一个关键词、主题，甚至一个字母即可开始。",
+      "点击“生成”，见证奇迹的发生！",
+      "探索生成的名称、它们的起源、含义和文化意义。",
+      "找到一个让你心动的名字了吗？保存到你的收藏夹！",
+      "利用这些洞察力来丰富你的写作、命名项目，或者仅仅是拓宽你的知识！"
+    ],
+    "ja": [
+      "キーワード、テーマ、あるいは文字を入力して始めましょう。",
+      "「生成」をクリックして、魔法が展開するのを見てください！",
+      "生成された名前、その由来、意味、文化的重要性を探求しましょう。",
+      "喜びを感じる名前を見つけましたか？お気に入りとして保存してください！",
+      "これらの洞察を使って、あなたの執筆、命名プロジェクトを豊かにしたり、単に知識を広げたりしましょう！"
+    ],
+    "pt": [
+      "Insira uma palavra-chave, tema ou até mesmo apenas uma letra para começar.",
+      "Clique em 'Gerar' e observe a mágica acontecer!",
+      "Explore os nomes gerados, suas origens, significados e relevância cultural.",
+      "Encontrou um nome que te agrada? Salve-o nos seus favoritos!",
+      "Use esses insights para enriquecer sua escrita, projetos de nomeação ou simplesmente para ampliar seu conhecimento!"
+    ],
+    "ru": [
+      "Введите ключевое слово, тему или даже просто букву, чтобы начать.",
+      "Нажмите 'Сгенерировать' и наблюдайте, как происходит волшебство!",
+      "Исследуйте сгенерированные имена, их происхождение, значения и культурное значение.",
+      "Нашли имя, которое вызывает восторг? Сохраните его в избранное!",
+      "Используйте эти знания, чтобы обогатить свое письмо, проекты по именованию или просто расширить свои знания!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "What kind of names can I expect from the 'Behind the Name Generator'?",
+        "ar": "ما نوع الأسماء التي يمكنني توقعها من مولد 'وراء الاسم'؟",
+        "es": "¿Qué tipo de nombres puedo esperar del 'Generador Detrás del Nombre'?",
+        "fr": "À quel type de noms puis-je m'attendre avec le 'Générateur Derrière le Nom' ?",
+        "zh-cn": "我能从“名字背后生成器”中获得哪些类型的名字？",
+        "ja": "「名前の由来ジェネレーター」からはどのような名前が期待できますか？",
+        "pt": "Que tipo de nomes posso esperar do 'Gerador Por Trás do Nome'?",
+        "ru": "Какие имена я могу ожидать от 'Генератора За Именами'?"
+      },
+      "answer": {
+        "en": "Our generator taps into a vast database of names from various cultures, languages, and historical periods. You'll find names with diverse origins (Hebrew, Greek, Latin, Germanic, Celtic, etc.), meanings (strength, beauty, wisdom, nature, etc.), and even associations with mythology or historical figures. Prepare for a rich and varied selection!",
+        "ar": "يعتمد مولدنا على قاعدة بيانات واسعة من الأسماء من ثقافات ولغات وفترات تاريخية مختلفة. ستجد أسماء ذات أصول متنوعة (عبرية، يونانية، لاتينية، جرمانية، سلتيكية، إلخ)، ومعانٍ (قوة، جمال، حكمة، طبيعة، إلخ)، وحتى ارتباطات بالأساطير أو الشخصيات التاريخية. استعد لمجموعة غنية ومتنوعة!",
+        "es": "Nuestro generador se nutre de una vasta base de datos de nombres de diversas culturas, idiomas y períodos históricos. Encontrarás nombres con orígenes diversos (hebreo, griego, latín, germánico, celta, etc.), significados (fuerza, belleza, sabiduría, naturaleza, etc.) e incluso asociaciones con la mitología o figuras históricas. ¡Prepárate para una selección rica y variada!",
+        "fr": "Notre générateur puise dans une vaste base de données de noms provenant de diverses cultures, langues et périodes historiques. Vous trouverez des noms aux origines diverses (hébreu, grec, latin, germanique, celtique, etc.), des significations (force, beauté, sagesse, nature, etc.), et même des associations avec la mythologie ou des figures historiques. Préparez-vous à une sélection riche et variée !",
+        "zh-cn": "我们的生成器利用了来自不同文化、语言和历史时期的大量名字数据库。你会发现具有不同起源（希伯来语、希腊语、拉丁语、日耳曼语、凯尔特语等）、含义（力量、美丽、智慧、自然等），甚至与神话或历史人物相关的名字。准备好迎接丰富多样的选择吧！",
+        "ja": "私たちのジェネレーターは、様々な文化、言語、歴史的時代の名前の広範なデータベースを利用しています。多様な起源（ヘブライ語、ギリシャ語、ラテン語、ゲルマン語、ケルト語など）、意味（強さ、美しさ、知恵、自然など）、さらには神話や歴史上の人物との関連を持つ名前を見つけることができます。豊かで多様なセレクションに期待してください！",
+        "pt": "Nosso gerador utiliza um vasto banco de dados de nomes de várias culturas, idiomas e períodos históricos. Você encontrará nomes com diversas origens (hebraica, grega, latina, germânica, celta, etc.), significados (força, beleza, sabedoria, natureza, etc.), e até mesmo associações com mitologia ou figuras históricas. Prepare-se para uma seleção rica e variada!",
+        "ru": "Наш генератор использует обширную базу данных имен из различных культур, языков и исторических периодов. Вы найдете имена с разнообразным происхождением (иврит, греческий, латынь, германский, кельтский и т. д.), значениями (сила, красота, мудрость, природа и т. д.) и даже ассоциациями с мифологией или историческими личностями. Приготовьтесь к богатому и разнообразному выбору!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I filter results by origin or meaning?",
+        "ar": "هل يمكنني تصفية النتائج حسب الأصل أو المعنى؟",
+        "es": "¿Puedo filtrar los resultados por origen o significado?",
+        "fr": "Puis-je filtrer les résultats par origine ou signification ?",
+        "zh-cn": "我能按起源或含义筛选结果吗？",
+        "ja": "起源や意味で結果をフィルタリングできますか？",
+        "pt": "Posso filtrar os resultados por origem ou significado?",
+        "ru": "Могу ли я отфильтровать результаты по происхождению или значению?"
+      },
+      "answer": {
+        "en": "Currently, our generator provides a broad range of suggestions based on your initial input. While direct filtering by specific origin or meaning isn't available yet, we're constantly working on improving functionality! Keep an eye out for future updates.",
+        "ar": "حاليًا، يوفر مولدنا مجموعة واسعة من الاقتراحات بناءً على مدخلاتك الأولية. على الرغم من أن التصفية المباشرة حسب أصل أو معنى محدد غير متاحة بعد، إلا أننا نعمل باستمرار على تحسين الوظائف! ترقبوا التحديثات المستقبلية.",
+        "es": "Actualmente, nuestro generador proporciona una amplia gama de sugerencias basadas en tu entrada inicial. Aunque la filtración directa por origen o significado específico aún no está disponible, ¡estamos trabajando constantemente para mejorar la funcionalidad! Estate atento a futuras actualizaciones.",
+        "fr": "Actuellement, notre générateur propose un large éventail de suggestions basées sur votre saisie initiale. Bien que le filtrage direct par origine ou signification spécifique ne soit pas encore disponible, nous travaillons constamment à l'amélioration des fonctionnalités ! Restez à l'affût des futures mises à jour.",
+        "zh-cn": "目前，我们的生成器根据您的初始输入提供广泛的建议。虽然尚未提供按特定起源或含义直接筛选的功能，但我们正在不断努力改进功能！请留意未来的更新。",
+        "ja": "現在、私たちのジェネレーターは、あなたの最初の入力に基づいて幅広い提案を提供しています。特定の起源や意味による直接的なフィルタリングはまだ利用できませんが、機能改善に常に取り組んでいます！今後のアップデートにご期待ください。",
+        "pt": "Atualmente, nosso gerador fornece uma ampla gama de sugestões com base na sua entrada inicial. Embora a filtragem direta por origem ou significado específico ainda não esteja disponível, estamos constantemente trabalhando para melhorar a funcionalidade! Fique atento a futuras atualizações.",
+        "ru": "В настоящее время наш генератор предоставляет широкий спектр предложений на основе вашего первоначального ввода. Хотя прямая фильтрация по конкретному происхождению или значению пока недоступна, мы постоянно работаем над улучшением функционала! Следите за будущими обновлениями."
+      }
+    },
+    {
+      "question": {
+        "en": "Is the information about name origins and meanings accurate?",
+        "ar": "هل المعلومات حول أصول الأسماء ومعانيها دقيقة؟",
+        "es": "¿Es precisa la información sobre los orígenes y significados de los nombres?",
+        "fr": "Les informations sur les origines et les significations des noms sont-elles exactes ?",
+        "zh-cn": "关于名字起源和含义的信息准确吗？",
+        "ja": "名前の由来と意味に関する情報は正確ですか？",
+        "pt": "As informações sobre as origens e significados dos nomes são precisas?",
+        "ru": "Является ли информация о происхождении и значениях имен точной?"
+      },
+      "answer": {
+        "en": "We strive for accuracy and use reputable sources for our name data. However, etymology can sometimes be complex and debated, and meanings can evolve over time or vary across cultures. Our goal is to provide a comprehensive and fascinating overview, but for academic research, we recommend consulting specialized linguistic resources.",
+        "ar": "نحن نسعى جاهدين لتحقيق الدقة ونستخدم مصادر موثوقة لبيانات أسمائنا. ومع ذلك، يمكن أن تكون أصول الكلمات معقدة ومثيرة للجدل أحيانًا، وقد تتطور المعاني بمرور الوقت أو تختلف عبر الثقافات. هدفنا هو تقديم نظرة عامة شاملة ورائعة، ولكن للبحث الأكاديمي، نوصي بالرجوع إلى الموارد اللغوية المتخصصة.",
+        "es": "Nos esforzamos por la precisión y utilizamos fuentes confiables para nuestros datos de nombres. Sin embargo, la etimología a veces puede ser compleja y debatida, y los significados pueden evolucionar con el tiempo o variar entre culturas. Nuestro objetivo es proporcionar una visión general completa y fascinante, pero para investigaciones académicas, recomendamos consultar recursos lingüísticos especializados.",
+        "fr": "Nous nous efforçons d'être précis et utilisons des sources fiables pour nos données de noms. Cependant, l'étymologie peut parfois être complexe et débattue, et les significations peuvent évoluer au fil du temps ou varier selon les cultures. Notre objectif est de fournir un aperçu complet et fascinant, mais pour la recherche universitaire, nous recommandons de consulter des ressources linguistiques spécialisées.",
+        "zh-cn": "我们力求准确，并使用可靠的来源获取我们的名字数据。然而，词源学有时可能复杂且存在争议，含义也可能随着时间演变或因文化而异。我们的目标是提供一个全面而引人入胜的概述，但对于学术研究，我们建议查阅专业的语言学资源。",
+        "ja": "私たちは正確さを追求し、信頼できる情報源を名前データに使用しています。しかし、語源学は時に複雑で議論の余地があり、意味は時間とともに進化したり、文化によって異なったりすることがあります。私たちの目標は、包括的で魅力的な概要を提供することですが、学術研究のためには、専門的な言語学リソースを参照することをお勧めします。",
+        "pt": "Nós nos esforçamos pela precisão e usamos fontes confiáveis para nossos dados de nomes. No entanto, a etimologia às vezes pode ser complexa e debatida, e os significados podem evoluir ao longo do tempo ou variar entre culturas. Nosso objetivo é fornecer uma visão geral abrangente e fascinante, mas para pesquisa acadêmica, recomendamos consultar recursos linguísticos especializados.",
+        "ru": "Мы стремимся к точности и используем авторитетные источники для наших данных имен. Однако этимология иногда может быть сложной и обсуждаемой, а значения могут меняться со временем или различаться в разных культурах. Наша цель - предоставить всеобъемлющий и увлекательный обзор, но для академических исследований мы рекомендуем обращаться к специализированным лингвистическим ресурсам."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I contribute name information or corrections?",
+        "ar": "هل يمكنني المساهمة بمعلومات أو تصحيحات للأسماء؟",
+        "es": "¿Puedo contribuir con información o correcciones de nombres?",
+        "fr": "Puis-je contribuer des informations ou des corrections de noms ?",
+        "zh-cn": "我能贡献名字信息或进行更正吗？",
+        "ja": "名前の情報や修正に貢献できますか？",
+        "pt": "Posso contribuir com informações ou correções de nomes?",
+        "ru": "Могу ли я внести информацию или исправления по именам?"
+      },
+      "answer": {
+        "en": "We absolutely welcome community contributions! If you have unique insights, corrections, or fascinating historical tidbits about a name, please reach out to us through our feedback channel. Your input helps us make the 'Behind the Name Generator' even better for everyone!",
+        "ar": "نحن نرحب تمامًا بمساهمات المجتمع! إذا كان لديك رؤى فريدة أو تصحيحات أو معلومات تاريخية رائعة حول اسم ما، فيرجى التواصل معنا عبر قناة الملاحظات الخاصة بنا. مساهمتك تساعدنا في جعل مولد 'وراء الاسم' أفضل للجميع!",
+        "es": "¡Definitivamente damos la bienvenida a las contribuciones de la comunidad! Si tienes ideas únicas, correcciones o datos históricos fascinantes sobre un nombre, por favor contáctanos a través de nuestro canal de comentarios. ¡Tu aporte nos ayuda a hacer el 'Generador Detrás del Nombre' aún mejor para todos!",
+        "fr": "Nous accueillons absolument les contributions de la communauté ! Si vous avez des informations uniques, des corrections ou des anecdotes historiques fascinantes sur un nom, veuillez nous contacter via notre canal de commentaires. Votre contribution nous aide à rendre le 'Générateur Derrière le Nom' encore meilleur pour tout le monde !",
+        "zh-cn": "我们非常欢迎社区贡献！如果您对某个名字有独特的见解、更正或引人入胜的历史趣闻，请通过我们的反馈渠道联系我们。您的输入有助于我们让“名字背后生成器”对每个人都更好！",
+        "ja": "コミュニティからの貢献を心から歓迎します！名前に関する独自の洞察、修正、または魅力的な歴史的情報をお持ちの場合は、フィードバックチャネルを通じてご連絡ください。あなたの入力は、「名前の由来ジェネレーター」を誰もが利用できるより良いものにするのに役立ちます！",
+        "pt": "Nós absolutamente acolhemos as contribuições da comunidade! Se você tiver insights únicos, correções ou fatos históricos fascinantes sobre um nome, entre em contato conosco através do nosso canal de feedback. Sua contribuição nos ajuda a tornar o 'Gerador Por Trás do Nome' ainda melhor para todos!",
+        "ru": "Мы абсолютно приветствуем вклад сообщества! Если у вас есть уникальные идеи, исправления или увлекательные исторические факты об имени, пожалуйста, свяжитесь с нами через наш канал обратной связи. Ваш вклад помогает нам сделать 'Генератор За Именами' еще лучше для всех!"
+      }
+    }
+  ]
+}

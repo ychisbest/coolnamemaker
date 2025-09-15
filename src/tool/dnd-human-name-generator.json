@@ -1,0 +1,192 @@
+{
+  "name": {
+    "en": "D&D Human Name Generator",
+    "ar": "مولد أسماء البشر في D&D",
+    "es": "Generador de Nombres Humanos D&D",
+    "fr": "Générateur de Noms Humains D&D",
+    "zh-cn": "D&D 人类名称生成器",
+    "ja": "D&Dヒューマンネームジェネレーター",
+    "pt": "Gerador de Nomes Humanos D&D",
+    "ru": "Генератор Человеческих Имен D&D"
+  },
+  "description": {
+    "en": "Embark on your next epic adventure with a name that truly fits your human character! Our D&D Human Name Generator crafts a vast array of authentic, memorable, and lore-friendly names, perfect for any campaign. Whether you need a noble lord, a cunning rogue, a wise wizard, or a humble farmer, find the ideal moniker to bring your character to life and immerse yourself deeper into the world of Dungeons & Dragons. Get ready to roll for initiative with a name that echoes through taverns and battlefields alike!",
+    "ar": "انطلق في مغامرتك الملحمية التالية باسم يتناسب حقًا مع شخصيتك البشرية! يقوم مولد أسماء البشر في D&D لدينا بإنشاء مجموعة واسعة من الأسماء الأصلية، التي لا تُنسى، والمتوافقة مع القصص، مثالية لأي حملة. سواء كنت بحاجة إلى نبيل، أو لص ماكر، أو ساحر حكيم، أو مزارع متواضع، ابحث عن اللقب المثالي لإضفاء الحياة على شخصيتك وغمر نفسك بشكل أعمق في عالم Dungeons & Dragons. استعد للرمي للمبادرة باسم يتردد صداه في الحانات وساحات المعارك على حد سواء!",
+    "es": "¡Embárcate en tu próxima aventura épica con un nombre que realmente se ajuste a tu personaje humano! Nuestro Generador de Nombres Humanos D&D crea una vasta variedad de nombres auténticos, memorables y acordes con la tradición, perfectos para cualquier campaña. Ya sea que necesites un noble señor, un astuto pícaro, un sabio mago o un humilde granjero, encuentra el apodo ideal para dar vida a tu personaje y sumergirte más profundamente en el mundo de Dungeons & Dragons. ¡Prepárate para tirar iniciativa con un nombre que resuene tanto en tabernas como en campos de batalla!",
+    "fr": "Embarquez pour votre prochaine aventure épique avec un nom qui correspond vraiment à votre personnage humain ! Notre Générateur de Noms Humains D&D crée un vaste éventail de noms authentiques, mémorables et fidèles à la tradition, parfaits pour toute campagne. Que vous ayez besoin d'un noble seigneur, d'un roublard rusé, d'un sage magicien ou d'un humble fermier, trouvez le surnom idéal pour donner vie à votre personnage et vous immerger plus profondément dans le monde de Donjons & Dragons. Préparez-vous à lancer l'initiative avec un nom qui résonnera dans les tavernes et sur les champs de bataille !",
+    "zh-cn": "为你的D&D人类角色找到一个完美的名字，开启你的史诗冒险！我们的D&D人类名称生成器能创造大量真实、令人难忘且符合D&D设定的名字，适用于任何战役。无论你需要一位高贵的领主、一个狡猾的游荡者、一位睿智的法师，还是一个谦逊的农夫，都能找到理想的称谓，让你的角色栩栩如生，更深入地沉浸在《龙与地下城》的世界中。准备好用一个在酒馆和战场上都能回响的名字来投掷先攻吧！",
+    "ja": "あなたの人間キャラクターにぴったりの名前で、次の壮大な冒険に乗り出しましょう！私たちのD&Dヒューマンネームジェネレーターは、どんなキャンペーンにも最適な、本物で記憶に残る、伝承に忠実な名前を豊富に作成します。高貴な領主、ずる賢い盗賊、賢明な魔法使い、あるいは謙虚な農民が必要な場合でも、キャラクターに命を吹き込み、ダンジョンズ＆ドラゴンズの世界に深く没頭するための理想的な名前を見つけてください。酒場や戦場に響き渡る名前で、イニシアチブをロールする準備をしましょう！",
+    "pt": "Embarque em sua próxima aventura épica com um nome que realmente se encaixa no seu personagem humano! Nosso Gerador de Nomes Humanos D&D cria uma vasta gama de nomes autênticos, memoráveis e fiéis à lore, perfeitos para qualquer campanha. Quer você precise de um nobre senhor, um ladino astuto, um mago sábio ou um humilde fazendeiro, encontre o apelido ideal para dar vida ao seu personagem e mergulhar mais fundo no mundo de Dungeons & Dragons. Prepare-se para rolar a iniciativa com um nome que ecoa em tavernas e campos de batalha!",
+    "ru": "Отправляйтесь в свое следующее эпическое приключение с именем, которое идеально подходит вашему человеческому персонажу! Наш Генератор Человеческих Имен D&D создает широкий спектр аутентичных, запоминающихся и соответствующих лору имен, идеальных для любой кампании. Нужен ли вам благородный лорд, хитрый разбойник, мудрый волшебник или скромный фермер, найдите идеальное прозвище, чтобы оживить вашего персонажа и глубже погрузиться в мир Dungeons & Dragons. Приготовьтесь бросать кубики на инициативу с именем, которое эхом разнесется по тавернам и полям сражений!"
+  },
+  "slug": "dnd-human-name-generator",
+  "prompt": {
+    "en": "Generate a D&D human name",
+    "ar": "إنشاء اسم بشري في D&D",
+    "es": "Generar un nombre humano D&D",
+    "fr": "Générer un nom humain D&D",
+    "zh-cn": "生成一个D&D人类名称",
+    "ja": "D&Dヒューマンネームを生成",
+    "pt": "Gerar um nome humano D&D",
+    "ru": "Сгенерировать человеческое имя D&D"
+  },
+  "icon": "⚔️",
+  "introduction": {
+    "en": "The world of Dungeons & Dragons is vast and full of diverse characters, but none are as versatile and relatable as humans. They can be heroes or villains, commoners or kings, and their names often reflect the rich tapestry of their cultures and personal histories. Our D&D Human Name Generator is your essential tool for crafting names that feel authentic, whether you're playing in the Forgotten Realms, Greyhawk, Eberron, or your own homebrew setting. Dive in and discover names that will inspire your backstory and captivate your fellow adventurers!",
+    "ar": "عالم Dungeons & Dragons واسع ومليء بالشخصيات المتنوعة، ولكن لا يوجد من هو أكثر تنوعًا وقابلية للتأثر من البشر. يمكن أن يكونوا أبطالًا أو أشرارًا، عامة أو ملوكًا، وغالبًا ما تعكس أسماؤهم النسيج الغني لثقافاتهم وتاريخهم الشخصي. مولد أسماء البشر في D&D لدينا هو أداتك الأساسية لإنشاء أسماء تبدو أصيلة، سواء كنت تلعب في Forgotten Realms، Greyhawk، Eberron، أو في إعدادك الخاص. انغمس واكتشف أسماء ستلهم قصة خلفيتك وتأسر رفاقك المغامرين!",
+    "es": "El mundo de Dungeons & Dragons es vasto y lleno de personajes diversos, pero ninguno es tan versátil y cercano como los humanos. Pueden ser héroes o villanos, plebeyos o reyes, y sus nombres a menudo reflejan el rico tapiz de sus culturas e historias personales. Nuestro Generador de Nombres Humanos D&D es tu herramienta esencial para crear nombres que se sientan auténticos, ya sea que estés jugando en los Reinos Olvidados, Greyhawk, Eberron o tu propio escenario casero. ¡Sumérgete y descubre nombres que inspirarán tu trasfondo y cautivarán a tus compañeros aventureros!",
+    "fr": "Le monde de Donjons & Dragons est vaste et rempli de personnages divers, mais aucun n'est aussi polyvalent et facile à identifier que les humains. Ils peuvent être des héros ou des méchants, des roturiers ou des rois, et leurs noms reflètent souvent la riche tapisserie de leurs cultures et de leurs histoires personnelles. Notre Générateur de Noms Humains D&D est votre outil essentiel pour créer des noms qui sonnent authentiques, que vous jouiez dans les Royaumes Oubliés, Greyhawk, Eberron, ou votre propre cadre maison. Plongez et découvrez des noms qui inspireront votre histoire et captiveront vos compagnons aventuriers !",
+    "zh-cn": "《龙与地下城》的世界广阔无垠，充满了形形色色的角色，但没有哪个种族能像人类一样多才多艺且引人共鸣。他们可以是英雄或恶棍，平民或国王，而他们的名字往往反映了他们文化和个人历史的丰富多彩。我们的D&D人类名称生成器是你打造真实名称的必备工具，无论你是在被遗忘的国度、灰鹰、艾伯伦，还是你自己的自制设定中进行游戏。深入其中，发现那些能激发你的背景故事并吸引你的冒险伙伴的名字吧！",
+    "ja": "ダンジョンズ＆ドラゴンズの世界は広大で多様なキャラクターに満ちていますが、人間ほど多才で共感できる種族はありません。彼らは英雄にも悪役にも、平民にも王にもなれ、その名前はしばしば彼らの文化や個人的な歴史の豊かなタペストリーを反映しています。私たちのD&Dヒューマンネームジェネレーターは、忘れられた領域、グレイホーク、エベロン、あるいはあなた自身の自作設定でプレイしているかどうかにかかわらず、本物らしい名前を作成するためのあなたの必須ツールです。あなたのバックストーリーを刺激し、仲間の冒険者を魅了する名前を発見するために飛び込んでください！",
+    "pt": "O mundo de Dungeons & Dragons é vasto e cheio de personagens diversos, mas nenhum é tão versátil e relacionável quanto os humanos. Eles podem ser heróis ou vilões, plebeus ou reis, e seus nomes frequentemente refletem a rica tapeçaria de suas culturas e histórias pessoais. Nosso Gerador de Nomes Humanos D&D é sua ferramenta essencial para criar nomes que pareçam autênticos, esteja você jogando nos Reinos Esquecidos, Greyhawk, Eberron, ou em seu próprio cenário caseiro. Mergulhe e descubra nomes que inspirarão sua história e cativarão seus companheiros aventureiros!",
+    "ru": "Мир Dungeons & Dragons огромен и полон разнообразных персонажей, но ни один из них не так универсален и понятен, как люди. Они могут быть героями или злодеями, простолюдинами или королями, и их имена часто отражают богатое полотно их культур и личных историй. Наш Генератор Человеческих Имен D&D — ваш незаменимый инструмент для создания аутентичных имен, независимо от того, играете ли вы в Забытых Королевствах, Грейхоке, Эберроне или в своей собственной домашней кампании. Погрузитесь и откройте для себя имена, которые вдохновят вашу предысторию и очаруют ваших собратьев-авантюристов!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button to summon forth a legendary human name.",
+      "Browse through the generated names for inspiration or immediate use.",
+      "Found a name that feels just right? Click to copy it instantly!",
+      "Repeat as needed until your party is fully named and ready for glory.",
+      "Use these names to define your character's personality, background, and destiny!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' لاستدعاء اسم بشري أسطوري.",
+      "تصفح الأسماء التي تم إنشاؤها للإلهام أو الاستخدام الفوري.",
+      "هل وجدت اسمًا يبدو مناسبًا تمامًا؟ انقر لنسخه على الفور!",
+      "كرر العملية حسب الحاجة حتى يتم تسمية مجموعتك بالكامل وتكون جاهزة للمجد.",
+      "استخدم هذه الأسماء لتحديد شخصية شخصيتك وخلفيتها ومصيرها!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' para invocar un nombre humano legendario.",
+      "Explora los nombres generados en busca de inspiración o para usarlos de inmediato.",
+      "¿Encontraste un nombre que te parece perfecto? ¡Haz clic para copiarlo al instante!",
+      "Repite según sea necesario hasta que tu grupo esté completamente nombrado y listo para la gloria.",
+      "¡Usa estos nombres para definir la personalidad, el trasfondo y el destino de tu personaje!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' pour faire apparaître un nom humain légendaire.",
+      "Parcourez les noms générés pour l'inspiration ou une utilisation immédiate.",
+      "Vous avez trouvé un nom qui vous convient parfaitement ? Cliquez pour le copier instantanément !",
+      "Répétez l'opération autant de fois que nécessaire jusqu'à ce que votre groupe soit entièrement nommé et prêt pour la gloire.",
+      "Utilisez ces noms pour définir la personnalité, l'arrière-plan et le destin de votre personnage !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮，召唤一个传奇的人类名字。",
+      "浏览生成的名称，获取灵感或立即使用。",
+      "找到一个感觉恰到好处的名字了吗？点击即可立即复制！",
+      "根据需要重复此操作，直到你的队伍全部命名完毕并准备好迎接荣耀。",
+      "使用这些名字来定义你角色的个性、背景和命运！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、伝説的な人間の名前を呼び出します。",
+      "生成された名前を閲覧して、インスピレーションを得たり、すぐに使用したりします。",
+      "ぴったりだと感じる名前を見つけましたか？クリックしてすぐにコピーしてください！",
+      "必要に応じて繰り返して、パーティー全員の名前が決まり、栄光の準備が整うまで続けます。",
+      "これらの名前を使用して、キャラクターの個性、背景、運命を定義してください！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' para invocar um nome humano lendário.",
+      "Navegue pelos nomes gerados para inspiração ou uso imediato.",
+      "Encontrou um nome que parece perfeito? Clique para copiá-lo instantaneamente!",
+      "Repita conforme necessário até que seu grupo esteja totalmente nomeado e pronto para a glória.",
+      "Use esses nomes para definir a personalidade, o histórico e o destino do seu personagem!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Сгенерировать', чтобы призвать легендарное человеческое имя.",
+      "Просмотрите сгенерированные имена для вдохновения или немедленного использования.",
+      "Нашли имя, которое кажется идеальным? Нажмите, чтобы скопировать его мгновенно!",
+      "Повторяйте по мере необходимости, пока ваша группа не будет полностью названа и готова к славе.",
+      "Используйте эти имена, чтобы определить личность, предысторию и судьбу вашего персонажа!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Are these names lore-accurate for D&D 5e?",
+        "ar": "هل هذه الأسماء دقيقة وفقًا لتقاليد D&D 5e؟",
+        "es": "¿Estos nombres son precisos según la tradición de D&D 5e?",
+        "fr": "Ces noms sont-ils fidèles à la tradition de D&D 5e?",
+        "zh-cn": "这些名字符合D&D 5e的设定吗？",
+        "ja": "これらの名前はD&D 5eの伝承に正確ですか？",
+        "pt": "Esses nomes são precisos para a lore de D&D 5e?",
+        "ru": "Соответствуют ли эти имена лору D&D 5e?"
+      },
+      "answer": {
+        "en": "Yes! Our generator is designed to create names that align with the common naming conventions and cultural influences described for humans across various D&D settings, particularly those found in the Player's Handbook and official lore. We aim for authenticity to help you build a truly immersive character.",
+        "ar": "نعم! تم تصميم مولدنا لإنشاء أسماء تتوافق مع تقاليد التسمية الشائعة والتأثيرات الثقافية الموصوفة للبشر عبر إعدادات D&D المختلفة، وخاصة تلك الموجودة في دليل اللاعب والتقاليد الرسمية. نهدف إلى الأصالة لمساعدتك في بناء شخصية غامرة حقًا.",
+        "es": "¡Sí! Nuestro generador está diseñado para crear nombres que se alinean con las convenciones de nombres comunes y las influencias culturales descritas para los humanos en varios escenarios de D&D, particularmente los que se encuentran en el Manual del Jugador y la tradición oficial. Nuestro objetivo es la autenticidad para ayudarte a construir un personaje verdaderamente inmersivo.",
+        "fr": "Oui ! Notre générateur est conçu pour créer des noms qui s'alignent avec les conventions de nommage courantes et les influences culturelles décrites pour les humains dans divers paramètres de D&D, en particulier ceux trouvés dans le Manuel du Joueur et la tradition officielle. Nous visons l'authenticité pour vous aider à construire un personnage vraiment immersif.",
+        "zh-cn": "是的！我们的生成器旨在创建符合D&D各种设定中人类常用命名习惯和文化影响的名字，特别是《玩家手册》和官方设定中描述的那些。我们的目标是提供真实性，帮助你构建一个真正沉浸式的角色。",
+        "ja": "はい！私たちのジェネレーターは、D&Dの様々な設定、特にプレイヤーズハンドブックや公式伝承に記載されている人間の一般的な命名規則や文化的影響に沿った名前を作成するように設計されています。真に没入感のあるキャラクターを構築できるように、信憑性を目指しています。",
+        "pt": "Sim! Nosso gerador é projetado para criar nomes que se alinham com as convenções de nomenclatura comuns e influências culturais descritas para humanos em vários cenários de D&D, particularmente aqueles encontrados no Livro do Jogador e na lore oficial. Nosso objetivo é a autenticidade para ajudá-lo a construir um personagem verdadeiramente imersivo.",
+        "ru": "Да! Наш генератор разработан для создания имен, которые соответствуют общим правилам именования и культурным влияниям, описанным для людей в различных сеттингах D&D, особенно тем, что содержатся в Руководстве Игрока и официальном лоре. Мы стремимся к аутентичности, чтобы помочь вам создать по-настоящему захватывающего персонажа."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I choose specific cultural styles for the names?",
+        "ar": "هل يمكنني اختيار أنماط ثقافية محددة للأسماء؟",
+        "es": "¿Puedo elegir estilos culturales específicos para los nombres?",
+        "fr": "Puis-je choisir des styles culturels spécifiques pour les noms?",
+        "zh-cn": "我可以为名字选择特定的文化风格吗？",
+        "ja": "名前の特定の文化スタイルを選択できますか？",
+        "pt": "Posso escolher estilos culturais específicos para os nomes?",
+        "ru": "Могу ли я выбрать конкретные культурные стили для имен?"
+      },
+      "answer": {
+        "en": "Currently, the generator provides a broad range of human names inspired by various real-world and fantasy cultures, reflecting the diversity often seen in D&D. While you can't select a specific cultural filter yet, the variety generated should offer plenty of options to fit your character's background.",
+        "ar": "حاليًا، يوفر المولد مجموعة واسعة من الأسماء البشرية المستوحاة من ثقافات متنوعة في العالم الحقيقي والخيال، مما يعكس التنوع الذي غالبًا ما يظهر في D&D. بينما لا يمكنك تحديد فلتر ثقافي معين بعد، فإن التنوع الذي يتم إنشاؤه يجب أن يوفر الكثير من الخيارات لتناسب خلفية شخصيتك.",
+        "es": "Actualmente, el generador proporciona una amplia gama de nombres humanos inspirados en diversas culturas del mundo real y de fantasía, lo que refleja la diversidad que a menudo se ve en D&D. Aunque aún no puedes seleccionar un filtro cultural específico, la variedad generada debería ofrecer muchas opciones para adaptarse al trasfondo de tu personaje.",
+        "fr": "Actuellement, le générateur propose un large éventail de noms humains inspirés de diverses cultures réelles et fantastiques, reflétant la diversité souvent observée dans D&D. Bien que vous ne puissiez pas encore sélectionner un filtre culturel spécifique, la variété générée devrait offrir de nombreuses options pour correspondre à l'arrière-plan de votre personnage.",
+        "zh-cn": "目前，生成器提供了受各种现实世界和奇幻文化启发的人类名字，反映了D&D中常见的多样性。虽然你尚不能选择特定的文化过滤器，但生成的名称多样性应该能提供足够多的选择来符合你的角色背景。",
+        "ja": "現在、ジェネレーターは、D&Dでよく見られる多様性を反映した、様々な現実世界およびファンタジー文化にインスパイアされた幅広い人間の名前を提供しています。特定の文化フィルターを選択することはまだできませんが、生成される多様性は、キャラクターの背景に合う多くの選択肢を提供するはずです。",
+        "pt": "Atualmente, o gerador oferece uma ampla gama de nomes humanos inspirados em várias culturas do mundo real e da fantasia, refletindo a diversidade frequentemente vista em D&D. Embora você ainda não possa selecionar um filtro cultural específico, a variedade gerada deve oferecer muitas opções para se adequar ao histórico do seu personagem.",
+        "ru": "В настоящее время генератор предоставляет широкий спектр человеческих имен, вдохновленных различными реальными и фэнтезийными культурами, отражая разнообразие, часто встречающееся в D&D. Хотя вы пока не можете выбрать конкретный культурный фильтр, сгенерированное разнообразие должно предложить множество вариантов, подходящих для предыстории вашего персонажа."
+      }
+    },
+    {
+      "question": {
+        "en": "Are there names for both male and female characters?",
+        "ar": "هل هناك أسماء لكل من الشخصيات الذكورية والأنثوية؟",
+        "es": "¿Hay nombres para personajes masculinos y femeninos?",
+        "fr": "Y a-t-il des noms pour les personnages masculins et féminins?",
+        "zh-cn": "有男性和女性角色的名字吗？",
+        "ja": "男性キャラクターと女性キャラクターの両方の名前がありますか？",
+        "pt": "Existem nomes para personagens masculinos e femininos?",
+        "ru": "Есть ли имена как для мужских, так и для женских персонажей?"
+      },
+      "answer": {
+        "en": "Absolutely! Our D&D Human Name Generator includes a balanced mix of traditionally masculine, feminine, and gender-neutral names, ensuring you can find the perfect fit for any character concept.",
+        "ar": "بالتأكيد! يتضمن مولد أسماء البشر في D&D لدينا مزيجًا متوازنًا من الأسماء الذكورية والأنثوية والمحايدة جنسيًا، مما يضمن لك العثور على الاسم المثالي لأي مفهوم شخصية.",
+        "es": "¡Absolutamente! Nuestro Generador de Nombres Humanos D&D incluye una mezcla equilibrada de nombres tradicionalmente masculinos, femeninos y de género neutro, asegurando que puedas encontrar el ajuste perfecto para cualquier concepto de personaje.",
+        "fr": "Absolument ! Notre Générateur de Noms Humains D&D comprend un mélange équilibré de noms traditionnellement masculins, féminins et neutres, vous assurant de trouver la correspondance parfaite pour n'importe quel concept de personnage.",
+        "zh-cn": "当然！我们的D&D人类名称生成器包含了传统男性、女性和中性名字的均衡组合，确保你能为任何角色构想找到完美的名字。",
+        "ja": "もちろんです！私たちのD&Dヒューマンネームジェネレーターには、伝統的な男性名、女性名、そしてジェンダーニュートラルな名前がバランスよく含まれており、どんなキャラクターコンセプトにもぴったりの名前を見つけることができます。",
+        "pt": "Absolutamente! Nosso Gerador de Nomes Humanos D&D inclui uma mistura equilibrada de nomes tradicionalmente masculinos, femininos e neutros em termos de gênero, garantindo que você possa encontrar o ajuste perfeito para qualquer conceito de personagem.",
+        "ru": "Абсолютно! Наш Генератор Человеческих Имен D&D включает сбалансированный набор традиционно мужских, женских и гендерно-нейтральных имен, что гарантирует вам идеальный вариант для любой концепции персонажа."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for other fantasy settings or games?",
+        "ar": "هل يمكنني استخدام هذه الأسماء في إعدادات أو ألعاب فانتازيا أخرى؟",
+        "es": "¿Puedo usar estos nombres para otros escenarios o juegos de fantasía?",
+        "fr": "Puis-je utiliser ces noms pour d'autres paramètres ou jeux de fantaisie?",
+        "zh-cn": "我可以将这些名字用于其他的奇幻设定或游戏吗？",
+        "ja": "これらの名前を他のファンタジー設定やゲームで使用できますか？",
+        "pt": "Posso usar esses nomes para outros cenários ou jogos de fantasia?",
+        "ru": "Могу ли я использовать эти имена для других фэнтезийных сеттингов или игр?"
+      },
+      "answer": {
+        "en": "While specifically tailored for D&D, many human names have a universal appeal that can easily fit into various fantasy worlds. Feel free to adapt and use them wherever your imagination takes you!",
+        "ar": "بينما تم تصميمها خصيصًا لـ D&D، فإن العديد من الأسماء البشرية تتمتع بجاذبية عالمية يمكن أن تتناسب بسهولة مع عوالم فانتازيا مختلفة. لا تتردد في تكييفها واستخدامها أينما يأخذك خيالك!",
+        "es": "Aunque están específicamente diseñados para D&D, muchos nombres humanos tienen un atractivo universal que puede encajar fácilmente en varios mundos de fantasía. ¡Siéntete libre de adaptarlos y usarlos dondequiera que tu imaginación te lleve!",
+        "fr": "Bien que spécifiquement adaptés à D&D, de nombreux noms humains ont un attrait universel qui peut facilement s'intégrer dans divers mondes fantastiques. N'hésitez pas à les adapter et à les utiliser partout où votre imagination vous emmène !",
+        "zh-cn": "尽管这些名字是专门为D&D设计的，但许多人类名字具有普遍的吸引力，可以轻松融入各种奇幻世界。请随意修改和使用它们，无论你的想象力将你带往何处！",
+        "ja": "D&Dのために特別に調整されていますが、多くの人間の名前は普遍的な魅力を持っており、様々なファンタジー世界に簡単に適合します。想像力があなたをどこへ連れて行こうとも、自由に名前を適応させて使用してください！",
+        "pt": "Embora especificamente adaptados para D&D, muitos nomes humanos têm um apelo universal que pode facilmente se encaixar em vários mundos de fantasia. Sinta-se à vontade para adaptá-los e usá-los onde quer que sua imaginação o leve!",
+        "ru": "Хотя они специально созданы для D&D, многие человеческие имена обладают универсальной привлекательностью, которая легко вписывается в различные фэнтезийные миры. Не стесняйтесь адаптировать и использовать их везде, куда вас заведет ваше воображение!"
+      }
+    }
+  ]
+}

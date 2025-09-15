@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Fortnite Name Generator",
+    "ar": "مولد أسماء فورتنايت",
+    "es": "Generador de Nombres de Fortnite",
+    "fr": "Générateur de Noms Fortnite",
+    "zh-cn": "堡垒之夜名字生成器",
+    "ja": "フォートナイト名前ジェネレーター",
+    "pt": "Gerador de Nomes Fortnite",
+    "ru": "Генератор Ников Fortnite"
+  },
+  "description": {
+    "en": "Tired of generic usernames? Want to stand out in Tilted Towers or make your mark in the Battle Royale? Our Fortnite Name Generator is your ultimate tool for crafting unique, epic, and memorable in-game names! Get ready to drop in style with a name that strikes fear into your opponents and awe into your teammates.",
+    "ar": "هل سئمت من أسماء المستخدمين العادية؟ هل تريد التميز في Tilted Towers أو ترك بصمتك في Battle Royale؟ مولد أسماء Fortnite الخاص بنا هو أداتك النهائية لصياغة أسماء داخل اللعبة فريدة وملحمية ولا تُنسى! استعد للهبوط بأناقة باسم يثير الخوف في خصومك والرهبة في زملائك.",
+    "es": "¿Cansado de nombres de usuario genéricos? ¿Quieres destacar en Tilted Towers o dejar tu huella en el Battle Royale? ¡Nuestro Generador de Nombres de Fortnite es tu herramienta definitiva para crear nombres únicos, épicos y memorables en el juego! Prepárate para caer con estilo con un nombre que infunda miedo en tus oponentes y asombro en tus compañeros de equipo.",
+    "fr": "Fatigué des noms d'utilisateur génériques ? Envie de vous démarquer à Tilted Towers ou de laisser votre empreinte dans le Battle Royale ? Notre Générateur de Noms Fortnite est votre outil ultime pour créer des noms de jeu uniques, épiques et mémorables ! Préparez-vous à atterrir avec style avec un nom qui inspire la peur à vos adversaires et l'admiration à vos coéquipiers.",
+    "zh-cn": "厌倦了平庸的用户名？想在斜塔中脱颖而出，或者在大逃杀中留下你的印记？我们的堡垒之夜名字生成器是你的终极工具，可以为你打造独特、史诗且令人难忘的游戏内名字！准备好以时尚的方式空降，用一个让你的对手胆寒、队友惊叹的名字。",
+    "ja": "ありきたりなユーザー名にうんざりしていませんか？ティルテッド・タワーで目立ちたい、それともバトルロイヤルで名を馳せたいですか？私たちのフォートナイト名前ジェネレーターは、ユニークで壮大、そして記憶に残るゲーム内名を作成するための究極のツールです！対戦相手に恐怖を、チームメイトに畏敬の念を与える名前でスタイリッシュに降下する準備をしましょう。",
+    "pt": "Cansado de nomes de usuário genéricos? Quer se destacar em Tilted Towers ou deixar sua marca no Battle Royale? Nosso Gerador de Nomes Fortnite é sua ferramenta definitiva para criar nomes de jogo únicos, épicos e memoráveis! Prepare-se para cair com estilo com um nome que inspira medo em seus oponentes e admiração em seus companheiros de equipe.",
+    "ru": "Устали от обычных никнеймов? Хотите выделиться в Tilted Towers или оставить свой след в Battle Royale? Наш Генератор Ников Fortnite — ваш идеальный инструмент для создания уникальных, эпических и запоминающихся игровых имен! Приготовьтесь высаживаться стильно с ником, который вселяет страх в ваших противников и восхищение в ваших товарищей по команде."
+  },
+  "slug": "fortnite-name-generator",
+  "prompt": {
+    "en": "Generate a Fortnite name",
+    "ar": "قم بإنشاء اسم فورتنايت",
+    "es": "Generar un nombre de Fortnite",
+    "fr": "Générer un nom Fortnite",
+    "zh-cn": "生成一个堡垒之夜名字",
+    "ja": "フォートナイトの名前を生成する",
+    "pt": "Gerar um nome Fortnite",
+    "ru": "Сгенерировать ник Fortnite"
+  },
+  "icon": "🔫",
+  "introduction": {
+    "en": "Your Fortnite name is more than just a label; it's your identity, your battle cry, and your legend in the making. A great name can boost your confidence, intimidate foes, and even spark friendships with fellow players. Whether you're a seasoned pro, a casual builder, or a fresh new default, our generator will help you forge a name that truly represents your playstyle and personality. From fierce warriors to cunning strategists, get ready to find the perfect moniker to dominate the map!",
+    "ar": "اسمك في Fortnite هو أكثر من مجرد تسمية؛ إنه هويتك، صرخة معركتك، وأسطورتك قيد التكوين. يمكن لاسم رائع أن يعزز ثقتك، ويرعب الأعداء، بل ويشعل صداقات مع زملائك اللاعبين. سواء كنت محترفًا متمرسًا، أو بانيًا عاديًا، أو لاعبًا جديدًا، سيساعدك مولدنا على صياغة اسم يمثل أسلوب لعبك وشخصيتك حقًا. من المحاربين الشرسين إلى الاستراتيجيين الماكرين، استعد للعثور على اللقب المثالي للسيطرة على الخريطة!",
+    "es": "Tu nombre de Fortnite es más que una etiqueta; es tu identidad, tu grito de guerra y tu leyenda en ciernes. Un gran nombre puede aumentar tu confianza, intimidar a los enemigos e incluso forjar amistades con otros jugadores. Ya seas un profesional experimentado, un constructor casual o un novato, nuestro generador te ayudará a forjar un nombre que realmente represente tu estilo de juego y personalidad. ¡Desde guerreros feroces hasta estrategas astutos, prepárate para encontrar el apodo perfecto para dominar el mapa!",
+    "fr": "Votre nom Fortnite est plus qu'une simple étiquette ; c'est votre identité, votre cri de guerre et votre légende en devenir. Un excellent nom peut renforcer votre confiance, intimider vos ennemis et même créer des amitiés avec d'autres joueurs. Que vous soyez un pro chevronné, un constructeur occasionnel ou un nouveau joueur, notre générateur vous aidera à forger un nom qui représente vraiment votre style de jeu et votre personnalité. Des guerriers féroces aux stratèges astucieux, préparez-vous à trouver le surnom parfait pour dominer la carte !",
+    "zh-cn": "你的堡垒之夜名字不仅仅是一个标签；它是你的身份，你的战吼，以及你正在创造的传奇。一个好名字可以提升你的自信，恐吓敌人，甚至与队友建立友谊。无论你是经验丰富的老手、休闲建造者还是新来的默认皮肤玩家，我们的生成器都将帮助你打造一个真正代表你的玩法风格和个性的名字。从凶猛的战士到狡猾的战略家，准备好找到完美的绰号来称霸地图吧！",
+    "ja": "フォートナイトの名前は単なるラベルではありません。それはあなたのアイデンティティであり、鬨の声であり、伝説を築くためのものです。素晴らしい名前は、自信を高め、敵を威嚇し、他のプレイヤーとの友情を育むことさえできます。ベテランのプロ、カジュアルなビルダー、あるいは新米のデフォルトスキンプレイヤーであろうと、私たちのジェネレーターはあなたのプレイスタイルと個性を真に表現する名前を鍛造するのに役立ちます。獰猛な戦士から狡猾な戦略家まで、マップを支配する完璧な名前を見つける準備をしましょう！",
+    "pt": "Seu nome no Fortnite é mais do que apenas um rótulo; é sua identidade, seu grito de guerra e sua lenda em construção. Um ótimo nome pode aumentar sua confiança, intimidar inimigos e até mesmo criar amizades com outros jogadores. Seja você um profissional experiente, um construtor casual ou um novo 'default', nosso gerador o ajudará a forjar um nome que realmente represente seu estilo de jogo e personalidade. De guerreiros ferozes a estrategistas astutos, prepare-se para encontrar o apelido perfeito para dominar o mapa!",
+    "ru": "Ваш ник в Fortnite — это больше, чем просто метка; это ваша личность, ваш боевой клич и ваша зарождающаяся легенда. Отличное имя может повысить вашу уверенность, запугать врагов и даже завязать дружбу с другими игроками. Будь вы опытным профи, обычным строителем или новичком, наш генератор поможет вам придумать имя, которое по-настоящему отражает ваш стиль игры и личность. От свирепых воинов до хитрых стратегов, приготовьтесь найти идеальный ник, чтобы доминировать на карте!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button to unleash a storm of creative Fortnite names.",
+      "Browse the generated suggestions for that perfect, battle-ready moniker.",
+      "See a name you love? Hit 'Copy' and paste it directly into your game!",
+      "Don't settle! Keep generating until you find the name that screams 'Victory Royale'!",
+      "Share your awesome new name with your squad and let the legend begin!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' لإطلاق عاصفة من أسماء Fortnite الإبداعية.",
+      "تصفح الاقتراحات التي تم إنشاؤها للحصول على اللقب المثالي الجاهز للمعركة.",
+      "هل رأيت اسمًا يعجبك؟ اضغط على 'نسخ' والصقه مباشرة في لعبتك!",
+      "لا تستسلم! استمر في الإنشاء حتى تجد الاسم الذي يصرخ 'Victory Royale'!",
+      "شارك اسمك الجديد الرائع مع فرقتك ودع الأسطورة تبدأ!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' para desatar una tormenta de nombres creativos de Fortnite.",
+      "Explora las sugerencias generadas para encontrar ese apodo perfecto y listo para la batalla.",
+      "¿Ves un nombre que te encanta? ¡Pulsa 'Copiar' y pégalo directamente en tu juego!",
+      "¡No te conformes! Sigue generando hasta que encuentres el nombre que grite '¡Victoria Magistral'!",
+      "¡Comparte tu increíble nuevo nombre con tu escuadrón y que comience la leyenda!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' pour déchaîner une tempête de noms Fortnite créatifs.",
+      "Parcourez les suggestions générées pour trouver ce surnom parfait, prêt pour la bataille.",
+      "Vous voyez un nom que vous aimez ? Cliquez sur 'Copier' et collez-le directement dans votre jeu !",
+      "Ne vous contentez pas ! Continuez à générer jusqu'à ce que vous trouviez le nom qui crie 'Victoire Royale' !",
+      "Partagez votre nouveau nom génial avec votre escouade et que la légende commence !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮，释放一场创意十足的堡垒之夜名字风暴。",
+      "浏览生成的建议，寻找那个完美、随时准备战斗的绰号。",
+      "看到你喜欢的名字了吗？点击“复制”并直接粘贴到你的游戏中！",
+      "不要将就！持续生成，直到找到那个高喊“胜利皇冠”的名字！",
+      "与你的小队分享你超棒的新名字，让传奇开始吧！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックして、クリエイティブなフォートナイト名の嵐を解き放ちましょう。",
+      "生成された候補を閲覧して、完璧な、戦いに備えた名前を見つけてください。",
+      "好きな名前が見つかりましたか？「コピー」を押して、ゲームに直接貼り付けてください！",
+      "妥協しないでください！「ビクトリーロイヤル！」と叫ぶ名前が見つかるまで生成し続けてください！",
+      "あなたの素晴らしい新しい名前をスクワッドと共有して、伝説を始めましょう！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' para liberar uma tempestade de nomes criativos de Fortnite.",
+      "Navegue pelas sugestões geradas para encontrar aquele apelido perfeito e pronto para a batalha.",
+      "Viu um nome que você ama? Clique em 'Copiar' e cole-o diretamente no seu jogo!",
+      "Não se contente! Continue gerando até encontrar o nome que grita 'Vitória Royale'!",
+      "Compartilhe seu novo nome incrível com sua equipe e deixe a lenda começar!"
+    ],
+    "ru": [
+      "Нажмите кнопку 'Сгенерировать', чтобы вызвать бурю креативных ников Fortnite.",
+      "Просмотрите сгенерированные предложения в поисках идеального, готового к битве прозвища.",
+      "Понравился ник? Нажмите 'Копировать' и вставьте его прямо в свою игру!",
+      "Не останавливайтесь! Продолжайте генерировать, пока не найдете ник, который кричит 'Королевская победа'!",
+      "Поделитесь своим потрясающим новым ником с отрядом, и пусть начнется легенда!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this Fortnite Name Generator truly free?",
+        "ar": "هل مولد أسماء Fortnite هذا مجاني حقًا؟",
+        "es": "¿Este Generador de Nombres de Fortnite es realmente gratis?",
+        "fr": "Ce Générateur de Noms Fortnite est-il vraiment gratuit?",
+        "zh-cn": "这个堡垒之夜名字生成器真的是免费的吗？",
+        "ja": "このフォートナイト名前ジェネレーターは本当に無料ですか？",
+        "pt": "Este Gerador de Nomes Fortnite é realmente gratuito?",
+        "ru": "Этот Генератор Ников Fortnite действительно бесплатный?"
+      },
+      "answer": {
+        "en": "Absolutely! We believe everyone deserves an epic in-game name without spending a single V-Buck. Generate away, Battle Royale champion!",
+        "ar": "بالتأكيد! نحن نؤمن بأن الجميع يستحق اسمًا ملحميًا داخل اللعبة دون إنفاق V-Buck واحد. انطلق في الإنشاء يا بطل Battle Royale!",
+        "es": "¡Absolutamente! Creemos que todos merecen un nombre épico en el juego sin gastar un solo V-Buck. ¡Genera sin parar, campeón de Battle Royale!",
+        "fr": "Absolument ! Nous pensons que tout le monde mérite un nom épique dans le jeu sans dépenser un seul V-Buck. Générez à volonté, champion de Battle Royale !",
+        "zh-cn": "当然！我们相信每个人都应该拥有一个史诗级的游戏内名字，而无需花费一分钱V币。尽情生成吧，大逃杀冠军！",
+        "ja": "もちろんです！私たちは、誰もがV-Buckを1つも使わずに壮大なゲーム内名を持つ価値があると信じています。さあ、バトルロイヤルチャンピオン、どんどん生成してください！",
+        "pt": "Absolutamente! Acreditamos que todos merecem um nome épico no jogo sem gastar um único V-Buck. Gere à vontade, campeão do Battle Royale!",
+        "ru": "Абсолютно! Мы считаем, что каждый заслуживает эпического игрового имени, не тратя ни одного V-бакса. Генерируйте вволю, чемпион Battle Royale!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names on any platform (PC, Console, Mobile)?",
+        "ar": "هل يمكنني استخدام هذه الأسماء على أي منصة (الكمبيوتر، وحدة التحكم، الهاتف المحمول)؟",
+        "es": "¿Puedo usar estos nombres en cualquier plataforma (PC, Consola, Móvil)?",
+        "fr": "Puis-je utiliser ces noms sur n'importe quelle plateforme (PC, Console, Mobile) ?",
+        "zh-cn": "我可以在任何平台（PC、主机、移动设备）上使用这些名字吗？",
+        "ja": "これらの名前はどのプラットフォーム（PC、コンソール、モバイル）でも使用できますか？",
+        "pt": "Posso usar esses nomes em qualquer plataforma (PC, Console, Mobile)?",
+        "ru": "Могу ли я использовать эти ники на любой платформе (ПК, консоль, мобильный телефон)?"
+      },
+      "answer": {
+        "en": "Yes! The names generated are designed to be compatible with Fortnite's naming conventions across all platforms. Just copy and paste!",
+        "ar": "نعم! الأسماء التي تم إنشاؤها مصممة لتكون متوافقة مع قواعد تسمية Fortnite عبر جميع المنصات. فقط انسخ والصق!",
+        "es": "¡Sí! Los nombres generados están diseñados para ser compatibles con las convenciones de nombres de Fortnite en todas las plataformas. ¡Solo copia y pega!",
+        "fr": "Oui ! Les noms générés sont conçus pour être compatibles avec les conventions de nommage de Fortnite sur toutes les plateformes. Il suffit de copier-coller !",
+        "zh-cn": "是的！生成的名称旨在与堡垒之夜在所有平台上的命名约定兼容。只需复制并粘贴即可！",
+        "ja": "はい！生成された名前は、すべてのプラットフォームでフォートナイトの命名規則と互換性があるように設計されています。コピーして貼り付けるだけです！",
+        "pt": "Sim! Os nomes gerados são projetados para serem compatíveis com as convenções de nomes do Fortnite em todas as plataformas. Basta copiar e colar!",
+        "ru": "Да! Сгенерированные ники разработаны для совместимости с правилами именования Fortnite на всех платформах. Просто скопируйте и вставьте!"
+      }
+    },
+    {
+      "question": {
+        "en": "How many names can I generate?",
+        "ar": "كم عدد الأسماء التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres puedo generar?",
+        "fr": "Combien de noms puis-je générer?",
+        "zh-cn": "我可以生成多少个名字？",
+        "ja": "いくつの名前を生成できますか？",
+        "pt": "Quantos nomes posso gerar?",
+        "ru": "Сколько ников я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "As many as it takes to secure that Victory Royale! There's no limit to the number of unique Fortnite names you can conjure up. Keep clicking until you find the perfect one that makes you feel like a true legend.",
+        "ar": "بقدر ما يتطلبه الأمر لتأمين Victory Royale! لا يوجد حد لعدد أسماء Fortnite الفريدة التي يمكنك ابتكارها. استمر في النقر حتى تجد الاسم المثالي الذي يجعلك تشعر وكأنك أسطورة حقيقية.",
+        "es": "¡Tantos como sea necesario para asegurar esa Victoria Magistral! No hay límite en la cantidad de nombres únicos de Fortnite que puedes conjurar. Sigue haciendo clic hasta que encuentres el perfecto que te haga sentir como una verdadera leyenda.",
+        "fr": "Autant qu'il en faut pour assurer cette Victoire Royale ! Il n'y a pas de limite au nombre de noms Fortnite uniques que vous pouvez créer. Continuez à cliquer jusqu'à ce que vous trouviez celui qui vous fait sentir comme une véritable légende.",
+        "zh-cn": "随便你生成多少个，直到拿到胜利皇冠！你可以生成无限数量的独特堡垒之夜名字。持续点击，直到找到那个让你感觉自己是真正传奇的完美名字。",
+        "ja": "ビクトリーロイヤルを確保するのに必要なだけ！ユニークなフォートナイト名を生成する数に制限はありません。真のレジェンドになった気分になる完璧な名前が見つかるまでクリックし続けてください。",
+        "pt": "Quantos forem necessários para garantir aquela Vitória Royale! Não há limite para o número de nomes únicos de Fortnite que você pode conjurar. Continue clicando até encontrar o perfeito que faça você se sentir uma verdadeira lenda.",
+        "ru": "Столько, сколько потребуется, чтобы одержать Королевскую победу! Количество уникальных ников Fortnite, которые вы можете придумать, не ограничено. Продолжайте нажимать, пока не найдете идеальный, который заставит вас почувствовать себя настоящей легендой."
+      }
+    },
+    {
+      "question": {
+        "en": "Are the generated names actually any good?",
+        "ar": "هل الأسماء التي تم إنشاؤها جيدة حقًا؟",
+        "es": "¿Los nombres generados son realmente buenos?",
+        "fr": "Les noms générés sont-ils vraiment bons?",
+        "zh-cn": "生成的名称真的好吗？",
+        "ja": "生成された名前は実際に良いものですか？",
+        "pt": "Os nomes gerados são realmente bons?",
+        "ru": "Действительно ли сгенерированные ники хороши?"
+      },
+      "answer": {
+        "en": "We've loaded our generator with a vast database of Fortnite-inspired words, styles, and themes to give you names that are both creative and relevant. While taste is subjective, we're confident you'll find plenty of awesome options. If not, just hit 'Generate' again!",
+        "ar": "لقد قمنا بتحميل مولدنا بقاعدة بيانات واسعة من الكلمات والأنماط والمواضيع المستوحاة من Fortnite لنقدم لك أسماء إبداعية وذات صلة. بينما الذوق شخصي، نحن واثقون من أنك ستجد الكثير من الخيارات الرائعة. إذا لم يكن كذلك، فقط اضغط على 'إنشاء' مرة أخرى!",
+        "es": "Hemos cargado nuestro generador con una vasta base de datos de palabras, estilos y temas inspirados en Fortnite para darte nombres que son tanto creativos como relevantes. Aunque el gusto es subjetivo, confiamos en que encontrarás muchas opciones increíbles. Si no, ¡simplemente pulsa 'Generar' de nuevo!",
+        "fr": "Nous avons chargé notre générateur avec une vaste base de données de mots, de styles et de thèmes inspirés de Fortnite pour vous donner des noms à la fois créatifs et pertinents. Bien que le goût soit subjectif, nous sommes convaincus que vous trouverez de nombreuses options géniales. Sinon, il suffit de cliquer à nouveau sur 'Générer' !",
+        "zh-cn": "我们为生成器加载了大量受堡垒之夜启发的词汇、风格和主题，为你提供既有创意又相关的名字。虽然品味是主观的，但我们相信你会找到很多很棒的选择。如果不是，只需再次点击“生成”！",
+        "ja": "フォートナイトにインスパイアされた膨大な単語、スタイル、テーマをジェネレーターに搭載し、創造的で関連性の高い名前を提供します。好みは主観的ですが、素晴らしい選択肢がたくさん見つかると確信しています。もしそうでなければ、「生成」をもう一度押してください！",
+        "pt": "Carregamos nosso gerador com um vasto banco de dados de palavras, estilos e temas inspirados no Fortnite para lhe dar nomes que são criativos e relevantes. Embora o gosto seja subjetivo, estamos confiantes de que você encontrará muitas opções incríveis. Se não, basta clicar em 'Gerar' novamente!",
+        "ru": "Мы загрузили наш генератор обширной базой данных слов, стилей и тем, вдохновленных Fortnite, чтобы дать вам ники, которые являются как креативными, так и актуальными. Хотя вкус субъективен, мы уверены, что вы найдете множество потрясающих вариантов. Если нет, просто нажмите 'Сгенерировать' еще раз!"
+      }
+    },
+    {
+      "question": {
+        "en": "Will a cool name help me get more Victory Royales?",
+        "ar": "هل سيساعدني الاسم الرائع في الحصول على المزيد من Victory Royales؟",
+        "es": "¿Un nombre genial me ayudará a conseguir más Victorias Magistrales?",
+        "fr": "Un nom sympa m'aidera-t-il à obtenir plus de Victoires Royales ?",
+        "zh-cn": "一个酷炫的名字能帮我获得更多胜利皇冠吗？",
+        "ja": "クールな名前はビクトリーロイヤルを増やすのに役立ちますか？",
+        "pt": "Um nome legal me ajudará a conseguir mais Vitórias Royales?",
+        "ru": "Поможет ли крутой ник получить больше Королевских побед?"
+      },
+      "answer": {
+        "en": "While a legendary name can certainly boost your morale and intimidate opponents, ultimate victory still comes down to skill, strategy, and a bit of luck. But hey, looking good while you're building and battling never hurts!",
+        "ar": "بينما يمكن لاسم أسطوري بالتأكيد أن يعزز معنوياتك ويرعب الخصوم، فإن النصر النهائي لا يزال يعتمد على المهارة والاستراتيجية وقليل من الحظ. ولكن، أن تبدو جيدًا أثناء البناء والقتال لا يضر أبدًا!",
+        "es": "Si bien un nombre legendario puede aumentar tu moral e intimidar a los oponentes, la victoria final aún depende de la habilidad, la estrategia y un poco de suerte. Pero bueno, ¡lucir bien mientras construyes y luchas nunca está de más!",
+        "fr": "Bien qu'un nom légendaire puisse certainement stimuler votre moral et intimider vos adversaires, la victoire finale dépend toujours de l'habileté, de la stratégie et d'un peu de chance. Mais bon, avoir l'air bien pendant que vous construisez et combattez ne fait jamais de mal !",
+        "zh-cn": "虽然一个传奇的名字肯定能提升你的士气并恐吓对手，但最终的胜利仍取决于技能、策略和一点运气。不过，在建造和战斗时看起来很酷肯定不会有坏处！",
+        "ja": "伝説的な名前は確かに士気を高め、対戦相手を威嚇することができますが、究極の勝利はやはりスキル、戦略、そして少しの運にかかっています。しかし、建築や戦闘中に格好良く見えることは決して悪いことではありません！",
+        "pt": "Embora um nome lendário possa certamente aumentar sua moral e intimidar os oponentes, a vitória final ainda depende de habilidade, estratégia e um pouco de sorte. Mas ei, parecer bem enquanto você constrói e luta nunca faz mal!",
+        "ru": "Хотя легендарный ник, безусловно, может поднять ваш боевой дух и запугать противников, окончательная победа по-прежнему зависит от навыков, стратегии и немного удачи. Но, эй, хорошо выглядеть во время строительства и сражений никогда не помешает!"
+      }
+    }
+  ]
+}

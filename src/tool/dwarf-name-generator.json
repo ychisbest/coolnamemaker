@@ -1,0 +1,214 @@
+{
+  "name": {
+    "en": "Dwarf Name Generator",
+    "ar": "مولد أسماء الأقزام",
+    "es": "Generador de Nombres de Enanos",
+    "fr": "Générateur de Noms de Nains",
+    "zh-cn": "矮人名称生成器",
+    "ja": "ドワーフ名ジェネレーター",
+    "pt": "Gerador de Nomes de Anões",
+    "ru": "Генератор Гномьих Имен"
+  },
+  "description": {
+    "en": "Forge a legendary identity for your stout, axe-wielding hero with our Dwarf Name Generator! Whether you're crafting a character for a fantasy epic, a tabletop RPG, or just need a sturdy, authentic dwarven moniker, our generator will hew out names worthy of the deepest mines and grandest halls. Get ready to unearth names as solid as granite and as rich as a vein of gold!",
+    "ar": "اصنع هوية أسطورية لبطلتك القوية التي تحمل الفأس باستخدام مولد أسماء الأقزام! سواء كنت تصنع شخصية لملحمة خيالية، أو لعبة تقمص أدوار على الطاولة، أو تحتاج فقط إلى اسم قزم أصيل وقوي، سيقوم مولدنا بنحت أسماء تستحق أعمق المناجم وأروع القاعات. استعد لاكتشاف أسماء صلبة كالصخر وغنية كوريد الذهب!",
+    "es": "¡Forja una identidad legendaria para tu robusto héroe empuñador de hachas con nuestro Generador de Nombres de Enanos! Ya sea que estés creando un personaje para una epopeya de fantasía, un juego de rol de mesa, o simplemente necesites un apodo enano robusto y auténtico, nuestro generador tallará nombres dignos de las minas más profundas y los salones más grandiosos. ¡Prepárate para desenterrar nombres tan sólidos como el granito y tan ricos como una veta de oro!",
+    "fr": "Forge une identité légendaire pour ton robuste héros manieur de hache avec notre Générateur de Noms de Nains ! Que tu crées un personnage pour une épopée fantastique, un jeu de rôle sur table, ou que tu aies simplement besoin d'un surnom nain robuste et authentique, notre générateur taillera des noms dignes des mines les plus profondes et des plus grandes salles. Prépare-toi à déterrer des noms aussi solides que le granite et aussi riches qu'une veine d'or !",
+    "zh-cn": "使用我们的矮人名称生成器，为你的强壮、挥舞战斧的英雄打造一个传奇身份！无论你是为奇幻史诗、桌面角色扮演游戏创造角色，还是仅仅需要一个坚实、地道的矮人绰号，我们的生成器都将为你雕琢出配得上最深矿井和最宏伟殿堂的名字。准备好挖掘出像花岗岩一样坚固、像金矿一样丰富的名字吧！",
+    "ja": "当社のドワーフ名ジェネレーターで、頑丈な斧使いのヒーローに伝説的なアイデンティティを築きましょう！ファンタジー叙事詩のキャラクターを作成する場合でも、テーブルトップRPGの場合でも、単に頑丈で本物のドワーフの名前が必要な場合でも、当社のジェネレーターは、最も深い鉱山や壮大なホールにふさわしい名前を彫り出します。花崗岩のように堅固で、金脈のように豊かな名前を発掘する準備をしてください！",
+    "pt": "Forje uma identidade lendária para seu herói robusto e empunhador de machado com nosso Gerador de Nomes de Anões! Seja você criando um personagem para uma épica de fantasia, um RPG de mesa, ou apenas precisando de um apelido anão robusto e autêntico, nosso gerador esculpirá nomes dignos das minas mais profundas e dos salões mais grandiosos. Prepare-se para desenterrar nomes tão sólidos quanto granito e tão ricos quanto uma veia de ouro!",
+    "ru": "Выкуйте легендарную личность для своего крепкого, владеющего топором героя с помощью нашего Генератора Гномьих Имен! Независимо от того, создаете ли вы персонажа для фэнтезийной эпопеи, настольной ролевой игры или просто нуждаетесь в крепком, аутентичном гномьем прозвище, наш генератор высечет имена, достойные самых глубоких шахт и величайших залов. Приготовьтесь раскопать имена, твердые как гранит и богатые, как золотая жила!"
+  },
+  "slug": "dwarf-name-generator",
+  "prompt": {
+    "en": "Generate a dwarf name",
+    "ar": "قم بإنشاء اسم قزم",
+    "es": "Generar un nombre de enano",
+    "fr": "Générer un nom de nain",
+    "zh-cn": "生成一个矮人名称",
+    "ja": "ドワーフ名を生成する",
+    "pt": "Gerar um nome de anão",
+    "ru": "Сгенерировать гномье имя"
+  },
+  "icon": "⛏️",
+  "introduction": {
+    "en": "From the deep earth they come, strong of arm and even stronger of will! Dwarves are renowned for their craftsmanship, their love of gold, and their unyielding spirit. A dwarf's name is not just a label; it's a testament to their lineage, their deeds, and the very stone from which they sprang. Our Dwarf Name Generator is your pickaxe into the rich veins of dwarven lore, ready to unearth names that echo with the clang of hammer on anvil, the roar of battle, and the quiet dignity of a mountain home. Find a name that speaks of ancient lineage, powerful deeds, or a destiny yet to be carved!",
+    "ar": "من أعماق الأرض يأتون، أقوياء الساعد وأقوى إرادة! الأقزام مشهورون بحرفيتهم، وحبهم للذهب، وروحهم التي لا تلين. اسم القزم ليس مجرد تسمية؛ إنه شهادة على نسبهم، وأفعالهم، والحجر الذي نشأوا منه. مولد أسماء الأقزام لدينا هو فأسك الذي يغوص في عروق تقاليد الأقزام الغنية، جاهزًا لاكتشاف أسماء تردد صدى طرق المطرقة على السندان، وزئير المعركة، والكرامة الهادئة لمنزل جبلي. ابحث عن اسم يتحدث عن نسب قديم، وأفعال قوية، أو مصير لم يتم نحته بعد!",
+    "es": "¡De las profundidades de la tierra vienen, fuertes de brazo y aún más fuertes de voluntad! Los enanos son famosos por su artesanía, su amor por el oro y su espíritu indomable. El nombre de un enano no es solo una etiqueta; es un testimonio de su linaje, sus hazañas y la misma piedra de la que surgieron. Nuestro Generador de Nombres de Enanos es tu pico en las ricas vetas de la tradición enana, listo para desenterrar nombres que resuenan con el tintineo del martillo sobre el yunque, el rugido de la batalla y la tranquila dignidad de un hogar en la montaña. ¡Encuentra un nombre que hable de linaje antiguo, hechos poderosos o un destino aún por forjar!",
+    "fr": "Des profondeurs de la terre ils viennent, forts de bras et plus forts encore de volonté ! Les nains sont réputés pour leur artisanat, leur amour de l'or et leur esprit indomptable. Le nom d'un nain n'est pas seulement une étiquette ; c'est un témoignage de leur lignée, de leurs actes et de la pierre même d'où ils sont issus. Notre Générateur de Noms de Nains est votre pioche dans les riches filons de la tradition naine, prêt à déterrer des noms qui résonnent avec le cliquetis du marteau sur l'enclume, le rugissement de la bataille et la dignité tranquille d'un foyer montagnard. Trouvez un nom qui parle d'un lignage ancien, d'actes puissants ou d'un destin encore à forger !",
+    "zh-cn": "他们来自地底深处，臂膀强健，意志更加坚定！矮人以其精湛的工艺、对黄金的热爱和不屈不挠的精神而闻名。一个矮人的名字不仅仅是一个称呼；它是他们血统、功绩以及他们所来自的岩石的证明。我们的矮人名称生成器是您深入矮人传说的富矿的镐，准备挖掘出那些回荡着铁锤敲打铁砧声、战吼声以及山中家园宁静尊严的名字。寻找一个能讲述古老血统、强大功绩或尚未铸就的命运的名字吧！",
+    "ja": "彼らは深い大地から来た、腕力は強く、意志はさらに強い！ドワーフはその職人技、金への愛、そして不屈の精神で知られています。ドワーフの名前は単なるラベルではありません。それは彼らの血統、功績、そして彼らが生まれた岩そのものの証です。当社のドワーフ名ジェネレーターは、ドワーフの伝承の豊かな鉱脈に打ち込むあなたのつるはしであり、金床にハンマーが打ち鳴らされる音、戦いの轟音、そして山奥の住処の静かな尊厳を響かせる名前を発掘する準備ができています。古代の血統、強力な功績、またはまだ刻まれていない運命を語る名前を見つけてください！",
+    "pt": "Das profundezas da terra eles vêm, fortes de braço e ainda mais fortes de vontade! Os anões são renomados por seu artesanato, seu amor pelo ouro e seu espírito inabalável. O nome de um anão não é apenas um rótulo; é um testemunho de sua linhagem, seus feitos e da própria pedra da qual surgiram. Nosso Gerador de Nomes de Anões é sua picareta nas ricas veias da tradição anã, pronto para desenterrar nomes que ecoam com o clangor do martelo na bigorna, o rugido da batalha e a dignidade tranquila de um lar na montanha. Encontre um nome que fale de linhagem antiga, feitos poderosos ou um destino ainda a ser forjado!",
+    "ru": "Из глубоких недр земли они приходят, сильные духом и еще сильнее волей! Гномы известны своим мастерством, любовью к золоту и непоколебимым духом. Имя гнома — это не просто ярлык; это свидетельство их родословной, их деяний и самой скалы, из которой они произошли. Наш Генератор Гномьих Имен — это ваша кирка в богатые жилы гномьих преданий, готовая раскопать имена, которые отзываются звоном молота по наковальне, ревом битвы и тихим достоинством горного дома. Найдите имя, которое говорит о древнем роде, могучих деяниях или судьбе, которую еще предстоит выковать!"
+  },
+  "howToUse": {
+    "en": [
+      "Click the 'Generate' button to summon forth a dwarven name.",
+      "Scroll through the list of names, each one forged with care.",
+      "Found a name that resonates with your dwarven soul? Copy it!",
+      "Use your new name to name your RPG character, write a fantasy story, or even for your online gaming avatar.",
+      "Repeat as many times as needed to find the perfect name for every dwarf in your clan!"
+    ],
+    "ar": [
+      "انقر على زر 'إنشاء' لاستدعاء اسم قزم.",
+      "مرر عبر قائمة الأسماء، كل واحد منها تم صياغته بعناية.",
+      "هل وجدت اسمًا يتردد صداه مع روحك القزمية؟ انسخه!",
+      "استخدم اسمك الجديد لتسمية شخصيتك في لعبة تقمص الأدوار، أو كتابة قصة خيالية، أو حتى لتسمية صورتك الرمزية في الألعاب عبر الإنترنت.",
+      "كرر العملية عدة مرات حسب الحاجة للعثور على الاسم المثالي لكل قزم في عشيرتك!"
+    ],
+    "es": [
+      "Haz clic en el botón 'Generar' para invocar un nombre enano.",
+      "Desplázate por la lista de nombres, cada uno forjado con cuidado.",
+      "¿Encontraste un nombre que resuena con tu alma enana? ¡Cópialo!",
+      "Usa tu nuevo nombre para tu personaje de RPG, para escribir una historia de fantasía o incluso para tu avatar de juego en línea.",
+      "¡Repite tantas veces como sea necesario para encontrar el nombre perfecto para cada enano de tu clan!"
+    ],
+    "fr": [
+      "Cliquez sur le bouton 'Générer' pour invoquer un nom de nain.",
+      "Faites défiler la liste des noms, chacun forgé avec soin.",
+      "Vous avez trouvé un nom qui résonne avec votre âme naine ? Copiez-le !",
+      "Utilisez votre nouveau nom pour nommer votre personnage de JDR, écrire une histoire fantastique ou même pour votre avatar de jeu en ligne.",
+      "Répétez autant de fois que nécessaire pour trouver le nom parfait pour chaque nain de votre clan !"
+    ],
+    "zh-cn": [
+      "点击“生成”按钮，召唤一个矮人名称。",
+      "滚动浏览名称列表，每一个都经过精心锻造。",
+      "找到一个与你的矮人灵魂产生共鸣的名字了吗？复制它！",
+      "使用你的新名字来命名你的角色扮演游戏角色、编写奇幻故事，甚至作为你的在线游戏头像。",
+      "根据需要重复操作，为你的氏族中的每个矮人找到完美的名字！"
+    ],
+    "ja": [
+      "「生成」ボタンをクリックしてドワーフ名を召喚してください。",
+      "慎重に鍛造された名前のリストをスクロールしてください。",
+      "ドワーフの魂に響く名前を見つけましたか？コピーしてください！",
+      "新しい名前をRPGのキャラクター名、ファンタジー物語の執筆、またはオンラインゲームのアバター名として使用してください。",
+      "クランのすべてのドワーフにぴったりの名前が見つかるまで、必要なだけ繰り返してください！"
+    ],
+    "pt": [
+      "Clique no botão 'Gerar' para invocar um nome anão.",
+      "Percorra a lista de nomes, cada um forjado com cuidado.",
+      "Encontrou um nome que ressoa com sua alma anã? Copie-o!",
+      "Use seu novo nome para seu personagem de RPG, para escrever uma história de fantasia ou até mesmo para seu avatar de jogo online.",
+      "Repita quantas vezes for necessário para encontrar o nome perfeito para cada anão do seu clã!"
+    ],
+    "ru": [
+      "Нажмите кнопку «Сгенерировать», чтобы вызвать гномье имя.",
+      "Прокрутите список имен, каждое из которых выковано с заботой.",
+      "Нашли имя, которое резонирует с вашей гномьей душой? Скопируйте его!",
+      "Используйте свое новое имя для своего персонажа в RPG, для написания фэнтезийной истории или даже для своего аватара в онлайн-играх.",
+      "Повторяйте столько раз, сколько необходимо, чтобы найти идеальное имя для каждого гнома в вашем клане!"
+    ]
+  },
+  "faqs": [
+    {
+      "question": {
+        "en": "Are these dwarf names authentic to fantasy lore?",
+        "ar": "هل أسماء الأقزام هذه أصيلة في تقاليد الفنتازيا؟",
+        "es": "¿Estos nombres de enanos son auténticos de la tradición fantástica?",
+        "fr": "Ces noms de nains sont-ils authentiques de la tradition fantastique?",
+        "zh-cn": "这些矮人名称符合奇幻传说吗？",
+        "ja": "これらのドワーフ名はファンタジーの伝承に忠実ですか？",
+        "pt": "Esses nomes de anões são autênticos da tradição fantástica?",
+        "ru": "Эти гномьи имена аутентичны для фэнтезийной мифологии?"
+      },
+      "answer": {
+        "en": "Our generator draws inspiration from a wide array of classic fantasy literature, tabletop RPGs, and mythological sources to create names that feel genuinely dwarven. While we add our own creative twist, the roots are deep in tradition!",
+        "ar": "يستوحي مولدنا الإلهام من مجموعة واسعة من الأدب الخيالي الكلاسيكي، وألعاب تقمص الأدوار على الطاولة، والمصادر الأسطورية لإنشاء أسماء تبدو قزمية بشكل حقيقي. بينما نضيف لمستنا الإبداعية الخاصة، فإن الجذور عميقة في التقاليد!",
+        "es": "Nuestro generador se inspira en una amplia gama de literatura fantástica clásica, juegos de rol de mesa y fuentes mitológicas para crear nombres que se sienten genuinamente enanos. Aunque añadimos nuestro propio toque creativo, ¡las raíces están profundamente arraigadas en la tradición!",
+        "fr": "Notre générateur s'inspire d'un large éventail de littérature fantastique classique, de jeux de rôle sur table et de sources mythologiques pour créer des noms qui semblent véritablement nains. Bien que nous y ajoutions notre touche créative, les racines sont profondément ancrées dans la tradition !",
+        "zh-cn": "我们的生成器从各种经典奇幻文学、桌面角色扮演游戏和神话来源中汲取灵感，创造出真正具有矮人特色的名字。虽然我们加入了我们自己的创意，但其根源深植于传统！",
+        "ja": "当社のジェネレーターは、幅広い古典的なファンタジー文学、テーブルトップRPG、神話の源からインスピレーションを得て、真にドワーフらしい名前を作成しています。独自の創造的なひねりを加えていますが、そのルーツは伝統に深く根ざしています！",
+        "pt": "Nosso gerador busca inspiração em uma ampla gama de literatura fantástica clássica, RPGs de mesa e fontes mitológicas para criar nomes que pareçam genuinamente anões. Embora adicionemos nosso próprio toque criativo, as raízes estão profundamente na tradição!",
+        "ru": "Наш генератор черпает вдохновение из широкого спектра классической фэнтезийной литературы, настольных ролевых игр и мифологических источников, чтобы создавать имена, которые кажутся по-настоящему гномьими. Хотя мы добавляем свой творческий штрих, корни глубоко уходят в традицию!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I generate names for male and female dwarves?",
+        "ar": "هل يمكنني إنشاء أسماء للأقزام الذكور والإناث؟",
+        "es": "¿Puedo generar nombres para enanos masculinos y femeninos?",
+        "fr": "Puis-je générer des noms pour les nains et les naines?",
+        "zh-cn": "我可以生成男性和女性矮人的名字吗？",
+        "ja": "男性ドワーフと女性ドワーフの名前を生成できますか？",
+        "pt": "Posso gerar nomes para anões masculinos e femininos?",
+        "ru": "Могу ли я генерировать имена для гномов мужского и женского пола?"
+      },
+      "answer": {
+        "en": "Absolutely! Our generator provides a mix of names suitable for all dwarven genders, often drawing on common dwarven naming conventions where gender distinctions are sometimes subtle or based on specific clan traditions. You'll find strong, resonant names for all your characters!",
+        "ar": "بالتأكيد! يوفر مولدنا مزيجًا من الأسماء المناسبة لجميع أجناس الأقزام، غالبًا ما يعتمد على تقاليد تسمية الأقزام الشائعة حيث تكون الفروق بين الجنسين أحيانًا دقيقة أو تستند إلى تقاليد عشائرية محددة. ستجد أسماء قوية ورنانة لجميع شخصياتك!",
+        "es": "¡Absolutamente! Nuestro generador proporciona una mezcla de nombres adecuados para todos los géneros enanos, a menudo basándose en las convenciones de nombres enanos comunes donde las distinciones de género a veces son sutiles o se basan en tradiciones específicas del clan. ¡Encontrarás nombres fuertes y resonantes para todos tus personajes!",
+        "fr": "Absolument ! Notre générateur propose un mélange de noms adaptés à tous les genres nains, s'appuyant souvent sur les conventions de dénomination naines courantes où les distinctions de genre sont parfois subtiles ou basées sur des traditions de clan spécifiques. Vous trouverez des noms forts et résonnants pour tous vos personnages !",
+        "zh-cn": "当然可以！我们的生成器提供了适合所有矮人性别的混合名称，通常借鉴常见的矮人命名惯例，其中性别区分有时很微妙或基于特定的氏族传统。您会为所有角色找到强劲、响亮的名字！",
+        "ja": "もちろんです！当社のジェネレーターは、すべてのドワーフの性別に適した名前の組み合わせを提供しており、性別の区別が微妙であったり、特定のクランの伝統に基づいていることが多い一般的なドワーフの命名規則に基づいています。すべてのキャラクターに強く響く名前が見つかるでしょう！",
+        "pt": "Absolutamente! Nosso gerador oferece uma mistura de nomes adequados para todos os gêneros anões, frequentemente baseando-se em convenções de nomes anões comuns onde as distinções de gênero são às vezes sutis ou baseadas em tradições específicas do clã. Você encontrará nomes fortes e ressonantes para todos os seus personagens!",
+        "ru": "Конечно! Наш генератор предлагает смесь имен, подходящих для гномов всех полов, часто опираясь на общие гномьи конвенции именования, где гендерные различия иногда тонкие или основаны на специфических клановых традициях. Вы найдете сильные, звучные имена для всех своих персонажей!"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for commercial projects?",
+        "ar": "هل يمكنني استخدام هذه الأسماء للمشاريع التجارية؟",
+        "es": "¿Puedo usar estos nombres para proyectos comerciales?",
+        "fr": "Puis-je utiliser ces noms pour des projets commerciaux?",
+        "zh-cn": "我可以将这些名称用于商业项目吗？",
+        "ja": "これらの名前を商業プロジェクトに使用できますか？",
+        "pt": "Posso usar esses nomes para projetos comerciais?",
+        "ru": "Могу ли я использовать эти имена для коммерческих проектов?"
+      },
+      "answer": {
+        "en": "Yes, the names generated are free for you to use in any project, commercial or personal. However, we recommend checking for existing trademarks if you plan to use a generated name for a major commercial brand or product, just to be safe!",
+        "ar": "نعم، الأسماء التي تم إنشاؤها مجانية للاستخدام في أي مشروع، تجاري أو شخصي. ومع ذلك، نوصي بالتحقق من وجود علامات تجارية حالية إذا كنت تخطط لاستخدام اسم تم إنشاؤه لعلامة تجارية أو منتج تجاري كبير، فقط لتكون في أمان!",
+        "es": "Sí, los nombres generados son de uso gratuito en cualquier proyecto, comercial o personal. Sin embargo, recomendamos verificar las marcas comerciales existentes si planea usar un nombre generado para una marca o producto comercial importante, ¡solo para estar seguro!",
+        "fr": "Oui, les noms générés sont libres d'utilisation dans n'importe quel projet, commercial ou personnel. Cependant, nous vous recommandons de vérifier les marques déposées existantes si vous prévoyez d'utiliser un nom généré pour une marque ou un produit commercial majeur, juste pour être sûr !",
+        "zh-cn": "是的，生成的名称您可以免费用于任何项目，无论是商业还是个人用途。但是，如果您计划将生成的名称用于主要的商业品牌或产品，我们建议您检查是否存在现有商标，以确保安全！",
+        "ja": "はい、生成された名前は商用または個人を問わず、あらゆるプロジェクトで自由に使用できます。ただし、主要な商業ブランドや製品に生成された名前を使用する予定がある場合は、念のため既存の商標を確認することをお勧めします！",
+        "pt": "Sim, os nomes gerados são gratuitos para você usar em qualquer projeto, comercial ou pessoal. No entanto, recomendamos verificar a existência de marcas registradas se você planeja usar um nome gerado para uma grande marca ou produto comercial, apenas para estar seguro!",
+        "ru": "Да, сгенерированные имена вы можете свободно использовать в любом проекте, коммерческом или личном. Однако мы рекомендуем проверить наличие существующих товарных знаков, если вы планируете использовать сгенерированное имя для крупного коммерческого бренда или продукта, просто для подстраховки!"
+      }
+    },
+    {
+      "question": {
+        "en": "How many dwarf names can I generate at once?",
+        "ar": "كم عدد أسماء الأقزام التي يمكنني إنشاؤها مرة واحدة؟",
+        "es": "¿Cuántos nombres de enanos puedo generar a la vez?",
+        "fr": "Combien de noms de nains puis-je générer à la fois?",
+        "zh-cn": "我一次可以生成多少个矮人名称？",
+        "ja": "一度にいくつのドワーフ名を生成できますか？",
+        "pt": "Quantos nomes de anões posso gerar de uma vez?",
+        "ru": "Сколько гномьих имен я могу сгенерировать за раз?"
+      },
+      "answer": {
+        "en": "Our generator is designed to provide a batch of unique names with each click, giving you plenty of options to choose from without overwhelming you. Keep clicking for more!",
+        "ar": "تم تصميم مولدنا لتوفير مجموعة من الأسماء الفريدة مع كل نقرة، مما يمنحك الكثير من الخيارات للاختيار من بينها دون إرباكك. استمر في النقر للمزيد!",
+        "es": "Nuestro generador está diseñado para proporcionar un lote de nombres únicos con cada clic, dándote muchas opciones para elegir sin abrumarte. ¡Sigue haciendo clic para más!",
+        "fr": "Notre générateur est conçu pour fournir un lot de noms uniques à chaque clic, vous offrant de nombreuses options sans vous submerger. Continuez à cliquer pour en obtenir plus !",
+        "zh-cn": "我们的生成器旨在每次点击时提供一批独特的名称，为您提供大量选择，而不会让您感到不知所措。继续点击以获取更多！",
+        "ja": "当社のジェネレーターは、クリックするたびに一連のユニークな名前を提供するように設計されており、圧倒されることなく豊富な選択肢を提供します。さらに多くの名前が必要な場合はクリックし続けてください！",
+        "pt": "Nosso gerador foi projetado para fornecer um lote de nomes únicos a cada clique, dando-lhe muitas opções para escolher sem sobrecarregá-lo. Continue clicando para mais!",
+        "ru": "Наш генератор разработан для того, чтобы предоставлять набор уникальных имен при каждом клике, давая вам множество вариантов на выбор, не перегружая. Продолжайте нажимать для получения большего!"
+      }
+    },
+    {
+      "question": {
+        "en": "Do these names have meanings?",
+        "ar": "هل لهذه الأسماء معانٍ؟",
+        "es": "¿Estos nombres tienen significados?",
+        "fr": "Ces noms ont-ils des significations?",
+        "zh-cn": "这些名字有意义吗？",
+        "ja": "これらの名前に意味はありますか？",
+        "pt": "Esses nomes têm significados?",
+        "ru": "Есть ли у этих имен значения?"
+      },
+      "answer": {
+        "en": "While we don't provide direct translations for each generated name, many are constructed from common dwarven linguistic elements that evoke themes of earth, stone, craftsmanship, and valor. The meaning is often implied through their sound and structure, letting your imagination fill in the rich lore!",
+        "ar": "على الرغم من أننا لا نقدم ترجمات مباشرة لكل اسم تم إنشاؤه، إلا أن العديد منها مبني من عناصر لغوية قزمية شائعة تستحضر موضوعات الأرض، الحجر، الحرفية، والشجاعة. غالبًا ما يكون المعنى ضمنيًا من خلال صوتها وبنيتها، مما يتيح لخيالك ملء التقاليد الغنية!",
+        "es": "Aunque no proporcionamos traducciones directas para cada nombre generado, muchos están construidos a partir de elementos lingüísticos enanos comunes que evocan temas de tierra, piedra, artesanía y valor. El significado a menudo se implica a través de su sonido y estructura, ¡permitiendo que tu imaginación llene la rica tradición!",
+        "fr": "Bien que nous ne fournissions pas de traductions directes pour chaque nom généré, beaucoup sont construits à partir d'éléments linguistiques nains courants qui évoquent des thèmes de terre, de pierre, d'artisanat et de valeur. Le sens est souvent implicite à travers leur son et leur structure, laissant votre imagination remplir la riche tradition !",
+        "zh-cn": "虽然我们不为每个生成的名称提供直接翻译，但许多名称是由常见的矮人语言元素构成的，这些元素能唤起大地、石头、工艺和英勇的主题。意义通常通过它们的发音和结构来暗示，让你的想象力来填补丰富的传说！",
+        "ja": "生成された名前ごとに直接的な翻訳は提供していませんが、多くは地、石、職人技、勇気といったテーマを想起させる一般的なドワーフの言語要素から構成されています。意味はしばしばその音と構造を通して暗示され、あなたの想像力が豊かな伝承を埋めることを可能にします！",
+        "pt": "Embora não forneçamos traduções diretas para cada nome gerado, muitos são construídos a partir de elementos linguísticos anões comuns que evocam temas de terra, pedra, artesanato e valor. O significado é frequentemente implícito através de seu som e estrutura, permitindo que sua imaginação preencha a rica tradição!",
+        "ru": "Хотя мы не предоставляем прямых переводов для каждого сгенерированного имени, многие из них построены из общих гномьих лингвистических элементов, которые вызывают темы земли, камня, мастерства и доблести. Смысл часто подразумевается через их звучание и структуру, позволяя вашему воображению заполнить богатую мифологию!"
+      }
+    }
+  ]
+}

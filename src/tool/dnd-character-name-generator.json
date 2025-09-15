@@ -1,0 +1,162 @@
+{
+  "name": {
+    "en": "D&D Character Name Generator",
+    "ar": "مولد أسماء شخصيات D&D",
+    "es": "Generador de Nombres de Personajes de D&D",
+    "fr": "Générateur de Noms de Personnages D&D",
+    "zh-cn": "D&D 角色名称生成器",
+    "ja": "D&Dキャラクター名ジェネレーター",
+    "pt": "Gerador de Nomes de Personagens D&D",
+    "ru": "Генератор имен персонажей D&D"
+  },
+  "description": {
+    "en": "Embark on epic quests with a name as legendary as your hero! Our D&D Character Name Generator crafts unique, immersive, and lore-friendly names for your next adventurer. From valiant warriors to cunning rogues and wise mages, find the perfect moniker to define your character's destiny. Roll for initiative on your naming journey!",
+    "ar": "انطلق في مهام ملحمية باسم أسطوري مثل بطلك! يبتكر مولد أسماء شخصيات D&D لدينا أسماء فريدة وغامرة ومتوافقة مع التقاليد لمغامرك القادم. من المحاربين الشجعان إلى اللصوص الماكرين والسحرة الحكماء، ابحث عن الاسم المثالي لتحديد مصير شخصيتك. ارمِ النرد لبدء رحلة التسمية!",
+    "es": "¡Embárcate en misiones épicas con un nombre tan legendario como tu héroe! Nuestro Generador de Nombres de Personajes de D&D crea nombres únicos, inmersivos y amigables con la tradición para tu próximo aventurero. Desde valientes guerreros hasta astutos pícaros y sabios magos, encuentra el apodo perfecto para definir el destino de tu personaje. ¡Tira iniciativa en tu viaje de nombres!",
+    "fr": "Embarquez pour des quêtes épiques avec un nom aussi légendaire que votre héros ! Notre générateur de noms de personnages D&D crée des noms uniques, immersifs et respectueux de l'histoire pour votre prochain aventurier. Des guerriers valeureux aux roublards rusés et aux mages sages, trouvez le surnom parfait pour définir le destin de votre personnage. Lancez l'initiative pour votre voyage de nommage !",
+    "zh-cn": "用一个像你的英雄一样传奇的名字踏上史诗般的旅程！我们的D&D角色名称生成器为你的下一个冒险家精心打造独特、沉浸式且符合设定的名字。从英勇的战士到狡猾的盗贼和睿智的法师，找到完美的称号来定义你角色的命运。掷骰子，开始你的命名之旅吧！",
+    "ja": "あなたのヒーローと同じくらい伝説的な名前で壮大な冒険に乗り出しましょう！私たちのD&Dキャラクター名ジェネレーターは、あなたの次の冒険者のために、ユニークで没入感があり、伝承に沿った名前を作成します。勇敢な戦士から狡猾な盗賊、賢い魔術師まで、あなたのキャラクターの運命を決定する完璧な呼び名を見つけてください。名付けの旅にイニシアチブを振ってみましょう！",
+    "pt": "Embarque em missões épicas com um nome tão lendário quanto seu herói! Nosso Gerador de Nomes de Personagens D&D cria nomes únicos, imersivos e amigáveis à lore para seu próximo aventureiro. De guerreiros valentes a ladinos astutos e magos sábios, encontre o apelido perfeito para definir o destino de seu personagem. Role a iniciativa em sua jornada de nomes!",
+    "ru": "Отправляйтесь в эпические приключения с именем, столь же легендарным, как ваш герой! Наш Генератор имен персонажей D&D создает уникальные, захватывающие и соответствующие лору имена для вашего следующего искателя приключений. От доблестных воинов до хитрых разбойников и мудрых магов, найдите идеальное прозвище, чтобы определить судьбу вашего персонажа. Бросьте кубик на инициативу в вашем путешествии по именованию!"
+  },
+  "slug": "dnd-character-name-generator",
+  "prompt": {
+    "en": "Generate a D&D character name",
+    "ar": "إنشاء اسم شخصية D&D",
+    "es": "Generar un nombre de personaje de D&D",
+    "fr": "Générer un nom de personnage D&D",
+    "zh-cn": "生成一个D&D角色名称",
+    "ja": "D&Dキャラクター名を生成する",
+    "pt": "Gerar um nome de personagem D&D",
+    "ru": "Сгенерировать имя персонажа D&D"
+  },
+  "icon": "👽",
+  "introduction": {
+    "en": "Are you a Dungeon Master looking to populate your world with memorable NPCs, or a player struggling to find that perfect name for your new character? Look no further! Our D&D Character Name Generator is your ultimate tool for crafting names that breathe life into your fantasy realms. With a vast database of names inspired by various D&D races, classes, and lore, you're just a click away from naming greatness. Prepare to roll high on charisma with a name that truly fits your adventurer!",
+    "ar": "هل أنت سيد الأبراج المحصنة تتطلع إلى ملء عالمك بشخصيات غير قابلة للعب لا تُنسى، أم لاعب يكافح للعثور على الاسم المثالي لشخصيتك الجديدة؟ لا تبحث بعيدًا! مولد أسماء شخصيات D&D لدينا هو أداتك النهائية لابتكار أسماء تضفي الحياة على عوالمك الخيالية. مع قاعدة بيانات واسعة من الأسماء المستوحاة من مختلف أجناس وفئات وتقاليد D&D، أنت على بعد نقرة واحدة من عظمة التسمية. استعد لتحقيق درجة عالية في الكاريزما باسم يتناسب حقًا مع مغامرك!",
+    "es": "¿Eres un Dungeon Master que busca poblar su mundo con PNJs memorables, o un jugador que lucha por encontrar el nombre perfecto para su nuevo personaje? ¡No busques más! Nuestro Generador de Nombres de Personajes de D&D es tu herramienta definitiva para crear nombres que den vida a tus reinos de fantasía. Con una vasta base de datos de nombres inspirados en varias razas, clases y tradiciones de D&D, estás a solo un clic de la grandeza del nombramiento. ¡Prepárate para sacar un alto en carisma con un nombre que realmente se adapte a tu aventurero!",
+    "fr": "Êtes-vous un Maître de Donjon cherchant à peupler votre monde de PNJ mémorables, ou un joueur ayant du mal à trouver le nom parfait pour votre nouveau personnage ? Ne cherchez plus ! Notre générateur de noms de personnages D&D est votre outil ultime pour créer des noms qui insufflent de la vie à vos royaumes fantastiques. Avec une vaste base de données de noms inspirés par les différentes races, classes et traditions de D&D, vous n'êtes qu'à un clic de la grandeur du nom. Préparez-vous à lancer un score élevé en charisme avec un nom qui convient vraiment à votre aventurier !",
+    "zh-cn": "你是想为你的世界填充令人难忘的NPC的地下城主，还是一个正在为新角色寻找完美名字而挣扎的玩家？别再找了！我们的D&D角色名称生成器是你为你的奇幻世界注入生命的名字的终极工具。拥有一个庞大的名字数据库，灵感来源于各种D&D种族、职业和传说，你只需点击一下即可获得伟大的命名。准备好用一个真正适合你冒险家的名字，在魅力上掷出高分吧！",
+    "ja": "あなたは記憶に残るNPCで世界を賑わせたいダンジョンマスターですか、それとも新しいキャラクターにぴったりの名前を見つけるのに苦労しているプレイヤーですか？もう探す必要はありません！私たちのD&Dキャラクター名ジェネレーターは、あなたのファンタジーの世界に命を吹き込む名前を作成するための究極のツールです。様々なD&Dの種族、クラス、伝承にインスパイアされた膨大な名前のデータベースで、あなたはクリック一つで素晴らしい名付けができます。あなたの冒険者に真にふさわしい名前でカリスマ性を高く振る準備をしてください！",
+    "pt": "Você é um Mestre de Jogo procurando povoar seu mundo com PNJs memoráveis, ou um jogador lutando para encontrar o nome perfeito para seu novo personagem? Não procure mais! Nosso Gerador de Nomes de Personagens D&D é sua ferramenta definitiva para criar nomes que dão vida aos seus reinos de fantasia. Com um vasto banco de dados de nomes inspirados em várias raças, classes e tradições de D&D, você está a apenas um clique da grandeza da nomeação. Prepare-se para rolar alto em carisma com um nome que realmente se encaixa no seu aventureiro!",
+    "ru": "Вы Мастер Подземелий, желающий населить свой мир запоминающимися NPC, или игрок, изо всех сил пытающийся найти идеальное имя для своего нового персонажа? Не ищите дальше! Наш Генератор имен персонажей D&D — ваш незаменимый инструмент для создания имен, которые вдохнут жизнь в ваши фэнтезийные миры. С обширной базой данных имен, вдохновленных различными расами, классами и лором D&D, вы всего в одном клике от величия именования. Приготовьтесь к высокому броску на харизму с именем, которое действительно подходит вашему искателю приключений!"
+  },
+  "howToUse": [
+    "Click the 'Generate' button to instantly conjure a new D&D character name.",
+    "Unsatisfied? Click again! The possibilities are as endless as the multiverse.",
+    "Found a name that resonates with your character's backstory? Copy it to your character sheet!",
+    "Use the generated names as a starting point, or dive right into your next adventure with a fresh identity."
+  ],
+  "faqs": [
+    {
+      "question": {
+        "en": "Is this D&D Character Name Generator free to use?",
+        "ar": "هل مولد أسماء شخصيات D&D هذا مجاني للاستخدام؟",
+        "es": "¿Este Generador de Nombres de Personajes de D&D es de uso gratuito?",
+        "fr": "Ce générateur de noms de personnages D&D est-il gratuit ?",
+        "zh-cn": "这个D&D角色名称生成器是免费的吗？",
+        "ja": "このD&Dキャラクター名ジェネレーターは無料ですか？",
+        "pt": "Este Gerador de Nomes de Personagens D&D é gratuito?",
+        "ru": "Бесплатен ли этот Генератор имен персонажей D&D?"
+      },
+      "answer": {
+        "en": "Absolutely! Our generator is 100% free, designed to help every adventurer, from novice to veteran, find their perfect name without spending a single copper piece.",
+        "ar": "بالتأكيد! مولدنا مجاني 100%، مصمم لمساعدة كل مغامر، من المبتدئ إلى المخضرم، في العثور على اسمه المثالي دون إنفاق قطعة نحاسية واحدة.",
+        "es": "¡Absolutamente! Nuestro generador es 100% gratuito, diseñado para ayudar a cada aventurero, desde el novato hasta el veterano, a encontrar su nombre perfecto sin gastar una sola pieza de cobre.",
+        "fr": "Absolument ! Notre générateur est 100% gratuit, conçu pour aider chaque aventurier, du novice au vétéran, à trouver son nom parfait sans dépenser un seul sou.",
+        "zh-cn": "当然！我们的生成器100%免费，旨在帮助每一位冒险家，从新手到老兵，都能找到他们完美的名字，而无需花费一分钱。",
+        "ja": "もちろんです！私たちのジェネレーターは100%無料で、初心者からベテランまで、すべての冒険者が完璧な名前を見つけるのに役立つように設計されており、銅貨一枚も費やす必要はありません。",
+        "pt": "Absolutamente! Nosso gerador é 100% gratuito, projetado para ajudar todo aventureiro, do novato ao veterano, a encontrar seu nome perfeito sem gastar uma única peça de cobre.",
+        "ru": "Абсолютно! Наш генератор на 100% бесплатен, разработан, чтобы помочь каждому искателю приключений, от новичка до ветерана, найти идеальное имя, не потратив ни единой медной монеты."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I specify race or class for the name generation?",
+        "ar": "هل يمكنني تحديد العرق أو الفصل لتوليد الاسم؟",
+        "es": "¿Puedo especificar la raza o clase para la generación de nombres?",
+        "fr": "Puis-je spécifier la race ou la classe pour la génération de noms ?",
+        "zh-cn": "我可以为名称生成指定种族或职业吗？",
+        "ja": "名前生成のために種族やクラスを指定できますか？",
+        "pt": "Posso especificar raça ou classe para a geração de nomes?",
+        "ru": "Могу ли я указать расу или класс для генерации имени?"
+      },
+      "answer": {
+        "en": "Currently, the generator provides a diverse range of names suitable for various D&D settings. While direct race/class filters are not yet implemented, you'll find names with distinct fantasy vibes that can be adapted to your character's background.",
+        "ar": "حاليًا، يوفر المولد مجموعة متنوعة من الأسماء المناسبة لإعدادات D&D المختلفة. بينما لم يتم تطبيق فلاتر العرق/الفئة المباشرة بعد، ستجد أسماء ذات طابع خيالي مميز يمكن تكييفها مع خلفية شخصيتك.",
+        "es": "Actualmente, el generador ofrece una amplia gama de nombres adecuados para diversas configuraciones de D&D. Aunque los filtros directos de raza/clase aún no están implementados, encontrarás nombres con vibraciones fantásticas distintas que se pueden adaptar al trasfondo de tu personaje.",
+        "fr": "Actuellement, le générateur propose une gamme variée de noms adaptés à divers environnements D&D. Bien que les filtres directs de race/classe ne soient pas encore implémentés, vous trouverez des noms avec des ambiances fantastiques distinctes qui peuvent être adaptés à l'arrière-plan de votre personnage.",
+        "zh-cn": "目前，生成器提供了一系列适合各种D&D设定的多样化名称。虽然尚未实现直接的种族/职业筛选器，但你会发现具有独特奇幻氛围的名称，可以根据你的角色背景进行调整。",
+        "ja": "現在、ジェネレーターは様々なD&Dの設定に適した多様な名前を提供しています。直接的な種族/クラスフィルターはまだ実装されていませんが、あなたのキャラクターの背景に合わせて調整できる、明確なファンタジーの雰囲気を持つ名前を見つけることができます。",
+        "pt": "Atualmente, o gerador oferece uma ampla gama de nomes adequados para várias configurações de D&D. Embora os filtros diretos de raça/classe ainda não estejam implementados, você encontrará nomes com vibrações fantásticas distintas que podem ser adaptadas ao histórico do seu personagem.",
+        "ru": "В настоящее время генератор предлагает широкий спектр имен, подходящих для различных настроек D&D. Хотя прямые фильтры расы/класса еще не реализованы, вы найдете имена с отчетливой фэнтезийной атмосферой, которые можно адаптировать к предыстории вашего персонажа."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use these names for my published D&D content?",
+        "ar": "هل يمكنني استخدام هذه الأسماء لمحتوى D&D المنشور الخاص بي؟",
+        "es": "¿Puedo usar estos nombres para mi contenido de D&D publicado?",
+        "fr": "Puis-je utiliser ces noms pour mon contenu D&D publié ?",
+        "zh-cn": "我可以使用这些名称用于我发布的D&D内容吗？",
+        "ja": "これらの名前を公開するD&Dコンテンツに使用できますか？",
+        "pt": "Posso usar esses nomes para meu conteúdo D&D publicado?",
+        "ru": "Могу ли я использовать эти имена для моего опубликованного контента D&D?"
+      },
+      "answer": {
+        "en": "Yes, you are welcome to use the generated names for your personal and commercial D&D content. Let them inspire your stories and enrich your worlds!",
+        "ar": "نعم، نرحب بك لاستخدام الأسماء التي تم إنشاؤها لمحتوى D&D الشخصي والتجاري الخاص بك. دعها تلهم قصصك وتثري عوالمك!",
+        "es": "Sí, puedes usar los nombres generados para tu contenido personal y comercial de D&D. ¡Permíteles inspirar tus historias y enriquecer tus mundos!",
+        "fr": "Oui, vous êtes libre d'utiliser les noms générés pour votre contenu D&D personnel et commercial. Laissez-les inspirer vos histoires et enrichir vos mondes !",
+        "zh-cn": "是的，欢迎您将生成的名称用于您的个人和商业D&D内容。让它们激发您的故事，丰富您的世界！",
+        "ja": "はい、生成された名前は個人的および商業的なD&Dコンテンツに自由にご利用いただけます。あなたの物語を刺激し、世界を豊かにするために活用してください！",
+        "pt": "Sim, você pode usar os nomes gerados para seu conteúdo D&D pessoal e comercial. Deixe-os inspirar suas histórias e enriquecer seus mundos!",
+        "ru": "Да, вы можете использовать сгенерированные имена для своего личного и коммерческого контента D&D. Пусть они вдохновляют ваши истории и обогащают ваши миры!"
+      }
+    },
+    {
+      "question": {
+        "en": "How many names can I generate?",
+        "ar": "كم عدد الأسماء التي يمكنني إنشاؤها؟",
+        "es": "¿Cuántos nombres puedo generar?",
+        "fr": "Combien de noms puis-je générer ?",
+        "zh-cn": "我可以生成多少个名称？",
+        "ja": "いくつの名前を生成できますか？",
+        "pt": "Quantos nomes posso gerar?",
+        "ru": "Сколько имен я могу сгенерировать?"
+      },
+      "answer": {
+        "en": "You can generate an unlimited number of names! Keep clicking to explore endless possibilities until you find the perfect fit for your character or NPC.",
+        "ar": "يمكنك إنشاء عدد غير محدود من الأسماء! استمر في النقر لاستكشاف إمكانيات لا نهاية لها حتى تجد الاسم المثالي لشخصيتك أو شخصية غير قابلة للعب.",
+        "es": "¡Puedes generar un número ilimitado de nombres! Sigue haciendo clic para explorar infinitas posibilidades hasta que encuentres el ajuste perfecto para tu personaje o PNJ.",
+        "fr": "Vous pouvez générer un nombre illimité de noms ! Continuez à cliquer pour explorer des possibilités infinies jusqu'à ce que vous trouviez le nom parfait pour votre personnage ou PNJ.",
+        "zh-cn": "你可以生成无限数量的名称！持续点击以探索无限可能性，直到找到最适合你的角色或NPC的名字。",
+        "ja": "無限の数の名前を生成できます！完璧なキャラクターやNPCの名前が見つかるまで、クリックし続けて無限の可能性を探求してください。",
+        "pt": "Você pode gerar um número ilimitado de nomes! Continue clicando para explorar infinitas possibilidades até encontrar o encaixe perfeito para seu personagem ou NPC.",
+        "ru": "Вы можете сгенерировать неограниченное количество имен! Продолжайте нажимать, чтобы исследовать бесконечные возможности, пока не найдете идеальное имя для своего персонажа или NPC."
+      }
+    },
+    {
+      "question": {
+        "en": "What kind of names does the generator produce?",
+        "ar": "ما نوع الأسماء التي ينتجها المولد؟",
+        "es": "¿Qué tipo de nombres produce el generador?",
+        "fr": "Quel type de noms le générateur produit-il ?",
+        "zh-cn": "生成器会生成什么样的名称？",
+        "ja": "ジェネレーターはどのような名前を生成しますか？",
+        "pt": "Que tipo de nomes o gerador produz?",
+        "ru": "Какие имена генерирует генератор?"
+      },
+      "answer": {
+        "en": "Our generator specializes in fantasy-themed names, drawing inspiration from various D&D lore, real-world mythologies, and classic fantasy literature. You'll find a mix of heroic, mysterious, whimsical, and powerful names suitable for any campaign.",
+        "ar": "يتخصص مُنشئنا في الأسماء ذات الطابع الخيالي، مستوحاة من مختلف تقاليد D&D، والأساطير الواقعية، والأدب الخيالي الكلاسيكي. ستجد مزيجًا من الأسماء البطولية، الغامضة، الغريبة، والقوية المناسبة لأي حملة.",
+        "es": "Nuestro generador se especializa en nombres de temática fantástica, inspirándose en diversas tradiciones de D&D, mitologías del mundo real y literatura fantástica clásica. Encontrarás una mezcla de nombres heroicos, misteriosos, caprichosos y poderosos, adecuados para cualquier campaña.",
+        "fr": "Notre générateur se spécialise dans les noms à thème fantastique, s'inspirant de diverses traditions D&D, de mythologies du monde réel et de littérature fantastique classique. Vous trouverez un mélange de noms héroïques, mystérieux, fantaisistes et puissants, adaptés à toute campagne.",
+        "zh-cn": "我们的生成器专注于奇幻主题名称，灵感来源于各种D&D传说、现实世界神话和经典奇幻文学。你将找到英雄的、神秘的、异想天开的以及强大的名称，适用于任何战役。",
+        "ja": "私たちのジェネレーターは、様々なD&Dの伝承、現実世界の神話、古典的なファンタジー文学からインスピレーションを得た、ファンタジーをテーマにした名前を専門としています。英雄的、神秘的、気まぐれ、そして力強い名前が混在しており、どんなキャンペーンにも適しています。",
+        "pt": "Nosso gerador é especializado em nomes com temas de fantasia, inspirando-se em várias tradições de D&D, mitologias do mundo real e literatura fantástica clássica. Você encontrará uma mistura de nomes heróicos, misteriosos, caprichosos e poderosos, adequados para qualquer campanha.",
+        "ru": "Наш генератор специализируется на фэнтезийных именах, черпая вдохновение из различных лоров D&D, реальных мифологий и классической фэнтезийной литературы. Вы найдете смесь героических, таинственных, причудливых и могущественных имен, подходящих для любой кампании."
+      }
+    }
+  ]
+}

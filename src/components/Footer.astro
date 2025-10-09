@@ -1,5 +1,5 @@
 ---
-import { useTranslations, type Lang,LOCALES } from "@/i18n";
+import { useTranslations, type Lang, LOCALES } from "@/i18n";
 import { getRelativeLocaleUrl } from "astro:i18n";
 import { Icon } from "astro-icon/components";
 import { SITE_TITLE } from "@/consts";
@@ -8,37 +8,45 @@ const t = useTranslations(Astro.currentLocale as Lang);
 const locale = Astro.currentLocale as Lang;
 
 const locales = LOCALES;
-
 ---
 
 <footer class="border-t border-[rgba(55,53,47,0.09)] py-4">
-
     <div class="flex gap-4 items-end justify-center flex-wrap">
-        {Object.keys(locales).map((loc: string) => {
-            const flagIcons = {
-                'en': 'emojione:flag-for-united-states',
-                'es': 'emojione:flag-for-spain', 
-                'ar': 'emojione:flag-for-saudi-arabia',
-                'pt': 'emojione:flag-for-portugal',
-                'fr': 'emojione:flag-for-france',
-                'ru': 'emojione:flag-for-russia',
-                'zh-cn': 'emojione:flag-for-china',
-                'ja': 'emojione:flag-for-japan'
-            };
-            return (
-                <a
-                    href={getRelativeLocaleUrl(loc, Astro.url.pathname.replace(/^\/[^/]+/, ""))}
-                    class="flex items-center gap-1.5 px-2 py-1 rounded-md text-[rgba(55,53,47,0.65)] hover:text-[rgba(55,53,47,0.85)] hover:bg-[rgba(55,53,47,0.08)] transition-colors text-sm"
-                >
-                    <Icon name={flagIcons[loc as keyof typeof flagIcons]} class="w-4 h-4" />
-                    {locales[loc as keyof typeof locales].label}
-                </a>
-            );
-        })}
+        {
+            Object.keys(locales).map((loc: string) => {
+                const flagIcons = {
+                    en: "emojione:flag-for-united-states",
+                    es: "emojione:flag-for-spain",
+                    ar: "emojione:flag-for-saudi-arabia",
+                    pt: "emojione:flag-for-portugal",
+                    fr: "emojione:flag-for-france",
+                    ru: "emojione:flag-for-russia",
+                    "zh-cn": "emojione:flag-for-china",
+                    ja: "emojione:flag-for-japan",
+                };
+                return (
+                    <a
+                        href={getRelativeLocaleUrl(
+                            loc,
+                            Astro.url.pathname.replace(/^\/[^/]+/, ""),
+                        )}
+                        class="flex items-center gap-1.5 px-2 py-1 rounded-md text-[rgba(55,53,47,0.65)] hover:text-[rgba(55,53,47,0.85)] hover:bg-[rgba(55,53,47,0.08)] transition-colors text-sm"
+                    >
+                        <Icon
+                            name={flagIcons[loc as keyof typeof flagIcons]}
+                            class="w-4 h-4"
+                        />
+                        {locales[loc as keyof typeof locales].label}
+                    </a>
+                );
+            })
+        }
     </div>
     <div class="border-t border-[rgba(55,53,47,0.09)] mt-4 mb-4"></div>
 
-    <div class="flex flex-col sm:flex-row justify-between items-center gap-4 px-4">
+    <div
+        class="flex flex-col sm:flex-row justify-between items-center gap-4 px-4"
+    >
         <div class="text-[rgba(55,53,47,0.65)] text-sm">
             {
                 t({
@@ -89,8 +97,13 @@ const locales = LOCALES;
                         })
                     }
                 </a>
+                <a
+                    href="/doritosscript.html"
+                    class="text-[rgba(55,53,47,0.65)] hover:text-[rgba(55,53,47,0.85)] text-sm"
+                >
+                    Doritos Script
+                </a>
             </nav>
         </div>
     </div>
-
 </footer>
